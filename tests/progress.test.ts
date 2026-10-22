@@ -24,4 +24,5 @@ test('malformed local data cannot crash catalog or inject invalid saved stories'
   assert.deepEqual(result.favorites, ['a']);
   assert.deepEqual(result.progress, {});
   assert.equal(result.lastStoryId, null);
+  assert.equal(sanitizeLibrary({ageBand:['all']},[story]).ageBand,'all');
 });

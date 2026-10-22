@@ -51,6 +51,7 @@ export class PlaybackController {
   pause(){this.wantPlaying=false;this.driver?.pause();this.update({playing:false});}
   async seek(seconds:number){
     const target=Number.isFinite(seconds)?Math.max(0,Math.min(seconds,this.snapshot.duration)):0;
+    if(target>=this.snapshot.duration&&this.snapshot.duration>0)this.wantPlaying=false;
     this.update({position:target});
     if(!this.loaded||!this.driver)return;
     const driver=this.driver,generation=this.generation;

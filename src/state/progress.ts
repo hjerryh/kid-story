@@ -23,6 +23,6 @@ export function sanitizeLibrary(value: unknown, stories: Story[]): LibraryData {
       if (p.storyId === id && Number.isFinite(p.version) && typeof p.pageId === 'string' && Number.isFinite(p.seconds) && p.seconds >= 0 && Number.isFinite(p.updatedAt)) progress[id] = p;
     }
   }
-  const ageBand = ['all','3-5','6-8','9-10'].includes(String(input.ageBand)) ? input.ageBand as AgeFilter : 'all';
+  const ageBand = typeof input.ageBand === 'string' && ['all','3-5','6-8','9-10'].includes(input.ageBand) ? input.ageBand as AgeFilter : 'all';
   return {ageBand, favorites, progress, lastStoryId: typeof input.lastStoryId === 'string' && ids.has(input.lastStoryId) ? input.lastStoryId : null};
 }

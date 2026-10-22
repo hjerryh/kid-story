@@ -47,3 +47,8 @@ test('a status tick cannot undo a sleep pause or repeatedly report the same erro
   s[0].emit({error:'unavailable'});
   assert.equal(c.snapshot.error,'unavailable');assert.equal(c.snapshot.playing,false);c.dispose();
 });
+test('seeking to the end stops instead of starting the same audio again', async () => {
+  const {controller:c,sessions:s}=setup();c.select(story('a'),0);s[0].emit({loaded:true});await tick();c.play();await tick();
+  await c.seek(30);assert.equal(c.snapshot.playing,false);assert.equal(c.snapshot.position,30);
+  c.play();await tick();assert.equal(c.snapshot.position,0);assert.equal(c.snapshot.playing,true);c.dispose();
+});

@@ -16,7 +16,21 @@ npm run ios
 npm run android
 ```
 
-原生构建需要对应的 Xcode / Android SDK。可用 `npx expo prebuild` 重新生成原生工程，音频权限和后台配置在 `app.json` 中；应用不需要麦克风权限或登录。
+原生构建需要对应的 Xcode / Android SDK。可用 `npx expo prebuild --no-clean` 更新原生工程，音频权限和后台配置在 `app.json` 中；应用不需要麦克风权限或登录。Expo 58 默认 prebuild 会重建原生目录，已有原生修改时请保留 `--no-clean`。
+
+## 本轮交付
+
+当前生产版预览：<http://localhost:8082>。开发预览：<http://localhost:8081>。
+生产版可在停止服务后按以下命令重新打开：
+
+```sh
+npm run build:web
+python3 -m http.server 8082 --bind 127.0.0.1 --directory dist
+```
+
+iOS 模拟器 Release 包已经构建并实际播放；可安装产物及运行范围见 [原生验证记录](docs/native-verification.md)。它仅适用于 Apple Silicon 上的 iOS 模拟器，不是实体 iPhone 的签名安装包。Android 已通过资源和 Hermes 代码导出，但本机缺少 Android SDK，未生成 APK 或执行 Android 运行验证。
+
+完整测试及交互证据见 [验证记录](docs/verification.md)。后台计时、来电/耳机中断和真机适配仍需相应设备验收。
 
 ## 当前内容
 

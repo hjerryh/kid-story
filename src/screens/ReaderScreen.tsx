@@ -1,6 +1,7 @@
 import React,{useEffect,useRef,useState} from 'react';
-import {View,Text,Image,ScrollView,Pressable,Modal,StyleSheet,useWindowDimensions,ActivityIndicator} from 'react-native';
-import Slider from '@react-native-community/slider';
+import {View,Text,ScrollView,Pressable,Modal,StyleSheet,useWindowDimensions,ActivityIndicator} from 'react-native';
+import {SeekBar} from '../ui/SeekBar';
+import {StoryPicture} from '../ui/StoryPicture';
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import type {Story} from '../content/types';
 import {ageLabel,clockLabel} from '../content/catalog';
@@ -18,6 +19,8 @@ export function ReaderScreen({story,onBack}:{story:Story;onBack:()=>void}){
  const[manualPosition,setManualPosition]=useState(initialPosition.current),[timerOpen,setTimerOpen]=useState(false),[dragPosition,setDragPosition]=useState<number|null>(null);
  const active=playback.storyId===story.id,position=active?playback.position:manualPosition;
  const index=getPageIndex(story,position),page=story.pages[index],favorite=library.favorites.includes(story.id),playing=active&&playback.playing;
+ const readerScroll=useRef<React.ComponentRef<typeof ScrollView>>(null);
+ useEffect(()=>{readerScroll.current?.scrollTo({y:0,animated:false});},[index]);
  const loading=active&&playback.loading,error=active?playback.error:null,ended=position>=story.duration-.1;
  const jump=(seconds:number)=>{if(active)playback.seek(seconds);else setManualPosition(seconds);library.saveProgress(story,seconds);};
  const go=(delta:number)=>{const next=story.pages[index+delta];if(next)jump(next.start);};
@@ -29,10 +32,10 @@ export function ReaderScreen({story,onBack}:{story:Story;onBack:()=>void}){
    <Text numberOfLines={1} style={s.headerTitle}>{story.title}</Text>
    <IconButton name="heart" label={favorite?'取消收藏这个故事':'收藏这个故事'} filled={favorite} onPress={()=>library.toggleFavorite(story.id)}/>
   </View>
-  <ScrollView contentContainerStyle={{paddingHorizontal:wide?42:20,paddingTop:wide?36:15,paddingBottom:28}}>
+  <ScrollView ref={readerScroll} contentContainerStyle={{paddingHorizontal:wide?42:20,paddingTop:wide?36:15,paddingBottom:28}}>
    <View style={[s.readingArea,wide&&{flexDirection:'row',alignItems:'flex-start',gap:42}]}>
     <View style={[s.pictureColumn,wide&&{width:'56%'}]}>
-     <View style={s.pictureFrame}><Image accessibilityLabel={`${story.title}，第 ${index+1} 页插图`} source={page.image} style={s.picture} resizeMode="cover"/><View style={s.pageNumber}><Text style={s.pageNumberText}>{String(index+1).padStart(2,'0')} <Text style={{opacity:.5}}> / {String(story.pages.length).padStart(2,'0')}</Text></Text></View></View>
+     <View style={s.pictureFrame}><StoryPicture key={page.id} label={`${story.title}，第 ${index+1} 页插图`} source={page.image}/><View style={s.pageNumber}><Text style={s.pageNumberText}>{String(index+1).padStart(2,'0')} <Text style={{opacity:.5}}> / {String(story.pages.length).padStart(2,'0')}</Text></Text></View></View>
      {wide&&<View style={s.pageHints}><Text style={s.hint}>一幅画，一小段奇妙。</Text><View style={{flexDirection:'row',alignItems:'center',gap:10}}><IconButton name="previous" label="上一页" disabled={index===0} onPress={()=>go(-1)} style={s.pageNav}/><IconButton name="next" label="下一页" disabled={index===story.pages.length-1} onPress={()=>go(1)} style={s.pageNav}/></View></View>}
     </View>
     <View style={[s.textColumn,wide?{flex:1,paddingTop:13}:{paddingHorizontal:7,paddingTop:23}]}>
@@ -47,15 +50,15 @@ export function ReaderScreen({story,onBack}:{story:Story;onBack:()=>void}){
   </ScrollView>
   <View style={[s.player,{paddingBottom:insets.bottom+15,paddingHorizontal:wide?36:22}]}><View style={s.playerInner}>
    {error&&<Pressable accessibilityRole="button" onPress={playback.retry}><Text accessibilityRole="alert" style={s.error}>{error}　重试 →</Text></Pressable>}
-   <View style={s.seekRow}><Text style={s.time}>{clockLabel(dragPosition??position)}</Text><Slider style={s.slider} accessibilityLabel="故事播放进度" minimumValue={0} maximumValue={story.duration} value={dragPosition??position} minimumTrackTintColor={colors.green} maximumTrackTintColor={colors.line} thumbTintColor={colors.green} onSlidingStart={()=>setDragPosition(position)} onValueChange={setDragPosition} onSlidingComplete={value=>{jump(value);setDragPosition(null);}}/><Text style={s.time}>{clockLabel(story.duration)}</Text></View>
+   <View style={s.seekRow}><Text style={s.time}>{clockLabel(dragPosition??position)}</Text><SeekBar maximum={story.duration} value={dragPosition??position} onStart={()=>setDragPosition(position)} onPreview={setDragPosition} onCommit={value=>{jump(value);setDragPosition(null);}}/><Text style={s.time}>{clockLabel(story.duration)}</Text></View>
    <View style={s.controls}>
-    <View style={[s.controlSide,{width:wide?110:58}]}><Icon name="headphones" size={19} color={colors.muted}/>{wide&&<Text style={s.controlCaption}>{playing?'正在讲给你听':'让故事陪着你'}</Text>}</View>
+    <View style={[s.controlSide,{width:wide?110:44}]}><Icon name="headphones" size={19} color={colors.muted}/>{wide&&<Text style={s.controlCaption}>{playing?'正在讲给你听':'让故事陪着你'}</Text>}</View>
     <View style={s.mainControls}>
      <IconButton name="previous" label="播放上一页" disabled={index===0} onPress={()=>go(-1)} size={48}/>
      <Pressable accessibilityRole="button" accessibilityLabel={error?'重试播放':loading?'正在准备故事':playing?'暂停播放':ended?'再听一次':'播放故事'} onPress={toggle} disabled={loading} style={({pressed})=>[s.playButton,{opacity:pressed?.8:1}]}>{loading?<ActivityIndicator color={colors.white}/>:<Icon name={playing?'pause':'play'} color={colors.white} size={29}/>}</Pressable>
      <IconButton name="next" label="播放下一页" disabled={index===story.pages.length-1} onPress={()=>go(1)} size={48}/>
     </View>
-    <Pressable accessibilityRole="button" accessibilityLabel={`定时关闭，当前${sleepLabel}`} onPress={()=>setTimerOpen(true)} style={[s.controlSide,{alignItems:'flex-end',width:wide?110:58}]}><Icon name="moon" size={20} color={colors.muted}/><Text style={s.controlCaption}>{sleepLabel}</Text></Pressable>
+    <Pressable accessibilityRole="button" accessibilityLabel={`定时关闭，当前${sleepLabel}`} onPress={()=>setTimerOpen(true)} style={[s.controlSide,{alignItems:'flex-end',width:wide?110:44}]}><Icon name="moon" size={20} color={colors.muted}/><Text style={s.controlCaption}>{sleepLabel}</Text></Pressable>
    </View>
   </View></View>
   <Modal visible={timerOpen} transparent animationType="fade" onRequestClose={()=>setTimerOpen(false)}><Pressable onPress={()=>setTimerOpen(false)} style={s.backdrop}><Pressable onPress={()=>{}} style={[s.timerCard,{paddingBottom:insets.bottom+28}]}><View style={s.timerHeader}><Text style={s.timerTitle}>故事轻轻停下来</Text><IconButton name="close" label="关闭定时设置" onPress={()=>setTimerOpen(false)}/></View><Text style={s.timerDescription}>到了时间就暂停，替你记住听到哪里。</Text>{([['end','听完这篇故事'],[15,'15 分钟后'],[30,'30 分钟后'],[null,'不设置定时']] as [SleepMode,string][]).map(([mode,label])=><Pressable key={String(mode)} accessibilityRole="button" accessibilityLabel={label} onPress={()=>{playback.setSleep(mode);setTimerOpen(false);}} style={[s.timerOption,playback.sleep===mode&&{backgroundColor:colors.lightGreen}]}><Text style={s.timerOptionText}>{label}</Text>{playback.sleep===mode&&<Icon name="check" color={colors.green} size={20}/>}</Pressable>)}</Pressable></Pressable></Modal>
