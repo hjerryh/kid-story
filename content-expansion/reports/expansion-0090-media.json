@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0090",
+  "title": "嗒嗒咚，笑声在这里",
+  "version": 1,
+  "bodyCharacters": 487,
+  "pages": 8,
+  "duration": 154.714,
+  "bodySha256": "5c571c9a2692beaaedda8ece0f2729f9759e6494f80f27518a7d5e8a5c89eb14",
+  "audioSha256": "ab7a8f76af206061015f201192f41a7cba9c2abab2db1cd617a66a4e142afecd",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "911999cb1d55278c1c215b9930131e44311e6bd177f523fc6681d5ed9c872705",
+      "bytes": 15920
+    },
+    {
+      "name": "p01",
+      "sha256": "8f25fe0d62017f9772286cc62b963ffe9612f129a58629a27df8341e7d8dfbce",
+      "bytes": 12934
+    },
+    {
+      "name": "p02",
+      "sha256": "95ee499a7190043da485effb8f96a6d47554ce3ed8f329acfa43087eae522336",
+      "bytes": 13230
+    },
+    {
+      "name": "p03",
+      "sha256": "92cf8ebecbdd6a92d2886dd8dd073cfd34f34de7f3786dbf7143d4c9dddafe5d",
+      "bytes": 13352
+    },
+    {
+      "name": "p04",
+      "sha256": "ee06cd86d8394096e6bcb7714a278ab37d1dd8a4d3ca702bd13cb14d838329d0",
+      "bytes": 12134
+    },
+    {
+      "name": "p05",
+      "sha256": "d1eb24cdcc37b55af64455a149f6382f2dc3591fb419b6bf734fa5fa6bfc9b70",
+      "bytes": 13092
+    },
+    {
+      "name": "p06",
+      "sha256": "cb91a2587b707fc7b2b1bd7f72ee7884f9d1abcd38eafc99621f025aeb9c1e54",
+      "bytes": 12362
+    },
+    {
+      "name": "p07",
+      "sha256": "d783fcaa0abc8a1879576dc2c6cf9013172983543d672010ac101695f4358a27",
+      "bytes": 14032
+    },
+    {
+      "name": "p08",
+      "sha256": "27e77e87abb96338b35394b0d7c8923a81fed3d2cb2b4dc4445a07538b7dc54d",
+      "bytes": 16570
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0095",
+  "title": "月亮球的泥裤子",
+  "version": 1,
+  "bodyCharacters": 489,
+  "pages": 8,
+  "duration": 157.042,
+  "bodySha256": "37d5a7012fc9abd87bc893f296ffab2828e6bd0a8e0124ff4123d4d7b4f2b70a",
+  "audioSha256": "f7e006268809fef1ba083e6a927a55e80eb4225856ddae9795f0db1d34c287ab",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f9f6458d827386c96881d83730d1db8bf309ad26b1fe9423cf0dc6b3479d35f1",
+      "bytes": 17660
+    },
+    {
+      "name": "p01",
+      "sha256": "2099e67697a0044377e8d1b50ccc22a2bcb9b8df5ec24b2ebcdf2db5223eea90",
+      "bytes": 16242
+    },
+    {
+      "name": "p02",
+      "sha256": "2947421ddce431de49bdb8f3ef2c34d98351d8c48d87e18ca548f72eac57cfb6",
+      "bytes": 15148
+    },
+    {
+      "name": "p03",
+      "sha256": "dd66ca5107f6afd1123c9bd5828444100c097794e9c3ad76f5ef8cc66e46e1c0",
+      "bytes": 15600
+    },
+    {
+      "name": "p04",
+      "sha256": "c94d94b150c6ce5382d261908429261832aec99c1f5931b996f7a5ab412146b5",
+      "bytes": 14270
+    },
+    {
+      "name": "p05",
+      "sha256": "0511eec89c1daace2cd7a9991c350f5a701eab6aa9fa10618b7b8c57b0ddc47f",
+      "bytes": 14310
+    },
+    {
+      "name": "p06",
+      "sha256": "de0ff1f1c782cb20444c923765cf14a66ce5bf9fdc5c33b77a595f932d3b6558",
+      "bytes": 13708
+    },
+    {
+      "name": "p07",
+      "sha256": "e0d08b9fdc3695b9197d11cc303250de75543842b1517bbf7e0851fcc68affe9",
+      "bytes": 16224
+    },
+    {
+      "name": "p08",
+      "sha256": "04a0431efe2e8406d2765d21929cb7106636a853a78abda3b85177d3c8b90b6e",
+      "bytes": 16526
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

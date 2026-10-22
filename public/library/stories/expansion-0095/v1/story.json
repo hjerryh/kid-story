@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0095",
+  "version": 1,
+  "status": "media-ready",
+  "title": "月亮球的泥裤子",
+  "subtitle": "一场圆滚滚的洗澡",
+  "description": "杏尾答应在晚饭前归还月亮球，可球滚进泥里，擦来擦去反而更脏了。洗澡盆里的月亮球又总往上浮，杏尾得想办法把它好好洗干净。",
+  "ageBand": "3-5",
+  "theme": "借物与归还",
+  "color": "#E8C878",
+  "character": "小狐狸杏尾：橙红色绒毛，白下巴，尾尖雪白，穿浅绿色背带裤。月亮球：奶黄色圆球，有一双小眼睛、一只小鼻子和一张小嘴，会说话，身体柔软，表面光滑。獾店主：灰褐色绒毛，脸上两道黑纹，穿靛蓝色围裙。",
+  "cover": "/library/stories/expansion-0095/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 157.042,
+  "detailUrl": "/library/stories/expansion-0095/v1/story.json",
+  "audio": "/library/stories/expansion-0095/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "风铃街的玩具铺里，住着一只会说话的月亮球。杏尾想借它去院子玩。“晚饭前送回来，要干干净净的。”獾店主说。杏尾抱住圆圆的球：“好呀，我答应！”",
+      "image": "/library/stories/expansion-0095/v1/p01.webp",
+      "start": 0,
+      "end": 18.782
+    },
+    {
+      "id": "p02",
+      "text": "院子里，月亮球蹦一下，杏尾拍一下，扑通扑通，像两颗快乐的小心脏。忽然，球从他手边溜走，滚进花坛旁的湿泥里。“哎呀，我穿上泥裤子啦！”月亮球叫起来。",
+      "image": "/library/stories/expansion-0095/v1/p02.webp",
+      "start": 18.782,
+      "end": 38.164
+    },
+    {
+      "id": "p03",
+      "text": "杏尾赶紧拿出手帕，使劲擦呀擦。泥没有掉，倒铺成了一大片，连球的小鼻尖也变褐色了。街那头飘来饭菜香。杏尾看看铺子的方向，小声说：“这样可不能还回去。”",
+      "image": "/library/stories/expansion-0095/v1/p03.webp",
+      "start": 38.164,
+      "end": 58.098
+    },
+    {
+      "id": "p04",
+      "text": "他把球抱回家，放进一盆浅浅的水里。可球总往上浮，按这边，那边就翘起来。啪嗒！水花溅上杏尾的鼻子。“别按我的头呀。”月亮球说，“我的泥裤子还在呢。”",
+      "image": "/library/stories/expansion-0095/v1/p04.webp",
+      "start": 58.098,
+      "end": 77.96
+    },
+    {
+      "id": "p05",
+      "text": "杏尾松开手，球在水面慢慢转了半圈，湿过的泥正好朝上。他用指头轻轻一抹，泥就掉了。杏尾眨眨眼：“你不用沉下去。我让你的泥裤子，一点一点喝到水！”",
+      "image": "/library/stories/expansion-0095/v1/p05.webp",
+      "start": 77.96,
+      "end": 96.862
+    },
+    {
+      "id": "p06",
+      "text": "他扶着球，转一小下，等一会儿，再用湿布擦一擦。褐色的泥慢慢离开，奶黄色的肚皮露出来了。月亮球舒服地哼起歌。杏尾连尾巴都不摇了，仔细找最后一小块泥。",
+      "image": "/library/stories/expansion-0095/v1/p06.webp",
+      "start": 96.862,
+      "end": 116.052
+    },
+    {
+      "id": "p07",
+      "text": "擦干球的时候，街上的饭香更浓了。杏尾抱着它走进玩具铺：“它滚进泥里了，我刚给它洗好澡。”獾店主接过球，摸摸干爽的球面。月亮球补上一句：“连鼻尖也洗了！”",
+      "image": "/library/stories/expansion-0095/v1/p07.webp",
+      "start": 116.052,
+      "end": 135.626
+    },
+    {
+      "id": "p08",
+      "text": "月亮球坐回自己的软垫，轻轻晃了晃。杏尾也该回家吃饭了。“下次还来玩吗？”球问。“来呀，去离泥远一点的地方。”杏尾挥挥手。风铃叮的一声，像替他们碰了碰小手。",
+      "image": "/library/stories/expansion-0095/v1/p08.webp",
+      "start": 135.626,
+      "end": 157.042
+    }
+  ],
+  "buildHash": "7a56a83acb3c1107bde73fbde27951ead2fa0da20d203d5396dd6cc0eb28ff5a"
+}

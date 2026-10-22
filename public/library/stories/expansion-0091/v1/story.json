@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0091",
+  "version": 1,
+  "status": "media-ready",
+  "title": "点心盒里少一只羊",
+  "subtitle": "热乎乎的小羊要散步",
+  "description": "麦绒想带一盒云羊饼干去野餐，可热乎乎的小饼干不停地走，怎么也装不好。追着它们忙了半天，他发现一只落在瓷盘里的小羊安静下来了。",
+  "ageBand": "3-5",
+  "theme": "慢慢观察",
+  "color": "#A8C9BD",
+  "character": "小獾麦绒，灰褐色绒毛，脸上两道黑纹，穿米白色长袖衫和杏黄色背带裤，胸前有一个圆口袋。云羊饼干白白胖胖，有卷卷的饼干毛和四条短腿。",
+  "cover": "/library/stories/expansion-0091/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 159.514,
+  "detailUrl": "/library/stories/expansion-0091/v1/story.json",
+  "audio": "/library/stories/expansion-0091/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨伞山坡上，每把大伞下面都有一块干草地。小獾麦绒想带云羊饼干去野餐。这种饼干热的时候会走路，凉了才停下。刚出炉的小羊们，正踩着烤盘，哒哒哒地散步呢。",
+      "image": "/library/stories/expansion-0091/v1/p01.webp",
+      "start": 0,
+      "end": 20.51
+    },
+    {
+      "id": "p02",
+      "text": "麦绒拿宽木勺接住一只，放进浅浅的点心盒。刚放好第二只，第一只就迈了出来。他忙着接第三只，前两只已经绕着盒子散步。麦绒的鼻尖，也跟着它们转来转去。",
+      "image": "/library/stories/expansion-0091/v1/p02.webp",
+      "start": 20.51,
+      "end": 40.18
+    },
+    {
+      "id": "p03",
+      "text": "他把木勺横过来，想拦住这群小羊。小羊却沿着勺边拐弯，绕到他的另一只手旁。一只踏进白瓷盘，其余的还在桌布上走。麦绒追得袖子滑下来，赶紧停下整理衣服。",
+      "image": "/library/stories/expansion-0091/v1/p03.webp",
+      "start": 40.18,
+      "end": 59.874
+    },
+    {
+      "id": "p04",
+      "text": "换个高盒子吧！麦绒找来一只，装进两只小羊。里面立刻响起轻轻的嗒嗒声，它们碰着盒壁，转呀转。外面的小羊还没收齐，麦绒已经忙得坐下来，托住圆圆的脸。",
+      "image": "/library/stories/expansion-0091/v1/p04.webp",
+      "start": 59.874,
+      "end": 79.472
+    },
+    {
+      "id": "p05",
+      "text": "咦，瓷盘里那只怎么不走了？麦绒看了一会儿，又轻轻碰碰它的背。凉凉的。旁边一只经过的小羊，背上还暖暖的。他想起来了：小羊身上的热乎气，还没有散完呢。",
+      "image": "/library/stories/expansion-0091/v1/p05.webp",
+      "start": 79.472,
+      "end": 99.238
+    },
+    {
+      "id": "p06",
+      "text": "麦绒把高盒里的小羊请出来，又取来一个大瓷盘，让饼干分开站，谁也不挤谁。他守在盘边，偶尔用木勺接回走到边上的小羊。这次，他不急着往盒子里面装了。",
+      "image": "/library/stories/expansion-0091/v1/p06.webp",
+      "start": 99.238,
+      "end": 117.828
+    },
+    {
+      "id": "p07",
+      "text": "一只停了，两只停了。麦绒看着窗外的雨珠慢慢滚过玻璃，等最后一只也站稳。他再把饼干装进盒子。这回，一只也没走出来。最小的那只还抬着前脚，像在打招呼。",
+      "image": "/library/stories/expansion-0091/v1/p07.webp",
+      "start": 117.828,
+      "end": 138.65
+    },
+    {
+      "id": "p08",
+      "text": "麦绒带着点心盒，坐到山坡的大蓝伞下面。雨点敲着伞顶，饼干香从盒里飘出来。他拿起那只抬脚的小羊，轻轻咬了一口耳朵。咔嚓。今天的小羊，终于走到野餐这里啦。",
+      "image": "/library/stories/expansion-0091/v1/p08.webp",
+      "start": 138.65,
+      "end": 159.514
+    }
+  ],
+  "buildHash": "c586171ea31c0070837dd8501b0f4fcc897f37cf295455238f1c48261a522925"
+}

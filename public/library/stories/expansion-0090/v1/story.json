@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0090",
+  "version": 1,
+  "status": "media-ready",
+  "title": "嗒嗒咚，笑声在这里",
+  "subtitle": "木地板藏着一场雨",
+  "description": "花籽仓库的地板藏着从前的笑声。栗铃想再听一次自己和爷爷的笑，可她怎么也敲不对那天的脚步。一场小小的回想，让她的两只脚先找到了答案。",
+  "ageBand": "3-5",
+  "theme": "旧日笑声",
+  "color": "#C9AD72",
+  "character": "小花栗鼠栗铃，棕黄色毛，背上三条深棕纹，穿浅绿背带裤，戴一枚圆圆的木纽扣。爷爷是灰棕色花栗鼠，戴圆眼镜，穿蓝布马甲。",
+  "cover": "/library/stories/expansion-0090/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 154.714,
+  "detailUrl": "/library/stories/expansion-0090/v1/story.json",
+  "audio": "/library/stories/expansion-0090/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "花籽仓库有一块会记声音的木地板。谁把从前的脚步再敲一遍，它就放出那时候的声音。小花栗鼠栗铃蹲在地上，想听去年下雨时，她和爷爷一起笑的那一回。",
+      "image": "/library/stories/expansion-0090/v1/p01.webp",
+      "start": 0,
+      "end": 18.566
+    },
+    {
+      "id": "p02",
+      "text": "那天究竟笑什么，她已经忘了，只记得笑得肚皮软软的。今天爷爷去隔壁送花籽了。栗铃想在他回来以前，找出这串笑声，像摆好一碟甜点心，等他来听。",
+      "image": "/library/stories/expansion-0090/v1/p02.webp",
+      "start": 18.566,
+      "end": 36.82
+    },
+    {
+      "id": "p03",
+      "text": "栗铃站起来，咚，咚，咚，走了三个大步。地板响起一个响亮的喷嚏。啊，这是爷爷搬进新柜子的那一天！栗铃揉揉鼻子。她要找的笑声，还藏在木头里面呢。",
+      "image": "/library/stories/expansion-0090/v1/p03.webp",
+      "start": 36.82,
+      "end": 56.154
+    },
+    {
+      "id": "p04",
+      "text": "她踮起脚，哒哒哒地跑了几步。地板只送回一阵扫地声。她又慢慢走，还是不对。栗铃坐下来，尾巴垂在脚边：“那天的脚步，是不是从我的脑袋里溜走啦？”",
+      "image": "/library/stories/expansion-0090/v1/p04.webp",
+      "start": 56.154,
+      "end": 74.624
+    },
+    {
+      "id": "p05",
+      "text": "门口的矮门槛让她想起一点点。那天，她抱着一袋花籽，袋口一直遮到鼻尖。她怕撞上门，先挪一下，再挪一下，最后抬起脚，跨过门槛。对了，她还晃了一晃！",
+      "image": "/library/stories/expansion-0090/v1/p05.webp",
+      "start": 74.624,
+      "end": 94.342
+    },
+    {
+      "id": "p06",
+      "text": "栗铃拿起一只空布袋，抱在胸前，让身体试着想一想。轻轻一下，轻轻一下，再踏一个大步。嗒，嗒，咚！木地板忽然响了，先是沙沙雨声，接着是爷爷的一声笑。",
+      "image": "/library/stories/expansion-0090/v1/p06.webp",
+      "start": 94.342,
+      "end": 114.228
+    },
+    {
+      "id": "p07",
+      "text": "“谁把我的小栗铃装进袋子后面啦？”地板里的爷爷问。小小的声音回答：“我是长了尾巴的花籽！”两串笑声滚了出来。栗铃也笑弯了腰。原来，那天是这样开心的呀。",
+      "image": "/library/stories/expansion-0090/v1/p07.webp",
+      "start": 114.228,
+      "end": 134.042
+    },
+    {
+      "id": "p08",
+      "text": "爷爷回来时，栗铃请他坐在门边。嗒，嗒，咚，旧日的雨和笑又响起来。爷爷摸摸空袋子：“这颗花籽长大啦。”栗铃往他怀里一靠。这一次，地板又收下了两串新的笑。",
+      "image": "/library/stories/expansion-0090/v1/p08.webp",
+      "start": 134.042,
+      "end": 154.714
+    }
+  ],
+  "buildHash": "7cae9d1a95431f369229f6afa3184c40e2c379293aa631567e62adbe2550298f"
+}

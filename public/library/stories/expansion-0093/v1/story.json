@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0093",
+  "version": 1,
+  "status": "media-ready",
+  "title": "半朵红花的位置",
+  "subtitle": "雨廊里的小野餐",
+  "description": "杏米要自己选一个地方，在屋檐雨廊吃野餐。可是，刚铺好的小毯子总被风吹得卷起来。最漂亮的位置坐不住，她会把野餐搬到哪里呢？",
+  "ageBand": "3-5",
+  "theme": "自己的选择",
+  "color": "#A99BC8",
+  "character": "小田鼠杏米，浅棕色绒毛、圆耳朵，穿鹅黄色背带裤，挎绿色小布包。毯子卷卷是方形的淡紫色小毯子，四角有白绒球，中央有一张小嘴。",
+  "cover": "/library/stories/expansion-0093/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 170.266,
+  "detailUrl": "/library/stories/expansion-0093/v1/story.json",
+  "audio": "/library/stories/expansion-0093/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨丝挂满屋檐，小田鼠杏米抱着毯子卷卷，走进长长的雨廊。布包里有梨片和软饼。今天，她要自己选个地方吃野餐。卷卷晃着四个白绒球，说：“我也带了四条小尾巴！”",
+      "image": "/library/stories/expansion-0093/v1/p01.webp",
+      "start": 0,
+      "end": 20.486
+    },
+    {
+      "id": "p02",
+      "text": "杏米选了廊口，那里能看见红花低头喝雨。她刚铺好卷卷，呼，一阵风穿过雨廊，毯子两边卷了起来。“我的身子碰到风，就会卷成蛋卷呀！”卷卷说。杏米的脚丫被裹住了。",
+      "image": "/library/stories/expansion-0093/v1/p02.webp",
+      "start": 20.486,
+      "end": 41.644
+    },
+    {
+      "id": "p03",
+      "text": "杏米把卷卷摊平，坐到正中间，再把两条腿伸得直直的。“这样总能压住吧？”风又来了，四个毯角一起翘高，白绒球蹭得她鼻子痒痒。阿嚏！还没吃梨，她先打了一个喷嚏。",
+      "image": "/library/stories/expansion-0093/v1/p03.webp",
+      "start": 41.644,
+      "end": 63.114
+    },
+    {
+      "id": "p04",
+      "text": "她把卷卷挪到柱子旁。柱子挡住一点风，可风绕过柱子，还是钻进毯边。卷卷慢慢合拢，只剩一条窄缝。杏米望望红花，舍不得走。这里这么漂亮，难道还不能吃一顿野餐吗？",
+      "image": "/library/stories/expansion-0093/v1/p04.webp",
+      "start": 63.114,
+      "end": 84.44
+    },
+    {
+      "id": "p05",
+      "text": "肚子咕噜响了。杏米抱起卷卷，往雨廊里面走。经过一只矮木箱时，她发现，垂在箱子后面的白绒球不晃了。她伸出手掌，外边凉飕飕，箱子后面却没有风。杏米停下了脚步。",
+      "image": "/library/stories/expansion-0093/v1/p05.webp",
+      "start": 84.44,
+      "end": 106.414
+    },
+    {
+      "id": "p06",
+      "text": "她先不拿点心，把卷卷铺在箱子后面，坐上去试一试。一阵风过去，毯角没有翘。又一阵风过去，四个白绒球还是软软地躺着。“我的小尾巴可以歇歇啦。”卷卷舒舒服服地说。",
+      "image": "/library/stories/expansion-0093/v1/p06.webp",
+      "start": 106.414,
+      "end": 127.956
+    },
+    {
+      "id": "p07",
+      "text": "这里只能看见半朵红花，杏米又朝廊口望了一眼。她摸摸平平的毯角，说：“我选这里。坐着舒服，梨片也不会滚来滚去。”她打开布包，摆好软饼和梨片，野餐终于开始了。",
+      "image": "/library/stories/expansion-0093/v1/p07.webp",
+      "start": 127.956,
+      "end": 148.442
+    },
+    {
+      "id": "p08",
+      "text": "杏米咬一口软饼，也给卷卷的小嘴喂了一小块。雨点在檐外滴答，滴答。半朵红花晃过来，又晃过去，像在偷偷探头。杏米把脚丫伸得长长的。这一次，没有谁把她卷成蛋卷。",
+      "image": "/library/stories/expansion-0093/v1/p08.webp",
+      "start": 148.442,
+      "end": 170.266
+    }
+  ],
+  "buildHash": "31dd26626f9c2cf18d2cf640682b7914ba795cfad36cf1c0b3f3ed22542949d1"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0094",
+  "version": 1,
+  "status": "media-ready",
+  "title": "抱抱栗里有尾巴味",
+  "subtitle": "一个留到午睡的拥抱",
+  "description": "妈妈出门前，把一个拥抱装进了抱抱栗。蓬蓬想留到午睡时再打开，却在雨后的庭院里提前用掉了它。空空的抱抱栗，还能陪他睡个暖暖的午觉吗？",
+  "ageBand": "3-5",
+  "theme": "想念与安慰",
+  "color": "#B8CDA4",
+  "character": "小松鼠蓬蓬：栗棕色绒毛，奶白色肚皮，蓬松大尾巴，穿浅绿色背带裤。妈妈：深栗色绒毛，穿米黄色长裙，戴橙色头巾。",
+  "cover": "/library/stories/expansion-0094/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 164.818,
+  "detailUrl": "/library/stories/expansion-0094/v1/story.json",
+  "audio": "/library/stories/expansion-0094/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "蓬蓬有一颗抱抱栗，圆圆的，带着小盖子。抱住它，就能存进一个拥抱；打开盖子，拥抱就跑出来。每次只能存一个。妈妈出门前，把蓬蓬和栗子一起抱得暖暖的。",
+      "image": "/library/stories/expansion-0094/v1/p01.webp",
+      "start": 0,
+      "end": 19.886
+    },
+    {
+      "id": "p02",
+      "text": "妈妈去收松果，午睡以后才回来。蓬蓬想把这个拥抱留到上床时。他捧着栗子走进庭院，叶尖滴答，泥土香香。他坐上小板凳，可身旁没有妈妈，板凳显得好长好长。",
+      "image": "/library/stories/expansion-0094/v1/p02.webp",
+      "start": 19.886,
+      "end": 40.252
+    },
+    {
+      "id": "p03",
+      "text": "只打开一点点，行不行？蓬蓬轻轻掀起盖子。呼，妈妈的拥抱一下跑出来，暖暖地围住他的肩膀。他闭上眼，靠了一小会儿。等暖意散去，栗子空了，午睡却还没到。",
+      "image": "/library/stories/expansion-0094/v1/p03.webp",
+      "start": 40.252,
+      "end": 60.93
+    },
+    {
+      "id": "p04",
+      "text": "蓬蓬赶紧合上盖子，又打开。没有拥抱。他把鼻尖伸进去闻，只有淡淡的栗子香。他低头小声说：“我还想留着呢。”一滴眼泪落在裤子上，留下一个深深的小圆点。",
+      "image": "/library/stories/expansion-0094/v1/p04.webp",
+      "start": 60.93,
+      "end": 80.72
+    },
+    {
+      "id": "p05",
+      "text": "一阵风吹来，蓬蓬缩了缩。他合好盖子，把栗子贴在胸前，两只胳膊交叉着抱住自己。左爪摸摸右肩，右爪拍拍左肩，大尾巴围住脚。咦，胸前怎么亮起了一点暖光？",
+      "image": "/library/stories/expansion-0094/v1/p05.webp",
+      "start": 80.72,
+      "end": 101.326
+    },
+    {
+      "id": "p06",
+      "text": "是抱抱栗！原来，刚才他抱住自己，也抱住了栗子。里面装进了一个自己的拥抱。蓬蓬又轻轻抱紧一点，说：“这个抱抱有我的大尾巴味。”他鼻尖还湿着，嘴角却弯了。",
+      "image": "/library/stories/expansion-0094/v1/p06.webp",
+      "start": 101.326,
+      "end": 121.884
+    },
+    {
+      "id": "p07",
+      "text": "午睡时，蓬蓬爬上小床，打开盖子。一个小小的拥抱围过来，恰好贴着他的肩。他还是想妈妈，就把尾巴搭在被角上，轻轻说：“等你回来，我要讲栗子的事。”眼皮慢慢合上了。",
+      "image": "/library/stories/expansion-0094/v1/p07.webp",
+      "start": 121.884,
+      "end": 143.066
+    },
+    {
+      "id": "p08",
+      "text": "醒来时，妈妈已经坐在床边，裙角沾着松针。蓬蓬扑进她怀里，把今天的事慢慢讲完。空栗子躺在枕边，盖子张着。他没有急着装满它。眼下，这个大大的拥抱，他想多抱一会儿。",
+      "image": "/library/stories/expansion-0094/v1/p08.webp",
+      "start": 143.066,
+      "end": 164.818
+    }
+  ],
+  "buildHash": "9924b002a96dbb41fc2fd42814d568d9c4eddf3e3a3b46a3eb389addf9bf81f0"
+}

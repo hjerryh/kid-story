@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0096",
+  "title": "圆咚等来一嘴金光",
+  "version": 1,
+  "bodyCharacters": 524,
+  "pages": 8,
+  "duration": 171.418,
+  "bodySha256": "ef0fe4c1a07e5604692c6efe0599ce73aa2fd313368e78df99a8b02717b37228",
+  "audioSha256": "2293614486f35407f3fa422b619f9595bc985f04721a11eedb6e29ffbd5a42b4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5555a9515c7419e833af7069a86bdef7cd6e5fb68e9360549664039abf4819a5",
+      "bytes": 12484
+    },
+    {
+      "name": "p01",
+      "sha256": "ca8411a068cb7ae1cc535b5e21385d9f1cdb218e76a2788e27269d5cb4c8e054",
+      "bytes": 9358
+    },
+    {
+      "name": "p02",
+      "sha256": "848c80b8fa52685d643aec144009e8d1f0371e40537aea9630640a25ed2bb07a",
+      "bytes": 8076
+    },
+    {
+      "name": "p03",
+      "sha256": "e2b27e68520f3894ad85967a32607d9d15fca5411c9d6ec75ae10b4d0406a8fb",
+      "bytes": 8456
+    },
+    {
+      "name": "p04",
+      "sha256": "f28c95f6f5fe8003ca29b1975050d76b64c77f3f95e5b522ecf27529146fc6ac",
+      "bytes": 7568
+    },
+    {
+      "name": "p05",
+      "sha256": "4a26ec33d53a762c07e8c719347f429f3e311e3f88427d22c1ce46bd8de3c7c1",
+      "bytes": 8292
+    },
+    {
+      "name": "p06",
+      "sha256": "883695bfb38c4818e5efbaf6616883ef1ffdf04886b5e770b39f886b2252dc1f",
+      "bytes": 11642
+    },
+    {
+      "name": "p07",
+      "sha256": "369759c7173442bd2294e8e87dcc5f87fdf46ddef741e4ad07d16fcc10a35fd0",
+      "bytes": 11056
+    },
+    {
+      "name": "p08",
+      "sha256": "a47fdec844bdad53025dfb903c697e877a1b859616f925160daa46a9ed612fde",
+      "bytes": 9954
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

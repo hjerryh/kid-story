@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0089",
+  "title": "云朵糕的大块和小块",
+  "version": 1,
+  "bodyCharacters": 510,
+  "pages": 8,
+  "duration": 161.578,
+  "bodySha256": "07f3f3778d44624166aecf4f72cc39e928175ef2cf7685236630492c6b7e03ab",
+  "audioSha256": "cb720360a856b4fee927b612167c79abac19ecf8431823c0242f8c4ab4ad9b99",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ac746a1470dea4dc4a8a6ca80a069a263b16405d7eadbace3202aa2f644e71b2",
+      "bytes": 17898
+    },
+    {
+      "name": "p01",
+      "sha256": "ec09ad3bbb64ef4a8433e65ce4b9a6092d89272dcf8d0e99d331de6a71c84900",
+      "bytes": 16838
+    },
+    {
+      "name": "p02",
+      "sha256": "77af41e90895284926ff32c665e5c4623da0f507b7d7cf60aad9ad210ac55bca",
+      "bytes": 17472
+    },
+    {
+      "name": "p03",
+      "sha256": "5a35f71b7a65b71b1e3da506daabd0433bcdf476d4bb9aa8002c5762944ef59b",
+      "bytes": 17570
+    },
+    {
+      "name": "p04",
+      "sha256": "09dc5774ea642205fd93c20dc810fe006d0a5f423707d381d1a470a1ba4aad1d",
+      "bytes": 17732
+    },
+    {
+      "name": "p05",
+      "sha256": "b68abd334543ed4ec09243f0c18cc3f400cd0bb19129707012b7e98bd0cd1816",
+      "bytes": 17206
+    },
+    {
+      "name": "p06",
+      "sha256": "425befda94abe34acbdffd6643b389f671d165291222f793103bfb794cc821da",
+      "bytes": 18116
+    },
+    {
+      "name": "p07",
+      "sha256": "0c0a445aebcc4870634beb3f25b043ffa0bccdca4134618b4a5d69dcd29ac18f",
+      "bytes": 16882
+    },
+    {
+      "name": "p08",
+      "sha256": "4e642a600fa201d28a5039bfd536ab40932539098fb8448313b50554fed9848f",
+      "bytes": 16862
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

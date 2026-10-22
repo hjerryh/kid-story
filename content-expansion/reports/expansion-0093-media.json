@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0093",
+  "title": "半朵红花的位置",
+  "version": 1,
+  "bodyCharacters": 528,
+  "pages": 8,
+  "duration": 170.266,
+  "bodySha256": "85360254efa712bff536308d0437e1efb7e4b5b5d2102105964dfa4da9a880ea",
+  "audioSha256": "e95293069f63c557490265e9acdc94dd7fa96046c9d526def5005fe6fee4cf3b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6bc67a8e937fd760fcb838c520085e54e18302e67d425da1ea3abf748f747a2f",
+      "bytes": 12502
+    },
+    {
+      "name": "p01",
+      "sha256": "80c89e4fd1fe2118f4a02ddc7158b3fe9535c6cbf1d3d9fdac394306f8a10aae",
+      "bytes": 10542
+    },
+    {
+      "name": "p02",
+      "sha256": "bd21c6522b65cef640849e3425c6a7ccd18001d012d4f14fba9e6cd2fe8961af",
+      "bytes": 10762
+    },
+    {
+      "name": "p03",
+      "sha256": "a4634e67b6fbeb8bb8b0eba3a3afe86489ae36a8fa934c405c3db9735cdd9083",
+      "bytes": 10702
+    },
+    {
+      "name": "p04",
+      "sha256": "c9ec48f7e2cfc597ddab32f76f925590cde3bf0f43cdcc47f36d1642d526e2d3",
+      "bytes": 10298
+    },
+    {
+      "name": "p05",
+      "sha256": "26eff661ab3eccc7bc9c77e1584135ee006beb5549fd91f02c67ed0346ba9085",
+      "bytes": 10632
+    },
+    {
+      "name": "p06",
+      "sha256": "eea166d8a98c03a1e96ba4bce05caaa1c37bac8fe6bd22615b0dbb47b7c02b5b",
+      "bytes": 10646
+    },
+    {
+      "name": "p07",
+      "sha256": "e793bb487554e57bc2736c89de9c81951227ea7f7795dbf3692a75779be10a79",
+      "bytes": 10820
+    },
+    {
+      "name": "p08",
+      "sha256": "594040dd272ca7877a25a0b7af781388c6f49a29ffb5ce9bfc25b402cb6935ca",
+      "bytes": 10392
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

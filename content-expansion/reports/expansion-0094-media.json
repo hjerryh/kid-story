@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0094",
+  "title": "抱抱栗里有尾巴味",
+  "version": 1,
+  "bodyCharacters": 510,
+  "pages": 8,
+  "duration": 164.818,
+  "bodySha256": "bd7763c830ff5643ec12dcf9459892ee2936cbe300e132d5a70a88457b8eee72",
+  "audioSha256": "ee8c0737810e3c247027bb97e83e4be0031597acf35ebcb4bcc8b9ce9c0f89a0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "1b69803a0d5b648336df6f63f1ea749ad5790f0b32cd42ef24fe9b5f01b364da",
+      "bytes": 15196
+    },
+    {
+      "name": "p01",
+      "sha256": "122183f16c70833072f4fd67f0eba504fb50d0b67764a753e64473da872f91b7",
+      "bytes": 16120
+    },
+    {
+      "name": "p02",
+      "sha256": "4df8d91dfaddb90c251f7a87f708b11df2fed2fc3123468dadab241862522ae8",
+      "bytes": 15068
+    },
+    {
+      "name": "p03",
+      "sha256": "af7f61f5cb77e466132e9cfb2a67f684a719f59d3c9d57d90523dd83c54f5e0d",
+      "bytes": 13598
+    },
+    {
+      "name": "p04",
+      "sha256": "ce86ef506bbb97203de64f09db526f5eeab5c69c0a3bf4e8e645a098a5e0ffa7",
+      "bytes": 13122
+    },
+    {
+      "name": "p05",
+      "sha256": "f1152db986a5fffe1df7db5cf2d017de8948e89b84236f3a2f438b962fd85cdb",
+      "bytes": 13012
+    },
+    {
+      "name": "p06",
+      "sha256": "0efb7aa20765d400eb8567e0c3e322013e3a79b6c396968700cffcb828f3ae15",
+      "bytes": 13266
+    },
+    {
+      "name": "p07",
+      "sha256": "903bea997ce313420dc7847869591a5e888753d51e054d7e386e65966c1c31b0",
+      "bytes": 10138
+    },
+    {
+      "name": "p08",
+      "sha256": "29ed7a7f08b2b5e89d63c46949712c1439f9f57e114249d3b8f7bd2999b9f3d1",
+      "bytes": 15252
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

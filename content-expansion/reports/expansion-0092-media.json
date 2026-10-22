@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0092",
+  "title": "雪花的小裙子",
+  "version": 1,
+  "bodyCharacters": 526,
+  "pages": 8,
+  "duration": 168.658,
+  "bodySha256": "3ecfbeddabd5f7f8458f7c138c611019afe980b4e8a45d71e9a5c752cdc94a9e",
+  "audioSha256": "9a0a1553ab30c5251a7439942184e3618a1e3c0c84870d880c701dd9cab3872f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f3e7f70e3cac7c780d1542e135a915bbb360bc130e3f7fc96e7ec6f30d063f56",
+      "bytes": 15686
+    },
+    {
+      "name": "p01",
+      "sha256": "70cf9cfb43912a80f0c1c77826ae6da69e1ed2dd1a8589e1886f9ee9342ce854",
+      "bytes": 10784
+    },
+    {
+      "name": "p02",
+      "sha256": "a9b2b9960936762105ec6fe4e7dda71fc04f9cd2a9591ca7a9df4d401fbf132b",
+      "bytes": 11894
+    },
+    {
+      "name": "p03",
+      "sha256": "1b2bd5febfc8603a30cc7547ed1088f036e51f02e16b667343802121b9b9f17b",
+      "bytes": 11484
+    },
+    {
+      "name": "p04",
+      "sha256": "c1b39c1501469f18bdbe17b1f8cb32956017fb2d7682bede292731ce7216b2e6",
+      "bytes": 10886
+    },
+    {
+      "name": "p05",
+      "sha256": "d85f6ba4239c65094763c70a5f9ab3f9909aff96454024a124203ebb5252ee61",
+      "bytes": 11626
+    },
+    {
+      "name": "p06",
+      "sha256": "46c94559ad243fef4643e3adac9abe6e8f7f9ff61a6a2fcd002c02a7e2c1a2d5",
+      "bytes": 12570
+    },
+    {
+      "name": "p07",
+      "sha256": "b1638363131bd4285781bedf969daa68ff828f5ed30664b4a619bd90708bed2c",
+      "bytes": 15962
+    },
+    {
+      "name": "p08",
+      "sha256": "b258877483a34490ffbe73bf2aa41404110e8281739d43407d8384174e2f52b3",
+      "bytes": 12828
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

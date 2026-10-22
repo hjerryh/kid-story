@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0091",
+  "title": "点心盒里少一只羊",
+  "version": 1,
+  "bodyCharacters": 514,
+  "pages": 8,
+  "duration": 159.514,
+  "bodySha256": "0854b61246baf8ea0bb28b6b84dd268bf1174d18547463ba2f7f563cd180ced4",
+  "audioSha256": "b3556ccf9b8f16be65bfd3a9c738390e0ec5bd20b13bd0a74bb834d94b6826b3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3bc81d9eedf38b4d24943654cc190ad9521cc1e828ca9676a3ee12d880539dc5",
+      "bytes": 19098
+    },
+    {
+      "name": "p01",
+      "sha256": "cce9087a16aa7d0eeacc33bfd8a0f836bd71918977b097c0fa5554e6302ce8c1",
+      "bytes": 13998
+    },
+    {
+      "name": "p02",
+      "sha256": "cff1521d093e0fe5dc8167fb345f210593873e46ee062804ee74055faf91baef",
+      "bytes": 13656
+    },
+    {
+      "name": "p03",
+      "sha256": "311d063368ddaa38e6e6480e254e3ba92b5a0101832cef63a49cbeccbca9afe8",
+      "bytes": 13680
+    },
+    {
+      "name": "p04",
+      "sha256": "1fc4822eff6ebf380f0835dc2602e79678d89b7d7415b0ca5278e58430495509",
+      "bytes": 12580
+    },
+    {
+      "name": "p05",
+      "sha256": "7a20c5773e36bd0992ea3884715980fc93d70042f44012ebb2eedb1634864bf7",
+      "bytes": 13734
+    },
+    {
+      "name": "p06",
+      "sha256": "025e13c3e32ee6399eed428fe966bc05bf5bc3d1e85fe2119dca7c8cb8dd1fbb",
+      "bytes": 14676
+    },
+    {
+      "name": "p07",
+      "sha256": "54b995e69f49938dc640b9e656abdd366ea673e0bcdebc56473e80d11314164f",
+      "bytes": 14854
+    },
+    {
+      "name": "p08",
+      "sha256": "963e3f6fb08042ccd964048134dfa57a759bda35b23c3c30b213ccfe6bfa21a3",
+      "bytes": 15190
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

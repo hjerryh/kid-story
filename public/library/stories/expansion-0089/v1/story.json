@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0089",
+  "version": 1,
+  "status": "media-ready",
+  "title": "云朵糕的大块和小块",
+  "subtitle": "你来分，我先挑",
+  "description": "纸风车小岛上只剩一块云朵糕。呼呼想和栗栗分着吃，可每次分糕，大块总在自己这边。两位朋友怎样才能坐下来，开开心心地吃点心？",
+  "ageBand": "3-5",
+  "theme": "分享与协商",
+  "color": "#8DCFCB",
+  "character": "小风精呼呼：浅蓝色卷发，圆脸，穿白色短外套、蓝色软鞋，戴一顶尖尖的黄帽子。小刺猬栗栗：棕色软刺，奶油色肚皮，穿绿色背带裤，背红色小布包。",
+  "cover": "/library/stories/expansion-0089/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 161.578,
+  "detailUrl": "/library/stories/expansion-0089/v1/story.json",
+  "audio": "/library/stories/expansion-0089/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "纸风车小岛上，呼呼和栗栗各掏一枚贝壳钱，买下最后一块云朵糕。糕软绵绵的，闻着有梨子的甜香。呼呼抱着纸盒说：“我们去草坡上，一人一块，边看风车边吃！”",
+      "image": "/library/stories/expansion-0089/v1/p01.webp",
+      "start": 0,
+      "end": 19.598
+    },
+    {
+      "id": "p02",
+      "text": "这种糕很特别，手指画一条线，就能沿着线轻轻掰开。呼呼划了一下，掰成两块，大块放在自己面前。栗栗望望小块，又望望大块：“咱们付的钱一样，我也想吃这么多。”",
+      "image": "/library/stories/expansion-0089/v1/p02.webp",
+      "start": 19.598,
+      "end": 39.316
+    },
+    {
+      "id": "p03",
+      "text": "呼呼把两块糕并排摆好。“你看，现在一样长啦。”栗栗绕到旁边看了看：“可是，你那块宽宽的。”呼呼也歪头瞧，果然，大块像小枕头，小块像窄围巾。",
+      "image": "/library/stories/expansion-0089/v1/p03.webp",
+      "start": 39.316,
+      "end": 58.074
+    },
+    {
+      "id": "p04",
+      "text": "呼呼掰下一小角，递给栗栗。“这样呢？”栗栗把两份靠在一起，还是呼呼的多。呼呼摸摸肚子：“我好饿，想多吃一点。”栗栗也摸摸肚子：“我的肚子也在咕噜咕噜呀。”",
+      "image": "/library/stories/expansion-0089/v1/p04.webp",
+      "start": 58.074,
+      "end": 77.888
+    },
+    {
+      "id": "p05",
+      "text": "栗栗想了想，说：“还是你来分，不过分好以后，让我先挑，好吗？”呼呼看看面前的大块，有一点舍不得。如果栗栗挑走它，自己就只剩小块了。他缩回手：“那我重新分。”",
+      "image": "/library/stories/expansion-0089/v1/p05.webp",
+      "start": 77.888,
+      "end": 97.678
+    },
+    {
+      "id": "p06",
+      "text": "呼呼把糕都平平放好，从大块上划下一条，补到小块旁边。他一会儿看看左边，一会儿看看右边，又挪过去一点点碎糕。两份终于差不多了。他把纸盒转向栗栗：“请你挑吧。”",
+      "image": "/library/stories/expansion-0089/v1/p06.webp",
+      "start": 97.678,
+      "end": 117.756
+    },
+    {
+      "id": "p07",
+      "text": "栗栗选了有小糕角的那份。“这个小角，正好最后吃。”呼呼拿起另一份，咬了一大口。梨香软软地铺满嘴巴。他看看栗栗鼓鼓的脸，笑了起来。这回，两个人都没有再盯着对方的糕。",
+      "image": "/library/stories/expansion-0089/v1/p07.webp",
+      "start": 117.756,
+      "end": 139.73
+    },
+    {
+      "id": "p08",
+      "text": "远处的纸风车沙沙转着。栗栗慢慢吃掉最后的小角，呼呼舔掉嘴边的糕屑。两人把空纸盒收好，并排躺在暖草上。一阵风掀起呼呼的帽尖，他轻声笑：“风呀，今天没有剩下的啦。”",
+      "image": "/library/stories/expansion-0089/v1/p08.webp",
+      "start": 139.73,
+      "end": 161.578
+    }
+  ],
+  "buildHash": "dade8aa7fba65f7713b5814b3ae63337d8429a0f4ac030b36d2d79a3ab25b67e"
+}
