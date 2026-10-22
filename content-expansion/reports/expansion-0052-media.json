@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0052",
+  "title": "小马跑过接头啦",
+  "version": 1,
+  "bodyCharacters": 555,
+  "pages": 8,
+  "duration": 175.33,
+  "bodySha256": "6519eadaf5d8d585865e72130cfdef6c49efd606595188ffe8214ee9aecd8839",
+  "audioSha256": "962d14f44d6f412495447d6b1f29da32dede48d63818967cbd21131de13d17e7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5323268ec2608e9419d5caea8ee6166f5feab107e93d6a4045f603fbc635543b",
+      "bytes": 20512
+    },
+    {
+      "name": "p01",
+      "sha256": "d9254aee177a725bf85f21170c3305886e8bb2568fd329dfed7aa64b0a59da29",
+      "bytes": 11784
+    },
+    {
+      "name": "p02",
+      "sha256": "16d68afa8f77490fd41c99257932194c70140d63563b50204fcb53b3d66a3155",
+      "bytes": 12128
+    },
+    {
+      "name": "p03",
+      "sha256": "4b7d1cff0888f7a43cba543b79405aec431b4febdd0a3118424f5d81e06b3c5c",
+      "bytes": 11908
+    },
+    {
+      "name": "p04",
+      "sha256": "8e68fdfd5484ea96c3d4e5ab6c49c613c98740581ab417071fd6a81352cfd462",
+      "bytes": 11546
+    },
+    {
+      "name": "p05",
+      "sha256": "abad527fcc5cb2e054428f7b47da21c376f7a27d8e027ce3428f63214eb2fd14",
+      "bytes": 12980
+    },
+    {
+      "name": "p06",
+      "sha256": "ee8d5b4a38769868f1f9074aa21eab90caa841fe70989f49a43371bfad4f4cc5",
+      "bytes": 12866
+    },
+    {
+      "name": "p07",
+      "sha256": "22fdb88d5bc3fc3a18ebadc9af13cc3924573cb6eeac1e7fd59d060e068e34ac",
+      "bytes": 17774
+    },
+    {
+      "name": "p08",
+      "sha256": "393a52e53198d4e411cb0d1d10f919a53e4ba8eb15f3b3737cf2b73c1a09c351",
+      "bytes": 16876
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

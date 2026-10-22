@@ -136,6 +136,17 @@ def record_page(story: dict, page: dict, version: str, force: bool, env: dict) -
             return pcm
         except (RuntimeError, wave.Error, EOFError):
             pass
+    compressed = stem.with_suffix('.mp3')
+    if compressed.exists() and not force:
+        temporary_pcm = stem.with_suffix('.restore.wav')
+        try:
+            run([tool('ffmpeg'), '-v', 'error', '-y', '-i', str(compressed), '-ar',
+                 str(SAMPLE_RATE), '-ac', '1', '-c:a', 'pcm_s16le', str(temporary_pcm)])
+            pcm_frames(temporary_pcm)
+            temporary_pcm.replace(pcm)
+            return pcm
+        except (RuntimeError, wave.Error, EOFError):
+            temporary_pcm.unlink(missing_ok=True)
     text_file = stem.with_suffix('.txt')
     text_file.write_text(page['text'], encoding='utf-8')
     raw = stem.with_suffix('.partial.mp3')
@@ -251,6 +262,25 @@ def build_story(story: dict, version: str, force: bool, env: dict) -> dict:
     return report
 
 
+def compact_pcm(story_id: str) -> int:
+    """Remove regenerable PCM only after final audio and timing hashes verify."""
+    if not re.fullmatch(r'expansion-\d{4}', story_id):
+        raise ValueError('Invalid expansion ID for cache compaction')
+    folder = CACHE / story_id
+    report = json.loads((folder / 'report.json').read_text())
+    assert report['audioSha256'] == file_hash(folder / 'narration.mp3')
+    assert report['timingSha256'] == file_hash(folder / 'timing.json')
+    candidates = [folder / 'combined.wav'] + [
+        p for p in (folder / 'pages').glob('*.wav')
+        if '.partial.' not in p.name and '.restore.' not in p.name and p.with_suffix('.mp3').is_file()]
+    removed = 0
+    for file in candidates:
+        if file.is_file():
+            removed += file.stat().st_size
+            file.unlink()
+    return removed
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--input', type=Path, required=True, help='JSON story or array of complete stories')
@@ -258,6 +288,7 @@ def main() -> int:
     parser.add_argument('--engine', choices=['edge'], required=True, help='Explicit synthesis engine; no silent fallback')
     parser.add_argument('--jobs', type=int, choices=[1, 2], default=2)
     parser.add_argument('--force', action='store_true')
+    parser.add_argument('--keep-pcm', action='store_true', help='Keep regenerable WAV intermediates for diagnostics')
     args = parser.parse_args()
     data = json.loads(args.input.read_text(encoding='utf-8'))
     stories = data if isinstance(data, list) else [data]
@@ -284,7 +315,10 @@ def main() -> int:
         for future in as_completed(futures):
             story_id = futures[future]
             try:
-                completed.append(future.result())
+                report = future.result()
+                if not args.keep_pcm:
+                    compact_pcm(story_id)
+                completed.append(report)
             except Exception as error:
                 failure = {'story': story_id, 'error': str(error)}
                 failures.append(failure)

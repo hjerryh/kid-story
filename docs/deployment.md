@@ -4,13 +4,13 @@
 
 ## 发布内容
 
-- 当前发布：`20261022-expansion-40-v1`，基于 `da28d00` 后的故事库扩展代码，Expo Web 生产导出。
-- 46篇完整故事：原有6篇，加上`expansion-0001`至`expansion-0040`。新增496张插图/封面和40条完整旁白（11956.440秒）。1000篇扩展目标仍在进行中。
-- 发布包含785个文件（包含已生成的旧素材版本），195965795字节；服务器release还保留旧版客户端的静态资源，共888个文件。
-- 发布包：`artifacts/StoryIsland-Web-20261022-expansion-40-v1.tar.gz`。
-- 发布包 SHA-256：`b25477f0ec12c8284daa9f12bee57a9ad6585b3a06b3740213b35f266ec23b14`。
-- 文件校验清单：`artifacts/StoryIsland-Web-20261022-expansion-40-v1.manifest.json`；服务器解包后的全部785个文件均通过SHA-256核对，之后才原子切换`current`。
-- 当前JS：`index-d945c738ff3f83fcdacd18ab8cc87d89.js`。上一版`20261022-2a60c8a`继续保留以便回退。
+- 当前发布：`20261022-expansion-65-v1`，基于`80a1261`后的第二批扩展，Expo Web生产导出。
+- 71篇完整故事：原有6篇，加上`expansion-0001`至`expansion-0065`。扩展库共有692页、757张插图/封面和65条完整旁白（17530.738秒）。1000篇扩展目标仍在进行中。
+- 本次增加0041–0065共25篇、236页、261张图、5574.298秒旁白。当前清单1096个文件，256213084字节；增量仅上传312个变化文件，60287156字节。
+- 发布包：`artifacts/StoryIsland-Web-20261022-expansion-65-v1.incremental.tar.gz`。
+- 发布包SHA-256：`7563af0989f25c6a28fbabd164c7a5209a1f7229b0f3796b7767bc9dd39ee510`。
+- 文件清单：`artifacts/StoryIsland-Web-20261022-expansion-65-v1.manifest.json`；服务器全部1096个文件通过SHA-256核对后才原子切换`current`。
+- 当前JS：`index-d945c738ff3f83fcdacd18ab8cc87d89.js`。上一版`20261022-expansion-40-v1`保留可回退；未变化的媒体通过硬链接复用，已实测同一音频的inode一致。
 
 这是独立的静态网站，不依赖本机预览服务、Node后端、数据库或在线TTS。收藏和阅读位置保存在访问者自己的浏览器内；本机预览域名下的数据不会迁移到正式域名。
 
@@ -19,8 +19,8 @@
 SSH连接：`jingtian-server`，用户`ubuntu`。公开DNS从`kid-store.jentin.cn`经`jentin.cn`解析到`124.221.85.250`。
 
 - 站点目录：`/www/wwwroot/kid-store.jentin.cn/`
-- 当前资源：`current -> releases/20261022-expansion-40-v1`
-- 服务器校验清单：`manifests/20261022-expansion-40-v1.json`
+- 当前资源：`current -> releases/20261022-expansion-65-v1`
+- 服务器校验清单：`manifests/20261022-expansion-65-v1.json`
 - 更新前的站点配置备份：`manifests/20261022-expansion-40-v1.nginx-before.conf`
 - 证书验证目录：`shared/.well-known/acme-challenge/`
 - Nginx站点配置：`/www/server/panel/vhost/nginx/kid-store.jentin.cn.conf`
@@ -40,13 +40,17 @@ SSH连接：`jingtian-server`，用户`ubuntu`。公开DNS从`kid-store.jentin.c
 
 ## 上线验证
 
-- 当前发布的全部785个文件均以HTTPS返回200，长度与本地匹配；40篇远程详情及456页内容已通过应用实际解析器校验。
-- 40条新MP3的`Range: bytes=1024-2047`全部返回206，`Content-Range`和1024字节响应逐条与本地一致。
-- 远程索引包含40篇并使用no-cache；版本化资源使用immutable；不存在的音频、JS、图片均返回404。
-- 线上UI显示46篇，24篇/页，第二页22篇；搜索“松鼠”得到4篇，9–10岁筛选显示12篇。
-- 《松鼠闻到的花香》实际播放至0:22并自动翻至第2页；暂停后下一页定位第3页0:43；刷新后收藏仍在，继续阅读恢复相同页/位置且保持暂停。
-- 《灯塔熄灯以后的晚上》实际播放至1:18、第3页；暂停后翻页定位第4页1:31。检查期间浏览器控制台没有error/warn记录。
-- 当前证据：`artifacts/expansion-live-http-verification.json`、`artifacts/expansion-live-home.png`、`artifacts/expansion-live-reader.png`。本次未在所有终端逐篇全程听完40条音轨。
+- 当前1096个文件均以HTTPS返回200，长度匹配本地；65篇远程详情及692页内容通过应用实际解析器校验。
+- 65条新MP3的`Range: bytes=1024-2047`均返回206，`Content-Range`及1024字节响应逐条匹配本地。
+- 索引65篇且使用no-cache；版本化素材使用immutable；不存在的音频、JS、图片均返回404。
+- 线上UI显示71篇、3页列表。搜索“牧星”得到1篇，打开《牧星歌里的土豆》可播放并自动翻至第3页（实测1:08）。
+- 暂停、收藏、翻页后停在第5页1:41；刷新后通过继续阅读恢复同页、同位置、收藏状态，并保持暂停。浏览器没有error/warn记录。
+- 证据：`artifacts/expansion-65-live-http-verification.json`、`artifacts/expansion-65-live-home.png`、`artifacts/expansion-65-live-reader.png`、`artifacts/expansion-65-live-restored.png`。本次未在所有终端逐篇全程听完65条音轨。
+- 增量部署脚本9项测试通过，并经独立审阅与故障注入验证回退、清单快照、并发保护和不可变路径。此次Nginx配置未改变，正确二进制的`-t`通过。
+
+### 首批40篇发布的历史验证
+
+`20261022-expansion-40-v1`新增40篇，使网站达到46篇。785文件的服务器SHA-256、HTTPS长度和40条音频Range验证通过。实测搜索“松鼠”4篇、9–10岁12篇、分页24+22；《松鼠闻到的花香》刷新恢复第3页0:43和收藏，《灯塔熄灯以后的晚上》播放推进并翻页。历史证据保留于`artifacts/expansion-live-*`及`content-expansion/reports/batch-001-publication.md`。
 
 ### 首次六篇发布的历史验证
 
@@ -62,6 +66,12 @@ SSH连接：`jingtian-server`，用户`ubuntu`。公开DNS从`kid-store.jentin.c
 ## 后续更新
 
 更新时先通过项目检查并执行`npm run build:web`，将新的`dist/`上传至新的release目录，验证资源完整性后原子切换`current`软链接；保留上一版目录便于回退。不要向正在使用的release目录逐个覆盖文件。
+
+后续批次使用`python3 scripts/deploy-web.py --release <唯一发布标识>`准备增量发布包、上传并原子切换；`--prepare-only`仅生成本地清单与发布包。脚本沿用`jingtian-server`，不会更改SSH身份或全局配置。每次仍校验新release的全部清单文件，增量包仅传输变化的文件。
+
+新release通过硬链接复用未变化的文件，新入口与新增素材写入独立文件再替换；不会通过硬链接原地改写旧release。发布锁和预期旧版本检查避免并发切换，旧客户端的静态资源继续保留。安装逻辑由`tests/deploy_web_test.py`验证，测试命令为`python3 -m unittest discover -s tests -p '*_test.py'`。
+
+发布后运行`python3 scripts/verify-web-release.py`，核对全部HTTPS文件长度、完整索引字节、最新音频Range、缓存策略及404，并再次做浏览器交互验收。脚本不会把仅上传成功当作线上验收完成。
 
 在macOS打包时可使用`COPYFILE_DISABLE=1 tar --no-xattrs -czf <发布包> -C dist .`，避免携带macOS扩展属性。仅修改资源且不改Nginx配置时，无需重启或重载Nginx。
 

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0064",
+  "title": "藤兜的左边在哪儿",
+  "version": 1,
+  "bodyCharacters": 1026,
+  "pages": 12,
+  "duration": 306.186,
+  "bodySha256": "6f72468c9881e29a527276930ab69bf6e228f304284d01787800a79055921d54",
+  "audioSha256": "25d623524ef77c3ad746ae7c626f4e4c8dc6bf49e129abcd2440ead5676bd09a",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "cf135e5d1659edfeec29d0f7833c726bc7e3dd8f3a1329299d0d7ece88797b52",
+      "bytes": 26954
+    },
+    {
+      "name": "p01",
+      "sha256": "a0aaddd16592f01e9ff52e7f7e57d777723e741a7852962989d035c8479ed143",
+      "bytes": 18718
+    },
+    {
+      "name": "p02",
+      "sha256": "89312eae243a6555af4e343635bc4366b082bfd08738230eed6e1a4f95ef4afd",
+      "bytes": 22988
+    },
+    {
+      "name": "p03",
+      "sha256": "80ab45f5a13902167f31369a1d75befe466f47a90fb7f6eafb4c8cab1b6b0ab9",
+      "bytes": 24812
+    },
+    {
+      "name": "p04",
+      "sha256": "0d9c2ef77bdce63e9be557bc9424b1d5fbaa1158700c78c80faee49b85cbed88",
+      "bytes": 23816
+    },
+    {
+      "name": "p05",
+      "sha256": "6325186aa258678d111ae30607273a01776e9661633f30aab4d2f8492ad96116",
+      "bytes": 24282
+    },
+    {
+      "name": "p06",
+      "sha256": "e1b5cee54d6c26cab8c79684d302530596039003c1921817a2b79822774f11d1",
+      "bytes": 24358
+    },
+    {
+      "name": "p07",
+      "sha256": "f885dbbe40730bc5872c1d6bd8c684f823db98e13e770b0ffa48e236472de2c9",
+      "bytes": 23296
+    },
+    {
+      "name": "p08",
+      "sha256": "e391f5f6355d81f68c1d0bd26b6c172009cb101976768ee3157e0f4a189ae4d7",
+      "bytes": 24546
+    },
+    {
+      "name": "p09",
+      "sha256": "5657d526e0421283bdc0b31f6728661858ce3b40cf46f7df7e6ad76042a54608",
+      "bytes": 23872
+    },
+    {
+      "name": "p10",
+      "sha256": "f40aabd33ecdd4132091007a30f3acb2e51c14db6dd5ee5aa9275cb5b19e12d3",
+      "bytes": 23372
+    },
+    {
+      "name": "p11",
+      "sha256": "dbbba3eba81dcae7e4be86e5079574b6e98f98d6f6510325325f2ae66f5f21e4",
+      "bytes": 17028
+    },
+    {
+      "name": "p12",
+      "sha256": "79949a80ab7025e68f55cc56c0977f64820b738128cfabd1e00c0718d5e17d03",
+      "bytes": 23644
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

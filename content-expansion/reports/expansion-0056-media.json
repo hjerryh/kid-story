@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0056",
+  "title": "抱瓣果松开小手",
+  "version": 1,
+  "bodyCharacters": 541,
+  "pages": 8,
+  "duration": 173.314,
+  "bodySha256": "06c400539ab689dc9ffff7fec551d11a48258621eca3d5d366725920fe1fed4e",
+  "audioSha256": "48d612a80b3240054300f5f217617703af53a32e124b118e7ead68c9c8fed4e4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b39c507bbe4a67de6c12c0a2bc904c1ee9ee26a95fbbc200881918d390b88cc3",
+      "bytes": 23544
+    },
+    {
+      "name": "p01",
+      "sha256": "fda1f057e4d0695e219a2f9cf9f5d32ea94f8e0a51b261625a88e063da7acb73",
+      "bytes": 17328
+    },
+    {
+      "name": "p02",
+      "sha256": "07265561f1ad45734f47dce4d7933a40276f09a6c20fd87712cfe89bf7163b7f",
+      "bytes": 18204
+    },
+    {
+      "name": "p03",
+      "sha256": "1dfc797ac6cefb30523c09c50edfbd5df42014e4a523cb42be60346dc7eda164",
+      "bytes": 14936
+    },
+    {
+      "name": "p04",
+      "sha256": "68907bb9937942211b82fc7d3e80506ceb202515f8c6e45ab6353ee6936c3742",
+      "bytes": 13128
+    },
+    {
+      "name": "p05",
+      "sha256": "eea89e958c3175c429275141e9a089d8ae77641bfe13e77fdb8bf34f02b8a26c",
+      "bytes": 18510
+    },
+    {
+      "name": "p06",
+      "sha256": "f7df96156c77f41bd23f5519ee1c85d8a1a50c755a2b5d106f1081cb6dbf4aa7",
+      "bytes": 15372
+    },
+    {
+      "name": "p07",
+      "sha256": "277c61037872b1c6464ddcd1ea2937056a4bb23646f28b52d8a01c93b53d5b65",
+      "bytes": 15666
+    },
+    {
+      "name": "p08",
+      "sha256": "21dcb63bc454960e7c816fae241d3e04930ef8b5f9617c9f3a02b4c934364e5e",
+      "bytes": 15640
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

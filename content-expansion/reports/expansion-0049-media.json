@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0049",
+  "title": "米米的十个数",
+  "version": 1,
+  "bodyCharacters": 546,
+  "pages": 8,
+  "duration": 179.122,
+  "bodySha256": "bac6925f479be11164c5c718f4bd8572ade488e832289f01e8ad9bdb4f91145a",
+  "audioSha256": "1df4bc053df6ccf14991690cb9caa7a04032cadb62ef65dfc0f621018be763e4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d421ba273da3493c6b28d3bdeaa306dfe07967f5eef17a3d626157ec9ce07511",
+      "bytes": 19574
+    },
+    {
+      "name": "p01",
+      "sha256": "2e10ac4f2a4a581e778e1f5cd1a55a0ba9bdc413c80bb8b6f672bdff176b04b8",
+      "bytes": 15174
+    },
+    {
+      "name": "p02",
+      "sha256": "f796fafa42da8bc0326986d2c5509fce3ae75d10c556a5dd979b7b3a3f0a7420",
+      "bytes": 15872
+    },
+    {
+      "name": "p03",
+      "sha256": "43c52e8fb6ec79ec383a8c273f868c1a5630fd2e0575d70ae0de615cf638a2d2",
+      "bytes": 16202
+    },
+    {
+      "name": "p04",
+      "sha256": "75d90b9204231fef3c77261388eb708988d21092d841d59ce65df16aa776549a",
+      "bytes": 15864
+    },
+    {
+      "name": "p05",
+      "sha256": "318131cee04baf91830197f412a3cf4359cec388416f2aa1418b5f990fa648d3",
+      "bytes": 15762
+    },
+    {
+      "name": "p06",
+      "sha256": "e02aa3485f87dbe92a49476f113a635732e7313ee5d55ba4ab4f58d1f970072f",
+      "bytes": 15852
+    },
+    {
+      "name": "p07",
+      "sha256": "c729e5436f61e7e2f426172fc86a60ca4182d3489f75723a2fbc4b723b91b919",
+      "bytes": 16232
+    },
+    {
+      "name": "p08",
+      "sha256": "0d5bd5c6af8a0da072b91c397edc8782f7fa1f474dc80e8b1f5783be51b920be",
+      "bytes": 13052
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

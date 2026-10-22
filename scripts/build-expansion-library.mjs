@@ -10,6 +10,8 @@ import {middleArtwork} from './expansion-art/middle.mjs';
 import {middleLastArtwork} from './expansion-art/middle-last.mjs';
 import {olderArtwork} from './expansion-art/older.mjs';
 import {middleExtraArtwork} from './expansion-art/middle-extra.mjs';
+import {secondYoungArtwork} from './expansion-art/second-young.mjs';
+import {secondMiddleArtwork} from './expansion-art/second-middle.mjs';
 
 const ROOT=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const args=process.argv.slice(2), inputAt=args.indexOf('--input');
@@ -37,7 +39,8 @@ let previous={schemaVersion:1,stories:[]};
 try{previous=await json(path.join(library,'index.json'));}catch(error){if(error.code!=='ENOENT')throw error;}
 assert.equal(previous.schemaVersion,1);
 const index=new Map(previous.stories.map(s=>[s.id,s]));
-const artworkFiles=(await fs.readdir(path.join(ROOT,'scripts/expansion-art'))).filter(name=>name.endsWith('.mjs')).sort();
+// Hash only registered, reviewed renderers. Unpublished artists may work in parallel.
+const artworkFiles=['first-three','young','middle','middle-extra','middle-last','older','second-young','second-middle'].map(name=>name+'.mjs').sort();
 const artworkHash=hash(Buffer.concat(await Promise.all([
  ...artworkFiles.map(name=>fs.readFile(path.join(ROOT,'scripts/expansion-art',name))),
  fs.readFile(path.join(ROOT,'scripts/render-illustrations.mjs')),
@@ -51,6 +54,8 @@ for(let id=18;id<=21;id++)renderers.set(id,middleArtwork);
 for(let id=22;id<=26;id++)renderers.set(id,middleExtraArtwork);
 for(let id=27;id<=30;id++)renderers.set(id,middleLastArtwork);
 for(let id=32;id<=40;id++)renderers.set(id,olderArtwork);
+for(let id=41;id<=56;id++)renderers.set(id,secondYoungArtwork);
+for(let id=57;id<=65;id++)renderers.set(id,secondMiddleArtwork);
 const completed=[],skipped=[];
 for(const story of manuscripts){
  assert(/^expansion-\d{4}$/.test(story.id),'Invalid expansion ID');

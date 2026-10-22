@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0053",
+  "title": "小布熊等着下一句",
+  "version": 1,
+  "bodyCharacters": 563,
+  "pages": 8,
+  "duration": 181.282,
+  "bodySha256": "a68e4aa9db5f5fb7afb02e80ead6f190b2bc42cecdd8eb3c4ead2557d3ec9ee9",
+  "audioSha256": "1bbf9ab3ca5caa061811a12bdd50a086723a1942798471ad7c79d8e74de1075f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f1ff0cff4443e96c7836bd514c6bdba3368ca773460bdeac0d4926d950884bd0",
+      "bytes": 20394
+    },
+    {
+      "name": "p01",
+      "sha256": "96dbef867c534f936b7c52c8e91a49c874e483809168dd6ba8abd529e45e9fb3",
+      "bytes": 15754
+    },
+    {
+      "name": "p02",
+      "sha256": "e9ccd5d14ec17c75323d0352690053fd1ad724d0e644f02105744554d72ada1e",
+      "bytes": 16660
+    },
+    {
+      "name": "p03",
+      "sha256": "d9bcc980684d1ddb483c4cc184804cbe42e67b4d60ae76c354d90cb32199470e",
+      "bytes": 16850
+    },
+    {
+      "name": "p04",
+      "sha256": "401b1967cee2d70a91add7f59d9c437c8d84356feed86bdcb34ae4ed3912fa24",
+      "bytes": 18392
+    },
+    {
+      "name": "p05",
+      "sha256": "b9bcee4db7acd7aafbf81d3b19e9a407b6f7b414aefd0d1151f71792c66a90e2",
+      "bytes": 18084
+    },
+    {
+      "name": "p06",
+      "sha256": "9824920fbb025ee6b3dbbbfba2374fdc9dd3c6dcee1edabd052171d5058dd31a",
+      "bytes": 15340
+    },
+    {
+      "name": "p07",
+      "sha256": "8eff3acd2cfea9a269e0de4ce1fa5006854f8e2bea466647a6218f56b733c723",
+      "bytes": 15380
+    },
+    {
+      "name": "p08",
+      "sha256": "69dfcffbe90af429bad26bccf8a2109eae9e9a284088dab667b61d93051ec68d",
+      "bytes": 15678
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

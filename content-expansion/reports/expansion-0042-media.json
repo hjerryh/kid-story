@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0042",
+  "title": "大帆后面听不见",
+  "version": 1,
+  "bodyCharacters": 531,
+  "pages": 8,
+  "duration": 169.594,
+  "bodySha256": "8171fb1f0f46818f4a432bd4f88e87fd96449c58cd1787c2842d9b188aec168e",
+  "audioSha256": "4244cef3bdecd6f5582610ffd291af12d90ea3d49494e60acc5fa0e307bfffbf",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2c02c4d96a55cd58b5dc6c5867e5a41524dd53adc602b34fe987399d4e446838",
+      "bytes": 17836
+    },
+    {
+      "name": "p01",
+      "sha256": "9ac90b0731272b2b33e6d358d1fa287012cf4e345f2c349c8b181e2a28eb9a3c",
+      "bytes": 13368
+    },
+    {
+      "name": "p02",
+      "sha256": "8cabb80ce1e86bdf9edbf9b98ccf1aba0d7dd80a16e5e164370087a987b2c0e6",
+      "bytes": 15496
+    },
+    {
+      "name": "p03",
+      "sha256": "bd8f698cb85a3148082e325a5dd6921e886d82c7eb9cb14313d70f45aaeae0ff",
+      "bytes": 16886
+    },
+    {
+      "name": "p04",
+      "sha256": "209dfe7ebcd12a603e0d839dcb7311dede6564d2b832a54af4516393d67b8a19",
+      "bytes": 16882
+    },
+    {
+      "name": "p05",
+      "sha256": "1d2572596f539aaddca4bff3d21d671e951f5ed2a7f5c6c38a45e029ef05881f",
+      "bytes": 16420
+    },
+    {
+      "name": "p06",
+      "sha256": "56fc08d47d0a6828859a616652283651c9d212faa8887a769b88e4a3cebe2f07",
+      "bytes": 16612
+    },
+    {
+      "name": "p07",
+      "sha256": "cf34e3e6bcecfaccfc820d39b80873e16bb9f68ffb6b5bac6a120d12ae716ea2",
+      "bytes": 17138
+    },
+    {
+      "name": "p08",
+      "sha256": "1e72dadb41713db380cd999975857e619e79d6a16f5d40a7cbdb8b9838c1aec0",
+      "bytes": 18794
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

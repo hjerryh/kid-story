@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0054",
+  "title": "把家说给枕头听",
+  "version": 1,
+  "bodyCharacters": 544,
+  "pages": 8,
+  "duration": 176.65,
+  "bodySha256": "0ac9ff04c2787fe99b3730541458168ba3417947a49e904355fa2c2c15333bb7",
+  "audioSha256": "5b83f24ac8e54f60e4f3a5572b4c69f2469049029cb93cad7a940155faacfd7f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5c576421ffde2df698c7420141c7414961ea73f357b567ca010269b38c14337a",
+      "bytes": 21564
+    },
+    {
+      "name": "p01",
+      "sha256": "a8951fe0870a29d253c598c78ce0425482dcd8afe5a66ca3e697bbd2c8e2f3fd",
+      "bytes": 16708
+    },
+    {
+      "name": "p02",
+      "sha256": "9358adee93ef51cf05970d690f563723bc0d3d8fde928d6a371321add8db9414",
+      "bytes": 14450
+    },
+    {
+      "name": "p03",
+      "sha256": "14b8c65ea780d7def04cf5a659a87b3b9c3a99705d8d9a77e0a46e649f8f4421",
+      "bytes": 13798
+    },
+    {
+      "name": "p04",
+      "sha256": "99e03bb5ec8851330dc252d74f48547bc24ee813cdcaa927f6c6ebe737736d31",
+      "bytes": 15158
+    },
+    {
+      "name": "p05",
+      "sha256": "506bacb7c30e098abe01801ba6552da004b732762aec6ffe313bb2f1fcdc5d7d",
+      "bytes": 16134
+    },
+    {
+      "name": "p06",
+      "sha256": "30e5d283db853e5dedab0a54522d0f83b00cdc64b272c87d337e890a334e21b6",
+      "bytes": 16034
+    },
+    {
+      "name": "p07",
+      "sha256": "72dae48ee4d019c441587a80aa5b6a2573e4c734f4dd64988a87c3d0a58010da",
+      "bytes": 15524
+    },
+    {
+      "name": "p08",
+      "sha256": "b869277524ee015b6e377fbd22c5ee2980d21992f712397ab82108ec8d50983f",
+      "bytes": 12402
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

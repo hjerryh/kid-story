@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0055",
+  "title": "藤桥的麻花胡子",
+  "version": 1,
+  "bodyCharacters": 550,
+  "pages": 8,
+  "duration": 174.418,
+  "bodySha256": "e3ebfd780e793beb8c43641d7627916f09e6404c4c64bdd39b3b228139ee770d",
+  "audioSha256": "8f83e4c6ac88dba8d1329ccd7e0f4b8ddcbe5e7e40447d791c313a9deffaadfd",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "27a6ab19090f114f9e0ef3bf042d947fd6126b192de84f459b97acfcd36559d5",
+      "bytes": 26158
+    },
+    {
+      "name": "p01",
+      "sha256": "b0b1c2040f149c577afac520d8d28e0425090d227ea69fe45e9e5a48231235eb",
+      "bytes": 19846
+    },
+    {
+      "name": "p02",
+      "sha256": "8b60b557d7b6cead6d0c449a256e77ca50e4d74be7ca04728e3ca8cbada2c03e",
+      "bytes": 18512
+    },
+    {
+      "name": "p03",
+      "sha256": "31c006834a9dfccceed7aa87f2fe91b82ddbb02530488501a97108edd2754b1d",
+      "bytes": 18488
+    },
+    {
+      "name": "p04",
+      "sha256": "0a94ed891302c4c9fec9009e580508a24c1daed9ac2638cecb56f4e3892a094b",
+      "bytes": 21076
+    },
+    {
+      "name": "p05",
+      "sha256": "d4087960309645bbb003e40ec4898bf1a353378a8bc49ed12f5756f6c6ee4641",
+      "bytes": 19162
+    },
+    {
+      "name": "p06",
+      "sha256": "2810591ecbf7366000de475864d2e499ede35abd063277ba5c148638f849f4de",
+      "bytes": 21400
+    },
+    {
+      "name": "p07",
+      "sha256": "ba2e89409ba039004a5c60ca8027960a3c75ea26ac7f908ead3c2629c561b001",
+      "bytes": 22300
+    },
+    {
+      "name": "p08",
+      "sha256": "13f907c95c9ddf8f202b84c4f4db0cb1bc7883a7c480660f81e3d13a01139941",
+      "bytes": 23888
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

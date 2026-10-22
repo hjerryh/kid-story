@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0045",
+  "title": "长耳朵小叶船",
+  "version": 1,
+  "bodyCharacters": 555,
+  "pages": 8,
+  "duration": 172.21,
+  "bodySha256": "bdf430330e603a5e13ce1f6608369b6e8e3f9a032ea351b23e783a82db739be6",
+  "audioSha256": "882be7b1c374aef1c6d00b8a222e7c246b626d9fd78574f1c0a08fe9d1e16ba6",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0208c8e6778ee43a77db1829cb2275cc95874b9b5b600b8833dba3a7b632848f",
+      "bytes": 16784
+    },
+    {
+      "name": "p01",
+      "sha256": "1f20fb339265021cd0440372bb024e86ed658266b73b3cec455413b99c8a73aa",
+      "bytes": 13044
+    },
+    {
+      "name": "p02",
+      "sha256": "2bf659d4171c3ae788c15ecf80b2b39ff2336cab19d6eee275c7ac39f6e233ce",
+      "bytes": 12828
+    },
+    {
+      "name": "p03",
+      "sha256": "9a169bdb5c09879026a32847b7cbcf8a0b0b1fbd14d175836292053f31c3b026",
+      "bytes": 12702
+    },
+    {
+      "name": "p04",
+      "sha256": "c4f9907589d9f08fb8858a0f01a3061f3c0acc9f023cf1f51bc82eb363040554",
+      "bytes": 12890
+    },
+    {
+      "name": "p05",
+      "sha256": "17a2e7062e85e996816073df7755471942194cae24f0361af7973c0554693f4e",
+      "bytes": 13436
+    },
+    {
+      "name": "p06",
+      "sha256": "ae3f8171045a0046f60be33844ec7ed1b4d45c4ad0d14780a4ab307cfb07d561",
+      "bytes": 12978
+    },
+    {
+      "name": "p07",
+      "sha256": "8e75d9d2c27278dfce76a49f7cd2efc5105273cb6a6c8a22a20639157515f9e3",
+      "bytes": 14056
+    },
+    {
+      "name": "p08",
+      "sha256": "951633fb4cc6b855574317ed1c7105d4248e5c9b2a5245dcbe7cf8d74e03f2d4",
+      "bytes": 14766
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

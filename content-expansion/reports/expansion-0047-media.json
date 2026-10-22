@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0047",
+  "title": "旧手帕的圆肚子",
+  "version": 1,
+  "bodyCharacters": 543,
+  "pages": 8,
+  "duration": 171.37,
+  "bodySha256": "fe99fdc6524ad4b7eacecada2e0d7553a7ae8f82f80d2e062eff90d210e4fed8",
+  "audioSha256": "eb333a973d462e3a67284c4ef26ef677b9f9b58cc06550c28293383f12f208fe",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b1af4f67926340fc9021ceac20919304e2f3c0ca5194c253efa2d42a0408f32c",
+      "bytes": 19934
+    },
+    {
+      "name": "p01",
+      "sha256": "d091cc6b4eded399cf3aba62db5a70c819f74a75068cdb93ae31bcd3710efc96",
+      "bytes": 11432
+    },
+    {
+      "name": "p02",
+      "sha256": "8bcdfa0dbe7238dc9110b4b506d9d263ff366bbf44cb8691859a7c026d4192ff",
+      "bytes": 17380
+    },
+    {
+      "name": "p03",
+      "sha256": "412caf951622a98032b01403eb81e0adaff85d1ce28e75259627ea42b164bac9",
+      "bytes": 17410
+    },
+    {
+      "name": "p04",
+      "sha256": "fc47bbf6147a3acc5ac9dcea2803d5369b4099ceb93dd29afe15ecaf264fea7d",
+      "bytes": 18180
+    },
+    {
+      "name": "p05",
+      "sha256": "b2e80bafde609cb2768e1f90149a3ec339ede964e34c34cfd94173f22f9fa542",
+      "bytes": 19004
+    },
+    {
+      "name": "p06",
+      "sha256": "33d7ffd7c48517d3a86d164e59ebe61e5be5d305087a2fdcea58579dfefdf106",
+      "bytes": 18874
+    },
+    {
+      "name": "p07",
+      "sha256": "0299ab0f80b8d636e6388d9c015fe5226c198e046ad9ea781ecfe91dd092ab6d",
+      "bytes": 12958
+    },
+    {
+      "name": "p08",
+      "sha256": "ff51105427bb657ca62642a8824678c0e5c23208e37ed5e6d71eaeec33e9d870",
+      "bytes": 16686
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

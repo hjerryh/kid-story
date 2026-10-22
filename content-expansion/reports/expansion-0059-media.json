@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0059",
+  "title": "牧星歌里的土豆",
+  "version": 1,
+  "bodyCharacters": 1014,
+  "pages": 12,
+  "duration": 305.418,
+  "bodySha256": "71f4b08fd841e66cae14731fb4b98578c1e4e53d201bb8d6bef837052f0a9845",
+  "audioSha256": "e704b1557951a1d35ab98f2cc1bcdf3a9b982b22a785aaceb9b7aa5cc4cd182d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "185508b0d798afcb7d25a47842104b0673107cfb559cee047de286ef77e20c3f",
+      "bytes": 17812
+    },
+    {
+      "name": "p01",
+      "sha256": "bfb2c1cb4565af42a132ca2bb2659ccabc66c302618a9635a758fdd5f396abec",
+      "bytes": 14162
+    },
+    {
+      "name": "p02",
+      "sha256": "8725cd5bfda490bca1fe8f5a7ab3cf8538a5ea515556d7d22f2dd37597c513bf",
+      "bytes": 14884
+    },
+    {
+      "name": "p03",
+      "sha256": "749200501df68c6ed590dd05611ead317562a0ae7b526ec247b02cd9accd38b3",
+      "bytes": 15064
+    },
+    {
+      "name": "p04",
+      "sha256": "98a3bc6c7a0de252a227828e4c0cd2d936372f92f0621d753f3c88fc1762f927",
+      "bytes": 15038
+    },
+    {
+      "name": "p05",
+      "sha256": "f549ad3b658b17c6dec4ba0ef7a1081660d7d84273a458a963dddf18cc638fb7",
+      "bytes": 15828
+    },
+    {
+      "name": "p06",
+      "sha256": "2b9f34912a131f46b5163b3749bbd884bf1f1c21eb8ba4a0191067a6843c165c",
+      "bytes": 15530
+    },
+    {
+      "name": "p07",
+      "sha256": "c61e7a873fee6091406dee27ce2a5567cdf76db8c125615c7fefa6ea7cf15593",
+      "bytes": 16690
+    },
+    {
+      "name": "p08",
+      "sha256": "6e2accd043cced3236ea2042f661fe19c16aeb384a2617767d2c6f16c42fcf6d",
+      "bytes": 17104
+    },
+    {
+      "name": "p09",
+      "sha256": "36eec2291955929cc1324ea286409dfee647ce68e275a51f8a4e148342efa4d1",
+      "bytes": 16902
+    },
+    {
+      "name": "p10",
+      "sha256": "5bf08941c558e9af2083a50fd192d5638443694b73bd21852e1da79e64b02b3c",
+      "bytes": 16174
+    },
+    {
+      "name": "p11",
+      "sha256": "8ac09f7070dc86a856a1bd09b9865ea06df49bd5796c142505870b17c3e533c6",
+      "bytes": 17524
+    },
+    {
+      "name": "p12",
+      "sha256": "3de48f017bbfbfe03ade55b7955473828f2a7ac295e7edd87282a947e067a07c",
+      "bytes": 17472
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0046",
+  "title": "帽尖上的软月亮",
+  "version": 1,
+  "bodyCharacters": 541,
+  "pages": 8,
+  "duration": 173.578,
+  "bodySha256": "301c5124c13bd5442081956ea35bf2770ea50c1fc104df7f6bccad0066e52a14",
+  "audioSha256": "d453e3243ce9de02730e7d218d1f6eabf23a52a8b6ba191c39e01d1c6fa41eaa",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "977f1c7044b73f73a40ed458c0e5253c5db17eafddecf1c60bccbbb2e449b2b4",
+      "bytes": 16410
+    },
+    {
+      "name": "p01",
+      "sha256": "31c6d0193ee6f01f5e1a26b6d220a0690a9b4485d5cd81df1ac4b10f200a0827",
+      "bytes": 12896
+    },
+    {
+      "name": "p02",
+      "sha256": "e4f19c151d4f97907f551a83131c4f96e2648222af9df523479762b457b17f1f",
+      "bytes": 13810
+    },
+    {
+      "name": "p03",
+      "sha256": "9cb6e9514c55bffbda6f703bfc0c1e055e5f65daa0e4def65ad6554d62d18d75",
+      "bytes": 15176
+    },
+    {
+      "name": "p04",
+      "sha256": "63a566910bc05e3db0dffeaa9f840bef9667697fa30817d5a8202707c0bf7a83",
+      "bytes": 12970
+    },
+    {
+      "name": "p05",
+      "sha256": "3331ebd96f5c73bb65891e638edbeafeb7bd9cc71e4efeba2008d65693bc2380",
+      "bytes": 13324
+    },
+    {
+      "name": "p06",
+      "sha256": "bb40109ac7f582812db99ae56c9687d28196f72c05fae89c3fec8365afbe8340",
+      "bytes": 14220
+    },
+    {
+      "name": "p07",
+      "sha256": "4f4dc5716d340843db1f14a3a85e1826601ffc58a26f529e5db52ce3fc75ff30",
+      "bytes": 15472
+    },
+    {
+      "name": "p08",
+      "sha256": "4d290ff3f6286ba915c2d90d6b6475623686062b3096266b6688a395f50b7be7",
+      "bytes": 11290
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

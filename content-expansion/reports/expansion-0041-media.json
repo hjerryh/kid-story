@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0041",
+  "title": "树根后面的小招牌",
+  "version": 1,
+  "bodyCharacters": 577,
+  "pages": 8,
+  "duration": 178.714,
+  "bodySha256": "c53ec8808bc001d74a15c5cebb989f59aaa1dee5b5b8b8b4ebf7b68bc49741a7",
+  "audioSha256": "cf3cf42aa9e29f4712153e2b743c5e5398c527dfaf0086018c5a20cd0d43e70e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4c48b5f7ae9a7dcb92e0c4a395ccd1c50cc0778fd38f5acc0675e68fe1691d16",
+      "bytes": 19326
+    },
+    {
+      "name": "p01",
+      "sha256": "209e704f1d6e6ac76951f52504f96986b8c1f9aa6c27fd77e9a99f11780d7be5",
+      "bytes": 13422
+    },
+    {
+      "name": "p02",
+      "sha256": "51e307cefc7900cd9bbb1c9440bdf1e567490fef5878b1bffbe9b25c6642978b",
+      "bytes": 18176
+    },
+    {
+      "name": "p03",
+      "sha256": "bf7b1950df0130d0327c1f9ff5d86e134d7a32c73071df66318276c4c858ac0f",
+      "bytes": 18030
+    },
+    {
+      "name": "p04",
+      "sha256": "5b3d03997dfcb2736f3793c5ffbd3b92bcd5dcf4d809984e4866a2bbd65377b1",
+      "bytes": 22642
+    },
+    {
+      "name": "p05",
+      "sha256": "89956e8ce20f0a68ee49225dd97bb2d30d64b8f1e291e5b270d37f460fb92a2e",
+      "bytes": 18056
+    },
+    {
+      "name": "p06",
+      "sha256": "e7d465ec7e981f2a0d2ea9cc4e022f8ed8f9201cb5ac355e8f2ca94fddf2e187",
+      "bytes": 19610
+    },
+    {
+      "name": "p07",
+      "sha256": "74c4296fa5bdeab1c289cced3070a923d74ab5cd90bdbcde36d9b67aaeb60870",
+      "bytes": 17632
+    },
+    {
+      "name": "p08",
+      "sha256": "8a3a331ff42139305e2ced50f03d540a5cf7e887ef32621ed6eb8175988b144b",
+      "bytes": 20974
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

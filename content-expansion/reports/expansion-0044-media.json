@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0044",
+  "title": "云莓摊前的问号",
+  "version": 1,
+  "bodyCharacters": 542,
+  "pages": 8,
+  "duration": 188.674,
+  "bodySha256": "e8a77ced18d3099ff95f31d829a7b4a6e541df67c91caf3f983bbe99f5e4165c",
+  "audioSha256": "b7965d83f6d4322fa839d45d442d33ec582e52d87542a9b5150a0dea70a18db3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "dfa40ee3382262dc642f2d34bd821a0bedb0decbf0801aabc1df6534238f9ef4",
+      "bytes": 16938
+    },
+    {
+      "name": "p01",
+      "sha256": "46b0cec848309244bda2cc9e5dcf21f055687e9f0b4e6e85ecfcaba7f7b202fa",
+      "bytes": 11360
+    },
+    {
+      "name": "p02",
+      "sha256": "d51dbd0be80b1636b1bb8341cbec13245a3649fcd510cbca66743803e0cef1ed",
+      "bytes": 12876
+    },
+    {
+      "name": "p03",
+      "sha256": "4381399959eda913402c7068bb9bf66a767f0cc39ee1546b78de70da96c72e87",
+      "bytes": 11918
+    },
+    {
+      "name": "p04",
+      "sha256": "4e16f706a21a1243608129b4262ed7628f585db5d35456eee7df8c046596c41f",
+      "bytes": 12460
+    },
+    {
+      "name": "p05",
+      "sha256": "515ed5e0a5d729b4670684166e213fc946f6418830ac59b72762d450ef0e5cd2",
+      "bytes": 15734
+    },
+    {
+      "name": "p06",
+      "sha256": "6d468742c35fd28d1ab613ce415fd182c916585b14d50fa77f58493fb6d032a3",
+      "bytes": 13114
+    },
+    {
+      "name": "p07",
+      "sha256": "97f607f3901cc573234e527c7b68528f1e051a0323a5a0de19d968ae9e061214",
+      "bytes": 12760
+    },
+    {
+      "name": "p08",
+      "sha256": "f6cd1528df2cd9a025f83a3e2cfae72b7374052215e26d9f418bf911e3d1c428",
+      "bytes": 13696
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

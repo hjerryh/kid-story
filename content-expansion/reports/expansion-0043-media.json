@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0043",
+  "title": "跟着菊花香走",
+  "version": 1,
+  "bodyCharacters": 533,
+  "pages": 8,
+  "duration": 164.506,
+  "bodySha256": "704418d49e44a48992b8d77a349f2da6bc7d77b44e4c6b71fbd5dded915b5c1c",
+  "audioSha256": "ba9fe5264b88d4cd15c3ce5c166e2a3cac595a30bebf3504cbe4110aa76100b7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8f466c4bd8f6c96649a484e963093223e98042a1c7ba577602672025f101c79b",
+      "bytes": 20418
+    },
+    {
+      "name": "p01",
+      "sha256": "ed9cd9298a818527f8d6a0722919aa81f1991b200e6f449672ff3ceb28392c52",
+      "bytes": 17548
+    },
+    {
+      "name": "p02",
+      "sha256": "803a217bd374a962ba6ecde41c7e3ca1a5811801539f92aa66b814e8df5545a1",
+      "bytes": 18870
+    },
+    {
+      "name": "p03",
+      "sha256": "78f9872d3154227513b303dbbae6d7cbedcf842bb1a5917130592444006397ad",
+      "bytes": 17500
+    },
+    {
+      "name": "p04",
+      "sha256": "6321105cd28480e62f1577444a8a4ff3d2eeb5521fddfec8aed79a89c78e350e",
+      "bytes": 17460
+    },
+    {
+      "name": "p05",
+      "sha256": "31bf36400bcc1e8437e39187589726b5d99bf5444790d30131e06993802b7587",
+      "bytes": 18282
+    },
+    {
+      "name": "p06",
+      "sha256": "eec98d621fe120fcf0aa20f555bea7c0159029ca99bdd63465083cc5cc5870b1",
+      "bytes": 18196
+    },
+    {
+      "name": "p07",
+      "sha256": "04955762001df59a7bdeb5e7e78c3aab0b9778b6a0fe79e426415cc988f6df68",
+      "bytes": 18174
+    },
+    {
+      "name": "p08",
+      "sha256": "c1d040da91cc9f84dd457fce0097c7a9db2320b1c0290297bc69cae4aa05fa07",
+      "bytes": 15850
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

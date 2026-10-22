@@ -22,6 +22,8 @@ CACHE = ROOT / '.cache' / 'expansion-writer'
 LIMITS = {'3-5': (8, 450, 650), '6-8': (12, 900, 1200), '9-10': (16, 1400, 1900)}
 STOP = threading.Event()
 ENGINE = 'claude'
+REASONING_EFFORT = None
+REQUEST_TIMEOUT = 1200
 
 class ProviderUnavailable(RuntimeError):
     """Do not submit the rest of the catalogue after a provider failure."""
@@ -95,6 +97,10 @@ def prior_context():
             continue
     return '\n'.join(descriptions)
 
+def authoring_guidance():
+    file = ROOT / 'content-expansion' / 'authoring-guidance.md'
+    return file.read_text() if file.exists() else ''
+
 def write_one(number):
     if STOP.is_set():
         return {'id': number, 'state': 'deferred'}
@@ -116,6 +122,7 @@ title独特自然，subtitle不超过14字，theme为2–10字的简短主题标
 character为中文人物外观设定（毛色/发型/衣服/配饰），各页保持一致。每页含p01开始连续id、完整朗读text和独特scene(setting/action/mood/props)。scene不参与朗读，不能藏正文必需的因果。
 editorial写真实的goal/obstacle/turningPoint/resolution，供后续编辑审查，不能代替正文。
 下列已写故事必须避免相似情节、相同标题和关键解决方法：\n{prior_context()}'''
+    prompt += '\n编辑反馈与创作约束：\n' + authoring_guidance()
     problem = ''
     started = time.time()
     for attempt in range(3):
@@ -130,6 +137,8 @@ editorial写真实的goal/obstacle/turningPoint/resolution，供后续编辑审�
                        '-c', 'project_doc_max_bytes=0', '-c', 'features.shell_tool=false',
                        '-c', 'web_search="disabled"', '--output-schema', str(schema_file),
                        '--json', '--output-last-message', str(output_file), '-']
+            if REASONING_EFFORT:
+                command[2:2] = ['-c', f'model_reasoning_effort="{REASONING_EFFORT}"']
         else:
             command = ['claude', '--print', '--tools', '', '--strict-mcp-config',
                        '--no-session-persistence', '--output-format', 'json',
@@ -137,7 +146,7 @@ editorial写真实的goal/obstacle/turningPoint/resolution，供后续编辑审�
                        '--system-prompt', '你是原创儿童文学作者。直接输出完成的作品，严格遵守指定JSON结构。']
         try:
             result = subprocess.run(command, input=user_prompt, text=True,
-                                    capture_output=True, cwd=ROOT, timeout=900)
+                                    capture_output=True, cwd=ROOT, timeout=REQUEST_TIMEOUT)
         except (subprocess.TimeoutExpired, OSError) as error:
             STOP.set()
             raise ProviderUnavailable(f'{ENGINE} writer could not complete {number}: {type(error).__name__}') from error
@@ -167,6 +176,8 @@ editorial写真实的goal/obstacle/turningPoint/resolution，供后续编辑审�
         story['status'] = 'text-draft'
         story['provenance'] = {'method': f'configured-{ENGINE}-cli-authored', 'review': 'pending',
             'characters': length, 'bodySha256': hashlib.sha256(''.join(p['text'] for p in story['pages']).encode()).hexdigest()}
+        if ENGINE == 'codex' and REASONING_EFFORT:
+            story['provenance']['reasoningEffort'] = REASONING_EFFORT
         temporary = destination.with_suffix('.json.tmp')
         temporary.write_text(json.dumps(story, ensure_ascii=False, indent=2) + '\n')
         temporary.replace(destination)
@@ -175,18 +186,26 @@ editorial写真实的goal/obstacle/turningPoint/resolution，供后续编辑审�
     raise RuntimeError(f'{number} failed manuscript validation: {problem}')
 
 def main():
-    global ENGINE
+    global ENGINE, REASONING_EFFORT, REQUEST_TIMEOUT
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--start', type=int, required=True)
     parser.add_argument('--end', type=int, required=True)
     parser.add_argument('--workers', type=int, default=2)
     parser.add_argument('--exclude', default='')
     parser.add_argument('--engine', choices=['claude', 'codex'], default='claude')
+    parser.add_argument('--reasoning-effort', choices=['low', 'medium', 'high', 'xhigh'],
+                        help='Optional effort for this Codex writing process; keeps the configured model')
+    parser.add_argument('--request-timeout', type=int, default=1200,
+                        help='Maximum seconds for one CLI response (default: 1200)')
     args = parser.parse_args()
     assert 1 <= args.start <= args.end <= 1000
     assert 1 <= args.workers <= 4
+    assert 60 <= args.request_timeout <= 3600
+    assert not args.reasoning_effort or args.engine == 'codex'
     OUT.mkdir(parents=True, exist_ok=True); CACHE.mkdir(parents=True, exist_ok=True)
     ENGINE = args.engine
+    REASONING_EFFORT = args.reasoning_effort
+    REQUEST_TIMEOUT = args.request_timeout
     (CACHE / 'story-schema.json').write_text(json.dumps(SCHEMA, ensure_ascii=False))
     excluded = {int(x) for x in args.exclude.split(',') if x}
     numbers = [i for i in range(args.start, args.end + 1) if i not in excluded]

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0060",
+  "title": "南瓜屋的第一张长椅",
+  "version": 1,
+  "bodyCharacters": 1031,
+  "pages": 12,
+  "duration": 309.57,
+  "bodySha256": "5f56fd2f8ab378f6db7b50d9e571f94c0845c46dece99661f7efcd3a0940b29b",
+  "audioSha256": "dde7cb380d7d90f3f8eb47c9155be3573467f9ab6336085adb59ee25286dc92f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9398bce5509c4da18281f6cdab15c700785d78d7453e798fb0ddcd548c3fd187",
+      "bytes": 20820
+    },
+    {
+      "name": "p01",
+      "sha256": "e03115c91bde66f8f55e0d77eb9ba658111f59a6e94d878ae30f9122d3e4d7a0",
+      "bytes": 17226
+    },
+    {
+      "name": "p02",
+      "sha256": "3ded83c74e1683423baa6d9bf54310076a3f719b031848aa17ae617fd2bbc9f4",
+      "bytes": 14382
+    },
+    {
+      "name": "p03",
+      "sha256": "7ea3c6e06928a37844510b325fdd88b4c5fb624ebd68c0318eaa5a572e9437cf",
+      "bytes": 17512
+    },
+    {
+      "name": "p04",
+      "sha256": "9807ec7e9bb5680c4166b8cd842cbe00319019b2a204bd0d6a8c21ea00cb695f",
+      "bytes": 19722
+    },
+    {
+      "name": "p05",
+      "sha256": "8bbee1f1df4578a2952a9be89755eb1853afd41f67873c8efb17d76bcd080e35",
+      "bytes": 17178
+    },
+    {
+      "name": "p06",
+      "sha256": "11104b81ea93887004c138f1e7192f77b695d48ac59128d75d57c21b93784656",
+      "bytes": 17038
+    },
+    {
+      "name": "p07",
+      "sha256": "04dfe3341b1e49f736c712db78043aa0d09120d145ec70ec32713a494f8cdfc8",
+      "bytes": 14628
+    },
+    {
+      "name": "p08",
+      "sha256": "bf766a0bb4f9cdfa819aa056dd3a52a00d3c5f2a3325b150f6a6f3b136f9b6a0",
+      "bytes": 19252
+    },
+    {
+      "name": "p09",
+      "sha256": "e925d8ee7279fa2ab3eaea6d542cd31028060ac87e572fec4089bd417b225753",
+      "bytes": 15178
+    },
+    {
+      "name": "p10",
+      "sha256": "7bb812b8d5fe18f2afacfabe4e94d0bdc71366f85499909ac17e5b56311157a9",
+      "bytes": 12956
+    },
+    {
+      "name": "p11",
+      "sha256": "1fee2d722f04cc27c21bea5b525ff2e59519791ce5434d131de78644f1fb1f5c",
+      "bytes": 16296
+    },
+    {
+      "name": "p12",
+      "sha256": "27cc36457473dca2e653b6b5d228b99888eeb6c52f77634cca6352f125e79e43",
+      "bytes": 14594
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

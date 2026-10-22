@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0051",
+  "title": "一座会走的小雪桥",
+  "version": 1,
+  "bodyCharacters": 544,
+  "pages": 8,
+  "duration": 175.69,
+  "bodySha256": "cb5d6b2b4e2d04685ceac0647156454d82185cf1c6dd70e42a1f81f20958dba9",
+  "audioSha256": "dcf10d5085c5fc070bf5c45233fbf4255e854109a8097cafe11bdde074ddf978",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "42808515a419ba721f6a0431cb6c84179b59e8a0c5d26e3e517168b35005bdae",
+      "bytes": 14012
+    },
+    {
+      "name": "p01",
+      "sha256": "fa0cadc0e7bb88156352cf7de7d0ef86725da86abccca82577432c260949e864",
+      "bytes": 14886
+    },
+    {
+      "name": "p02",
+      "sha256": "d3e74b217587e6241a6a0f377f6345d49c7a7d2537d70d9c0da897ec4de2de16",
+      "bytes": 13194
+    },
+    {
+      "name": "p03",
+      "sha256": "6df6865275a89c6ed241f83aaa17557852d690342990c14cb393a852be797920",
+      "bytes": 13208
+    },
+    {
+      "name": "p04",
+      "sha256": "71cad228afc8c5d00c97dbc0c6620e96d4d2461138044d300a54dd3645cc2f31",
+      "bytes": 14394
+    },
+    {
+      "name": "p05",
+      "sha256": "73f6ca04898233264d7c0892900bf6436fabb89abb01b55374a7b10f22b9b795",
+      "bytes": 14106
+    },
+    {
+      "name": "p06",
+      "sha256": "6b46cc0fc9ccf9ecb36a7d1d0475ab3fc1927795aeee07911b27fad4930e7e4f",
+      "bytes": 13466
+    },
+    {
+      "name": "p07",
+      "sha256": "adcc1c8b19333ffcda781c6a2c749ad7914408bf13599824bfa5a79f601f19b1",
+      "bytes": 15238
+    },
+    {
+      "name": "p08",
+      "sha256": "15c9a76bd54cb77ed5dfdf8cfa95187e642227734656d47d0a6eec45d8934143",
+      "bytes": 14136
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

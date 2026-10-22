@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0050",
+  "title": "蓝口袋搬家了",
+  "version": 1,
+  "bodyCharacters": 553,
+  "pages": 8,
+  "duration": 171.922,
+  "bodySha256": "4e2eba6c4c4e507119df211f4777fe9e49633f73af6ac657e37ad4f91659cff1",
+  "audioSha256": "5dca92e610d2de8b70c5268ae4c4655f90777cc0db75232d5387c8b445463661",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "1c101dea9faee24e90f2ef7b6db6d8c2bc2bca9a95e6237b8773f95c0701d057",
+      "bytes": 18710
+    },
+    {
+      "name": "p01",
+      "sha256": "98c1b7e73306a266b66d0fec775e5c5d1e9d87778592d5f79e0477c33cfbe2ea",
+      "bytes": 14936
+    },
+    {
+      "name": "p02",
+      "sha256": "cd6bf490862b416db775d27d9ee4de249026b72f55d9e43e2b31d098dbe4f23b",
+      "bytes": 15522
+    },
+    {
+      "name": "p03",
+      "sha256": "a149ad5077a81a35c4e2a49b541d578d53a63d4e24d018e419f83f5dcb2e3717",
+      "bytes": 13164
+    },
+    {
+      "name": "p04",
+      "sha256": "2dac2dc2f8e28be7a25ddb5f72294d789a73fd8f5e672fd7f98c9124cefe2f10",
+      "bytes": 13486
+    },
+    {
+      "name": "p05",
+      "sha256": "be80f07c5c2eb89947b4bab3af2c6d407366fca6ad1116e3b0a35dd5c358b126",
+      "bytes": 15692
+    },
+    {
+      "name": "p06",
+      "sha256": "8ec286596138d0b3fd256704a0a5a1e7d791efeff02c572ce7f5fd2c1a05a012",
+      "bytes": 15710
+    },
+    {
+      "name": "p07",
+      "sha256": "429dd0fd1b73303b5ebfc58a50812d394d49fca91bf67d05cd0e0cf1e263710f",
+      "bytes": 18516
+    },
+    {
+      "name": "p08",
+      "sha256": "a4cfbb7dcddb001ad345eb860a31c0dc440c52d2caa8f2a21e22a8f15457b548",
+      "bytes": 13862
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

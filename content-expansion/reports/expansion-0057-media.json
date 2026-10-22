@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0057",
+  "title": "橘树阿卷的新鞋",
+  "version": 1,
+  "bodyCharacters": 1043,
+  "pages": 12,
+  "duration": 309.882,
+  "bodySha256": "ade470abc53495996479f8114e9ed5c92cf9628fe7d6d6a6c8639f3e4dae443f",
+  "audioSha256": "f664b7b2d6e4fba127f98bf8298e22a043d81fbe1fe64d91be5ac54e54361ed3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e21a18dacbd94f86b80a18b4e0cd85c2cd72f338c7133ec0202d953d0ea5e212",
+      "bytes": 22682
+    },
+    {
+      "name": "p01",
+      "sha256": "441079731b17e42f35a374433bd929fd916dad90598272ee228a19911406f606",
+      "bytes": 17728
+    },
+    {
+      "name": "p02",
+      "sha256": "cfadb05b9ddfe1d9755086644dc31e09a6ec433e3abbcc6ea8110e59fa60ba18",
+      "bytes": 20422
+    },
+    {
+      "name": "p03",
+      "sha256": "b07ed809c88c914fbf55e71acc708c5d89680d9e9619de1c75df73ce9ac10cd1",
+      "bytes": 17724
+    },
+    {
+      "name": "p04",
+      "sha256": "45b2c411dcdf5a42f550032bb325d7f8878e14dd021c9ccc7651d8c85717c529",
+      "bytes": 17634
+    },
+    {
+      "name": "p05",
+      "sha256": "a612e5c998930e6f42e93bcb0dfbf0d6b362350c41305f1685673e43ffcdfe5e",
+      "bytes": 17922
+    },
+    {
+      "name": "p06",
+      "sha256": "287c960131d77a78c033d409a2a85fdeef69450c64104f1f24e7badd4f720251",
+      "bytes": 18904
+    },
+    {
+      "name": "p07",
+      "sha256": "3344787419a1e851e2ca644218cfa01cc4378b59c54b0c5c72bbea8f344c2655",
+      "bytes": 17948
+    },
+    {
+      "name": "p08",
+      "sha256": "78fc4e2b8444764114d99400833add96e128c695455560f7f18291999ef7b968",
+      "bytes": 20636
+    },
+    {
+      "name": "p09",
+      "sha256": "71ac6ba7d9e95120fce6a7bb86e2a3149285164a444bf2c8092173e5f4a47159",
+      "bytes": 21304
+    },
+    {
+      "name": "p10",
+      "sha256": "4b544688eed60c5c358d4e559b915926b0b23970948c0a2f9bd1bc26e7613341",
+      "bytes": 22684
+    },
+    {
+      "name": "p11",
+      "sha256": "e6cd648525c54a7195464ba8ee5114b606f2a253c08d9dff88b6ded5123088f0",
+      "bytes": 20382
+    },
+    {
+      "name": "p12",
+      "sha256": "9cd622fe0090e417c8d15da9147a543752470a8c6cff6d1d78a40f922ce8495b",
+      "bytes": 18312
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

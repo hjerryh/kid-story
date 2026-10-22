@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0051",
+  "version": 1,
+  "status": "media-ready",
+  "title": "一座会走的小雪桥",
+  "subtitle": "一张慢慢画好的像",
+  "description": "雪毛虫想看看自己拱起背的样子，请小熊杏杏画张像。可杏杏刚刚落笔，它就伸直了；跟着走，画线又抖个不停。怎样才能画下那个弯弯的背呢？",
+  "ageBand": "3-5",
+  "theme": "耐心与观察",
+  "color": "#B8D8E5",
+  "character": "小熊杏杏：浅棕色绒毛，奶油色口鼻，穿苔绿色外套和棕色小靴，围淡黄色围巾。雪毛虫：由柔软的雪构成，白色长身子，小黑圆眼睛，戴紫色圆帽，爬行时一拱一伸。",
+  "cover": "/library/stories/expansion-0051/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 175.69,
+  "detailUrl": "/library/stories/expansion-0051/v1/story.json",
+  "audio": "/library/stories/expansion-0051/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雪地花园里，戴紫帽的雪毛虫拱起白白的背，慢慢爬过小熊杏杏的鞋边。“能给我画张像吗？我想看看，自己拱起来是什么样。”杏杏摸摸绿外套口袋里的蜡笔：“好呀，我来画！”",
+      "image": "/library/stories/expansion-0051/v1/p01.webp",
+      "start": 0,
+      "end": 20.75
+    },
+    {
+      "id": "p02",
+      "text": "杏杏坐上小木凳，把纸铺在画板上。雪毛虫一拱背，她赶紧画。可笔尖才碰到纸，它已经伸直了。纸上只留下一条长长的横线。她低头瞧了又瞧：“咦，弯弯的背跑到哪里去了？”",
+      "image": "/library/stories/expansion-0051/v1/p02.webp",
+      "start": 20.75,
+      "end": 42.388
+    },
+    {
+      "id": "p03",
+      "text": "“你能弯着背停一会儿吗？”杏杏问。雪毛虫努力把背抬高，紫帽子也翘了起来。可是刚一停稳，软软的身子就往下落，最后趴成了一条。“哎呀，我的背自己躺下啦！”杏杏说：“没关系，再试试。”",
+      "image": "/library/stories/expansion-0051/v1/p03.webp",
+      "start": 42.388,
+      "end": 65.658
+    },
+    {
+      "id": "p04",
+      "text": "杏杏抱着画板跟它走，想离得近些，再画快些。脚下一动，纸上的线也跟着晃。圆圆的弯背，竟抖成了一排小尖角。她停下来，揉揉手腕，坐回小木凳上，把蜡笔轻轻搁在膝头。",
+      "image": "/library/stories/expansion-0051/v1/p04.webp",
+      "start": 65.658,
+      "end": 87.176
+    },
+    {
+      "id": "p05",
+      "text": "这回，杏杏只看，不画。雪毛虫先伸头，再把尾巴收过来，背就拱高了。又伸头，又收尾巴，紫帽子跟着一翘一落。杏杏看完一回，又看一回，发现每次拱到最高时，它都会停一小下。",
+      "image": "/library/stories/expansion-0051/v1/p05.webp",
+      "start": 87.176,
+      "end": 109.678
+    },
+    {
+      "id": "p06",
+      "text": "杏杏重新打开蜡笔盒。这一次，她等着白背拱高，才画一道弯线。雪毛虫伸直时，她就抬起笔。等它再拱起来，她添上圆圆的头，再等一回，添上尾巴。画板一直稳稳地躺在膝上。",
+      "image": "/library/stories/expansion-0051/v1/p06.webp",
+      "start": 109.678,
+      "end": 132.108
+    },
+    {
+      "id": "p07",
+      "text": "最后一笔，是顶小紫帽。“画好啦！”杏杏把画举低些。雪毛虫趴平身子，仔细看了看：“原来我拱起来，像一座小雪桥！”它高兴地围着小木凳爬了一圈，杏杏也笑了，鼻尖呼出一团白气。",
+      "image": "/library/stories/expansion-0051/v1/p07.webp",
+      "start": 132.108,
+      "end": 154.418
+    },
+    {
+      "id": "p08",
+      "text": "杏杏把画夹在长椅下，雪落不到那里。雪毛虫趴在画前，戴着紫帽子打起了盹。杏杏收好蜡笔，也坐上长椅。上面歇着一只暖乎乎的小熊，下面睡着一座软绵绵的小雪桥。",
+      "image": "/library/stories/expansion-0051/v1/p08.webp",
+      "start": 154.418,
+      "end": 175.69
+    }
+  ],
+  "buildHash": "c578d294d64c9ed8c597a9c86af3aa1fa49e1d5b194aa7f9b751ec9dc4fe5be2"
+}

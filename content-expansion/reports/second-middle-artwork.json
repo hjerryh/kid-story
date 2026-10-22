@@ -1,0 +1,896 @@
+{
+  "stories": 9,
+  "illustrations": 108,
+  "covers": 9,
+  "generated": "2026-10-22T15:39:18.062Z",
+  "items": [
+    {
+      "id": "expansion-0057",
+      "title": "橘树阿卷的新鞋",
+      "reviewedBodySha256": "dd47c019658be4c44131478dc7749b9c70183eebb920e6f9a01b36553aab8021",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "825be6d3deb89d21efd2f51581deed4dd9e73e5adf440f1ac0a36519ce59b7fd",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "1632342c109daceabcf44a93b7db1fb3d2294f830e9ed6a5213beb7aee2c149d"
+        },
+        {
+          "name": "p01",
+          "sha256": "c7bae8803af8c691b2429c5f7d2e47948bb8c5649501269dde00245d83d75996",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "e2beef0f51283e014f9016de602fc3c44e8f63b982f0ee9b757cc2a7dd5374e9"
+        },
+        {
+          "name": "p02",
+          "sha256": "25e54dea21bcf5639fdf8f4b0a6914731c449d2b01490b18129d91a69b81657e",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "c3496631fef1fdd014bd5c977f926024e9466075f49c53eb12be14fa08d48917"
+        },
+        {
+          "name": "p03",
+          "sha256": "afdef7eea1df0a031b9e54f6c7371075110b032602a339dca116162d3b9c9a11",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "c6bd40f651053dc66f9f11b314966e6816b0ccc38b4e755a7c22b95fb7f6bd1f"
+        },
+        {
+          "name": "p04",
+          "sha256": "76642b4cb9c6ae038d0d883fee1677540d6767c4a8bfcc4cef5f17a600e3e0fd",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "ddd06c51cc19feccf8bad76fd44b79da695d921fd42f05169d46d3d19e3a5d35"
+        },
+        {
+          "name": "p05",
+          "sha256": "ee4edfeed27576f8c532dfe27f48e317f53f7d9d97e245272b467ee3369805f1",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b85fbc19972a8eec8cd73d560c9f4ba62e6d6241cc9aac7de76dade9b4447410"
+        },
+        {
+          "name": "p06",
+          "sha256": "484bef95faf6164d2e99c5e7d454211791e6be033c26ca1a0d9261bcf68eb792",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "d627813ed0ae4b01f43249d00e6bfd4f038712f47572cb3e8462c33aa56b0184"
+        },
+        {
+          "name": "p07",
+          "sha256": "8e3ae0d98b9f2429f0c8254e13c2b6a770d614dc7cec95969ddde6481309ed3b",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "2d7b7a448d3a34dab932b44aa751b70855552482cd6746af338b01724a88cfc9"
+        },
+        {
+          "name": "p08",
+          "sha256": "f9c1abba551d6917b54247d9a7dffc02c1196957ea92b9aaaf54c20c810367d2",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "e75e8139254d209e2261d145f025505841de3d39403d5bdc0c079898b93d26f6"
+        },
+        {
+          "name": "p09",
+          "sha256": "0a383f7b06781837c480e944a440c30fd46fe39a4083e9d53b7e4683796cbd17",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "2eec3a4e9b322a70c287c7e76694b0acfc30a15340e26f60568c2041b29ca9e6"
+        },
+        {
+          "name": "p10",
+          "sha256": "406337c7af53a2c936cec0567d545a58f390d3cc3fa843eea79c6c4718e8a9c9",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "769de6be370abe1fcf669791a37bc14ef08ed8f12ee524b69ff071e7f6670944"
+        },
+        {
+          "name": "p11",
+          "sha256": "af081f97eb37c4d5e1a22edacefd1efcd5af675f7db7145e7c812c5deb3032bf",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "5ba74febf4440b80ec315626c99ca867e960669e237b93dc626c0a699c9b1f70"
+        },
+        {
+          "name": "p12",
+          "sha256": "733b7991c1c877d85b8b977fe9159ed8577d5b8253f6f234bcf5b95d9275dd89",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "340dee1609ed686ed5943ce0386b73abb2668e1cccce99803cf6cd4550c26a5b"
+        }
+      ]
+    },
+    {
+      "id": "expansion-0058",
+      "title": "风能翻到哪一页",
+      "reviewedBodySha256": "eff11f20aa9357986a093ab7827143404dc5c5321fecb7b4823bd875d54fdab8",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "c7b892ecba74e4083551af3f9d7f38bd6dd0037c18d57d53e3be7f77e2aa31bd",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "c8a9e260202c7bea0bf7e88bf5a9e7560f9a177a09b4fea46f5f23d18cde96b8"
+        },
+        {
+          "name": "p01",
+          "sha256": "fee548da6be6309cb7650fb46ee1cc23d97a48b52025ac2ad9a38419c567f766",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "e44b1316eedc1f0958d9281ccd1c08792c66f8867c4a3125c1c75d9e7da7ebf0"
+        },
+        {
+          "name": "p02",
+          "sha256": "9a6caaf7215b4d0de8f8e080590879b209f38fb983a758270667ff5276d8452a",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "1cdeb8b427469a950c39b768574fffc858945baf2c16e09b99c71af24bb07f1c"
+        },
+        {
+          "name": "p03",
+          "sha256": "e8412088a3a2f4b84dd9edf1553e344097743fafdc77f865289dd7d8d5f116ba",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "1488e0eb37fe87ff4b33a389a68842d76c0b7acbaa70f80bc113ab87feac8cb2"
+        },
+        {
+          "name": "p04",
+          "sha256": "63fa1cf8e499265f5ea883bc5be8b023ac39f4566c04155081487f764b09305b",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "82b7259bdf4e3d5f162095a2f311885cb92b6f7690232303872a7591a314de21"
+        },
+        {
+          "name": "p05",
+          "sha256": "a281ccf47fc62b91b037ea2f6988c8e87d1ff28ebe2a1b603ec5ef55cb22a9f7",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "ee33e64dcbfe595ec2e020f7f1ad6a2cf599ebaa7ba6fa99a3e648fc26a14289"
+        },
+        {
+          "name": "p06",
+          "sha256": "16e39751fb4beb436a52b0520c4776c5c18ff22554341224f0dabae918a06ab2",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "e2b737ba276c06526972ca2f121025a713ffa3c998c4185ef0162337707920d5"
+        },
+        {
+          "name": "p07",
+          "sha256": "d0c6c14c0ae1aef26ec19f2c684070fc4bf3d88ad4a0f50b684653b84bc72f21",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "3ce9ef1a33eff126b93c6a534db0615b6ab774bbf680257b0149836645aedcbd"
+        },
+        {
+          "name": "p08",
+          "sha256": "8874924e7812fae948de48cbe6e850d34471cf681b6a8274776237800ad61502",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "9ec60c35b8380a645d0fbfb82462e5b6f9e565e706adca1a6166cf64b573e67b"
+        },
+        {
+          "name": "p09",
+          "sha256": "2566d5ea44755f495f9de1c746c8c30da8f2a0cf1a5265b5f6de8fe60c7e9a4d",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b3dc7db319270948f3fa872e2f9f237989b25134bb8c44fe4ef3dda56dd477e2"
+        },
+        {
+          "name": "p10",
+          "sha256": "184f8e5706f9f2080cf2c1de6586d5a37eb6be44bd278bc60aa99f8fabb21ccc",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "00e5133e3c2adc6f1872e22dcb2531865d3d523409b2022a0202790737ddcb45"
+        },
+        {
+          "name": "p11",
+          "sha256": "4b5e35def3c9b23f166e2c88879f9c63521237c211eb3f27f1b573b4a2e593f9",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "d0737557ae963db211c8df1e87f6832e683524347ec89d1f2e874b17cab9032d"
+        },
+        {
+          "name": "p12",
+          "sha256": "df5dc7a37bb75e477826e440297d7e62f0d9a40af5fd244fd45cd711e68c3e20",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "60e8690f6125ebdc62b4536711269df059c416a03782ad2e68a18ed1a33b2a41"
+        }
+      ]
+    },
+    {
+      "id": "expansion-0059",
+      "title": "牧星歌里的土豆",
+      "reviewedBodySha256": "ee10c73bd66b20c1dc8cbea4ace7c54beb9f72ac5b106feb71782c96f8e3b604",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "19debd086c86fc4d5c4fe400b5ce68d1fe2c4adc1396b441699752d4db904b31",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "4fb5abc62efc03dc014e09dba31e7aa8b0e5903dc781bafe0bdfcff2f6393b0b"
+        },
+        {
+          "name": "p01",
+          "sha256": "3dd22ad8b3f8915e13fd6a3932dfdcc948adf933125af9861d38834e3b486291",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "d25c034eb533479d317e0316f1db022a40b5a46b34f2491b5b312a9190d3bbf3"
+        },
+        {
+          "name": "p02",
+          "sha256": "df1f1cd1f258b5f8da0b7800d66b41425ac96a0d2a62a2f9cbc930cdd9d11fc0",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "a7d32a95e0402bdebb5e134f1ae6080634a54edad86e00e8c757a116597103f8"
+        },
+        {
+          "name": "p03",
+          "sha256": "e7a7fe81d27c32fde142892c389e10f4a6327d1325b2819468b898fe89817149",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "01589e875ba3abc0688ff5e1d5c16d24334e24364cb8ae771485c0f2b99a0886"
+        },
+        {
+          "name": "p04",
+          "sha256": "b23c01e3734368eb7ab9bfcbba17b68dbb4c0e4f4c3c74b6d1b3a12f30aafeb2",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "49641651e07257908aa6b41e2f7d2ff5c0e34f21288103f33dfff1cb0015080e"
+        },
+        {
+          "name": "p05",
+          "sha256": "a5774226b22a5524323aa52124f2069a9284408dee3d8e219442b296d4bc94d4",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "93d3519be3a6121baf08d8e5a2b6d7d413de50e1ff8ff807b1692df7261a341d"
+        },
+        {
+          "name": "p06",
+          "sha256": "6a78fbdcedbba599ae623af26883f2e919c14e1989830f6f2b89150ece74539e",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b77a51657f09d0b2d66448eda55b079a615c8a818488669516a90188ee600d2e"
+        },
+        {
+          "name": "p07",
+          "sha256": "d09c51a38520ba6b37ce95e783d5691d0c3eba6c3560dfc8ac878fdd85a8bc2c",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "524fca036f5c60ad8f6f26d9d0376a929004900df38a8459ab3c3b54e9885955"
+        },
+        {
+          "name": "p08",
+          "sha256": "79eb1e332b544ca08ca6b2ca16390e4733ec9411bd7530511d2bb814963cbef8",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "1d2e0db26139bbd20d7c93f0a74509029bff225cd66c57be8f5d4f066ecaf139"
+        },
+        {
+          "name": "p09",
+          "sha256": "5e9cd34d1dd068993e0e533fc9947ac9d950d5671dbe8f1292a7d2995b858d6f",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "85772173a5e29f22c412847e0483c628f750ab041e8d12115af027aa2fa0b558"
+        },
+        {
+          "name": "p10",
+          "sha256": "0c096f843a032b01834cc6bd7b2198387b4d7fc22bb715cfeea700f289c929db",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "0fc166608a01aba52af7b205759320744637e91121645de3c68ec1d5a67a3bc2"
+        },
+        {
+          "name": "p11",
+          "sha256": "74110c61796f2af7de74965ea8a140dd15710a4e9c7b58d49df3404b523e1e09",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "7114cb64f8dcea372ffe2c3beda3c25a2559e3bfe754ac80f6abeba38790ba4d"
+        },
+        {
+          "name": "p12",
+          "sha256": "2c4c365e8259aa237348268ae0270497eb2e39e76cc9321f9444465dad7d516b",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "0f00d9a2c9f5db6609f55ef67707de0c62958c29292344c95cdaa2f8fe9b52e1"
+        }
+      ]
+    },
+    {
+      "id": "expansion-0060",
+      "title": "南瓜屋的第一张长椅",
+      "reviewedBodySha256": "a21e7eeb372b683572ea4408fc0a154c93563f60b810bfcfb658f721581efaed",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "95089d9c19dd8d8a2b44d390340e966beb4bc95ff890a132bd8efe4a21810d75",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "35ee338183f6438fa92f0b87ab327a049ddedd8a333609ccd4d19a94062348e7"
+        },
+        {
+          "name": "p01",
+          "sha256": "1f52b0fcfa4597184b74d60ea27705792f9bc55ea14d0f77541179e9f8f08321",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "45e8a69a9b495648f3c8a35760323376a2ae794e063c49876b652f90f46a8c0a"
+        },
+        {
+          "name": "p02",
+          "sha256": "c2c99b035d1b292481e493130b19cbe426a64d48e8d28846f1aebe3d248d0ac0",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "db59f08fde795998c0c12a473e9b3441f7c4656d1cea283c23a1326f23df99de"
+        },
+        {
+          "name": "p03",
+          "sha256": "72f11c7ee430e3864f283d6e0790d84452b4aebea1a24d8a8b74ea00e6c34aa5",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "aba3d16b7fc5dde81253b6634f038b00c65078ac22dea2c9abe8835aa9840a61"
+        },
+        {
+          "name": "p04",
+          "sha256": "5c24ca971c193f917794ed92b6ae184347b1e9385b4592665ed3d1cc9bd95f0a",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "556f01e99aaeff22aab3a9dba06ba4a406d330227f7df3fe0c32ac1ab73bb6b4"
+        },
+        {
+          "name": "p05",
+          "sha256": "9e996aa592cda384b25331cc9e7f679ae86aca3251983ce935ca03dbd5f7803c",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "166916952265ae7cf776b2330b508d916ae0084acf295d49a13b432f0c137686"
+        },
+        {
+          "name": "p06",
+          "sha256": "e4871e61c2997428931638e6e5f9bc35da0fa37db7e668a5c132f735ff978221",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "6eec90661f1a52457de880d0a97f05a0db2c024143e227adca78fcab05cf41fc"
+        },
+        {
+          "name": "p07",
+          "sha256": "7fc4b986aa2d7e2de960b7f62a0bce97384a7da5bf1486e4b08131537671ea00",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "aaae349da291890fdfd8870305eb49a9db1cab37fa952ecff46819bf39d42b60"
+        },
+        {
+          "name": "p08",
+          "sha256": "e15c83002a5cbbaba9dd98e5b6262d36dbfcf8b7d787c02d2dbfa8865e1ebf4d",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "1d1d117736f2a17b5ef32a72e91cebc57b0fd1b31a50dd8df0b90e7d513d0448"
+        },
+        {
+          "name": "p09",
+          "sha256": "5c8ab19d5a07c58dac2446ad58ddeb8802ad5d95b7d5546459ed67e57208172b",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "6ec784b09a924c16dab3c3f39b25859b9a5161769bdfa7ef184521e6304a6ed1"
+        },
+        {
+          "name": "p10",
+          "sha256": "083ccaf71e6b59d4f3f18f0d8699f9f8a9f37fe20e6f2de3362c3f72d4376c67",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "fd402864a47423bf9e618b16bcf4adfda5fb2c99314777cc9cd22f2a05e3a5ce"
+        },
+        {
+          "name": "p11",
+          "sha256": "70245bcceec461afaa84613d0a0fc3d18392880c3c2d3412a94d3d4ebfef16a4",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "27754fac3caf6200561baee24d2c911c1d61313184c6e25ca182cc3cb73f9ee2"
+        },
+        {
+          "name": "p12",
+          "sha256": "61b6dbcdaaa39c4216f4f98922b1443dcf6c3135349db258ed7cec5db7c9aae1",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "c10f5e2512fdd7e6dda2585e7bf491f43aa54a5f9f4d4a03a8062147a0764e54"
+        }
+      ]
+    },
+    {
+      "id": "expansion-0061",
+      "title": "拖鞋的夜游图",
+      "reviewedBodySha256": "745afa0bbf424a3d820a39f8585e4b4137e14f5e947a6623b8e7313f5d621b8a",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "07e1cc243b44e119b9ae3f2dd8a38c8ad886069c073f44e1617aca5d7a6375ee",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "7ced679fba693f68d8373397ee42c23107b5ae5d234d70939d408b6c604e9408"
+        },
+        {
+          "name": "p01",
+          "sha256": "985dcdefdb3ce95e3b0b98202b5ff0ddec919a2e11d7d5e2dcde78a9d6039d97",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "80263f5c312d2635db3c8eea494d3e3472fdfaba49e3fd21cd4893b1df120c24"
+        },
+        {
+          "name": "p02",
+          "sha256": "e2bed44cd809bdc663d3f7abed682769a0c674a915dc9a921890dacba6159660",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "a634a796909b1e49a80ccfbf1600459682d6658555fac3b1f1729a7e47d87779"
+        },
+        {
+          "name": "p03",
+          "sha256": "3220bf391dfdc3a4a2cb295a360a1096980c198ecd4eb74adeb6398e995269a4",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "8d3b4253d1a589af2a0df7bebf7441799743fdd8de90492c2ab8f76237612915"
+        },
+        {
+          "name": "p04",
+          "sha256": "541b92bc6f977ca14478ddb5ae18f897a5b30ac08d1745ecf2b6c65383191190",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "77e231f90d266378a62a9e6666866bb2e473628fe9ad20cf076c33594c38043c"
+        },
+        {
+          "name": "p05",
+          "sha256": "30af4774cbfeb635497881f3ec4b82a31a03c5786677ce58436cefdd01c2290c",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "97e07b1099fbb17a3b33218d1941031e4a2cd38e357faadd2e5452ea2c6b90d3"
+        },
+        {
+          "name": "p06",
+          "sha256": "a4806177cef5b97f3bd7876f8082dddf35948a1b87d1f5a2c80b7dccc5294f3c",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "c9292192a56c57abb73730d912e1b4fd382679016f1ab56985cf39b8ae46214b"
+        },
+        {
+          "name": "p07",
+          "sha256": "76931d12c3dc065f4d0ea1bf9d637a50de1004e8eccf1d57a5cbf7840fdbb323",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "aa3508948cc11feb7504f6a1c26761e04ed25fb01556f3073ccb98dfa8486676"
+        },
+        {
+          "name": "p08",
+          "sha256": "a8c2516af1957d1aaa53213e2180ac50667a3c454a3a728678f861c45bc20469",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "2302b4c0139cf509f066dbd2dc20f8fc36db3f195f354871b1c6a066e5a5a1de"
+        },
+        {
+          "name": "p09",
+          "sha256": "68905f91458873e258589bd1cdd42a08a0ea0ee1000de35a4691cf3f37bc54cf",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "7aa33c847f5a7f224a04e58c047bb93c74105b7a8b0811e90ae1b77c0604d6bb"
+        },
+        {
+          "name": "p10",
+          "sha256": "b74c754a45f683a32da1b927d78668581a740da93276d3d534d4b09ff5ca7fb8",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "42c74f4b4ba4e276acc405f9624245cfea38aab57f8e6a9b66bf3303a03bef69"
+        },
+        {
+          "name": "p11",
+          "sha256": "50d1001f76fecbc582fa0be61dd1bc0213cc09baf65a4a1c9469e9ba59b53190",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "05cc5b5fe76259502bb78f6923c23809b033625ea0af40a799d75a8a38c61a6b"
+        },
+        {
+          "name": "p12",
+          "sha256": "ffe4af9b13c7ddcd09aca036114652790387d0f0c30410ac82bf3e631137b83d",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "69241ef9af789668a6e244b9835ae0247113ca4966eee7666a406269f5232c38"
+        }
+      ]
+    },
+    {
+      "id": "expansion-0062",
+      "title": "毛线手，先挥一挥",
+      "reviewedBodySha256": "beacdd06c91caadbeeae75858f33b477d7580a0cb3c201e63ddd78ac95377f05",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "341321a3d915900cbac5064d85ad3b28e322cd6f148b47edf9f96e575425707a",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "71bffa5558000a37d46e9e2ceb104c98a0923a84e107b22a3a4bbcc8ba876e58"
+        },
+        {
+          "name": "p01",
+          "sha256": "9614c74f31752f73bb85ee37d460165bb535dd2fceb2ca263f002fa3d4ffbb2d",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "0b3dc1e727e3a79b31a095df34e448bb4a64e87b7aca0da434737b07eded73f8"
+        },
+        {
+          "name": "p02",
+          "sha256": "ab2486fb250d3c363c229073409d9c0bc20fe08d1dbb48fe3e7abfbba57f5542",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "8777b856e528216ab8cfecbadadf4d3d32edd83945a2ac90183d9bfd6d91e160"
+        },
+        {
+          "name": "p03",
+          "sha256": "d3b4d852a4e3d8346a564ab1d500a7de53bd8f1286c9b07d648e952c34425c43",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "8037dad69eb4ac33318b49bd16f7e69a71ec6ac8c6f6d9aba211656a38d4549d"
+        },
+        {
+          "name": "p04",
+          "sha256": "f24bf0f7cbadf2d1997d7d7a7d70ba4e1967c8b628a362e9c2deafae2659c833",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "2327002bf5fc3d2026e02365cab6869ffb43ad73e0a5a4af16882cbe3f057a99"
+        },
+        {
+          "name": "p05",
+          "sha256": "f6e0e4894ca729ed3aaeadbdcb331ae6243cf216dbce04c57b5ffcb9c395ef54",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "8dcf76630699a4542b892e37b8d23b698e807f6ef9f77cad89c36b3c0a85ccd2"
+        },
+        {
+          "name": "p06",
+          "sha256": "f5f04c1f9242d38613a64bcb0fd316eff292bdcc9093ba78c30b71714d118924",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "1e3a4ba4f559852fad25a825c738d43bb5999a88a7003807489c252ec81fe0cd"
+        },
+        {
+          "name": "p07",
+          "sha256": "75f45b23e5cf2f4a362b0cd25521fd9c03758c67df3980693fc59cdc79828253",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "05da87b879d189fd9ff81bda69e0646217c3e3a868a8a71f97918125fef42524"
+        },
+        {
+          "name": "p08",
+          "sha256": "fe6f465faba48a859d3850fa4e487a4961767d7cbd291368ce4856ee5bd6a29e",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "d4c30799fabb5438af5e8b0bd3309c03a77dc937d30fb56a3c2425bd7fae52cf"
+        },
+        {
+          "name": "p09",
+          "sha256": "f92ce328c7c2f33099d7ddd8307794d065dcdc7604591cc1c68388243b96907f",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "0b31cdc44ad9606f46b4e8f4cebbce1c13e899a7580281dc63f7678c5dd90bb5"
+        },
+        {
+          "name": "p10",
+          "sha256": "7c0aa004be6d00c15058a44cc2a4d9ed0f8b5bf70530d94d1839a36df77329a7",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "c1ca821749ba056bdb3f445c77f0d21792b841a25a9661f40ed226f4ab717fd3"
+        },
+        {
+          "name": "p11",
+          "sha256": "55a2d0540005eb74e26906f85260cdfe3b6520fbf0764bf9ab2bceaa6ebaca8b",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "6616fa06fcb1261c0a6ccc6029f87124731cdb006a7e284a7424110cd5f13fec"
+        },
+        {
+          "name": "p12",
+          "sha256": "e3c7bdb33d15f2022b76140d6b0f2ac473a99e887b293fd67a78c55ff5030ac1",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "c5ff24408478622857ef364da172cb283561fdeeaee4367a022de8392fd3750e"
+        }
+      ]
+    },
+    {
+      "id": "expansion-0063",
+      "title": "十二颗梨往上飘",
+      "reviewedBodySha256": "e5528ffb46de5bad21b27decdf76d33e7c47c52e04bd7f74195607c868326b8f",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "c627946d611072e0d2c8e3ea5ad02d132f441dcddaaa281f8327c8b2040b5af8",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "15e52a5651a8772b1b0c7749e43a61a1fcb1911a25ff898e444116c28f08b863"
+        },
+        {
+          "name": "p01",
+          "sha256": "f6d0ba5c02088d4ba2d534ec1c244730f4b7dbfcf7fa36cd1e6dd275efa70f9b",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "9af7296abc8c2603d1eea4b812d5f2305395acf509c620177e21405d53987793"
+        },
+        {
+          "name": "p02",
+          "sha256": "8a95ebf45e118850bb4348f52cee62b153ab6a7de08ae1720c58ab23a8b50371",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "0efb512fbaf3bb3c32dd0fdd2b2e2cd482cea3c651a6ae70a16bfd749bc99be0"
+        },
+        {
+          "name": "p03",
+          "sha256": "d068f589901349b52806209be84effee10a77bece1578e1858a9c748cddfe3a9",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "f50ac1e5442ac137da0d4c437406b45957723a1798af8ecbc6b404e7c717d24b"
+        },
+        {
+          "name": "p04",
+          "sha256": "2695c2a86588e4bedb7108e02a0db0114f5cad222cbab29d6f83151af9f7a7fa",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "70c750bd8a7c6c45667cf8382fca2d784b07c08f6b1cd98ebe28c8b82b74a32a"
+        },
+        {
+          "name": "p05",
+          "sha256": "559268d764deb3edcac38e2e5b9b878ce86aaee5cace06160c9f8b0f8018efd7",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "30cfc17354aacf9802a5e0ef931d37edf25abdeae78c733624116c777194ce13"
+        },
+        {
+          "name": "p06",
+          "sha256": "5a59a26b1f3addf82df9e70fd0cec2a73b46e6b50d2643c8dff8bc590aaa0aba",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "201278dbdb030e48d21a20e296d69b49b5a48b06e4683315cc797a10d835bc7f"
+        },
+        {
+          "name": "p07",
+          "sha256": "3967789960551410eede34c62fcbfbeba80ca5f713423fb388a8e46b066d8aa3",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "2255ae9466c8a21149c8d049828f48f841eba37193b2bdbddfde03fa593810bc"
+        },
+        {
+          "name": "p08",
+          "sha256": "1409f3f1845fdd8c2f0345d673e2d30354e57b36833c312040ed46959bdef3eb",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "404c3b1d3b0ee32f489f7deed537e0ed8af3d418639a015ff6d7afb55e5bb661"
+        },
+        {
+          "name": "p09",
+          "sha256": "17a9d1de403f6e7018c16de58a5ec1e63c4b77200822a48ff1ec999b30c3b058",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "f5bacb82ce8dd1fa5efaa25f589baa78d0f527abdf6a2dc15236e3266af979f2"
+        },
+        {
+          "name": "p10",
+          "sha256": "b08cd14306f6c85d4ff116f71f16d9649b55d2259d00601406788a8c317246bc",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "3bba4ceaf54e5d74afcff578991a49fbdc34151c74dc9416723557c9e943baf8"
+        },
+        {
+          "name": "p11",
+          "sha256": "c5e44a6f2e903c0d077b9e6cf514d374b2ad104909b3513e38c4d71bad7e0b97",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "08ad2a52dd822c9c223d9edb1741001ed4b7ada3bc03946fa634f6a295c873cc"
+        },
+        {
+          "name": "p12",
+          "sha256": "6b195a711150cd66fc8a8259901e6efdaeeed073b3c85893aac162c53b2da652",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "ffe0912318cf790a7706539cb558b1efa12efa96cf3f05b72fd334ac75bae281"
+        }
+      ]
+    },
+    {
+      "id": "expansion-0064",
+      "title": "藤兜的左边在哪儿",
+      "reviewedBodySha256": "525c91ca03c33df9187bcf5a94c449cbdc4e0d7bee9ce0ca647ae313ff8f5e7d",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "40421431c957a171a55bde2838d62b7e8023493665edd6363f99da42a614f7a0",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "fbff7bdb3ca823fce47832f47e884bee9c94da5eaa2e5280d0b0cec984000c7d"
+        },
+        {
+          "name": "p01",
+          "sha256": "26231d45545a61cffc626782cd55a1ed9bad4ef21752dfdbc5439ef60f86018c",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "13cb1012ca07ae62dd00271c5fc290067a7da759af2ee0cd05743bdf0e5f4227"
+        },
+        {
+          "name": "p02",
+          "sha256": "363574269f8f3090322bf4cc42eb9a0e38f6db78f960a84a1df1d5bf7bde2e2e",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "eb2ecaa383da22b4c18ccdd96f63719bc3b1668e39fe07e5106bd21c9fc41b65"
+        },
+        {
+          "name": "p03",
+          "sha256": "443ffdf32f399f4669de663b22cdebb1531e397794012a28b4d0b94b5b032bb6",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "17a23d8bfb4de4e668040866ee0946d248d07138ad40fbfdd3f28e78f1d34b53"
+        },
+        {
+          "name": "p04",
+          "sha256": "baa586a2a63e83f718e2b0511b2d6c517c689cf1541dd42192b675a1c93a16ee",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "a09303032dd2e8c908e208dbcca92d47e0b44da5dc212dd252b8f2a00868adbc"
+        },
+        {
+          "name": "p05",
+          "sha256": "e93158d90b3d3afcfcb9f135150da531f023aedd0c72b07a9ccfaa599156c746",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "aa532d3315b7fdbaaac3c43daf4966adf829ade55c77ce44c919504f76f99c64"
+        },
+        {
+          "name": "p06",
+          "sha256": "a859020d261233ca5693fece986d88ce4b023c4e87ec7f787d8976aeb475152f",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b9c56536e839a864431ad2e8573cab5de35c5b7cf33f8704e329fca5f5527e5d"
+        },
+        {
+          "name": "p07",
+          "sha256": "7932db10edc6f59ae15db32ea9d5fdb765bd968c83c565bc10f1562b4a4e89e9",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "357e8abc426a20dbf7553978f55297b87321328063f1316deb17ad1e80cc0261"
+        },
+        {
+          "name": "p08",
+          "sha256": "3d5d59e68f9ba12d4d86937597e725d4efff4163a08ea0cfe013690338fa40d9",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "1ffd6f022ebd7a0b0bfdefaebb57bbf31434666975b4462e63d2a9f39292befa"
+        },
+        {
+          "name": "p09",
+          "sha256": "fe6d3365a52a8228c918db29b8317ca63647cef65d0f9295b9f881009dfbb53c",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "650695f713a5623131501c62cb4e58990087a1c0e9c9aad6f89289eeaf3a8a89"
+        },
+        {
+          "name": "p10",
+          "sha256": "8e35724773221077b5ba7439a7e97491e6a83d28d6f33b43f0dcf0392d360920",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "24d4f82cc85b57da4d36d90e0dd8cd2a2d047b45f4021cca5324eb1725f79579"
+        },
+        {
+          "name": "p11",
+          "sha256": "4a8c80331b6160878062a9fea880f214a590da6d2b7fa4cd6097c15d9e186bc9",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "f91cb674dcef8075ea67743b168ce6b2b00afaa6a751b312a988e5d4068825e3"
+        },
+        {
+          "name": "p12",
+          "sha256": "02b812ce2c3a52cea256ba9b6b01a49478441de226227b8a92abd55e32280325",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "e324d1bf81ee809efce8efb90957821d13893189d4996e5ffe81b38b7edecd44"
+        }
+      ]
+    },
+    {
+      "id": "expansion-0065",
+      "title": "蓝鱼风筝的半边花园",
+      "reviewedBodySha256": "700ab3abd826f68ce109285e4f718dfbec9d48e5de3612a8d703aec4accdf68a",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "c235f0978e36a7eac674d78ce30f17bddf943da4112fdebba6224d8712af84a1",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "e358d118ee885c16555b750e9741ac4ec40e1e61cbd4dc65d36526e9937d2c86"
+        },
+        {
+          "name": "p01",
+          "sha256": "301195ba07cde6ef3e9f15f63bed680160efe370522f48dfb16841ff46429247",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "aa5b33f4848239b47dd0c5955e924a05626313f0c719223e05681c790becbc5b"
+        },
+        {
+          "name": "p02",
+          "sha256": "628069eee5d931434168b49f6e9a47c27363c535dd5c62b6582f58063848be5d",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "d713c636bed43b5fc04854cd6f00c3c6eb7c4db79418c8c0389452b6ee9f00b1"
+        },
+        {
+          "name": "p03",
+          "sha256": "866e569f2762582f0d1fe339e2137c5858e6855eb98d464ddc64afab9f2d9f90",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "8ff6a2e121874ae40d209f22643bbf7693604f71b69f47bf4fc328848aa4b986"
+        },
+        {
+          "name": "p04",
+          "sha256": "326264660cdf6bf0a2540e5da1f6b37eb13e00d87f5503f1202b216c1bf207f5",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "3463b32979d8d0f2c6ecf6c34676b1d9c7b16bf28cb44a333800fab044ec1e83"
+        },
+        {
+          "name": "p05",
+          "sha256": "56e337dc3329ab3ead4ba622fab558df10745504c107fc2cb043ba564d8bd475",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "f488ce2bc1bd263864f888a80d3e8f43f63b52c8b1fcc1b4bb3ef2518245abfd"
+        },
+        {
+          "name": "p06",
+          "sha256": "273118070a52a70248af3aa79759757afbf7094b25699b52436aab23c4a27548",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b37cb87415b8d45fad79e7badbddc7aea7dca68096eee535c2682f0e6c5ca8a4"
+        },
+        {
+          "name": "p07",
+          "sha256": "b230f4156ee146734cd7ac400cbbdb7ec9126509e8ac1fddd24b503bc6245f0f",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "71ecba25805ceff2cdd2b1ee45f2942a47f1962bb753d28f3f826848aba48a45"
+        },
+        {
+          "name": "p08",
+          "sha256": "dbe58b2fe333e2d8eea9634fb1532f2c47d0e9136f298078bbfde8422487c445",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "57db299b3501a37e29d5e5bee9dccb86bc87849d36cd8beb596102df72151156"
+        },
+        {
+          "name": "p09",
+          "sha256": "b13d71902e6d13e31606d56d4f5908a9eaa96fbfd15271682c0c088ad66ccf23",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "8d08f5317b61242159d594e95ee039388fdfb472d8c0c0556cf424cb41e2dd13"
+        },
+        {
+          "name": "p10",
+          "sha256": "828508501bac5f35a70e0b13f28bfd4ae7c677412d40fce19dd0b0fd5f3c14a8",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "594743b540eede546a70b2da92542fa74d7bf73dff8eb3dd0ee2caabf663727e"
+        },
+        {
+          "name": "p11",
+          "sha256": "71a3e5ae32baf923e426370878f6e851eaa567ea8060964d7a91b073d27f4bee",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "20826b3cdafb3903c0a884228d5715b94e7f3506e10bec0cdeca56894b37d892"
+        },
+        {
+          "name": "p12",
+          "sha256": "9ee5ac3508e70a28dec7243e1358945cb2538dfaf033cb3d76f7525a1038c62d",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "ab2bc978fa156303ed148c3786c4758f2da8685bd1539b4487ee33208897777a"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "decodedImages": 117,
+    "uniquePixelHashes": 117,
+    "finalManuscriptReviewHashesMatched": true,
+    "invalidNumericValues": false
+  }
+}

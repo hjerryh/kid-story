@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0048",
+  "title": "月光牧屋的松果床",
+  "version": 1,
+  "bodyCharacters": 552,
+  "pages": 8,
+  "duration": 177.154,
+  "bodySha256": "407f7aa4dc8499fb0022c7102bfb106a84b9efa24a956d2efd6cfa8f25688b42",
+  "audioSha256": "b46fda09784e5c31b6af5d909d9aabe61d4942e24a3d0bf59e60b969c05c17ce",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "064d57aaa478877925c68a35334041f31a18aaddbdceb5ba067dd245c4fb19bc",
+      "bytes": 16516
+    },
+    {
+      "name": "p01",
+      "sha256": "f217d91a413f606baf1943f119c8771249562bff434b7ee39fa7d00e017c4b60",
+      "bytes": 13418
+    },
+    {
+      "name": "p02",
+      "sha256": "8078df88346c925b19718852b829cd1199cdc2c17047c542bddf62039f1559df",
+      "bytes": 12122
+    },
+    {
+      "name": "p03",
+      "sha256": "036fc450713af42058302940e6ecaca29b13eb4ce0628925f90b87abc6d2baf6",
+      "bytes": 12636
+    },
+    {
+      "name": "p04",
+      "sha256": "86db2bc870e150207a25055906ae81e7f59b55e0b1d095a97e9f074b46967d00",
+      "bytes": 13080
+    },
+    {
+      "name": "p05",
+      "sha256": "7cedd39df8b50fc9c5a51c5d7dda4a386c0234ac9c9c960b48609de85a0a86fb",
+      "bytes": 13430
+    },
+    {
+      "name": "p06",
+      "sha256": "dbe63542366ff37f2dd26183abe35aeaeebb327e1a611d6903f97dd31f6c66dd",
+      "bytes": 13124
+    },
+    {
+      "name": "p07",
+      "sha256": "6ff074f062e55ed6d89905aa9d58315dda7dec711f90f22b160a9306e0ad394b",
+      "bytes": 12688
+    },
+    {
+      "name": "p08",
+      "sha256": "2189af81ba8a3d769bee7fd7b6635ee0fc20b5cd5605998fea88936f072f5968",
+      "bytes": 12052
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

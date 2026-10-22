@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0061",
+  "title": "拖鞋的夜游图",
+  "version": 1,
+  "bodyCharacters": 1023,
+  "pages": 12,
+  "duration": 304.794,
+  "bodySha256": "43b35d0a04de051273f4560041f11e3fe4dec88ec62722923d39d649c8356123",
+  "audioSha256": "a71bf99462db49782be5d1b6af59d20dc0a8c3972375fcd72b52f5883540ce7e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "02e012bbb50052f610100b0610c52737d598bf9d0f903337b5020a35aa13addd",
+      "bytes": 18166
+    },
+    {
+      "name": "p01",
+      "sha256": "e4093912c855469064838399d006393a1f6768120aeb01ecb9e82a7ecf5768bc",
+      "bytes": 11956
+    },
+    {
+      "name": "p02",
+      "sha256": "fe1fa49d20473e716db159433f037fcfe721c1d7589494047710b009d16dcc45",
+      "bytes": 14710
+    },
+    {
+      "name": "p03",
+      "sha256": "f47e845169958cf9612d226d10d607d66bfee01c536310797b8680474175c8a7",
+      "bytes": 9256
+    },
+    {
+      "name": "p04",
+      "sha256": "6f582dd48018bce45b21f6b9f6c22289f018ebf66a1e1e58658a0acb1ebc6f2e",
+      "bytes": 11796
+    },
+    {
+      "name": "p05",
+      "sha256": "dcd463a42cc3c110df7723284028227ae74687e314c8525b4e2915588dedec40",
+      "bytes": 9974
+    },
+    {
+      "name": "p06",
+      "sha256": "1b5fc786bb4563008da48b1eafce7b3bbdcec24c478a781385403db17f639a8f",
+      "bytes": 9858
+    },
+    {
+      "name": "p07",
+      "sha256": "210108feaa2b1a23e812501e0f73d1da1b644a22a053b19336dddf38e0add330",
+      "bytes": 11936
+    },
+    {
+      "name": "p08",
+      "sha256": "b0bae23e7f1548841ca3e9118d17df96f482810639598c681beca9a5b85727a8",
+      "bytes": 11398
+    },
+    {
+      "name": "p09",
+      "sha256": "03fc5abd9e6e3da0db18b414a3c7d741260bff79534083d46ee8950a012ecd4b",
+      "bytes": 10192
+    },
+    {
+      "name": "p10",
+      "sha256": "a57082ac157d18606fc2a9bb8852ebf25fb8994e8a35b8fd2b5bf83638c60e53",
+      "bytes": 13210
+    },
+    {
+      "name": "p11",
+      "sha256": "6fe9ad991daecdb0b8c6a0ab7e09f9395a484941d954845ffbee4a2ee8295e78",
+      "bytes": 12646
+    },
+    {
+      "name": "p12",
+      "sha256": "1253604af59d5a437384ea0c6922c0f1d2f83b1266d20275aeeeb6a677a28ea9",
+      "bytes": 8950
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

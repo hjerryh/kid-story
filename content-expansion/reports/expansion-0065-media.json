@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0065",
+  "title": "蓝鱼风筝的半边花园",
+  "version": 1,
+  "bodyCharacters": 1066,
+  "pages": 12,
+  "duration": 323.898,
+  "bodySha256": "41879e108170acb068f854c1fed356c2999fb0d06fd38a3c15c5ea8e295f2313",
+  "audioSha256": "1e3f7116055b726be3326231db6aad5b8907cb23a65e742b71aefc86bfaa4c04",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "7d902a2ab9d5e21af68ba81853317ba155a84f05caceff48bf556dd337a15e79",
+      "bytes": 22536
+    },
+    {
+      "name": "p01",
+      "sha256": "6a2801c4179c560236fd5c86d848587522f2dcad312052be8d23c89afd0ca10f",
+      "bytes": 16930
+    },
+    {
+      "name": "p02",
+      "sha256": "6bcff4fee5dced31110edc86a0e4b6551289c435b0bb6deb2e90f2d1ce7be722",
+      "bytes": 18108
+    },
+    {
+      "name": "p03",
+      "sha256": "4e34495c8597ad62b000dcde8b41517303be5b4eb6e4c514742521798ada3666",
+      "bytes": 14512
+    },
+    {
+      "name": "p04",
+      "sha256": "4407aabe1e55ab2fc124133a4b929c5a62fc281d059d9e28abcf4ae9bd16f719",
+      "bytes": 17104
+    },
+    {
+      "name": "p05",
+      "sha256": "a0d05336b5e1e95230e4f524ebeec91e210b0a3f59dbb83008912ccf89f2a7c3",
+      "bytes": 17200
+    },
+    {
+      "name": "p06",
+      "sha256": "4eaecc1de64e749b99cdfb3b76c278374fc7ff48046ecef8bd20c21270bd8b66",
+      "bytes": 16620
+    },
+    {
+      "name": "p07",
+      "sha256": "90f6bb7f4fd4cce388b8a66585eea683895c85e2c472fc7758763d9d906f983b",
+      "bytes": 16450
+    },
+    {
+      "name": "p08",
+      "sha256": "9deb9d13e6d29f65b3294639f6f8c5c61b0d80c1f00eb7da8458f42f9a7d56db",
+      "bytes": 16256
+    },
+    {
+      "name": "p09",
+      "sha256": "6f2457a94b05cc0c74f42fea12162ef4cd86602c39bc06368c12368aa66405a7",
+      "bytes": 17782
+    },
+    {
+      "name": "p10",
+      "sha256": "8272f94a766838b1a861db2b3b2bf674fbdf41a4df6204df858f34bba99fdd58",
+      "bytes": 16272
+    },
+    {
+      "name": "p11",
+      "sha256": "8c13f676bcac2aec5dc8ab037dfe88bce8c0a4208878d7d6f4c40cb2999dc7ed",
+      "bytes": 17232
+    },
+    {
+      "name": "p12",
+      "sha256": "57e8455cf34fe3844e6d8ba743fbee718295527b3f3f083ec71b7e6686fe9722",
+      "bytes": 17508
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

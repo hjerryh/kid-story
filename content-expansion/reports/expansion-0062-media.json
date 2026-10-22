@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0062",
+  "title": "毛线手，先挥一挥",
+  "version": 1,
+  "bodyCharacters": 1052,
+  "pages": 12,
+  "duration": 314.058,
+  "bodySha256": "239d3c0a073f0a908c711389405053fb00827b61c49b95487c8568d04c82c988",
+  "audioSha256": "34b2ba3745d9461711bc5f4aba7f12bc0c7331e04236774143b4fc963b0a9571",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "54a9a87d0c49efe7fc4c75e7b5770860ef1c45b075c28f6792b1d32972672b2f",
+      "bytes": 18860
+    },
+    {
+      "name": "p01",
+      "sha256": "ae504fb02f9073812429f567d6a5bd16ec4e215b7513febc41376e62273589cc",
+      "bytes": 16732
+    },
+    {
+      "name": "p02",
+      "sha256": "12663a28e4d1c6a7a8e3fc7d4eb9bd2d1b56cb5ffed222205527afcead0ef6c6",
+      "bytes": 16152
+    },
+    {
+      "name": "p03",
+      "sha256": "7ec12079ceb613525259e289e6429bc78dd7ebd66762d270e422889a7b278a6c",
+      "bytes": 16760
+    },
+    {
+      "name": "p04",
+      "sha256": "c0493465d827afc0e3380aa2e4c3c1ef420ccb42a417f69342530ae0726000b6",
+      "bytes": 15716
+    },
+    {
+      "name": "p05",
+      "sha256": "b7621fcd7ce48e005d875c20912b21749e93b0a32c094d0c7e79c3087ecabb30",
+      "bytes": 16368
+    },
+    {
+      "name": "p06",
+      "sha256": "ee32c7e88a7e8668c9be58aa46677867bc7d517971de98e36c67c140f85989a5",
+      "bytes": 17438
+    },
+    {
+      "name": "p07",
+      "sha256": "9bf2106aee7ee0d72dbc55c1e7bbb05bb84d30c09f327c9a7d536518ca686e34",
+      "bytes": 16260
+    },
+    {
+      "name": "p08",
+      "sha256": "5c758947b72209aebf51ca27ca6a84d2d70330a47acd1bbee2ce5f516fa0e389",
+      "bytes": 16300
+    },
+    {
+      "name": "p09",
+      "sha256": "36cd79a2095ea19143d303f56f5af2971e36158691d5c4c32029f6dbabde4cb3",
+      "bytes": 15910
+    },
+    {
+      "name": "p10",
+      "sha256": "34093ae62b253d594e19126b3d2922a10e583d7b580408d99f77f23837c2145b",
+      "bytes": 16838
+    },
+    {
+      "name": "p11",
+      "sha256": "8aab828aa660b7a8e55c039f8e1493e4c916be37a7c282a811a96ae44b3cbfea",
+      "bytes": 15706
+    },
+    {
+      "name": "p12",
+      "sha256": "0300fe2e5bc789ca1808fd2f98244b812ce4824395b41a96e65752387633162e",
+      "bytes": 16768
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
