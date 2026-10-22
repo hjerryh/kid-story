@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0066",
+  "title": "萝卜梦睡在左边",
+  "version": 1,
+  "bodyCharacters": 1000,
+  "pages": 12,
+  "duration": 291.474,
+  "bodySha256": "eccb6eaa78bf8702f81e4e9c0437a0bb509a6c50d99de06041fc9c0bc01b28aa",
+  "audioSha256": "4efb238a7b1142ae8ee8ff59917500293ba077470cf68fe8f380a94dba07f1b7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "c2f1e1fa37bfa152b8c2f7657b058b4f1d986ea15530f67fb91b5a3f0769dcba",
+      "bytes": 30000
+    },
+    {
+      "name": "p01",
+      "sha256": "c2e9a967fcb179bf3843d67e83e9bbc5b7085e4ea25582114e7497c719accf26",
+      "bytes": 17090
+    },
+    {
+      "name": "p02",
+      "sha256": "a972afcebfe3f9cb5bf6a1f3b2a42523c977b8bf9062fda28b393fcee4d301d1",
+      "bytes": 21424
+    },
+    {
+      "name": "p03",
+      "sha256": "a6e33f27edfb6b8854d8ab3585e2dfe658af2deb9326104ac35ef3be823c1c45",
+      "bytes": 22346
+    },
+    {
+      "name": "p04",
+      "sha256": "9c1012c2f05a78e7d8d5590770342b6d0c7e92d95d741baa5f51d5ce456edb60",
+      "bytes": 21972
+    },
+    {
+      "name": "p05",
+      "sha256": "c605c0acf1c108351aa6d5357f346b1259fdfa401deb17f768507c199a49de42",
+      "bytes": 23316
+    },
+    {
+      "name": "p06",
+      "sha256": "a62ef7534968be0a888a64e0242d2d840d95592e1b57a409109220b071b66d1e",
+      "bytes": 22122
+    },
+    {
+      "name": "p07",
+      "sha256": "39e14a38cf5dce3221f75b98c43fb1b8d363758b0702abaa46907e41e09b1d69",
+      "bytes": 16340
+    },
+    {
+      "name": "p08",
+      "sha256": "831b65654b5f84d57e0780d02e8aa720a6412f5eed3dd28d2d5d3615b8594feb",
+      "bytes": 22698
+    },
+    {
+      "name": "p09",
+      "sha256": "80933b595a73cc73b43373013caaf104c4f1cf0c5eca22656bdbcfb2650b72eb",
+      "bytes": 21296
+    },
+    {
+      "name": "p10",
+      "sha256": "edbfaee8a7367985b5aee3fa9777edb563f83ba11ef0ccdaedf30c33de8fb606",
+      "bytes": 17228
+    },
+    {
+      "name": "p11",
+      "sha256": "fd9b9e6bb06ce195a43d535f7f480fe1bfabb6321f579dfe02a333968065ab4f",
+      "bytes": 13990
+    },
+    {
+      "name": "p12",
+      "sha256": "3cfbbf46ed2ae3cf22c70004adaf904b823f388aab384742e011daea0b75fd3b",
+      "bytes": 14004
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0068",
+  "title": "纸鹅和蓝布湖",
+  "version": 1,
+  "bodyCharacters": 992,
+  "pages": 12,
+  "duration": 304.698,
+  "bodySha256": "c411f42087bdda6a6bd920e4d022ebd9e387540b60a1b3c27deb87c379db37f1",
+  "audioSha256": "c4edf95633a3c0cd4bd8ed4e283372edd26867aca7a4b441d6b073960764e236",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d4f7e4c84a3030f478f713d68a66c2e623daa3147664aa5b5c1180f82fa8c9e8",
+      "bytes": 17258
+    },
+    {
+      "name": "p01",
+      "sha256": "8bad7d5ecbf9c0ae9590871abbe774b4ef43da2267815aa389bb46b0c2edb0d1",
+      "bytes": 13036
+    },
+    {
+      "name": "p02",
+      "sha256": "b2b2d97b2f5aeb547c469a5ab352f07c6211512f4d5007f6f9bf90275f6ce226",
+      "bytes": 15214
+    },
+    {
+      "name": "p03",
+      "sha256": "f9d70480a0986973de1ca266fe5ea9b8b44a6ea8ef42e98f6df898707b3b5ddd",
+      "bytes": 16946
+    },
+    {
+      "name": "p04",
+      "sha256": "9b603ed397f4d6ee8b72e3d1260b991c94103dd8de3a9bbc7c86e826caf1211e",
+      "bytes": 14156
+    },
+    {
+      "name": "p05",
+      "sha256": "1dbdb2b54a8b1b0778694bb2482a67004f2faf40b3301124df10fb15893a4962",
+      "bytes": 13962
+    },
+    {
+      "name": "p06",
+      "sha256": "0c3b1b046bca73b25b8e764878ccc1fd275a5c1418d382f0fb58026a882d49aa",
+      "bytes": 16386
+    },
+    {
+      "name": "p07",
+      "sha256": "b465c86990c8f6bd7820de45ea33bcc245da77b641aa8804435023173e88e26f",
+      "bytes": 15002
+    },
+    {
+      "name": "p08",
+      "sha256": "29881eae8459b39bfff4f5903cdd86fe0543e485715e9cd41982bb1a4bbd24ec",
+      "bytes": 16524
+    },
+    {
+      "name": "p09",
+      "sha256": "97b356e3afd1e6d314ba135ebc5673a4531fa322c7430f0f32fce1eac904b180",
+      "bytes": 14576
+    },
+    {
+      "name": "p10",
+      "sha256": "0cf712733689dd7fe0e7f8ed312ef31b4587cd22c6f9868f508b127c97ee9b5b",
+      "bytes": 15452
+    },
+    {
+      "name": "p11",
+      "sha256": "f750f94220481abdf4bd1012000d571a4bcf05416d077219507d50f8ee22506e",
+      "bytes": 19106
+    },
+    {
+      "name": "p12",
+      "sha256": "5c52dce14332da638cecff795ad280947feeb86e0f09929d691883266139a9fb",
+      "bytes": 14706
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

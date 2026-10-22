@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0067",
+  "title": "绒针把伞留给风",
+  "version": 1,
+  "bodyCharacters": 965,
+  "pages": 12,
+  "duration": 290.202,
+  "bodySha256": "a0212a1aafe37b266585abb84ce31c6809e8a9479db5a071a699050f51f8666d",
+  "audioSha256": "c7287c43ed77aef4b3bd8d03e1a5a8c6980ae881c78131899af3beb9ed1c10ed",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3cf7f5b43d29de1a46c93e545c72b587279455d49a666284d64f61c2d80f86f9",
+      "bytes": 19714
+    },
+    {
+      "name": "p01",
+      "sha256": "defa0021301d1c32964f499fa01f2034f00702f761d9a792b63287c0ba2b9f0c",
+      "bytes": 13802
+    },
+    {
+      "name": "p02",
+      "sha256": "9650158b4f1bdaba86d4973ae2fcc74a93de138ca58e6b7010f3e35663f2e276",
+      "bytes": 15572
+    },
+    {
+      "name": "p03",
+      "sha256": "82b280c77b6ac4694887d07ac0aa3627a34c2a34ce0d461b7b86aeb88367ca22",
+      "bytes": 13678
+    },
+    {
+      "name": "p04",
+      "sha256": "a166f89c17e04b2fafbe7cdb5d0291a06d5bc69a0634b1f7aeb77dad8eee9e97",
+      "bytes": 12020
+    },
+    {
+      "name": "p05",
+      "sha256": "513ff23296226364555d55cba145a2c7760e8ddd0ef57e818f9470c64ddbfa7c",
+      "bytes": 13002
+    },
+    {
+      "name": "p06",
+      "sha256": "dfc8a38972ed7f21213c69cb1933d15494777bf19d1b8dcf427fe81d160c70c2",
+      "bytes": 13344
+    },
+    {
+      "name": "p07",
+      "sha256": "4aee1d3361d0e499d7ac97c2447a8a1abe5a5ef1bd540f460825140eb42e02fa",
+      "bytes": 15766
+    },
+    {
+      "name": "p08",
+      "sha256": "454d7b4d7c152d003b33451f829598d38deab550570987985229574517f4120d",
+      "bytes": 14298
+    },
+    {
+      "name": "p09",
+      "sha256": "df5d773970f94477334307ffd86e30f6ba3705d073743755b50251a403c53e98",
+      "bytes": 14218
+    },
+    {
+      "name": "p10",
+      "sha256": "dfac6f2f25ea0a22b822913355370b147f87efbd48c7f40c543cd3f7a38f8c0b",
+      "bytes": 13910
+    },
+    {
+      "name": "p11",
+      "sha256": "fb15502324ec2af1d037ab88b5ff50f452deaba6ba0f5dca82d3b2cfdf292043",
+      "bytes": 15088
+    },
+    {
+      "name": "p12",
+      "sha256": "cf0c6ebf309654494ecd6afdff89718c1add1b4712144178f6c0c44250fd4279",
+      "bytes": 16604
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

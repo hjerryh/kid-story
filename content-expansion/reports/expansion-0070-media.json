@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0070",
+  "title": "小鼓后面的那首歌",
+  "version": 1,
+  "bodyCharacters": 955,
+  "pages": 12,
+  "duration": 283.218,
+  "bodySha256": "f21ee4309767b59a81559739ed6a510aefd5286c920b295026ce9f3146031dd7",
+  "audioSha256": "127b549f4e4396240540a0a070b1a9d978d608ffcf4fdc2a89d67cf8f95fde4e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d326f7d169644eef55e1a645ffea2ab66994f4dcd02b2a936ab47e3fb2ba297d",
+      "bytes": 19876
+    },
+    {
+      "name": "p01",
+      "sha256": "fe3f9751e6df9b21bbdd33f3bdf60894190acec7a2ae2e73fefd832640fd33aa",
+      "bytes": 14318
+    },
+    {
+      "name": "p02",
+      "sha256": "db818487e8cec370ef454616b782ff4948b221516b942fc7df71f67c38ddd1b4",
+      "bytes": 13950
+    },
+    {
+      "name": "p03",
+      "sha256": "8003f6ad74c62edf5c54c6e1a114e5e32046b3cba8bab9d13186bb20cb879429",
+      "bytes": 18720
+    },
+    {
+      "name": "p04",
+      "sha256": "5bfa9c6271acef32eebac22b1e9e27a88eec3727db12ea617d1332dbe73ed858",
+      "bytes": 18686
+    },
+    {
+      "name": "p05",
+      "sha256": "c716129aec4a62d3cbe88910d65f3403bbc8fd427c58dfd0bf94a5935a4468df",
+      "bytes": 15098
+    },
+    {
+      "name": "p06",
+      "sha256": "c5506e651c9d4b4a1c68a63a8fbba4fe126c3b767395fee0f58269a87708eced",
+      "bytes": 15504
+    },
+    {
+      "name": "p07",
+      "sha256": "67f3e6b99dc4d675e335c46b7fe6272c3071a92c8da06329fbcf64a735fba2f0",
+      "bytes": 18298
+    },
+    {
+      "name": "p08",
+      "sha256": "d10e35bd08d4e3fb28e2339996a82bf20326106fd477990b4580bd203280a20f",
+      "bytes": 19248
+    },
+    {
+      "name": "p09",
+      "sha256": "57773e50fecbfd7374e23d6697b270d4b28aa39ec276f1639f0ffb7158c6b0df",
+      "bytes": 15444
+    },
+    {
+      "name": "p10",
+      "sha256": "9817ddfe569d9e6bfc7cbd79bb026e936e59358ae51e1ce75efd3baa3b38f1eb",
+      "bytes": 18470
+    },
+    {
+      "name": "p11",
+      "sha256": "c7e88525bb344c136541dfa2580b964d7c0a81ba2aae25dd0e4cfa9cb02677e5",
+      "bytes": 16828
+    },
+    {
+      "name": "p12",
+      "sha256": "2fceef319cb132fe8354ff33dedaa7ab429aff1b594d692eaeedbcbd6009f236",
+      "bytes": 15692
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

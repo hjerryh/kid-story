@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0069",
+  "title": "画给球的一条红线",
+  "version": 1,
+  "bodyCharacters": 1053,
+  "pages": 12,
+  "duration": 324.066,
+  "bodySha256": "3faa10636a9ac2d77c8fba773445ac201874b3a02d4d249fe640bb89f622de02",
+  "audioSha256": "4fd43036977651565f53c0c5ebf25465f1efcf05995807a82456825f050a622b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6adb2ac3627bef3f0ac7c8c97b9dac331e383565eb4c8bc7392c3449a2ce9a9e",
+      "bytes": 13586
+    },
+    {
+      "name": "p01",
+      "sha256": "1101a8563e6ec26a82dad5a1df64595889b13b90cc5087c95170c0c468995550",
+      "bytes": 13550
+    },
+    {
+      "name": "p02",
+      "sha256": "4cfc50f2ae37e8c1ff6b2124adcb7e8cf6f8512d6d5028cbf491561a115d567f",
+      "bytes": 14082
+    },
+    {
+      "name": "p03",
+      "sha256": "f32f9a1b8c4e6d309677e05aaf0f524cf0195cbf5d3fc1876adbf676c9cd6501",
+      "bytes": 13312
+    },
+    {
+      "name": "p04",
+      "sha256": "e7407d3aa7f238bf83b85293836faa72a8e7bda24ecf3af8473ce1165f8e6d06",
+      "bytes": 13770
+    },
+    {
+      "name": "p05",
+      "sha256": "416a0fdbf3bfc19a6a8c6081d452ef28c3f968e955c9dd2170e9512dbeaf4008",
+      "bytes": 13382
+    },
+    {
+      "name": "p06",
+      "sha256": "03ce7ad4df047f135c0e06a91022417877447b85109d451f254e04c981b33e9d",
+      "bytes": 13218
+    },
+    {
+      "name": "p07",
+      "sha256": "0af27706364806842290403704c9eae07ca8097d0fc3610e56f2a9f6465e8731",
+      "bytes": 10788
+    },
+    {
+      "name": "p08",
+      "sha256": "53390e4d6cd13cb97bfcb4bead689457f1c278a7f63277df568fd1aa4bffd42d",
+      "bytes": 13438
+    },
+    {
+      "name": "p09",
+      "sha256": "e26be0fb0ef215342ed6c0906106c16b333bc559551aa90c7477ac53597d9f09",
+      "bytes": 13576
+    },
+    {
+      "name": "p10",
+      "sha256": "1409b6b439e7cc41e4dc7dd13475363faa1b798123e3035e9875c05be53e980e",
+      "bytes": 13284
+    },
+    {
+      "name": "p11",
+      "sha256": "6c3045e540b627906fac243b1f2811720782e8031727fd45764a4c3d871dffbb",
+      "bytes": 13580
+    },
+    {
+      "name": "p12",
+      "sha256": "eb45785f02e6e92d41e019f48cf6692ccf976be6d67d3049f479f7457120ba58",
+      "bytes": 14174
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

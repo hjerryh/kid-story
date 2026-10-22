@@ -64,3 +64,5 @@ Files: docs/deployment.md、docs/verification.md、deploy/nginx/kid-store.jentin
 ## 当前里程碑
 
 2026-10-22，首批40篇已完成全文审稿、496张插图、40条旁白（11956.440秒）并发布，线上共46篇。22项测试通过，785个发布文件校验通过，40条音频Range通过。后续24批继续执行，只有1000篇全部完成才能关闭目标。详见`content-expansion/reports/batch-001-publication.md`。
+
+2026-10-23进展：第二批0041–0080共40篇正文全部全文审阅；0041–0065的25篇完成媒体并发布，累计65篇新增/71篇线上。0066–0070已完成媒体并通过实际应用解析器，尚待后续发布。第三批已开始审稿和配音。第二批部分发布证据见`content-expansion/reports/batch-002-publication-partial.md`；1000篇目标仍开放。
