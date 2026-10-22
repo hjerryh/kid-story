@@ -1,16 +1,17 @@
 # 网页部署记录
 
-部署日期：2026-10-22（Asia/Shanghai）。正式地址：<https://kid-store.jentin.cn>。
+部署日期：2026-10-23（Asia/Shanghai）。正式地址：<https://kid-store.jentin.cn>。
 
 ## 发布内容
 
-- 当前发布：`20261022-expansion-65-v1`，基于`80a1261`后的第二批扩展，Expo Web生产导出。
-- 71篇完整故事：原有6篇，加上`expansion-0001`至`expansion-0065`。扩展库共有692页、757张插图/封面和65条完整旁白（17530.738秒）。1000篇扩展目标仍在进行中。
-- 本次增加0041–0065共25篇、236页、261张图、5574.298秒旁白。当前清单1096个文件，256213084字节；增量仅上传312个变化文件，60287156字节。
-- 发布包：`artifacts/StoryIsland-Web-20261022-expansion-65-v1.incremental.tar.gz`。
-- 发布包SHA-256：`7563af0989f25c6a28fbabd164c7a5209a1f7229b0f3796b7767bc9dd39ee510`。
-- 文件清单：`artifacts/StoryIsland-Web-20261022-expansion-65-v1.manifest.json`；服务器全部1096个文件通过SHA-256核对后才原子切换`current`。
-- 当前JS：`index-d945c738ff3f83fcdacd18ab8cc87d89.js`。上一版`20261022-expansion-40-v1`保留可回退；未变化的媒体通过硬链接复用，已实测同一音频的inode一致。
+- 当前发布：`20261023-expansion-80-v1`，提交`5080651`，Expo Web生产导出。
+- 86篇完整故事：原有6篇，加上`expansion-0001`至`expansion-0080`。扩展库共有912页、992张插图/封面和80条完整旁白（23654.712秒）。1000篇扩展目标仍在进行中。
+- 本次补齐第二批剩余0066–0080共15篇、220页、235张图、6123.974秒旁白。完整第二批0041–0080共40篇、456页、496张图、11698.272秒旁白。
+- 当前清单1361个文件、321487466字节；增量仅上传266个变化文件、65340405字节。
+- 发布包：`artifacts/StoryIsland-Web-20261023-expansion-80-v1.incremental.tar.gz`。
+- 发布包SHA-256：`39f7774af226549c2d2ca1a77011182fbe77fc2a79541314cc154e8aa7d491ad`。
+- 文件清单：`artifacts/StoryIsland-Web-20261023-expansion-80-v1.manifest.json`；服务器全部1361个文件通过SHA-256核对后才原子切换`current`。
+- 当前JS：`index-d945c738ff3f83fcdacd18ab8cc87d89.js`。上一版`20261022-expansion-65-v1`保留可回退；未变化的媒体通过硬链接复用。
 
 这是独立的静态网站，不依赖本机预览服务、Node后端、数据库或在线TTS。收藏和阅读位置保存在访问者自己的浏览器内；本机预览域名下的数据不会迁移到正式域名。
 
@@ -19,8 +20,8 @@
 SSH连接：`jingtian-server`，用户`ubuntu`。公开DNS从`kid-store.jentin.cn`经`jentin.cn`解析到`124.221.85.250`。
 
 - 站点目录：`/www/wwwroot/kid-store.jentin.cn/`
-- 当前资源：`current -> releases/20261022-expansion-65-v1`
-- 服务器校验清单：`manifests/20261022-expansion-65-v1.json`
+- 当前资源：`current -> releases/20261023-expansion-80-v1`
+- 服务器校验清单：`manifests/20261023-expansion-80-v1.json`
 - 更新前的站点配置备份：`manifests/20261022-expansion-40-v1.nginx-before.conf`
 - 证书验证目录：`shared/.well-known/acme-challenge/`
 - Nginx站点配置：`/www/server/panel/vhost/nginx/kid-store.jentin.cn.conf`
@@ -40,13 +41,17 @@ SSH连接：`jingtian-server`，用户`ubuntu`。公开DNS从`kid-store.jentin.c
 
 ## 上线验证
 
-- 当前1096个文件均以HTTPS返回200，长度匹配本地；65篇远程详情及692页内容通过应用实际解析器校验。
-- 65条新MP3的`Range: bytes=1024-2047`均返回206，`Content-Range`及1024字节响应逐条匹配本地。
-- 索引65篇且使用no-cache；版本化素材使用immutable；不存在的音频、JS、图片均返回404。
-- 线上UI显示71篇、3页列表。搜索“牧星”得到1篇，打开《牧星歌里的土豆》可播放并自动翻至第3页（实测1:08）。
-- 暂停、收藏、翻页后停在第5页1:41；刷新后通过继续阅读恢复同页、同位置、收藏状态，并保持暂停。浏览器没有error/warn记录。
-- 证据：`artifacts/expansion-65-live-http-verification.json`、`artifacts/expansion-65-live-home.png`、`artifacts/expansion-65-live-reader.png`、`artifacts/expansion-65-live-restored.png`。本次未在所有终端逐篇全程听完65条音轨。
-- 增量部署脚本9项测试通过，并经独立审阅与故障注入验证回退、清单快照、并发保护和不可变路径。此次Nginx配置未改变，正确二进制的`-t`通过。
+- 当前1361个文件均以HTTPS返回200，长度匹配本地；80篇远程详情及912页内容通过应用实际解析器校验。
+- 80条新增MP3的`Range: bytes=1024-2047`均返回206，`Content-Range`及1024字节响应逐条匹配本地。
+- 索引80篇且使用no-cache；版本化素材使用immutable；不存在的音频、JS、图片均返回404。
+- 线上点击更新故事库后显示86篇、4页列表。搜索“伞先生”得到1篇，打开《伞先生下面不下雨》可播放并自动翻至第2页（实测0:52）。
+- 暂停、收藏、翻页后停在第4页1:21；刷新后通过继续阅读恢复同页、同位置、收藏状态，并保持暂停。浏览器没有error/warn记录。
+- 证据：`artifacts/expansion-80-live-http-verification.json`、`artifacts/expansion-80-live-home.png`、`artifacts/expansion-80-live-reader.png`、`artifacts/expansion-80-live-restored.png`。本次未在所有终端逐篇全程听完80条音轨。
+- 本轮22项应用回归测试、TypeScript、原始内容检查、扩展内容检查与生产导出通过。部署脚本此前9项测试和故障注入验证通过，本轮脚本未改。此次Nginx配置未改变，正确二进制的`-t`通过。
+
+### 第二批前25篇发布的历史验证
+
+`20261022-expansion-65-v1`补充0041–0065后网站达到71篇。1096文件服务器SHA-256与HTTPS长度、65条音频Range全部通过；线上《牧星歌里的土豆》播放至第3页1:08，刷新恢复第5页1:41及收藏，保持暂停。未变化MP3在两版本间inode一致。证据保留于`artifacts/expansion-65-live-*`及`content-expansion/reports/batch-002-publication-partial.md`。
 
 ### 首批40篇发布的历史验证
 

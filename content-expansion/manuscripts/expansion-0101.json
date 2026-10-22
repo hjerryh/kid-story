@@ -190,9 +190,9 @@
     "method": "configured-codex-cli-authored",
     "review": "full-text-reviewed",
     "characters": 1054,
-    "bodySha256": "c49a915cbc58047c927e4d02a5663db471af7497fbb49114629b6239ae77741f",
+    "bodySha256": "416660a2882bfe5795e006ebcc80edeef6b82a69d6d8456a1adc5f4767ae68b0",
     "reasoningEffort": "medium",
-    "reviewedBodySha256": "c49a915cbc58047c927e4d02a5663db471af7497fbb49114629b6239ae77741f",
+    "reviewedBodySha256": "416660a2882bfe5795e006ebcc80edeef6b82a69d6d8456a1adc5f4767ae68b0",
     "reviewReport": "content-expansion/reports/editorial-003-middle.md"
   }
 }
