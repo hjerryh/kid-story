@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0288",
+  "version": 1,
+  "status": "media-ready",
+  "title": "黄拖鞋停在六号房",
+  "subtitle": "黄拖鞋慢慢走",
+  "description": "蒲蒲想在暖灯旅店给乌龟婆婆带路，明明不知道她住哪间房，却说自己记得。听话的魔法拖鞋走错了地方，他要怎样把婆婆好好送回房间？",
+  "ageBand": "3-5",
+  "theme": "诚实与补救",
+  "color": "#E7B875",
+  "character": "小浣熊蒲蒲：灰褐色毛，黑眼圈，蓬松环纹尾巴，穿湖蓝色马甲。乌龟婆婆：橄榄绿色皮肤，棕色圆壳，常戴米白色软帽，穿一双鹅黄色魔法拖鞋。拖鞋有圆头和小小的绣花眼睛。",
+  "cover": "/library/stories/expansion-0288/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 161.722,
+  "detailUrl": "/library/stories/expansion-0288/v1/story.json",
+  "audio": "/library/stories/expansion-0288/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "暖灯旅店里，小浣熊蒲蒲最喜欢给客人带路。乌龟婆婆的软帽放在茶桌上。她喝完茶，揉揉眼睛：“我想回房歇一歇。”蒲蒲立刻挺起胸脯：“我送您去！”他的环纹尾巴也高高翘了起来。",
+      "image": "/library/stories/expansion-0288/v1/p01.webp",
+      "start": 0,
+      "end": 22.406
+    },
+    {
+      "id": "p02",
+      "text": "婆婆穿着一双会走路的黄拖鞋。只要说往左、往右或停下，拖鞋就会照着做。“你记得我的房间吗？”婆婆问。蒲蒲其实不知道，却点点头：“记得，可清楚啦！”",
+      "image": "/library/stories/expansion-0288/v1/p02.webp",
+      "start": 22.406,
+      "end": 41.74
+    },
+    {
+      "id": "p03",
+      "text": "“往左！”蒲蒲说。拖鞋啪嗒啪嗒，带着婆婆转了弯。两边的木门长得真像呀。蒲蒲挑了一扇最大的：“停下，就是这里。”他刚拉开门，一股肥皂香便扑了出来。",
+      "image": "/library/stories/expansion-0288/v1/p03.webp",
+      "start": 41.74,
+      "end": 62.082
+    },
+    {
+      "id": "p04",
+      "text": "里面没有床，只有一叠叠白布巾。婆婆眨眨眼：“我的枕头可没这么多。”蒲蒲的尾巴垂了下来。他望向旁边的门，差点又说就是那间，可婆婆已经轻轻打了个呵欠。",
+      "image": "/library/stories/expansion-0288/v1/p04.webp",
+      "start": 62.082,
+      "end": 81.32
+    },
+    {
+      "id": "p05",
+      "text": "蒲蒲捏着马甲边，小声说：“对不起，我不知道您住哪间。我刚才想让您觉得我很能干。”婆婆停了一会儿，说：“原来是这样。我的房门钥匙，还放在喝茶的小桌上呢。”",
+      "image": "/library/stories/expansion-0288/v1/p05.webp",
+      "start": 81.32,
+      "end": 100.798
+    },
+    {
+      "id": "p06",
+      "text": "“我陪您回去拿。”蒲蒲说。这回，他看清路才指方向。拖鞋慢慢走回大厅。婆婆掀起桌上的软帽，下面果然躺着一把铜钥匙。蒲蒲凑近一看，钥匙上刻着一个六。",
+      "image": "/library/stories/expansion-0288/v1/p06.webp",
+      "start": 100.798,
+      "end": 121.428
+    },
+    {
+      "id": "p07",
+      "text": "蒲蒲陪婆婆沿着另一边走廊找，一扇门一扇门地看。六号房到了！婆婆把钥匙插进去，轻轻一转，门开了。窗边摆着小床，床上只有一个枕头，胖得像刚蒸好的馒头。",
+      "image": "/library/stories/expansion-0288/v1/p07.webp",
+      "start": 121.428,
+      "end": 141.698
+    },
+    {
+      "id": "p08",
+      "text": "婆婆坐到床边，笑着说：“这下可以歇脚啦。”蒲蒲替她拉好窗帘，轻声说：“停下。”黄拖鞋整整齐齐地并在床前。他也把两只脚并好，陪婆婆安安静静地坐了一小会儿。",
+      "image": "/library/stories/expansion-0288/v1/p08.webp",
+      "start": 141.698,
+      "end": 161.722
+    }
+  ],
+  "buildHash": "d9cf12b1e9decc089f4294e251479ac62acac5fb6143a3bcc4ce45a39b01c4d0"
+}

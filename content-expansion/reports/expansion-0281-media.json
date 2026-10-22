@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0281",
+  "title": "最小的小鸡在里面",
+  "version": 1,
+  "bodyCharacters": 487,
+  "pages": 8,
+  "duration": 159.298,
+  "bodySha256": "b8d4655a82f709396d09c910508ade94162dab341391ce1a25fcd15bc15b09a9",
+  "audioSha256": "61856011676d4c82010d286c48ca34330de853c7f55a72eccb12f8b385bf6786",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "12bbb360cc5a2f9d80f72103b5d9ee9cebadc805340bddaefff054c86b88c275",
+      "bytes": 19344
+    },
+    {
+      "name": "p01",
+      "sha256": "638524cbcb32dd96aaed7ba4ff4b8e4027f42ee927b83090ad06ed4c895d0599",
+      "bytes": 14314
+    },
+    {
+      "name": "p02",
+      "sha256": "b90b17f36e22efe01caa8ea99228cad4356431b6d3495aea6755e4062710a2b0",
+      "bytes": 13908
+    },
+    {
+      "name": "p03",
+      "sha256": "5abb5025ab892f3f5618c4d8b15931da00f05d91dda86b2ab50b35886edf4bbf",
+      "bytes": 14864
+    },
+    {
+      "name": "p04",
+      "sha256": "1a89bcfccb102058ff3baf1cd352ba5452cd7e14e171cd13e4f7b36d1c91bb60",
+      "bytes": 15374
+    },
+    {
+      "name": "p05",
+      "sha256": "f659a5fb33d4c62e2787bcfb67a43751774775bbdc24d05350a4f36cfc03e784",
+      "bytes": 15440
+    },
+    {
+      "name": "p06",
+      "sha256": "bf96536c821b217a1329bb5add1c1ed3a6b325eb53f5bda01671b5870f0841c8",
+      "bytes": 15810
+    },
+    {
+      "name": "p07",
+      "sha256": "51efceab5c57a85868b5ee04fec1bf3a06adeaf0e951f6319b5aaacd1de392a0",
+      "bytes": 16336
+    },
+    {
+      "name": "p08",
+      "sha256": "c69f9f95a9e67e2f671e5c88575e5993f7eb8006e26a6e2ef74f42aab0376c19",
+      "bytes": 16150
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

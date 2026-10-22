@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0284",
+  "version": 1,
+  "status": "media-ready",
+  "title": "画像里的尾巴翘起来",
+  "subtitle": "毛线狮子的第一张像",
+  "description": "风雪山屋里，梨米想给毛线狮子画一张像。可她刚拿起蜡笔，朋友就藏起了尾巴。换一种颜色也不行，这张画像究竟哪里让麦卷为难了？",
+  "ageBand": "3-5",
+  "theme": "听懂彼此",
+  "color": "#DCA85C",
+  "character": "小田鼠梨米：浅棕色绒毛，圆耳朵，穿莓红色背带裙。毛线狮子麦卷：金黄色毛线身体，蓬松的卷线鬃毛，尾尖有一个圆线球，系浅绿色领结，身高与梨米相近。",
+  "cover": "/library/stories/expansion-0284/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 167.458,
+  "detailUrl": "/library/stories/expansion-0284/v1/story.json",
+  "audio": "/library/stories/expansion-0284/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雪花扑扑地拍着山屋的窗。小田鼠梨米铺开白纸，对毛线狮子麦卷说：“我要画你，再把画放在窗边！”麦卷抖抖金黄的鬃毛。他还没有一张画像呢，尾巴高兴地摇起来。",
+      "image": "/library/stories/expansion-0284/v1/p01.webp",
+      "start": 0,
+      "end": 20.174
+    },
+    {
+      "id": "p02",
+      "text": "梨米拿起蓝蜡笔，眯起眼睛看了看。“先画你的尾巴吧。”麦卷立刻把尾巴藏到背后。“不要蓝的！”他说。梨米低头看看蜡笔，又看看朋友，想起他的尾巴确实是金黄色的。",
+      "image": "/library/stories/expansion-0284/v1/p02.webp",
+      "start": 20.174,
+      "end": 41.164
+    },
+    {
+      "id": "p03",
+      "text": "她换了一支黄蜡笔。“这回颜色对啦。那我先画你的鬃毛。”麦卷却用两只爪子捂住脑袋。“黄色也不要。”梨米的笔停在半空。白纸还是白白的，连一根毛线都没画上去。",
+      "image": "/library/stories/expansion-0284/v1/p03.webp",
+      "start": 41.164,
+      "end": 62.274
+    },
+    {
+      "id": "p04",
+      "text": "梨米放下蜡笔：“你不想让我画吗？”麦卷摸摸自己的肚皮，小声说：“我想有画像，可蜡笔弄进毛线里，擦不掉怎么办？我的尾巴还要抱着睡觉呢。”说完，他把尾巴抱得更紧了。",
+      "image": "/library/stories/expansion-0284/v1/p04.webp",
+      "start": 62.274,
+      "end": 82.544
+    },
+    {
+      "id": "p05",
+      "text": "“啊，你以为我要在你身上画！”梨米把纸推近些，先在纸角画了自己的圆耳朵。“你看，我的耳朵还在这里，纸上也有一对。”麦卷摸摸她的耳朵，又摸摸纸，爪子慢慢松开了。",
+      "image": "/library/stories/expansion-0284/v1/p05.webp",
+      "start": 82.544,
+      "end": 102.574
+    },
+    {
+      "id": "p06",
+      "text": "“那，纸上的尾巴可以翘起来吗？”麦卷问。“当然，你想怎么摆？”他伸出尾巴，先摆在左边，又摆在右边，最后让圆线球翘到耳朵旁。梨米笑着落下笔，画了一条弯弯的金黄尾巴。",
+      "image": "/library/stories/expansion-0284/v1/p06.webp",
+      "start": 102.574,
+      "end": 124.356
+    },
+    {
+      "id": "p07",
+      "text": "接着是卷卷的鬃毛、圆圆的爪子，还有浅绿色领结。麦卷凑过来看：“纸上的我，好像刚吃饱！”梨米添了一个笑弯的嘴巴。麦卷也笑了，真狮子和纸狮子，都露出一副满足的模样。",
+      "image": "/library/stories/expansion-0284/v1/p07.webp",
+      "start": 124.356,
+      "end": 145.298
+    },
+    {
+      "id": "p08",
+      "text": "他们把画像靠在窗边。麦卷坐在画旁，把自己的尾巴重新抱进怀里。“这一条陪我睡觉，”他轻轻说，“纸上那条，就翘着看雪吧。”窗外雪花一片片落下，窗里，两只金黄的小狮子挨得很近。",
+      "image": "/library/stories/expansion-0284/v1/p08.webp",
+      "start": 145.298,
+      "end": 167.458
+    }
+  ],
+  "buildHash": "5725d4f5f38512547ccd8e546a72e87b6cce742d8da2a69e8f644be9d8250edb"
+}

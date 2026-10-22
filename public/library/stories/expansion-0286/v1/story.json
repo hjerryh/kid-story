@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0286",
+  "version": 1,
+  "status": "media-ready",
+  "title": "雨点票后面是太阳",
+  "subtitle": "两张天气车票",
+  "description": "云朵车站的小火车能开进乘客选好的天气里。苇芽想和墨团一起玩，却发现朋友偏偏喜欢她总想跳过的雨天。两张不同的天气车票，能带来怎样的旅程？",
+  "ageBand": "3-5",
+  "theme": "不同的喜好",
+  "color": "#A8C8DE",
+  "character": "风娃苇芽：浅绿色短发，圆脸，穿白色短外套、蓝色灯笼裤，戴一顶软软的绿帽子。小鼹鼠墨团：深灰色绒毛，粉鼻尖，穿紫色背带裤，挎米色小布包。",
+  "cover": "/library/stories/expansion-0286/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 164.17,
+  "detailUrl": "/library/stories/expansion-0286/v1/story.json",
+  "audio": "/library/stories/expansion-0286/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "云朵车站有一辆小火车，放进什么天气票，就开进什么天气里。车厢有顶棚，座位软乎乎。苇芽拉着墨团说：“我们坐一趟吧！”她已经想好，要看金灿灿的太阳。",
+      "image": "/library/stories/expansion-0286/v1/p01.webp",
+      "start": 0,
+      "end": 18.854
+    },
+    {
+      "id": "p02",
+      "text": "盒子里有太阳票，也有雨点票。苇芽挑了太阳，墨团却拿起雨点。“雨天有什么好玩的？”苇芽说，“鞋底会湿，天空灰灰的。”墨团把票捧在手里：“可我喜欢呀。”",
+      "image": "/library/stories/expansion-0286/v1/p02.webp",
+      "start": 18.854,
+      "end": 38.452
+    },
+    {
+      "id": "p03",
+      "text": "苇芽拿来另一张太阳票，换走了墨团手里的雨点票。“这个亮堂堂，你会喜欢的。”她坐上小火车，拍了拍身边的空位。墨团没有上来，只低头摸着布包的边边。",
+      "image": "/library/stories/expansion-0286/v1/p03.webp",
+      "start": 38.452,
+      "end": 56.874
+    },
+    {
+      "id": "p04",
+      "text": "苇芽又下了车。“你不想和我坐吗？”墨团摇摇头：“我想看雨珠在窗上跑。有的快，有的慢，两颗碰到一起，就变成胖胖的一颗。”他说着，指尖轻轻点起了小雨点。",
+      "image": "/library/stories/expansion-0286/v1/p04.webp",
+      "start": 56.874,
+      "end": 76.76
+    },
+    {
+      "id": "p05",
+      "text": "原来，墨团等的是这样的风景。苇芽还想看太阳，可也想看看胖雨珠。她把多拿的太阳票放回盒子，找回雨点票，递给墨团：“先坐你选的这一趟。下一趟，我还想选晴天。”墨团点点头。",
+      "image": "/library/stories/expansion-0286/v1/p05.webp",
+      "start": 76.76,
+      "end": 99.07
+    },
+    {
+      "id": "p06",
+      "text": "雨点票滑进车头，小火车钻进一片雨云。嗒嗒，嗒嗒，顶棚响起来。墨团贴着窗看，苇芽也凑过去。两颗水珠碰了头，拖着长尾巴往下跑。“一条胖蚯蚓！”苇芽笑出了声。",
+      "image": "/library/stories/expansion-0286/v1/p06.webp",
+      "start": 99.07,
+      "end": 121.068
+    },
+    {
+      "id": "p07",
+      "text": "回到站台，苇芽放进太阳票。小火车驶进暖暖的晴空，座位上落着圆圆的光斑。她把手放在膝头，让一个光斑落进手心。墨团用爪子围住另一个：“我的这个，像一块热乎乎的小饼。”",
+      "image": "/library/stories/expansion-0286/v1/p07.webp",
+      "start": 121.068,
+      "end": 142.586
+    },
+    {
+      "id": "p08",
+      "text": "下车以后，墨团还是最喜欢雨天，苇芽还是最喜欢晴天。他们把座位上的软垫摆好，约好下次再来。“我还要看胖雨珠。”墨团说。苇芽扶好绿帽子：“我知道，我陪你找最胖的一颗。”",
+      "image": "/library/stories/expansion-0286/v1/p08.webp",
+      "start": 142.586,
+      "end": 164.17
+    }
+  ],
+  "buildHash": "c6d21874abfcfcf152b522e920fed674af91564d6dcbe55a08d69d93691f8ee0"
+}

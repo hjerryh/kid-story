@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0282",
+  "version": 1,
+  "status": "media-ready",
+  "title": "雨花把水落在背上",
+  "subtitle": "一场刚刚好的小雨",
+  "description": "芦米想洗掉背上的梨汁，可月光牧屋的雨花总把水洒到她脸上。躲来躲去都洗不好，她决定告诉雨花，自己需要怎样的一场小雨。",
+  "ageBand": "3-5",
+  "theme": "说出需要",
+  "color": "#87BDB5",
+  "character": "芦米是一只灰褐色小浣熊，眼睛周围有黑色毛圈，尾巴有深色环纹，穿浅蓝短裤，洗澡时搭着一条淡黄毛巾。雨花长着碧绿弯茎、宽大的粉色花瓣，花心有一张小圆脸。",
+  "cover": "/library/stories/expansion-0282/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 160.066,
+  "detailUrl": "/library/stories/expansion-0282/v1/story.json",
+  "audio": "/library/stories/expansion-0282/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "月光牧屋里，芦米吃完一只甜梨。咦，背上怎么黏黏的？原来，她刚才靠到了滴在椅背上的梨汁。几撮绒毛粘成了小尖尖。芦米拿起黄毛巾，想把自己洗得松松软软。",
+      "image": "/library/stories/expansion-0282/v1/p01.webp",
+      "start": 0,
+      "end": 20.63
+    },
+    {
+      "id": "p02",
+      "text": "院里长着一朵会洗澡的雨花。它把木桶里的温水吸进花茎，再从花瓣边洒下来。芦米站进浅盆，说：“我来洗澡啦！”雨花高兴地弯下腰，送来一阵暖暖的小雨。",
+      "image": "/library/stories/expansion-0282/v1/p02.webp",
+      "start": 20.63,
+      "end": 39.58
+    },
+    {
+      "id": "p03",
+      "text": "水落在头顶，顺着额头流到鼻尖。芦米闭起眼睛，缩了缩脖子。她喜欢背上暖乎乎，却不喜欢脸上湿答答。她往旁边挪一步，雨花也伸长花瓣：“这里也能洗到呀！”",
+      "image": "/library/stories/expansion-0282/v1/p03.webp",
+      "start": 39.58,
+      "end": 59.082
+    },
+    {
+      "id": "p04",
+      "text": "芦米举起毛巾挡住脸。水沿着毛巾往下滴，背上的小尖尖却还黏着。她又把脑袋低得很低，毛巾的一角泡进了盆里。哎呀，脸没有擦干，毛巾倒先洗了一个澡。",
+      "image": "/library/stories/expansion-0282/v1/p04.webp",
+      "start": 59.082,
+      "end": 78.824
+    },
+    {
+      "id": "p05",
+      "text": "雨花收起花瓣，水停了。“你不想洗了吗？”芦米摸摸背，摇摇头，又赶紧说：“我想洗！可是，我不想让水流到脸上。”说完，她放下湿毛巾，鼻尖终于不滴水了。",
+      "image": "/library/stories/expansion-0282/v1/p05.webp",
+      "start": 78.824,
+      "end": 98.662
+    },
+    {
+      "id": "p06",
+      "text": "“请把水落在这里。”芦米转过身，指指自己的背。她两脚站稳，身子稍稍向前倾。雨花跟着弯一弯花茎。“这样吗？”“再往下一点点。对啦！现在可以下雨了。”",
+      "image": "/library/stories/expansion-0282/v1/p06.webp",
+      "start": 98.662,
+      "end": 119.532
+    },
+    {
+      "id": "p07",
+      "text": "细细的水落在背上，暖得像晒过太阳的小被子。芦米轻轻揉揉，黏住的绒毛一点点散开。她的脸一直干干的。“洗好啦，请停下！”雨花合起花瓣，留下最后一滴圆水珠。",
+      "image": "/library/stories/expansion-0282/v1/p07.webp",
+      "start": 119.532,
+      "end": 140.738
+    },
+    {
+      "id": "p08",
+      "text": "芦米换一条干毛巾，擦好身子，披着它坐到门边。背上的毛蓬松了，靠着软软的毛巾，一点也不黏。雨花轻声问：“下回还洗背吗？”芦米笑了：“下回，我会告诉你。”",
+      "image": "/library/stories/expansion-0282/v1/p08.webp",
+      "start": 140.738,
+      "end": 160.066
+    }
+  ],
+  "buildHash": "48b15fce6d9b5514bbcb7acb47a3d6d892846a6399b2994abe70fba3d80e79b2"
+}

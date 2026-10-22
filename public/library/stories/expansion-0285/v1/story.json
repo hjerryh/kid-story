@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0285",
+  "version": 1,
+  "status": "media-ready",
+  "title": "茸杏把红线冻进去了",
+  "subtitle": "红线睡进冰里面",
+  "description": "茸杏想给雪地花园的木栅栏挂一串冰项链，可圆冰片怎么也系不牢。水盆里冻住的一片落叶，让她想到了一个值得再试试的办法。",
+  "ageBand": "3-5",
+  "theme": "尝试与修正",
+  "color": "#B6D8E5",
+  "character": "小睡鼠茸杏，浅棕色绒毛，圆耳朵，穿紫色棉袄、深蓝棉靴，戴绿色连指手套。雪地花园的木栅栏有一张小小的笑脸。",
+  "cover": "/library/stories/expansion-0285/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 174.586,
+  "detailUrl": "/library/stories/expansion-0285/v1/story.json",
+  "audio": "/library/stories/expansion-0285/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雪地花园里，木栅栏望着树上的冰凌，轻轻说：“真漂亮呀。”小睡鼠茸杏听见了，想给它做一串冰项链。她拿来三个软杯，倒进浅浅的水，排在户外的小桌上，等冷风把水冻住。",
+      "image": "/library/stories/expansion-0285/v1/p01.webp",
+      "start": 0,
+      "end": 21.23
+    },
+    {
+      "id": "p02",
+      "text": "这一夜很冷。早晨，杯里的水全冻成了冰。茸杏轻轻捏一捏软杯，三块圆冰片便落在手套上，亮得像小镜子。她取来红毛线，绕着第一块冰片打个结：“项链就要做好啦！”",
+      "image": "/library/stories/expansion-0285/v1/p02.webp",
+      "start": 21.23,
+      "end": 42.052
+    },
+    {
+      "id": "p03",
+      "text": "可是，毛线刚提起来，冰片就滑了出去，啪嗒，躺回桌上。茸杏把线绕了两圈，又绕三圈。红线交叉成一个小网兜，她慢慢提起，圆冰片却从旁边挤了出来，像一块滑溜溜的肥皂。",
+      "image": "/library/stories/expansion-0285/v1/p03.webp",
+      "start": 42.052,
+      "end": 63.642
+    },
+    {
+      "id": "p04",
+      "text": "茸杏的耳朵垂下来。木栅栏说：“放在这里，也亮晶晶的。”可茸杏还是想让项链挂起来。她没有再绕线，把三块冰片并排放好，搓搓戴手套的小手，沿着花园走一走，歇一歇。",
+      "image": "/library/stories/expansion-0285/v1/p04.webp",
+      "start": 63.642,
+      "end": 84.704
+    },
+    {
+      "id": "p05",
+      "text": "矮墙边的水盆结了冰。一片落叶半截翘在外面，尖尖的那头却冻在冰里。风吹过，叶子轻轻颤，始终没有飞走。茸杏蹲下来，看了好一会儿：“我可以先把线放进水里，再让水冻住呀！”",
+      "image": "/library/stories/expansion-0285/v1/p05.webp",
+      "start": 84.704,
+      "end": 106.798
+    },
+    {
+      "id": "p06",
+      "text": "她重新给三个软杯倒上水，把同一根毛线的一段按进第一杯，另一段按进第二杯，再把一段按进第三杯。杯子之间留着松松的线，两头也留得长长的。这回，她让毛线陪着水一起过夜。",
+      "image": "/library/stories/expansion-0285/v1/p06.webp",
+      "start": 106.798,
+      "end": 128.268
+    },
+    {
+      "id": "p07",
+      "text": "又一个冷冷的早晨来了。茸杏捏开软杯，取出三块新冰片。红线的一截截都冻在里面，像冰里藏着的小红鱼。她握住毛线两头，慢慢往上提。三块冰片跟着升起来，一块也没有掉下去。",
+      "image": "/library/stories/expansion-0285/v1/p07.webp",
+      "start": 128.268,
+      "end": 150.626
+    },
+    {
+      "id": "p08",
+      "text": "茸杏把毛线两头系在木栅栏上。三块冰坠垂在它胸前，轻轻碰一碰，叮。“现在，我也有亮晶晶的衣裳了。”木栅栏笑着说。茸杏坐上小矮凳，陪它晒一点点晨光，看红色的小鱼安静地睡在冰里。",
+      "image": "/library/stories/expansion-0285/v1/p08.webp",
+      "start": 150.626,
+      "end": 174.586
+    }
+  ],
+  "buildHash": "c22fc658eb1abc0c92ae1aed76b1f35390781724f0021ea3a9b9f65da17ac6eb"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0287",
+  "title": "蓝笔头还有一条小溪",
+  "version": 1,
+  "bodyCharacters": 512,
+  "pages": 8,
+  "duration": 162.754,
+  "bodySha256": "9095da1a5e2e8ea3f147ff8b95a8a3f96f100730142857d6cc79053fe3de2f5c",
+  "audioSha256": "f803f1886ad2331b7e65938d5a942a97956cecbb6026db0b2885143226e4e199",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f18276f9da232ecdb66e3270f57f8557419d0e92a31703c686bde5c4624e5571",
+      "bytes": 20128
+    },
+    {
+      "name": "p01",
+      "sha256": "3642a404249bebc0512146a09d4be8a484a5754d06ff833d18328c05a0a2a52f",
+      "bytes": 14518
+    },
+    {
+      "name": "p02",
+      "sha256": "7fb11fbd92ca5cbf770652d7851ced505404589941ce2ba94645922dc15e7a25",
+      "bytes": 14410
+    },
+    {
+      "name": "p03",
+      "sha256": "ee65ed76f7bc38bbdbee3ba401138f87a51b28e441a4f5941706e1ad26348861",
+      "bytes": 14794
+    },
+    {
+      "name": "p04",
+      "sha256": "cac6232f08ebc1e76ad01557a48a158e83d35fec1ef1af939c48736674b6b040",
+      "bytes": 14370
+    },
+    {
+      "name": "p05",
+      "sha256": "12d668d787628ed5210c37dd68e0e74841efb4988c836d9d70e1992e564f26a7",
+      "bytes": 14740
+    },
+    {
+      "name": "p06",
+      "sha256": "7f483a973ad756da33650edb017b4b98032981ee19e8a403583326b61a33afda",
+      "bytes": 14772
+    },
+    {
+      "name": "p07",
+      "sha256": "b80b712a4b68488d6a5c1173bc636cbfcf6dcb4b089bc9fa7bdae5dc572c88f4",
+      "bytes": 15992
+    },
+    {
+      "name": "p08",
+      "sha256": "b3df213d7e15c9dee40c40f10e1f92dd14c4289721f25821f7d1ec1d7bf7a4e5",
+      "bytes": 15154
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0286",
+  "title": "雨点票后面是太阳",
+  "version": 1,
+  "bodyCharacters": 511,
+  "pages": 8,
+  "duration": 164.17,
+  "bodySha256": "c62f0a22aa98b464c52070d2032200f73fc7770194bc7be2471df35a87f818d2",
+  "audioSha256": "eca2acf3e361a3e39819716b38d975ccdd0c18dff945103662602f9191adca44",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "879f1beb5bfd83b9bbf616f3d88648d79c31a193921949bf1f0288e9d1a81a1e",
+      "bytes": 17870
+    },
+    {
+      "name": "p01",
+      "sha256": "5d7ec4f99aa02ad5a0ba0a3795e4686e36f31eef35ddf8ee0c0c3b3a8e19dd62",
+      "bytes": 15510
+    },
+    {
+      "name": "p02",
+      "sha256": "ad21158ec1d03faf258c158daf22fdc9f042cbd5e5cb762d320b118988c11a8e",
+      "bytes": 16680
+    },
+    {
+      "name": "p03",
+      "sha256": "88037de376ea2d9ec2d9463ce4a4df6c693d32a109f34ba6bac181f7db80e8de",
+      "bytes": 16666
+    },
+    {
+      "name": "p04",
+      "sha256": "648eb7d427c005ffdd2e4729772ba4f0d6ed26126d96f4f7969541a658ce6de9",
+      "bytes": 15444
+    },
+    {
+      "name": "p05",
+      "sha256": "42cc36982f4daebb6cf08127d7b21c7bc88af48c580d6cff3ef8f9bf8e2c1c4e",
+      "bytes": 15980
+    },
+    {
+      "name": "p06",
+      "sha256": "46aa2c82938ab7d5243136e8d8030455df0eb200fb7a63fe96131d1b0cf8b0b0",
+      "bytes": 12464
+    },
+    {
+      "name": "p07",
+      "sha256": "847cf5d29d6096182d3a532487c0776decd3f55d5249ddc8950be8506e35d31d",
+      "bytes": 13142
+    },
+    {
+      "name": "p08",
+      "sha256": "87084f91e48345a2461b40a76bc75a4e844f815459105839c5927af751190137",
+      "bytes": 15330
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0285",
+  "title": "茸杏把红线冻进去了",
+  "version": 1,
+  "bodyCharacters": 555,
+  "pages": 8,
+  "duration": 174.586,
+  "bodySha256": "dea5e68126960d4742b90282c8b864bb3272406a2b73d64839d0b11b2f0b8756",
+  "audioSha256": "ddbbd6a572f112ee623a7d6824bacb50034e632990920fa071fcdc90831c0ebc",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "97a2c1661032f26c1a47b96d20dac8e7ed841e55141c40223736697683faf7b6",
+      "bytes": 16168
+    },
+    {
+      "name": "p01",
+      "sha256": "0d09f34be94ddc0c4469d54494a3cd3c707b37988403d07ab28879b4c59c0d15",
+      "bytes": 14228
+    },
+    {
+      "name": "p02",
+      "sha256": "b186abcc88edaf496a3b961ab98521cb1187224d0313d2c4066910b9cb9979c4",
+      "bytes": 15174
+    },
+    {
+      "name": "p03",
+      "sha256": "dc03637219ba3b913a5470055bde90cda1430ec2f5ff0cc28421ca295e754bff",
+      "bytes": 16364
+    },
+    {
+      "name": "p04",
+      "sha256": "102dc524963f7cf4f6d0713684a8127b4de4db81e3feb6fc4784caf4cfdb41f2",
+      "bytes": 15998
+    },
+    {
+      "name": "p05",
+      "sha256": "2d445e826497ee844c75864bf59406923d4b155a3cf667f319529b28ca0e120b",
+      "bytes": 13740
+    },
+    {
+      "name": "p06",
+      "sha256": "8fc7714adc2c5f559b254efeb20929cd2d1ba07aebba36275ae79d4754ea17cf",
+      "bytes": 16960
+    },
+    {
+      "name": "p07",
+      "sha256": "cc2d780eacb9798d1dbae93b8efe0a731648e8fcb810ac54b8edf2411d5607c6",
+      "bytes": 14968
+    },
+    {
+      "name": "p08",
+      "sha256": "ccda853ac912598443df51a9a43f4065b0d54886de99ad3876b0d6dc361f31c9",
+      "bytes": 15224
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

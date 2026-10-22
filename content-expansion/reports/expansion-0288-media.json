@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0288",
+  "title": "黄拖鞋停在六号房",
+  "version": 1,
+  "bodyCharacters": 499,
+  "pages": 8,
+  "duration": 161.722,
+  "bodySha256": "8e537723b45884920129328f26cbd8f5b45a0dcd8ede0f0036d55ebbfb8ee36f",
+  "audioSha256": "949339758cfad08e4b6dd529db079f575194dfd54f5bbdb711db5c111620fab9",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5381c93d5757ac8fc42d52d025d42352b55ccf1ef97a5e61f13111fe40960a4f",
+      "bytes": 12554
+    },
+    {
+      "name": "p01",
+      "sha256": "7045c6aa230ef1748c08d82a12600ee354eb38214386a29f09ec23516f68f6e7",
+      "bytes": 12246
+    },
+    {
+      "name": "p02",
+      "sha256": "e5f9ba55d3e2c5c451b11859acf39a82eb32f1007f193238e652a30d21fb1c59",
+      "bytes": 9874
+    },
+    {
+      "name": "p03",
+      "sha256": "ff9a13f59695a2879f0d65ef2b794490dd93dabe4c65a118e2c4cc91d54cbffb",
+      "bytes": 9904
+    },
+    {
+      "name": "p04",
+      "sha256": "92f79d5cf7d4e14ca9258d8ae1d3d73ff89da0a41542443e1e01f3da0c33b3b3",
+      "bytes": 10186
+    },
+    {
+      "name": "p05",
+      "sha256": "0513e4799b9361157a70d6dfc4ec1f611610140fd57db13e1e90d2efce533753",
+      "bytes": 9266
+    },
+    {
+      "name": "p06",
+      "sha256": "188eb996401f745aabe027a12a729bc0cc96c9ebf0ee80d175a988fb94d4deb2",
+      "bytes": 13258
+    },
+    {
+      "name": "p07",
+      "sha256": "e452d5bd38971959eb1abf54efe7e0be846ab4ba0f76089313d634fd1f017769",
+      "bytes": 11234
+    },
+    {
+      "name": "p08",
+      "sha256": "128d246d0ff35e6148b1480f7cc1b7def6ffde98c28f8dcb26945de8bc6a1446",
+      "bytes": 12598
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

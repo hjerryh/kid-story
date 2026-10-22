@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0283",
+  "title": "噜噜的鼻子搬到另一边",
+  "version": 1,
+  "bodyCharacters": 473,
+  "pages": 8,
+  "duration": 153.898,
+  "bodySha256": "c3bf05f5e1c9f36b7c1f14873a0d058d0a0441cffd005bf8756df3d6ff5afd91",
+  "audioSha256": "1e58decae8410f9a1e67fa984c2e2caf76e6c910937c804000f95ecc47038e2f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "00fcfe2076d14f0b209326213ff04d8ae131a43c61d9e42e0838bdfacfd1f490",
+      "bytes": 12112
+    },
+    {
+      "name": "p01",
+      "sha256": "41f864d79296290efad3903d24899eaa0a39408e7c6458333af7bd62b540b577",
+      "bytes": 10022
+    },
+    {
+      "name": "p02",
+      "sha256": "215a6a85ee99edf69cfdd30be2bab38cac209a58da9feb69c75e57185460db73",
+      "bytes": 9502
+    },
+    {
+      "name": "p03",
+      "sha256": "acc535190c8a536b4088a4ed950ceed2d8a10fd9589e07a7a4e72e1f58c66746",
+      "bytes": 9600
+    },
+    {
+      "name": "p04",
+      "sha256": "5eb5361644f5ba23f68516f2113dd8026c0f13d4d7ec5b14fadcb04bd3fb59a7",
+      "bytes": 9742
+    },
+    {
+      "name": "p05",
+      "sha256": "0295fec540af56cb70be55858e4e2ef58da995774cc6f82e414bec01bcb36d0f",
+      "bytes": 9580
+    },
+    {
+      "name": "p06",
+      "sha256": "cc717074598b12fb87545c5430d57128d13de00c11925a9f2f06b92315be94e1",
+      "bytes": 10492
+    },
+    {
+      "name": "p07",
+      "sha256": "983d555919ec3072ad4693fe2880393d63a8c1e07eeda6dd2d6746a4b4fb3de7",
+      "bytes": 10476
+    },
+    {
+      "name": "p08",
+      "sha256": "98da5cb3b2b9e5076112a5d72fd677037e8b278307840829bceb1985a0ebbbeb",
+      "bytes": 10558
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

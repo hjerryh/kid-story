@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0281",
+  "version": 1,
+  "status": "media-ready",
+  "title": "最小的小鸡在里面",
+  "subtitle": "最里面是谁呀",
+  "description": "旧木阁楼里，一只木母鸡的肚子传出了小鸡的声音。豆芽想找到这位小客人，可母鸡的肚皮怎么拉也打不开，里面似乎还藏着别的秘密。",
+  "ageBand": "3-5",
+  "theme": "层层发现",
+  "color": "#D9B975",
+  "character": "豆芽：小女孩，黑色齐耳短发，穿浅绿色连衣裙、白袜和棕色软鞋。三只木母鸡：大小依次递减，分别为红色、黄色、蓝色，圆肚皮上画着白花。木小鸡：米黄色，头顶一撮橙色小绒毛，身体是一整块木头。",
+  "cover": "/library/stories/expansion-0281/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 159.298,
+  "detailUrl": "/library/stories/expansion-0281/v1/story.json",
+  "audio": "/library/stories/expansion-0281/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "旧木阁楼里有一只红色木母鸡，圆圆的，像个大苹果。豆芽正看着它，它肚子里忽然响起细细的声音：“外面是什么颜色呀？”豆芽凑过去：“你是谁？我想看看你。”",
+      "image": "/library/stories/expansion-0281/v1/p01.webp",
+      "start": 0,
+      "end": 19.43
+    },
+    {
+      "id": "p02",
+      "text": "“我是小鸡，住在最里面。”那个声音说。豆芽摸摸木母鸡的背，又看看它的尾巴，没有门，也没有窗。她把母鸡抱到膝上，轻声说：“别急，我来找找你的出口。”",
+      "image": "/library/stories/expansion-0281/v1/p02.webp",
+      "start": 19.43,
+      "end": 38.524
+    },
+    {
+      "id": "p03",
+      "text": "母鸡的肚皮中间有一圈细缝。豆芽托住下面，往上拉了拉，没开。她换一只手，再拉，还是没开。“我的房顶在晃呢！”小鸡说。豆芽停下来，把母鸡稳稳放在地毯上。",
+      "image": "/library/stories/expansion-0281/v1/p03.webp",
+      "start": 38.524,
+      "end": 60.066
+    },
+    {
+      "id": "p04",
+      "text": "阳光照在肚皮上，豆芽发现，缝边的一朵白花错开了半边。她想把花拼好，就轻轻转了转母鸡的上半身。咯吱，细缝变宽了！她再往上一提，红母鸡分成了上下两半。",
+      "image": "/library/stories/expansion-0281/v1/p04.webp",
+      "start": 60.066,
+      "end": 80.576
+    },
+    {
+      "id": "p05",
+      "text": "里面竟坐着一只黄母鸡，比红母鸡小一圈。“你好呀！”黄母鸡说。豆芽笑了：“小鸡是你吗？”“我可不是。”黄母鸡的肚子里又传来细细的声音：“还在里面呢！”",
+      "image": "/library/stories/expansion-0281/v1/p05.webp",
+      "start": 80.576,
+      "end": 99.742
+    },
+    {
+      "id": "p06",
+      "text": "这回，豆芽轻轻一转，再往上一提，黄母鸡打开了。里面坐着一只蓝母鸡，只有小茶杯那么大。豆芽贴近它的肚皮：“现在总该找到你了吧？”“快啦！”里面的小鸡笑起来。",
+      "image": "/library/stories/expansion-0281/v1/p06.webp",
+      "start": 99.742,
+      "end": 120.084
+    },
+    {
+      "id": "p07",
+      "text": "蓝母鸡也打开了。一只米黄色的小鸡跳到豆芽掌心，头顶翘着一撮橙色小绒毛。豆芽摸摸它，肚皮没有缝。“我里面没有谁啦。”小鸡挺起胸脯，“我就是最小的那个！”",
+      "image": "/library/stories/expansion-0281/v1/p07.webp",
+      "start": 120.084,
+      "end": 140.186
+    },
+    {
+      "id": "p08",
+      "text": "豆芽把三只母鸡一一合好，围着小鸡坐在窗前。“外面有绿树，有蓝天，还有你头顶一样橙色的花。”她说。小鸡挨着蓝母鸡，暖暖地眯起眼：“外面还真宽敞呀。”",
+      "image": "/library/stories/expansion-0281/v1/p08.webp",
+      "start": 140.186,
+      "end": 159.298
+    }
+  ],
+  "buildHash": "d0de1f384f8375dd8541c5f3ee4aec242a2dd331b4a4cff798d589ea9e7bcc50"
+}

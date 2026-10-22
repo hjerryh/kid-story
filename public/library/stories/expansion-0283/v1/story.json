@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0283",
+  "version": 1,
+  "status": "media-ready",
+  "title": "噜噜的鼻子搬到另一边",
+  "subtitle": "绕过去说声晚安",
+  "description": "小沙狐每天都要拍拍沙丘噜噜的鼻子，说一声晚安。一阵风过后，熟悉的鼻子不见了。杏耳想把它堆回来，噜噜却总说痒。今晚的晚安，该送到哪里呢？",
+  "ageBand": "3-5",
+  "theme": "熟悉与变化",
+  "color": "#DDB77A",
+  "character": "小沙狐杏耳：浅金色绒毛，白下巴，大耳朵，穿蓝色短背心，戴米白色软帽。沙丘噜噜：金黄色的矮沙丘，有细弯的眼睛和圆鼓鼓的沙鼻子，风吹动沙粒时，脸的位置也会慢慢改变。",
+  "cover": "/library/stories/expansion-0283/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 153.898,
+  "detailUrl": "/library/stories/expansion-0283/v1/story.json",
+  "audio": "/library/stories/expansion-0283/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "沙丘观测站旁，住着沙丘噜噜。每天睡前，小沙狐杏耳都会走出门，拍拍他的圆鼻子，说声晚安。噜噜便眯起眼睛，把鼻尖下面的沙抖一抖，像是在偷偷笑。",
+      "image": "/library/stories/expansion-0283/v1/p01.webp",
+      "start": 0,
+      "end": 19.046
+    },
+    {
+      "id": "p02",
+      "text": "这天，风呼呼吹了很久。风停以后，杏耳戴上软帽出了门。咦，噜噜的圆鼻子不见了！昨天鼓鼓的地方，今天平平的。他伸手摸了摸，掌心只有凉凉的细沙。",
+      "image": "/library/stories/expansion-0283/v1/p02.webp",
+      "start": 19.046,
+      "end": 38.524
+    },
+    {
+      "id": "p03",
+      "text": "“噜噜，你把鼻子藏起来了吗？”杏耳问。沙丘里传来闷闷的回答：“风把我的沙吹到另一边啦。”杏耳望着那片平沙，小声说：“可是，我还想拍拍原来的鼻子呀。”",
+      "image": "/library/stories/expansion-0283/v1/p03.webp",
+      "start": 38.524,
+      "end": 57.33
+    },
+    {
+      "id": "p04",
+      "text": "他捧来两把散沙，在老地方堆了一个圆包，再轻轻拍一下。“这样就回来啦！”“痒，痒！”噜噜笑得沙粒簌簌落，“你拍的是我的后背。我的鼻子可不在这里。”",
+      "image": "/library/stories/expansion-0283/v1/p04.webp",
+      "start": 57.33,
+      "end": 75.392
+    },
+    {
+      "id": "p05",
+      "text": "杏耳垂下耳朵。他又添了一把沙，手却停住了。后背堆得再圆，也不是鼻子呀。这时，沙丘另一边响起一个小喷嚏。“阿嚏！有粒沙，正挂在我的鼻尖上呢。”",
+      "image": "/library/stories/expansion-0283/v1/p05.webp",
+      "start": 75.392,
+      "end": 95.446
+    },
+    {
+      "id": "p06",
+      "text": "杏耳抬起头：“我来找你！”他沿着沙丘脚下的平地慢慢绕，一边走，一边说话。噜噜也一句句回答。声音越来越近，杏耳先看见两道弯眼睛，再看见一个小尖鼻子。",
+      "image": "/library/stories/expansion-0283/v1/p06.webp",
+      "start": 95.446,
+      "end": 114.924
+    },
+    {
+      "id": "p07",
+      "text": "“今天的鼻子有点尖。”杏耳伸出手，轻轻拍了拍。噜噜舒服地眯起眼睛。“拍这里，刚刚好。”杏耳笑了：“晚安，噜噜。”他想送出的那声晚安，终于落到了朋友面前。",
+      "image": "/library/stories/expansion-0283/v1/p07.webp",
+      "start": 114.924,
+      "end": 135.29
+    },
+    {
+      "id": "p08",
+      "text": "回去时，杏耳绕过噜噜宽宽的后背。窗灯暖暖地亮着，月亮也升了起来。“明天鼻子还在这里吗？”“我也不知道呀。”杏耳挥挥手：“那明天，我再绕过来看看你。”",
+      "image": "/library/stories/expansion-0283/v1/p08.webp",
+      "start": 135.29,
+      "end": 153.898
+    }
+  ],
+  "buildHash": "ce424357b8455bfeaebfdd36f201b0d22f200d53bb5c58993a546712f365d654"
+}

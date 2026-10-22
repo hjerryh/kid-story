@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0282",
+  "title": "雨花把水落在背上",
+  "version": 1,
+  "bodyCharacters": 487,
+  "pages": 8,
+  "duration": 160.066,
+  "bodySha256": "7aaf6155498ce7be0a57ee5d4ed3d0439c774a1b2d10de6618ebc18e27bf9705",
+  "audioSha256": "ce2a474b6223e0a1f284283a46062a257a00cfc25be66b045500e9d221086600",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f758ba4bb9dffc2b4e870ef9988127a8252b1b1e7a45ef2c93aaf272e9031330",
+      "bytes": 18700
+    },
+    {
+      "name": "p01",
+      "sha256": "51d5f4112cb123f749ca6875f72365a6a478d5613cadfb676f4e9349fa3bf83b",
+      "bytes": 9062
+    },
+    {
+      "name": "p02",
+      "sha256": "d6e1eb2530e7abac5e64b24efaefd9b0ecfdbede94226286fe68f37e2b66fcb7",
+      "bytes": 16292
+    },
+    {
+      "name": "p03",
+      "sha256": "2984f6ee9ddfadf7f3313c48685a3365ad8013357bd2d13c1ca148711cc33a8a",
+      "bytes": 15880
+    },
+    {
+      "name": "p04",
+      "sha256": "05e2d42e542a1e2b865faa827137862d43b864118a72a842430bf44f3824e0c3",
+      "bytes": 16698
+    },
+    {
+      "name": "p05",
+      "sha256": "0bf0431cfa973e58b2caa6c671f3bf7084ed39bac605d31a18a1c40195fd2007",
+      "bytes": 15630
+    },
+    {
+      "name": "p06",
+      "sha256": "badd802c3698a7ee14f1a99205a163a138b3e0131f215fce2572f61f82975bab",
+      "bytes": 14094
+    },
+    {
+      "name": "p07",
+      "sha256": "01458fa67d612ee8faf1c62a2c16ad079740cc87971497c4ec9ea7040e0a15e6",
+      "bytes": 13748
+    },
+    {
+      "name": "p08",
+      "sha256": "2304c87ca4fecbeba713aebd8aa6165122daa0fa060109abb1ea819976d85fa4",
+      "bytes": 15760
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

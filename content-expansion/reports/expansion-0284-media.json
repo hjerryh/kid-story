@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0284",
+  "title": "画像里的尾巴翘起来",
+  "version": 1,
+  "bodyCharacters": 529,
+  "pages": 8,
+  "duration": 167.458,
+  "bodySha256": "072d2ea36b99d5415a7971200801f15d07d053514a3cb76999d7a8fa07b84d01",
+  "audioSha256": "fb1a264ce82ef9cd04ca3ef0151a714cb5137303682de0658e9de8bb8d165289",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "79f25c9ae0de52f3c8e65d08dd7737bdc2bd119256950406741a8b6b3ec6ebb1",
+      "bytes": 19484
+    },
+    {
+      "name": "p01",
+      "sha256": "f4add3f77621d2a498849dabad9896f720bdea7cd4594d4bbd05c7a61acdb301",
+      "bytes": 12324
+    },
+    {
+      "name": "p02",
+      "sha256": "05ebae8bdb11c591080aa4703421c184ca043d911efdf1d2225d529539f55f1d",
+      "bytes": 12188
+    },
+    {
+      "name": "p03",
+      "sha256": "0bf75dd1260d3d50ae03012629e018a29e9871c7a28449ba3b238e9401b52128",
+      "bytes": 12108
+    },
+    {
+      "name": "p04",
+      "sha256": "7083f199bcd4edfdc7224c0b173fcdc3fa94599a2695746248277ed8947c003f",
+      "bytes": 12454
+    },
+    {
+      "name": "p05",
+      "sha256": "dd99a66efce972ce1980eec75b2effce006dd5239c10a54d2c56de9b5d87d9b1",
+      "bytes": 12816
+    },
+    {
+      "name": "p06",
+      "sha256": "c3b7ee1a227bc9beec4c4322520f9df59bb4d9905f56356022d54b4beaba4e8b",
+      "bytes": 14028
+    },
+    {
+      "name": "p07",
+      "sha256": "7ce6c5b8f3e4bbeb54cdd06586cd7b202ab43fd66994d2a5b70c6c01c444089e",
+      "bytes": 14588
+    },
+    {
+      "name": "p08",
+      "sha256": "fb1f5dacd5a7e008b8e27bd0f61fb6c43713674ee4b68a9996fb8b5976d38a29",
+      "bytes": 15538
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
