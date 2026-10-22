@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "小小故事岛",
+    "slug": "story-island",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.storyisland.kids",
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio"
+        ]
+      }
+    },
+    "android": {
+      "package": "com.storyisland.kids"
+    },
+    "web": {
+      "name": "小小故事岛",
+      "description": "每一个小小的你，都有一个大大的故事。",
+      "favicon": "./assets/app-icon.png"
+    },
+    "plugins": [
+      [
+        "expo-audio",
+        {
+          "microphonePermission": false,
+          "enableBackgroundPlayback": true,
+          "recordAudioAndroid": false
+        }
+      ]
+    ],
+    "icon": "./assets/app-icon.png"
+  }
+}

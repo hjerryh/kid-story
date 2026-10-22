@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "moon-post",
+    "title": "月亮邮局",
+    "subtitle": "把一小束温柔送到家",
+    "description": "小兔暖暖收到月亮寄来的包裹，要把一束月光送给刚搬来的小蜗牛。可是，云朵忽然遮住了月亮……",
+    "ageBand": "3-5",
+    "theme": "友谊",
+    "color": "#557C85",
+    "character": "小兔暖暖：奶白色绒毛、长耳朵、圆眼睛，戴浅蓝围巾，背芥末黄色邮包；小蜗牛：杏色身体、珊瑚橙螺旋壳；萤火虫：淡金色小光点。",
+    "pages": [
+      {
+        "id": "p01",
+        "text": "夜晚，小兔暖暖把窗帘拉开，窗台上多了一只银白色的小信封。信封软软的，像一片花瓣，里面写着：请把一束月光，送到南瓜屋，送给今晚刚搬来的小蜗牛。",
+        "scene": {
+          "setting": "rabbit cottage window at moonrise",
+          "action": "Rabbit opens a silver envelope on the windowsill",
+          "mood": "curious and peaceful",
+          "props": [
+            "silver envelope",
+            "window",
+            "crescent moon",
+            "yellow mailbag"
+          ]
+        }
+      },
+      {
+        "id": "p02",
+        "text": "暖暖走到池塘边，用大大的荷叶接住月亮的倒影。奇妙的事发生了，一束月光真的躺进荷叶里，轻轻地亮着；暖暖把荷叶捧在手心，沿着开满小花的小路出发。",
+        "scene": {
+          "setting": "lotus pond under a clear moon",
+          "action": "Rabbit lifts a lotus leaf holding a small moonbeam",
+          "mood": "wonder and tenderness",
+          "props": [
+            "lotus leaf",
+            "moonbeam",
+            "pond",
+            "white flowers"
+          ]
+        }
+      },
+      {
+        "id": "p03",
+        "text": "还没走到小桥，一朵胖胖的云飘过来，把月亮盖住了。荷叶里的光也不见了，暖暖停下脚步，小声说：小蜗牛还在等呢；可她看看左边，看看右边，到处都是蓝蓝的夜色。",
+        "scene": {
+          "setting": "small wooden bridge beneath clouds",
+          "action": "Rabbit looks into an empty dark lotus leaf",
+          "mood": "gently worried",
+          "props": [
+            "wooden bridge",
+            "large cloud",
+            "lotus leaf",
+            "reeds"
+          ]
+        }
+      },
+      {
+        "id": "p04",
+        "text": "草丛里，一盏小灯忽然亮起来，接着又亮起一盏。原来是萤火虫们提着自己的灯来散步，它们听完暖暖的话，围着荷叶飞了一圈，说：月光休息了，我们可以一起送一程。",
+        "scene": {
+          "setting": "dewy grass beside the bridge",
+          "action": "Fireflies gather around Rabbit and the lotus leaf",
+          "mood": "hopeful and welcoming",
+          "props": [
+            "fireflies",
+            "lotus leaf",
+            "dewdrops",
+            "grass"
+          ]
+        }
+      },
+      {
+        "id": "p05",
+        "text": "暖暖捧着荷叶向前走，小灯一闪一闪，照见路上的石子，也照见睡着的蒲公英。南瓜屋终于到了，圆圆的窗户里没有灯，门边放着一只小箱子，箱子上落着一片陌生的树叶。",
+        "scene": {
+          "setting": "path approaching a pumpkin cottage",
+          "action": "Rabbit and fireflies arrive at a dark pumpkin house",
+          "mood": "quiet anticipation",
+          "props": [
+            "pumpkin cottage",
+            "moving box",
+            "dandelions",
+            "stepping stones"
+          ]
+        }
+      },
+      {
+        "id": "p06",
+        "text": "暖暖轻轻敲门，小蜗牛从壳里探出头：这里好大，我还不认识回家的路。暖暖把荷叶放到窗边，萤火虫们停在上面，像一串小星星，小蜗牛的屋子一点一点亮了起来。",
+        "scene": {
+          "setting": "pumpkin cottage doorway and round window",
+          "action": "Rabbit offers the glowing leaf to a small snail",
+          "mood": "safe and reassuring",
+          "props": [
+            "round window",
+            "lotus leaf",
+            "fireflies",
+            "tiny doorstep"
+          ]
+        }
+      },
+      {
+        "id": "p07",
+        "text": "小蜗牛拿出甜甜的梨子，分给暖暖和小客人们。云朵这时慢慢移开，一道月光落到桌上，正好照亮那只银白色的信封；大家靠着窗坐下来，连影子也挨在了一起。",
+        "scene": {
+          "setting": "warm pumpkin cottage interior",
+          "action": "Rabbit and Snail share pear slices beneath returning moonlight",
+          "mood": "cozy friendship",
+          "props": [
+            "pear slices",
+            "round table",
+            "silver envelope",
+            "moonbeam"
+          ]
+        }
+      },
+      {
+        "id": "p08",
+        "text": "回家以前，暖暖在信封背面写：月光已经送到，新朋友也找到了。她把信放回池塘边，月亮的倒影轻轻晃了晃；身后的南瓜屋里，小蜗牛正挥着手，那扇亮着的窗子，暖暖一眼就认得。",
+        "scene": {
+          "setting": "pond with a glowing pumpkin cottage in the distance",
+          "action": "Rabbit leaves a reply beside the moonlit pond while Snail waves",
+          "mood": "contented and sleepy",
+          "props": [
+            "reply envelope",
+            "pond",
+            "full moon",
+            "lit pumpkin window"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "seed-light",
+    "title": "小熊的发光种子",
+    "subtitle": "等一盏小小的灯长大",
+    "description": "小熊阿棕种下一颗会发光的种子，却只等到一株普通的绿芽。他为小芽做了许多事，直到一个安静的傍晚……",
+    "ageBand": "3-5",
+    "theme": "好奇心",
+    "color": "#BA8A4B",
+    "character": "小熊阿棕：蜂蜜棕毛、奶油色口鼻，穿苔绿色背带裤；小刺猬：浅米色脸、栗棕色圆背；种子：金黄色、带星形斑点，长成圆叶金光小苗。",
+    "pages": [
+      {
+        "id": "p01",
+        "text": "小熊阿棕在花园里找到一颗圆种子，上面有一个小小的星星。奶奶说，这是灯灯花的种子，等它长大，叶子会发光；阿棕轻轻握住种子，连走回家的脚步都变得轻轻的，生怕把里面的小灯惊醒。",
+        "scene": {
+          "setting": "sunny garden beside a bear cottage",
+          "action": "Bear discovers a golden seed with a star marking",
+          "mood": "delighted curiosity",
+          "props": [
+            "star seed",
+            "garden basket",
+            "wildflowers",
+            "wooden cottage"
+          ]
+        }
+      },
+      {
+        "id": "p02",
+        "text": "他找来一只红花盆，装上松松的泥土，给种子盖好小被子。再浇一点水，把花盆搬到窗台上，阿棕趴在旁边等呀等；天黑了，种子没有亮，他便把自己的小夜灯放远一点，让种子好好睡觉。",
+        "scene": {
+          "setting": "bear cottage windowsill at dusk",
+          "action": "Bear waters a red flowerpot and moves his nightlight aside",
+          "mood": "patient anticipation",
+          "props": [
+            "red flowerpot",
+            "watering can",
+            "nightlight",
+            "window"
+          ]
+        }
+      },
+      {
+        "id": "p03",
+        "text": "过了几天，泥土鼓起一个小包，两片绿叶探了出来。阿棕高兴得拿来小凳子，坐着陪小芽看白云，可是从早晨看到晚上，小芽一直绿绿的；星星都出来了，它还是一点儿也不发光。",
+        "scene": {
+          "setting": "windowsill with a fresh two-leaf sprout",
+          "action": "Bear sits on a stool watching a green sprout beneath the stars",
+          "mood": "curious uncertainty",
+          "props": [
+            "two-leaf sprout",
+            "red flowerpot",
+            "small stool",
+            "stars"
+          ]
+        }
+      },
+      {
+        "id": "p04",
+        "text": "阿棕想，小芽也许忘了自己是一盏灯。他剪了一颗金色的纸星星，罩在小芽上，还对着它唱了一首亮晶晶的歌；第二天，小芽却低下了头，纸星星里面闷闷的，连一丝风都进不去。",
+        "scene": {
+          "setting": "craft table next to the shaded sprout",
+          "action": "Bear notices the sprout drooping beneath a gold paper star",
+          "mood": "gentle concern",
+          "props": [
+            "paper star",
+            "child scissors",
+            "red flowerpot",
+            "craft paper"
+          ]
+        }
+      },
+      {
+        "id": "p05",
+        "text": "阿棕赶紧拿走纸星星，打开窗，让软软的风吹进来。小芽慢慢抬起头，叶子碰了碰他的手指；阿棕把花盆放到阳光下，自己去给萝卜松土，偶尔回头看看，小芽正舒舒服服地晒着太阳。",
+        "scene": {
+          "setting": "sunny vegetable patch below an open window",
+          "action": "Bear tends carrots while the uncovered sprout rests in sunlight",
+          "mood": "relieved and warm",
+          "props": [
+            "carrots",
+            "garden trowel",
+            "red flowerpot",
+            "open window"
+          ]
+        }
+      },
+      {
+        "id": "p06",
+        "text": "傍晚，小刺猬来找阿棕，带了一篮新摘的草莓。它走到门口，忽然停住了：你的窗台上，有一颗小星星！阿棕跑过去一看，两片叶子正在发光，金金的、暖暖的，像把白天的太阳悄悄留下了。",
+        "scene": {
+          "setting": "bear cottage doorway in blue twilight",
+          "action": "Hedgehog points to the first golden glow in the flowerpot",
+          "mood": "joyful surprise",
+          "props": [
+            "strawberry basket",
+            "glowing leaves",
+            "red flowerpot",
+            "doorstep"
+          ]
+        }
+      },
+      {
+        "id": "p07",
+        "text": "他们把花盆搬到小桌上，围着这盏新灯吃草莓。小飞蛾绕着叶子画圆圈，小刺猬把掉在桌下的草莓找了回来；灯灯花的光不大，却刚刚好，能照见朋友的笑脸，也能照见碗里最后一颗红果子。",
+        "scene": {
+          "setting": "outdoor picnic table lit by a tiny glowing plant",
+          "action": "Bear and Hedgehog share strawberries around their plant lantern",
+          "mood": "cozy celebration",
+          "props": [
+            "glowing plant",
+            "strawberry bowl",
+            "tiny moth",
+            "picnic table"
+          ]
+        }
+      },
+      {
+        "id": "p08",
+        "text": "小刺猬回家时，阿棕捧着花盆送它走过花园，脚边的石子一颗一颗亮起来。回到屋里，他给小芽浇了最后一小口水；窗外是月亮，窗里是小灯，阿棕打了个呵欠，轻轻说：明天，我们还一起晒太阳。",
+        "scene": {
+          "setting": "moonlit garden path leading back to bear cottage",
+          "action": "Bear carries the glowing flowerpot along stepping stones",
+          "mood": "peaceful bedtime",
+          "props": [
+            "glowing flowerpot",
+            "stepping stones",
+            "crescent moon",
+            "garden gate"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cloud-whale",
+    "title": "云海里的小鲸鱼",
+    "subtitle": "一场轻轻落下的雨",
+    "description": "小鲸鱼阿蓝只会吹小泡泡，却接下了给山谷果园送雨的任务。大风吹散了雨云，他要怎样把一场雨平安送到山的另一边？",
+    "ageBand": "6-8",
+    "theme": "勇气",
+    "color": "#679AB0",
+    "character": "小鲸鱼阿蓝：圆润天蓝身体、奶油白肚皮、小圆鳍，系珊瑚橙短围巾；雨云：淡灰蓝柔软云团；燕子：深蓝翅膀、奶白肚皮；山谷小女孩：棕色短辫、黄色雨靴。",
+    "pages": [
+      {
+        "id": "p01",
+        "text": "在很高很高的地方，有一片没有岸的云海。鲸鱼们摆动尾巴，把雨云送往森林和田野；小鲸鱼阿蓝也想当送雨员，可他使劲吹气，只能吹出一串圆泡泡。大鲸鱼经过时，泡泡便轻轻破了，阿蓝把橙色围巾拉到鼻尖，悄悄练习了一遍又一遍。",
+        "scene": {
+          "setting": "vast pastel cloud sea at sunrise",
+          "action": "Small blue whale blows tiny bubbles below distant large whales",
+          "mood": "wistful and magical",
+          "props": [
+            "orange scarf",
+            "small bubbles",
+            "layered clouds",
+            "sunrise"
+          ]
+        }
+      },
+      {
+        "id": "p02",
+        "text": "一天，一枚蒲公英降落伞挂在阿蓝的围巾上，下面系着小小的纸条。纸条来自山谷果园：泉水变细了，小苹果还没喝够水，请问今天会有雨吗？落款画着一双黄雨靴。阿蓝向下望去，山谷藏在灰色山脊后面，远得连果树也看不见。",
+        "scene": {
+          "setting": "cloud lookout above a distant mountain ridge",
+          "action": "Whale reads a note carried by a dandelion parachute",
+          "mood": "concern and possibility",
+          "props": [
+            "dandelion parachute",
+            "tiny note",
+            "mountain ridge",
+            "orange scarf"
+          ]
+        }
+      },
+      {
+        "id": "p03",
+        "text": "其他送雨员都已经出发，云海边只剩一朵小雨云，正在打瞌睡。阿蓝游到它旁边，轻轻推了一下，说：我们去找那双黄雨靴吧。小雨云伸了个懒腰，跟着他向山谷移动；起初，一切都很顺利，阳光把他们的影子印在一片片绿色田野上。",
+        "scene": {
+          "setting": "edge of the cloud harbor above green fields",
+          "action": "Whale gently nudges a sleepy little rain cloud toward the valley",
+          "mood": "eager beginning",
+          "props": [
+            "small rain cloud",
+            "green fields",
+            "cloud shadows",
+            "sun rays"
+          ]
+        }
+      },
+      {
+        "id": "p04",
+        "text": "靠近山脊时，风突然换了方向。一阵呼呼的山风钻过来，把小雨云扯成了许多细细的云丝；阿蓝急忙用尾巴拦，用身体挡，可云丝从他的鳍边溜走，挂在松树尖上，缠在岩石缝里。刚才鼓鼓的一朵雨云，现在只剩掌心大小。",
+        "scene": {
+          "setting": "windy mountain ridge with tall pine trees",
+          "action": "A gust scatters the rain cloud into wisps around rocks and pines",
+          "mood": "surprised and urgent",
+          "props": [
+            "cloud wisps",
+            "pine branches",
+            "rock crevices",
+            "wind ribbons"
+          ]
+        }
+      },
+      {
+        "id": "p05",
+        "text": "阿蓝赶紧追着云丝游，越着急，尾巴搅起的风就越大，云丝反而飘得更远。他终于停下来，躲到一块大岩石后，眼睛有点酸。围巾的一角还沾着一点雾，他轻轻呼出一口气，一个小泡泡托起了那点雾，竟然没有让它散开。",
+        "scene": {
+          "setting": "sheltered pocket behind a mountain boulder",
+          "action": "Whale discovers a small bubble can hold a wisp of mist",
+          "mood": "quiet discovery",
+          "props": [
+            "large boulder",
+            "mist-filled bubble",
+            "orange scarf",
+            "moss"
+          ]
+        }
+      },
+      {
+        "id": "p06",
+        "text": "阿蓝又试了一次：轻轻吸气，慢慢呼气，再让泡泡碰一碰云丝。第二个装着雾的泡泡也浮起来了。他开心得差点喊出声，又赶紧抿住嘴，一颗一颗地吹；两只路过的燕子发现这些小灯笼，帮他把松针上的云丝推向泡泡口。",
+        "scene": {
+          "setting": "pine canopy filled with floating mist bubbles",
+          "action": "Whale and two swallows collect cloud wisps inside clear bubbles",
+          "mood": "hopeful teamwork",
+          "props": [
+            "mist bubbles",
+            "pine needles",
+            "swallows",
+            "soft sunbeams"
+          ]
+        }
+      },
+      {
+        "id": "p07",
+        "text": "不一会儿，阿蓝身后跟着长长的一串泡泡，像一列透明的小车。可是通往果园的路，被高高的山墙挡住了；燕子绕了一圈，指着岩石上的一个圆洞说：我们平时从那里穿过去。阿蓝靠近一看，洞太窄，连他的小尾巴都挤不进去。",
+        "scene": {
+          "setting": "tall stone wall with a narrow round opening",
+          "action": "Whale inspects a small stone window with a trail of bubbles",
+          "mood": "puzzled but determined",
+          "props": [
+            "stone window",
+            "bubble train",
+            "swallows",
+            "mountain wall"
+          ]
+        }
+      },
+      {
+        "id": "p08",
+        "text": "阿蓝看看圆洞，再看看圆泡泡，忽然有了主意。他留在山墙这一边，把泡泡一个接一个送进洞里，请燕子到另一边接住；没有催促，也没有使劲推。最小的泡泡先过去，最大的泡泡轻轻缩起身子，像穿过门的小猫，也稳稳地过去了。",
+        "scene": {
+          "setting": "narrow mountain passage seen from its entrance",
+          "action": "Whale gently feeds mist bubbles through the stone opening",
+          "mood": "careful and inventive",
+          "props": [
+            "round stone opening",
+            "single-file bubbles",
+            "swallow guide",
+            "smooth pebbles"
+          ]
+        }
+      },
+      {
+        "id": "p09",
+        "text": "送出最后一个泡泡，阿蓝绕过山顶，和燕子们会合。山谷已经在脚下了，可收回的云丝仍比出发时少了一些；这时，他看见背阴草坡上，许多露珠正闪着光。燕子问过小草，小草便弯下腰，让阿蓝的小泡泡带走几颗还没晒干的露珠。",
+        "scene": {
+          "setting": "cool meadow on the shaded side of the mountain",
+          "action": "Whale gathers spare dewdrops from bowing grass into bubbles",
+          "mood": "generous and fresh",
+          "props": [
+            "dewdrops",
+            "bending grass",
+            "transparent bubbles",
+            "distant orchard"
+          ]
+        }
+      },
+      {
+        "id": "p10",
+        "text": "他们来到果园上空，那双黄雨靴果然在树下，小女孩正把水壶里最后一点水倒给树苗。阿蓝没有马上放开泡泡，而是先游到空地上，把它们围成一圈；燕子用翅尖轻轻碰破泡泡，云丝和露水重新抱在一起，变成一朵软绵绵的小雨云。",
+        "scene": {
+          "setting": "apple orchard beneath a ring of mist bubbles",
+          "action": "Swallows release the gathered mist above a girl watering saplings",
+          "mood": "expectant and gentle",
+          "props": [
+            "yellow rain boots",
+            "watering can",
+            "apple saplings",
+            "circle of bubbles"
+          ]
+        }
+      },
+      {
+        "id": "p11",
+        "text": "第一滴雨落在苹果叶上，发出小小的一声嗒。接着，更多雨点落下来，泥土慢慢变深，干渴的叶子舒展开了；小女孩仰起脸，把空水壶举得高高的。这不是一场很大的雨，却安安静静地下了好一会儿，足够每棵小树都喝上几口。",
+        "scene": {
+          "setting": "apple orchard in a soft steady rain shower",
+          "action": "Girl lifts her watering can while rain refreshes the orchard",
+          "mood": "relieved joy",
+          "props": [
+            "rain drops",
+            "apple leaves",
+            "raised watering can",
+            "yellow rain boots"
+          ]
+        }
+      },
+      {
+        "id": "p12",
+        "text": "回程时，又有一枚蒲公英追上阿蓝。这次纸条上没有写字，只画了一棵笑着的小苹果树，树顶还画着一串泡泡；阿蓝把画收进围巾，慢慢游回云海。晚霞把他的泡泡染成桃红色，他轻轻吹着，一个、两个，像给明天准备一队小小的送雨船。",
+        "scene": {
+          "setting": "rose-colored cloud sea at sunset",
+          "action": "Whale carries a thank-you drawing and blows a new line of bubbles",
+          "mood": "proud and peaceful",
+          "props": [
+            "thank-you drawing",
+            "peach bubbles",
+            "sunset clouds",
+            "orange scarf"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "fox-library",
+    "title": "小狐狸的森林图书馆",
+    "subtitle": "每个朋友都有一个位置",
+    "description": "栗栗把老橡树整理成图书馆，却迟迟等不到读者。一封被雨淋湿的借书信，让她走出树洞，发现朋友们需要的图书馆和自己想的不太一样。",
+    "ageBand": "6-8",
+    "theme": "友谊",
+    "color": "#B57960",
+    "character": "小狐狸栗栗：赤橙色毛、奶白脸颊和尾尖，穿湖蓝色背带裙，戴圆形小眼镜；鼹鼠墨墨：深灰绒毛、粉鼻头、黄色小帽；松鼠：赤棕毛与蓬松尾巴；猫头鹰：浅棕羽毛、奶油色眼圈。",
+    "pages": [
+      {
+        "id": "p01",
+        "text": "森林中央的老橡树有一个很宽的树洞，洞里藏着奶奶留下的书。小狐狸栗栗搬来一架梯子，把书一本本擦干净，又把果酱罐洗成花瓶；她在门口挂上新牌子：森林图书馆。夕阳照着整整齐齐的书脊，栗栗觉得，再没有比这里更好的地方了。",
+        "scene": {
+          "setting": "hollow oak tree transformed into a small library",
+          "action": "Fox hangs a library sign beside shelves and a jar of flowers",
+          "mood": "proud anticipation",
+          "props": [
+            "library sign",
+            "book ladder",
+            "jam-jar vase",
+            "wooden bookshelves"
+          ]
+        }
+      },
+      {
+        "id": "p02",
+        "text": "第二天，她把椅子摆成直直的一排，坐在借书桌后面等。松鼠从树枝上探了探头，又缩回去；鼹鼠经过门外，停了一会儿，也转身走了。到了晚上，借书本上还是空白，栗栗给自己盖了一个小小的树叶章，算作今天唯一的一位读者。",
+        "scene": {
+          "setting": "quiet library with straight rows of tall chairs",
+          "action": "Fox waits at an empty lending desk as small animals hesitate outside",
+          "mood": "lonely and puzzled",
+          "props": [
+            "tall chairs",
+            "blank lending book",
+            "leaf stamp",
+            "library desk"
+          ]
+        }
+      },
+      {
+        "id": "p03",
+        "text": "第三天，下起了细雨。栗栗准备关窗，发现门缝里塞着一片湿叶子，上面写着：我很想借那本讲地下河的书，可是台阶太高，我搬不动小凳子。落款是墨墨。栗栗这才想起，自己跨一步就能进门的地方，鼹鼠要抬起头才能看见门槛。",
+        "scene": {
+          "setting": "library doorstep during light rain",
+          "action": "Fox reads a rain-soaked leaf letter left beneath the door",
+          "mood": "concern and realization",
+          "props": [
+            "leaf letter",
+            "high doorstep",
+            "raindrops",
+            "closed umbrella"
+          ]
+        }
+      },
+      {
+        "id": "p04",
+        "text": "她立刻找到讲地下河的书，裹上一块干布，沿着小路去找墨墨。鼹鼠家在一片蕨叶下面，入口低低的，栗栗只能趴下来；墨墨请她看自己的书桌，那是一块平平的石头，桌边的小灯照得刚刚好。栗栗试着坐下，耳朵却碰到了屋顶。",
+        "scene": {
+          "setting": "cozy low mole home beneath fern leaves",
+          "action": "Fox crouches beside Mole at a stone reading table",
+          "mood": "warm discovery",
+          "props": [
+            "fern roof",
+            "stone table",
+            "wrapped book",
+            "small lamp"
+          ]
+        }
+      },
+      {
+        "id": "p05",
+        "text": "回去的路上，栗栗顺便问了松鼠。松鼠说，椅子背太直，他的大尾巴没地方放；猫头鹰则送来一张便条，说他白天总是打瞌睡，等醒来时图书馆已经关门。栗栗把两张便条放进借书本，忽然发现，这本空白的册子开始有好多事情可记了。",
+        "scene": {
+          "setting": "forest path beneath a squirrel branch and owl perch",
+          "action": "Fox collects notes from Squirrel and Owl in her lending book",
+          "mood": "attentive and thoughtful",
+          "props": [
+            "little notes",
+            "lending book",
+            "tree branch",
+            "owl perch"
+          ]
+        }
+      },
+      {
+        "id": "p06",
+        "text": "那天晚上，栗栗画了一张新的图。她想做矮台阶、软坐垫、夜晚的小灯，还想在门外添一排能避雨的书箱；可是她量量树洞，挪挪书架，地方总也不够。画纸上添了又擦，最后满是浅浅的线，栗栗趴在桌上，连眼镜都滑到了鼻尖。",
+        "scene": {
+          "setting": "library worktable covered in floor-plan sketches",
+          "action": "Fox studies a crowded drawing while measuring the small tree hollow",
+          "mood": "overwhelmed but hopeful",
+          "props": [
+            "floor-plan paper",
+            "wooden ruler",
+            "pencil",
+            "slipping glasses"
+          ]
+        }
+      },
+      {
+        "id": "p07",
+        "text": "窗外忽然响起敲击声，原来墨墨来还书了。他看了看图纸说：我家上面有一个空着的旧洞，可以从这里挖过去。松鼠也跳下来，说枝桠上能放吊篮，尾巴就不会被压住；猫头鹰睁开一只眼睛，慢慢说：晚上的开门时间，我可以来照看。",
+        "scene": {
+          "setting": "library planning table with animal friends gathered around",
+          "action": "Mole Squirrel and Owl add ideas to Fox’s drawing",
+          "mood": "creative companionship",
+          "props": [
+            "shared plan",
+            "pencil",
+            "returned book",
+            "open window"
+          ]
+        }
+      },
+      {
+        "id": "p08",
+        "text": "接下来的几天，老橡树像穿上了一件新衣服。墨墨把低矮的地道铺平，栗栗在入口安上宽宽的木板；松鼠编出柔软的吊篮，猫头鹰把灯挂在不会碰到翅膀的位置。大家干一会儿就坐下歇歇，栗栗端来莓果水，书也跟着搬到了最舒服的角落。",
+        "scene": {
+          "setting": "oak library renovation with a tunnel and hanging reading basket",
+          "action": "Forest friends build a low entry and cozy places to read",
+          "mood": "busy and joyful",
+          "props": [
+            "wooden ramp",
+            "hanging basket",
+            "amber lamp",
+            "berry drinks"
+          ]
+        }
+      },
+      {
+        "id": "p09",
+        "text": "快要重新开门时，雨又来了，比上一次大得多。门外新做的书箱还没有屋顶，栗栗赶紧抱起最上面的一摞书；墨墨从地道送来干布，松鼠拉开油布，猫头鹰压住四个角。等雨小下来，书一本也没淋湿，大家的鼻尖却全都亮晶晶的。",
+        "scene": {
+          "setting": "library porch sheltered during a rain shower",
+          "action": "Friends cover outdoor book boxes with a large waterproof sheet",
+          "mood": "urgent teamwork then relief",
+          "props": [
+            "waterproof sheet",
+            "book boxes",
+            "dry cloths",
+            "shining raindrops"
+          ]
+        }
+      },
+      {
+        "id": "p10",
+        "text": "栗栗看着撑开的油布，忽然笑了：屋檐不就有了吗？他们把油布固定在木杆上，下面留出一块宽宽的空地；雨停后，空气里有青草味，刺猬带着小垫子来坐，兔子抱着弟弟来听。原本挤在树洞里的图书馆，就这样长到了树荫下面。",
+        "scene": {
+          "setting": "new reading porch under an oak tree after rain",
+          "action": "Fox welcomes Hedgehog and rabbits beneath the new canopy",
+          "mood": "open and welcoming",
+          "props": [
+            "canopy",
+            "wooden poles",
+            "small cushions",
+            "picture books"
+          ]
+        }
+      },
+      {
+        "id": "p11",
+        "text": "重新开门那天，墨墨从地道里借走第二本书，松鼠蜷在吊篮里读到打哈欠。栗栗发现，有的朋友喜欢自己看，有的喜欢听别人讲，还有的只想先翻翻插图；她把那排直直的椅子移开，给每个走进来的朋友留下一点可以自己选择的地方。",
+        "scene": {
+          "setting": "lively but gentle forest library with varied reading nooks",
+          "action": "Animals read in the tunnel basket and shaded porch",
+          "mood": "belonging and comfort",
+          "props": [
+            "reading basket",
+            "low tunnel",
+            "illustrated books",
+            "soft cushions"
+          ]
+        }
+      },
+      {
+        "id": "p12",
+        "text": "夜里，猫头鹰点亮灯，开始讲地下河的故事。栗栗坐在门边，借书本上已经有了好多名字，字迹有大有小，还夹着一枚爪印；她也借了一本书，找了个刚好装得下尾巴的位置。老橡树的叶子轻轻沙响，好像正在替大家，把今晚的书页慢慢翻过去。",
+        "scene": {
+          "setting": "forest library glowing softly beneath a starry canopy",
+          "action": "Owl reads aloud while Fox curls up with a book near friends",
+          "mood": "serene and fulfilled",
+          "props": [
+            "reading lamp",
+            "lending book with pawprint",
+            "open storybook",
+            "starry sky"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "clock-forest",
+    "title": "森林里的慢时钟",
+    "subtitle": "把一点时间留给森林",
+    "description": "萤灯会快到了，森林大钟却一天比一天慢。新任守钟人时禾沿着溪流寻找原因，发现修好时钟之前，还有一处小小的家需要留下。",
+    "ageBand": "9-10",
+    "theme": "成长",
+    "color": "#6A856B",
+    "character": "小鹿时禾：暖棕色毛、奶白胸口、细小双角和白色背斑，披鼠尾草绿短斗篷，斜背棕色工具包；河狸：栗棕毛、扁尾巴、芥末黄工作围裙；老猫头鹰：灰棕羽毛、圆眼镜；田螺：浅棕壳、淡米色身体。",
+    "pages": [
+      {
+        "id": "p01",
+        "text": "森林中央有一座长满青苔的钟楼，钟面是半片月亮的颜色。溪水在楼下推着木轮转动，钟声便沿着树梢传出去。小鹿时禾刚接过守钟人的钥匙，每天都把齿轮擦得发亮；他喜欢站在楼顶，看大家听见钟声后打开店门，仿佛整座森林正在翻同一页日历。钥匙上拴着奶奶编的旧绳结，握在手里暖暖的。",
+        "scene": {
+          "setting": "moss-covered forest clock tower beside a stream",
+          "action": "Young Deer looks from the clock tower over a waking woodland village",
+          "mood": "proud responsibility",
+          "props": [
+            "moon-colored clock face",
+            "waterwheel",
+            "brass key",
+            "green cloak"
+          ]
+        }
+      },
+      {
+        "id": "p02",
+        "text": "再过三天，就是一年一度的萤灯会。大家会在太阳落下时，提着纸灯去草地上等萤火虫，时禾负责敲第一声钟；可那天，钟还没到午时，阳光已经越过广场上的白石。第二天，影子又多走了一截。面包师送来凉掉的点心，困惑地说：我的烤炉没有慢呀。每家的窗前都晾着彩纸，只有大家的约定悄悄错了位。",
+        "scene": {
+          "setting": "village square with lantern preparations and a sun marker",
+          "action": "Deer compares the clock with a long shadow beside a white stone",
+          "mood": "growing concern",
+          "props": [
+            "paper lanterns",
+            "white sundial stone",
+            "bakery basket",
+            "long shadow"
+          ]
+        }
+      },
+      {
+        "id": "p03",
+        "text": "时禾把钟壳打开，从最小的螺丝查到最长的钟摆，却没有找到坏掉的地方。他甚至把耳朵贴到木头上，听那一声声不太均匀的滴答；楼下的水轮转一圈，总要停顿一下。时禾取来一片树叶放进溪里，树叶慢悠悠地漂过去，好像有人在上游轻轻拉着它的衣角。他在本子上记下：齿轮完好，水轮缺水。",
+        "scene": {
+          "setting": "inside the clock mechanism above a sluggish waterwheel",
+          "action": "Deer examines intact gears and follows a leaf drifting in slow water",
+          "mood": "focused curiosity",
+          "props": [
+            "brass gears",
+            "long pendulum",
+            "floating leaf",
+            "slow waterwheel"
+          ]
+        }
+      },
+      {
+        "id": "p04",
+        "text": "沿溪向上走，时禾发现一片以前没有的小水塘。前些日子的风把树枝吹进了河湾，落叶和泥沙又堵住缝隙，溪水便在这里停了下来；河狸正坐在岸边整理松动的树枝。看见时禾的工具包，他招招手说：你来得正好，这边的岸还需要加固一点，别踩空了。水面照着四周的新叶，看起来像一块刚磨亮的绿玻璃。",
+        "scene": {
+          "setting": "new pond formed by fallen branches at a stream bend",
+          "action": "Deer meets Beaver beside a branch dam and muddy bank",
+          "mood": "discovery and caution",
+          "props": [
+            "fallen branches",
+            "new pond",
+            "mud bank",
+            "tool satchel"
+          ]
+        }
+      },
+      {
+        "id": "p05",
+        "text": "时禾急着解释大钟的事，说只要挪开这些树枝，水轮很快就会恢复。他试着抬起最外面的一根，溪水立刻从缺口流下去；水塘边缘退开了一小圈，露出湿亮的泥。就在这时，他看见几粒黑黑的小逗号在浅水里摆动尾巴，旁边还有刚伸出叶尖的水草。它们并不知道大钟，只知道这里是可以慢慢长大的家。",
+        "scene": {
+          "setting": "shallow edge of the pond beside a newly opened gap",
+          "action": "Deer notices tiny tadpoles as water recedes from a moved branch",
+          "mood": "sudden concern",
+          "props": [
+            "lifted branch",
+            "tadpoles",
+            "wet mud",
+            "young water plants"
+          ]
+        }
+      },
+      {
+        "id": "p06",
+        "text": "他连忙把树枝放回去，河狸用泥封好缺口，水塘渐渐安静下来。原来，青蛙已经在这里安了家，鸟儿来喝水，几株快被晒干的蕨草也重新舒展开；河狸并不是故意拦住送往钟楼的水，他只是在照顾一处忽然出现的小地方。时禾蹲在岸边，觉得钥匙比早晨沉了一点。他答应过让钟准时，却从没想过这个承诺会牵动谁的生活。",
+        "scene": {
+          "setting": "restored pond with frogs birds and revived ferns",
+          "action": "Deer and Beaver reseal the gap while pond creatures settle",
+          "mood": "thoughtful empathy",
+          "props": [
+            "sealed branch dam",
+            "frog",
+            "drinking bird",
+            "green ferns"
+          ]
+        }
+      },
+      {
+        "id": "p07",
+        "text": "回到钟楼，时禾在纸上画了两条线：一条是通往大钟的溪流，一条是小水塘的边。他试着把它们连起来，却总有一边要被擦掉；老猫头鹰来送灯会的名单，看见满桌纸屑，没有替他选哪一条线，只把窗推开了一些。远处的水声比滴答声轻，却一直都在。时禾把纸屑收进盒子，决定明天换一个位置看看。",
+        "scene": {
+          "setting": "clock keeper’s desk beside an open tower window",
+          "action": "Deer studies conflicting stream sketches as Owl opens the window",
+          "mood": "uncertain and reflective",
+          "props": [
+            "stream sketches",
+            "paper scraps",
+            "festival list",
+            "open window"
+          ]
+        }
+      },
+      {
+        "id": "p08",
+        "text": "第二天，时禾又来到水塘，绕着它走了很久。他终于找到一块略低的岸地，想挖一条小沟，让一部分水绕过去；河狸帮他动手，松鼠送来小铲子。可沟刚挖通，水就钻进干松的土里，流到一半便不见了，钟楼那边的水轮仍旧停停转转，没有一点改变。铲子搁在岸上，试过的办法也只好先留在那里。",
+        "scene": {
+          "setting": "dry bank beside the pond with a newly dug side channel",
+          "action": "Deer and Beaver watch the trial channel soak into dry soil",
+          "mood": "disappointed persistence",
+          "props": [
+            "small shovels",
+            "dry side channel",
+            "loose soil",
+            "water trickle"
+          ]
+        }
+      },
+      {
+        "id": "p09",
+        "text": "明天就是灯会，时禾的斗篷沾满了泥，图纸也被打湿。他坐在一截树根上，第一次不想听见钟声；一只田螺正从脚边经过，沿着树根下面湿湿的弯道往前爬。时禾跟着看了一会儿，发现那条细细的湿痕绕开了松土，一直通向下游，根边的泥又密又结实。他伸手摸了摸那层细泥，指尖终于停在了一个新念头上。",
+        "scene": {
+          "setting": "curving tree roots on a damp forest bank",
+          "action": "A resting Deer notices Snail following a firm moist path under roots",
+          "mood": "quiet renewed curiosity",
+          "props": [
+            "tree roots",
+            "snail",
+            "wet trail",
+            "muddy cloak"
+          ]
+        }
+      },
+      {
+        "id": "p10",
+        "text": "他没有马上挥铲子，而是先拿树枝量了量高低，又用小木杯倒水试了一段。水沿着树根边的浅槽往前走，真的走到了下游；时禾跑去请河狸来看，两人商量着用树皮托住最松的地方，再做一块能提起、能落下的小闸板。这样，水塘留下水，钟楼也能得到一小股水。这回，图纸上的两条线都可以留下，不必再擦掉哪一条。",
+        "scene": {
+          "setting": "firm root-lined route between pond and lower stream",
+          "action": "Deer tests a gentle slope with a wooden cup while Beaver plans a gate",
+          "mood": "careful hope",
+          "props": [
+            "measuring sticks",
+            "wooden cup",
+            "bark trough",
+            "small gate plan"
+          ]
+        }
+      },
+      {
+        "id": "p11",
+        "text": "这一次，大家先让细细的水流试走，再慢慢加宽。河狸固定树皮槽，鼹鼠把两边的泥压实，松鼠把落叶捡出来，时禾负责查看水塘边的刻痕；只要水位低过那道痕，就把闸板放下一点。没有谁催他们快些，溪水自己会告诉大家，哪一段还需要再等一等。小水塘里的青蛙一直待在原来的草叶上。",
+        "scene": {
+          "setting": "woodland stream bypass under construction by animal friends",
+          "action": "Friends build and adjust a narrow bark channel while Deer checks pond depth",
+          "mood": "steady teamwork",
+          "props": [
+            "bark channel",
+            "water-level mark",
+            "small wooden gate",
+            "pressed clay"
+          ]
+        }
+      },
+      {
+        "id": "p12",
+        "text": "傍晚，清亮的水终于回到钟楼，木轮重新转起来。时禾正要欢呼，钟摆却摆得太快，滴答声像一串急促的脚步；他跑回小闸板旁，一点一点调小开口，河狸在下游摇动白手帕报信。太阳快落山时，那熟悉的节奏回来了，水塘的刻痕也仍在水面下面。他和河狸隔着溪水挥手，终于都能直起腰了。",
+        "scene": {
+          "setting": "sunset view between the repaired waterwheel and the adjustable gate",
+          "action": "Deer tunes the gate while Beaver signals from the steady wheel",
+          "mood": "concentrated relief",
+          "props": [
+            "adjustable wooden gate",
+            "white handkerchief",
+            "turning waterwheel",
+            "sunset"
+          ]
+        }
+      },
+      {
+        "id": "p13",
+        "text": "灯会那天，时禾按照广场上的日影校好了钟，却发现许多纸灯还没糊完。前几天慢下来的钟，让大家把准备的时间估错了；他站在树桩上，认真说明了发生的事，也承认自己不能把漏掉的时间补回来。面包师把一盆浆糊端来，问：那么，我们现在一起糊还来得及吗？",
+        "scene": {
+          "setting": "village square with unfinished lanterns on shared tables",
+          "action": "Deer explains the delay as Baker brings paste for everyone to help",
+          "mood": "honest and encouraging",
+          "props": [
+            "unfinished lanterns",
+            "paste bowl",
+            "tree stump",
+            "paper strips"
+          ]
+        }
+      },
+      {
+        "id": "p14",
+        "text": "草地上立刻添了好几张桌子。会剪纸的剪纸，会系绳的系绳，小朋友给灯面画上水塘、溪流和圆圆的小钟；有一盏灯被糊得歪歪扭扭，大家索性把它画成一只胖蘑菇。太阳刚藏到树后，最后一根细绳系好了，时禾的第一声钟也从林间轻轻传来。",
+        "scene": {
+          "setting": "forest clearing where everyone finishes handmade lanterns",
+          "action": "Animals decorate pond and clock lanterns as the first evening bell rings",
+          "mood": "busy celebration",
+          "props": [
+            "mushroom-shaped lantern",
+            "paintbrushes",
+            "string",
+            "decorated paper lanterns"
+          ]
+        }
+      },
+      {
+        "id": "p15",
+        "text": "去草地的队伍经过小水塘时，大家自然地放慢了脚步。灯影在水里摇晃，像多出了一座小小的星空，青蛙坐在草叶上，萤火虫从芦苇间亮起来；时禾看见那几粒小逗号还在游，已经比前一天大了一点。他没有低头看怀表，只站在桥边，等最后一位朋友也走过来。",
+        "scene": {
+          "setting": "lantern procession crossing a little bridge beside the preserved pond",
+          "action": "Deer waits as lantern reflections meet fireflies over the pond",
+          "mood": "wonder and togetherness",
+          "props": [
+            "lantern reflections",
+            "fireflies",
+            "small bridge",
+            "tadpoles"
+          ]
+        }
+      },
+      {
+        "id": "p16",
+        "text": "后来，大钟又每天准时响了。时禾在维修本上画下新水道，把那只田螺也画在旁边，写了一行小字：先看看水还要去哪里。每天检查完齿轮，他都会到水塘坐一会儿；有时一片叶子要漂很久才经过他的蹄边，他也不去推它，等它自己绕过树根，慢慢走向有光的地方。",
+        "scene": {
+          "setting": "peaceful pond bank with the clock tower beyond the trees",
+          "action": "Deer sketches the new water route and watches a leaf float past",
+          "mood": "settled and reflective",
+          "props": [
+            "maintenance notebook",
+            "snail sketch",
+            "floating leaf",
+            "distant clock tower"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "wind-map",
+    "title": "风的另一边",
+    "subtitle": "空白处也藏着新的路",
+    "description": "楠楠想替外婆画完一张地图，乘着纸船驶向空白的云海。遇见一只迷路的纸鹤后，她改变了航向，也发现有些路线要亲自走过，才会出现在地图上。",
+    "ageBand": "9-10",
+    "theme": "探索",
+    "color": "#738AA7",
+    "character": "小女孩楠楠：乌黑短发、齐刘海、暖棕眼睛，穿杏黄雨衣和砖红短靴，背小斜挎包；小风号：靛蓝色折纸船、奶白纸帆；小纸鹤：白纸身体、淡粉翼尖；外婆：银灰盘发、暖紫开衫、圆眼镜。",
+    "pages": [
+      {
+        "id": "p01",
+        "text": "外婆的阁楼里，藏着一张会随天气变颜色的地图。晴天，海是淡蓝的；起雾时，岛屿边缘就蒙上一层银灰。楠楠最喜欢地图右边的空白，那里只写着五个小字：风的另一边。每次她问那是什么地方，外婆总笑着把地图展开一点，说自己还没有把所有路都走完。地图上有外婆年轻时的字，楠楠一眼就能认出来。",
+        "scene": {
+          "setting": "grandmother’s seaside attic with a magical map",
+          "action": "Girl studies a map whose islands fade into a blank silver edge",
+          "mood": "wonder and curiosity",
+          "props": [
+            "magical map",
+            "attic window",
+            "travel trunk",
+            "silver map edge"
+          ]
+        }
+      },
+      {
+        "id": "p02",
+        "text": "外婆的生日快到了，楠楠决定替她找到空白里的地方。她拿来一张厚纸，仔细描下钟铃岛和白色山脊，又在空白处画上一颗小星星，标出自己想去的位置；然后，她用靛蓝纸折了一只船，起名小风号。画笔、铅笔和橡皮都装好了，斜挎包却怎么也装不下那份期待。她想把新地图系上丝带，放进外婆打开就会笑的礼物盒。",
+        "scene": {
+          "setting": "attic worktable with a blue paper boat and a newly copied map",
+          "action": "Girl folds a paper boat beside her starred travel map",
+          "mood": "eager preparation",
+          "props": [
+            "blue paper boat",
+            "copied map",
+            "pencils",
+            "small shoulder bag"
+          ]
+        }
+      },
+      {
+        "id": "p03",
+        "text": "外婆看见她的行李，从抽屉里找出一枚铜纽扣，系在她的包带上。傍晚，两人把小风号放到窗前，朝着纸帆轻轻吹气；船越变越大，最后刚好能坐下一个孩子。窗外浮出一条淡淡的风河，外婆把窗灯点亮，说：回来时认这盏灯，遇见走不通的地方，就先把船停稳。",
+        "scene": {
+          "setting": "attic window opening onto a glowing river of air at dusk",
+          "action": "Grandmother helps Girl board an enlarged paper boat beside a warm lamp",
+          "mood": "safe magical departure",
+          "props": [
+            "copper button",
+            "glowing window lamp",
+            "large paper boat",
+            "river of air"
+          ]
+        }
+      },
+      {
+        "id": "p04",
+        "text": "小风号沿着屋顶上方出发，烟囱像一排排安静的积木，晒衣绳成了细细的琴弦。楠楠在地图左下角画出外婆的窗灯，再画一条弯线，记下自己经过的尖屋顶；等她回头，屋子已经变成很小的光点，但那一点光的位置，她已经仔细留在纸上。风帆轻轻鼓起，旅程才刚开始。她还记下海盐的气味，虽然不知道气味该用什么颜色来画。",
+        "scene": {
+          "setting": "paper boat sailing above a seaside village at blue hour",
+          "action": "Girl draws her route while the home window glows in the distance",
+          "mood": "free and attentive",
+          "props": [
+            "village rooftops",
+            "clotheslines",
+            "route pencil",
+            "distant window light"
+          ]
+        }
+      },
+      {
+        "id": "p05",
+        "text": "钟铃岛比地图上画的大一些，岛边挂着许多贝壳，风一经过，就响起细细的叮当。楠楠正要从岛东边驶过，芦苇里忽然传来纸张摩擦的声音；一只小纸鹤被风吹乱了折痕，怎么也张不开翅膀。她把船靠稳，小心托起纸鹤，顺着旧痕折好翅尖，那对翅膀才重新展开。修好的纸鹤抖了抖翅膀，像一封终于重新展开的信。",
+        "scene": {
+          "setting": "shell-bell island with reeds beside a paper-boat landing",
+          "action": "Girl carefully repairs a small paper crane’s folded wing",
+          "mood": "gentle concern",
+          "props": [
+            "hanging shell bells",
+            "reeds",
+            "paper crane",
+            "folded wing"
+          ]
+        }
+      },
+      {
+        "id": "p06",
+        "text": "纸鹤说，它和家人住在白塔上，跟着一片亮亮的云出来看海，结果被岔开的风带到了这里。楠楠在地图上找了半天，没有找到白塔，纸鹤却记得它在白色山脊的北边；那和楠楠画的小星星不是同一个方向。她看看已经倾斜的太阳，手里的铅笔悬在纸上，迟迟没有落下。",
+        "scene": {
+          "setting": "quiet landing on shell-bell island with diverging wind paths",
+          "action": "Girl compares the crane’s direction with the star on her map",
+          "mood": "hesitant decision",
+          "props": [
+            "starred map",
+            "white mountain ridge",
+            "paper crane",
+            "setting sun"
+          ]
+        }
+      },
+      {
+        "id": "p07",
+        "text": "小纸鹤没有催她，只把翅膀收拢，坐在船头等。楠楠想了想，擦掉刚画的直线，在旁边写上白塔两个字，说：先送你回家，我的小星星可以晚一点再找。纸鹤高兴地站起来，指给她看北边的一朵长云；小风号慢慢转弯，第一次驶进没有画好路线的地方，船边的云也换了颜色。",
+        "scene": {
+          "setting": "paper boat turning toward an uncharted northern cloud bank",
+          "action": "Girl redraws her route while Crane points toward a long cloud",
+          "mood": "decisive companionship",
+          "props": [
+            "erased route",
+            "new pencil line",
+            "long cloud",
+            "blue paper boat"
+          ]
+        }
+      },
+      {
+        "id": "p08",
+        "text": "越靠近山脊，风越喜欢拐弯。小风号一会儿偏向左，一会儿偏向右，楠楠试着让船头一直对准白塔的方向，纸帆却被吹得紧紧贴住桅杆；纸鹤展开翅膀感受了一会儿，说这里的风像楼梯。于是他们顺着一阵风走一段，再借下一阵风转过去，地图上渐渐出现了一条曲折的路。纸鹤在船头数着转弯，每转一次，就替她念出下一阵风的位置。",
+        "scene": {
+          "setting": "winding air currents along a white cloud mountain",
+          "action": "Girl steers the boat in gentle zigzags while Crane reads the wind",
+          "mood": "challenging but playful",
+          "props": [
+            "wind ribbons",
+            "bent paper sail",
+            "cloud steps",
+            "zigzag route"
+          ]
+        }
+      },
+      {
+        "id": "p09",
+        "text": "绕过山角，四周忽然静了。这里像一只大大的碗，风从碗口经过，却吹不到里面；小风号停在软云上，船帆慢慢垂下。楠楠着急地朝纸帆吹了几口气，船只轻轻晃了晃。她想起外婆的话，把船系在一块云石旁，和纸鹤分吃一块饼干，先让乱乱的心也坐下来休息。",
+        "scene": {
+          "setting": "still cloud hollow beneath a sheltered mountain wall",
+          "action": "Girl moors the paper boat to a cloud stone and shares a biscuit with Crane",
+          "mood": "quiet pause",
+          "props": [
+            "cloud stone",
+            "slack paper sail",
+            "biscuit",
+            "short mooring line"
+          ]
+        }
+      },
+      {
+        "id": "p10",
+        "text": "停下来以后，楠楠发现，云碗里并不是什么都不动。一根小羽毛从石头后面飘出来，在很低的地方打了个圈，又钻进山脚的一道缝；她放出一小片纸试了试，纸片也走了同样的路。他们把帆降下一半，让船贴着云面前进，顺着那道轻得几乎听不见的风，慢慢离开了碗底。",
+        "scene": {
+          "setting": "low opening at the base of a cloud mountain",
+          "action": "Girl follows a floating feather through a gentle low current",
+          "mood": "observant discovery",
+          "props": [
+            "small feather",
+            "test paper scrap",
+            "lowered sail",
+            "low cloud opening"
+          ]
+        }
+      },
+      {
+        "id": "p11",
+        "text": "白塔终于出现了，塔顶像一支没有蘸墨的白画笔。许多纸鹤停在栏杆上，白的、浅蓝的、淡粉的，听见小纸鹤的叫声，一齐展开翅膀；楠楠把船靠到塔边，目送朋友落进家人的拥抱。纸鹤妈妈折下一小片多余的白纸，做成羽毛送给她，羽毛尖上还留着一个浅浅的笑脸。塔上飘下来几片轻轻的彩纸，像专门为朋友准备的小花。",
+        "scene": {
+          "setting": "white tower rising from clouds with many pastel paper cranes",
+          "action": "Crane reunites with its flock as Girl receives a folded paper feather",
+          "mood": "warm reunion",
+          "props": [
+            "white tower",
+            "pastel paper cranes",
+            "paper feather",
+            "tower railing"
+          ]
+        }
+      },
+      {
+        "id": "p12",
+        "text": "楠楠把羽毛夹进地图，准备返航，才发现一路的湿雾已经把原来的纸帆泡软了。帆角轻轻一碰便裂开，没法再迎住风；包里只剩那张厚厚的地图够大、够结实，可上面画着今晚所有的新路线。楠楠把它铺在膝头，舍不得下手，窗灯画在最左边，白塔画在最右边，中间全是她走过的路。",
+        "scene": {
+          "setting": "paper boat moored beside the white tower under evening mist",
+          "action": "Girl studies her sturdy map beside a torn damp sail",
+          "mood": "thoughtful dilemma",
+          "props": [
+            "torn paper sail",
+            "detailed travel map",
+            "paper feather",
+            "mist droplets"
+          ]
+        }
+      },
+      {
+        "id": "p13",
+        "text": "纸鹤飞回来，帮她扶住桅杆。楠楠终于把地图竖起来，沿着边缘折出牢固的角，用包带上的细绳扎好，再用外婆给的铜纽扣压住下端；新帆鼓起来时，那些弯弯曲曲的路线全都迎向了风。地图没有平躺在桌上，却真的带着船动了起来，楠楠笑了，原来画过的路也能这样陪自己回家。",
+        "scene": {
+          "setting": "paper boat with its hand-drawn map transformed into a new sail",
+          "action": "Girl and Crane rig the map sail using cord and a copper button",
+          "mood": "resourceful delight",
+          "props": [
+            "map sail",
+            "copper button",
+            "thin cord",
+            "paper crane"
+          ]
+        }
+      },
+      {
+        "id": "p14",
+        "text": "返程时，楠楠没有一张可以捧在手里的地图，但她记得山脚低低的风，也记得钟铃岛的贝壳声。小纸鹤陪她越过山脊才挥翅告别，她沿着来时的屋顶，一点一点找回熟悉的方向；终于，那盏暖黄的窗灯出现了，外婆正在窗边缝衣服。船靠近窗台，轻轻一晃，又变回能够托在手心的小纸船。",
+        "scene": {
+          "setting": "warm attic window welcoming a small returning paper boat",
+          "action": "Girl arrives home by the glowing lamp as Grandmother looks up from sewing",
+          "mood": "reassuring homecoming",
+          "props": [
+            "warm window lamp",
+            "sewing basket",
+            "shrinking paper boat",
+            "night rooftops"
+          ]
+        }
+      },
+      {
+        "id": "p15",
+        "text": "楠楠把皱皱的地图从船上解下来，有些线被雾弄淡了，白塔旁还有一块纽扣压出的圆印。她有点遗憾地说，没找到风的另一边，也没把地图补全；外婆却把纸羽毛夹好，笑着告诉她，那五个字并不是某座岛的名字，只是当年自己给未知地方留下的空白。今天，空白里已经多了一座白塔。外婆轻轻摸着新的线条，说这份生日礼物，还能听见风的声音。",
+        "scene": {
+          "setting": "attic table where grandmother and girl unfold a weathered map",
+          "action": "Grandmother and Girl examine the new white tower and faded route together",
+          "mood": "tender understanding",
+          "props": [
+            "weathered map",
+            "button imprint",
+            "paper feather",
+            "cup of warm milk"
+          ]
+        }
+      },
+      {
+        "id": "p16",
+        "text": "她们一起把记得的地方重新描清，楠楠补上会拐弯的风，外婆画出旧日见过的一群银色小鱼。有些地方两人都不确定，就让它继续白着，没有急着填满；睡前，楠楠在地图角落写下今天的日期，把小风号放回窗边。夜风翻动纸帆，窗灯照着那块空白，像为下一次出发留了一扇小小的门。",
+        "scene": {
+          "setting": "quiet bedside window with a paper boat and an open partly blank map",
+          "action": "Girl leaves the repaired boat by the window after adding memories to the map",
+          "mood": "hopeful bedtime",
+          "props": [
+            "repaired paper boat",
+            "partly blank map",
+            "window lamp",
+            "soft night breeze"
+          ]
+        }
+      }
+    ]
+  }
+]
