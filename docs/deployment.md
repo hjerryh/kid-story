@@ -4,14 +4,13 @@
 
 ## 发布内容
 
-- 当前发布：`20261023-expansion-115-v1`，提交`7a9ac65`，Expo Web生产导出。
-- 121篇完整故事：原有6篇，加上`expansion-0001`至`expansion-0115`。扩展库共有1288页、1403张插图/封面和115条完整旁白（32843.342秒）。1000篇扩展目标仍在进行中。
-- 本次新增0081–0115共35篇、376页、411张图、9188.630秒旁白。第三批剩余0116–0120尚未计入上线数。
-- 当前清单1842个文件、419929128字节；增量仅上传482个变化文件、98522817字节。
-- 发布包：`artifacts/StoryIsland-Web-20261023-expansion-115-v1.incremental.tar.gz`。
-- 发布包SHA-256：`5ae7079fbfd954da492a4ce646cdcf3cd01a0075514bdd54bc37100737205048`。
-- 文件清单：`artifacts/StoryIsland-Web-20261023-expansion-115-v1.manifest.json`；服务器全部1842个文件通过SHA-256核对后才原子切换`current`。
-- 当前JS：`index-d945c738ff3f83fcdacd18ab8cc87d89.js`。上一版`20261023-expansion-80-v1`保留可回退；未变化的媒体通过硬链接复用。
+- 当前发布：`20261023-expansion-128-v1`，提交`1f36e60`，Expo Web生产导出。
+- 134篇完整故事：原有6篇，加上`expansion-0001`至`expansion-0128`。扩展库共1432页、1560张插图/封面、128条完整旁白（36518.408秒）。1000篇目标仍在进行中。
+- 本次新增0116–0128共13篇、144页、157张图、3675.066秒旁白。第三批0081–0120已全部上线；第四批已上线0121–0128共8篇。
+- 当前清单2025文件、458958670字节；增量上传184个变化文件、39143862字节。
+- 发布包：`artifacts/StoryIsland-Web-20261023-expansion-128-v1.incremental.tar.gz`；SHA-256为`c44552c6dbd5262cb96d3cb1266a24e56943ff5e5fcabedd39dfbf4c6fd6b942`。
+- 文件清单：`artifacts/StoryIsland-Web-20261023-expansion-128-v1.manifest.json`；服务器全部2025文件SHA-256核对后原子切换。
+- 当前JS：`index-d945c738ff3f83fcdacd18ab8cc87d89.js`。上一版`20261023-expansion-115-v1`保留可回退；未变化媒体通过硬链接复用。
 
 这是独立的静态网站，不依赖本机预览服务、Node后端、数据库或在线TTS。收藏和阅读位置保存在访问者自己的浏览器内；本机预览域名下的数据不会迁移到正式域名。
 
@@ -20,8 +19,8 @@
 SSH连接：`jingtian-server`，用户`ubuntu`。公开DNS从`kid-store.jentin.cn`经`jentin.cn`解析到`124.221.85.250`。
 
 - 站点目录：`/www/wwwroot/kid-store.jentin.cn/`
-- 当前资源：`current -> releases/20261023-expansion-115-v1`
-- 服务器校验清单：`manifests/20261023-expansion-115-v1.json`
+- 当前资源：`current -> releases/20261023-expansion-128-v1`
+- 服务器校验清单：`manifests/20261023-expansion-128-v1.json`
 - 更新前的站点配置备份：`manifests/20261022-expansion-40-v1.nginx-before.conf`
 - 证书验证目录：`shared/.well-known/acme-challenge/`
 - Nginx站点配置：`/www/server/panel/vhost/nginx/kid-store.jentin.cn.conf`
@@ -41,13 +40,17 @@ SSH连接：`jingtian-server`，用户`ubuntu`。公开DNS从`kid-store.jentin.c
 
 ## 上线验证
 
-- 当前1842个文件均以HTTPS返回200，长度匹配本地；115篇远程详情及1288页内容通过应用实际解析器校验。
-- 115条新增MP3的`Range: bytes=1024-2047`均返回206，`Content-Range`及1024字节响应逐条匹配本地。
-- 索引115篇且使用no-cache；版本化素材使用immutable；不存在的音频、JS、图片均返回404。
-- 线上点击更新故事库后显示121篇、6页列表。搜索“蓝桥”得到1篇，打开《蓝桥那头的两碗汤》可播放并自动翻至第2页（实测0:29）。
-- 暂停、收藏、翻页后停在第3页0:56（56.9秒）；刷新后通过继续阅读恢复同页、同位置、收藏状态，并保持暂停。浏览器没有error/warn记录。
-- 证据：`artifacts/expansion-115-live-http-verification.json`、`artifacts/expansion-115-live-home.png`、`artifacts/expansion-115-live-reader.png`、`artifacts/expansion-115-live-restored.png`。本次未在所有终端逐篇全程听完115条音轨。
-- 本次应用实际解析器、内容校验与生产导出通过。应用代码未变，沿用此前22项应用回归、TypeScript及9项部署测试的结果；没有将旧检查写成本次重跑。Nginx配置未改变，正确二进制的`-t`通过。
+- 当前2025文件均以HTTPS返回200且长度匹配本地；128篇1432页通过应用实际解析器及资源检查。
+- 128条新增MP3的`Range: bytes=1024-2047`均返回206，Content-Range及1024字节响应逐条匹配本地。
+- 128篇索引完整字节匹配、no-cache；版本化资源immutable；缺失音频/图片/JS返回404。公网检查0失败。
+- 更新目录后显示134篇、6页。搜索“泡泡火车”得1篇，《泡泡火车到站啦》播放至0:37并自动翻至第2页。
+- 暂停、收藏、翻页后为第4页1:02；刷新后继续阅读恢复第4页62.7秒、收藏及暂停状态。浏览器无error/warn。
+- 证据：`artifacts/expansion-128-live-http-verification.json`和`artifacts/expansion-128-live-{home,reader,restored}.png`。未在所有终端逐篇全程听完128条音轨。
+- 本次内容校验、应用解析器和生产导出通过。应用/部署脚本未变，沿用此前22项应用回归、TypeScript及9项部署测试；未将旧检查计为此次重跑。Nginx配置不变，正确二进制的`-t`通过。
+
+### 第三批前35篇发布的历史验证
+
+`20261023-expansion-115-v1`新增0081–0115后达121篇。1842文件服务器SHA-256、HTTPS长度和115音轨Range检查通过。搜索“蓝桥”得1篇，《蓝桥那头的两碗汤》播放至第2页0:29；刷新恢复第3页56.9秒、收藏并保持暂停。证据保留于`artifacts/expansion-115-live-*`及`content-expansion/reports/batch-003-publication-partial.md`。
 
 ### 第二批全部40篇发布的历史验证
 
