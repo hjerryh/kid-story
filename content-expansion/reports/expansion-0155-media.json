@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0155",
+  "title": "红帆停在海边的信上",
+  "version": 1,
+  "bodyCharacters": 1448,
+  "pages": 16,
+  "duration": 440.522,
+  "bodySha256": "d76468022b119ca6de446deb182076c38ca491adc0bd221923b8ec10b7996fad",
+  "audioSha256": "c01806ab6ec41aa80f1d8e6349c1874d2478b0ee0ad09e03ac4bc00bbe691526",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9dfefe6663e692a784b50d421d7ea81e1be63b5d782aeb0ee4e6743a615c3d99",
+      "bytes": 15616
+    },
+    {
+      "name": "p01",
+      "sha256": "2f43c25b4fe7db10318fba0c7e4f998d474268292f914837a760e8541e9ef148",
+      "bytes": 12906
+    },
+    {
+      "name": "p02",
+      "sha256": "9f49a4099e7962f3a26ca40a389fd2f309d51daec3600d026cac3c82016a9516",
+      "bytes": 16274
+    },
+    {
+      "name": "p03",
+      "sha256": "74aa1fe8adb2fa8826c47613cc1cce56288dff893c6e413a74ce6250f8d1b12e",
+      "bytes": 14838
+    },
+    {
+      "name": "p04",
+      "sha256": "efc6bcfcf54aad75b740bf10160dbc7bf8185b6c935b242a84b9692093bbad0f",
+      "bytes": 15210
+    },
+    {
+      "name": "p05",
+      "sha256": "f72a56f8ea7d56f64f430963bb9795c297454eb0c5d5d2336f02f02cf89ca90c",
+      "bytes": 15736
+    },
+    {
+      "name": "p06",
+      "sha256": "6310b6134691c05da86a58fdd9de5bb40a1dc74026842723b6f05c0cbd0c0769",
+      "bytes": 15252
+    },
+    {
+      "name": "p07",
+      "sha256": "22d94e7bd60498f7e9742bd731a9f4ad26aaeb32e4f8bacf3e4b4c1449d87fa3",
+      "bytes": 14082
+    },
+    {
+      "name": "p08",
+      "sha256": "546827d84105d2bb5b614def120ed88a03c25f323b770cd649a9a9fc06a49d5e",
+      "bytes": 13924
+    },
+    {
+      "name": "p09",
+      "sha256": "045edf2277a3d89205e09b2348b6b5bc337c259d5c2f80ec155fe3f62bcad237",
+      "bytes": 14578
+    },
+    {
+      "name": "p10",
+      "sha256": "3d392f7406d05dba28d59eb5d7e3ccff7dc0c41bdf59c60fd16acd27838a7f47",
+      "bytes": 14940
+    },
+    {
+      "name": "p11",
+      "sha256": "0dcb616a57411028b139ad1711b162ffa5ca0f88550e1b803875bc883d3be757",
+      "bytes": 12486
+    },
+    {
+      "name": "p12",
+      "sha256": "795a42657de87443b0e806183b52554ae4e32a30acc4f0731bffc27271db3244",
+      "bytes": 11096
+    },
+    {
+      "name": "p13",
+      "sha256": "51e6036efcc9d8778397bd93a7239aa821911e729b7b068d21955b1f70284d0b",
+      "bytes": 14786
+    },
+    {
+      "name": "p14",
+      "sha256": "7c3ebc8b52685312ab301b453030e1a65fadf862c00a22ebbbf12a1e78742b44",
+      "bytes": 13224
+    },
+    {
+      "name": "p15",
+      "sha256": "cfbb3250057c67248a0e3f06537e86e922ef0cbdfcbafe56991e0700b3b8ddd1",
+      "bytes": 15888
+    },
+    {
+      "name": "p16",
+      "sha256": "8d7b9a970dff4cc83807eedf02193477f586dfbf7572292cbfca411af5a05f37",
+      "bytes": 12616
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

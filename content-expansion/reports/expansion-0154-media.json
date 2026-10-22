@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0154",
+  "title": "替哭员口袋里的手帕",
+  "version": 1,
+  "bodyCharacters": 1460,
+  "pages": 16,
+  "duration": 448.898,
+  "bodySha256": "e70f6b3c745a010ae46fa669fb3bddc04e62bb13e4573c1d6aa4548ed5390d12",
+  "audioSha256": "df30ef7709d798cd7f58cd87cfbaf278f7f07a3a3aa6c93fa790af4f7d257a23",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "363febbaaecccdb28d6a5daf675545025a7f49d0f519e57479d41093169d7bc1",
+      "bytes": 17062
+    },
+    {
+      "name": "p01",
+      "sha256": "5938605d0b58c32746ccef58be2a5af163be87bf8218fc0dafc4c17245d807dc",
+      "bytes": 10066
+    },
+    {
+      "name": "p02",
+      "sha256": "78bb65fa195168ceca2865860782c67bf86230e552ef881d65e8bde1068d64b5",
+      "bytes": 13064
+    },
+    {
+      "name": "p03",
+      "sha256": "756415580c828a77012e5cd58e08bda0c670d3883f2510b85d70984fb4a35682",
+      "bytes": 15170
+    },
+    {
+      "name": "p04",
+      "sha256": "3fc2204bef64459ea7aa5406b17294341c54f4c63176be6367a6c470c9632957",
+      "bytes": 16416
+    },
+    {
+      "name": "p05",
+      "sha256": "6b7093a5ffa0a386702591d4a890532ae80dbd42c67e537f99be6c9e15f34311",
+      "bytes": 14938
+    },
+    {
+      "name": "p06",
+      "sha256": "ccb76571c65ec23d3d220f9fd3d64aa538db03b248c0103a67e7d67ca477ad2c",
+      "bytes": 16022
+    },
+    {
+      "name": "p07",
+      "sha256": "a3c9b4c506a64082a453e262f5bbea9b1513e5aff3c7787f22eda5b55319f6a9",
+      "bytes": 14994
+    },
+    {
+      "name": "p08",
+      "sha256": "0270429770b623cca478d6ae5b0c529a66599c30bdaa957e74df5c3b6ca213f8",
+      "bytes": 14046
+    },
+    {
+      "name": "p09",
+      "sha256": "cea3bba07c5a9fac697f8c35a20862da6857654b59c4cbed93143d7d0b3984d4",
+      "bytes": 13862
+    },
+    {
+      "name": "p10",
+      "sha256": "723bf600764174e0815781643812a205114dc15977e24464f88b7bf7356ef4f4",
+      "bytes": 10594
+    },
+    {
+      "name": "p11",
+      "sha256": "118457749c5fe6353bbb996ae4d7029a2fde2fef4db660d32303d7398d129c2b",
+      "bytes": 12506
+    },
+    {
+      "name": "p12",
+      "sha256": "0d1e6e41748348d79576bfb67d09937040d21cac8634abf4ea46e7bad3f37e30",
+      "bytes": 14558
+    },
+    {
+      "name": "p13",
+      "sha256": "c0b2d6c6854524de4ee6639993e0bbc3ecefb95b66fcbc31eccaed0be4d6477f",
+      "bytes": 14144
+    },
+    {
+      "name": "p14",
+      "sha256": "94103ae72599df68396c41929b904334635aa8bfa2f3cb19052b33e6989856d1",
+      "bytes": 12570
+    },
+    {
+      "name": "p15",
+      "sha256": "125c46c2fa6030ab8d351ecaa50089e5d196039b72a3438122befbd18e4b7370",
+      "bytes": 13752
+    },
+    {
+      "name": "p16",
+      "sha256": "a1c3e3f708181ed0a2fea532c0245032c341cfdd5f468e23c70ba2b06b269012",
+      "bytes": 14384
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

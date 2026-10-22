@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0153",
+  "title": "眠山手心的小木匠",
+  "version": 1,
+  "bodyCharacters": 1471,
+  "pages": 16,
+  "duration": 450.434,
+  "bodySha256": "2f6f6bd0419b5b379022d58d04623fbe06981ab1ef24fe313cb3f6ea817c8e63",
+  "audioSha256": "6348b62db900f3166dc6e51f8f22340f4c7c34ae2bb2b2d6edd04899f669cde0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "bf218b5edec8ddfdf6ab5a8226f14e043855cb7bd76106d8ba68bc55adf980fc",
+      "bytes": 15144
+    },
+    {
+      "name": "p01",
+      "sha256": "a4a47926a5b2b36ef5e28aadd94fd32d142764c0a3c2550d8960146e4ce0ac9f",
+      "bytes": 12696
+    },
+    {
+      "name": "p02",
+      "sha256": "9b3b3e499a7dfb26973be501b36a6efc3ecd00558042ac0b1972e3141a4f6d6e",
+      "bytes": 12764
+    },
+    {
+      "name": "p03",
+      "sha256": "74bf11dc71a16d2704211efdd3cf74468df23edfcd1078ffbbc3abf17cdd7f1c",
+      "bytes": 13228
+    },
+    {
+      "name": "p04",
+      "sha256": "097f0cf7b4a9885afce61034f0765b5f4c7ea38e70043215f6042b9fb454e0fe",
+      "bytes": 12872
+    },
+    {
+      "name": "p05",
+      "sha256": "0bc1bb44fe8c5338ca2cbd6e7062b2f374b570845ac5cea5ed57984affa88954",
+      "bytes": 12564
+    },
+    {
+      "name": "p06",
+      "sha256": "705fe0513a7f2a009f003564eaa96dd736d12b1c0fcd5372cd2002959bf08663",
+      "bytes": 11756
+    },
+    {
+      "name": "p07",
+      "sha256": "45c84f2937987ed936fadfdab3b780986cbdaa5676abf3173d6932bba0d094ef",
+      "bytes": 10558
+    },
+    {
+      "name": "p08",
+      "sha256": "ae4e59e2acccb9e93b026ff397310b9a967c2976f5ba7e6ff53b878c282e9fae",
+      "bytes": 10096
+    },
+    {
+      "name": "p09",
+      "sha256": "c3685681b3979b833da92b7e17d00e02f0b27e2517d2c8c6e695661430162954",
+      "bytes": 11378
+    },
+    {
+      "name": "p10",
+      "sha256": "3e8e9c96af5a2e930cd025650a952337ffde7f0d71f6beafdf1f67bcf68ee410",
+      "bytes": 13420
+    },
+    {
+      "name": "p11",
+      "sha256": "b308a0a3a53040da946e607281aafbbf4fba7fad191f6cd190523e6912d3eb0d",
+      "bytes": 12478
+    },
+    {
+      "name": "p12",
+      "sha256": "b3a8d431a5e0f74563b75bc88f04321596a8cecb76e963331c37721eafa4edf4",
+      "bytes": 12968
+    },
+    {
+      "name": "p13",
+      "sha256": "959bf4133aa5298eaad27f48da3f858f2c37f8997682efe07fd8bd21a5e2b588",
+      "bytes": 13018
+    },
+    {
+      "name": "p14",
+      "sha256": "df8d67c936b355c320ef75ae4aa39f8f412477c7c265d74f435e7ba66113c32c",
+      "bytes": 13332
+    },
+    {
+      "name": "p15",
+      "sha256": "2eb2735b2ba5e80eef0cd8088f194077455a61ed047cc48286fc76ca029aab5a",
+      "bytes": 13460
+    },
+    {
+      "name": "p16",
+      "sha256": "16919c66f5694e7bb3e12b3965f8fb4637854483607c368a131cf3eb578ce138",
+      "bytes": 11182
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
