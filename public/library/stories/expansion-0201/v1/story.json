@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0201",
+  "version": 1,
+  "status": "media-ready",
+  "title": "红尾巴藏在圆石头里",
+  "subtitle": "藏在石头里的小鱼",
+  "description": "小耳在绿洲找到一块水画石，想看清石头里藏着什么。可是，水总从石面流走，刚出现的红尾巴转眼又不见了。怎样才能让整幅画一起露出来呢？",
+  "ageBand": "3-5",
+  "theme": "好奇与发现",
+  "color": "#E8C887",
+  "character": "小耳是一只沙黄色的小耳廓狐，耳朵大大，尾尖乳白，穿湖蓝色短背心，挎米白色小布包。水画石呈扁圆形，浅灰色，遇水显出一条红尾巴小鱼，干后图画隐去。",
+  "cover": "/library/stories/expansion-0201/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 151.882,
+  "detailUrl": "/library/stories/expansion-0201/v1/story.json",
+  "audio": "/library/stories/expansion-0201/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "绿洲的棕榈树下，小耳捡到一块圆石头。石头轻轻说：“我是水画石，身上藏着一幅画。沾水的地方才看得见，干了就藏起来。”小耳翻翻它，真想看看那幅画。",
+      "image": "/library/stories/expansion-0201/v1/p01.webp",
+      "start": 0,
+      "end": 18.854
+    },
+    {
+      "id": "p02",
+      "text": "她从小水壶里倒出一点水。石头上露出一截红红的尾巴，弯弯的，像一片小花瓣。“是狐狸吗？”小耳把自己的尾巴摆在旁边。可那截红尾巴很快又不见了。",
+      "image": "/library/stories/expansion-0201/v1/p02.webp",
+      "start": 18.854,
+      "end": 38.14
+    },
+    {
+      "id": "p03",
+      "text": "原来石面鼓鼓的，水顺着两边滑进了沙里。小耳把石头向左歪，又向右歪，想把水留下。水珠却骨碌骨碌跑，红尾巴一闪一闪，她怎么也看不到画里的脑袋。",
+      "image": "/library/stories/expansion-0201/v1/p03.webp",
+      "start": 38.14,
+      "end": 56.562
+    },
+    {
+      "id": "p04",
+      "text": "她又把石头翻过来。背面有个浅浅的小窝，水果然不跑了。小耳睁大眼睛，看了好一会儿，那里却没有画。“你藏得真好呀。”她把石头翻回来，鼻尖都凑近了。",
+      "image": "/library/stories/expansion-0201/v1/p04.webp",
+      "start": 56.562,
+      "end": 75.176
+    },
+    {
+      "id": "p05",
+      "text": "爪尖沾着水，她轻轻按了一下石面。咦，一只黑眼睛露出来了！她换个地方再按，又出现两条弯线。小耳看看湿爪尖，再看看石头：“要让你全身一起湿才行！”",
+      "image": "/library/stories/expansion-0201/v1/p05.webp",
+      "start": 75.176,
+      "end": 93.814
+    },
+    {
+      "id": "p06",
+      "text": "小耳从布包里取出喝水的浅碗，把石头正面朝上放进去。她慢慢添水，水先围住石头的腰，再轻轻盖过石面。这回，每个地方都湿着，水也不用忙着往下跑了。",
+      "image": "/library/stories/expansion-0201/v1/p06.webp",
+      "start": 93.814,
+      "end": 113.028
+    },
+    {
+      "id": "p07",
+      "text": "黑眼睛、圆肚皮、小鱼鳍，全都出来了！原来是一条红尾巴小鱼，身边还有三个圆泡泡。小耳高兴得翘起尾巴：“找到你啦！”石头说：“嗯，你连我的泡泡都看见啦。”",
+      "image": "/library/stories/expansion-0201/v1/p07.webp",
+      "start": 113.028,
+      "end": 132.506
+    },
+    {
+      "id": "p08",
+      "text": "小耳把碗端回家，放在窗边的矮桌上。风吹过棕榈叶，叶影在碗里轻轻摇。小鱼明明画在石头上，看着却像在树影里游。小耳也坐下来，陪它过一个凉凉的下午。",
+      "image": "/library/stories/expansion-0201/v1/p08.webp",
+      "start": 132.506,
+      "end": 151.882
+    }
+  ],
+  "buildHash": "66abdc339c3ee277828f1afc31771eb94ebaa36726f772a8f68d453dd9dc1d8b"
+}

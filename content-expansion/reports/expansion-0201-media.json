@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0201",
+  "title": "红尾巴藏在圆石头里",
+  "version": 1,
+  "bodyCharacters": 486,
+  "pages": 8,
+  "duration": 151.882,
+  "bodySha256": "cce3b34b8c453870b09c668db38b1d3a830c548ed5d6aae8e13f24edaee4caa7",
+  "audioSha256": "01e25b517c53f200000c1fac650dfe3dabeb374acb628828045ccf4a15beca4e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "530b9fe9b574b53627243652f7695b4fcaca7b69ad6fb1dc8c71e735bb9455ee",
+      "bytes": 20268
+    },
+    {
+      "name": "p01",
+      "sha256": "fa6a3ec66e1b4c4c3f00c8155601c91dd49102abfbfc0fded1da7b1f7cdcfa61",
+      "bytes": 17196
+    },
+    {
+      "name": "p02",
+      "sha256": "95e07168d9471919125e056765690bd0e044b68f4cbab75aeca1360f09632615",
+      "bytes": 19016
+    },
+    {
+      "name": "p03",
+      "sha256": "152a57921af4cc59af2a8171171ac82987366fe51342c045782a89142460c7ec",
+      "bytes": 18380
+    },
+    {
+      "name": "p04",
+      "sha256": "2f062a7347180104c61b52a487d416dbb052611ce8b52c3f665f825462fb0890",
+      "bytes": 18342
+    },
+    {
+      "name": "p05",
+      "sha256": "b9a46fafae9ef4c654b62b8dff457714580ca734d9e9da3edaeadefe20bc3d05",
+      "bytes": 18682
+    },
+    {
+      "name": "p06",
+      "sha256": "1e6a745040ec3f9900ac8db371d848af3e9c13763622a3d876a63c78ec54f55b",
+      "bytes": 20102
+    },
+    {
+      "name": "p07",
+      "sha256": "953843a80fa37c5f60593b4867ad0e79c38a4153ae2b8d057edebd38e86b3e9f",
+      "bytes": 20552
+    },
+    {
+      "name": "p08",
+      "sha256": "43c97976f1fae5adb0a79b8b6fc696b0cea7b19686cc4c41cde6f92cc6d8d217",
+      "bytes": 15136
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

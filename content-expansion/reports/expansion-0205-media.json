@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0205",
+  "title": "长筒肚子里的月亮饼",
+  "version": 1,
+  "bodyCharacters": 541,
+  "pages": 8,
+  "duration": 171.778,
+  "bodySha256": "cc9000794d9f6e10abac08d437e1dff3ab748eb888fcb3d0e3b0a289f300e1a3",
+  "audioSha256": "e5232bbc435db55e773941404ae605f9fa865b0eaa087f231bc8432d9488b33f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "80171bc1a0347a34ad005ee57984ad20e593dbe2d7d3ad729cb46beeb0bf6c86",
+      "bytes": 22696
+    },
+    {
+      "name": "p01",
+      "sha256": "a58368ac2378c2cd5fce51a8e12edfa1ef97a687b8e2154cb1a2e573261ed464",
+      "bytes": 15548
+    },
+    {
+      "name": "p02",
+      "sha256": "01729d34279c1d239aa72333c722e59a0c673acdb0513f7c760c30a695570713",
+      "bytes": 18758
+    },
+    {
+      "name": "p03",
+      "sha256": "c7cafc31e8a5bae9c253db6a3f69c82855e4164e5c784af822c6bae9fbb0a360",
+      "bytes": 14582
+    },
+    {
+      "name": "p04",
+      "sha256": "bab8c75484db1daa3c59dc93bc789dc71f0d08c6e70d377e75c6841544a21f38",
+      "bytes": 14600
+    },
+    {
+      "name": "p05",
+      "sha256": "7e6598062dd365a3b63fc3931304dd9f58a74b5915918badb105748b92c0f4ab",
+      "bytes": 19718
+    },
+    {
+      "name": "p06",
+      "sha256": "543423d7a88ac8d5f81c77991e0850ef3955e9a225f381f880ba7ba27a9c867f",
+      "bytes": 18622
+    },
+    {
+      "name": "p07",
+      "sha256": "1b31cc521103841aac5fe670836a134dd5fb18ddfcdd3303a4500be8013b2972",
+      "bytes": 19040
+    },
+    {
+      "name": "p08",
+      "sha256": "e04ebfea2d00d18d6abb9f6224d74653419a387d4f4e57781739af331b8e6cdd",
+      "bytes": 18946
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

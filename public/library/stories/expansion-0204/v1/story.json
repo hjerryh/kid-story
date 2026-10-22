@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0204",
+  "version": 1,
+  "status": "media-ready",
+  "title": "月亮睡在方巾那一边",
+  "subtitle": "两个枕头两种晚安",
+  "description": "米芙请双头小龙来家里过夜，可窗帘拉上不对，打开也不对。她以为客人不喜欢自己准备的小床，直到两颗脑袋同时说出了不同的愿望。",
+  "ageBand": "3-5",
+  "theme": "听清心愿",
+  "color": "#A8BFCF",
+  "character": "米芙：灰毛小睡鼠，圆耳朵，穿浅紫色睡衣，戴白色睡帽。双头小龙：浅绿色身体，两颗圆脑袋共用一个身体；左边脑袋叫芽芽，长一对金色小角，右边脑袋叫叶叶，长一对棕色小角；穿蓝色睡衣。",
+  "cover": "/library/stories/expansion-0204/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 167.05,
+  "detailUrl": "/library/stories/expansion-0204/v1/story.json",
+  "audio": "/library/stories/expansion-0204/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "月光牧屋里，米芙铺好了一张宽宽的小床。今晚，双头小龙要来过夜。左边的脑袋叫芽芽，右边的叫叶叶。米芙把两个枕头摆得并排，拍拍被子说：“试试吧，软得像小面包！”",
+      "image": "/library/stories/expansion-0204/v1/p01.webp",
+      "start": 0,
+      "end": 20.846
+    },
+    {
+      "id": "p02",
+      "text": "小龙钻进被窝，两颗脑袋各枕一个枕头。月光落在芽芽的鼻尖上，他眯起眼睛：“太亮啦。”米芙赶紧拉上窗帘。屋里暗下来，只剩门缝里一线暖光，像细细的金丝带。",
+      "image": "/library/stories/expansion-0204/v1/p02.webp",
+      "start": 20.846,
+      "end": 41.716
+    },
+    {
+      "id": "p03",
+      "text": "米芙刚转身，叶叶便探出脑袋：“太暗啦，我想看月亮。”米芙又拉开窗帘。银光一下铺满床头，芽芽却把鼻尖缩进被子。米芙摸摸窗帘，心想：刚才不是还嫌亮吗？",
+      "image": "/library/stories/expansion-0204/v1/p03.webp",
+      "start": 41.716,
+      "end": 62.37
+    },
+    {
+      "id": "p04",
+      "text": "她试着只留一条窗帘缝。床上还是传来一句“亮”，又一句“暗”。米芙的耳朵垂了下来。她坐到床脚，小声问：“是不是这张床不好？我铺了好久，还挑了最蓬松的枕头呢。”",
+      "image": "/library/stories/expansion-0204/v1/p04.webp",
+      "start": 62.37,
+      "end": 81.752
+    },
+    {
+      "id": "p05",
+      "text": "“床很好呀！”两颗脑袋一起说。接着，芽芽说：“请关上。”叶叶同时说：“请打开。”两个声音碰在一起，米芙忽然抬起头。原来，刚才说话的，一会儿是芽芽，一会儿是叶叶！",
+      "image": "/library/stories/expansion-0204/v1/p05.webp",
+      "start": 81.752,
+      "end": 103.366
+    },
+    {
+      "id": "p06",
+      "text": "米芙先问芽芽：“你想暗一点？”芽芽点头。她再问叶叶：“你想看着月亮？”叶叶也点头。米芙笑了：“那就让你们的枕头不一样。”她望望床头的小木架，拿来一块小方巾。",
+      "image": "/library/stories/expansion-0204/v1/p06.webp",
+      "start": 103.366,
+      "end": 123.708
+    },
+    {
+      "id": "p07",
+      "text": "她把方巾挂在两个枕头之间的小木架上，再打开窗帘。靠窗的叶叶看见了月亮，另一边的芽芽有了小小的暗窝。“这样呢？”米芙问。两颗脑袋一起蹭蹭枕头：“这样真舒服。”",
+      "image": "/library/stories/expansion-0204/v1/p07.webp",
+      "start": 123.708,
+      "end": 144.722
+    },
+    {
+      "id": "p08",
+      "text": "米芙也钻进自己的小床。方巾这边，芽芽打了个哈欠；方巾那边，叶叶对月亮眨眨眼。“晚安，米芙。”两个声音轻轻响起。这回米芙听清了，便送回两声晚安，一声给一颗圆脑袋。",
+      "image": "/library/stories/expansion-0204/v1/p08.webp",
+      "start": 144.722,
+      "end": 167.05
+    }
+  ],
+  "buildHash": "12af1b1d88fe7967ff639b9cca9534be92f3c196d2058a7725c2494b0d305daf"
+}

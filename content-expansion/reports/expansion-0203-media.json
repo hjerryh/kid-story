@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0203",
+  "title": "绒绒拐了一个新弯",
+  "version": 1,
+  "bodyCharacters": 500,
+  "pages": 8,
+  "duration": 161.218,
+  "bodySha256": "9f2aa37ed735ffdd1134032575e235e3c72f08ba4f06d0928da1b03442460934",
+  "audioSha256": "11fbc8d699d4aecf78a90bc940b4c6b473816de0935c53f2bfacce99f0e57471",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "033bcb58ea31fced6c3d009ab79e43ef06977533b4d1a3f8c5f228909a91bde6",
+      "bytes": 17894
+    },
+    {
+      "name": "p01",
+      "sha256": "e5e8681c8672f84ae8671c37c7f9f05aeebae4de3d869bf5011e52971bb629b1",
+      "bytes": 13882
+    },
+    {
+      "name": "p02",
+      "sha256": "24164801ab34fe43528103471996cc24f6a7c9f5beeedd48673cc6f9b88fae73",
+      "bytes": 14074
+    },
+    {
+      "name": "p03",
+      "sha256": "09995acd3d3043499423e54afbae52f6d43fc8a559bc1180ff50d67560ac66c0",
+      "bytes": 15742
+    },
+    {
+      "name": "p04",
+      "sha256": "77372b592ae61f9528adc6906a788fa991e39d76b603bfca5aa6b59e1813dd3e",
+      "bytes": 15422
+    },
+    {
+      "name": "p05",
+      "sha256": "1fde39444ad57b0fab6c8eeff0eb62b5efc3d9342a974e31da739e4788054f4c",
+      "bytes": 15324
+    },
+    {
+      "name": "p06",
+      "sha256": "896e1b3c00f595f292768af829aca5a8145f084ed28a5c97d42bfc7a059d8617",
+      "bytes": 16188
+    },
+    {
+      "name": "p07",
+      "sha256": "fa47fb8a422a43866eec3db51565f5b8cb190ffcef643321b56368748170c9ca",
+      "bytes": 15506
+    },
+    {
+      "name": "p08",
+      "sha256": "db0de44d6c47b4d98a1a9bd5355bf4b901bee1659b397390c2a25049d42d63d5",
+      "bytes": 14888
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

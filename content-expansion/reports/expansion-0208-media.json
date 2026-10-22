@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0208",
+  "title": "云枕等一声呼噜噜",
+  "version": 1,
+  "bodyCharacters": 479,
+  "pages": 8,
+  "duration": 157.858,
+  "bodySha256": "471b660f0af572b50f82222bb5e8af4fbc324fc1a674f06526cb855289ad633f",
+  "audioSha256": "d27cee134771878c711a8d65213bb79ec8baa3f895f7f2f7c6f2d587eccb266c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5e4c6604e9c1e30e2e24f22bef286c5d519aeab270f8c92835ed640d9d9082c2",
+      "bytes": 19846
+    },
+    {
+      "name": "p01",
+      "sha256": "ee38bb93e7dbfab3c22856bffad7782bdb313b58c5bba15aaaf6dd4c53ba46a0",
+      "bytes": 12208
+    },
+    {
+      "name": "p02",
+      "sha256": "ef8d74bad544de004e50b050cb22efac987e2ff3afd223f3f15cffa6eda88e53",
+      "bytes": 15350
+    },
+    {
+      "name": "p03",
+      "sha256": "c977ba5149917d8b51f848f8ddb2d3232dc21356d27f78b4664a8a977a7cca1e",
+      "bytes": 11282
+    },
+    {
+      "name": "p04",
+      "sha256": "83a0bd7835b69a72e7a5726ef402087c03c62d3623806700f825d793f9792a52",
+      "bytes": 12240
+    },
+    {
+      "name": "p05",
+      "sha256": "080e3b133d9f9704593a2bbbb044a14264567331351f4943563a748ab016f55c",
+      "bytes": 11280
+    },
+    {
+      "name": "p06",
+      "sha256": "71b329abdab388b6fba11a647b024c22afde3fbf29003ef49aa1587069503651",
+      "bytes": 15018
+    },
+    {
+      "name": "p07",
+      "sha256": "77854e1d8dff3ce491444fc0f7feab3e65237b493a521e143a738590f769a9a8",
+      "bytes": 15356
+    },
+    {
+      "name": "p08",
+      "sha256": "52eda3dcf45e2d956cf7bb0049a02c7bc37013188c851f0d96d65db3db9915c6",
+      "bytes": 15662
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

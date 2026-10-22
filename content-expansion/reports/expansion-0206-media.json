@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0206",
+  "title": "木冬睡在盒子背上",
+  "version": 1,
+  "bodyCharacters": 531,
+  "pages": 8,
+  "duration": 175.258,
+  "bodySha256": "2153b87cc0cee72e5e4d52dc133758cd7e9d6da6489fa918eff5f05c45ff9cdd",
+  "audioSha256": "a2b522480dafae933d284db68b488af55cf4ea9b6ac1120a33e658fc944ef089",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d1532cf0a6457327dc3d1414df6db37a649ef6d135227f4ec1e6960fddc0d863",
+      "bytes": 13088
+    },
+    {
+      "name": "p01",
+      "sha256": "5b46e0f74455bdaae6bbc66d95c8e6f42238aecea109604ee7d04b8a60e1e143",
+      "bytes": 10510
+    },
+    {
+      "name": "p02",
+      "sha256": "5ed1327e6ab2780dcf5a86076e163575575f360fb31201a3aca5f27650ccda5f",
+      "bytes": 11306
+    },
+    {
+      "name": "p03",
+      "sha256": "451accf1dc8d065ca0e373d4ddf44db5842667be41d2ba567939fdfc7ebd5f5e",
+      "bytes": 10606
+    },
+    {
+      "name": "p04",
+      "sha256": "83553ddd9d2e713e08298ead5e044f81d7ee26bff3db00f2a528e738d10ea3dc",
+      "bytes": 10838
+    },
+    {
+      "name": "p05",
+      "sha256": "a66116cce94b12864bb3c89a42b02692ab7b1a57b90c0c1cd2bd3758e10e5cd2",
+      "bytes": 11222
+    },
+    {
+      "name": "p06",
+      "sha256": "10950eaa774db3d1cecf92eb33f3165644d909635be018e376cf46573eaa3aef",
+      "bytes": 10678
+    },
+    {
+      "name": "p07",
+      "sha256": "7bc681d6ac2f057459dd570438be81c4f3bc6280d63d9a2c51d7bed24b2efe45",
+      "bytes": 10336
+    },
+    {
+      "name": "p08",
+      "sha256": "0b816087cde2b2c27181dc1aad5b6d5f57113d2836f35fcaa2d1fa8bb82b8740",
+      "bytes": 9040
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

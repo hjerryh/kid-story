@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0208",
+  "version": 1,
+  "status": "media-ready",
+  "title": "云枕等一声呼噜噜",
+  "subtitle": "把软软的想念送回去",
+  "description": "栗绵在云朵车站看见一只软软的云枕，竟说它是自己丢的。可带回家的云枕一直睡不安稳。栗绵要怎样把它送回真正熟悉的怀抱？",
+  "ageBand": "3-5",
+  "theme": "诚实与归还",
+  "color": "#A9CEE0",
+  "character": "小狐狸栗绵：橘红毛，白嘴巴，穿湖蓝色背带裙，背米色小书包。云枕：巴掌大的白色云朵枕头，有圆眼睛和小嘴。灰鼠婆婆：银灰毛，穿紫色外套，戴圆眼镜。站长：棕毛熊，穿绿色制服。",
+  "cover": "/library/stories/expansion-0208/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 157.858,
+  "detailUrl": "/library/stories/expansion-0208/v1/story.json",
+  "audio": "/library/stories/expansion-0208/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "云朵车站的失物篮里，躺着一只白云枕。小狐狸栗绵摸了摸，软得像刚打好的奶泡。她一直想有个小枕头，可以靠着读图画书。这一只，放在她的小椅子上正合适。",
+      "image": "/library/stories/expansion-0208/v1/p01.webp",
+      "start": 0,
+      "end": 19.454
+    },
+    {
+      "id": "p02",
+      "text": "站长问：“这是你丢的吗？”栗绵的尾巴轻轻一抖。“是我的。”她小声说。站长把云枕交给她。她抱得紧紧的，走过长长的站台，却一直低头看自己的鞋尖。",
+      "image": "/library/stories/expansion-0208/v1/p02.webp",
+      "start": 19.454,
+      "end": 39.1
+    },
+    {
+      "id": "p03",
+      "text": "回到家，栗绵把云枕放上小椅子，翻开书。云枕却扭呀扭，睁开圆眼睛：“那声呼噜噜呢？”“我会哼歌。”栗绵哼起小曲。云枕听了一会儿，还是轻轻叹了口气。",
+      "image": "/library/stories/expansion-0208/v1/p03.webp",
+      "start": 39.1,
+      "end": 58.506
+    },
+    {
+      "id": "p04",
+      "text": "栗绵又拿来黄手帕，给它盖好。“这样暖和吗？”云枕说：“暖和。可我想听灰鼠婆婆睡觉的呼噜。她坐车时，总把我垫在脖子后面。”栗绵的歌声停在了嘴边。",
+      "image": "/library/stories/expansion-0208/v1/p04.webp",
+      "start": 58.506,
+      "end": 78.368
+    },
+    {
+      "id": "p05",
+      "text": "“你能带我找她吗？”云枕问。栗绵捏了捏裙角。她真舍不得这团软软的白。过了一会儿，她合上书：“能。我不是你的主人，刚才说错了。”她抱起云枕，走向车站。",
+      "image": "/library/stories/expansion-0208/v1/p05.webp",
+      "start": 78.368,
+      "end": 98.974
+    },
+    {
+      "id": "p06",
+      "text": "栗绵找到站长：“云枕不是我丢的。我想要它，才说是我的。对不起。”她把云枕放回篮子，又坐在旁边。“我陪你等。”一辆云车来了，又走了，她没有偷偷溜开。",
+      "image": "/library/stories/expansion-0208/v1/p06.webp",
+      "start": 98.974,
+      "end": 119.076
+    },
+    {
+      "id": "p07",
+      "text": "终于，灰鼠婆婆扶着眼镜走进来：“我的小云枕……”云枕一下鼓起了脸。栗绵站起来，把事情告诉她。婆婆接过云枕，贴了贴脸：“找到了，今晚我的脖子能舒舒服服了。”",
+      "image": "/library/stories/expansion-0208/v1/p07.webp",
+      "start": 119.076,
+      "end": 138.554
+    },
+    {
+      "id": "p08",
+      "text": "婆婆等下一班车，邀请栗绵坐在身旁读书。读到小鱼钻进水草，身边响起了呼噜噜。云枕眯着眼睛笑了。栗绵把翻书的声音放得很轻，让小鱼也轻轻地游过去。",
+      "image": "/library/stories/expansion-0208/v1/p08.webp",
+      "start": 138.554,
+      "end": 157.858
+    }
+  ],
+  "buildHash": "3076b4450d8f5f9ef8abf1e54563a8ba0c3462696bebf2186113aba37a7e97e1"
+}

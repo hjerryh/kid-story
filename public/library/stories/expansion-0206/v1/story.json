@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0206",
+  "version": 1,
+  "status": "media-ready",
+  "title": "木冬睡在盒子背上",
+  "subtitle": "两张不一样的小床",
+  "description": "风雪山屋里，米米为第一次留宿的木头朋友准备了软床，可朋友总是坐起来。一张舒服的小床，究竟应该是什么样的呢？",
+  "ageBand": "3-5",
+  "theme": "不同的喜好",
+  "color": "#9BB8C6",
+  "character": "米米：浅灰毛小老鼠，圆耳朵，穿莓红色背带裙。木冬：巴掌大的木头小人，浅棕木纹皮肤，圆圆鼻子，戴绿色尖帽，穿蓝色短外套。",
+  "cover": "/library/stories/expansion-0206/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 175.258,
+  "detailUrl": "/library/stories/expansion-0206/v1/story.json",
+  "audio": "/library/stories/expansion-0206/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雪花扑着山屋的窗，像许多白蝴蝶。小老鼠米米请木头小人木冬留下过夜。这是木冬头一回住在她家。米米高兴地说：“我要给你铺一张最舒服的小床，睡醒了，我们再一起看雪！”",
+      "image": "/library/stories/expansion-0206/v1/p01.webp",
+      "start": 0,
+      "end": 21.302
+    },
+    {
+      "id": "p02",
+      "text": "米米找来一只矮木盒，铺进厚厚的棉花，再盖上小花被。她伸出爪子按一按，棉花慢慢鼓回来。“像云朵一样！”她又添了一小团。木冬扶好绿帽子，满怀期待地爬进床里。",
+      "image": "/library/stories/expansion-0206/v1/p02.webp",
+      "start": 21.302,
+      "end": 42.148
+    },
+    {
+      "id": "p03",
+      "text": "可是，木冬躺下去，帽尖翘起来，脚尖也翘起来，肚子陷在中间。他翻了个身，又慢慢坐起。“这张床抱得我太紧啦。”米米眨眨眼。她最喜欢被软软地抱住，朋友怎么不喜欢呢？",
+      "image": "/library/stories/expansion-0206/v1/p03.webp",
+      "start": 42.148,
+      "end": 63.738
+    },
+    {
+      "id": "p04",
+      "text": "米米拿出一些棉花，把剩下的拍得平平的。“这回松一点了，你试试。”木冬躺下，肩膀下面却鼓着一个小包。他轻轻挪来挪去，还是坐了起来。米米的耳朵垂了垂：“还不舒服呀。”",
+      "image": "/library/stories/expansion-0206/v1/p04.webp",
+      "start": 63.738,
+      "end": 84.848
+    },
+    {
+      "id": "p05",
+      "text": "米米正抱着棉花想办法，忽然听见木冬轻轻叹了一声。原来，他躺到了旁边的木地板上，两条腿伸得直直的。“啊，这里真好。”他说。米米摸摸地板，硬硬的，连一个小窝也没有。",
+      "image": "/library/stories/expansion-0206/v1/p05.webp",
+      "start": 84.848,
+      "end": 106.846
+    },
+    {
+      "id": "p06",
+      "text": "“你喜欢硬硬的床吗？”米米问。“嗯，平平的，躺上去不会往下陷。”木冬拍拍地板。米米看看木盒，忽然有了主意。她把棉花全拿出来，问：“把盒子翻过来，睡在盒底上，怎么样？”",
+      "image": "/library/stories/expansion-0206/v1/p06.webp",
+      "start": 106.846,
+      "end": 129.348
+    },
+    {
+      "id": "p07",
+      "text": "木冬点点头。米米把矮木盒翻过来，稳稳放好。木冬爬上去，伸伸胳膊，伸伸腿，帽尖终于不再翘起来。他把帽子摘在床边，拉好小花被。“就是这样的床！”他说，“谢谢你，米米。”",
+      "image": "/library/stories/expansion-0206/v1/p07.webp",
+      "start": 129.348,
+      "end": 152.09
+    },
+    {
+      "id": "p08",
+      "text": "米米把取出的棉花添进自己的窝，钻进去，只露出圆耳朵。木冬躺在平平的小床上，脚尖轻轻碰了碰被角。窗外的雪还在飘。“晚安，软窝窝。”“晚安，硬床床。”两张床挨得近近的。",
+      "image": "/library/stories/expansion-0206/v1/p08.webp",
+      "start": 152.09,
+      "end": 175.258
+    }
+  ],
+  "buildHash": "59153cda12618a6f9731f0cc872353e8560941f66188f5faee1bbc7a4250027b"
+}

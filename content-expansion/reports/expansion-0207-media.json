@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0207",
+  "title": "雪帽子从长椅上来",
+  "version": 1,
+  "bodyCharacters": 499,
+  "pages": 8,
+  "duration": 160.666,
+  "bodySha256": "b13b9a3e3c59fead94a5c87a0cc24146d4ad564974d4a06d5521719c9ec00e2e",
+  "audioSha256": "fe33eeef9b1acccc7cf901922a3aa4c13901893d2b5166dd0eb1bda3f84ff296",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0716e96d24a24febc88be7a4a571b1c48c3d5a9e62385e70108a5907c01286eb",
+      "bytes": 13292
+    },
+    {
+      "name": "p01",
+      "sha256": "2403c7d03a325c3ca4bb41ea4e57f576500f07dc578acbd558962ac7bcc26575",
+      "bytes": 13426
+    },
+    {
+      "name": "p02",
+      "sha256": "0b24e09445d45446b872de8ecc6b4d563d937849f44c9ca3ff42b904414b905f",
+      "bytes": 12840
+    },
+    {
+      "name": "p03",
+      "sha256": "7936f30f83e13326c4d43c2e5eab7a54240851affec968c28485d6bda3982c36",
+      "bytes": 14034
+    },
+    {
+      "name": "p04",
+      "sha256": "15d096f7ce550e3c3e60730f24d5d90f8b323de71e133512982ae02125aca581",
+      "bytes": 13354
+    },
+    {
+      "name": "p05",
+      "sha256": "5acbce7ea8d61d9c94fc793a2afadabcfa927e901e1608f6a33ac4c95d194b97",
+      "bytes": 13334
+    },
+    {
+      "name": "p06",
+      "sha256": "6e12b11a6d7705c2c435312c66c508de7af300d2ebc7c155ae63114c941d215c",
+      "bytes": 14036
+    },
+    {
+      "name": "p07",
+      "sha256": "1cfc45d67bd451a98c13bb8c0b23982b1b70367d4e6e27ac7414277726334e80",
+      "bytes": 14020
+    },
+    {
+      "name": "p08",
+      "sha256": "814c0ae03566d32626656497a947289485d7bfdc681bebc05b3fcd8bc65d8b22",
+      "bytes": 12762
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0203",
+  "version": 1,
+  "status": "media-ready",
+  "title": "绒绒拐了一个新弯",
+  "subtitle": "圆朋友变长了",
+  "description": "米栗回到旧木阁楼，发现一起玩滚坡游戏的毛线球绒绒变成了长围巾。圆朋友变得长长的，他们还能怎么玩呢？",
+  "ageBand": "3-5",
+  "theme": "变化与陪伴",
+  "color": "#BC6654",
+  "character": "小田鼠米栗：浅棕色绒毛，圆耳朵，穿淡绿色连衣裙，戴白色小发夹。绒绒：红色羊毛织成的长围巾，两端有短流苏，一端有两只黑豆般的小眼睛；原先是一团红毛线。",
+  "cover": "/library/stories/expansion-0203/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 161.218,
+  "detailUrl": "/library/stories/expansion-0203/v1/story.json",
+  "audio": "/library/stories/expansion-0203/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "米栗抱着两只靠垫，跑进旧木阁楼。她要和红毛线球绒绒玩滚软坡，像从前那样。“绒绒，你在哪儿？”藤篮里探出一条长长的红围巾，朝她摆摆流苏：“我在这里呀！”",
+      "image": "/library/stories/expansion-0203/v1/p01.webp",
+      "start": 0,
+      "end": 19.646
+    },
+    {
+      "id": "p02",
+      "text": "米栗摸摸绒绒，还是软软的，可圆肚子不见了。“天凉啦，我请奶奶把我织成围巾。”绒绒伸伸长身子，“这样就能抱抱你的脖子。”米栗却把靠垫放下，轻轻问：“还能滚吗？”",
+      "image": "/library/stories/expansion-0203/v1/p02.webp",
+      "start": 19.646,
+      "end": 39.364
+    },
+    {
+      "id": "p03",
+      "text": "“试试看！”绒绒说。米栗从没有眼睛的那头慢慢卷，把他卷成一个红圆卷，再放到靠垫搭的小坡上。她轻轻松手，圆卷滚了半圈，忽然摊开，软软地铺满了整个小坡。",
+      "image": "/library/stories/expansion-0203/v1/p03.webp",
+      "start": 39.364,
+      "end": 59.97
+    },
+    {
+      "id": "p04",
+      "text": "米栗又卷一次，这回卷得紧些。可是，绒绒刚往下滚，身子又松开了，像一条红舌头溜下坡。“我还是想和圆圆的你玩。”米栗垂下耳朵。绒绒没有说话，只用流苏碰了碰她。",
+      "image": "/library/stories/expansion-0203/v1/p04.webp",
+      "start": 59.97,
+      "end": 80.96
+    },
+    {
+      "id": "p05",
+      "text": "米栗不卷了。她把绒绒轻轻铺开，让他舒舒服服伸直。绒绒扭扭身子，一头弯过来，一头弯过去。米栗歪着脑袋看了好一会儿：“你现在，好像一条红红的小河呀。”",
+      "image": "/library/stories/expansion-0203/v1/p05.webp",
+      "start": 80.96,
+      "end": 99.958
+    },
+    {
+      "id": "p06",
+      "text": "她拿来一块长方积木，放在红色的小河上。“小船要出发啦，你想玩吗？”绒绒眨眨眼，弯出一个大河湾。米栗推着积木，绕呀绕，绕过河湾，还学着小船轻轻呜了一声。",
+      "image": "/library/stories/expansion-0203/v1/p06.webp",
+      "start": 99.958,
+      "end": 119.964
+    },
+    {
+      "id": "p07",
+      "text": "米栗把靠垫挪到两旁，变成软山。绒绒就在山脚拐弯，小船跟着转弯。“这里靠岸！”绒绒张开流苏。米栗把船停好，笑得耳朵直抖。他们又从另一头，开了一趟回来。",
+      "image": "/library/stories/expansion-0203/v1/p07.webp",
+      "start": 119.964,
+      "end": 140.618
+    },
+    {
+      "id": "p08",
+      "text": "玩累了，米栗把绒绒披在肩上，小船放在膝头。红流苏轻轻挠着她的下巴。“明天，小河还会拐弯吗？”她问。“会呀，也许拐个新的弯。”绒绒说着，软软地抱住了她。",
+      "image": "/library/stories/expansion-0203/v1/p08.webp",
+      "start": 140.618,
+      "end": 161.218
+    }
+  ],
+  "buildHash": "cd472c7eb3211af80bcbb503a9209849c4fd444586be6d1afd786103b63284bf"
+}

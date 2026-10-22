@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0202",
+  "version": 1,
+  "status": "media-ready",
+  "title": "绒洞的鼻子痒痒的",
+  "subtitle": "石鼻子想说的话",
+  "description": "绒洞第一次请朋友来喝茶，收到了一盆漂亮的小花。可花粉让他的石鼻子痒个不停，连茶杯都跟着打晃。他喜欢这份礼物，也需要让鼻子舒服一点。",
+  "ageBand": "3-5",
+  "theme": "说出需要",
+  "color": "#78956B",
+  "character": "绒洞：一座会说话的小山洞，洞口上方有圆圆的石鼻子，洞顶长着柔软绿苔，洞口两侧各有一只短石手。刺猬穗穗：棕色短刺、米白肚皮，穿蓝色小马甲，戴草编圆帽。",
+  "cover": "/library/stories/expansion-0202/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 167.17,
+  "detailUrl": "/library/stories/expansion-0202/v1/story.json",
+  "audio": "/library/stories/expansion-0202/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "苔藓山洞绒洞第一次请朋友喝茶。他伸出两只短石手，把小桌摆好，又把两只杯子挨在一起。刺猬穗穗来了，怀里抱着一盆黄花。“送给你！”绒洞高兴得鼻尖都翘起来了。",
+      "image": "/library/stories/expansion-0202/v1/p01.webp",
+      "start": 0,
+      "end": 20.966
+    },
+    {
+      "id": "p02",
+      "text": "穗穗把花放在洞口，正好挨着绒洞的石鼻子。一阵风吹来，细细的花粉飘过去。绒洞鼻子里痒痒的，像有小刷子在扫。他刚想说谢谢，就打了一个大喷嚏，杯子叮当跳了一下。",
+      "image": "/library/stories/expansion-0202/v1/p02.webp",
+      "start": 20.966,
+      "end": 42.1
+    },
+    {
+      "id": "p03",
+      "text": "“呀，杯子会跳舞！”穗穗笑了。绒洞却有一点发愁。他喜欢黄花，也喜欢穗穗，可鼻子实在太痒。他用石手捏住鼻尖，想把喷嚏关在里面，连一句“请喝茶”也说得闷闷的。",
+      "image": "/library/stories/expansion-0202/v1/p03.webp",
+      "start": 42.1,
+      "end": 63.114
+    },
+    {
+      "id": "p04",
+      "text": "手一松开，喷嚏又跑出来了。小桌晃了晃，一点茶水洒在桌上。绒洞赶紧护住杯子。穗穗收起笑容，看看自己的刺，又看看洞壁：“是不是我的刺扎疼你了？那我还是回去吧。”",
+      "image": "/library/stories/expansion-0202/v1/p04.webp",
+      "start": 63.114,
+      "end": 84.176
+    },
+    {
+      "id": "p05",
+      "text": "穗穗抱起帽子，绒洞急忙叫住她：“我想和你喝茶！你的刺没有扎我，是花粉把我的鼻子弄痒了。”说完，他轻轻摸摸鼻尖，又说：“请你把花搬到外面的石台上，好吗？”",
+      "image": "/library/stories/expansion-0202/v1/p05.webp",
+      "start": 84.176,
+      "end": 103.246
+    },
+    {
+      "id": "p06",
+      "text": "“好呀，我还以为你不舒服是因为我呢。”穗穗捧起花盆，搬到小路旁的矮石台上。那里离鼻子远远的，从洞里仍能看见黄花。绒洞慢慢吸了一口气，鼻子终于不痒了。",
+      "image": "/library/stories/expansion-0202/v1/p06.webp",
+      "start": 103.246,
+      "end": 122.844
+    },
+    {
+      "id": "p07",
+      "text": "绒洞拿干布擦好桌子，重新摆稳四只桌脚，再把茶倒进杯里。“这回请喝茶。”他说得清清楚楚。穗穗坐回软软的苔藓边，捧起杯子。杯里的小水圈慢慢停了，两人都笑了。",
+      "image": "/library/stories/expansion-0202/v1/p07.webp",
+      "start": 122.844,
+      "end": 144.41
+    },
+    {
+      "id": "p08",
+      "text": "洞外，黄花在石台上轻轻摇。洞里，茶香绕着圆圆的石鼻子。穗穗问：“花放在那里，你还喜欢吗？”“喜欢呀。”绒洞说，“我看花，你陪我。”他的鼻尖轻轻动了动，这回只是闻闻茶香。",
+      "image": "/library/stories/expansion-0202/v1/p08.webp",
+      "start": 144.41,
+      "end": 167.17
+    }
+  ],
+  "buildHash": "820e9286f2f53b4f544a220986f905f58ce30a898556bd9c4b84ff4ad4ee5b24"
+}

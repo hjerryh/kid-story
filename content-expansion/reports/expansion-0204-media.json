@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0204",
+  "title": "月亮睡在方巾那一边",
+  "version": 1,
+  "bodyCharacters": 509,
+  "pages": 8,
+  "duration": 167.05,
+  "bodySha256": "3c30a9c13b7075d96ccaaf66c2abb35d1089150039341461f483726b2bed2811",
+  "audioSha256": "b3b5a42c0efbfb5679e0f9a2c6823cc6cafc8427c28a31f2bc243f19c074f56e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2a30652c3e62b5843a36c30a72265540bfb65750b87d9fb65c8d1688f416fccd",
+      "bytes": 15024
+    },
+    {
+      "name": "p01",
+      "sha256": "f34b5b1e5f639cffd6cbb652fa9398ccdfe2212c78eef2fd268e089bd970711a",
+      "bytes": 12828
+    },
+    {
+      "name": "p02",
+      "sha256": "212d7c46a05801c46009ef87d5d29be7787569d03d0a6a27a8d8f38ff389f007",
+      "bytes": 10540
+    },
+    {
+      "name": "p03",
+      "sha256": "24f8cc2eec636f3b632d4b41118a4152e5c3e868a63a09a097c367494f6890b4",
+      "bytes": 12454
+    },
+    {
+      "name": "p04",
+      "sha256": "04f6a06ed9db3409a1973c008c1d7d333cb09916472bd156ccb44368080ea321",
+      "bytes": 10548
+    },
+    {
+      "name": "p05",
+      "sha256": "ca62306b13f4520c37f35fd2b82657fd5039f3c59ee11ac0794701a80f626dc4",
+      "bytes": 11034
+    },
+    {
+      "name": "p06",
+      "sha256": "be18d08ac718ee2e46f1c048514af708a0c16912a511eec828aaf2b90f7a5ba7",
+      "bytes": 11076
+    },
+    {
+      "name": "p07",
+      "sha256": "54bc473ca02b11cf252a35e0b3bf2ce8de6d815adc96d6103e1dc5fd201922b2",
+      "bytes": 13442
+    },
+    {
+      "name": "p08",
+      "sha256": "9782125896796b447a4ba62e9982889a8dae4cd429d132cdaf281b511e843859",
+      "bytes": 12034
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

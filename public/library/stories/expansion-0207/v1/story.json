@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0207",
+  "version": 1,
+  "status": "media-ready",
+  "title": "雪帽子从长椅上来",
+  "subtitle": "一顶帽子和一床冬被",
+  "description": "雪地花园里的石蘑菇想戴一顶雪帽子。栗绒找到了一片干净的雪，却发现雪下面还盖着别人的冬被。他得重新找找，哪里有可以搬走的雪。",
+  "ageBand": "3-5",
+  "theme": "冬日花园",
+  "color": "#A9C8D5",
+  "character": "小鼹鼠栗绒：灰褐色绒毛，圆鼻头，穿蓝色棉袄、戴红色连指手套。石蘑菇：浅灰色石身，圆圆的宽帽沿，帽沿下有一双小眼睛，始终立在花园入口。",
+  "cover": "/library/stories/expansion-0207/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 160.666,
+  "detailUrl": "/library/stories/expansion-0207/v1/story.json",
+  "audio": "/library/stories/expansion-0207/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雪停了，小鼹鼠栗绒走进花园。门檐下的石蘑菇眨眨眼睛：“围墙戴了白帽子，我也想戴一顶。”他站得直直的，一步也不能走。栗绒拍拍红手套：“好呀，我给你做一顶圆的！”",
+      "image": "/library/stories/expansion-0207/v1/p01.webp",
+      "start": 0,
+      "end": 21.014
+    },
+    {
+      "id": "p02",
+      "text": "栗绒捧起小路上的雪，搓了一个小雪球。呀，里面混着泥点，像一只芝麻包。他把雪球放下，四处瞧瞧。花坛上的雪又白又松，一点脚印也没有，正好可以做帽子。",
+      "image": "/library/stories/expansion-0207/v1/p02.webp",
+      "start": 21.014,
+      "end": 41.188
+    },
+    {
+      "id": "p03",
+      "text": "他用两只手轻轻拢起一块雪，刚挪到旁边，底下就传来细细的声音：“咦，我的冬被怎么掀开啦？”栗绒低下头。枯黄的草叶下面，一根弯弯的草根正在打哈欠。",
+      "image": "/library/stories/expansion-0207/v1/p03.webp",
+      "start": 41.188,
+      "end": 60.114
+    },
+    {
+      "id": "p04",
+      "text": "“雪这么凉，也能当被子吗？”栗绒问。“能呀，厚厚的雪帮我挡住冷风。”草根缩了缩。栗绒赶紧把旁边的雪轻轻盖回来，没有使劲压。“接着睡吧，帽子我再找找。”",
+      "image": "/library/stories/expansion-0207/v1/p04.webp",
+      "start": 60.114,
+      "end": 79.856
+    },
+    {
+      "id": "p05",
+      "text": "栗绒绕着花坛走了一圈。小灌木下面有雪，草丛上面也有雪。他没有伸手。转过弯，一张空长椅出现在眼前。椅面铺着厚厚一层白雪，下面只有硬硬的木板！",
+      "image": "/library/stories/expansion-0207/v1/p05.webp",
+      "start": 79.856,
+      "end": 99.238
+    },
+    {
+      "id": "p06",
+      "text": "“这里的雪可以搬家。”栗绒捧起一团，送到石蘑菇脚边。他来来回回走了好几趟，鼻尖都热了。最后一趟，他还带回一点松雪，准备撒在帽顶上，像撒白白的糖粉。",
+      "image": "/library/stories/expansion-0207/v1/p06.webp",
+      "start": 99.238,
+      "end": 118.62
+    },
+    {
+      "id": "p07",
+      "text": "栗绒把雪一团团放上去，拢出圆圆的帽顶，再撒上松雪。“看得见吗？”他问。“只看见你的鞋尖！”石蘑菇说。栗绒笑着抹掉眼前那一点雪。这回，两只小眼睛都露出来了。",
+      "image": "/library/stories/expansion-0207/v1/p07.webp",
+      "start": 118.62,
+      "end": 140.282
+    },
+    {
+      "id": "p08",
+      "text": "长椅上空出了一小块地方，刚好够栗绒坐下。他晃晃脚，看见石蘑菇戴着雪帽，神气极了。花坛还是白白软软的，草根已经睡熟。风轻轻经过，谁也没有再掀开那床被子。",
+      "image": "/library/stories/expansion-0207/v1/p08.webp",
+      "start": 140.282,
+      "end": 160.666
+    }
+  ],
+  "buildHash": "1658480ba0b6dda7d4b019221f231274d5ceb69c7fe2beb0c1ecd6a578967eb4"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0202",
+  "title": "绒洞的鼻子痒痒的",
+  "version": 1,
+  "bodyCharacters": 519,
+  "pages": 8,
+  "duration": 167.17,
+  "bodySha256": "ae1d1166e9e976940555befa42ba4bb5cf290d3f645e3b3b85431664e391b9e7",
+  "audioSha256": "1c55f31ad972a0c66c5fe6d28893fbac195f12a9f5e117ccac8ac3cdc83346e2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "13c3e27189707dc0d8b142c66e40aa9dba5d75bbc921746513ee5594df69b94b",
+      "bytes": 17888
+    },
+    {
+      "name": "p01",
+      "sha256": "1d908af46eeebbf483fa9cc7da115258025f08fa677489f99fe9266ffa676652",
+      "bytes": 16662
+    },
+    {
+      "name": "p02",
+      "sha256": "6d0e7515bbc5228d8175a3a7bb210835d1483a0add245c28d8ad358dc04ce032",
+      "bytes": 16640
+    },
+    {
+      "name": "p03",
+      "sha256": "0c5715c4638325cd5581b208f19fd8559a44c545d01d186cbba8e8fcf7d60a3d",
+      "bytes": 17116
+    },
+    {
+      "name": "p04",
+      "sha256": "373975b65026286dbfe45371175aea423bcc0a699bfb68c82173fd586fe9d8b9",
+      "bytes": 16798
+    },
+    {
+      "name": "p05",
+      "sha256": "a7dcc38562dc618a67b4ee13fabcc9d2b1ccf2ee63ac6cda00daf24eb26b1e1f",
+      "bytes": 16364
+    },
+    {
+      "name": "p06",
+      "sha256": "a84f5a4878beb236e439263648e3abc3560fa13aa9fbee4588f15c4c40c1f51a",
+      "bytes": 16902
+    },
+    {
+      "name": "p07",
+      "sha256": "0531b61fd04e349533ad55c6bd7102d8b4371fa118d85902eb653bb03b913be1",
+      "bytes": 17442
+    },
+    {
+      "name": "p08",
+      "sha256": "3e88292ff1fbecac4947924806b7554d74c2776578c062a4c07cda6e29240c5d",
+      "bytes": 17028
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
