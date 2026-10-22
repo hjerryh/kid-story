@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0365",
+  "version": 1,
+  "status": "media-ready",
+  "title": "折折穿上了纸鞋底",
+  "subtitle": "四个小折角的办法",
+  "description": "小纸象折折想站在窗台上看豆花，可一阵微风就让他东倒西歪。把腿挺直也没用，四张贴着桌面的小纸片，却给了他一个新办法。",
+  "ageBand": "3-5",
+  "theme": "尝试与修正",
+  "color": "#91C7CF",
+  "character": "小纸象折折：浅蓝色厚纸身体，圆耳朵，短鼻子，四条平直的纸腿，背上画着一颗白星星。小田鼠麦粒：棕色绒毛，圆耳朵，穿绿背心。折折的脚在故事后段折成四个小鞋底。",
+  "cover": "/library/stories/expansion-0365/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 157.354,
+  "detailUrl": "/library/stories/expansion-0365/v1/story.json",
+  "audio": "/library/stories/expansion-0365/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "橡果学校的窗台上，豆苗开了一朵白花。小纸象折折伸长鼻子，也看不清花心。他请小田鼠麦粒把自己抱上窗台，想好好看看，那朵花是不是藏着一只小蝴蝶。",
+      "image": "/library/stories/expansion-0365/v1/p01.webp",
+      "start": 0,
+      "end": 19.478
+    },
+    {
+      "id": "p02",
+      "text": "麦粒刚松开手，窗外就吹来一阵微风。折折晃了晃，往一旁倒去。麦粒赶紧伸出手掌，轻轻接住他。折折没有疼，只是耳朵遮住眼睛，白花变成了一片蓝蓝的纸。",
+      "image": "/library/stories/expansion-0365/v1/p02.webp",
+      "start": 19.478,
+      "end": 39.412
+    },
+    {
+      "id": "p03",
+      "text": "“这回我要站得直直的。”折折把四条纸腿绷紧，鼻子也不敢动。风又来了，他先朝左晃，再朝右晃，最后坐进麦粒手里。“咦，我已经很直啦，怎么还摇呢？”",
+      "image": "/library/stories/expansion-0365/v1/p03.webp",
+      "start": 39.412,
+      "end": 58.626
+    },
+    {
+      "id": "p04",
+      "text": "折折又靠着花盆站。花盆硬硬的，果然扶住了他。可是豆叶挡在头顶，花朵藏到另一边去了。他往旁边挪一点，腿又摇起来，只好请麦粒把他抱回桌上歇歇。",
+      "image": "/library/stories/expansion-0365/v1/p04.webp",
+      "start": 58.626,
+      "end": 77.768
+    },
+    {
+      "id": "p05",
+      "text": "桌上有只空纸盒，底下伸出四片小纸边。风吹过来，纸盒轻轻颤，却没有倒。折折低头看看：小纸边都平平贴着桌子。他再看自己的脚，只有薄薄的纸边碰着桌面。",
+      "image": "/library/stories/expansion-0365/v1/p05.webp",
+      "start": 77.768,
+      "end": 98.302
+    },
+    {
+      "id": "p06",
+      "text": "“我也想要平平的脚底。”折折请麦粒把一条腿的末端向外折一点。小脚踩下去，稳了一些。他高兴地抬起鼻子：“另外三只也试试！”麦粒慢慢折，折出四只小鞋底。",
+      "image": "/library/stories/expansion-0365/v1/p06.webp",
+      "start": 98.302,
+      "end": 118.308
+    },
+    {
+      "id": "p07",
+      "text": "折折先在桌上站一站，又转了一个小圈。四只鞋底都贴住桌面，耳朵晃，身体却稳稳的。麦粒把他抱到花盆前。微风轻轻吹来，这一次，他终于站着看见了白花。",
+      "image": "/library/stories/expansion-0365/v1/p07.webp",
+      "start": 118.308,
+      "end": 137.834
+    },
+    {
+      "id": "p08",
+      "text": "花里没有小蝴蝶，花瓣自己就像小翅膀。折折看了好久，鼻子上落下一小片叶影。麦粒问：“还想看什么？”他轻轻跺跺新鞋底：“先看这朵吧。它刚刚朝我点头呢。”",
+      "image": "/library/stories/expansion-0365/v1/p08.webp",
+      "start": 137.834,
+      "end": 157.354
+    }
+  ],
+  "buildHash": "d30f4f35850c6c9352b4ee6809467a69a6dd29213ac996a25b027ff753fcf7d8"
+}

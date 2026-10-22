@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0370",
+  "version": 1,
+  "status": "media-ready",
+  "title": "阿箱装不下小桌子",
+  "subtitle": "一杯海浪早餐",
+  "description": "蓬蓬要离开海边小镇了，想让小木箱装下整个假期。可是，装进去的东西越来越多，阿箱连盖子也合不上。哪些东西要带走，哪些快乐又能跟着他回家呢？",
+  "ageBand": "3-5",
+  "theme": "假期回忆",
+  "color": "#75B9BA",
+  "character": "小海狸蓬蓬：栗棕色绒毛，圆耳朵，宽扁尾巴，穿浅绿色短背带裤。箱子阿箱：蜂蜜色小木箱，四只短木脚，箱盖上有两道弯眉毛，黄铜搭扣像一颗方牙。",
+  "cover": "/library/stories/expansion-0370/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 166.402,
+  "detailUrl": "/library/stories/expansion-0370/v1/story.json",
+  "audio": "/library/stories/expansion-0370/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "海边的假期结束了，小海狸蓬蓬要回家。小木箱阿箱张开盖子，等他收拾东西。蓬蓬摸摸箱沿，小声说：“我要把喜欢的东西都带走，免得回家以后，忘了这里有多好玩。”",
+      "image": "/library/stories/expansion-0370/v1/p01.webp",
+      "start": 0,
+      "end": 19.67
+    },
+    {
+      "id": "p02",
+      "text": "他放进衣服，又放进自己的蓝杯子。他们用它玩过海浪早餐：倒一点水，摇一摇，咕噜咕噜喝掉。接着，他塞进客房的圆坐垫。那上面，可有他和阿箱一起看雨的下午呢。",
+      "image": "/library/stories/expansion-0370/v1/p02.webp",
+      "start": 19.67,
+      "end": 39.892
+    },
+    {
+      "id": "p03",
+      "text": "借来的木船也想带，院子的小桌子也想带。阿箱的盖子翘得高高的，方牙碰不到下面的搭扣。“我合不上啦。”蓬蓬抱着木船发愁：“少带一样，会不会就少记得一点呀？”",
+      "image": "/library/stories/expansion-0370/v1/p03.webp",
+      "start": 39.892,
+      "end": 58.698
+    },
+    {
+      "id": "p04",
+      "text": "蓬蓬把坐垫卷成胖香肠，又把木船横过来。还是不行。他想了想，把坐垫展开，盖在阿箱头上。阿箱动动眉毛：“可它会掉呀。”蓬蓬坐下来，肚子忽然咕噜噜叫了一声。",
+      "image": "/library/stories/expansion-0370/v1/p04.webp",
+      "start": 58.698,
+      "end": 79.472
+    },
+    {
+      "id": "p05",
+      "text": "他把盖在阿箱头上的坐垫拿下来，取出蓝杯子，倒一点水，轻轻摇了摇。“海浪早餐来啦！”阿箱跟着喊：“请给我一杯泡泡！”蓬蓬笑了。这句话，他们每天都说。他看看四周：院子的小桌子还没搬来呢。",
+      "image": "/library/stories/expansion-0370/v1/p05.webp",
+      "start": 79.472,
+      "end": 104.158
+    },
+    {
+      "id": "p06",
+      "text": "蓬蓬又想起，雨天阿箱躲在坐垫底下，只露出四只脚。他笑得尾巴拍拍地板，随后把坐垫放回窗边。木船也送回借船的小架子。他对小桌子挥挥手：“下次再来吃早餐呀！”",
+      "image": "/library/stories/expansion-0370/v1/p06.webp",
+      "start": 104.158,
+      "end": 124.908
+    },
+    {
+      "id": "p07",
+      "text": "蓝杯子裹在衣服里，稳稳躺进阿箱。咔嗒，方牙终于扣好了。阿箱迈开四只短脚，跟着蓬蓬走向车站。路过面包店，他们闻到暖香。蓬蓬说：“还有这里，我也记得呢。”",
+      "image": "/library/stories/expansion-0370/v1/p07.webp",
+      "start": 124.908,
+      "end": 145.514
+    },
+    {
+      "id": "p08",
+      "text": "第二天，在家里的早餐桌旁，蓬蓬拿出蓝杯子，倒一点水，轻轻摇起来。窗外没有海，杯中却有熟悉的咕噜声。阿箱张开盖子：“我的泡泡呢？”蓬蓬笑着吹了一口气：“送到啦！”",
+      "image": "/library/stories/expansion-0370/v1/p08.webp",
+      "start": 145.514,
+      "end": 166.402
+    }
+  ],
+  "buildHash": "2366e67eaa46c18d120fb7182f4ae885b68e1e135d46ffea24ce88e086b17c19"
+}

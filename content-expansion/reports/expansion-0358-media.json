@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0358",
+  "title": "口袋缝线拆下来那天",
+  "version": 1,
+  "bodyCharacters": 1592,
+  "pages": 16,
+  "duration": 490.874,
+  "bodySha256": "24736d0bd46363f14f0befaa19aa4d6846f4405369cee21adb342bc9a6234d87",
+  "audioSha256": "b4aa543c5152b11cd2ce6a5192ef3695c4ddd77273ebc9c44001d07d35139609",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5e54e859200f3efe99ad2e46d65de9b4d8e46fce8ddf62bf13529cfa558f6419",
+      "bytes": 15600
+    },
+    {
+      "name": "p01",
+      "sha256": "bc63bea2b592e5bc7d362d9b34f5d0aa49d98d38f847719489fa4f07b9058cd1",
+      "bytes": 12828
+    },
+    {
+      "name": "p02",
+      "sha256": "ffc2aca69e930261d55c61d9fd8326a2e26556efe8fabca3cd63ede8a4f30ebd",
+      "bytes": 13848
+    },
+    {
+      "name": "p03",
+      "sha256": "47ab3e0e600d24c6c325de41d2528f232d2727ef27c93aa263e7a300249df7ef",
+      "bytes": 12928
+    },
+    {
+      "name": "p04",
+      "sha256": "87f885ed2b7d8c1f5d5d2ccd00556846563606d1f37596bbc9e5d40307a04719",
+      "bytes": 14002
+    },
+    {
+      "name": "p05",
+      "sha256": "6a0a00319266664f7f60f8f6c540fb8ac5e9f99344af895379e3d998fa3b86e4",
+      "bytes": 13092
+    },
+    {
+      "name": "p06",
+      "sha256": "d1924b699ae551f7052020a29c668dff723131879433991ed0fbd2e941e23153",
+      "bytes": 12052
+    },
+    {
+      "name": "p07",
+      "sha256": "15a2bf4a5d6aad103e016c3a15800f2b1e101483410cebf15f0b58cc49c31bd4",
+      "bytes": 9082
+    },
+    {
+      "name": "p08",
+      "sha256": "0827be6278e8ad4bb01cf504fad978dc72f57c7b8d6dcfa40c12446c2be98840",
+      "bytes": 13446
+    },
+    {
+      "name": "p09",
+      "sha256": "af0a41edc45bedb8c3d696560b68032acca07d99eb006110966c4c17ff38abf8",
+      "bytes": 13306
+    },
+    {
+      "name": "p10",
+      "sha256": "9a5127e80a561edb6848b89eea970e2ff0550f5f850037169f67f5157c51c6bc",
+      "bytes": 12412
+    },
+    {
+      "name": "p11",
+      "sha256": "a9a9e515aa561f481b768b75da44ff749fbc8b24ee524f618dee1bfdcd01b526",
+      "bytes": 12256
+    },
+    {
+      "name": "p12",
+      "sha256": "4e50ce1835ad64e9cecf6a0c3ca53a32ba89399fd10711ab85ada20a326e98d8",
+      "bytes": 13196
+    },
+    {
+      "name": "p13",
+      "sha256": "bcc47062696420456296b44de31259943887a5917f59ccf26f2ab2d9f9ed1e4e",
+      "bytes": 13294
+    },
+    {
+      "name": "p14",
+      "sha256": "8911ad5eac7a2cd18519752e1512221bb0e0724a54d1589a42d8233fa2de25fc",
+      "bytes": 12746
+    },
+    {
+      "name": "p15",
+      "sha256": "08e990c6f34004f9003fb71a34a0c6159afb8863ecf1e8e8f526accbc2c8a85f",
+      "bytes": 12478
+    },
+    {
+      "name": "p16",
+      "sha256": "bfa95107a5e69d60a18c5597a496c43e694d686fe675725e27ee58e1fc929111",
+      "bytes": 10592
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

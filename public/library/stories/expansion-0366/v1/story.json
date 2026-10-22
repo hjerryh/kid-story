@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0366",
+  "version": 1,
+  "status": "media-ready",
+  "title": "花束里藏着小弯钩",
+  "subtitle": "送给枝枝的欢迎礼物",
+  "description": "暖灯旅店的小松鼠榛朵想送新客人一束花，可小树精偏偏喜欢篮底的光树枝。榛朵添上自己最爱的花朵以后，那束礼物却变了样。",
+  "ageBand": "3-5",
+  "theme": "不同的喜欢",
+  "color": "#B58B60",
+  "character": "榛朵：棕毛小松鼠，蓬松大尾巴，穿浅绿色围裙，左耳别一枚圆木夹。枝枝：手掌高的小树精，浅褐色树皮身体，头顶两根细枝，穿苔绿色短斗篷，背小布包。",
+  "cover": "/library/stories/expansion-0366/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 155.674,
+  "detailUrl": "/library/stories/expansion-0366/v1/story.json",
+  "audio": "/library/stories/expansion-0366/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "暖灯旅店来了一个小树精，名字叫枝枝。榛朵接过他的小布包，说：“第一次来，我送你一束花吧！”她把布包放上矮桌，抱出花篮，红的、黄的、紫的，像抱来一小片热闹的春天。",
+      "image": "/library/stories/expansion-0366/v1/p01.webp",
+      "start": 0,
+      "end": 20.438
+    },
+    {
+      "id": "p02",
+      "text": "枝枝没有挑花。他弯下腰，从篮底捡出三根光树枝。“我要这些！”一根弯弯的，一根直直的，还有一根分着小叉。榛朵眨眨眼：“可是，它们一朵花也没有呀。”",
+      "image": "/library/stories/expansion-0366/v1/p02.webp",
+      "start": 20.438,
+      "end": 40.324
+    },
+    {
+      "id": "p03",
+      "text": "“我就喜欢它们。”枝枝说完，从桌上提起布包上楼了。榛朵把树枝扎在一起，左看右看，总觉得少了什么。她想：添一点黄花，像撒上阳光，他一定会更喜欢。",
+      "image": "/library/stories/expansion-0366/v1/p03.webp",
+      "start": 40.324,
+      "end": 59.466
+    },
+    {
+      "id": "p04",
+      "text": "她添了黄花，又添两朵红花，把细绳系得整整齐齐。光树枝藏在花里，只露出几个尖尖。榛朵捧着花束敲门：“礼物来啦！”枝枝接过去，却歪着头找了起来。",
+      "image": "/library/stories/expansion-0366/v1/p04.webp",
+      "start": 59.466,
+      "end": 78.488
+    },
+    {
+      "id": "p05",
+      "text": "“我的小弯钩呢？”枝枝轻轻拨开花瓣。弯树枝露出来了，像一条翘尾巴的小鱼。“原来你在这里。”他笑了。榛朵低头看，第一次发现，那根树枝真的很像鱼。",
+      "image": "/library/stories/expansion-0366/v1/p05.webp",
+      "start": 78.488,
+      "end": 98.134
+    },
+    {
+      "id": "p06",
+      "text": "“我把你喜欢的地方挡住了。”榛朵解开细绳，一朵一朵取下花。“这样摆好吗？”枝枝把弯枝放在中间，让小叉伸向两边。“这边再空一点，小鱼就能游过去。”",
+      "image": "/library/stories/expansion-0366/v1/p06.webp",
+      "start": 98.134,
+      "end": 116.652
+    },
+    {
+      "id": "p07",
+      "text": "榛朵照着枝枝选的位置，重新扎好树枝。枝枝把它插进矮陶瓶，挪到窗边。他坐下来，看了好久。“谢谢，我喜欢这束。”榛朵的尾巴轻轻一摆，心里也暖起来。",
+      "image": "/library/stories/expansion-0366/v1/p07.webp",
+      "start": 116.652,
+      "end": 136.226
+    },
+    {
+      "id": "p08",
+      "text": "拿下来的花，榛朵插进了自己的杯子。夜里，柜台上开着红花黄花，楼上窗边立着三根树枝。榛朵闻闻花香，枝枝看看小鱼。两扇窗里，都有一个满意的小呵欠。",
+      "image": "/library/stories/expansion-0366/v1/p08.webp",
+      "start": 136.226,
+      "end": 155.674
+    }
+  ],
+  "buildHash": "3342203c54b9041724698d4858bd6736b2282ffed5870806dfd9eb6012329fb9"
+}

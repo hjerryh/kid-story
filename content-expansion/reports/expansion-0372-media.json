@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0372",
+  "title": "绸绸跳出两个圈",
+  "version": 1,
+  "bodyCharacters": 460,
+  "pages": 8,
+  "duration": 151.33,
+  "bodySha256": "d4a475380e150d53c875d2fb3cc0ce6866dc1214fb8fd16c9163bdcf7db4e7bb",
+  "audioSha256": "11527b2faf1ab2d4884e5b7ca47dbabe02cf3f3e6cf1abfbe07be11883025a51",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "392222cb7b08f93ced9e1be57d8b06b30dd05befb09c1658a71ddca3b326dde8",
+      "bytes": 20446
+    },
+    {
+      "name": "p01",
+      "sha256": "5df6c48e57efbc1b2e085a9fc02f675439d2538f2e058634c5a0bac42dec3469",
+      "bytes": 15840
+    },
+    {
+      "name": "p02",
+      "sha256": "f9445bfe696b9cbf956c62b7d2db57487889099347ecc7b8447d6b0d66296155",
+      "bytes": 15842
+    },
+    {
+      "name": "p03",
+      "sha256": "594fa5748f1e957f74aab8c701b5ec43c91c2d91529ff24664ce17ff8df1249c",
+      "bytes": 14684
+    },
+    {
+      "name": "p04",
+      "sha256": "1545c4bcca9d59928bfea0ce2e84aa5fdcc1d78e5807a317988631c9f259357b",
+      "bytes": 15124
+    },
+    {
+      "name": "p05",
+      "sha256": "4afc4a8c4402ae51893b82b78c90e35d937fa4d66e468d1fe15b7003d328a337",
+      "bytes": 16118
+    },
+    {
+      "name": "p06",
+      "sha256": "a435c0e90d54368d13e9fc8ecd1bd1ae92e8a8acd1425272dab1eaa9129d7137",
+      "bytes": 15072
+    },
+    {
+      "name": "p07",
+      "sha256": "8705a87d358c36f6524d0143999c39c94e4ae3aaf9bcb5b35baa2c46c7f739f6",
+      "bytes": 16980
+    },
+    {
+      "name": "p08",
+      "sha256": "210c77ea16a6b0bdeeee5dcec0a1fa5a6ee5bccfbfe59ab22137a41a37f199ec",
+      "bytes": 16920
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

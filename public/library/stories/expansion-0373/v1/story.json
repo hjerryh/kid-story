@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0373",
+  "version": 1,
+  "status": "media-ready",
+  "title": "梦被下面有片海",
+  "subtitle": "今晚小床去哪里",
+  "description": "菱菱第一次自己挑选梦被。森林梦和大海梦都有人喜欢，两条一起盖却乱糟糟。今晚，她的小床究竟要去哪里？",
+  "ageBand": "3-5",
+  "theme": "自己的选择",
+  "color": "#889CCB",
+  "character": "小睡鼠菱菱，浅灰色绒毛，圆耳朵，穿淡紫色睡衣，胸前有一颗白色月牙纽扣。梦被铺的布偶鹅，米白色布身体，橙色扁嘴，戴蓝色软帽。",
+  "cover": "/library/stories/expansion-0373/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 158.674,
+  "detailUrl": "/library/stories/expansion-0373/v1/story.json",
+  "audio": "/library/stories/expansion-0373/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "羽毛剧场隔壁，有一家梦被铺。被上绣着什么，盖好后就会梦见什么。小睡鼠菱菱抱着枕头走进门。今晚，她第一次自己挑梦被，要给小床选一个好地方。",
+      "image": "/library/stories/expansion-0373/v1/p01.webp",
+      "start": 0,
+      "end": 18.926
+    },
+    {
+      "id": "p02",
+      "text": "绿被子绣着松树，蓝被子绣着海浪。小松鼠说过，树林里的梦最香。小水獭说过，大海里的梦最好玩。菱菱把枕头放在床上，摸摸这条，又摸摸那条，两只小爪子都舍不得松开。",
+      "image": "/library/stories/expansion-0373/v1/p02.webp",
+      "start": 18.926,
+      "end": 40.996
+    },
+    {
+      "id": "p03",
+      "text": "铺里的布偶鹅指指试梦床：“可以躺下试试。不过，盖两条，就会做两个挤在一起的梦。”菱菱想，树和海都好，我都要！她铺好枕头，把两条被子拉到下巴。",
+      "image": "/library/stories/expansion-0373/v1/p03.webp",
+      "start": 40.996,
+      "end": 59.418
+    },
+    {
+      "id": "p04",
+      "text": "刚闭上眼，松树就从海浪里冒出来。小床一会儿挨着树枝，一会儿跟着浪花摇。松针沙沙，海水哗哗，谁也不停。菱菱蜷起脚趾：这里真热闹，可我不想睡在这里。",
+      "image": "/library/stories/expansion-0373/v1/p04.webp",
+      "start": 59.418,
+      "end": 79.016
+    },
+    {
+      "id": "p05",
+      "text": "她睁开眼，把两条被子都掀开。树和海一下子不见了，小床稳稳停在地毯上。菱菱坐了一会儿，没有赶着再拿。安静下来，她忽然很想再听一听海浪拍床边的声音。",
+      "image": "/library/stories/expansion-0373/v1/p05.webp",
+      "start": 79.016,
+      "end": 98.446
+    },
+    {
+      "id": "p06",
+      "text": "菱菱把绿被子叠成方块，抱回架子。“今晚我要蓝的。”她说。布偶鹅问：“树林呢？”菱菱拍拍绿被角：“先住在这里吧。”说完，她抱起蓝被子，耳朵轻轻晃了晃。",
+      "image": "/library/stories/expansion-0373/v1/p06.webp",
+      "start": 98.446,
+      "end": 118.764
+    },
+    {
+      "id": "p07",
+      "text": "回到家，菱菱把蓝被子盖好。梦里的小床成了一条小船，慢悠悠地浮在海上。这回没有树枝挤过来，只有浪花轻轻拍着床边。她把耳朵贴近枕头，听见了：哗，哗。",
+      "image": "/library/stories/expansion-0373/v1/p07.webp",
+      "start": 118.764,
+      "end": 139.082
+    },
+    {
+      "id": "p08",
+      "text": "一条银色小鱼游过床脚，吐出一串圆泡泡。菱菱向它摆摆爪子，又缩回暖暖的被窝。海很宽，小床很软。她翻了个身，梦里的月亮也在水面上，轻轻翻了一个身。",
+      "image": "/library/stories/expansion-0373/v1/p08.webp",
+      "start": 139.082,
+      "end": 158.674
+    }
+  ],
+  "buildHash": "d63ea2e8c9208e19c45f0eae03fb4c13b7c251074ffab54f02a68c424ac03cb9"
+}

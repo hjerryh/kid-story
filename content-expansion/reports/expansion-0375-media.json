@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0375",
+  "title": "圆面包变成了小饼",
+  "version": 1,
+  "bodyCharacters": 536,
+  "pages": 8,
+  "duration": 173.314,
+  "bodySha256": "28cf5358afd4e73eb6d67e0647df01d250966a8dbd1a02375d29f43b62361b78",
+  "audioSha256": "b97ea5df6d32a0f0eed5f57d371d391fd4ba2cdd8e6629d9f082414243900b4a",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "718bf35f4337b312efa3014850e8a26346c3819c19a44af107d224f3ed52efab",
+      "bytes": 11880
+    },
+    {
+      "name": "p01",
+      "sha256": "446b24fa5968707fa858af78a84c29041c52d38c4b69d675dcc89d0bfcf15668",
+      "bytes": 8478
+    },
+    {
+      "name": "p02",
+      "sha256": "e32b103ac01936f864005bd423e978362f18d712b39c49fb2fffc97771139316",
+      "bytes": 9526
+    },
+    {
+      "name": "p03",
+      "sha256": "9cbc0044675c864d63b9ae012dd893ff46f82bfccc021668040dee66da36d714",
+      "bytes": 9644
+    },
+    {
+      "name": "p04",
+      "sha256": "056c0244e35cd4e1d40511d124cfffecdd9207c3b81168b6009cf04e7a0097c6",
+      "bytes": 9282
+    },
+    {
+      "name": "p05",
+      "sha256": "f24537a8f2295fdf5e49b9110446572e1330cf118d1cad2e95a8fc9fa306ebd5",
+      "bytes": 9268
+    },
+    {
+      "name": "p06",
+      "sha256": "f43d578a0db96ef6a9ddb4fe2fcfedc572ec6df0053cc22dc945b9aa0a2ee24b",
+      "bytes": 10006
+    },
+    {
+      "name": "p07",
+      "sha256": "9ddbaf20d9dc5242345cbc8da9816a95356583bef0d1c9fb23c52ed9abb31a97",
+      "bytes": 9524
+    },
+    {
+      "name": "p08",
+      "sha256": "512d8d2759eff4dcd9a81588b1031ddb7e30fe8162bf4dccd8ebd884549fcd91",
+      "bytes": 9636
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

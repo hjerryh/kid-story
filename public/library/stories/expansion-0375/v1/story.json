@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0375",
+  "version": 1,
+  "status": "media-ready",
+  "title": "圆面包变成了小饼",
+  "subtitle": "给团河的软坐垫",
+  "description": "栗栗答应给布河马做一个舒服的坐垫。她塞进好多棉花，做出了漂亮的大鼓包，可朋友怎么坐都不舒服。送出去的坐垫，还需要她再打开一次。",
+  "ageBand": "3-5",
+  "theme": "把约定做好",
+  "color": "#8CA7C3",
+  "character": "栗栗是一只棕毛小狗，垂耳朵，穿蓝色围裙，围裙上有一个白方口袋。团河是一只灰紫色布河马，圆鼻头，黑纽扣眼睛，穿绿色小背心，个头只有栗栗的手掌大。",
+  "cover": "/library/stories/expansion-0375/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 173.314,
+  "detailUrl": "/library/stories/expansion-0375/v1/story.json",
+  "audio": "/library/stories/expansion-0375/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "织布小屋里，布河马团河坐在木凳上看书。他扭扭屁股，又揉揉屁股：“凳子硬邦邦。”小狗栗栗说：“我给你做个舒服的坐垫吧。”团河合上书，笑得两只纽扣眼睛亮亮的。",
+      "image": "/library/stories/expansion-0375/v1/p01.webp",
+      "start": 0,
+      "end": 20.798
+    },
+    {
+      "id": "p02",
+      "text": "栗栗找来一个黄布套，往里面塞棉花。一把，两把，还能再放一把！她想，棉花越多，一定越舒服。布套鼓成了圆面包。她系好开口的布带，抱着大鼓包，送到团河的小凳子上。",
+      "image": "/library/stories/expansion-0375/v1/p02.webp",
+      "start": 20.798,
+      "end": 42.316
+    },
+    {
+      "id": "p03",
+      "text": "团河爬上坐垫，刚翻开书，就往左边滑。挪回中间，又往右边滑。栗栗赶紧伸手接住他。“像坐在小山顶上。”团河说。栗栗摸摸鼓鼓的坐垫，小声嘀咕：“明明都是软棉花呀。”",
+      "image": "/library/stories/expansion-0375/v1/p03.webp",
+      "start": 42.316,
+      "end": 64.842
+    },
+    {
+      "id": "p04",
+      "text": "栗栗把坐垫拍了又拍，压了又压。手一松，大鼓包又挺起来。她把坐垫翻过来，请团河再试试。团河的小屁股还是待不住。“你先歇一会儿。”栗栗说，“我还没把舒服的坐垫做好呢。”",
+      "image": "/library/stories/expansion-0375/v1/p04.webp",
+      "start": 64.842,
+      "end": 86.648
+    },
+    {
+      "id": "p05",
+      "text": "团河坐到栗栗铺开的围裙角上，稳稳地翻了一页书。栗栗看看薄围裙，又看看大鼓包。原来，塞得满满的，反倒坐不平。她有点舍不得那个漂亮的圆面包，可还是伸手解开了布带。",
+      "image": "/library/stories/expansion-0375/v1/p05.webp",
+      "start": 86.648,
+      "end": 107.47
+    },
+    {
+      "id": "p06",
+      "text": "栗栗取出一把棉花，把剩下的轻轻铺匀。团河坐上去，晃了一下。“还高一点点。”她再取出小小一把。团河坐下，抬抬脚，又转转身。这一次，他稳稳留在中间，书也能放在腿上了。",
+      "image": "/library/stories/expansion-0375/v1/p06.webp",
+      "start": 107.47,
+      "end": 130.188
+    },
+    {
+      "id": "p07",
+      "text": "栗栗系牢布带，把坐垫放回木凳。黄坐垫不再像圆面包，倒像一块软软的小饼。团河坐了好一会儿，没有滑，也没有揉屁股。“这下，我能好好看书啦。”他拍拍身边，给栗栗听翻书声。",
+      "image": "/library/stories/expansion-0375/v1/p07.webp",
+      "start": 130.188,
+      "end": 151.802
+    },
+    {
+      "id": "p08",
+      "text": "栗栗收好取出的棉花，坐在凳子旁听故事。书里有一只大河马，正泡在水里。团河摸摸身下的黄坐垫，轻轻笑了：“它坐在河里，我坐在小饼上。”窗外的风吹进来，书页沙沙地响。",
+      "image": "/library/stories/expansion-0375/v1/p08.webp",
+      "start": 151.802,
+      "end": 173.314
+    }
+  ],
+  "buildHash": "ea0189116ee4be55dd2fe47f3701702ad86575c605e5b0fcc09f6551ddf28c21"
+}

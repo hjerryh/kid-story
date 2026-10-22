@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0380",
+  "title": "团斑的肚皮藏着月牙",
+  "version": 1,
+  "bodyCharacters": 1018,
+  "pages": 12,
+  "duration": 305.37,
+  "bodySha256": "1461ea91391d15704cdc6f093d06522f1767032bdf638c0fb7b7b59dacb74249",
+  "audioSha256": "802a73b210782827c53704b6e8ab7650e61f6e6926b200f343f5907924b4476f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2e648144a108de970f325864e3f6ad6f3c7dd52d77bf2a2ef1d35dd2a85d31da",
+      "bytes": 19282
+    },
+    {
+      "name": "p01",
+      "sha256": "2f51f78f49ab3bc94a1f65fd9e0e25a9d6f50c117db3cf6a0aec97d17f5518c1",
+      "bytes": 16036
+    },
+    {
+      "name": "p02",
+      "sha256": "9ff7809afded8037cb9d88ed220d96d0f093d3ec06fe3d00937baf82387cc6bb",
+      "bytes": 18384
+    },
+    {
+      "name": "p03",
+      "sha256": "990445681964cda6d15584f05b8af2ea413611738aca731d71a9ad682099887a",
+      "bytes": 16494
+    },
+    {
+      "name": "p04",
+      "sha256": "5e5792e34871caf88ee9ac3027c5b206ff1d5b622463973a8f34d982bd825336",
+      "bytes": 15900
+    },
+    {
+      "name": "p05",
+      "sha256": "a66378cf43f0cf07c687cd852925f03de6cb4e9f2164b2973adecb021a8883a9",
+      "bytes": 17792
+    },
+    {
+      "name": "p06",
+      "sha256": "2c88569a6ffb1dee1c200666e2d2ea58ab2dd4fadaae8d9f072fbab105a1a7d9",
+      "bytes": 17984
+    },
+    {
+      "name": "p07",
+      "sha256": "e619757994b139bdb719d5aaad8fb8dcb869e0bcd438e750ca21de07154e1a04",
+      "bytes": 17758
+    },
+    {
+      "name": "p08",
+      "sha256": "9bd53fc0873e2cb422e2b925d7668333f0ff448c424bdfada84a1c9dc8bc8bea",
+      "bytes": 17668
+    },
+    {
+      "name": "p09",
+      "sha256": "6d8d26e82a5f6e1bb3dea3e5e7a85c71fcc13056bb448d9690d12aa307a0dbc7",
+      "bytes": 16020
+    },
+    {
+      "name": "p10",
+      "sha256": "ee38b7ea2488f7e1038901fe6661be7a5720b06b85ba654a31c6f73b128c85b4",
+      "bytes": 15992
+    },
+    {
+      "name": "p11",
+      "sha256": "485365651a3322cad760a4ab561101e48684b8fcd99a6f4ea2082a7f3d4b4c13",
+      "bytes": 16228
+    },
+    {
+      "name": "p12",
+      "sha256": "864fa6e34aca7c257c40bcacb22f97b9bf9f069150011a8ba7891528494003c6",
+      "bytes": 16524
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

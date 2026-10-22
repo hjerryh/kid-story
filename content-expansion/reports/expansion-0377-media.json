@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0377",
+  "title": "蕨字后面的小凉亭",
+  "version": 1,
+  "bodyCharacters": 943,
+  "pages": 12,
+  "duration": 285.714,
+  "bodySha256": "b64e198522c4f51a8ba3929e1152ed3f5369de57a22a547e799f56ea9bf934da",
+  "audioSha256": "47f214a8d91b48e5659546fd99dcf5c87cdbc16bc509a1b3f407ec958c928be4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "c64e3f1af877f1b6521a5614a6ad2333d9e9078f6b5ec9a45e4dcb3971157704",
+      "bytes": 20168
+    },
+    {
+      "name": "p01",
+      "sha256": "3948253a3680c0983c2d0d4a2e0dcbd910e0470bdd1685014be866820f335179",
+      "bytes": 15850
+    },
+    {
+      "name": "p02",
+      "sha256": "2e9637f5842a0ca7671daf82fd46f12fb7bfcad5951df6ed930bede45351723f",
+      "bytes": 17542
+    },
+    {
+      "name": "p03",
+      "sha256": "7d762090ec604c4747c02604231506a4b3dfbf26b74cd4aa6b42b578163c7599",
+      "bytes": 15470
+    },
+    {
+      "name": "p04",
+      "sha256": "02bec2f208e1523c9d113d8295522e415a0c1bf912a9b08fe0fcbb9df2845e3b",
+      "bytes": 14324
+    },
+    {
+      "name": "p05",
+      "sha256": "3839595029544c35c9cb1657562bb43628370fa5604d7036f497c705e20632da",
+      "bytes": 14528
+    },
+    {
+      "name": "p06",
+      "sha256": "2e992134588923d0feb1d2fdc8e45e031aa2cfda40ef28c14951d955777a76c7",
+      "bytes": 17878
+    },
+    {
+      "name": "p07",
+      "sha256": "4af0de3cfee50fa72006b45a08dbdd3d0ead6a6e96b605429c5c72a3fbe39797",
+      "bytes": 16646
+    },
+    {
+      "name": "p08",
+      "sha256": "7bf0893c3892b1b2a1a3b2e96dfcb3ac29e93c58d44fc49df43f739ec2415f14",
+      "bytes": 17810
+    },
+    {
+      "name": "p09",
+      "sha256": "ed217c9bae155f094d992904a4b597741bd4dc2ee7042572c13cfcf9e5bfa166",
+      "bytes": 19794
+    },
+    {
+      "name": "p10",
+      "sha256": "ecf8d0e2e77fb76e4d5f4ab1dd65739bf72dc07b8cfc94f2eae1d9e14454ea00",
+      "bytes": 17236
+    },
+    {
+      "name": "p11",
+      "sha256": "571cde5ac76813f086d87d9c93140d9d98e80466c20c29c3ba00a71e87ab6fc9",
+      "bytes": 13466
+    },
+    {
+      "name": "p12",
+      "sha256": "b1bbfa0f8aebf432afe28883bfcbae5141f4814be77a151577f2400475eaa9cf",
+      "bytes": 18106
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

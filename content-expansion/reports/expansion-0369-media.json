@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0369",
+  "title": "大刷子和小篮口",
+  "version": 1,
+  "bodyCharacters": 497,
+  "pages": 8,
+  "duration": 162.61,
+  "bodySha256": "6e4bec348d40f3dc1abcf16d54d17b4261b03b54e990d4c975d9faac919d204c",
+  "audioSha256": "0367a56c8df6044094f93dec33602179dc25c6832b16abec56242987bb1f066a",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "abe1eff1b2c8461ec9b27abb3c543671414e5f54f1226da2fcaff9d030388370",
+      "bytes": 18768
+    },
+    {
+      "name": "p01",
+      "sha256": "7c5b29addc23f0cbff5a6f18f44cd933256389ea2811a01061f20fa0e299e889",
+      "bytes": 19602
+    },
+    {
+      "name": "p02",
+      "sha256": "77c810529084b26bc680aec20a650effe9d54e7a77e387db186b408439f11997",
+      "bytes": 19554
+    },
+    {
+      "name": "p03",
+      "sha256": "f7c026dada8d933d816eb9bb825b9b0420f9e24e085fcdf11b18848c8e02b8a1",
+      "bytes": 16292
+    },
+    {
+      "name": "p04",
+      "sha256": "8a30801a0d1065d9211b1cc12e9cb3c3cad408f5f66159986c6e4b88e840370d",
+      "bytes": 17228
+    },
+    {
+      "name": "p05",
+      "sha256": "a96fab50418d11b2ff9b55e374829466f19e305369afda0851e4ca816d6b769e",
+      "bytes": 20674
+    },
+    {
+      "name": "p06",
+      "sha256": "e6293a3d089673674978890573c907314be9e49911b1a5bdee84821c602a301b",
+      "bytes": 19982
+    },
+    {
+      "name": "p07",
+      "sha256": "882675c77ef6003dae6512609ce26a8289f2c6eaff4798bc688610abc23c706f",
+      "bytes": 20598
+    },
+    {
+      "name": "p08",
+      "sha256": "fbd2397a5c28f7694c015060271f685b03af7d54da2905b2c78b7d7172de03de",
+      "bytes": 18238
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

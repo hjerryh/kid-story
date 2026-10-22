@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0361",
+  "title": "白裙子醒在晚饭后",
+  "version": 1,
+  "bodyCharacters": 521,
+  "pages": 8,
+  "duration": 166.282,
+  "bodySha256": "fbb8e2443152e3e157f6ca95dcc9f63695d79ece603b46d5a1f56ab452997fc9",
+  "audioSha256": "16ee077528275d9e6afcc25a1eab82ee9167a59bc10c7d7f7b068c3d172ca59e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9d0946e7f9f81dc88b0ce14ed7cec3f8821ebef87f7983245630139294f27dd8",
+      "bytes": 15280
+    },
+    {
+      "name": "p01",
+      "sha256": "dabe75ffae636041f53cb00efc05ad2697743948b1c299e6d3c0b12ad2925a7d",
+      "bytes": 11818
+    },
+    {
+      "name": "p02",
+      "sha256": "1953c59e16fb262088997acdf6ab23e810c6b2308b6fa29e70c53bf376a8b8a7",
+      "bytes": 11624
+    },
+    {
+      "name": "p03",
+      "sha256": "90d1e8b14c8a4467b6868120f2289091573d94d527b1e8b31cf16cf73857bfdc",
+      "bytes": 12206
+    },
+    {
+      "name": "p04",
+      "sha256": "1d4f915b91cba89e79a45b1b41d97e2b1c130bedb426ecec2e4f35ee6e83b9fe",
+      "bytes": 10986
+    },
+    {
+      "name": "p05",
+      "sha256": "0ecb43a7e7f56ddaed93ac015e335d1863ea26865ad079993999237fb0544d5f",
+      "bytes": 11266
+    },
+    {
+      "name": "p06",
+      "sha256": "7abf6bb830742ef76cdff9825f3a2ba3e647c1efb397652465f9ccfb32d272ac",
+      "bytes": 10952
+    },
+    {
+      "name": "p07",
+      "sha256": "b450c1b545fb47513435335f2d31872ec240f50f7ce94749338102abc9daf67a",
+      "bytes": 13082
+    },
+    {
+      "name": "p08",
+      "sha256": "a67eb945ba76decdbf52cc16ff9449e96a440b0769f3618735678051f9a3a5c8",
+      "bytes": 12432
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

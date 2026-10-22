@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0365",
+  "title": "折折穿上了纸鞋底",
+  "version": 1,
+  "bodyCharacters": 491,
+  "pages": 8,
+  "duration": 157.354,
+  "bodySha256": "251adcdf3f958b7759f322eb94edd055f42ed79bae097b10b1635e9c2cdf6484",
+  "audioSha256": "0405cda59c1c3d17d1c13330586c0905ed7d480ec2039c8177366f662d723487",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "fd04c344e5e8d23c010258a3ae7641d3f246d0c6a3386b1ae9faee5d8e12e16e",
+      "bytes": 13470
+    },
+    {
+      "name": "p01",
+      "sha256": "d27d8cf4f5d4fa94a003471eb6b67021d17515c30bf53b98b759395f91a52740",
+      "bytes": 10302
+    },
+    {
+      "name": "p02",
+      "sha256": "d6f747354f04a6ff8f16eefa852bd2eee0f57e3149c4bb93a2caf0ec1d66da1d",
+      "bytes": 10516
+    },
+    {
+      "name": "p03",
+      "sha256": "0a5a76fa881c35b9b85f09338e86f97e3bf468f9250fe8094e7762baaae88090",
+      "bytes": 10490
+    },
+    {
+      "name": "p04",
+      "sha256": "b6e8db704c3e8bb38626f584177956973a353d09e2178487879c9355f062524e",
+      "bytes": 9782
+    },
+    {
+      "name": "p05",
+      "sha256": "962e2ce410af42db47fc14b53b8ec357256920d793a4f5bd3b7650930670fd5c",
+      "bytes": 9244
+    },
+    {
+      "name": "p06",
+      "sha256": "f8db819fad8c66dcf86569b5bb3c9769c592bd20944f2a394af23c802da3ffa3",
+      "bytes": 9684
+    },
+    {
+      "name": "p07",
+      "sha256": "83f1a66f4681b1080aed313cdf3ce1d4e0e94d00b7300d0cd82f897783870660",
+      "bytes": 10078
+    },
+    {
+      "name": "p08",
+      "sha256": "56741fd161f71a35ab76392b8e8450895efecc6c0594dbf038ebd7bcc6d519f5",
+      "bytes": 10154
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

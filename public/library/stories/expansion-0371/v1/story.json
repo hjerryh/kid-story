@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0371",
+  "version": 1,
+  "status": "media-ready",
+  "title": "米粒的小嘴在肚皮上",
+  "subtitle": "请星星喝露水",
+  "description": "苏苏想请星星牧场的小星星喝露水，可杯子换成了大碗，米粒还是喝不到。跟着朋友走进草丛，苏苏发现了那张小嘴藏着的秘密。",
+  "ageBand": "3-5",
+  "theme": "细心观察",
+  "color": "#8884BC",
+  "character": "小田鼠苏苏，浅棕色绒毛，圆耳朵，穿淡紫色背带裙，戴白色小围巾。小星星米粒，淡金色身体，五只短短的软脚，小嘴长在肚皮中央，没有衣服和配饰。",
+  "cover": "/library/stories/expansion-0371/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 168.466,
+  "detailUrl": "/library/stories/expansion-0371/v1/story.json",
+  "audio": "/library/stories/expansion-0371/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "星星牧场里，小星星白天睡在草根边，晚上伸出五只软脚，出来喝露水。小田鼠苏苏住在牧场旁。今晚，她邀请最小的星星米粒来家里坐坐，还要请它喝一杯亮晶晶的露水。",
+      "image": "/library/stories/expansion-0371/v1/p01.webp",
+      "start": 0,
+      "end": 21.206
+    },
+    {
+      "id": "p02",
+      "text": "苏苏拿出蓝色小杯，倒进收好的露水。米粒爬上杯口，五只脚搭住杯沿，肚皮悬在上面。它低了低身子，又低了低，还是喝不到。原来，它的小嘴长在肚皮正中央。",
+      "image": "/library/stories/expansion-0371/v1/p02.webp",
+      "start": 21.206,
+      "end": 41.86
+    },
+    {
+      "id": "p03",
+      "text": "“换个大碗吧！”苏苏找来一只宽碗。米粒伸开软脚，趴在碗沿上。可碗沿也高高的，小嘴仍旧够不着水。苏苏摸摸耳朵，米粒弯起一只软脚，摸摸肚皮。露水就在下面，怎么这么难喝呀？",
+      "image": "/library/stories/expansion-0371/v1/p03.webp",
+      "start": 41.86,
+      "end": 64.698
+    },
+    {
+      "id": "p04",
+      "text": "米粒有些口渴，便说：“我先去草地喝一点。”苏苏跟到门外。这一回，她没有忙着找别的杯子，只蹲在旁边看。草叶轻轻擦过米粒的脚，几颗小露珠滚到它的身边。",
+      "image": "/library/stories/expansion-0371/v1/p04.webp",
+      "start": 64.698,
+      "end": 84.56
+    },
+    {
+      "id": "p05",
+      "text": "米粒找到一片低低的宽草叶，五只脚平平放下，肚皮贴近叶面。啵，啵，两颗露珠不见了。苏苏看清楚了：喝水时，米粒的脚要落下来，肚皮也要落下来，不能架在高高的边上。",
+      "image": "/library/stories/expansion-0371/v1/p05.webp",
+      "start": 84.56,
+      "end": 105.742
+    },
+    {
+      "id": "p06",
+      "text": "苏苏回屋，拿来装饼干的平碟。她把饼干收进盒子，擦净碟面，再倒一点露水。水浅浅地铺开，像一小片安静的池塘。她把平碟放到地板上，请米粒过来试一试。",
+      "image": "/library/stories/expansion-0371/v1/p06.webp",
+      "start": 105.742,
+      "end": 125.556
+    },
+    {
+      "id": "p07",
+      "text": "米粒迈进碟子，五只脚都稳稳落下。它轻轻伏低身子，小嘴终于碰到了水。啵，啵，啵！碟里的露水少了一圈。“喝到了！”米粒高兴地说，“脚底也凉凉的，真舒服呀。”",
+      "image": "/library/stories/expansion-0371/v1/p07.webp",
+      "start": 125.556,
+      "end": 147.218
+    },
+    {
+      "id": "p08",
+      "text": "苏苏给自己倒了一小杯水，坐在米粒身旁。窗外的草尖一闪一闪，屋里的小客人也一闪一闪。米粒喝饱了，晃晃湿润的小脚，在地板上留下五点金光。苏苏舍不得马上擦掉。",
+      "image": "/library/stories/expansion-0371/v1/p08.webp",
+      "start": 147.218,
+      "end": 168.466
+    }
+  ],
+  "buildHash": "bc212e01e38711bdc34990daaa648864419afe2cec826e481eba827269802a1e"
+}

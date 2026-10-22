@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0361",
+  "version": 1,
+  "status": "media-ready",
+  "title": "白裙子醒在晚饭后",
+  "subtitle": "等白裙子慢慢展开",
+  "description": "沙丘观测站里，一朵花苞总是紧紧闭着。穗穗想看看里面的花，可唱歌也叫不醒它。一次回来寻找坐垫的经历，让她发现自己总在花儿醒来以前离开。",
+  "ageBand": "3-5",
+  "theme": "夜晚的发现",
+  "color": "#8896BC",
+  "character": "小跳鼠穗穗，浅棕色绒毛，奶白色肚皮，大耳朵，细长尾巴末端有深棕色毛簇，穿浅绿色短背心。花苞姑娘是一株种在宽陶盆里的白色月光花，绿叶呈心形，能轻声说话。",
+  "cover": "/library/stories/expansion-0361/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 166.282,
+  "detailUrl": "/library/stories/expansion-0361/v1/story.json",
+  "audio": "/library/stories/expansion-0361/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "沙丘观测站门前，住着一位花苞姑娘。她把白裙子卷得细细长长，整天闭着眼睛。小跳鼠穗穗很想看看，裙子展开是什么样。她搬来软坐垫，坐在花盆旁边，等姑娘醒来。",
+      "image": "/library/stories/expansion-0361/v1/p01.webp",
+      "start": 0,
+      "end": 21.158
+    },
+    {
+      "id": "p02",
+      "text": "太阳爬高了，花苞还是细细的一卷。穗穗轻轻唱起早安歌，唱到大耳朵都跟着摇。花苞姑娘迷迷糊糊地说：“唔，我还想睡。”穗穗收住歌声，连最后一个长音也咽了回去。",
+      "image": "/library/stories/expansion-0361/v1/p02.webp",
+      "start": 21.158,
+      "end": 40.972
+    },
+    {
+      "id": "p03",
+      "text": "是不是口渴了，才没有力气醒呢？穗穗提来小水壶，先摸摸盆里的土。土还湿润，指尖凉凉的。她没有倒水，把水壶放回墙边。可是，花苞姑娘究竟要睡到什么时候呀？",
+      "image": "/library/stories/expansion-0361/v1/p03.webp",
+      "start": 40.972,
+      "end": 61.746
+    },
+    {
+      "id": "p04",
+      "text": "下午，穗穗回屋吃饭，把坐垫忘在了外面。等她回来找，太阳已经落到沙丘背后。咦，花苞顶上松开了一道白缝！她凑近闻闻，一点淡淡的香气，正从那道小缝里钻出来。",
+      "image": "/library/stories/expansion-0361/v1/p04.webp",
+      "start": 61.746,
+      "end": 82.52
+    },
+    {
+      "id": "p05",
+      "text": "“你醒啦！”穗穗小声说。“天暗下来，我就要开花啦。”姑娘伸了伸卷着的裙边。穗穗抱住坐垫，忽然明白：自己今天来得太早，又在她醒来以前走掉了。",
+      "image": "/library/stories/expansion-0361/v1/p05.webp",
+      "start": 82.52,
+      "end": 100.918
+    },
+    {
+      "id": "p06",
+      "text": "第二天早晨，开过的花已经谢了，旁边还有一枚新花苞。穗穗白天去整理小石子，到了傍晚才带着坐垫来。她没有唱歌，也没有摇动花枝，只把尾巴拢在身边。天渐渐暗了，新花苞的尖尖松开了。",
+      "image": "/library/stories/expansion-0361/v1/p06.webp",
+      "start": 100.918,
+      "end": 124.188
+    },
+    {
+      "id": "p07",
+      "text": "先是一小角，再是一大片，卷着的花瓣慢慢舒展开来。穗穗睁圆眼睛，连胡须都不动了。终于，一朵白花朝着她打开，像一只浅浅的小碗，边沿软软的，盛着清凉的夜色。",
+      "image": "/library/stories/expansion-0361/v1/p07.webp",
+      "start": 124.188,
+      "end": 144.89
+    },
+    {
+      "id": "p08",
+      "text": "“原来你的裙子这么大呀。”穗穗说。花苞姑娘轻轻笑了，香气飘到她鼻尖。穗穗陪她看了一会儿星星，自己却打起呵欠。“这回轮到你睡啦。”白花说。她们轻轻互道晚安。",
+      "image": "/library/stories/expansion-0361/v1/p08.webp",
+      "start": 144.89,
+      "end": 166.282
+    }
+  ],
+  "buildHash": "d61836ca36a969c8f6e94ea31ebc67b808e9561f43a2be06d1c835d3e2376f36"
+}

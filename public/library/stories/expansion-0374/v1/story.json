@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0374",
+  "version": 1,
+  "status": "media-ready",
+  "title": "点点这一圈慢慢转",
+  "subtitle": "陪难过的朋友转一圈",
+  "description": "木马点点心爱的红飘带被风吹走了，连转圈也不想了。栗绵拿来新飘带，又做起鬼脸，可朋友还是低着头。怎样才能陪他舒服地转上一圈呢？",
+  "ageBand": "3-5",
+  "theme": "温柔陪伴",
+  "color": "#A9C8AD",
+  "character": "小松鼠栗绵：栗棕色毛，奶白色肚皮，蓬松大尾巴，穿浅绿色短背心。木马点点：浅棕色木头身体，深棕色圆斑，蓝色鞍座，四蹄固定在圆转盘上，会说话，能让转盘开始、停止或慢慢转动。",
+  "cover": "/library/stories/expansion-0374/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 164.962,
+  "detailUrl": "/library/stories/expansion-0374/v1/story.json",
+  "audio": "/library/stories/expansion-0374/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "松果游乐场里，木马点点低着头。昨夜，大风吹走了他脖子上的红飘带，飘过树林，再也找不到了。小松鼠栗绵来了，想和他转一圈。点点说：“今天，我不想转。”",
+      "image": "/library/stories/expansion-0374/v1/p01.webp",
+      "start": 0,
+      "end": 20.03
+    },
+    {
+      "id": "p02",
+      "text": "栗绵摸摸口袋，拿出一条黄飘带。“这个也会飞呀！”她把飘带轻轻搭在点点脖子上。风一吹，黄色的小尾巴翘起来。点点看了一眼，又低下头：“可它不是我的那一条。”",
+      "image": "/library/stories/expansion-0374/v1/p02.webp",
+      "start": 20.03,
+      "end": 40.3
+    },
+    {
+      "id": "p03",
+      "text": "栗绵把自己的尾巴举到鼻子底下，装成一位长胡子爷爷。“胡子先生来坐木马啦！”点点噗地笑了一下。可笑完以后，他的嘴角又垂下去了。栗绵放下尾巴，耳朵也垂了下来。",
+      "image": "/library/stories/expansion-0374/v1/p03.webp",
+      "start": 40.3,
+      "end": 60.57
+    },
+    {
+      "id": "p04",
+      "text": "“我还没把你逗高兴。”栗绵小声说。点点望着空空的远方：“那条红飘带陪我转了好多圈。转到最快的时候，它会拍拍我的脸。我想它。”栗绵不做鬼脸了，坐下来听。",
+      "image": "/library/stories/expansion-0374/v1/p04.webp",
+      "start": 60.57,
+      "end": 81.104
+    },
+    {
+      "id": "p05",
+      "text": "她取下黄飘带，叠好，放回口袋。“它还做过什么？”点点抬起一点头：“下雨的时候，它贴在我脖子上，像一片湿湿的红叶子。”栗绵点点头。两个人安静了一会儿，听风吹过树叶。",
+      "image": "/library/stories/expansion-0374/v1/p05.webp",
+      "start": 81.104,
+      "end": 102.502
+    },
+    {
+      "id": "p06",
+      "text": "过了一会儿，点点问：“我还没有高兴起来，你还想坐吗？”“想呀，我可以陪你慢慢转。”栗绵爬上低低的蓝鞍座，坐稳，扶好。点点看看身旁的小影子，轻轻说：“那就慢一点。”",
+      "image": "/library/stories/expansion-0374/v1/p06.webp",
+      "start": 102.502,
+      "end": 122.436
+    },
+    {
+      "id": "p07",
+      "text": "点点让圆转盘慢慢动起来。松树过去了，小花坛过去了。一片黄叶落在转盘上，跟着他们走。栗绵没有喊加油，也没有问他开心了吗。点点说起红飘带打过的蝴蝶结，她就静静地听。",
+      "image": "/library/stories/expansion-0374/v1/p07.webp",
+      "start": 122.436,
+      "end": 144.122
+    },
+    {
+      "id": "p08",
+      "text": "一圈转完，点点的头抬起来了。“我还想它，”他说，“不过，我也想再转一圈。”栗绵轻轻拍拍蓝鞍座：“我坐着呢。”黄叶滑到她脚边，她小声告诉它：“你也坐好呀，这一圈还是慢慢的。”",
+      "image": "/library/stories/expansion-0374/v1/p08.webp",
+      "start": 144.122,
+      "end": 164.962
+    }
+  ],
+  "buildHash": "1a9189f7633edca9757809ed8bf12bcd7d64ee4f3806f3813aafc0baeb560dcb"
+}

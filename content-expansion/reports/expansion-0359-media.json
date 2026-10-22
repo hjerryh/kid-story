@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0359",
+  "title": "西窗房还有一点声音",
+  "version": 1,
+  "bodyCharacters": 1557,
+  "pages": 16,
+  "duration": 471.314,
+  "bodySha256": "dcd8e0206077507fa1de5aba251de83af2d609862e69eed9e366ccf06d929bc1",
+  "audioSha256": "5c772992f1781613635306aa09f0d216503a8685cb3a5fe4873bc02d4dab57d0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3dd60b3e3811deb9c6399f50bbeb7a47b887364edee04575d632802699712206",
+      "bytes": 14568
+    },
+    {
+      "name": "p01",
+      "sha256": "40b6e1d3ba4376e244e947a97f5e0e7047d0da8946c1ea8afff2df11d4b66e05",
+      "bytes": 11914
+    },
+    {
+      "name": "p02",
+      "sha256": "abdc8604d5fb1e6ebad324cbd55c00583c9d76fc8407faf688a6dffed5528540",
+      "bytes": 13106
+    },
+    {
+      "name": "p03",
+      "sha256": "dfbb67185c45fd68104d3a99681dea4660ce855ba48e71bffc7e73502b464e9c",
+      "bytes": 12818
+    },
+    {
+      "name": "p04",
+      "sha256": "18412406cdcf0a87dcb6bf19b4909b7e70ef80b8edc648066587a13b57240384",
+      "bytes": 13100
+    },
+    {
+      "name": "p05",
+      "sha256": "61beba19370e52a2062be5a660943ed9acf71e491853033029f8359ad6abf8a6",
+      "bytes": 11890
+    },
+    {
+      "name": "p06",
+      "sha256": "c8647f909e76a82a995f22460a6fc78726517e238b864abdfcc314f63f44af14",
+      "bytes": 14228
+    },
+    {
+      "name": "p07",
+      "sha256": "7865c57d8f3e276ef9ff069cb73f7a95359c5c601c56156a131cf038f54890b1",
+      "bytes": 12944
+    },
+    {
+      "name": "p08",
+      "sha256": "c04a47ec2cba903629521f4c4a2ea596237a692b860ef371132072846202f9a7",
+      "bytes": 13778
+    },
+    {
+      "name": "p09",
+      "sha256": "0c9a82f914268638aa9cd69aa7727dd5fd7607af3f0c7337c213ce0653ffe388",
+      "bytes": 12346
+    },
+    {
+      "name": "p10",
+      "sha256": "ef149b170a76f97e374c340a55e20bda079927c0e8aa8b80cc3e2131e5345a62",
+      "bytes": 13058
+    },
+    {
+      "name": "p11",
+      "sha256": "1ce8e245323be81b4b7f7431be8458a57c67107f53e1b28027fddc16c8278a9a",
+      "bytes": 9892
+    },
+    {
+      "name": "p12",
+      "sha256": "6f3a0db2ad7f13047b35c5aaed5258079b5adf09e00b2f5e14b98b1a5d3ad585",
+      "bytes": 12950
+    },
+    {
+      "name": "p13",
+      "sha256": "1544bc0a3c7415306433f61dfe0384a9e05bcb23cae3746557fd814ce4ab65a0",
+      "bytes": 12520
+    },
+    {
+      "name": "p14",
+      "sha256": "fe3748610ec7a30122f4f6c325b71c1c64592ac93ab51f8bd3f1852f39604d48",
+      "bytes": 12998
+    },
+    {
+      "name": "p15",
+      "sha256": "be2da7ee289577528f6fe948c69cba8a21ae323d611deaa4510cd58ad13d5a93",
+      "bytes": 14102
+    },
+    {
+      "name": "p16",
+      "sha256": "c9d6ead9c8fc7578550546606ec44604bdc6d875bed014b971f93fb7ade0a55b",
+      "bytes": 11884
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

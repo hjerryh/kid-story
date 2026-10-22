@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0370",
+  "title": "阿箱装不下小桌子",
+  "version": 1,
+  "bodyCharacters": 525,
+  "pages": 8,
+  "duration": 166.402,
+  "bodySha256": "ef1d1fbecaa5c4e73b71bd5587cdfe62dcdfbe1867e957c598465c719aa5ec51",
+  "audioSha256": "f0247953709fd280bedfc7f73f7ac81865ece8c1a45a33d55720dc7e8afd0609",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "58025ad74b0de9c01a4517fd617cf22dc6c87594032a0d0af857060d2d8f4599",
+      "bytes": 11770
+    },
+    {
+      "name": "p01",
+      "sha256": "a0e697b49fecdc0dedfdcccb65e3c0df5ab8dd2467e20057570dc0f64ffca753",
+      "bytes": 9324
+    },
+    {
+      "name": "p02",
+      "sha256": "22426a9d6bba7c07ee1343e7b74d7df2d411c2c630dca1993f977e175c5a8fe9",
+      "bytes": 10528
+    },
+    {
+      "name": "p03",
+      "sha256": "e69376ff77e7f3f90b25bb9c4ff431d64399ad1103b0266d30ba4e4ab1f97da9",
+      "bytes": 10578
+    },
+    {
+      "name": "p04",
+      "sha256": "9cfdc38ae24be55da2e1bf2f6e97d21a695e1211148cd0b43ebc224e98b1bb47",
+      "bytes": 10560
+    },
+    {
+      "name": "p05",
+      "sha256": "91012d28f049c4fb255c76c323345de7da5ec9683fcae44b4fe39817aa5f6963",
+      "bytes": 10332
+    },
+    {
+      "name": "p06",
+      "sha256": "d589073a298cccd8ba888c24a6af41d5971ecec7b979923b00bca9b4fecb3ba5",
+      "bytes": 8528
+    },
+    {
+      "name": "p07",
+      "sha256": "c48d7bb413db9bee763387b9ccf49104a34d19e3b20748617e62bec3373bfc3f",
+      "bytes": 8738
+    },
+    {
+      "name": "p08",
+      "sha256": "04484696ee8bedc301918caa09ea72f1895e436a2b652f006e32a92477bcf02c",
+      "bytes": 8914
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0363",
+  "version": 1,
+  "status": "media-ready",
+  "title": "白卷卷睡进了篮子",
+  "subtitle": "春天的羊毛午睡窝",
+  "description": "春天暖了，绵羊松团剪去了厚厚的冬毛，小田鼠蓬籽最喜欢的午睡窝也不见了。她想把原来的软窝找回来，可一团团羊毛怎么也待不住。",
+  "ageBand": "3-5",
+  "theme": "熟悉的变化",
+  "color": "#B9CFAD",
+  "character": "蓬籽：浅灰色小田鼠，圆耳朵，细长尾巴，穿浅绿色背心。松团：乳白色绵羊，浅褐色脸和四蹄，戴蓝色小领巾；已经剪去厚长冬毛，全篇保持短绒毛外观。",
+  "cover": "/library/stories/expansion-0363/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 155.89,
+  "detailUrl": "/library/stories/expansion-0363/v1/story.json",
+  "audio": "/library/stories/expansion-0363/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "春天暖起来了，小田鼠蓬籽抱着小枕头，来找绵羊松团午睡。冬天，她总窝在松团背上的长毛里。可是今天，松团剪了毛，身旁的浅篮装着一大堆白卷卷。",
+      "image": "/library/stories/expansion-0363/v1/p01.webp",
+      "start": 0,
+      "end": 19.358
+    },
+    {
+      "id": "p02",
+      "text": "松团卧下来，蓬籽爬上他的背。咦，软软的毛窝没了！她往左挪，往右挪，小枕头总往下滑。蓬籽抱紧枕头，小声问：“我的午睡地方，是不是也被剪走了？”",
+      "image": "/library/stories/expansion-0363/v1/p02.webp",
+      "start": 19.358,
+      "end": 38.572
+    },
+    {
+      "id": "p03",
+      "text": "“长毛在篮子里呢。”松团晃晃耳朵。蓬籽跳回草地，捧起一团羊毛。还是熟悉的软，还是淡淡的青草味。她想，把毛放回背上，原来的窝一定也会回来吧。",
+      "image": "/library/stories/expansion-0363/v1/p03.webp",
+      "start": 38.572,
+      "end": 57.906
+    },
+    {
+      "id": "p04",
+      "text": "她把羊毛一团团铺上去，再在中间按个小坑。松团刚转头，一团毛便滚到了草地上。蓬籽重新铺好，又掉下一团。“别动呀。”她说。松团只好停住了耳朵。",
+      "image": "/library/stories/expansion-0363/v1/p04.webp",
+      "start": 57.906,
+      "end": 78.368
+    },
+    {
+      "id": "p05",
+      "text": "可松团想伸伸腿，也想扭头闻闻花。“这样又有一点热啦。”他说。蓬籽摸摸他短短的绒毛，才发现他今天没有一直张嘴喘气。原来，松团正喜欢这个新模样。",
+      "image": "/library/stories/expansion-0363/v1/p05.webp",
+      "start": 78.368,
+      "end": 98.086
+    },
+    {
+      "id": "p06",
+      "text": "蓬籽把背上的羊毛抱下来，放回浅篮。白卷卷落进去，安安稳稳，一团也没滚走。她看看篮子，又看看松团，忽然把小枕头放了进去：“窝可以住在这里呀！”",
+      "image": "/library/stories/expansion-0363/v1/p06.webp",
+      "start": 98.086,
+      "end": 116.22
+    },
+    {
+      "id": "p07",
+      "text": "她拨开中间的羊毛，把四周拍得蓬蓬松松，再躺进去试一试。枕头不滑了，肚皮也暖暖的。松团挪近一点，把脸贴在篮沿。蓬籽伸出小手，正好摸到他的耳朵。",
+      "image": "/library/stories/expansion-0363/v1/p07.webp",
+      "start": 116.22,
+      "end": 135.914
+    },
+    {
+      "id": "p08",
+      "text": "松团舒舒服服地伸直了腿。蓬籽听着他呼噜噜的鼻息，慢慢闭上眼睛。以前，午睡窝跟着松团一起动；现在，松团睡在窝旁边。他的鼻尖轻轻一碰，还是那样痒。",
+      "image": "/library/stories/expansion-0363/v1/p08.webp",
+      "start": 135.914,
+      "end": 155.89
+    }
+  ],
+  "buildHash": "8cc6afe5e94224d87ab1f7a8ccc01212249289e59a0222615dd1c82f99351703"
+}

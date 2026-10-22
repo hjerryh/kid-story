@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0383",
+  "title": "阿阔游进竖着的海",
+  "version": 1,
+  "bodyCharacters": 982,
+  "pages": 12,
+  "duration": 292.386,
+  "bodySha256": "61e4909fc329b78cc1dff582800da39377a2e9ed2d5b84ea8b5c22fabd858ad5",
+  "audioSha256": "a6cfb6d1c42c0959115482259b02007b015340067b55260eb0b777dede75d4a8",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "7c8aa19df5315ba8af7a408aa5af584b751c9295a70cdd0a11b07dd18fc52c97",
+      "bytes": 20110
+    },
+    {
+      "name": "p01",
+      "sha256": "146964e28b175ceedede4c06507d4f29f60e1a81b7c927c640cc941c32a43a79",
+      "bytes": 15416
+    },
+    {
+      "name": "p02",
+      "sha256": "71a0b36c387b1f536080bcf62097aeaaeb071f2aa69feb04c1c29c227e081dac",
+      "bytes": 15212
+    },
+    {
+      "name": "p03",
+      "sha256": "7d96a48505f153ea6666dbcc7dee8a9f24964271cc82ac1261a066972b6b6f1e",
+      "bytes": 15132
+    },
+    {
+      "name": "p04",
+      "sha256": "971a01f454f338131f0504f51bb2bc1edff194aad543dfc9981d4548ef378496",
+      "bytes": 15314
+    },
+    {
+      "name": "p05",
+      "sha256": "913846b9421fd927ee24511168f967b8f4f343605d3f0d39b2018c5018259ab6",
+      "bytes": 13732
+    },
+    {
+      "name": "p06",
+      "sha256": "dd35de1cd687bfb3dc6d8c5bd685d5ad080f0f82f80a6b649bfeda8d0a8c66c1",
+      "bytes": 14922
+    },
+    {
+      "name": "p07",
+      "sha256": "6ebd1dfe9b990e88861c891f5ed31603e48ca824d9c0fdb4d6211b1346c7e144",
+      "bytes": 15384
+    },
+    {
+      "name": "p08",
+      "sha256": "b488ad57964c9d2c27a8fe8c775c6fa58cb23a649c26366e8fbdce33a943960d",
+      "bytes": 13012
+    },
+    {
+      "name": "p09",
+      "sha256": "b56c5c74f7b3c21f7de6c0c0823191ab0998b42bfd9462847393b0859f76a41c",
+      "bytes": 12652
+    },
+    {
+      "name": "p10",
+      "sha256": "204cb8c2426fef2dbf2d39b0b297586f8df7bdb1716d04d8c43c86c097bfa0a1",
+      "bytes": 15074
+    },
+    {
+      "name": "p11",
+      "sha256": "c4985cc6cf3518f70968456cb20a7c71aede8d41e26dfc7b4f92b6f0f18ecedf",
+      "bytes": 15510
+    },
+    {
+      "name": "p12",
+      "sha256": "66257f91e515a7b759977540304eb71c5f25c938f37fb0ecabffd885fa395628",
+      "bytes": 15770
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

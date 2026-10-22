@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0362",
+  "title": "绒扣里面也是晴天",
+  "version": 1,
+  "bodyCharacters": 538,
+  "pages": 8,
+  "duration": 173.53,
+  "bodySha256": "acf164dbd9763d573941d4e2123e9aa33dcdb2d87b60f050d989d0c4eb65d5a6",
+  "audioSha256": "595e06e802e046fbd1a878b6a2940f13ea8957a681eddd89768b97cedf717061",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "03fb40b54dab239bbbddd9e9e92f3c1e8335e89660d2af487e622503bf01aec7",
+      "bytes": 13120
+    },
+    {
+      "name": "p01",
+      "sha256": "257cc1980f07f9cc20a47a45139c53375f31a35ce5cfb8e29daeb0c9d2d18940",
+      "bytes": 10184
+    },
+    {
+      "name": "p02",
+      "sha256": "ef3118665fc5a70a9a4a285a671a47537d243b85d01b93d44ef887e2b33ac94a",
+      "bytes": 9264
+    },
+    {
+      "name": "p03",
+      "sha256": "49802c4f436cb36cba7e163b586f875eec91a8ea69ed29d73e8836a0a316983d",
+      "bytes": 9442
+    },
+    {
+      "name": "p04",
+      "sha256": "265b66193833adf3f7570b28969f0a1fa00110d2d0672406342f013d2e8ccc8f",
+      "bytes": 10082
+    },
+    {
+      "name": "p05",
+      "sha256": "7d72a28250fdcb628c4f1d501f0f62610fc0fd6d7e7f7bee67a85e2814309344",
+      "bytes": 11268
+    },
+    {
+      "name": "p06",
+      "sha256": "77d406fbded67f26d9998295094397b0532fbe6f679897988680c65c2ce69b02",
+      "bytes": 10868
+    },
+    {
+      "name": "p07",
+      "sha256": "5f21ca684bb2891e1353fd229be010ce9f8f4078cf06dd9e3ecac0ee6f5cbe33",
+      "bytes": 9644
+    },
+    {
+      "name": "p08",
+      "sha256": "44734cf3c1198454a4fa47492b0880d8c10d0f7ea0f815f7a9d27de798709730",
+      "bytes": 9910
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

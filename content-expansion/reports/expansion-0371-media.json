@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0371",
+  "title": "米粒的小嘴在肚皮上",
+  "version": 1,
+  "bodyCharacters": 519,
+  "pages": 8,
+  "duration": 168.466,
+  "bodySha256": "869d0eca3769cfedcede46687061da800f7cfae8e0c39ea0c7ca32238d7b6193",
+  "audioSha256": "5eaa2a928be591e7943823b75a41f3e8f74a739bff645004604646e839521aff",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3d0d3d3d4ef7c21837f40c640093572d67f345b603907bce05640edff514624a",
+      "bytes": 12400
+    },
+    {
+      "name": "p01",
+      "sha256": "da41c4fb0f0589ca87e5032e8e433aa96dd2fbc9292e46a18e84b9a95663ec6c",
+      "bytes": 10150
+    },
+    {
+      "name": "p02",
+      "sha256": "ae7431451885e9f5a791bcfdd152f9aaae910ab1a63cbc5b22bcbde1217fe585",
+      "bytes": 11074
+    },
+    {
+      "name": "p03",
+      "sha256": "4645096b29b4069a4443763c652f97b8635d31fdbd8218bbcb0307ff0d195eec",
+      "bytes": 11328
+    },
+    {
+      "name": "p04",
+      "sha256": "e310652a5f6f297b3c7854d0f4e7793329837c8f0549304ae0a9009b76adc6bc",
+      "bytes": 9972
+    },
+    {
+      "name": "p05",
+      "sha256": "b0e0829cb9c149969caa43143658de47b1b7e686eb72e43b283391d2319cc750",
+      "bytes": 9982
+    },
+    {
+      "name": "p06",
+      "sha256": "7813af7f911484a9f8e8864448eaffae70118c28038ac751585efe4396aed970",
+      "bytes": 10370
+    },
+    {
+      "name": "p07",
+      "sha256": "d013527c3a94440529ca1f52df253e2bcd1ec725b10be3f1e5a89461f252c596",
+      "bytes": 9928
+    },
+    {
+      "name": "p08",
+      "sha256": "6b2b08874fd544624fe564001a538d3f3db2c5ac656160adfc6e6766091e7a9e",
+      "bytes": 10122
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

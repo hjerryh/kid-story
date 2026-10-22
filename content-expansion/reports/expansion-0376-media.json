@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0376",
+  "title": "小锅装不下大手的一点点",
+  "version": 1,
+  "bodyCharacters": 499,
+  "pages": 8,
+  "duration": 160.258,
+  "bodySha256": "32761128d93988f900f94d32800e89cc28730deafad28961fc05789c6693750f",
+  "audioSha256": "1aef059a71a92e637f2fa58a47720f38c496637d7fd5f1a519c7f071f2436ab2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ca0d964ab59f3aa371c7f8bc187d618666c17e73e9ce4691e02e9aa89d650105",
+      "bytes": 19962
+    },
+    {
+      "name": "p01",
+      "sha256": "23cad903f63a6b190ad020181e8cfbee2251623bb3ac468927cc979560fb0989",
+      "bytes": 16974
+    },
+    {
+      "name": "p02",
+      "sha256": "6b16a1c0396c4325d22267cc7e8a73e811653900ddcb29b8f4c4179abb5a9d7b",
+      "bytes": 18098
+    },
+    {
+      "name": "p03",
+      "sha256": "eef3453bf12f39f67ee57b5953764137d95d819dd06637a0c644808433262c72",
+      "bytes": 16964
+    },
+    {
+      "name": "p04",
+      "sha256": "212f68245dd40961e57349448b277e636ad3b9cd8688e0a1935644ada4cea8ae",
+      "bytes": 17782
+    },
+    {
+      "name": "p05",
+      "sha256": "a92ee3d051577bb689f3c26201e708283862e67862aaa7c514619fdbb5b14ed6",
+      "bytes": 17392
+    },
+    {
+      "name": "p06",
+      "sha256": "d801bcc5d08ee26380c878ca1c523ca627e0bf5e557277372961f7480ec3af8d",
+      "bytes": 17084
+    },
+    {
+      "name": "p07",
+      "sha256": "ab5d33318ec10d44e1e4ac48a8f2c8f830f49b25f81140c9bffe37763b22c7a9",
+      "bytes": 16788
+    },
+    {
+      "name": "p08",
+      "sha256": "b6b03383afa31775d92841953bafd57a2acd279723a8ff157aa10f3bddbb4908",
+      "bytes": 16778
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

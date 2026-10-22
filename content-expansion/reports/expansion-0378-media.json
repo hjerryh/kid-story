@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0378",
+  "title": "簌簌笑着说停一下",
+  "version": 1,
+  "bodyCharacters": 947,
+  "pages": 12,
+  "duration": 291.33,
+  "bodySha256": "40b7f32fea4ec951d4a23a66f421fe9ee1bd04ccaccfd7d348e3d4092a893218",
+  "audioSha256": "cddf6de547eaa2571f03397017af8554741832feeff673d0e4bbc47d62ad613c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2ad32982c814d1c837da8df996ee523be48c2a7ec99b7bb07a17f6b3d7b0cb03",
+      "bytes": 13758
+    },
+    {
+      "name": "p01",
+      "sha256": "e127a85f8c31d4f9be730da98622f37868ddb7f270d30a9f187359eafedab432",
+      "bytes": 9066
+    },
+    {
+      "name": "p02",
+      "sha256": "9ba40770c1f1b4f3c645def675891d09f79259e3c1ab0acc25704e3e5bc06e35",
+      "bytes": 10810
+    },
+    {
+      "name": "p03",
+      "sha256": "0c957ebe8b43414236f275dc8defefe19a8536c3ca5e10a5be4677c08d5dff41",
+      "bytes": 10864
+    },
+    {
+      "name": "p04",
+      "sha256": "1e1386efdad1f8ef407cbc8168ce2ded3701fcc237d45d43a3ad8c869d153142",
+      "bytes": 10804
+    },
+    {
+      "name": "p05",
+      "sha256": "0d8293140fb91d4782d63afbae055565c462287c46a6f24f785cc80a9372d8ad",
+      "bytes": 11004
+    },
+    {
+      "name": "p06",
+      "sha256": "a3b0f4ee767e04825b5f6ec23b8adf42de65ad125c5ef965033ca3fcb171f265",
+      "bytes": 10650
+    },
+    {
+      "name": "p07",
+      "sha256": "3a285d80f82d0a7a14c56ec7464343f46cf69f4f0b61cfe6fd8d26d541bcf4ca",
+      "bytes": 12154
+    },
+    {
+      "name": "p08",
+      "sha256": "c19806a25af81e7db35bbae355dcafecf73b04d63a8cad256fcf5dcf6a7a49f6",
+      "bytes": 9742
+    },
+    {
+      "name": "p09",
+      "sha256": "b439401cf9bf2ca83217c7b5f9bac1367851cca98fc51c868be4ce48fb31cdb2",
+      "bytes": 13372
+    },
+    {
+      "name": "p10",
+      "sha256": "24a8300b53a78b852c67774d3376e6db1e611122afd947b01aa7f712f3ba5858",
+      "bytes": 13378
+    },
+    {
+      "name": "p11",
+      "sha256": "e37aa7a51844aeadd35da648c1c0bd7070225e91c54496d852e0c193f2052dbe",
+      "bytes": 10510
+    },
+    {
+      "name": "p12",
+      "sha256": "f51e6aaaf8e4e654e8c25a959c702bf76c4eb43e997666e32089d2be2ea481e8",
+      "bytes": 12804
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

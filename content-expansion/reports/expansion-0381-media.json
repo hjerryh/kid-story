@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0381",
+  "title": "擦擦走过没有线的地方",
+  "version": 1,
+  "bodyCharacters": 953,
+  "pages": 12,
+  "duration": 282.426,
+  "bodySha256": "2fb888f935f791fa20ff91f4b286eb11278e6bc237f54f24dccee75154e27664",
+  "audioSha256": "a5e3c840c5f8aa7cb0783def65a4f63ef478d3ec9c41c4662bcae6607dd3b678",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "daf4b328173aa0fcd40130091a93d55e452e6f313be7f38fe2c4b43409117f6a",
+      "bytes": 20510
+    },
+    {
+      "name": "p01",
+      "sha256": "1112477edcab09674ff65041bdd736d43c1d99926e2b4656a4f2597f5bea0537",
+      "bytes": 16756
+    },
+    {
+      "name": "p02",
+      "sha256": "01565870df78ada8417c195753ecb1e9c2ef40c0a59155c8657ac30158e1073d",
+      "bytes": 17886
+    },
+    {
+      "name": "p03",
+      "sha256": "74905ec49938874a4af11dbda8c79d621d34f494e29033c447876b92520324de",
+      "bytes": 16442
+    },
+    {
+      "name": "p04",
+      "sha256": "0480e79d4737f4771c54a269a36cb4c1b7ca7b962868a6ef0df7f92a54a8a3cd",
+      "bytes": 16556
+    },
+    {
+      "name": "p05",
+      "sha256": "d56264aa240b6c957fcb8fc5c9b4c1a5d3dadf0b8fba13b93de301f3d776ee71",
+      "bytes": 17640
+    },
+    {
+      "name": "p06",
+      "sha256": "f08f533c858c45cea91e3e4c1899df6f56b5998896d7f9273f3ffab4e2e504fd",
+      "bytes": 18022
+    },
+    {
+      "name": "p07",
+      "sha256": "867fcfc49152c13e4cc801ea9b3264eec81db5f5cdb3eec6d1d8aa3387ddd635",
+      "bytes": 17838
+    },
+    {
+      "name": "p08",
+      "sha256": "2a889c0e73a5142f2de2aff23200850a5263977a487ddbeb63f58ed14a86bcf7",
+      "bytes": 17778
+    },
+    {
+      "name": "p09",
+      "sha256": "6875fb8a80d0b7cf748c1d558432fb28142adce99c5bde7257bb4a5c3c51c305",
+      "bytes": 12904
+    },
+    {
+      "name": "p10",
+      "sha256": "3df2466ac171facba51aecc81341e38be78c85b38874dcfb0b62c1d8ec18f9c4",
+      "bytes": 16404
+    },
+    {
+      "name": "p11",
+      "sha256": "75e7e18bf6b29b49d3aa1cedfcdc286e3d922195e4ff40f3bc620a1884495a31",
+      "bytes": 15894
+    },
+    {
+      "name": "p12",
+      "sha256": "5af3bf3afc6375c41d31a7997858eaab5dd17e139eaaea70f31014d259bb80fb",
+      "bytes": 16382
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

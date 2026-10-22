@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0376",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小锅装不下大手的一点点",
+  "subtitle": "一点点盐是多少",
+  "description": "圆芽想给沙丘爷爷煮一锅月光汤，可爷爷说的“一点点”，究竟是多少？大小不同的勺子，让这顿晚饭有了新的做法。",
+  "ageBand": "3-5",
+  "theme": "一起摸索",
+  "color": "#8FCBD0",
+  "character": "小海豹圆芽，银灰色绒毛，圆圆的黑眼睛，穿蓝色短背心，戴白色软布帽。沙巨人沙丘爷爷，身体由金黄色沙粒组成，眉毛像两丛浅色海草，系棕色围裙。",
+  "cover": "/library/stories/expansion-0376/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 160.258,
+  "detailUrl": "/library/stories/expansion-0376/v1/story.json",
+  "audio": "/library/stories/expansion-0376/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "星砂海滩上，沙丘爷爷每天替小海豹圆芽挡风。今晚，圆芽想请他喝汤。她搬出一口圆锅，说：“我要煮你最喜欢的月光汤！”爷爷笑得肩膀上的沙粒簌簌往下滚。",
+      "image": "/library/stories/expansion-0376/v1/p01.webp",
+      "start": 0,
+      "end": 20.102
+    },
+    {
+      "id": "p02",
+      "text": "月光汤不用生火。把月光舀进锅，再拌进海风，汤就会咕嘟咕嘟冒银泡。圆芽舀了三勺月光，拌了两下海风。爷爷说：“最后放一点点盐，就好啦。”她抱来了盐罐。",
+      "image": "/library/stories/expansion-0376/v1/p02.webp",
+      "start": 20.102,
+      "end": 40.252
+    },
+    {
+      "id": "p03",
+      "text": "一点点，是多大一点呢？圆芽先盛了满满一汤勺盐。看看小锅，她又把盐倒回罐里。这一勺像座白沙山，似乎太多了。她换成半勺，歪着脑袋看，还是拿不准。",
+      "image": "/library/stories/expansion-0376/v1/p03.webp",
+      "start": 40.252,
+      "end": 60.018
+    },
+    {
+      "id": "p04",
+      "text": "圆芽把半勺盐倒回罐里，放下汤勺：“爷爷，我不知道一点点是多少。你做给我看看吧。”爷爷伸出两根大手指，比出一道缝。哎呀，那道缝比圆芽的整只鳍掌还宽！她把眼睛睁得圆圆的。",
+      "image": "/library/stories/expansion-0376/v1/p04.webp",
+      "start": 60.018,
+      "end": 82.304
+    },
+    {
+      "id": "p05",
+      "text": "爷爷看看自己的手，又看看小锅：“我平常用大锅。这么小的锅，我也说不准。”圆芽摸摸白帽子，找到一把小勺：“那就先放很少很少，尝过了再添，好不好？”",
+      "image": "/library/stories/expansion-0376/v1/p05.webp",
+      "start": 82.304,
+      "end": 100.318
+    },
+    {
+      "id": "p06",
+      "text": "圆芽只用小勺尖盛了一点盐，撒进锅里，搅呀搅。爷爷尝了一口：“还可以添些。”她又放一点，搅匀，再请爷爷尝。海风吹过锅沿，银泡轻轻碰着勺背，噗，噗。",
+      "image": "/library/stories/expansion-0376/v1/p06.webp",
+      "start": 100.318,
+      "end": 120.18
+    },
+    {
+      "id": "p07",
+      "text": "这回，爷爷闭上眼睛，慢慢咽下去：“嗯，正好！”圆芽立刻盖好盐罐。她给爷爷盛了一大碗，给自己盛了一小碗。锅里的银泡少了，两个碗里却都亮起了圆圆的月亮。",
+      "image": "/library/stories/expansion-0376/v1/p07.webp",
+      "start": 120.18,
+      "end": 140.042
+    },
+    {
+      "id": "p08",
+      "text": "一大一小两位朋友，坐在棚下喝汤。爷爷用宽宽的背挡住风，圆芽的白帽子稳稳当当。喝到最后，一个银泡落在帽尖上。她没有发现，顶着那一点亮光，又暖暖地打了个嗝。",
+      "image": "/library/stories/expansion-0376/v1/p08.webp",
+      "start": 140.042,
+      "end": 160.258
+    }
+  ],
+  "buildHash": "72ea27be9c4d00ee5332de81fb3528c5c0ba233dc35e512368ac53dd3b1b09d1"
+}

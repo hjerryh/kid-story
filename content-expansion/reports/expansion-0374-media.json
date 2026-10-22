@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0374",
+  "title": "点点这一圈慢慢转",
+  "version": 1,
+  "bodyCharacters": 518,
+  "pages": 8,
+  "duration": 164.962,
+  "bodySha256": "60adb3f0f90341b149903e4618898f19ea6f6bb1198f89e493491464ac359378",
+  "audioSha256": "8ba5c8454dec1a66a7214daaed634c0eb6de83c1d0be55e48d378341dea65fa9",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "7a2b3776678b843b222fb2080697cb816f7b69c821621afe9661dfa4985521eb",
+      "bytes": 18522
+    },
+    {
+      "name": "p01",
+      "sha256": "6b279c09449b3e0a1d52ee94ab3f606bff08a48a6410a5abfaf483a0e52227ff",
+      "bytes": 16734
+    },
+    {
+      "name": "p02",
+      "sha256": "eae9f5154424302e0b3d894d77326461be81483bf12d5e249deb9d14230e6069",
+      "bytes": 18010
+    },
+    {
+      "name": "p03",
+      "sha256": "6839380330ce629d47e68478968388afb3c1f6fc563146b09a223e56da4657bc",
+      "bytes": 16844
+    },
+    {
+      "name": "p04",
+      "sha256": "bc55536de86c002d8f8382b47b3462a92dbbc72531815e13c546868d75276a1d",
+      "bytes": 16990
+    },
+    {
+      "name": "p05",
+      "sha256": "0285023bf4af86a22a2ed1257ff6c2234bc333f306dce65e470708ff83411c94",
+      "bytes": 16688
+    },
+    {
+      "name": "p06",
+      "sha256": "46c76d9d2c8a3dd673dc345d46555f3083da1e0efcde7aa9ebacb9658055d41f",
+      "bytes": 15832
+    },
+    {
+      "name": "p07",
+      "sha256": "5cd7ceb8dbd5184de6c47cc97d3eea54be5c017766115f74aa423f285a4229f0",
+      "bytes": 16304
+    },
+    {
+      "name": "p08",
+      "sha256": "d9e1d9c3838b0786892029fa444145d2429e35e224a888d7a1afa64901d26428",
+      "bytes": 16106
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0364",
+  "version": 1,
+  "status": "media-ready",
+  "title": "挥挥手怎么还不走",
+  "subtitle": "口袋里的再见",
+  "description": "穗团到云朵车站送小鸭去看海，可她越用力挥手，棉花列车越是不肯走。原来，同一个动作，在她和列车眼里有着不同的意思。",
+  "ageBand": "3-5",
+  "theme": "告别的误会",
+  "color": "#A9D8E8",
+  "character": "小鼠穗团：浅灰毛，圆耳朵，穿湖蓝色外套，有两个大口袋。小鸭团黄：淡黄羽毛，橙色嘴脚，穿绿色背心，背紫色小布包。棉花列车：白色云絮车身，圆圆的蓝鼻头，两盏眼睛般的车灯，能说话。",
+  "cover": "/library/stories/expansion-0364/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 165.682,
+  "detailUrl": "/library/stories/expansion-0364/v1/story.json",
+  "audio": "/library/stories/expansion-0364/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "云朵车站来了棉花列车，圆鼻头呼出一小团白雾。小鼠穗团送小鸭团黄去海边。她想站在这里，好好挥手告别，再看着朋友出发。团黄背着紫色小包，登上了车。",
+      "image": "/library/stories/expansion-0364/v1/p01.webp",
+      "start": 0,
+      "end": 19.934
+    },
+    {
+      "id": "p02",
+      "text": "团黄坐到窗边，向穗团笑。穗团站在黄色地砖后面，举起手，摇呀摇。列车刚合上门，又轻轻打开了。穗团想，它一定还没有准备好。她便继续挥手，手心迎着暖暖的风。",
+      "image": "/library/stories/expansion-0364/v1/p02.webp",
+      "start": 19.934,
+      "end": 42.004
+    },
+    {
+      "id": "p03",
+      "text": "过了一会儿，车子还停着。是不是团黄看不清呢？穗团把手举过头顶，左右摇得更大了。团黄也挥起翅膀。列车眨眨圆眼睛，把门开得更宽，像在等什么重要的客人。",
+      "image": "/library/stories/expansion-0364/v1/p03.webp",
+      "start": 42.004,
+      "end": 61.914
+    },
+    {
+      "id": "p04",
+      "text": "穗团的胳膊酸了。她放下手，揉揉肩膀。咔嗒，车门合上，车轮慢慢转起来。呀，要走啦！她赶紧又挥手。车轮立刻停了，车门再次打开。穗团歪着头，看看自己的手掌。",
+      "image": "/library/stories/expansion-0364/v1/p04.webp",
+      "start": 61.914,
+      "end": 84.656
+    },
+    {
+      "id": "p05",
+      "text": "这回，穗团没有再摇手。她问：“列车，你是在等我吗？”“对呀！”列车说，“站台上的客人朝我挥手，我就停下，让他上车。你的手挥了那么久，我当然要等你呀。”",
+      "image": "/library/stories/expansion-0364/v1/p05.webp",
+      "start": 84.656,
+      "end": 104.182
+    },
+    {
+      "id": "p06",
+      "text": "穗团睁圆了眼睛：“我不上车。我挥手，是跟团黄说再见。他要去看海，我想送送他。”“哦，原来你在对他说话！”列车笑了，蓝鼻头一抖，喷出一朵小小的棉花云。",
+      "image": "/library/stories/expansion-0364/v1/p06.webp",
+      "start": 104.182,
+      "end": 124.02
+    },
+    {
+      "id": "p07",
+      "text": "穗团把两只手放进口袋，朝车窗喊：“团黄，再见！回来讲海浪给我听！”“好呀，还讲沙子怎么挠脚！”团黄说。列车这次听明白了，合好车门，沿着软白的云朵轨道出发。",
+      "image": "/library/stories/expansion-0364/v1/p07.webp",
+      "start": 124.02,
+      "end": 145.058
+    },
+    {
+      "id": "p08",
+      "text": "车窗越变越小，团黄的黄脑袋也变成了小圆点。穗团的手指在口袋里轻轻动了动。这是藏在口袋里的再见，列车看不见，也就不用停啦。她笑着转身，两个口袋都暖乎乎的。",
+      "image": "/library/stories/expansion-0364/v1/p08.webp",
+      "start": 145.058,
+      "end": 165.682
+    }
+  ],
+  "buildHash": "fc5975b9f6834ac21af1a63f713a697a53ff825d83365515f42f5bba4f422987"
+}

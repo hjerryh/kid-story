@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0364",
+  "title": "挥挥手怎么还不走",
+  "version": 1,
+  "bodyCharacters": 499,
+  "pages": 8,
+  "duration": 165.682,
+  "bodySha256": "23b5687bd59789e41c1e3b02bec9cd93c7c7c0c795e968e439526e50217345ae",
+  "audioSha256": "34e49b5d88dade45bd76297057602e6dd483386b2f421d6cb54083e341acb26e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "86be1aa17d6e9b7f043ed7e940e74a26e9e31ec3c1be23dd9085f92de8ff64c4",
+      "bytes": 16632
+    },
+    {
+      "name": "p01",
+      "sha256": "d0cc65b012dbe08ebd8e391626fa511cba16d6a2a1fbc9299a342688c3607f99",
+      "bytes": 14588
+    },
+    {
+      "name": "p02",
+      "sha256": "66a974dd57387917be18daaac1d47afbf0fbc93cb5d019826563c086b1b4c2a8",
+      "bytes": 13972
+    },
+    {
+      "name": "p03",
+      "sha256": "b51aa1daf0420d501dc232ac23d3227bd1e95e53e64bf12c5f8dd32c1ab22324",
+      "bytes": 14114
+    },
+    {
+      "name": "p04",
+      "sha256": "63723c5240712ff6dc331338435fc9d13e3da8e60e3cc4b6417ff7e9b85bb8de",
+      "bytes": 13950
+    },
+    {
+      "name": "p05",
+      "sha256": "f46f0fa2dc1cc8b4eb12a3717d51961d68ba33dfa3a22eb1e1877473f52a8f03",
+      "bytes": 14136
+    },
+    {
+      "name": "p06",
+      "sha256": "359cf70bd78482d9cc3d335ef5d8e64417fbb1552a37b157fef286c4ba5f0d78",
+      "bytes": 14212
+    },
+    {
+      "name": "p07",
+      "sha256": "1082e0f8a1dcdc390c6537f731f6910d291630d5e5915d73877b445406fcafc2",
+      "bytes": 14738
+    },
+    {
+      "name": "p08",
+      "sha256": "8c6118abda51761938dbca7edda471070bdab89251b7857468ce133c72c7b82a",
+      "bytes": 10882
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

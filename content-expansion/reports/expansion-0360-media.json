@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0360",
+  "title": "长藤桥记错了一场雪",
+  "version": 1,
+  "bodyCharacters": 1407,
+  "pages": 16,
+  "duration": 439.634,
+  "bodySha256": "ee9fdb3f6f91f2137f6a1852d6095df9f2facdb5c4a861a6c52c622272bff8f4",
+  "audioSha256": "1bb6cbc563be0c54759f732f042301a26068a5a8f1e98731d475ccea2d768206",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8aa9c0ecf279896a1db847aca3b4c2ac4de4865e032fefa7948f064c71e1ad2a",
+      "bytes": 33194
+    },
+    {
+      "name": "p01",
+      "sha256": "6ca837d0a7f4c25e2d42fce17991966d310d4df86ae00997fe8005799f2385ac",
+      "bytes": 19418
+    },
+    {
+      "name": "p02",
+      "sha256": "42e348192e3a03baff06db8479b2c65a76ff7f921a6f7be02a7baeb3a1dea96b",
+      "bytes": 19690
+    },
+    {
+      "name": "p03",
+      "sha256": "386ee39ee8e128ca8fd407fb6e3ad8f3b50a07097e026bdb0b4248034e235ad2",
+      "bytes": 21768
+    },
+    {
+      "name": "p04",
+      "sha256": "8f116f3ffb039b051cd697bbdbbdf9681942a02ec2c8c1b0f701f5dfe5b9e4fc",
+      "bytes": 21620
+    },
+    {
+      "name": "p05",
+      "sha256": "29b4ccae6e1ce3f560b0c2fdd7a1cd6d25cc6068977a4c98cee10403b269a2ae",
+      "bytes": 26564
+    },
+    {
+      "name": "p06",
+      "sha256": "137d86008a3b80c84465b2d5e7d4ce81244f350fa40fe32c42e06b81387aa843",
+      "bytes": 25476
+    },
+    {
+      "name": "p07",
+      "sha256": "6fc1783c6bc44e25c74812ba700e29756cacb945910f7bcffa264e570ac22d1f",
+      "bytes": 22716
+    },
+    {
+      "name": "p08",
+      "sha256": "8bca0cf38b63e6af6fbcbb3be438d998f940fec043a599caf58c13213fdee76e",
+      "bytes": 22924
+    },
+    {
+      "name": "p09",
+      "sha256": "9bb36e27a889be2fb65cf3547af624b46b9e09d0e9d35a7b7b054828217dd61a",
+      "bytes": 23378
+    },
+    {
+      "name": "p10",
+      "sha256": "a88635c1e9fa94e9905929ac47fb1920a23a33d48d6fff69347f16938dad50e8",
+      "bytes": 23586
+    },
+    {
+      "name": "p11",
+      "sha256": "c34af651ae1e3ac7da2e8f2f5439d0b0ab1f195316e4e5a25c240d78aedd0f60",
+      "bytes": 23510
+    },
+    {
+      "name": "p12",
+      "sha256": "25e5e3fc7e93be085b7a827a377cf6981c9a17f795a9a6b8ccaabcbd1c900d33",
+      "bytes": 20472
+    },
+    {
+      "name": "p13",
+      "sha256": "db3bcef770a978d8b79671c18e9c70470157010592f9629cf760e8eecb253da2",
+      "bytes": 23266
+    },
+    {
+      "name": "p14",
+      "sha256": "ddd0707c2e980f7c889eb498c05038b9fd3bc9b964c8c75c9eeb7dfd9baa65b8",
+      "bytes": 29408
+    },
+    {
+      "name": "p15",
+      "sha256": "65bcc76addb2a8bed6174a70c44a7e757f4c25dd996458a03d3bab52203d525f",
+      "bytes": 22792
+    },
+    {
+      "name": "p16",
+      "sha256": "51d7380736f5d9b7a74e26b1fcd75855444cac562e27c12297c499ee4a9e8ed7",
+      "bytes": 23590
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

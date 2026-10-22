@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0366",
+  "title": "花束里藏着小弯钩",
+  "version": 1,
+  "bodyCharacters": 479,
+  "pages": 8,
+  "duration": 155.674,
+  "bodySha256": "4141bce92f09a68a865361f0819054ca6bed7fe5758ccefca0704d4500e1000e",
+  "audioSha256": "98f73c867e0d9d80108b10ec6f84aaa8640f9d8c5ddc83486cf71d194a3ed07b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8aa44a7c1475d71d1633fe500e563f4791c1db78852bedfbb8e971822d98db7e",
+      "bytes": 12674
+    },
+    {
+      "name": "p01",
+      "sha256": "1384b6695e25464c9aa773a4d16eb5fa6168042f20d756f06ebbef0cbb188cc3",
+      "bytes": 9672
+    },
+    {
+      "name": "p02",
+      "sha256": "282210d4874988bc94114604d485b9f84f15e06f4e96e598941cb5b62cc4cbbe",
+      "bytes": 10678
+    },
+    {
+      "name": "p03",
+      "sha256": "91e996577adc28e457b071b2dc76792c787a6ab30bb27ccf00a1ecc5edf6fb33",
+      "bytes": 11116
+    },
+    {
+      "name": "p04",
+      "sha256": "c33db85e5725b08a04b83e153c13e0039e97c526846e3ca8061f0c5cff45ffb2",
+      "bytes": 9208
+    },
+    {
+      "name": "p05",
+      "sha256": "ffbe981e40525791c0cb59a449770f606732e958c251aa1d50ec68fdde52b3e1",
+      "bytes": 10740
+    },
+    {
+      "name": "p06",
+      "sha256": "16bd5a60ec6135b79dfb52a8b4ba3946056b076516af6825a32d93a42288a978",
+      "bytes": 10434
+    },
+    {
+      "name": "p07",
+      "sha256": "4c17c2bea40566aa65e7fde072681599c273c4fb240ead617c338f7d75c3b033",
+      "bytes": 10212
+    },
+    {
+      "name": "p08",
+      "sha256": "7abf40fdf54c186d5312a12032e26fe341fd06d159613548e9473ca8704ae4c4",
+      "bytes": 8962
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

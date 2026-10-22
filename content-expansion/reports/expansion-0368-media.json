@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0368",
+  "title": "软斑还在篮子里",
+  "version": 1,
+  "bodyCharacters": 525,
+  "pages": 8,
+  "duration": 169.426,
+  "bodySha256": "99a297d9b4e35c0b20fdcf54451525cab9c0171007d4050eeefbf84b4bbc6b2d",
+  "audioSha256": "6aff2c0a509c1beb217fafc858e5838fb47c735ef2a4e4508081d15ad1557cbc",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "dc55cf7ba70a120a2d1ecdaeb08378388d645e0be1b62ac12aee8658da9ebf58",
+      "bytes": 19462
+    },
+    {
+      "name": "p01",
+      "sha256": "8e65e004a76b85de88d3544a034fd3c700c96a69269c2994f12c8fed46e4dabf",
+      "bytes": 16070
+    },
+    {
+      "name": "p02",
+      "sha256": "1e5bdce74e3f295986db2a6f4c6926aefaa2384fc5ff00738207b3b80fe659b8",
+      "bytes": 16876
+    },
+    {
+      "name": "p03",
+      "sha256": "32f68cd06725798cec144934f6821569d42779a107bc1f596e631a77a33aa795",
+      "bytes": 17012
+    },
+    {
+      "name": "p04",
+      "sha256": "303057ee4cdf8be37e3e7833ff9926712fb94928c0d441d26cdf18763011ebcf",
+      "bytes": 17198
+    },
+    {
+      "name": "p05",
+      "sha256": "0c47be8020f78c727061ff04272cd9c9cc6a18239681534a9a0f201a6403f993",
+      "bytes": 17034
+    },
+    {
+      "name": "p06",
+      "sha256": "cde2c57bb97a5d7793c0375380ae857c0321c46d6fda7dcc0aa79e7b1ededf0a",
+      "bytes": 17238
+    },
+    {
+      "name": "p07",
+      "sha256": "26acdd712f9b25e5a22d019c8af0bc82bd11ac7469ad029e03542f9a24a124ba",
+      "bytes": 17524
+    },
+    {
+      "name": "p08",
+      "sha256": "3f8e8ec9f9f2f7820d6a102c627a847539d9637f19a64ba87dc3747957888e69",
+      "bytes": 16544
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0367",
+  "version": 1,
+  "status": "media-ready",
+  "title": "嫩梢脱下了旧风筝线",
+  "subtitle": "给嫩叶松松绑",
+  "description": "藤蔓天桥的一根嫩梢被旧风筝线缠住了。小睡鼠蓬耳想帮它舒展开叶子，可一拉线，嫩梢反而低下了头。那根绕来绕去的长线，要从哪里开始解呢？",
+  "ageBand": "3-5",
+  "theme": "爱护新芽",
+  "color": "#72A887",
+  "character": "小睡鼠蓬耳：浅棕色绒毛，圆耳朵，奶白色肚皮，穿湖蓝色短背心，腰间挂一个小布袋。藤蔓天桥：粗藤编成桥身，两侧有密密的藤栏杆，嫩梢能轻声说话。",
+  "cover": "/library/stories/expansion-0367/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 161.266,
+  "detailUrl": "/library/stories/expansion-0367/v1/story.json",
+  "audio": "/library/stories/expansion-0367/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "清早，小睡鼠蓬耳在藤蔓天桥上擦露水。擦到桥中央，他听见细细的一声：“我的叶子伸不开啦。”栏杆上，一根嫩梢弯着腰，两片小叶子卷在一起，像没打开的小信封。",
+      "image": "/library/stories/expansion-0367/v1/p01.webp",
+      "start": 0,
+      "end": 20.222
+    },
+    {
+      "id": "p02",
+      "text": "蓬耳凑近看，一根旧风筝线绕住了嫩梢，还绕着旁边的桥柱。“我帮你脱掉它。”他说。嫩梢轻轻晃了一下：“慢一点呀，我顶上的小叶子，才刚刚长出来呢。”",
+      "image": "/library/stories/expansion-0367/v1/p02.webp",
+      "start": 20.222,
+      "end": 38.836
+    },
+    {
+      "id": "p03",
+      "text": "蓬耳捏住一段线，轻轻拉了拉。线没有下来，嫩梢却跟着低了头。“哎哟，有点紧。”蓬耳立刻松手。他把线托在手心里，不再往外扯，心想：它究竟从哪里开始绕的呢？",
+      "image": "/library/stories/expansion-0367/v1/p03.webp",
+      "start": 38.836,
+      "end": 59.658
+    },
+    {
+      "id": "p04",
+      "text": "他沿着那根线，一点一点找过去。线从嫩叶下面穿过，又绕到桥柱后面。蓬耳蹲下来，终于看见一个小小的活结。短线头垂在那里，灰扑扑的，刚才藏在柱子的影子里。",
+      "image": "/library/stories/expansion-0367/v1/p04.webp",
+      "start": 59.658,
+      "end": 79.856
+    },
+    {
+      "id": "p05",
+      "text": "蓬耳轻轻抽开活结，线一下松了。他没有急着拉走，而是让线沿着来时的路，一圈一圈退回去。退过桥柱，长线落在脚边。他赶紧把它拢起来，免得又缠住别的嫩芽。",
+      "image": "/library/stories/expansion-0367/v1/p05.webp",
+      "start": 79.856,
+      "end": 99.622
+    },
+    {
+      "id": "p06",
+      "text": "只剩嫩梢上的最后一圈了。蓬耳把线圈放大，慢慢移过卷着的小叶尖。嫩梢忽然摇了摇，他就停一停，等风过去再接着做。终于，整根线都下来了，被他收进了小布袋。",
+      "image": "/library/stories/expansion-0367/v1/p06.webp",
+      "start": 99.622,
+      "end": 119.436
+    },
+    {
+      "id": "p07",
+      "text": "“现在可以打开了吗？”蓬耳问。嫩梢舒舒服服地抬起头：“还要慢慢长呢。”蓬耳坐在旁边等了一小会儿，小叶子还是卷着。他笑了：“那我过几天，再来看你的新叶子。”",
+      "image": "/library/stories/expansion-0367/v1/p07.webp",
+      "start": 119.436,
+      "end": 138.914
+    },
+    {
+      "id": "p08",
+      "text": "几天后，蓬耳又来擦露水。栏杆上多了两片亮亮的新叶，风一吹，就轻轻碰在一起。“早呀！”嫩梢说。蓬耳伸出手，两片小叶子的影子落在手背上，像给他盖了一床薄薄的绿被子。",
+      "image": "/library/stories/expansion-0367/v1/p08.webp",
+      "start": 138.914,
+      "end": 161.266
+    }
+  ],
+  "buildHash": "519cfb6244ea4778dd426b3b9b1a5fa9dfe091a922a40cdc349733ead28d553c"
+}

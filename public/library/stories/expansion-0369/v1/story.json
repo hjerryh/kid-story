@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0369",
+  "version": 1,
+  "status": "media-ready",
+  "title": "大刷子和小篮口",
+  "subtitle": "六只竹篮洗个澡",
+  "description": "橘子温室里的六只竹篮等着洗澡。小熊和小鼠各领三只，却发现一样的数目做起来很不一样。她们得重新商量，怎样让竹篮们舒舒服服地洗干净。",
+  "ageBand": "3-5",
+  "theme": "商量分工",
+  "color": "#EDA64B",
+  "character": "绒芹：棕色绒毛的小熊，圆耳朵，穿蓝色背带裤。米粒：灰毛小鼠，粉色圆耳朵，穿紫色短外套。六只竹篮都有两颗黑豆似的眼睛，三只大、三只小。",
+  "cover": "/library/stories/expansion-0369/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 162.61,
+  "detailUrl": "/library/stories/expansion-0369/v1/story.json",
+  "audio": "/library/stories/expansion-0369/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "橘子温室里，六只竹篮排着队，等着装甜橘子。它们有的大，有的小，肚子里都落了灰。小熊绒芹和小鼠米粒搬来清水。竹篮眨眨眼睛说：“先给我们洗个澡吧！”",
+      "image": "/library/stories/expansion-0369/v1/p01.webp",
+      "start": 0,
+      "end": 19.382
+    },
+    {
+      "id": "p02",
+      "text": "“你一只，我一只。”绒芹把篮子轮着分。米粒得到一只大篮、两只小篮；绒芹得到两只大篮、一只小篮。“都是三只！”米粒点点头，抱着自己的小刷子，先去洗那只大篮。",
+      "image": "/library/stories/expansion-0369/v1/p02.webp",
+      "start": 19.382,
+      "end": 40.372
+    },
+    {
+      "id": "p03",
+      "text": "米粒刷呀刷，大篮子的肚子太深了。她伸长胳膊，只刷到半腰。“下面还痒呢！”大篮说。米粒把它轻轻放倒，再往里面伸刷子，可最远的角落，仍旧灰扑扑的。",
+      "image": "/library/stories/expansion-0369/v1/p03.webp",
+      "start": 40.372,
+      "end": 60.138
+    },
+    {
+      "id": "p04",
+      "text": "另一边，绒芹也停下了。她的宽刷子进不了小篮口。“斜着试试。”她转了转刷子，小篮却被挤得歪了歪。“哎呀，我的肚子还没洗，眼睛先碰到刷毛啦！”小篮叫起来。",
+      "image": "/library/stories/expansion-0369/v1/p04.webp",
+      "start": 60.138,
+      "end": 80.792
+    },
+    {
+      "id": "p05",
+      "text": "米粒放下刷子：“我的三只，要洗好久。我够不到大篮底。”绒芹把小篮举给她看：“我的三只也不好洗。”两人看看篮口，又看看刷子。米粒的小刷子，正好能伸进小篮里。",
+      "image": "/library/stories/expansion-0369/v1/p05.webp",
+      "start": 80.792,
+      "end": 100.942
+    },
+    {
+      "id": "p06",
+      "text": "“我把小篮给你，你把大篮给我，好吗？”绒芹问。米粒摸摸小篮：“好呀。可大篮要多刷好多地方呢。”“我胳膊长，刷子也宽，洗它们很顺手。”绒芹说。她们换好了篮子。",
+      "image": "/library/stories/expansion-0369/v1/p06.webp",
+      "start": 100.942,
+      "end": 122.1
+    },
+    {
+      "id": "p07",
+      "text": "这回，米粒把小篮缝里的灰一点点刷出来。绒芹的大刷子一推，就刷到了大篮底。六只篮子被刷得咯咯笑。她们换上清水，把篮子冲干净，再倒扣在架上，让水滴慢慢落下来。",
+      "image": "/library/stories/expansion-0369/v1/p07.webp",
+      "start": 122.1,
+      "end": 143.402
+    },
+    {
+      "id": "p08",
+      "text": "篮子晾干以后，三只大的挨着绒芹，三只小的挨着米粒，围成一个弯弯的笑。温室里飘来橘子香。“肚子洗好了，”最小的篮子轻声说，“现在，可以请甜橘子坐进来啦。”",
+      "image": "/library/stories/expansion-0369/v1/p08.webp",
+      "start": 143.402,
+      "end": 162.61
+    }
+  ],
+  "buildHash": "3e6cc5b78ad2733642bd88d0a80630d935bb32e9ef5415ea6884af9ebe9706e9"
+}

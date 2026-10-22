@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0357",
+  "title": "袋鳍这次不装行李",
+  "version": 1,
+  "bodyCharacters": 1421,
+  "pages": 16,
+  "duration": 445.01,
+  "bodySha256": "e9f338d608b80f08745984255f787868b997529353cc3cf1cd3bb126de3dc894",
+  "audioSha256": "9d3a854cdbbfdbf533ee7c7d6b326ce2d0e39016b7d42fcaf7fe436c7224cd64",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0433724f103bcc71d046e664d0ff4fc709a4a2dd68e53f5accce19a77becdce0",
+      "bytes": 16844
+    },
+    {
+      "name": "p01",
+      "sha256": "761ea617709f432c07ae251991b5891096c174b4ea5c10a4aa7d0c4c8f535d9c",
+      "bytes": 9836
+    },
+    {
+      "name": "p02",
+      "sha256": "fde1ab744ab65ec6baa41541729ff9f89472153a7ba43fa2701a23dcb4808218",
+      "bytes": 12432
+    },
+    {
+      "name": "p03",
+      "sha256": "00eaa0d66f0e4059a18b48a2bf2722d704ae416365874cb1e788d68e32ac044c",
+      "bytes": 12118
+    },
+    {
+      "name": "p04",
+      "sha256": "34e35377b69c3ad44bc9510bd3ca77b988573d5681a1386ef72ab4122eeb85cf",
+      "bytes": 11534
+    },
+    {
+      "name": "p05",
+      "sha256": "f939135bc41eac69b546774587abd765a462e95f91f74311d344142743f0cb03",
+      "bytes": 12232
+    },
+    {
+      "name": "p06",
+      "sha256": "1ba20592c1eb7a3e4f631c7c9d94969e70f25d8db6479f5618e3582364b84e3f",
+      "bytes": 13172
+    },
+    {
+      "name": "p07",
+      "sha256": "1fac09f1dcf7a6277a0e283ae4e1bca5b5849862a27de5a0ab7e20c8f50db0e1",
+      "bytes": 12396
+    },
+    {
+      "name": "p08",
+      "sha256": "54a5e47877055c45012775e780f58acec373c0045d032e2f21a7234be75d7319",
+      "bytes": 14440
+    },
+    {
+      "name": "p09",
+      "sha256": "16010bca6468ee3123e82fcb08162f3fde6b570ae9c24c79018b1b1956921424",
+      "bytes": 13996
+    },
+    {
+      "name": "p10",
+      "sha256": "a9c93c3d8e6994957f17fe2dbcf78ef1e2a410beaa5f9a4b46deb5fc97160736",
+      "bytes": 14278
+    },
+    {
+      "name": "p11",
+      "sha256": "0fb33a36b0c8c27cef99e6412fb07556849a64f5c529a70b87a56ccdd03a1728",
+      "bytes": 13896
+    },
+    {
+      "name": "p12",
+      "sha256": "830226497a95d7d15c97f5dc719ba510f3020ca0553165636df13c09f5f6ea3f",
+      "bytes": 13870
+    },
+    {
+      "name": "p13",
+      "sha256": "7db71a80170eb7109f5a87dff753f5fc603c7bbfaa5f1a024763ebd76a461478",
+      "bytes": 15606
+    },
+    {
+      "name": "p14",
+      "sha256": "d481901ac5e56c59a2e3259cd2aff4af0601b5ff7abe54c5459d616fafe11fec",
+      "bytes": 16076
+    },
+    {
+      "name": "p15",
+      "sha256": "62bab19629d2588c8ff03b8e52d334747f23e9dd73c913aa56bd8fb9f2331b06",
+      "bytes": 14476
+    },
+    {
+      "name": "p16",
+      "sha256": "796eaaa015ad0961ac2c2242dfeb478e5df2d6abd546e6a5097d0b801ca04060",
+      "bytes": 11372
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

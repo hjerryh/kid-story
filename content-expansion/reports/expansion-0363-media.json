@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0363",
+  "title": "白卷卷睡进了篮子",
+  "version": 1,
+  "bodyCharacters": 475,
+  "pages": 8,
+  "duration": 155.89,
+  "bodySha256": "b9e611f73aefd3566a7f644d74dea1d11602d98c8331823e655a16a8b541e0ba",
+  "audioSha256": "8fa5db2f120a7b047ea82bade0db2e4422fc0501f9864d810a4235916d9a32fd",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9882c319a6e31024c9c01583edcb321ec17cb145fa36baeb2b4d3b64410dac49",
+      "bytes": 16364
+    },
+    {
+      "name": "p01",
+      "sha256": "2dfceec6f66e9d8d305df2fdba5d3f37b92c9a0033a809d27dc5e980c5108751",
+      "bytes": 14996
+    },
+    {
+      "name": "p02",
+      "sha256": "93a074b0fdd035b7892d37620bb35d9f78d8d337901f2afb4f270bf0a0bf5d2f",
+      "bytes": 13940
+    },
+    {
+      "name": "p03",
+      "sha256": "d3f69872e95a602343c195b189226ca679a2fc33af74036decb789f818ab2358",
+      "bytes": 14526
+    },
+    {
+      "name": "p04",
+      "sha256": "2257024e2a18a969e98ed119182e252151691886cd0aaffbac4fd6af13e05219",
+      "bytes": 14454
+    },
+    {
+      "name": "p05",
+      "sha256": "184a3ae31e0fee40f1db9c6107f82eac294471d55c86c8288a3149c71c8e8a97",
+      "bytes": 14306
+    },
+    {
+      "name": "p06",
+      "sha256": "cb894cc9d7d7cd4742609c91e6f83e52cafb87794c88aabe100b7d7601670560",
+      "bytes": 14174
+    },
+    {
+      "name": "p07",
+      "sha256": "8df2efb38ad77bda339afff2db87bea0c23ff5c261bac50a8c1c7d8cc9215722",
+      "bytes": 14180
+    },
+    {
+      "name": "p08",
+      "sha256": "228a3d5e273e4809989ced692bdcff0273fe40a3fdac274eb0aeaf84ecddc654",
+      "bytes": 14410
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

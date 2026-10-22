@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0372",
+  "version": 1,
+  "status": "media-ready",
+  "title": "绸绸跳出两个圈",
+  "subtitle": "一个圈里的新舞步",
+  "description": "杏弥想给屋顶花园里的绸带朋友编一支舞，可绸带两头一分开，就软软地躺下了。一个圆圈里面，还能藏着什么新舞步？",
+  "ageBand": "3-5",
+  "theme": "创意舞蹈",
+  "color": "#C77899",
+  "character": "小女孩杏弥：黑色齐耳短发，穿淡紫色连衣裙和白色软鞋。绸绸：一条玫红色宽绸带，两端各有一只圆眼睛，没有手脚。",
+  "cover": "/library/stories/expansion-0372/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 151.33,
+  "detailUrl": "/library/stories/expansion-0372/v1/story.json",
+  "audio": "/library/stories/expansion-0372/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "屋顶花园里，杏弥有一位绸带朋友，叫绸绸。她两头各长一只眼睛，只有两头碰在一起，才会自己动。今天，杏弥铺好圆地毯，想给她编一支新鲜的舞。",
+      "image": "/library/stories/expansion-0372/v1/p01.webp",
+      "start": 0,
+      "end": 18.302
+    },
+    {
+      "id": "p02",
+      "text": "绸绸把两头贴紧，变成一个圆圈，咕噜噜滚过地毯。杏弥拍着手说：“再来一个花样！”绸绸又滚回来。“我只会这一种呀。”她停下来，两只眼睛挤在一起。",
+      "image": "/library/stories/expansion-0372/v1/p02.webp",
+      "start": 18.302,
+      "end": 37.3
+    },
+    {
+      "id": "p03",
+      "text": "杏弥把绸绸摆成弯弯的波浪，想让她扭一扭。可是，两头分开了。杏弥一松手，波浪就软软地躺下。“这样我动不了。”绸绸说。杏弥赶紧让她的两头碰回来。",
+      "image": "/library/stories/expansion-0372/v1/p03.webp",
+      "start": 37.3,
+      "end": 57.69
+    },
+    {
+      "id": "p04",
+      "text": "这回，杏弥没分开绸绸的两头，只把圆圈轻轻按长。绸绸晃了晃，又滚起来，还是原来的舞。杏弥托着下巴想了好一会儿：“一个圈，还能变成什么呢？”",
+      "image": "/library/stories/expansion-0372/v1/p04.webp",
+      "start": 57.69,
+      "end": 75.32
+    },
+    {
+      "id": "p05",
+      "text": "一只蝴蝶落到花边，翅膀一开一合。杏弥隔着绸绸的圆圈看它，忽然笑了：“蝴蝶有两边翅膀。绸绸，你愿不愿意试试，让一个大圈变成两个小圈？”",
+      "image": "/library/stories/expansion-0372/v1/p05.webp",
+      "start": 75.32,
+      "end": 93.31
+    },
+    {
+      "id": "p06",
+      "text": "“愿意！”绸绸说。杏弥让她躺平，把圈的中间轻轻交叠，摆成一个胖胖的八字。她仔细看了看，绸绸的两头还碰在一起，两只圆眼睛也都露在外面。",
+      "image": "/library/stories/expansion-0372/v1/p06.webp",
+      "start": 93.31,
+      "end": 112.02
+    },
+    {
+      "id": "p07",
+      "text": "杏弥松开手。左边的小圈抬起来，右边的小圈落下去；右边抬起来，左边又落下去。绸绸扑扇着两边，真的像只蝴蝶！“我会新舞啦！”她笑得浑身亮闪闪。",
+      "image": "/library/stories/expansion-0372/v1/p07.webp",
+      "start": 112.02,
+      "end": 131.378
+    },
+    {
+      "id": "p08",
+      "text": "杏弥跟着拍了两下手，又把声音放轻。绸绸也慢慢地摇，绸面擦过地毯，沙沙，沙沙。那只蝴蝶停在花上，翅膀合拢了。绸绸小声说：“它坐下来，看我的舞呢。”",
+      "image": "/library/stories/expansion-0372/v1/p08.webp",
+      "start": 131.378,
+      "end": 151.33
+    }
+  ],
+  "buildHash": "7e09e3203de214a4f2fdca09edbd38d5a6cbda5a544bebe70d4495b41910fe09"
+}

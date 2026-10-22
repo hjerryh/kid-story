@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0367",
+  "title": "嫩梢脱下了旧风筝线",
+  "version": 1,
+  "bodyCharacters": 508,
+  "pages": 8,
+  "duration": 161.266,
+  "bodySha256": "1aa9b5437d3fc7324ef634835f29dfc95b8c23152edbfdd520ca47af16bc3f4d",
+  "audioSha256": "02d601c5b630e5a8bbe7983e5c8d6f55c108b9a85cca5a8ad766935a38e5ffc3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d03ef63dfc3207eef5724b34061a585dde5fd5c4ceb64d52c44852e056ccaabf",
+      "bytes": 23564
+    },
+    {
+      "name": "p01",
+      "sha256": "8d3e2e023e703ad9ab1867c72ea6b291da6654c0032f0b200a111f8a13afc899",
+      "bytes": 19644
+    },
+    {
+      "name": "p02",
+      "sha256": "ab05398570581ed647a4c082ac99e93bc7dc34fc1030d78f89a5ae1dba0b4b12",
+      "bytes": 19946
+    },
+    {
+      "name": "p03",
+      "sha256": "7066a770accd599462c1f09e62ff13f4dbee51b911668f6504f6252e539238b7",
+      "bytes": 20478
+    },
+    {
+      "name": "p04",
+      "sha256": "7bf619db00791818aa623cd38e429f98c8ce9eb7404cf32e625fce6de3273197",
+      "bytes": 20608
+    },
+    {
+      "name": "p05",
+      "sha256": "95c555f8daa7fb98a52762f07d7eb5bdddf1894baa3719ac044c9c949464b722",
+      "bytes": 20644
+    },
+    {
+      "name": "p06",
+      "sha256": "0fd5954fe9b2ccd102bae20067d933f5be1cca1f34b29923d44bc6a39380084b",
+      "bytes": 20076
+    },
+    {
+      "name": "p07",
+      "sha256": "23b60e726af13fc4e91e822eff8f1e190a545b2befbdd5c3ca97522a1c8f37dd",
+      "bytes": 19252
+    },
+    {
+      "name": "p08",
+      "sha256": "e79dcfe0e834ca8c91091ebe3e026b72f4e25034d0e1675c0c7ed2e372cb95b5",
+      "bytes": 20036
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

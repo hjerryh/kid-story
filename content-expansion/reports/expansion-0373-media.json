@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0373",
+  "title": "梦被下面有片海",
+  "version": 1,
+  "bodyCharacters": 493,
+  "pages": 8,
+  "duration": 158.674,
+  "bodySha256": "072c1a7750191ea5d03319b9c3d268e54c37739e11dccb263b33eb7f2ba56d55",
+  "audioSha256": "3531b4ee72d1b7dcd7a187b04ab01d063050c356e931e771b89d4b05eb82a984",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6e6d3a083c8619e1f7ed1ab56bdb0e97da2507dd379154d42a7bfb6567db38f1",
+      "bytes": 14052
+    },
+    {
+      "name": "p01",
+      "sha256": "d9919d936bd044384e890260a840a834e0ed1045eb6ae3eb97c0c1073c70cb03",
+      "bytes": 8772
+    },
+    {
+      "name": "p02",
+      "sha256": "6a903712ae2e0f10655e7c8105c83b971a03600120a3b45f8ec248b2339e56d1",
+      "bytes": 9366
+    },
+    {
+      "name": "p03",
+      "sha256": "0f6abfb708f2f726cf9bfa9f9cb090149f40257a0945b27a4ca39c8536383d3d",
+      "bytes": 7256
+    },
+    {
+      "name": "p04",
+      "sha256": "dd2f1e33d10799a3900d9cd531ba2730d800c9185211ecc037b4190f97f248c4",
+      "bytes": 13608
+    },
+    {
+      "name": "p05",
+      "sha256": "1c479adf40d1e449170511033a90b27cbf0a2800fbd38e250c43f25147d9ecac",
+      "bytes": 8466
+    },
+    {
+      "name": "p06",
+      "sha256": "a6546bc458ceec0ec2985d88b91421b35530e3744902a2dd754812a90af4b739",
+      "bytes": 9548
+    },
+    {
+      "name": "p07",
+      "sha256": "c5e94384ceb44df324a9928e67f6432691afac51920806d55e5da7ca6ea0da2c",
+      "bytes": 13342
+    },
+    {
+      "name": "p08",
+      "sha256": "1abc0fe0f9d95ab34331603251eaa4b1aab2898913f399c3d086927154363533",
+      "bytes": 13664
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

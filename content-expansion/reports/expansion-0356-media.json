@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0356",
+  "title": "十二座桥可以搬家",
+  "version": 1,
+  "bodyCharacters": 1471,
+  "pages": 16,
+  "duration": 451.13,
+  "bodySha256": "fed57ce405c3ac250c53b7ca773bc7d730a32cf4ae0be5907c9d52d7bc0b44f4",
+  "audioSha256": "4f92d60b66e62028aa885cea51ebd28f84064de114112f6abac6f2b8156c944c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d698cf530b7553b70a6af38a69b2468b3135cb792d134b58602afac8740e9038",
+      "bytes": 18504
+    },
+    {
+      "name": "p01",
+      "sha256": "282afe0133a3c7457ea2263425025c56b33e967f4e4b9213e1a1c1be5491d71a",
+      "bytes": 13376
+    },
+    {
+      "name": "p02",
+      "sha256": "e84078e523a39c972b533d22e2962a3f4b0e3dedf4423bd7d2283e53d4b4f4ae",
+      "bytes": 15482
+    },
+    {
+      "name": "p03",
+      "sha256": "2b34e177e815a1673bf34afef3a9b7312d7e8c8a5e13ead3bcccd1bfdc21c50d",
+      "bytes": 13368
+    },
+    {
+      "name": "p04",
+      "sha256": "427d93e7ed6ac107bce442e80db64c46a5368daeeb2312543e122f253be8c49b",
+      "bytes": 11806
+    },
+    {
+      "name": "p05",
+      "sha256": "ea5ee0400791ad0042ad1f26ad33325dac6071782b7eed99c1db370bb65e69a3",
+      "bytes": 12426
+    },
+    {
+      "name": "p06",
+      "sha256": "bd54a22611f126c4f547582aa5bd81f40378be56c93713f204ca2b010716b844",
+      "bytes": 14676
+    },
+    {
+      "name": "p07",
+      "sha256": "bf45bbf4e314bb163bd6200c8cc1654b14dee41e2e06368d1eb77dfdf57342a5",
+      "bytes": 11094
+    },
+    {
+      "name": "p08",
+      "sha256": "8d315beab7e699879af067a661c5636d533947e3c4de457f3928fe29108ae703",
+      "bytes": 12830
+    },
+    {
+      "name": "p09",
+      "sha256": "d1692e8de0c8cb88a23636115fe2dd846986e074c5d3ce55d8bd2679cedd825d",
+      "bytes": 14440
+    },
+    {
+      "name": "p10",
+      "sha256": "5079e4145ad2234af1df1d9fc420253b909543665c56a2a958fc49c6535b33b8",
+      "bytes": 9712
+    },
+    {
+      "name": "p11",
+      "sha256": "c7b76658f0aa5b26942a6e21bfb8b358e9b15605f2b1da818d91ab15882809bf",
+      "bytes": 12020
+    },
+    {
+      "name": "p12",
+      "sha256": "c8afc99cd438e69c97040fffd0c25c61be93f36d615d69c6a1ad659ea912f923",
+      "bytes": 11512
+    },
+    {
+      "name": "p13",
+      "sha256": "aece09291ae6b96884feac1daa51f3d5f15e4efbf0ead545331e3fe17197fec3",
+      "bytes": 12340
+    },
+    {
+      "name": "p14",
+      "sha256": "2b9293dea3ee9ab49f7f120e748fe7e3bad4fc78e77e25b28da0e54e9c4e63ae",
+      "bytes": 12170
+    },
+    {
+      "name": "p15",
+      "sha256": "058c929666b1cfc85bf3623818be549f2e9965cd41a799c099523c8e3544fdeb",
+      "bytes": 13926
+    },
+    {
+      "name": "p16",
+      "sha256": "11f30980eb9a6dfb24459c6df115d1f2b6f9395d54c0c892ea70a60526dffa80",
+      "bytes": 14822
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
