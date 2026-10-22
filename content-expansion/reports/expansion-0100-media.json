@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0100",
+  "title": "布蛾婆婆的十二块翅膀",
+  "version": 1,
+  "bodyCharacters": 951,
+  "pages": 12,
+  "duration": 290.346,
+  "bodySha256": "3a374977164e7647d62758c16e68c0e45ca646c9d6aeff374253364566377cff",
+  "audioSha256": "b7f17806eecf863ae52ce122c3de292e7a03d39a9a3130c15242b91aee7d328b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "caba09c55237e4cffff5f7ee0e18b6fce1413315c2cb22543d407e78982d5b9b",
+      "bytes": 24130
+    },
+    {
+      "name": "p01",
+      "sha256": "06f5b293cf146264e4305eaa4b033f598b2940690be307bbc0d9526759522a64",
+      "bytes": 21648
+    },
+    {
+      "name": "p02",
+      "sha256": "d23ec1a570a17a332a1b4117822f63ca91b7eed8cbbe75a5ba3781fdf5e43045",
+      "bytes": 20240
+    },
+    {
+      "name": "p03",
+      "sha256": "6cfb56d2a594806041664a41fbca5590b2bed1d7561e504dd000248017c83291",
+      "bytes": 21540
+    },
+    {
+      "name": "p04",
+      "sha256": "18806eac5906842bdd2ae85689ac41b7c36fc7869a9150743fb9563c621c8f3b",
+      "bytes": 20626
+    },
+    {
+      "name": "p05",
+      "sha256": "0ae72574b14ae567d94dcd0f791ef3019326b4b62890cd9c19fff3c34552cb0d",
+      "bytes": 19646
+    },
+    {
+      "name": "p06",
+      "sha256": "6f2753504309d38df571d7014c8e5d59c71c6ee9015692915ae537d780634b53",
+      "bytes": 21622
+    },
+    {
+      "name": "p07",
+      "sha256": "b287534a556207dcf0fbad1905115f52c973175aad9718d1b953d21e3d366cec",
+      "bytes": 20496
+    },
+    {
+      "name": "p08",
+      "sha256": "1abc99d0a6c327095913c894b7e5ab2007a7d684a15b11da97fdee7039d08ed1",
+      "bytes": 21048
+    },
+    {
+      "name": "p09",
+      "sha256": "49958c040096a7f879268f9f1b637fdcd247908fd493b0d8ccbb6e6c172c8163",
+      "bytes": 20466
+    },
+    {
+      "name": "p10",
+      "sha256": "350c3f140682efa1ccfd7712756d464d10de3fdcba2d6f70a2c77d1c9c3facc3",
+      "bytes": 21770
+    },
+    {
+      "name": "p11",
+      "sha256": "7a1ac0a988fd9642ad4c0db96f46f44635090e766699e2759b16f4b327e2393a",
+      "bytes": 20880
+    },
+    {
+      "name": "p12",
+      "sha256": "57826344f14bb29ac2b43d3ef52228b1aab0ff951e6b17aaf93fb650b1e7cfeb",
+      "bytes": 18562
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

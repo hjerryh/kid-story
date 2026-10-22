@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0098",
+  "title": "串门门的两只把手",
+  "version": 1,
+  "bodyCharacters": 981,
+  "pages": 12,
+  "duration": 294.882,
+  "bodySha256": "73e7f957ce9d92fe661f3e985eb448b1f29eafa1f56d31e782b47a1301184b74",
+  "audioSha256": "c22696f0d300205cdaee97ae37f5319762bdcf9c260b3bdba22c4427b4cd9695",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "924a7da945da2e0cb450441182cf2b707f0dd019f0d01b0e87de84fdb6161585",
+      "bytes": 17412
+    },
+    {
+      "name": "p01",
+      "sha256": "fdc020bb8ba68f94916d0fed9809ab52abcab75aa9c39d896d6fa4ef62066575",
+      "bytes": 13624
+    },
+    {
+      "name": "p02",
+      "sha256": "5863ed3ff980b3510216e0d5428a5456c03f580cd17c34cf59da57c70861951a",
+      "bytes": 12994
+    },
+    {
+      "name": "p03",
+      "sha256": "7ba3320ca84e72ccb730f7d267b9a1f54677b65c7ff7218aa1cd9d52a3d1add2",
+      "bytes": 12456
+    },
+    {
+      "name": "p04",
+      "sha256": "870faa5ba14bed1c1f2623c2f236667dab117cedfcce873e0eb7c018fb30bc9c",
+      "bytes": 14004
+    },
+    {
+      "name": "p05",
+      "sha256": "68bb14d3efb3087e3bf6ad5f7bfddf742c2baf10265ec13b99d96be4067677ec",
+      "bytes": 14570
+    },
+    {
+      "name": "p06",
+      "sha256": "bdd69d05bbf72ee64d656437fb44806c1c4b4658c33a0b9561b5674f0608442c",
+      "bytes": 14786
+    },
+    {
+      "name": "p07",
+      "sha256": "c893402eb2c9bb2b00eec8b9498f64f9dafbd5910f58d6a6621bd9c71477f521",
+      "bytes": 6292
+    },
+    {
+      "name": "p08",
+      "sha256": "383e35dcf8bc6342d3e6ed721685a9ffac377471cb068335f8210fbfac35696f",
+      "bytes": 14576
+    },
+    {
+      "name": "p09",
+      "sha256": "3ce2c8e04229b51d604875f32ffc4885fa5fbc071cf88d67d6c3e83f53d3f4ed",
+      "bytes": 12512
+    },
+    {
+      "name": "p10",
+      "sha256": "7f98990d5a169569ae570f407eb3bbbed16aa9556b01d67f195993bae828e9dc",
+      "bytes": 13544
+    },
+    {
+      "name": "p11",
+      "sha256": "bfdb94988a3ed8c7bb48bc1058529dae4749fbfad3cb9d9f0c584003763c9799",
+      "bytes": 14272
+    },
+    {
+      "name": "p12",
+      "sha256": "28c3b59e4c3d4b33d6e79e8ec62fb559368a665cff7b8f554daac42c2e83d465",
+      "bytes": 15642
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

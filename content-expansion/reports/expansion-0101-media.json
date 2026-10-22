@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0101",
+  "title": "根须先生的橙帽子",
+  "version": 1,
+  "bodyCharacters": 1054,
+  "pages": 12,
+  "duration": 311.154,
+  "bodySha256": "c49a915cbc58047c927e4d02a5663db471af7497fbb49114629b6239ae77741f",
+  "audioSha256": "63640d53b77c699223da03514ea470a1fb47adf73ef9422aec18f33cba5508f3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "fedeb1f03fe65578e67f7140c87709f8baf1599e15d6be8f36fc290d315a7c0c",
+      "bytes": 19204
+    },
+    {
+      "name": "p01",
+      "sha256": "74da7f1751272aa09d630c5dc960a4c576425186847b0e76e46eb9f2a1e45f72",
+      "bytes": 14548
+    },
+    {
+      "name": "p02",
+      "sha256": "6008947383d65cac50b821f1ef7368785ca2f1cec887b2e60ac64b788be559ad",
+      "bytes": 14880
+    },
+    {
+      "name": "p03",
+      "sha256": "b303bee321a8d625d72b3ba0bb6299a99dff2c071c8a70636759f6db925ceb1a",
+      "bytes": 15556
+    },
+    {
+      "name": "p04",
+      "sha256": "2c1b26d5c0f50935de4bd132f2d386da505196720e6fd764b5578069d36475a1",
+      "bytes": 14964
+    },
+    {
+      "name": "p05",
+      "sha256": "c6083b31f2d1a9b2d75502d52c3e70381527d514e444b6369c2b409b908b9a29",
+      "bytes": 15108
+    },
+    {
+      "name": "p06",
+      "sha256": "47c17be86de787c7cde9dd6c73771b6d00da26cd7d1ec8b67de1cc0bc03b1d5d",
+      "bytes": 17462
+    },
+    {
+      "name": "p07",
+      "sha256": "bfffe7c479e1cd4abc9de668e42b4408fd9226181a531d215cafef277f5f3326",
+      "bytes": 14616
+    },
+    {
+      "name": "p08",
+      "sha256": "beb1f806323a34939048bbae97a49689ee8a22c916f27df9b7754812271cc424",
+      "bytes": 15922
+    },
+    {
+      "name": "p09",
+      "sha256": "b71c7b980d7792710f5ff3e8484fc8b5c11872ab135a129b2deb56a9a6b7df3b",
+      "bytes": 16094
+    },
+    {
+      "name": "p10",
+      "sha256": "0d5acf9385e47c7133a944e76f98e2c63e7648cf5866cf5b81020d0f67e2e783",
+      "bytes": 15862
+    },
+    {
+      "name": "p11",
+      "sha256": "03487fc9ed881fab194161c322eab934bfb18601b841370ea2894f6142899fb7",
+      "bytes": 16068
+    },
+    {
+      "name": "p12",
+      "sha256": "09a08a02254a2faf03b968aac4a5a12e63e209ec59effb2e939432331f2d6533",
+      "bytes": 15128
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

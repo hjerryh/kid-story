@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0099",
+  "title": "沙午什么时候开门",
+  "version": 1,
+  "bodyCharacters": 1051,
+  "pages": 12,
+  "duration": 326.802,
+  "bodySha256": "3070a0788bbbe8ee216ffdc286a8ac33daacda4a91b4cf80b9b2ae3e20703459",
+  "audioSha256": "b0dc60c0325a479a592f9538e73f2fedc842f885d940a312dcbd6d8ddeeb42ec",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b65df3548896d1ee6e9c95c8ca95bc259f64130cf62a3d314882530a0ec50e31",
+      "bytes": 16980
+    },
+    {
+      "name": "p01",
+      "sha256": "f77b665f964c9edaf1f222fbf938d692ddc92f7eaa5980925f810056cafee680",
+      "bytes": 14026
+    },
+    {
+      "name": "p02",
+      "sha256": "6267e16a0b4933d5fcd3f20c29e3297bdf58ac12ee64414793f9fddafb2399d3",
+      "bytes": 14622
+    },
+    {
+      "name": "p03",
+      "sha256": "dc906f0ef784e70363cadd16a67c42b6b9a7547f16bc7e99e771269f344b7528",
+      "bytes": 14320
+    },
+    {
+      "name": "p04",
+      "sha256": "a77a6d743b53ff7ea28e48a57a2b865ca0ad01b74beb59832549e21a976704c7",
+      "bytes": 13912
+    },
+    {
+      "name": "p05",
+      "sha256": "af394c27cba66666f955a78d6fccbf25ae0a30773b858e48327c96e78b1e36ac",
+      "bytes": 14766
+    },
+    {
+      "name": "p06",
+      "sha256": "cc4d2b9ff9c433a494aa6c9bf6aeb3a7d3005453c8bf8d1665afe83c1e9bccf0",
+      "bytes": 16260
+    },
+    {
+      "name": "p07",
+      "sha256": "ca7291ded206481bd0012348940b1ec6f10a3b06bea2ae3a8bf303f827b1ddcb",
+      "bytes": 14560
+    },
+    {
+      "name": "p08",
+      "sha256": "07f226a2f33d50a6d61a145fece0d75d2968fa5bb838c491cfd63f4379ff2e1e",
+      "bytes": 14744
+    },
+    {
+      "name": "p09",
+      "sha256": "c519012166e0aca5b8de874b2b3173ac197345bdd97d1b4913a7de2a318b7445",
+      "bytes": 14802
+    },
+    {
+      "name": "p10",
+      "sha256": "c9fb820f3d6f78a69f5b0b02b34c18c15904191ce1f30b1f7803818e4d75644e",
+      "bytes": 8926
+    },
+    {
+      "name": "p11",
+      "sha256": "d132983ce2b551bd4f43dbd18877c130e05c633c5e6502c49de59005900956af",
+      "bytes": 7472
+    },
+    {
+      "name": "p12",
+      "sha256": "d574b985793eef95270f8e3d9acc3011d9fd5351d14759f80ae74bdbede28d43",
+      "bytes": 14348
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

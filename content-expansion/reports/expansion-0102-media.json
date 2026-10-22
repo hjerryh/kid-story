@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0102",
+  "title": "请按住我的小篮子",
+  "version": 1,
+  "bodyCharacters": 1058,
+  "pages": 12,
+  "duration": 318.042,
+  "bodySha256": "cd9d29390f6f997b9b40f7099ee965020535751c6f17ee5b233bbd2fd7ed07ef",
+  "audioSha256": "dc879e1c9d4262e0eaafd84e96aaad802c6d9d636aec1568b68b5b7bee7b3db5",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "918e0cd9c2c6c00c6e92778c464b363b4a88522c7f89c865d9d91ffa029f521d",
+      "bytes": 19688
+    },
+    {
+      "name": "p01",
+      "sha256": "cfb5143a6db5272bd35793a2787529f5e5f93ef940038feb26fcd6543682028f",
+      "bytes": 13154
+    },
+    {
+      "name": "p02",
+      "sha256": "7f32cda8cb6cb7f53a60d28d30374e3870bc1e042b7f8b570cf9d6df712e1bb2",
+      "bytes": 14246
+    },
+    {
+      "name": "p03",
+      "sha256": "146816349b2d8e6ec6ded1b1f76c663c5546e4912de36a58e8b40a47f9368853",
+      "bytes": 14264
+    },
+    {
+      "name": "p04",
+      "sha256": "84a6abd5e9100fa06d035592a837974c205e4d78bc36e37619cb86c2553b7a4e",
+      "bytes": 14664
+    },
+    {
+      "name": "p05",
+      "sha256": "e063d56cf77af46f34ae37a43fd1e2364a09f3ae7a6c307a126c6488ad48ca81",
+      "bytes": 14984
+    },
+    {
+      "name": "p06",
+      "sha256": "0f7919a0c95efa330966ed8ea5709f3b519f9cade7692e09c8344a78bc5ad336",
+      "bytes": 13932
+    },
+    {
+      "name": "p07",
+      "sha256": "9d5773723648f190ad827eca2d8a371dba4746342bd5e7c02ec4f08b45e41b3a",
+      "bytes": 15322
+    },
+    {
+      "name": "p08",
+      "sha256": "c04bc379f0f8c3ab944d052ea8eba89a1518fe3ad250e0b56558728ecb4e7483",
+      "bytes": 15374
+    },
+    {
+      "name": "p09",
+      "sha256": "19c0286d493d7bfd02ef2ac78695432e0e0a7b1147868f769e5c4a54fb7483cc",
+      "bytes": 15334
+    },
+    {
+      "name": "p10",
+      "sha256": "0fca3585f91dc17026ff6da5efdffe9cec68ae6960652c425058a3e0cc681575",
+      "bytes": 14850
+    },
+    {
+      "name": "p11",
+      "sha256": "e2b1a2dcdb52445c747cae90126f4a77e00dd65f137eb6577df7e10893cd758f",
+      "bytes": 17430
+    },
+    {
+      "name": "p12",
+      "sha256": "a4bf6c9a7acea11ee8f9553a7b459ec99bdb554d93e4e5e7530af1b12018bf88",
+      "bytes": 16870
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

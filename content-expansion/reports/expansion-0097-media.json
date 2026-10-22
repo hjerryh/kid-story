@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0097",
+  "title": "给蓝蓝留一块阳光",
+  "version": 1,
+  "bodyCharacters": 997,
+  "pages": 12,
+  "duration": 300.714,
+  "bodySha256": "ac07fe775c1869d7e82486ee6ace8cd1317f3fad27a52dccd88430c591f15bbc",
+  "audioSha256": "a4dd54c32fda140bcdfd999472dcd280ae075c0113a09005119e681595ad3960",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6e739562c98c4e7b1303c908d21bba1fd232f58337bef187c3070b37c4feace3",
+      "bytes": 21702
+    },
+    {
+      "name": "p01",
+      "sha256": "a3d9d928b4512a611e88e118db6f8e78402ba1abb731dba6c5634af093f92527",
+      "bytes": 17728
+    },
+    {
+      "name": "p02",
+      "sha256": "783d166e463b5b08853f8cd0bb8c18fa1eb649b93047ccf52724cf926b129f75",
+      "bytes": 19190
+    },
+    {
+      "name": "p03",
+      "sha256": "149758f15a18369126ea96c6a76490edd28933219b3435c3d371ef6def15768c",
+      "bytes": 13956
+    },
+    {
+      "name": "p04",
+      "sha256": "998c33186b6df89f07d508773b745d051b19def368cd5167ed47032fa356e035",
+      "bytes": 19576
+    },
+    {
+      "name": "p05",
+      "sha256": "3af680373c1327eff5bcde747744409eaae026af6e4e1e271d9c16f5a903c933",
+      "bytes": 15554
+    },
+    {
+      "name": "p06",
+      "sha256": "12ad944b327dd0f5ecf1ff155e7ea6fc9e249d3e9065013720eb20ff9ee499f3",
+      "bytes": 14258
+    },
+    {
+      "name": "p07",
+      "sha256": "aff06af5f53aaf8c532b86574a04e25f0b1b719284f81c6b94d4b9c5f0f04454",
+      "bytes": 14686
+    },
+    {
+      "name": "p08",
+      "sha256": "49da4f46769a2d56b040a40068b982813690c66c7393612ad5730b97556d28ec",
+      "bytes": 19672
+    },
+    {
+      "name": "p09",
+      "sha256": "710cdb9b8671b15a7f62edcda2c1b3f5b55fbe4c98d7bd4d79e087cb14cdb163",
+      "bytes": 17776
+    },
+    {
+      "name": "p10",
+      "sha256": "5cbe572584f2cfa4ceef037a93577e37e7afbdc4650fad733bb931f034492363",
+      "bytes": 18752
+    },
+    {
+      "name": "p11",
+      "sha256": "7cd03c592534a3feda6afac75726d93c8939edbf283de76a3a9397c38828bc28",
+      "bytes": 19500
+    },
+    {
+      "name": "p12",
+      "sha256": "bef1fffab3082bda452a45a450b2197ecff7fa9cdc2bc6c1b885f5dd019caa30",
+      "bytes": 15464
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

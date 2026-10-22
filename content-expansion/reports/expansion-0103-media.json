@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0103",
+  "title": "梨树两边的白肚皮",
+  "version": 1,
+  "bodyCharacters": 998,
+  "pages": 12,
+  "duration": 302.466,
+  "bodySha256": "a4001eefc0f3d004aadd823088f1c5149e95f4a030477b3363bbd082c50d18a3",
+  "audioSha256": "c291c4c9207292cd685ddb7088824647a69dc7a406978233efb33df4268a1d87",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "cc647505519c839523c6bb97eb605b77711f52b7b1d311a701319036cdffcef9",
+      "bytes": 17996
+    },
+    {
+      "name": "p01",
+      "sha256": "7ee1b5a1491c9eb9003e41bbbfe8e3375dee19f726c4e5be0c9edaca491cab9f",
+      "bytes": 11130
+    },
+    {
+      "name": "p02",
+      "sha256": "20785b6dee300ef5bf606949ccb01f20dd88583e93bcb1b72f06977161bbc571",
+      "bytes": 13710
+    },
+    {
+      "name": "p03",
+      "sha256": "68f6550e175f8c16c1214744b90692bc7442ad0e3c4b404a7f33be76807eb3e7",
+      "bytes": 14296
+    },
+    {
+      "name": "p04",
+      "sha256": "9bcfd615fae228bffcbff6d9aaca56e6347046a427c2859f4e556a0df3e5ba62",
+      "bytes": 16110
+    },
+    {
+      "name": "p05",
+      "sha256": "af6f843f94bd55e747d171cce0a78f2b76d47ca3aacb29612b506a66b8b70bf2",
+      "bytes": 11660
+    },
+    {
+      "name": "p06",
+      "sha256": "b330a1eb33f0f2780d0cf8811850db25461db727956201a7721d2c1bbaf49b49",
+      "bytes": 13902
+    },
+    {
+      "name": "p07",
+      "sha256": "6573216eb1cf24eb43ff0debf392cf0173c803bfa376bd113778ac2368bb3339",
+      "bytes": 12686
+    },
+    {
+      "name": "p08",
+      "sha256": "1115b38ef97b0c72c08fdcdf307cc364d129eec02118cb3330d766a0032517cc",
+      "bytes": 14494
+    },
+    {
+      "name": "p09",
+      "sha256": "648412e5e16fc7f2c9bc8ea2d8c2696451be019b59cad933c8db0346d921242f",
+      "bytes": 14132
+    },
+    {
+      "name": "p10",
+      "sha256": "384904b4f93e2b8e1baef47e270ad5bbbacaf5bd38c8bf2d29e99c511ef3b2a7",
+      "bytes": 12200
+    },
+    {
+      "name": "p11",
+      "sha256": "b1acf8e1665242d38426f84c7fcfafc919909073b27b4a9aca4534953f8c2c70",
+      "bytes": 13542
+    },
+    {
+      "name": "p12",
+      "sha256": "8a0f4b18e339a18ed2c62b62d9164c5edb6478e9b22a8c22d64f977589a762d0",
+      "bytes": 16556
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
