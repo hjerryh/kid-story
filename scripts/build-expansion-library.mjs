@@ -25,6 +25,7 @@ import {fourthYoungFirstArtwork} from './expansion-art/fourth-young-first.mjs';
 import {fourthYoungLastArtwork} from './expansion-art/fourth-young-last.mjs';
 import {fourthMiddleFirstArtwork} from './expansion-art/fourth-middle-first.mjs';
 import {fourthOlderFirstArtwork} from './expansion-art/fourth-older-first.mjs';
+import {fourthOlderLastArtwork} from './expansion-art/fourth-older-last.mjs';
 import {fourthMiddleLastArtwork} from './expansion-art/fourth-middle-last.mjs';
 import {fifthYoungFirstArtwork} from './expansion-art/fifth-young-first.mjs';
 import {fifthYoungLastArtwork} from './expansion-art/fifth-young-last.mjs';
@@ -57,7 +58,7 @@ try{previous=await json(path.join(library,'index.json'));}catch(error){if(error.
 assert.equal(previous.schemaVersion,1);
 const index=new Map(previous.stories.map(s=>[s.id,s]));
 // Hash only registered, reviewed renderers. Unpublished artists may work in parallel.
-const artworkFiles=['first-three','young','middle','middle-extra','middle-last','older','second-young','second-middle','second-middle-last','second-older','second-older-last','third-young-first','third-young-last','third-middle-first','third-middle-last','third-older-first','third-older-last','fourth-young-first','fourth-young-last','fourth-middle-first','fourth-middle-last','fourth-older-first','fifth-young-first','fifth-young-last','fifth-middle-first'].map(name=>name+'.mjs').sort();
+const artworkFiles=['first-three','young','middle','middle-extra','middle-last','older','second-young','second-middle','second-middle-last','second-older','second-older-last','third-young-first','third-young-last','third-middle-first','third-middle-last','third-older-first','third-older-last','fourth-young-first','fourth-young-last','fourth-middle-first','fourth-middle-last','fourth-older-first','fourth-older-last','fifth-young-first','fifth-young-last','fifth-middle-first'].map(name=>name+'.mjs').sort();
 const artworkHash=hash(Buffer.concat(await Promise.all([
  ...artworkFiles.map(name=>fs.readFile(path.join(ROOT,'scripts/expansion-art',name))),
  fs.readFile(path.join(ROOT,'scripts/render-illustrations.mjs')),
@@ -86,6 +87,7 @@ for(let id=121;id<=128;id++)renderers.set(id,fourthYoungFirstArtwork);
 for(let id=129;id<=136;id++)renderers.set(id,fourthYoungLastArtwork);
 for(let id=137;id<=143;id++)renderers.set(id,fourthMiddleFirstArtwork);
 for(let id=151;id<=155;id++)renderers.set(id,fourthOlderFirstArtwork);
+for(let id=156;id<=160;id++)renderers.set(id,fourthOlderLastArtwork);
 for(let id=144;id<=150;id++)renderers.set(id,fourthMiddleLastArtwork);
 for(let id=161;id<=168;id++)renderers.set(id,fifthYoungFirstArtwork);
 for(let id=169;id<=176;id++)renderers.set(id,fifthYoungLastArtwork);

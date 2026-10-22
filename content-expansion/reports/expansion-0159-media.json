@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0159",
+  "title": "盐角不再挑桌子",
+  "version": 1,
+  "bodyCharacters": 1601,
+  "pages": 16,
+  "duration": 491.594,
+  "bodySha256": "e47dfb67bbc291b93454850b1f87b76d5b8de6309a3d801c401c789a464e26e0",
+  "audioSha256": "685b22f3e9c2fb774a530ee125157fdce5335b5685bb3ce042d794c7963b6e02",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d27cce66101b3485ca68969ec3ab3d776c5e74a650a4fb0b6392f11d3ffb0d8d",
+      "bytes": 21172
+    },
+    {
+      "name": "p01",
+      "sha256": "827b7742ac366e94ed7459c1102278b61663604b891bfb93296a6ffee952ceae",
+      "bytes": 15388
+    },
+    {
+      "name": "p02",
+      "sha256": "e53b80bdb2d5c2867769080c9626b8465d9d4d7e0e178dadcf6bd14b5916fd28",
+      "bytes": 15768
+    },
+    {
+      "name": "p03",
+      "sha256": "5350836b08f17f0e41775f27fbd64eef02402ea0ef6194dea8a372f62dbe9564",
+      "bytes": 17584
+    },
+    {
+      "name": "p04",
+      "sha256": "6dbfdd8061e099e1c1b710d20d68a860cac3cdbdf3d889c66549096a90e75a58",
+      "bytes": 17960
+    },
+    {
+      "name": "p05",
+      "sha256": "0a3f9ac81b505f7dd7d18ec561d55662201322d1db60add51b9463ada435d88a",
+      "bytes": 9048
+    },
+    {
+      "name": "p06",
+      "sha256": "7961f853924b23a06bb574745748d0f276c395f0c12586e1db90aee9e6cb5bde",
+      "bytes": 16668
+    },
+    {
+      "name": "p07",
+      "sha256": "86692c6e0424e316a88a65093ea6cfac7e95c2c34fc9857162cbcab5bb8df2cc",
+      "bytes": 19954
+    },
+    {
+      "name": "p08",
+      "sha256": "5f6458d5c11c37813b0a12c02bef8cd0a22b9f6d38a4ea221ea4f6dd7abac366",
+      "bytes": 19996
+    },
+    {
+      "name": "p09",
+      "sha256": "0b9f64addfb8193be1a648bf88b9d240485b24de7f060b548c64ded741deb107",
+      "bytes": 20070
+    },
+    {
+      "name": "p10",
+      "sha256": "a0eba932f702cba2b0137c77077802565039fd78b45bec596a72f900b45eff99",
+      "bytes": 19946
+    },
+    {
+      "name": "p11",
+      "sha256": "6ed8f4fc568a589601fd0f0fa7f9e07beb48eb4223b1c85888b50ccaeed9f363",
+      "bytes": 20086
+    },
+    {
+      "name": "p12",
+      "sha256": "2b1b381ee3face33300561f4d6c84545dbb1d0b12f7919b24457139d32482fe5",
+      "bytes": 19934
+    },
+    {
+      "name": "p13",
+      "sha256": "a18e91000dc7d2208dd1d3c91cc67e8d594e3b53d7bbca64a41f50bafb33d7e5",
+      "bytes": 19850
+    },
+    {
+      "name": "p14",
+      "sha256": "a5398aaf8bf052a943dca2201c5e2d88d44e68e791c538a830990b4d5750b8d0",
+      "bytes": 20148
+    },
+    {
+      "name": "p15",
+      "sha256": "4285903623e3b7555d9bac012fc78a0583ce10d821a619e631e0f49b4758c4a0",
+      "bytes": 12498
+    },
+    {
+      "name": "p16",
+      "sha256": "0bccd58cf9e93d1f2c256c314e56abccc6ae698c137940ee96600ea7517099f9",
+      "bytes": 20172
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

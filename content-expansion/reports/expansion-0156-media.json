@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0156",
+  "title": "门口睡着半把石扇",
+  "version": 1,
+  "bodyCharacters": 1455,
+  "pages": 16,
+  "duration": 447.698,
+  "bodySha256": "2eaf4fef171c648720400bb31ce72ce311796fb1fb9998dc52bd517e8f101998",
+  "audioSha256": "be755f715c794445e583415dc789bcbd8e7dfb83940f74a8ae3f2e19d02a4307",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ddd603be6477059cb9593075f3c96056ba9cc50e185fd6094b02a8c2fc09e5b7",
+      "bytes": 16032
+    },
+    {
+      "name": "p01",
+      "sha256": "b292035448900c0ad5b45e993fb9a047dfb395f44fb76c92d47b764100510db0",
+      "bytes": 10796
+    },
+    {
+      "name": "p02",
+      "sha256": "418c10c55ad67121de0fe154d3b53ffd68b58e2be144c49be9bde1ebd2afa0aa",
+      "bytes": 11814
+    },
+    {
+      "name": "p03",
+      "sha256": "fa285c6cce852a7c14b34b55b511149e6a31f9e366736440dc167d26ebb3fd35",
+      "bytes": 12194
+    },
+    {
+      "name": "p04",
+      "sha256": "f73a385624c34b1e680064a387955d0b14285fa77034ea3f0936c5b2b98ac785",
+      "bytes": 11726
+    },
+    {
+      "name": "p05",
+      "sha256": "5514216a51cf507e87d386d0f5e8c8cfc11a9fa0b084ca40ef539aaa8530ce52",
+      "bytes": 14984
+    },
+    {
+      "name": "p06",
+      "sha256": "126b2a6bf0fc68adddfd415be5ba88321423fa30429c2cb9b792592799e57425",
+      "bytes": 11066
+    },
+    {
+      "name": "p07",
+      "sha256": "626735bb89372d1cd159cf9ca69b5575b9151142af99a0a8489eb856998b6969",
+      "bytes": 11076
+    },
+    {
+      "name": "p08",
+      "sha256": "8f1456aca9ddb0b5f3147a51ad21256aea91c33f0f8fcd021dad4ebcaa407a86",
+      "bytes": 12102
+    },
+    {
+      "name": "p09",
+      "sha256": "e51adc8285502d0491f120696d1bd651d8c2246d9a319c3f6084d11f42919deb",
+      "bytes": 14946
+    },
+    {
+      "name": "p10",
+      "sha256": "64267a46ad30427b73ced064f5278f57ad560b3d3bb795af765688f183d46ac8",
+      "bytes": 11170
+    },
+    {
+      "name": "p11",
+      "sha256": "0bf79c557e6080c6dd4927628c71ef93be6f8cdbe68c76f74a2203f2219e446f",
+      "bytes": 10800
+    },
+    {
+      "name": "p12",
+      "sha256": "c9f78c14e655e31a74ad985dbe31dfbf35bed25b13a30e956126c8159add3495",
+      "bytes": 11016
+    },
+    {
+      "name": "p13",
+      "sha256": "e084d3b6a28f1614fea051827f80f0951091fe0dc9960fdb374f984db5493e7c",
+      "bytes": 12146
+    },
+    {
+      "name": "p14",
+      "sha256": "1023109ac8b5196545c76b04492183ddcda31e86a7976795e0880f7ec4eada1c",
+      "bytes": 13830
+    },
+    {
+      "name": "p15",
+      "sha256": "d2e80572414e624ae1403ceca2b473ed13efa8d7a4cacb55aaaa2dcc41087f2a",
+      "bytes": 13850
+    },
+    {
+      "name": "p16",
+      "sha256": "31d4f58e508189b77344e26d4633881c807f2d79ac19270dc6333edeb5d78a2b",
+      "bytes": 13500
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0160",
+  "title": "折纸山的路要分次走",
+  "version": 1,
+  "bodyCharacters": 1625,
+  "pages": 16,
+  "duration": 493.898,
+  "bodySha256": "94e0df83628c69060c341385500d8b9ee7f46f6d8203278eb95944b35aef3c43",
+  "audioSha256": "858ac78bbb74322800c25be0e316b77a7f1343fd62171068e0549c14807964a9",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d60079bce28b4d2b59bd618e8753e7072b03782a086f0ff052ef6f69066a86a4",
+      "bytes": 20642
+    },
+    {
+      "name": "p01",
+      "sha256": "c18e92cb988d1ae847a090f29748930c53d469adf6767db8d72d848fe0b8e229",
+      "bytes": 13742
+    },
+    {
+      "name": "p02",
+      "sha256": "bec4bc81f242a41a239f85f5b027b9677952364d77e9347a94467f93655e7ac6",
+      "bytes": 13774
+    },
+    {
+      "name": "p03",
+      "sha256": "90b3a373383e87e6904e02b214e51473ab25bb50609d9582ae7ea2481c3f8a00",
+      "bytes": 18716
+    },
+    {
+      "name": "p04",
+      "sha256": "7d566018900646ce5a926e4ad2dd87c24c2014a17c49d82b644e331aac9f5066",
+      "bytes": 15976
+    },
+    {
+      "name": "p05",
+      "sha256": "fa146b719c3fae59758ccc0342eac2752ebda5fd356897a720a56e7a77307357",
+      "bytes": 15934
+    },
+    {
+      "name": "p06",
+      "sha256": "058762d5a02bcabce6593a651136ab8b64b82a943c2ad46fc63ff6b9983ad6e2",
+      "bytes": 14474
+    },
+    {
+      "name": "p07",
+      "sha256": "74e46018b0536e959c73e579d567f32107a5eb7b3695702dfaa20079a46983d2",
+      "bytes": 15160
+    },
+    {
+      "name": "p08",
+      "sha256": "66c0dddac872f0684d386805e84a26e3bfdf603a32bd11d3b451e0f490c67cb1",
+      "bytes": 19694
+    },
+    {
+      "name": "p09",
+      "sha256": "e591a2a3a2d4b137a32856ea9b7c1c8a614a816e7b418b4c71565a83dd16dfae",
+      "bytes": 16380
+    },
+    {
+      "name": "p10",
+      "sha256": "0f5cd225c09ca3fefaad74aebea1ea22b18891ed591685f649c41a4a0369048d",
+      "bytes": 18360
+    },
+    {
+      "name": "p11",
+      "sha256": "971ebb65b2f25faec77b7e153976c0e2e010c18aaa73ed6e111a4e4a0214ee53",
+      "bytes": 16972
+    },
+    {
+      "name": "p12",
+      "sha256": "54ca9b0bc575ec9eebd6300d9ff5cac35e0ac3f8ff35eb144c824bed279fa294",
+      "bytes": 17054
+    },
+    {
+      "name": "p13",
+      "sha256": "65d7cb855e035dbc0c19e3d52aac2fcb4de5db8b2a5362933a04efc76106ae7e",
+      "bytes": 14538
+    },
+    {
+      "name": "p14",
+      "sha256": "a0bf9cce49858d8091947449053fec1056ee664da0865910a2fedce357e7bacd",
+      "bytes": 17508
+    },
+    {
+      "name": "p15",
+      "sha256": "53ff20fa389d2150edf793680bda529f97e75b3d0a7392829865e480a65faece",
+      "bytes": 19136
+    },
+    {
+      "name": "p16",
+      "sha256": "c36adb27e6c52b4287acffbf5006e0d78c95db14e1fef3305d00425c6a31c94e",
+      "bytes": 17916
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

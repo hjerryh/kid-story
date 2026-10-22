@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0157",
+  "title": "长桥上的两段哼声",
+  "version": 1,
+  "bodyCharacters": 1473,
+  "pages": 16,
+  "duration": 458.066,
+  "bodySha256": "70a37a25bc38617499c4b709ecdca1acf15f7efa40b23bfa18d16a927f9357d7",
+  "audioSha256": "71237bb0e295dc3d85c4e9dcff1e365e409fb7ac579a11886bc73fadc85252a3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8cb8694134a18ad7c8e99e5589374d2f9d816b4a1f903655ccdee8bd5d3b1dec",
+      "bytes": 18618
+    },
+    {
+      "name": "p01",
+      "sha256": "095c1ea47fcf9e66f16ee8215e772acc703e6efb24f72a981adb7c4d7b21766e",
+      "bytes": 10218
+    },
+    {
+      "name": "p02",
+      "sha256": "331e5a05dcf562dab4c883e731ffa93fac7e508d158c695be1c55cdb125c23ec",
+      "bytes": 9490
+    },
+    {
+      "name": "p03",
+      "sha256": "3d578ba3de92f40cef5ca4ea435e0cc9a17879d861819ca7412b94cd15a63213",
+      "bytes": 10442
+    },
+    {
+      "name": "p04",
+      "sha256": "dccf3264a3ba3f5bd711f3cfde8d423f403acc419a2c172a5d37d3168ccca985",
+      "bytes": 10224
+    },
+    {
+      "name": "p05",
+      "sha256": "44b7335e56f80c453663b192100a61ee049c037e938f359c1e6b14d9fdb00c71",
+      "bytes": 11390
+    },
+    {
+      "name": "p06",
+      "sha256": "61e712326c495cb1a9066ceaa9524121629dfe0568b6af135ce498bca1ff8d4e",
+      "bytes": 12646
+    },
+    {
+      "name": "p07",
+      "sha256": "f85b878fbbb1143518ac7defaec974f1aa17c1de4e7a507a68676191636f6cf6",
+      "bytes": 12846
+    },
+    {
+      "name": "p08",
+      "sha256": "4cf2d831bb89e676a663eaba8a3d7456b4bc0dca0a9838a1917544ec76a91f55",
+      "bytes": 10580
+    },
+    {
+      "name": "p09",
+      "sha256": "b1bf7ff9bd764e352fa8aa58d011c525dfee8b6a0d7f3b6a324c073120a40894",
+      "bytes": 13362
+    },
+    {
+      "name": "p10",
+      "sha256": "f6b0fd8052391fe68d06193ea91274f7f0932806460dcde4634840da94f21bc6",
+      "bytes": 14214
+    },
+    {
+      "name": "p11",
+      "sha256": "49e7e31789b2da6d5c48464d6e4e536b4fc8dc4e44f17bcc27527fe6cf558d72",
+      "bytes": 14966
+    },
+    {
+      "name": "p12",
+      "sha256": "1eaee049586a0fbbc533ad5fbab29a8f502025bce2def67339ac20706dc71ea0",
+      "bytes": 14868
+    },
+    {
+      "name": "p13",
+      "sha256": "436454282ce7e2cbb7b6645a4d209014026e47bc15c715246aa3dc786cee4565",
+      "bytes": 14636
+    },
+    {
+      "name": "p14",
+      "sha256": "702e083aa90cd8d081d5d064022f026a1a4bbc682e7161bd319240f14a9e180f",
+      "bytes": 19026
+    },
+    {
+      "name": "p15",
+      "sha256": "ced2d7e530dc4a28ce6483ec3073fcd82ec9a29da2119b5db2954fd50d7794dc",
+      "bytes": 18824
+    },
+    {
+      "name": "p16",
+      "sha256": "8674119d229b2921c49efb73d692ed53c5750e0b7d74d2d03d881991143539e3",
+      "bytes": 14294
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
