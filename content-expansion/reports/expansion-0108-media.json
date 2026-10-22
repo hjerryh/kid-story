@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0108",
+  "title": "苔豆守着一罐安静",
+  "version": 1,
+  "bodyCharacters": 988,
+  "pages": 12,
+  "duration": 297.426,
+  "bodySha256": "d3a549b94ec62a98bccb7538ebe60381f34b450225786e405f7bba25e849993c",
+  "audioSha256": "f97bc0c6daa6a8f41c7aff8aa0ca06f846fcc8bd19eb69051d8057db347cb2dc",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "94bbd28bbabb2a5e07d752af0c8d7ac34a63c7d11a25957b81ce45d0d9be586c",
+      "bytes": 19552
+    },
+    {
+      "name": "p01",
+      "sha256": "733262be2a7bf29a301f7e6ac551fc12f970da7bd15257964b5e85fc7e6ca635",
+      "bytes": 12950
+    },
+    {
+      "name": "p02",
+      "sha256": "d048324a5e7a180ab73c1aa58df9c92cb1fce69b74ab9a93e751ea78eb56384c",
+      "bytes": 17770
+    },
+    {
+      "name": "p03",
+      "sha256": "8ecf59d43daff78cf0c6bc5fc6ce5f0f818ef5788a768f8ead09b4c24c978a82",
+      "bytes": 13406
+    },
+    {
+      "name": "p04",
+      "sha256": "bf4a72b1c50141e86963d9a6818dcee3d2ce73c033c3ded7d8e6c84e519133d9",
+      "bytes": 17812
+    },
+    {
+      "name": "p05",
+      "sha256": "1622ba9a9a37f06ad00df9aa4f3627d7519924a7b5db5f199ec85fc379b57d71",
+      "bytes": 17112
+    },
+    {
+      "name": "p06",
+      "sha256": "b413e2ba45471746e027abf1db317ed72f28d33f635c2f31aa41baae14203af5",
+      "bytes": 18096
+    },
+    {
+      "name": "p07",
+      "sha256": "dab4ddf2f6bdbb4e0cf80696e2618ea8925fb55f5860c29d246a272fcfc4a2ab",
+      "bytes": 17968
+    },
+    {
+      "name": "p08",
+      "sha256": "a8cbb6ebe8f0261bb04694f7b2695834a566b2d0276e838a35fbac0c35489ebe",
+      "bytes": 17610
+    },
+    {
+      "name": "p09",
+      "sha256": "76eed51b07584596fb8da8b25d83a73d22a17427618ef563f965e8aedfa837bd",
+      "bytes": 15210
+    },
+    {
+      "name": "p10",
+      "sha256": "fff5ece900686930349331bb8f52359ecafe71f2eda774cd2bbd68b15a0b15ae",
+      "bytes": 14224
+    },
+    {
+      "name": "p11",
+      "sha256": "c6aa47354776fd7ee9030f77f627d6c7f5c632c352165cf331a4a356a3e73953",
+      "bytes": 18814
+    },
+    {
+      "name": "p12",
+      "sha256": "81407eb310ac9ad345032f058d29d435e8c6d87218050faa423070a1e9a23715",
+      "bytes": 17384
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

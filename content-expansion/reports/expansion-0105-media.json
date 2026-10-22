@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0105",
+  "title": "壶梨的帽子放哪儿",
+  "version": 1,
+  "bodyCharacters": 1077,
+  "pages": 12,
+  "duration": 326.754,
+  "bodySha256": "432b6eb565d03c42b6822ee8c16ea8fcad0d513e18ddca6826aeee527d6df5e0",
+  "audioSha256": "dacf5df61fe1a5aaa29f0c220ec67f00ed2e80bab1254e3780fb7fb6d518b709",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6b224255aacef0748801956bdcf7736d2402bb76a38e1afe803d9c7a1a7fc327",
+      "bytes": 19894
+    },
+    {
+      "name": "p01",
+      "sha256": "a0dd2580b67079f4e7178626ccfa4adfb3d020ee130fbdacccb9de2a0ef93be7",
+      "bytes": 16224
+    },
+    {
+      "name": "p02",
+      "sha256": "3b78890336bf0d4746354cceba52cb17cc4b3be5dbfad64dc659bc5c282ca13c",
+      "bytes": 17746
+    },
+    {
+      "name": "p03",
+      "sha256": "699d800319f16cc21c777a9823a37ae97a93eddd4e806e613ae4b3a6b915f4ea",
+      "bytes": 17758
+    },
+    {
+      "name": "p04",
+      "sha256": "7353a40660ceb2bfe27d306f65b836d3779ec3deb6124f4eb0f08adf9f875078",
+      "bytes": 15100
+    },
+    {
+      "name": "p05",
+      "sha256": "642b176513f4fb7b163d6bf04580ddbf95d1dc57e5cd9962a7731d66d9609487",
+      "bytes": 15286
+    },
+    {
+      "name": "p06",
+      "sha256": "2084ae176f75f451e85e2368081d89ef5a456b55bb0bc91f8b8c381f9a8cb623",
+      "bytes": 15898
+    },
+    {
+      "name": "p07",
+      "sha256": "b45f70c1e6a792503458e53baab4877f5fad71b1f90e23717d81b65a91059434",
+      "bytes": 16162
+    },
+    {
+      "name": "p08",
+      "sha256": "dea0f3e60b209746fc8a19bafb47345379909f73261df9dbfa176929761bed38",
+      "bytes": 15362
+    },
+    {
+      "name": "p09",
+      "sha256": "6a856b55d8b9e82e714ee5c244783760e854a8bb679270f174e5f47c016839ab",
+      "bytes": 15524
+    },
+    {
+      "name": "p10",
+      "sha256": "b9cd65d7859cce271bab9b5f4701d6201f54010b9931d108bde97fa84a902d07",
+      "bytes": 17352
+    },
+    {
+      "name": "p11",
+      "sha256": "af0710b3569d0bf1e13d2ce1bd19f43c71314f80b2864ef8e3b373b8501d8c62",
+      "bytes": 17324
+    },
+    {
+      "name": "p12",
+      "sha256": "fbfdd733e512612dcaa6e4a28210c3173e780c547ada5b8c74cbb4a7dfed4adc",
+      "bytes": 15548
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0106",
+  "title": "飞马旁边绕个弯",
+  "version": 1,
+  "bodyCharacters": 966,
+  "pages": 12,
+  "duration": 289.146,
+  "bodySha256": "aa7a5d1cdf0acc4cc0e04843892b0ab64a5d5b89a56fb81b29326e8504832da4",
+  "audioSha256": "9737e59873bf68774764891f251f50852518877accd7bbd5ea3dfd67684d8137",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6c7386a6a0b98efd0051a9aa595aab3396f117fcb20e0aee49aaf557301ce4f7",
+      "bytes": 15720
+    },
+    {
+      "name": "p01",
+      "sha256": "94e7f73eee15700ae19dc827eb12bfcf3ee014b0fd45e5b09312dfba97ab1a73",
+      "bytes": 11706
+    },
+    {
+      "name": "p02",
+      "sha256": "f91d5eb85143d1f844d4d79a89ee521aab6436a34e3554159c3d6b3c48edb802",
+      "bytes": 11710
+    },
+    {
+      "name": "p03",
+      "sha256": "64ac36c7ed662885aee8cf1f9c5e93c49ffe28566320aa2b13e65fb9e38c39bb",
+      "bytes": 11690
+    },
+    {
+      "name": "p04",
+      "sha256": "ea527dd0a7351976d50df2f9f63e61ae8dca76ac311e7edcce5e49a64c46e2b5",
+      "bytes": 12804
+    },
+    {
+      "name": "p05",
+      "sha256": "00701b8e65f09c5339e363c5f8aa698d3fb6e5db3fa58aca5954c7990847282e",
+      "bytes": 12486
+    },
+    {
+      "name": "p06",
+      "sha256": "0e0e1a3c1d9a319c75ec78b0fc5bce5304e49622eaef2ffe52df910a9aac23ee",
+      "bytes": 13796
+    },
+    {
+      "name": "p07",
+      "sha256": "3fb0b5c2d15e4e186938d16e9378319fe48c4f1649b765fe02cf908967b04554",
+      "bytes": 12148
+    },
+    {
+      "name": "p08",
+      "sha256": "c753b7c2f7177fc2fc2818c1df7e802af98fe8f6c759a4dfe268414849199fc0",
+      "bytes": 12184
+    },
+    {
+      "name": "p09",
+      "sha256": "a22ab5e9add967b5b792ae2deb24eaf4b233f7590f6cadb942218a540ed34a9f",
+      "bytes": 13276
+    },
+    {
+      "name": "p10",
+      "sha256": "4f95b391d15565edcee8f7a083523d15aa08f4d724f795dc4106b4ee87461cc4",
+      "bytes": 14760
+    },
+    {
+      "name": "p11",
+      "sha256": "b494a7b13703c9f0bcfa20aabe75ad8b22f26d31e791db18fe9d46b65599add4",
+      "bytes": 16414
+    },
+    {
+      "name": "p12",
+      "sha256": "c65be3755dd0329df53fa0d4ff8b102d55a57da1babfdb350cc0ce29ff22fbef",
+      "bytes": 13062
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0107",
+  "title": "蓝斗篷上的下车难题",
+  "version": 1,
+  "bodyCharacters": 1015,
+  "pages": 12,
+  "duration": 302.178,
+  "bodySha256": "5299d9488878d28484fd95ff61cf8ebfca50ad215145871570a4ae651507809b",
+  "audioSha256": "4814e5ca4e72fdbf8ad31bfb56e34cdb05614c78e549c8e777264cd641806e7c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "92e29a646f17853ca15620bd6aefd8a4a036b115daecba04fc07f2102641f91f",
+      "bytes": 20678
+    },
+    {
+      "name": "p01",
+      "sha256": "d506a3edc0c30e3aec98ea7a7a396729fa0afe17a4d0cfd57877009b4e45fa2d",
+      "bytes": 20950
+    },
+    {
+      "name": "p02",
+      "sha256": "a5fd353af3b693f541d6a8e0f1f386fdf83bd392f04b6aadb57d20116987cd0c",
+      "bytes": 17570
+    },
+    {
+      "name": "p03",
+      "sha256": "cbfa37e801d487065a7822418e022b8c250562d6c485d2ff37c5f7050f05386c",
+      "bytes": 17420
+    },
+    {
+      "name": "p04",
+      "sha256": "8a51036b75a180191b95ca095ba0c4aaacbe07208dbfc21d17b068b1eb612152",
+      "bytes": 17560
+    },
+    {
+      "name": "p05",
+      "sha256": "5614a6e757eaf158bf1a50c6f8040a33758749fdf64887f639ffb30338e78cd4",
+      "bytes": 18818
+    },
+    {
+      "name": "p06",
+      "sha256": "e70cd757da1b7a46830e97c0ed051d44e8a4821deae2b5e6efd1593a4e1e17a6",
+      "bytes": 18568
+    },
+    {
+      "name": "p07",
+      "sha256": "68c7b872ba39fe067830bd2fde61aa015d7d3fa621d6becbea67ee641686c306",
+      "bytes": 18732
+    },
+    {
+      "name": "p08",
+      "sha256": "8045e8fbb30394ccc605b2878a2a84879bbae673c1314f03efe7f16438443f99",
+      "bytes": 17380
+    },
+    {
+      "name": "p09",
+      "sha256": "36c3d268738cf2760f9663ecacc95feab14ac43f9d86c342cc71ce83d0702d24",
+      "bytes": 18596
+    },
+    {
+      "name": "p10",
+      "sha256": "4d8b958d48d2131839444ae4b9c00dc70a5668a5a9360bf59d340d14f7853fb0",
+      "bytes": 17550
+    },
+    {
+      "name": "p11",
+      "sha256": "cf96d227f82e792a67fe55adacdd1fb8d4e9c0b048a1e8cb2a6df472fb26a897",
+      "bytes": 18402
+    },
+    {
+      "name": "p12",
+      "sha256": "c0b5cbf8d96dbb401b3a1715c298a2f3a6ba3dbf17f02199c3300a497a2f7ac4",
+      "bytes": 16782
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

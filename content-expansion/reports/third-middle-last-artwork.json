@@ -1,0 +1,712 @@
+{
+  "stories": 7,
+  "illustrations": 84,
+  "covers": 7,
+  "generated": "2026-10-22T17:20:39.021Z",
+  "items": [
+    {
+      "id": "expansion-0104",
+      "title": "灰扣不肯拿月亮糕",
+      "reviewedBodySha256": "5c06935649063446f80e9f0a96d01399c57204141a106afd5891e67e06ed9750",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "ab2f1b222ef266c9091fb8010d4d0bb33f8b867231b7a9a2ecd38b13bb4f5002",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "0034c72e09cfa555dffa579df1ce9d8041718db58a2b2120ab0347044e5412f0"
+        },
+        {
+          "name": "p01",
+          "sha256": "1f9ca479b10b13cd59fead0a34525b1199b7f0cf6fb64cb546e60afb31dec898",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "ee8403efcb1963ef7e53e91a13a6826b91f289def807250cfa1a3d6a1ae858ee"
+        },
+        {
+          "name": "p02",
+          "sha256": "a9215131b53a7643b0a36fbad57b1c2dca982de41a3bb59e6e7e81d1eadcf2d6",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b30450d5682d4d1ed6e36f4c68a07dcbbe5aa9468f0587b3d63a45280520ea9c"
+        },
+        {
+          "name": "p03",
+          "sha256": "3bb92da4c2b80ee2f3bbceb9d9263a0566091232be06576dbde5f001425db4fe",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "0cd3e1354b24106fa40e300d1e8be36b6686a442bb2517cd85934754c118b7f2"
+        },
+        {
+          "name": "p04",
+          "sha256": "c7095a94359a330c681a157556c34e6f890cb68246e86daa273a7ae0d263f77e",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "e8c9bba38aa6ed7d97a45344469e3eafcacda831a2be378e392d5df2d2458a1c"
+        },
+        {
+          "name": "p05",
+          "sha256": "5fb50755e5354a45675ac440e70711696b655b3f138c94f9d5d54d64298c17f6",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "8c7a49e913f88e41272a0b0140a870cdb1d26c44422c55a9c9968565cad58ad3"
+        },
+        {
+          "name": "p06",
+          "sha256": "697e8f3f88627d9e677628e74cf0d79faf581f9b8403c088eb865c1060798a0c",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "04229daeba78775312bfa8d186dc8b86033df1ef984b58599f37629b6f6742cf"
+        },
+        {
+          "name": "p07",
+          "sha256": "812bd641bbff068c4603fb99525aafd56bf7fbbb700a04e14e08a86f8076b500",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b46919f0b76cd91aa21b9189fa789cd37ed3ad1dd4db12ffc5f86ff0f8e0df96"
+        },
+        {
+          "name": "p08",
+          "sha256": "4431d18427a962fcde9635685dad17dcfe6a8e20bc16221d7e668abfecb02712",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "1c578d8f624660eed64fddce91613325e474f123a68fb058654f84c20d3afbf6"
+        },
+        {
+          "name": "p09",
+          "sha256": "dd2092c8952124f74889569b8f7e551981992a6f62b22e40d24d414128d4b343",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "0606e0a8a38bfa7e87f64d5b66cdde1884179387439082796a91dea4f665eb4c"
+        },
+        {
+          "name": "p10",
+          "sha256": "1e2e99a515182d05ac00865f4b3fb917b7a02781f51cc778e85a5f2dc6451a39",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "f7d048df7e92347e7b88439962a764fbec311fc8e765c37c11aa1f098d65a07f"
+        },
+        {
+          "name": "p11",
+          "sha256": "b44f5eed7fd47972c56559e3f3540034c00fd67d8a0997296524ed36a62ac127",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "f749484f9110dde118dfcfa6576d25963b702fffb3f6a76ed1f31f2a441d9f1f"
+        },
+        {
+          "name": "p12",
+          "sha256": "7f6fc587b9cb0b250a9c884c64abdb79c275352ba93bcafd777e3dedd9f56da1",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "4de2588a8ff270bd50d18e459bee6ce9aa7b5c631a1c8e1cefe7ceaa0078696e"
+        }
+      ],
+      "actualBodySha256": "5c06935649063446f80e9f0a96d01399c57204141a106afd5891e67e06ed9750"
+    },
+    {
+      "id": "expansion-0105",
+      "title": "壶梨的帽子放哪儿",
+      "reviewedBodySha256": "9afd5b4955f54de57da4438ec2b3c8d1fb43e7357628af6a38ace43234757fc9",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "44b5f5032816e669b3c311635062a1859e8f5de428e9ca4347c0aaa3a280a250",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "23b505abee9fe0d1c84eb8b7b682c65582bfd491996af57b9565b2259f9fb977"
+        },
+        {
+          "name": "p01",
+          "sha256": "59356d076ed7931491ac3efcbd559a43becfa75a9c044db9c9d09737cb8b8308",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "c6096a01400b32048155d926b9f7d1c600cc6acfb3f9c0533b5a032c74224762"
+        },
+        {
+          "name": "p02",
+          "sha256": "831e2e5ecfe43124aa698d5af528bd87792ff2583dce3cfaaa41865bd0189a3e",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b314711d43cf9a5ff9d5cfeceee769cedad37e390d950575b671b01680aff809"
+        },
+        {
+          "name": "p03",
+          "sha256": "c651afb5b70e636640fd9231609c8864a84e75ac3973456d9b58c1587b707991",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "852956c54644e42a1a14c8144403d7b9fb60e2649093026a0e8ccaa106799ca7"
+        },
+        {
+          "name": "p04",
+          "sha256": "38a7d88780cea871253860170d2acc4c275503a5f7d1aa5b3118d2219051de08",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "0509f32b8b1c20c217ebb72aaa3a63bb6776c9424e36779e5d5a62d99d287ba4"
+        },
+        {
+          "name": "p05",
+          "sha256": "cddf8a50aff2eff245234fee9c5ae1ca6d6a0057ced02659b98a80b5c5063f88",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "417dc6ff639dd2cbcb9148bf69ed070667fdc89a7b04c743eec1dae0362b48fe"
+        },
+        {
+          "name": "p06",
+          "sha256": "7363c8c5e65c987a440799d7b0b0229d17a13b7f4f6063374191d464d9f2b64d",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "9596efde611e35379f019b8c30b4dd76849d979f76722ba65efccbe19ab6db52"
+        },
+        {
+          "name": "p07",
+          "sha256": "9bc640cb02c16aa855591c790752c64dc28afd731969279ab23d6a7a73433a88",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "34115f47741e88967f2a5954d63dc84304ee7f610aa411deb42345e0121e9f50"
+        },
+        {
+          "name": "p08",
+          "sha256": "507fd75f4fa0d03dc79502b2210388f0ea1490bdbca3b4abcc0fc35d963acc43",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "592fdf7d3b147b67b0d367a01d756d6a90e3340c0124faa8d9a99ca50a6460c8"
+        },
+        {
+          "name": "p09",
+          "sha256": "d4284186793381d3b6fdb004f552ad3d1e6850458b9761a26a71b4370a4cc517",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "ea9e9723fcaaa84df20d552a5e0c576c5212d883317f3da9e2e5b4c6dd8294a8"
+        },
+        {
+          "name": "p10",
+          "sha256": "19436001a3e17c85a9c1f01db401685adb9dfc084dd1c3f0c052eb8bef4baa56",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "523cd3f05adfebc0092109292f3b55487ce977bfb8d23163d4d94261897592a8"
+        },
+        {
+          "name": "p11",
+          "sha256": "0ab9e1e21012f07abdeeaf948b7f24bbfbcd4aee88e18a456a4b8a4e132b5c57",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "69062a80c74efdfc18847c58a5a5198d02538ba4deada2a20a4e6acc66e082c1"
+        },
+        {
+          "name": "p12",
+          "sha256": "b6f45db54915d3e6c5cde55c6574218747ba23bcffbb06f6386a7e184d1ca526",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b01cb2d4acac021d20cb6630e78307b27b24d581480e9168220abd2c14a4deec"
+        }
+      ],
+      "actualBodySha256": "9afd5b4955f54de57da4438ec2b3c8d1fb43e7357628af6a38ace43234757fc9"
+    },
+    {
+      "id": "expansion-0106",
+      "title": "飞马旁边绕个弯",
+      "reviewedBodySha256": "983bdc724a75005ebaffa40d60cda43516f92463fb9bffae864751188be30aef",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "b671aa4406c4cc07364012d682b486837cce783ec0ff7a4b65f26968c403ede2",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "05e2dc568d854e5d5c573584aa71ecbd972f9afd34c470550feba8fb01ce1052"
+        },
+        {
+          "name": "p01",
+          "sha256": "ab9b00f3005ce9a03616c64d7d65790d39039906951bb7ff8a48d70efbc0777d",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b090a8aba3dccf9b70d0c100385dea75617896625192575dd11ceb49b0c183fc"
+        },
+        {
+          "name": "p02",
+          "sha256": "783f6871cc6424272cb9e4c188bdc405c1bbbeb60d9a63be42312b50311b8883",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "78bb0b4a23827c48dfbf64675366af573b3f7a06048dd06c1ac8b7287cdedb83"
+        },
+        {
+          "name": "p03",
+          "sha256": "263488b8122f44f640276ef886505539e2cac7b6eb92a147c313b6ba06910125",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "ac52dc955408de87951fde096605909ee86002327cfca6cee3657511844024c9"
+        },
+        {
+          "name": "p04",
+          "sha256": "4543f5479344574974b137b7b55dfd583fef216a08ee1f812b287139de261188",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "3e7cbf9839faf7b6c6e258258aab784926511467dac2b2f06d73c5b055a73077"
+        },
+        {
+          "name": "p05",
+          "sha256": "4cd3420b61ea80d18ddfcebc854096b38d3e08ce70bea67f4815ac1dc2978f29",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "327f95fc73d85aa793a8d3aae196a4d5aa1b90a734974279031288fea5cadf6b"
+        },
+        {
+          "name": "p06",
+          "sha256": "5b383d359ba53699e435755d3762f936f6543a81c6329b8c743cae4b6b947ff7",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "fce20ebe849f6db727bd1100c28af061bafff371edbdc71a8fa56368f190753e"
+        },
+        {
+          "name": "p07",
+          "sha256": "1d085b588a5e5dfc297af09771713b7813b797c5f7e2b0c67943dd83243f8137",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "46b85984f71112044077dcde77ea526b35dc6f9d68dbd17e38e8ba57a68e60d6"
+        },
+        {
+          "name": "p08",
+          "sha256": "1427aa7d76f9ab1a28ccbe86c56e3b2f28033c607816b4063c0b180bcca21ad2",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "4f695c63bf938c926f54f0437fdff2521bbc941be04470b08308d857dbe83fda"
+        },
+        {
+          "name": "p09",
+          "sha256": "9b7d63bcb49ef21bac8120f85724a3310dc9ccf1eae4a63dcd1c5450946ba27d",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "8e6253cc74f4625316d5e879febd25adba62346dafcc22bc706d0f7060756170"
+        },
+        {
+          "name": "p10",
+          "sha256": "2a53a3e7195e98543d62c07963c6db5c7a263961ac22c3ad8fa5cc3a7e1c2a37",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "227ac82a6662c3e54fa2bf909824007eef5ba469b1914d49846636e0a2def68d"
+        },
+        {
+          "name": "p11",
+          "sha256": "7079c597bdec420363aabbb8bca222dadbd7c7eac2847ff5058a0c2aff2f2c53",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "ccd08e828f6958dd5db2d4ead34e8d6d1c6131edc3b762a35e12683c8daadfb9"
+        },
+        {
+          "name": "p12",
+          "sha256": "f577a1d0406757fb08d01de34c760a65b1778c0b33c8482017a3b649cb07bea8",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "6c737cda885c299f1abe33003c7a514a4f1b2c2f07d1952df6043fe08952e4ac"
+        }
+      ],
+      "actualBodySha256": "983bdc724a75005ebaffa40d60cda43516f92463fb9bffae864751188be30aef"
+    },
+    {
+      "id": "expansion-0107",
+      "title": "蓝斗篷上的下车难题",
+      "reviewedBodySha256": "c30c6ef23017293e7135ed91d74d491d5a1d489dc08d8147814203a63b67f61b",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "a26bc0badb21419a305ab19a07a78f491a575877e4e0c6e1abefcc73e90fff79",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "a5394ccef5e3de6ed09eccdee8cf47cd7b189d82155f3736931ec443bcd63f88"
+        },
+        {
+          "name": "p01",
+          "sha256": "f716dd364c6a45c436e5e4b037c9cdaec69648857b113b998fb6c2e01120907f",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "20ed201e0df9428c3de3e2e197f4a231c1a9c60a7b8ad068a882cea7f7501ab6"
+        },
+        {
+          "name": "p02",
+          "sha256": "ad473a4baba5a5bcccc3e6717c1494f498293382ec2411ad68a0484dc99afeea",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "ad2e9d606b316ad6f43977877b8db0e1e83f142b5d2bd6b4b4843aff7c1786b2"
+        },
+        {
+          "name": "p03",
+          "sha256": "4c00e9a36379988b20edc43cc78dbd5a148ab4e058f9eb4f061d8f8ad31b0b3e",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "571b2266a411b8c3d2529f63c396bde7932444cab99f404bd3e82489443f445d"
+        },
+        {
+          "name": "p04",
+          "sha256": "12a62117955eac3e710d6361627b00649445a28bf04c23b8e24d55b663a930ac",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "6832aec86fa7edd0d13ee829528b21c81094c4b8df11ebc68d9908debfa7566f"
+        },
+        {
+          "name": "p05",
+          "sha256": "6731c1cb64a458e5e0684e30cea1b12fa1db59c6fe38bd97bf1a6b6055838294",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "0cc737200377ba326a22784f187f60cc258083bf842e8e7623749bad760d5e26"
+        },
+        {
+          "name": "p06",
+          "sha256": "e652208a7389f51f721a554e9cf14072ee4a1f6e2cafdfc1d6e658d83936c94c",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "e59cc5ab88bf1dcacdf74e1b0185ff3067469695fa3fd9557462e226e2597909"
+        },
+        {
+          "name": "p07",
+          "sha256": "6d851d4c95cf634fc825ffc6ac1dffb8282afe6f3486549a9ab9edc8498709ea",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b91e08c95c624c68bd7d25e410e7374422f07ae83ef5adfff72d9eb2198f42be"
+        },
+        {
+          "name": "p08",
+          "sha256": "4dd3b5e4994c5ed738c70a37fabf036eaac51c39edc3684e77e308d2456e0725",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "f6269599cf730125eb39467cf574bcdf00c97f692ae7a6c9e3a09ac30d1fa109"
+        },
+        {
+          "name": "p09",
+          "sha256": "7279de404edbe6840dc599a8cd0cbcb3ca75c0367e3dab80ba9ddc34e8084c88",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "5223181d51d1151939cdfc4f64b92f9a08f06b783717bb35c49fdd8eb61bb5d6"
+        },
+        {
+          "name": "p10",
+          "sha256": "974c3776454f2fcb4776e6ab828a822be67f401d2a91ed40a88e81ab9c9057a0",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "33f2562d9e6ca10ac97955c7ed08ca421c08319533059db30298fd8cb9c04e47"
+        },
+        {
+          "name": "p11",
+          "sha256": "02b4bd0222f671c5d809f513203e854f65594617a2b41c835a8eef988465705e",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "924e3c24672d5c47802f1dd1bf72ff99d21abe734ed1091f822b1f280d9915a2"
+        },
+        {
+          "name": "p12",
+          "sha256": "0036f16585cbe97c7980c1cc7d1058b2f448a18ba9236124b1bd649356523d11",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "540cf7fcc4115a73c0bc397ccce552af62c4f93a23278fdb89bba27d376cb7e2"
+        }
+      ],
+      "actualBodySha256": "c30c6ef23017293e7135ed91d74d491d5a1d489dc08d8147814203a63b67f61b"
+    },
+    {
+      "id": "expansion-0108",
+      "title": "苔豆守着一罐安静",
+      "reviewedBodySha256": "daf8c175ca148d5a899180e36e1750e2f89ba264de25bba28260995662d7220c",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "803fa6dea7699e0981a933386a682f69ad9bf14c4b6a97d230c37372fc2603b4",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "67300cdcc3f9dc7517827fcf2405306b9b2eabc4788d61e4985f662e7d275597"
+        },
+        {
+          "name": "p01",
+          "sha256": "31628a04a51a5332578af48ebfd433bb83d8d6ff6a3d3fa359cc599275b46bb3",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "62e9fe4a4bb399051601d50ad85608f95e2ece69b2ffba19207f81bb573ca5e3"
+        },
+        {
+          "name": "p02",
+          "sha256": "f426f1a9d9af18de6f3bf60005753bbcc62e8f22018e0aa211acf3a010c7b3c2",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "3f43fab31ddd547f207f56ae9d8cdd179af9bfd417a1a23377a2d4edf72103c2"
+        },
+        {
+          "name": "p03",
+          "sha256": "0435ab1b6e6ef802c1c310c5b07c99c81bcd148a374f12c81c4438afceded1c0",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "f1a7c2af80b7caee4e7c6a70f9b087544c3eb290aa2f387359499084aeec29c9"
+        },
+        {
+          "name": "p04",
+          "sha256": "faa0631f67f3fdfbf8a8a9b5d399185ee3b8d88b7125148f2c90fece6e947cf5",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "e3cd2c422c27f503c8ebd5ae767b273ab18e173da43bd0d2d04bc0dd2c5b7e31"
+        },
+        {
+          "name": "p05",
+          "sha256": "4e8b730c4327dfddec73ba2408fceaf424b99dc4e9fe95617185c5d5e7e573a1",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "9a8a5224f9f3e210f6a31bf45ef54d033580c04a3c0f0595a6c0ec5bb042ca55"
+        },
+        {
+          "name": "p06",
+          "sha256": "23d4579fc486222dfef1d6cd6ba604828c3a0407c0039f949672216607e002d6",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "a765e99a9ee3c6321924a4a4e777084a24512ebd81156a78bafdf923667f94ac"
+        },
+        {
+          "name": "p07",
+          "sha256": "ab89ba8934fb442cb3ad103d4a3ff011fb837dfd7ebfba2a04c39abba9186970",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "d47405d690da9953ea192efca16f7966cbe6dac4c4037e06fd18e82999b904a7"
+        },
+        {
+          "name": "p08",
+          "sha256": "5dd603d0b9b12d598aeeda999a7996ef8b9ac1152dfd617287184edd08607c9d",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "84b29590a822014de03b46d59630ebfa4df519570f27b2a23e0f7e2647e0266b"
+        },
+        {
+          "name": "p09",
+          "sha256": "e8cbbbefebad9929c2c6f5e558e82cb3e12a75b9cadcb0e5b837923c42e9b8db",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "59b7a899cb3f4eff7ff1f21d37691bfc386fb092fc92e90897d7a0fed1f6eefd"
+        },
+        {
+          "name": "p10",
+          "sha256": "d9ea5573e3be1bb932136db65fbb2e9cc38666c9b30ee4cb389e706172ae7854",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "e8eb2feaa24f4be193ce4f203d24441ad3e2c65255cc3f52dd5f97b5197072ad"
+        },
+        {
+          "name": "p11",
+          "sha256": "e0952b8bccdefae09ddf68b3183fc41a1c3b6f3a50af4eac3f9df3121f713c07",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "fa2aef12cb2a6566f3a01df4774bc8e28b95798a709d248ee288c9877343029c"
+        },
+        {
+          "name": "p12",
+          "sha256": "e5cf21c29b921ec1c99e11814da79f823ca0815a9574716cefe8b03f0b09d7c9",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "2eeda91c9c265fa156d6e1bd9ae0f9f83d62b1d7e8cd1bb6387129703ff2c726"
+        }
+      ],
+      "actualBodySha256": "daf8c175ca148d5a899180e36e1750e2f89ba264de25bba28260995662d7220c"
+    },
+    {
+      "id": "expansion-0109",
+      "title": "六次和六次之间",
+      "reviewedBodySha256": "bdc7715eebf521df03653ff64cce280a878ca780f715ab3feb84ce87be6e47a1",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "91d760b30b4e29fb3319d3173f778ef0fa78ec210664c3550c9a6c393340559c",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "4f609408ce04e8c1d8272064fd1f5f51245545137ad16083e35f12df7cb7308e"
+        },
+        {
+          "name": "p01",
+          "sha256": "4fb154f24327d9b94b34eead59ae0f696f86d0cd51ed180c585cc9b8f4106f93",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "651dde167ff6218f82ceb69c779ee56f3954fec90787f2960fe272e417fc44bd"
+        },
+        {
+          "name": "p02",
+          "sha256": "86c72914426a7851917d7d6769db365610845fe01f074c53e1f1cfcc9cded67e",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b382b0978dc4fd6a1f0baf3d5f1f3e960a5f19c10a8bea7cb6b8b0a8f440a2c9"
+        },
+        {
+          "name": "p03",
+          "sha256": "4c0bf917166652ace6d3e89e07cc14d0730c31ca4512e534bfa8d303a0c19c1b",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "b77ffe2032190d2caa5776beeef3d2f8daec71e711611686823052cb18f5c437"
+        },
+        {
+          "name": "p04",
+          "sha256": "49c9a8c5ad0275bba64fc260319733d467118b81b979d920976541cafba4ef98",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "3f2fe78537d0433eec5baf9f439926ad6946467faddf591915c2bbd335d6aa68"
+        },
+        {
+          "name": "p05",
+          "sha256": "462a4236e57008716513806c51eb04466bb6aab17f609dfeb642f6f099a1777a",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "65c7ab8aa53d8160420094b7df1602df75a20c3712c4f0980fa2756e45959936"
+        },
+        {
+          "name": "p06",
+          "sha256": "96f3d4ce8debb6977f2036fe69e11afbb39a2e4d04dc808c6386bf7e71abf722",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "0996d63fb67afa6877159935b32b638d6b8b424599b5fe05fe04c3279ca57d5a"
+        },
+        {
+          "name": "p07",
+          "sha256": "32cdad0a9ff16f3a221f581748dffeb534e62cd35dbfa2d142764a12828e24f1",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "afbeadaba7008bcc13d03600840b8caec3159ff880d1ce2ddd50a6bcbfce13a4"
+        },
+        {
+          "name": "p08",
+          "sha256": "9a5d20c645c184b60d08be98d05c38c0364697d4d0f9e968c170714c50bd71d6",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "ec0427d925fc7d3b4cee332c719b49d2f0011ef75c78f7145ec513e532f718bc"
+        },
+        {
+          "name": "p09",
+          "sha256": "676c7e5bf63b1cc7b79e5b4d0d7af87dd1f3ea1ec5f381c648fc3d8e27e836ee",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "6b9b8df59583c37327e30a38c8c7340cd35a697c6d1655114439b448f825ea22"
+        },
+        {
+          "name": "p10",
+          "sha256": "4a3d2cb75f05a235dec9c5fbebbb15287b9978863c15996e799bb0f392ffc8c5",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "855924fea4db7d9f9e20fc2e2bc714bf88170d68eea65805b07fdde97f8f8bd5"
+        },
+        {
+          "name": "p11",
+          "sha256": "65ec54bfdf4c12aeaa7e90d2e29bb859bc811619b80227aeefda3ef2c568c593",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "f85766614b9d3598393879023c33766104dc07baf9189805f1dce19838703533"
+        },
+        {
+          "name": "p12",
+          "sha256": "fa313bb4246bdc0c6d4cc33e4c6ede50ca4fd654e42886d490a9782daeb57fd5",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "7508896e32643d80014bd380921c5b79afa084e3aa1d5d5d4bf60b62307d8ef2"
+        }
+      ],
+      "actualBodySha256": "bdc7715eebf521df03653ff64cce280a878ca780f715ab3feb84ce87be6e47a1"
+    },
+    {
+      "id": "expansion-0110",
+      "title": "野餐日穿着半件雨",
+      "reviewedBodySha256": "8e31ec302a730bebd0568d91c034c44c35bcc567eefaf12419987a5e64201d12",
+      "assets": [
+        {
+          "name": "cover",
+          "sha256": "d26c6a6132e405ea975511e5bebb720cf55d0dbbfbe484d8bb1c4d877707952d",
+          "width": 1000,
+          "height": 1000,
+          "pixelSha256": "a29e30c9cc429cb829aac85255fecf3b36c20d1847d3cbef13664830e22242d5"
+        },
+        {
+          "name": "p01",
+          "sha256": "7f31cf5be8ce92f126902eac1a153e7edd850285dce9cea1c2b391b646feee27",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "ad582a012becaee2abffba47e2db924d6b4f063d285ede1aefc507ae0b3f3d09"
+        },
+        {
+          "name": "p02",
+          "sha256": "a8774bb1ccdd037007a0bd04c092b4e616ef470b295b4f451f80ad609ac9a542",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "06bf882be4cabe5beed1815afebffa4d8eda9ffb810c20e0ba37021710d51ad3"
+        },
+        {
+          "name": "p03",
+          "sha256": "1051eff5942dc25c7c27c83e190e6326cfb6df63dbdbd43d9278687f3cb98fb9",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "1c1df5b13552b9b1ba91476000bce8b1d9ab3896cc1be4510b743a7145a01c9d"
+        },
+        {
+          "name": "p04",
+          "sha256": "13f68f12a27f31e893157162b8e1b061c9d0dbacd88f876855cf2325d4fc89e1",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "7cddf7add858af4f3671abbde3be0d40dbd11a9e9697d7e57dc98e34190d965c"
+        },
+        {
+          "name": "p05",
+          "sha256": "607251dea080d0520cd9f0d5d424cd9d0872af78b951843886730dbc833543cf",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "7b780f79beaf057d1ae4c1325cae5c1fd6e4775876a525ededa1a2c6629ec28d"
+        },
+        {
+          "name": "p06",
+          "sha256": "9e45bbbfa469ad47ae5c71ee9da06d5aa7a939b6cc7752f37bd7c9cd8b1912cd",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "999abe9ad4b78a21f518aa06da44db77144196129e68502e4fe40e43153de4e3"
+        },
+        {
+          "name": "p07",
+          "sha256": "2c59289da4af3b764739cda02ce25140389d3d77770f7c7c126281b350b0cdf6",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "a86e063303b9e2147b24c8a9d7576c5066fccc9489bc9513bf67627eba43a569"
+        },
+        {
+          "name": "p08",
+          "sha256": "4f0898d441f8ce6fa0216453d461c3b526ba373f9d478daaac0c58b53895e535",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "48651b8caaf343ff9f4cdde0badb694bde182e318e9bac84631dc40d9f7dfdb2"
+        },
+        {
+          "name": "p09",
+          "sha256": "e9acaca5a3af845d3cee26b6d997bdfdd3b553770f3dcb5849950b2fe99ae090",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "41d5f5fff60e3078761228d9d9d2e0352ba813be2f32d2c995952fcf3d286eee"
+        },
+        {
+          "name": "p10",
+          "sha256": "c38febed61215decdfaeb516a0488769ad93c4d6fb6e8587bfa2dd5bfe36dcc7",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "73ee9133fb8c2edc190b28ce9f56a8db717f725e96f9bdb1d29896651c097226"
+        },
+        {
+          "name": "p11",
+          "sha256": "69209a469ca22e66bed61428971f59a1124c6b421993f6e1f98b06e52b3514af",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "1f864ee4abb709b065227c40278e1d827feee3885df59ea8b5ccf7bf1c43a52c"
+        },
+        {
+          "name": "p12",
+          "sha256": "36ada938f673bb39a06828355087b5c9ffefc4224a802c6bfd26864dfed78d3e",
+          "width": 1000,
+          "height": 800,
+          "pixelSha256": "cc42b2c5499673b12c45c92c0f6481f13eda1327c81ce084c084655206bac25d"
+        }
+      ],
+      "actualBodySha256": "8e31ec302a730bebd0568d91c034c44c35bcc567eefaf12419987a5e64201d12"
+    }
+  ],
+  "renderer": "scripts/expansion-art/third-middle-last.mjs",
+  "rendererExport": "thirdMiddleLastArtwork",
+  "rendererSha256": "a9e3a372a45cf1b3865fee46f41ca32166b0a27b853330ed9f942e695cb9688e",
+  "validation": {
+    "decodedImages": 91,
+    "uniqueSourceHashes": 91,
+    "uniquePixelHashes": 91,
+    "actualBodyHashesMatched": true,
+    "finalManuscriptReviewHashesMatched": true,
+    "invalidNumericValues": false
+  }
+}

@@ -18,6 +18,7 @@ import {secondOlderLastArtwork} from './expansion-art/second-older-last.mjs';
 import {thirdYoungFirstArtwork} from './expansion-art/third-young-first.mjs';
 import {thirdYoungLastArtwork} from './expansion-art/third-young-last.mjs';
 import {thirdMiddleFirstArtwork} from './expansion-art/third-middle-first.mjs';
+import {thirdMiddleLastArtwork} from './expansion-art/third-middle-last.mjs';
 import {thirdOlderFirstArtwork} from './expansion-art/third-older-first.mjs';
 
 const ROOT=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
@@ -47,7 +48,7 @@ try{previous=await json(path.join(library,'index.json'));}catch(error){if(error.
 assert.equal(previous.schemaVersion,1);
 const index=new Map(previous.stories.map(s=>[s.id,s]));
 // Hash only registered, reviewed renderers. Unpublished artists may work in parallel.
-const artworkFiles=['first-three','young','middle','middle-extra','middle-last','older','second-young','second-middle','second-middle-last','second-older','second-older-last','third-young-first','third-young-last','third-middle-first','third-older-first'].map(name=>name+'.mjs').sort();
+const artworkFiles=['first-three','young','middle','middle-extra','middle-last','older','second-young','second-middle','second-middle-last','second-older','second-older-last','third-young-first','third-young-last','third-middle-first','third-middle-last','third-older-first'].map(name=>name+'.mjs').sort();
 const artworkHash=hash(Buffer.concat(await Promise.all([
  ...artworkFiles.map(name=>fs.readFile(path.join(ROOT,'scripts/expansion-art',name))),
  fs.readFile(path.join(ROOT,'scripts/render-illustrations.mjs')),
@@ -69,6 +70,7 @@ for(let id=76;id<=80;id++)renderers.set(id,secondOlderLastArtwork);
 for(let id=81;id<=88;id++)renderers.set(id,thirdYoungFirstArtwork);
 for(let id=89;id<=96;id++)renderers.set(id,thirdYoungLastArtwork);
 for(let id=97;id<=103;id++)renderers.set(id,thirdMiddleFirstArtwork);
+for(let id=104;id<=110;id++)renderers.set(id,thirdMiddleLastArtwork);
 for(let id=111;id<=115;id++)renderers.set(id,thirdOlderFirstArtwork);
 const completed=[],skipped=[];
 for(const story of manuscripts){

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0110",
+  "title": "野餐日穿着半件雨",
+  "version": 1,
+  "bodyCharacters": 974,
+  "pages": 12,
+  "duration": 286.41,
+  "bodySha256": "fa19e139702d09dd558e537032f9ab9b38d284be626a3ccbccca52854ae531bb",
+  "audioSha256": "0ee616aa10140902a6acab55e60764a42f3b8a9fba39957c8401240574c564ef",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "26989a93a51728c06fa07198b8c4600a286a1a38b41460f6c4e97d83c3d594ed",
+      "bytes": 23474
+    },
+    {
+      "name": "p01",
+      "sha256": "f012950939624998bb7a259783bc928df79cd7fc4157efef5e422ed2543c1237",
+      "bytes": 12592
+    },
+    {
+      "name": "p02",
+      "sha256": "8f30f2c77dd87b3da70ac2fdfd6106f0997f4e503325165be7db405bcc14f488",
+      "bytes": 12526
+    },
+    {
+      "name": "p03",
+      "sha256": "8fdef09d9e94200cd53496cb8c13e014f124b352c4062110ca81d67d7811c1ae",
+      "bytes": 13464
+    },
+    {
+      "name": "p04",
+      "sha256": "48e54c2cfe74da59b4d6789432968e556e5e0cb2fa924962ca1053d795976c8f",
+      "bytes": 15412
+    },
+    {
+      "name": "p05",
+      "sha256": "18d512df96c791d4784af4c62af26a115d8c4dbc0b0a1581a6ef417e7dc48041",
+      "bytes": 14182
+    },
+    {
+      "name": "p06",
+      "sha256": "17d61267c61e1897eaa666e060c79822a96e27cfa86c7ca3532dd66d6896ca9d",
+      "bytes": 13768
+    },
+    {
+      "name": "p07",
+      "sha256": "0d15811989e3d2ca0a926210def2a95c25181fdbfed98435bbf50e336d3a63cc",
+      "bytes": 18900
+    },
+    {
+      "name": "p08",
+      "sha256": "5482f3c62dfde6e03385d98ed7182dcf44360fccf6852fbcc28eaab1e5437321",
+      "bytes": 18778
+    },
+    {
+      "name": "p09",
+      "sha256": "881c81aaf0448e373a748d1a9896d51c2a53e477d0d73148bdfe6ec5b941b977",
+      "bytes": 13894
+    },
+    {
+      "name": "p10",
+      "sha256": "f90f8032639d83fd26b7d21613633374d856e0113e0f0bdb9b595e8136ca388f",
+      "bytes": 18702
+    },
+    {
+      "name": "p11",
+      "sha256": "f95ff19092675af76ef25c21d0992d1666631cfe881612cecbb174ea280da5db",
+      "bytes": 14092
+    },
+    {
+      "name": "p12",
+      "sha256": "9007d877471ac7f72c5530670a74e59d42391639ad18b4579494dfc64bdda4e7",
+      "bytes": 11956
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

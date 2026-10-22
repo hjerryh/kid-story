@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0104",
+  "title": "灰扣不肯拿月亮糕",
+  "version": 1,
+  "bodyCharacters": 1055,
+  "pages": 12,
+  "duration": 320.778,
+  "bodySha256": "dd6c811984cdf9535e4f889625ed877125d46a9d22b185c6a0b0fda7467a9509",
+  "audioSha256": "2fda311f02e08e5bfd15d225cf6cbe5e0176e2cd611bc0f6ae4bc131800e8a45",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9cc711a6392d95a2bfcab8be409ee372f5f1a3f30b279a37634ba0269d6b58e6",
+      "bytes": 17170
+    },
+    {
+      "name": "p01",
+      "sha256": "fc6f6af3334934e470544069906ba4fc1b5c85a9b72c25ab336e62bf706cedcd",
+      "bytes": 14458
+    },
+    {
+      "name": "p02",
+      "sha256": "942dbfe8052f9f70bc6e71afa7f6bf67aba66586775f2a607dc356d30afe3e00",
+      "bytes": 14160
+    },
+    {
+      "name": "p03",
+      "sha256": "343e60fddc6a8a6bd444f6d427cd52a88a1d1949f606755d3ce9489c16dc56bb",
+      "bytes": 14914
+    },
+    {
+      "name": "p04",
+      "sha256": "1cfcecada930c248180311cf934002a0e03fa0eeeef64d3adc0fef3c8a96d3f5",
+      "bytes": 13556
+    },
+    {
+      "name": "p05",
+      "sha256": "2ddc7f90172b4decf7b1a0d95f6f1441cfc1305232df6b2444de2b9a219ef763",
+      "bytes": 13074
+    },
+    {
+      "name": "p06",
+      "sha256": "42999363d3a022b218233656961bc18cfffd9db35c8c908a42867f271b73d911",
+      "bytes": 14348
+    },
+    {
+      "name": "p07",
+      "sha256": "ea445c20367bcea5032bc84c59b630b69b698363e4186e79e1dcb9816cee8f05",
+      "bytes": 13160
+    },
+    {
+      "name": "p08",
+      "sha256": "f77b3aa27020e2190137093f946d87ca8120665f92072ab9dfff1817595ea38a",
+      "bytes": 14160
+    },
+    {
+      "name": "p09",
+      "sha256": "57389258b1292c4a017f3409eceb995fd662a0fb253889f60f45062c60516b44",
+      "bytes": 13872
+    },
+    {
+      "name": "p10",
+      "sha256": "ebcbfd55deab94cd58a57f20ab0b1e076f7ea7f9d58e9fe0b11e5950b7bde99f",
+      "bytes": 14382
+    },
+    {
+      "name": "p11",
+      "sha256": "b2b900596c0b62312632f2f40bf8bfff0aa56944081a917dfd7e1d5bed571f89",
+      "bytes": 14610
+    },
+    {
+      "name": "p12",
+      "sha256": "72966731f43568fd8b89d3ebb3d80ba0124446bc4b59e08a0d40ca3972c9d7aa",
+      "bytes": 15754
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
