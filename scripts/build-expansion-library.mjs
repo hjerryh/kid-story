@@ -57,6 +57,12 @@ import {eighthOlderFirstArtwork} from './expansion-art/eighth-older-first.mjs';
 
 import {ninthYoungFirstArtwork} from './expansion-art/ninth-young-first.mjs';
 
+import {ninthYoungLastArtwork} from './expansion-art/ninth-young-last.mjs';
+import {ninthOlderFirstArtwork} from './expansion-art/ninth-older-first.mjs';
+
+import {ninthMiddleFirstArtwork} from './expansion-art/ninth-middle-first.mjs';
+import {ninthMiddleLastArtwork} from './expansion-art/ninth-middle-last.mjs';
+
 const ROOT=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const args=process.argv.slice(2), inputAt=args.indexOf('--input');
 assert(inputAt>=0&&args[inputAt+1], 'Usage: node scripts/build-expansion-library.mjs --input <story-json>');
@@ -84,7 +90,7 @@ try{previous=await json(path.join(library,'index.json'));}catch(error){if(error.
 assert.equal(previous.schemaVersion,1);
 const index=new Map(previous.stories.map(s=>[s.id,s]));
 // Hash only registered, reviewed renderers. Unpublished artists may work in parallel.
-const artworkFiles=['first-three','young','middle','middle-extra','middle-last','older','second-young','second-middle','second-middle-last','second-older','second-older-last','third-young-first','third-young-last','third-middle-first','third-middle-last','third-older-first','third-older-last','fourth-young-first','fourth-young-last','fourth-middle-first','fourth-middle-last','fourth-older-first','fourth-older-last','fifth-young-first','fifth-young-last','fifth-middle-first','fifth-middle-last','fifth-older-first','fifth-older-last','sixth-young-first','sixth-young-last','sixth-middle-first','sixth-middle-last','sixth-older-first','sixth-older-last','seventh-young-first','seventh-young-last','seventh-middle-first','seventh-middle-last','seventh-older-first','eighth-young-first','eighth-young-last','eighth-middle-first','eighth-middle-last','seventh-older-last','eighth-older-last','ninth-young-first','eighth-older-first'].map(name=>name+'.mjs').sort();
+const artworkFiles=['first-three','young','middle','middle-extra','middle-last','older','second-young','second-middle','second-middle-last','second-older','second-older-last','third-young-first','third-young-last','third-middle-first','third-middle-last','third-older-first','third-older-last','fourth-young-first','fourth-young-last','fourth-middle-first','fourth-middle-last','fourth-older-first','fourth-older-last','fifth-young-first','fifth-young-last','fifth-middle-first','fifth-middle-last','fifth-older-first','fifth-older-last','sixth-young-first','sixth-young-last','sixth-middle-first','sixth-middle-last','sixth-older-first','sixth-older-last','seventh-young-first','seventh-young-last','seventh-middle-first','seventh-middle-last','seventh-older-first','eighth-young-first','eighth-young-last','eighth-middle-first','eighth-middle-last','seventh-older-last','eighth-older-last','ninth-young-first','eighth-older-first','ninth-young-last','ninth-older-first','ninth-middle-first','ninth-middle-last'].map(name=>name+'.mjs').sort();
 const artworkHash=hash(Buffer.concat(await Promise.all([
  ...artworkFiles.map(name=>fs.readFile(path.join(ROOT,'scripts/expansion-art',name))),
  fs.readFile(path.join(ROOT,'scripts/render-illustrations.mjs')),
@@ -140,6 +146,10 @@ for(let id=276;id<=280;id++)renderers.set(id,seventhOlderLastArtwork);
 for(let id=316;id<=320;id++)renderers.set(id,eighthOlderLastArtwork);
 for(let id=321;id<=328;id++)renderers.set(id,ninthYoungFirstArtwork);
 for(let id=311;id<=315;id++)renderers.set(id,eighthOlderFirstArtwork);
+for(let id=329;id<=336;id++)renderers.set(id,ninthYoungLastArtwork);
+for(let id=351;id<=355;id++)renderers.set(id,ninthOlderFirstArtwork);
+for(let id=337;id<=343;id++)renderers.set(id,ninthMiddleFirstArtwork);
+for(let id=344;id<=350;id++)renderers.set(id,ninthMiddleLastArtwork);
 const completed=[],skipped=[];
 for(const story of manuscripts){
  assert(/^expansion-\d{4}$/.test(story.id),'Invalid expansion ID');

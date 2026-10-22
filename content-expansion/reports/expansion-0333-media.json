@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0333",
+  "title": "金冠在门口亮闪闪",
+  "version": 1,
+  "bodyCharacters": 515,
+  "pages": 8,
+  "duration": 164.578,
+  "bodySha256": "f79988f9d8bc901c21906ffa208416a8ee841c28e91c97789274910def7a4d01",
+  "audioSha256": "6dc8d9a7e45f7cc6f2ebcee15ba6b3c2df9ee76b1dfb96ce749ec7758549685f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4376ba76f019742c9810cd4b5aec660e3b15d8e6dd03ad40053b00876a806137",
+      "bytes": 11698
+    },
+    {
+      "name": "p01",
+      "sha256": "7237a8aa45dfa5a9ddf9d1844a00cb9abcaca83ad5b7fdabe9ebc696a6557d31",
+      "bytes": 7652
+    },
+    {
+      "name": "p02",
+      "sha256": "8d5dd93f5aa3cd9dc551ab3bfe3597865115f4d3ec41523d46d17028507eb98d",
+      "bytes": 7804
+    },
+    {
+      "name": "p03",
+      "sha256": "c347727d92abc02c9f193d9b8971393c2514e4a3838a43467f80ee5e5182258e",
+      "bytes": 8150
+    },
+    {
+      "name": "p04",
+      "sha256": "afcf9684313ac63680925c5b1f2936c40d3ba04687c3c435fb6bbd200bb75a37",
+      "bytes": 8142
+    },
+    {
+      "name": "p05",
+      "sha256": "0e82ae30e304bfe9d1faacbb78e27e33effefba0ee50d6897311b1104b1f825d",
+      "bytes": 9980
+    },
+    {
+      "name": "p06",
+      "sha256": "b8baae8b35f8a3c311118a161704cab776520572e856dce34cb6385646f4f7ca",
+      "bytes": 9708
+    },
+    {
+      "name": "p07",
+      "sha256": "431ec1a121ae90b0aabfb44b8cfc4c78d053343798bc60a46190ee56104bdec3",
+      "bytes": 9624
+    },
+    {
+      "name": "p08",
+      "sha256": "06bad0616f739cd2b75cb371a31a5c0946b3c05a22a920792bc9db41f6e8a4e1",
+      "bytes": 9472
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

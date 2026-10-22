@@ -1,0 +1,2109 @@
+{
+  "createdAt": "2026-10-22T22:54:43.185Z",
+  "scope": "0337–0343: 84 page illustrations and seven independent covers",
+  "renderer": {
+    "path": "scripts/expansion-art/ninth-middle-first.mjs",
+    "sha256": "5be6e378200c4191c55720676fc86d03b606308955deeec45e90acfbe1fd1729",
+    "export": "ninthMiddleFirstArtwork(story,index,cover=false)",
+    "dependencies": [
+      {
+        "path": "scripts/render-illustrations.mjs",
+        "sha256": "b87ce359a5e7772db51cd310d2f357e1edd45f1298cc9d9d8199d78301f58bb3"
+      }
+    ],
+    "dependencyMethod": "Recursive local static and literal dynamic imports; builtins and external packages excluded.",
+    "runtimeData": [
+      {
+        "path": "src/content/stories.json",
+        "sha256": "4efc1a33f4f9b9f0c5645b25337daff55922390956f39abcd751a936e18e255e",
+        "note": "Read at dependency module initialization; pure SVG primitives used here do not depend on its story contents."
+      }
+    ]
+  },
+  "editorial": {
+    "path": "content-expansion/reports/editorial-009-middle.md",
+    "sha256": "ef46268e57776611443375c1479ce7e5b60b96e02d25a7efcb53b037aac1cd9a"
+  },
+  "runtime": {
+    "node": "v26.11.1",
+    "sharp": "0.34.5",
+    "vips": "8.17.3"
+  },
+  "checks": {
+    "count": 91,
+    "uniqueSvgHashes": 91,
+    "uniquePngHashes": 91,
+    "uniqueRawPixelHashes": 91,
+    "decodedPngs": 91,
+    "dimensions": "1000×800 pages; 1000×1000 covers",
+    "coverViewBox": "100 0 800 800",
+    "nonblank": true,
+    "sourceAndReviewedBodyHashesMatch": true,
+    "frozenBodyHashesMatch": true,
+    "regeneratedSvgMatches": true,
+    "regeneratedPngAndPixelsMatch": true,
+    "invalidInputRejections": [
+      "unknown story",
+      "noncanonical ID",
+      "draft status",
+      "wrong age band",
+      "unreviewed story",
+      "empty pages",
+      "nonarray pages",
+      "wrong page ID",
+      "missing text",
+      "blank text",
+      "missing action",
+      "blank action",
+      "negative index",
+      "out-of-range index",
+      "fractional index",
+      "nonboolean cover"
+    ]
+  },
+  "visualReview": {
+    "coverage": "All 84 pages and seven covers viewed in seven 4×4 contact sheets, with all seven final sheets re-inspected. Thirty distinct images enlarged at full size; revised key pages re-inspected.",
+    "enlarged": {
+      "expansion-0337": [
+        "p06",
+        "p08",
+        "p09",
+        "p11"
+      ],
+      "expansion-0338": [
+        "p03",
+        "p05",
+        "p09",
+        "p10",
+        "p12"
+      ],
+      "expansion-0339": [
+        "p04",
+        "p06",
+        "p08",
+        "p12"
+      ],
+      "expansion-0340": [
+        "p08",
+        "p09",
+        "p11",
+        "p12"
+      ],
+      "expansion-0341": [
+        "p03",
+        "p06",
+        "p08",
+        "p09",
+        "p10"
+      ],
+      "expansion-0342": [
+        "p07",
+        "p09",
+        "p10",
+        "p12"
+      ],
+      "expansion-0343": [
+        "p05",
+        "p07",
+        "p10",
+        "p12"
+      ]
+    },
+    "revisionRechecks": {
+      "expansion-0337": [
+        "p06",
+        "p08"
+      ],
+      "expansion-0338": [
+        "p09",
+        "p12"
+      ],
+      "expansion-0339": [
+        "p04",
+        "p08"
+      ],
+      "expansion-0342": [
+        "p10"
+      ],
+      "expansion-0343": [
+        "p10"
+      ]
+    },
+    "notes": [
+      "0337：羊毛牛保持四腿、短灰角、圆鼻和有软围边的乘坐窝；低空、雾中、雾顶、落地可辨。小兔弯耳修正为总共两耳，其中一耳弯到鼻尖；草帽留手里或膝头。小白花改为四片可数且不重叠的绿叶。飞行时去除贴脚椭圆阴影，避免出现悬浮地面。",
+      "0338：蓝石早期可见，之后留在蓝袋；归还灰石时手触到石头或篮沿；白碎石插入孔石，灰鲸有四颗矮石脚。石动物始终在同一片苔藓上。抬高横枝时门柱同步延长；末页两人并坐，灰鲸穿门。",
+      "0339：蓝木马、深蓝鬃、橙围巾和左侧浅色擦痕保持一致；遮大叶、蜗牛花房、窄窗外三颗螺钉、换天鹅、看风车鸽子帽子及小叶胸针依序呈现。腰带两端连接座位，转轮师手触到腰带；下座后不带腰带。末页折小叶在围巾，擦痕仍可见。",
+      "0340：茴蓝在展开新页的一端、卷尾在收旧页的一端，操作手臂位于书页前。失败方案、三格连续海、折旧开新与尾尖未过先停有独立构图；蓝灰墨浪保留三个白点及月牙尾尖，留在展开海面。末两页只有一端已读纸摞，另一端日出页完全展开；末页朋友并坐、女孩捧茶、鲸翻身。",
+      "0341：石巨人全程卧姿，以侧脸画一个眼睛及可见右耳，另一耳埋土；苔眉、圆鼻、鼻缝草茎、气流绒絮和螺旋耳窝与正文对应。人物从鼻前移到眉侧再退石沿；修正踩到眼睛的位置。移碟页双手托碟、耳窝露出，后续碟留旁边；末页草茎回鼻缝而耳不再盖。",
+      "0342：银灰小蛾、紫翼、深蓝背心及米白包，青绿纸鸟、白翅尖和橙细带保持一致。平纸、折边、错折鼓包、窄栏杆、被代折成品、拦包说明、同向重折、藏角一柱、独立调整矮背板、检验及窗台成品依序呈现。去除重复纸鸟、补齐腿脚连接；第十页双手落在背板。第十一页选择敲硬后试坐的时刻，未同时画装包；末页翼舒展、远处见作坊。",
+      "0343：密叶、少叶、裸枝递进，十四片绑回的黄叶有裂口。方巾遮物页不提前露白石，下一页滑落才揭示。原松果首幅只露一点；闭眼摸松果、袋中选羽毛、摸羽毛、木片、抱自己尾巴各自对应。袋在地上后去除身上重复袋；抱尾巴不遮脸；末页核桃仍由树握着，鼓掌的两枝连接树干且枝尖相碰。"
+    ],
+    "limits": "Simplified original vector picture-book style. Contact sheets check composition and continuity; selected pages are enlarged. No bitmap painting, audio QA, browser layout QA or child-user testing is included."
+  },
+  "stories": [
+    {
+      "id": "expansion-0337",
+      "title": "绒丘停在半空等一等",
+      "sourcePath": "content-expansion/manuscripts/expansion-0337.json",
+      "status": "text-ready",
+      "ageBand": "6-8",
+      "pages": 12,
+      "artworks": 13,
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0338",
+      "title": "蓝石头留在袋子里",
+      "sourcePath": "content-expansion/manuscripts/expansion-0338.json",
+      "status": "text-ready",
+      "ageBand": "6-8",
+      "pages": 12,
+      "artworks": 13,
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0339",
+      "title": "青豆坐上白天鹅",
+      "sourcePath": "content-expansion/manuscripts/expansion-0339.json",
+      "status": "text-ready",
+      "ageBand": "6-8",
+      "pages": 12,
+      "artworks": 13,
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0340",
+      "title": "长海一格一格亮起来",
+      "sourcePath": "content-expansion/manuscripts/expansion-0340.json",
+      "status": "text-ready",
+      "ageBand": "6-8",
+      "pages": 12,
+      "artworks": 13,
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0341",
+      "title": "石丘的耳朵盖着碟子",
+      "sourcePath": "content-expansion/manuscripts/expansion-0341.json",
+      "status": "text-ready",
+      "ageBand": "6-8",
+      "pages": 12,
+      "artworks": 13,
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0342",
+      "title": "织月拆开了小阳台",
+      "sourcePath": "content-expansion/manuscripts/expansion-0342.json",
+      "status": "text-ready",
+      "ageBand": "6-8",
+      "pages": 12,
+      "artworks": 13,
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0343",
+      "title": "盘枝用小树枝鼓掌",
+      "sourcePath": "content-expansion/manuscripts/expansion-0343.json",
+      "status": "text-ready",
+      "ageBand": "6-8",
+      "pages": 12,
+      "artworks": 13,
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "review": "full-text-reviewed"
+    }
+  ],
+  "sheets": [
+    {
+      "id": "expansion-0337",
+      "path": ".cache/ninth-middle-first-art-review/expansion-0337-sheet.png",
+      "sha256": "03471ecac8d97f76040a1caced7fe4d96f45d32a332eaff2c500cc677622e849",
+      "width": 1360,
+      "height": 1128
+    },
+    {
+      "id": "expansion-0338",
+      "path": ".cache/ninth-middle-first-art-review/expansion-0338-sheet.png",
+      "sha256": "0722f1bc5512a495cd2b0dc6125c343df4068dbbdcb9d6a16aaabcfed7dc61a7",
+      "width": 1360,
+      "height": 1128
+    },
+    {
+      "id": "expansion-0339",
+      "path": ".cache/ninth-middle-first-art-review/expansion-0339-sheet.png",
+      "sha256": "20f4993b749cbc905b7343f3b80fc9dca43cc431be58dbc99a1f9d31241ec531",
+      "width": 1360,
+      "height": 1128
+    },
+    {
+      "id": "expansion-0340",
+      "path": ".cache/ninth-middle-first-art-review/expansion-0340-sheet.png",
+      "sha256": "2595094ce1ad720783b41028030107076ee94661a6ca91498d261a10a1a94e4d",
+      "width": 1360,
+      "height": 1128
+    },
+    {
+      "id": "expansion-0341",
+      "path": ".cache/ninth-middle-first-art-review/expansion-0341-sheet.png",
+      "sha256": "015af97b8a88eef54009d991db153e2b250e3e2dfa7c2c0fe685ea92844a2265",
+      "width": 1360,
+      "height": 1128
+    },
+    {
+      "id": "expansion-0342",
+      "path": ".cache/ninth-middle-first-art-review/expansion-0342-sheet.png",
+      "sha256": "0a898d14ebf0ffa819d91ec5f464c79342a4a2ea68a2f1417ed25eccf7b20a3d",
+      "width": 1360,
+      "height": 1128
+    },
+    {
+      "id": "expansion-0343",
+      "path": ".cache/ninth-middle-first-art-review/expansion-0343-sheet.png",
+      "sha256": "4626a5251b3a7bc14270ef6684820e8a824584be7d92b2fa14d11c4d48f06ce2",
+      "width": 1360,
+      "height": 1128
+    }
+  ],
+  "images": [
+    {
+      "id": "expansion-0337",
+      "page": "p01",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "892c598774127c0dc0b415f1ef6baafecee55bc2180a3b3d8f04c7b5315b0166",
+      "pngSha256": "adfc89ea742ea090d199bd161f9b1ffc00fd1ad1b1537f1579ecdf17222b0185",
+      "pixelSha256": "6a9e4a0475622237a873f057cc80c0a0d2154e79631d15fdfd7c33c4daa57c5e",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        15.275798303136352,
+        14.289189709471879,
+        21.372562349839342,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p01.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p01.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "p02",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "92ae05b7f86ca15299cbc3086db04e85676464710ba60862f5fa0a4cec78fe45",
+      "pngSha256": "eeb824c7866e8a5f95f2ce7bfc25e247c9fa446356379691e74b318ba1c7e662",
+      "pixelSha256": "d3551c0fe7dfc1821a9dcbb3dc190bc37fbd0ee36df330f77274f1dd7a10a718",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        17.383138988631956,
+        15.184997746530406,
+        21.378928224618903,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p02.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p02.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "p03",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "4029c8133ee0c159457b1ecff8e5edc853e4d9c29ccd6790ba67b38a0c6c9844",
+      "pngSha256": "4d831c196e72118bd74e4509216cf89348b3ec35d5de310b0e6226ea7ceda596",
+      "pixelSha256": "da604b76b64724afc061fc45fac4d13df07af85c970fda52c2c59b591a45e402",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        16.99112183249736,
+        13.055934807412472,
+        20.33802319680025,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p03.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p03.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "p04",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "8d673479c1ffda47f9e2c142deca4f5f2a3e3e8a0312adf522a48bc1a5a41dce",
+      "pngSha256": "7b2bb43b6a2a1bbde8b1f18148ec3a7232792603c832865eb4c5cc8f589f25a7",
+      "pixelSha256": "e20fd343fa5b0cb0e90b723268262c0498e0efdbfede65b6aa403bb415e7bfbb",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        16.956656853893904,
+        15.076407480437126,
+        21.30101916467903,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p04.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p04.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "p05",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "52d62fac3e6f68a3df97bf2820cf4dfa232490266a786a142ac25d814a661bf1",
+      "pngSha256": "302d3772b1a9746aa09a2e6853f621da42939ccae3efb2e7ed2ccc1829b9aba3",
+      "pixelSha256": "742b13778948bdf95e3d393011b9284ee390eca18b25fce6258dab18ad05487a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        17.54211670310246,
+        13.709598615545294,
+        20.023765149942736,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p05.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p05.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "p06",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "f8eafa036f6dde641b7fb7e37110a910abc30ca3d43c49235da9b00b943090b4",
+      "pngSha256": "ba13db04109768bc0277caec85045fc67d80028a1af1509e9a33c14da3cba83b",
+      "pixelSha256": "2b74cbd627018ba890b15d8cf29333ee704650b355f1c4fbca045e6cecd4c07c",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        17.38118689816156,
+        13.681453147903774,
+        19.995075377624836,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p06.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p06.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "p07",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "8dc4208b4576054be237f9c3cbadfe59b0ad27c0abaf8a923378214f2fa1d070",
+      "pngSha256": "a25e0adb351a1595580ba87b464d53f2ea85d74cda7d2039a9d0b4a81c004c13",
+      "pixelSha256": "27f6939d08dd3e1ca5a63601d0f9f92819ccdd364ad5ca9f49c682fdb94e9edb",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        17.578308361045462,
+        13.801856510057972,
+        20.119909942043254,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p07.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p07.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "p08",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "3db45bd13c5c0054b67bd8e09928d76d1b89c5721016800c0d5853a0e8834472",
+      "pngSha256": "1f40154e008e6c297de57145a0cedfb4b18fbcec6fcbb276cc085f9d0bc2d820",
+      "pixelSha256": "fb85e867509550b4551dcd4f1b309862c94d099e53ba0252daf8e36020e5b85e",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        17.637460596863782,
+        13.79650877514517,
+        20.47220131860205,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p08.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p08.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "p09",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "4e97103478b2a7d2d418daa7ef9e7dda633a252b9391d7a2382040d8a369e238",
+      "pngSha256": "080b107b85ad7b87a6511e1a3e302af60f183a67feff8b58dc5569ffc8500479",
+      "pixelSha256": "3a20ef8808a0374649505d9438a1fce4a8c242698e0081c8bdd8a29c0f195b7f",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        17.55569939962954,
+        13.380241609244974,
+        20.575874569606256,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p09.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p09.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "p10",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "0d6e1d49efb9d54285a53b30c0725854e8c42551d47a511f30915691f4e8c4b4",
+      "pngSha256": "56998087bbfbee32b42278c93bb6b8da0f0f1a90f062d5e39d97c2b55ac49fc1",
+      "pixelSha256": "b67335f4b10ea9eb46012d30946d24d414d45fc390c15db96540dbf8753d2206",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        10.133928663019159,
+        11.169114469477744,
+        11.920607600708971,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p10.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p10.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "p11",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "08cfbd8fcce06262c638a2d39907bac9539c59e6839f1324a56f4504f4ad9503",
+      "pngSha256": "6eb9d277a420217d44366ec07a9355d749d544a877284b87028b0addaf4d4515",
+      "pixelSha256": "d1c29da641cf3782f557e27cab36d5dec1e1955082b262a1306557862b9ebafb",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        26.517302302148412,
+        14.77736945204847,
+        10.135657450413065,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p11.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p11.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "p12",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "df83ee5c462afcc83ebfbcb1d47db5ea7b9ebd2213d80a86265d9d4f6467b314",
+      "pngSha256": "80818592a9cfc055f6808df23f553279f06e1d7f28a8785d39f0e5a75eb54776",
+      "pixelSha256": "3f4295bcd31f8a113fcf116fdaa74609a7200f376aaa07193d51fa0b3a415505",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.31850012405244,
+        14.98119990218959,
+        21.78426892878765,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/p12.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-p12.png"
+    },
+    {
+      "id": "expansion-0337",
+      "page": "cover",
+      "sourceSha256": "f9e1c5e6270b1cbc79e9017f501eced1e2e147509a99eeb0ae1de4258057eedc",
+      "bodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "reviewedBodySha256": "ade8cc3e2bc8ca32107f61c98b26db866297444403954d54b7e159bd779a251c",
+      "svgSha256": "95cb96e1cb928be942829f8c0d80283e1b89161524fb575acf6d671fde989da8",
+      "pngSha256": "a7bc012b7fcc5b46092d49e7b4530d102db7d47885ccc4f2888d34db99598e69",
+      "pixelSha256": "e63c97e103175335dc1ec50858d40088c564cc973e3cf21f5f1ad115308b7ae7",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        20.121209136472956,
+        15.348887337128492,
+        20.35818744123739,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0337/cover.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0337-cover.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p01",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "32c6bd7d0f62fecb02d0977edca08564065d313b71efb9c9523b4e1170a6c5a7",
+      "pngSha256": "734270aa39479e8f739cd40a42cd53ff6a79577c2c01e23ef8023c3d3b37fb02",
+      "pixelSha256": "d06d98b5045f16ef2663bb3d7aa88b75d008363dbd98bd27d746721c7ac71b21",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        16.74465880042349,
+        18.38227735928558,
+        20.020985747266266,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p01.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p01.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p02",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "231523c328fadb5f07657d0a97784932e01878b2fb81e27f1a8da8483ea721b2",
+      "pngSha256": "f82d253ad4f81bbcc1c089a53639016ee40bbfd5363645807e5c1b79ba9b2f91",
+      "pixelSha256": "63f83807d1c9db59bfadd6657374d86cfce50ba61820e73bc7a5eae4755a7ad4",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        16.83091252432246,
+        18.434783437604935,
+        20.03748442951242,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p02.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p02.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p03",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "0553415dab0c71f1b5d80465a22e418f9e860ff09786ca7c0f1b6ccc6acad57d",
+      "pngSha256": "4390edfad0942928d02db3d5dffeee79fbe5bc2297cc4393a780910d32466557",
+      "pixelSha256": "65d796bdb0dbd754767199870ffe7f2b0faccdd62687fc5501b65cc31594a071",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        16.946716884787126,
+        18.457822782908735,
+        20.049660339851123,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p03.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p03.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p04",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "2ea4e10b50391babd5e732fbac8b677f2ae2a389385ec3968471a65d9b5476a4",
+      "pngSha256": "0c2aadf07dbf8b989e0aa814e9d9eb73a2bf1684bfab6659f0026c48cfa5799b",
+      "pixelSha256": "6b2bbf786ba3cbc7ca98daa15d360c5006848dd0643d07ed9b1e1ac10eba73f1",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        17.07371180329538,
+        18.350730532742457,
+        20.019693338064087,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p04.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p04.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p05",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "155db9a804af67c40c736341a087076eafdc68ff543b92f5b525ec8644f417c7",
+      "pngSha256": "96b24243bb93a21537081cbb9aeb4b649fbf8e630811df90c2b70531c0aef033",
+      "pixelSha256": "a9e592959964f69fe6c151f0ccc58c3865914e149ad5e17e6d00a908fc7c104a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        16.61526080544204,
+        18.348804111621707,
+        20.03165159773919,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p05.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p05.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p06",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "e45c60e7107333a99ecc9654288654fbeb58a1b30018e42c03b12032c4c0754a",
+      "pngSha256": "1e171a8c41828b5bc8013201c4920e90e7a4940b4df23422c9980c6518cbbc64",
+      "pixelSha256": "951314863c631b5926903180c3c5d8f72dd85aec200cde80c6774c8a1733a397",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        16.570506171550893,
+        18.295740628176734,
+        20.035546804807012,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p06.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p06.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p07",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "7c6926e16eda5192ebea4297c6d8fd0875fc406bf02767270bad7b1b98bec5f2",
+      "pngSha256": "c336adfea2c05bb2b2c9ec58bc6607ff4d7fc9427ad2bc6368ce2151958d1bdc",
+      "pixelSha256": "2447dd50e26cbe8e626f6bb937b7422adb5c7ea0329ecb66c6de07aaca18cf27",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        16.640074759252432,
+        18.544172931967395,
+        20.20351421796179,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p07.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p07.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p08",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "119b84ddf45ccd496910d766ad7a0afe4f188c92c5bb75aabc55f1aeedda278b",
+      "pngSha256": "3082934002787ca4a0166a6c123eca0a65704aee3ffdd8a9238ca95d0baef0a3",
+      "pixelSha256": "88f09b58faf3e7e2a3e68a823429367ff7f3f368525b70bfe9015dec6fcd4f83",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        16.79741679763632,
+        18.517685260470188,
+        20.226791933259015,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p08.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p08.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p09",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "0ffda6508558a5baf82350d2d83c7a7bccabea902d67ef2663562c1620cc20e0",
+      "pngSha256": "19f77824c0baf615c2a480b7a84b3d69ba20829349a9f0fb23e28f3af3b7794c",
+      "pixelSha256": "6f912b4312e0ab861cceede8861a23369985de69e5f7fab8a15b0f89d328a3a9",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        17.20056339609884,
+        18.59740967329193,
+        20.26127333453362,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p09.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p09.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p10",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "a73f2fb8c69ef90a6c613ccd67e93db4e93c262f7ed27aaad6890c36f4c34352",
+      "pngSha256": "29e865b2e913f20ea59f087f8c205d1daffe07f4caf3f75ac93a842a086e4bc7",
+      "pixelSha256": "084a6281f8477315aa77d6b5ae909df8095efbb471cd27350e6078c010fd658b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        16.587012938792906,
+        18.692626666101983,
+        20.242772355956863,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p10.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p10.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p11",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "c82ff7b7790234074f4b49b15efc11f59e9e1dea62d62a01a7e9cf69d5604795",
+      "pngSha256": "1c40dcd259197493cdeff05467a427699f206a38c94d1fd294d1dc6381f98c04",
+      "pixelSha256": "a1378f4e25fc8a206108b3366344fec83d13541e4d5888b249fa05af9d147f70",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        17.016214830944666,
+        18.65715129202283,
+        20.264550282357252,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p11.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p11.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "p12",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "888504f4d2214784265ecfcc453da758ad0f8924c5dac5d0b4ab6a543d549f72",
+      "pngSha256": "ca4e7af6cf3cca5de46f14951f6b3187e67f9c3c65efe7fdf5a17c83e928a9cf",
+      "pixelSha256": "b2f8c7c50a2ea13d69646289945edaa3c4a6e8d1dab3d0036831ab09d2f23859",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        15.993669901213964,
+        18.55971276117573,
+        20.255259324629133,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/p12.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-p12.png"
+    },
+    {
+      "id": "expansion-0338",
+      "page": "cover",
+      "sourceSha256": "e610988d10a5e4039127319fc9e889dab4f5cfcdf80140e657d7f8c58bc3a48d",
+      "bodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "reviewedBodySha256": "8030d9507a3df87e306d6968abe3ddcecc7cc18bed850b46797b28b8a1bc9e45",
+      "svgSha256": "53b8dd720951a845ece206badf9b186bb2d143a4f5bb0faf6aeaf6e57eff8229",
+      "pngSha256": "bea1a71338d2df655bd127a8aaa0d3ab07290f70fa4c5faecfdd14cfa9ff0e38",
+      "pixelSha256": "b256dee8d5a01a54feec5a3c0ff71d4217f9eb7d1cbeab1768fcad54a9ab678b",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        18.141842689245387,
+        18.8967704601159,
+        20.37654059493201,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0338/cover.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0338-cover.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p01",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "e7e8d6413ceb4c26e745d4b1fb57683a769eb127949e1e1459b823f48f2ecabd",
+      "pngSha256": "016a7de70995e447d94ee0c731ae94543173803291fc19a5fd227549c0779bc8",
+      "pixelSha256": "53eca7a6c9e40057566b0f501b6d3b5668aa33c6ceacc81ec953a04b2277fc04",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        17.895218325411605,
+        20.48057279574239,
+        29.129510167464648,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p01.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p01.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p02",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "3a26a944230095506e6adbc5a7fae55a4ee89224534ffa03d36d7c48ed3976dc",
+      "pngSha256": "93677fb2c168a4d8c8fa0c3e34c1f879665c4f7f2249e27dc2b24e572c958661",
+      "pixelSha256": "5a7bb9f3d8f9fee420784fc8bc94251b7beeadce43b6e4a719dd8a87baf1cd06",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.10357677648721,
+        20.854016190879456,
+        28.89520584392074,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p02.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p02.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p03",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "bb5dca37a2f6b424c81f48163e66654eceeac291fe6e88eac34dff67e54bd2cd",
+      "pngSha256": "eb7a913121e5f37a4724b61f15eba9d8be08b264c31046600d513f7b16aa0243",
+      "pixelSha256": "f0bfd072098ddd052a5c2780d64a2e304a331299e338a0e08a88795583a11a12",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.625028568558392,
+        20.561436527312825,
+        29.409555560305385,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p03.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p03.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p04",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "40c327b4444c74ffd43abb7d799afa4737a6afcec1d449ee5e877dde3ec80621",
+      "pngSha256": "5942cfd804ca530e4e453e8e199259887145a8d16f5f158cb65ec8ac9f650590",
+      "pixelSha256": "9b6e1182aa218a3867c65693bedc0c3c9ed9e2a312897863c7f0fdb50fe313a4",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.994693595780145,
+        21.427881348366803,
+        28.995957002820223,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p04.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p04.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p05",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "85ca4fbdbcb85ccde059db8dbef14f9a80ad7716614a0ade3eb1b24d96812ee3",
+      "pngSha256": "3097d22e96371a4b5b0fb7e2cd34d24bb722fc8edb6aecb7d078988025cab78a",
+      "pixelSha256": "986e9ed19f36332a0c7891d43b7aeabb318c6dc66a9027374aa5231477031fd6",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.796532757033896,
+        19.929599458915146,
+        27.94010966184744,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p05.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p05.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p06",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "24ac5cc052e82b5c1fa2cd2c17babc8b73f5faf2779fe768752447c83c4fd38f",
+      "pngSha256": "6037f1de65c47c9c9b4acfebfdfc1cabc4b98a91e4f3afb00405e86b8800ccb3",
+      "pixelSha256": "4ad230904a4d9ac7db495351eec82cc7f806bf689c551eb6484da4fe7f9898a5",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.45807686449896,
+        14.525151241009493,
+        16.95461686591254,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p06.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p06.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p07",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "625eb251a8f5ac567f36b1c56ce6ac92b974b6e08fe6653ea4a49ca5c8c4e7d0",
+      "pngSha256": "02d05c3f3fbd30d7ea056ad46aeb86e58ef9749918f5c71eae345ab22542d68a",
+      "pixelSha256": "334f77c095abe0e869ba280c8553c16a9c3b8563556616e8a2a44391805b7d32",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.874919514642425,
+        20.5014828477018,
+        28.25248344285021,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p07.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p07.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p08",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "d16c158c3c01d9d4110dc0805e42ca5aba6f010385a4bd5e64048f770af14cfc",
+      "pngSha256": "9cbb98ec43794a320fb1d0cb130eee9dca8a9e30057d98a54fc3b9af581edb8b",
+      "pixelSha256": "9090063cffaaf435a4f225b3a8365ac5cb5af83059ca39f00cfa35fbe33a07b0",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.097304248823928,
+        21.09790544949766,
+        29.109806935802126,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p08.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p08.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p09",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "c0052f6b8098ee19fa696026ee81c812afe38720dc765ac425218433f63f151d",
+      "pngSha256": "b9851bb7f935f633ba0e9a487ed66cbeb57d2f9e475ed9a0105fd4d579ce17c1",
+      "pixelSha256": "9ef5a869ccdbb68dc357d0880dae8b7b6d956efa91e35e6d1e544183bc2d9af5",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        15.935709465584498,
+        20.66071883184497,
+        29.41400716791806,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p09.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p09.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p10",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "8a66fa0aac92cb809ffa7399b322941d88b958aa71d6ea8bb0f8d67ea6d50d3d",
+      "pngSha256": "0a2c8abb04e3f4a0bbaf42274fee7aeb1bb96d45d9bd5d53a84b9b89409e730a",
+      "pixelSha256": "a5deefe029014e4add30a23dae31664b31f8297299b1bf6c5b5377e629af5509",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        16.208913684436265,
+        20.76011252703858,
+        29.615912016330345,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p10.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p10.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p11",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "c7b32d782ba348274c0e49f3906b79c0818acc1b10bcba92499a00cc09e9928f",
+      "pngSha256": "6238b2fb38217b4eae08f2c49fb7d9c22e307fb097d96ec5a4b322bec519cc63",
+      "pixelSha256": "88cbdbe41e71ae56e38cd1e6162c5250864d7372f6b644144cca2a4d6737b857",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.245692567392705,
+        20.814374354126645,
+        29.278545302074537,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p11.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p11.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "p12",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "3267934314e4ffd3e90739c020a6dd99310c925a2c1ba5558dcd1d514212c1a8",
+      "pngSha256": "c629e33d1fb44a488137b81a5137f705f360d98e8441daefa4a637625d3b5875",
+      "pixelSha256": "1d95ad34c66e2184c85eb74e992428e8ed51c4888c5eb4fbfb6654f3ef6ec7e1",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.78190097284004,
+        20.64631517260419,
+        29.01032239890668,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/p12.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-p12.png"
+    },
+    {
+      "id": "expansion-0339",
+      "page": "cover",
+      "sourceSha256": "1b2b7baeb4e5cc9a906343e6c5600411702b121901250a7b51267cb846ff0302",
+      "bodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "reviewedBodySha256": "43742bc125a56f119bbe2cd53ae7235c250d61f7c9523ba97d2165e30af4d61a",
+      "svgSha256": "893998f3d299ee297ec1901676d56edb3c7ced57bfcb08a4d42ed0cbe6039133",
+      "pngSha256": "d96506908bcd174e717565c9fe76574efe48a5c02b247a764c8850f23c6d9fff",
+      "pixelSha256": "8aab2160a82e1cd348e562af73fceeaf8015d38a171f38082f2136de2cce3020",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        17.22034486470164,
+        21.351075306227052,
+        29.8969432990599,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0339/cover.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0339-cover.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p01",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "2e8a90048daccc5d81d0faddbf5af4a3664f30d887420beb169a7cab9b4b6337",
+      "pngSha256": "d392e2c0f0c947a180b5008cc3c11a6146ae5670a163b75f70332644eea7abc2",
+      "pixelSha256": "59d79e99080fc234b66aa7db12e93e55a3d04028ffabe31bac1b256a4bb87b4b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.556634576238793,
+        18.363801794960825,
+        21.81915057315855,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p01.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p01.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p02",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "5e84148efb19affd16b363ed75c6c975d4f7bb7ba6dc15eb763860833346decc",
+      "pngSha256": "554b14fd5b8abab61a881cb62281953e4aca82c19e996759dc42fbcb2ecb4468",
+      "pixelSha256": "59a0f2c3ecb53040d5eea5377133952d5982d412524b19b9babd56d96175699e",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.436791158630548,
+        17.655548034398805,
+        21.887885053672704,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p02.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p02.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p03",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "a81488e327cc7ff34e5abefa241261a9c3998b2b6427535eaa5d5e92ff9ba354",
+      "pngSha256": "29086df6e9d679f9b36d584301b669583a890d5441ad6b291e4e75679fa511f0",
+      "pixelSha256": "0671c8ef30af5094589e30335219034eb68f7d2c5cec98c00bf3f05c32b9f828",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.041257791737145,
+        17.14971652447189,
+        22.050824829751978,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p03.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p03.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p04",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "cbd53b783a8ee00dfa34adb0bb6e7ed68dd4639fcad136abc283c8765d880306",
+      "pngSha256": "fbe9ec5e89a9ba524c27d117d86b6f634894505d8f8d40c2f8e4a29eabd8e40c",
+      "pixelSha256": "36a0f3c283c328533ce7105aa5e6cb8e315b246e4d38f3a9e85c347c50470583",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.59289773023148,
+        17.501876454411946,
+        22.436732158634168,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p04.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p04.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p05",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "2c0736061cbc7d0370dbc82799cc4653f7a0af0f1e2e9f74628a09b05eb053d1",
+      "pngSha256": "10b08a798bdb00c3499f05e3b98aae0606e787dd16c9e37b6a26cdc8a2d6c5e2",
+      "pixelSha256": "2dfd6577bf38c106977a057ab3fd14f7f90650a1c07edfaa5a9d9eae3a0994f7",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.606500412609808,
+        17.270957953567205,
+        21.160722748295562,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p05.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p05.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p06",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "8d048123634d832884cd70759b3427160044764e49687ac154b62b1291e3e7f8",
+      "pngSha256": "e703035ece05ee5a3c2956d267a3dcd1ef3ae42517a166f4e608728352f952c5",
+      "pixelSha256": "5027a12cd06f83fd2482cfcc82b6ef5b6f37a8a13b4b6433c187762fff6a0691",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.812305932044715,
+        17.53654123826222,
+        21.441890546432724,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p06.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p06.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p07",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "f556da72e356f8d5529a1cc83e877ed5f76201a0bcba47dc3973c0069a0bd71e",
+      "pngSha256": "b6a93fa0bbc2a240ef929482d8d3e13bfb0208b29a32a91bcd575c9a6df79f86",
+      "pixelSha256": "55a9a60607d29731337742d07c4500a640fbcfcdd0ebd885693c1a5ea154708b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.779713154593804,
+        17.424588107660938,
+        21.99194151122784,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p07.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p07.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p08",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "33e85a40aac714da8eda1e8721345fbe33ee6d0e90bcaf6e502feb7913863b2f",
+      "pngSha256": "6367d1048cfdc63cf6dd1757df8016787e6dc0d5eaf1eb04d0f30ba45d62c544",
+      "pixelSha256": "82921450206920aa3a5c83734bb4b61caa142d48b449cb662f5ccd745bf43d48",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.747473984007264,
+        17.321258755089058,
+        21.86522113769079,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p08.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p08.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p09",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "ab5ea056f76b31791aee98dd3420dbaea7c05bee029a9afb87b5101bd41283b0",
+      "pngSha256": "8efe448f6a4e9cd104a77e7bccb47240470386ba581d4e510716817973bb0072",
+      "pixelSha256": "ef4dbdacaef0d92f0e8f56f7a12adebd721b1efe219ca934a033269eb038a7a7",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.79473540367173,
+        17.27851097351822,
+        21.815725017024366,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p09.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p09.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p10",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "5031d84169c4996e96e953af37baf401c54934fc4f722bf99e5c138f62174490",
+      "pngSha256": "accb1c34e3a053565213d93d3605a80ef9133e465d36c64aeb84d4cde91e21d3",
+      "pixelSha256": "a2d147b5f7c31ab6028c4c3212488893bae6fe16f7f302793cd0a0ec0e19874b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.77752589503191,
+        17.286179305840562,
+        21.80864738490046,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p10.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p10.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p11",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "d92ed4f7d8a75a43c6f4e00b947ea7856ca46c5ba2b0b321f6b50c24cc229f81",
+      "pngSha256": "a05af8d6a32b8555b6d0eb4fad41604fb3259b9b67f2d4d8be351a0ac60b6d52",
+      "pixelSha256": "d2b7d394ae0ae448766b3df7bbdf0b8e7578a3a95b92336e3052f2282649b785",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.891437672818356,
+        17.374612201253186,
+        21.315271348349448,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p11.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p11.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "p12",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "26fc3dc179e919c394c92aa26f08b5427f8530818166e45dcfd6d99797e96588",
+      "pngSha256": "5f691314a212c2cfe394db81fa55dd637968c13c2ddb40ca3fb880a410657f6c",
+      "pixelSha256": "883e320de88125cf444fb30ccf3f431fa19e37887257132de934e3d20de0c716",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.902209737462133,
+        17.47118677085784,
+        21.48486957538287,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/p12.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-p12.png"
+    },
+    {
+      "id": "expansion-0340",
+      "page": "cover",
+      "sourceSha256": "865c72b115b7fee679f4d617985b4a983bcd04526e0a9f6f4578c54d3709ba06",
+      "bodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "reviewedBodySha256": "c2e32c1840f49b62a9673a3f71c3332d8821e742cb12ba9c5e37d88c9b2f94c1",
+      "svgSha256": "6b0f38e2727910b9edaa92b46989fc87360c7d2a7832df5b50ef809cf851f9f3",
+      "pngSha256": "74032e26d928d8b514f3afec2b1e34fd100cceb00e2eec5598df02b407e8ad6c",
+      "pixelSha256": "0c4b91b4fe184ef814f63d3adf5ea7cebc74bec5c412e2c92f4e61e650eadb28",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        21.22679452188692,
+        17.894296163228645,
+        22.18710590914614,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0340/cover.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0340-cover.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p01",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "6f332266378dd25e209bd6b5707b088caab1e37feb2f33176edf8f178fc0a085",
+      "pngSha256": "aa3587e036f875213cc7a57d6ee037d3dffde21517bad5a77e801b5f12c22d5b",
+      "pixelSha256": "dab27ea2a491b1d5ebbee9225a5bc10caa9c4cf1861366faf8f570444a7484cf",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.850865373692477,
+        14.441729892209967,
+        19.61620100767514,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p01.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p01.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p02",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "32ac9d806e8ef95672160bc78788b5cb694bda7cfeb956936f03047f0a963370",
+      "pngSha256": "4173395dba07b5bd98db7c797a35b2e50f94d91cbd91e0421e3adb9bc9d9196e",
+      "pixelSha256": "4a7f17a3dfb4b9f941bc49c138ded2b79a2b8314127f89b732fdf63d36f763e5",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.975806797734261,
+        14.47278755498446,
+        19.66165868972287,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p02.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p02.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p03",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "12648c446a41ba5331e2983b05443b91ece2bac5f3f7bb659298ce8d259bd2f2",
+      "pngSha256": "081ef8b7fa1235be0022a3dde1b50e3e6e0692011e71d958ebcda50f1bda4403",
+      "pixelSha256": "de2e83c5b76c6c54c36e492a7d724de9f28320244b4ca5b5f69c04d51d4493ce",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.971582566974037,
+        14.608942222395507,
+        19.73736281343909,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p03.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p03.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p04",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "04b17991c44acd6423bcc0c67f2ea3652be779af28ebfa9c52af3a42c45f5c1c",
+      "pngSha256": "fc8a9a8c02daf475c168d1716c65b2179d6bb417560b1992f82b80e456649de0",
+      "pixelSha256": "26895419581dbdb3c45bb22f92a107003cab03993ed34ce251abd68e96c61e63",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.14369777806702,
+        14.735943775209808,
+        19.7893019514955,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p04.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p04.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p05",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "fa5f0c117520d25818c034a211cd99e68ed34c5d2f11baab54877af94370ab9a",
+      "pngSha256": "c29b533d63444a2db788462f58f2a60fb65da650b4743435ef53fadb9a531b52",
+      "pixelSha256": "f9e2c7394ade160f6ed2567bad0d5447d043f753f9db2f220c7bf88cdce29308",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.217931807754406,
+        14.924224439729052,
+        19.94501760620021,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p05.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p05.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p06",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "ca4e1ba821aa329adae505ea3f173c55c847ad65f244ab5055445d94a91d809e",
+      "pngSha256": "357438fd4d5b58cad6c59bd549844901c6c34befb88cf6b8f79cbbf1e3dd74a0",
+      "pixelSha256": "b969ac9d35e696164b65436008e16eeaba6154389b71e310506bc9834765554f",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.708359730155665,
+        13.751808015173095,
+        19.14019025187052,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p06.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p06.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p07",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "b2c235ba08dad7c463e874dadab3bce9284daeae843ff0054891aebdc8190bf5",
+      "pngSha256": "0617ce724c221afe6e886ecea22cc84eb31d70b8073d8a1b08a509128040c3fd",
+      "pixelSha256": "99c5c1f78d88bb1a22227c1fbf58483693d5693c9ab0f11b2b17347f50d68b24",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.164785180119116,
+        14.305310344713515,
+        19.729388138126478,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p07.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p07.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p08",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "4f0512f33e87479e467e2cdd1880ca26b59e0d9e7316a577d46a949226bc9d60",
+      "pngSha256": "ace74d407c426040aaf45e264880d11b66fca6e10d183bf5525225ce1fb1ac13",
+      "pixelSha256": "c32eb301d129cc597166d1a6f35202ce54afd2623a5339782ea2ac4efa9e399a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.114800637484691,
+        14.29157334851193,
+        19.699114529953015,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p08.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p08.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p09",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "28b640cad4f854ac2fb2bf132ceed80d0db57bc23b8f0e31b7493e7048b35340",
+      "pngSha256": "fc35b764e8e8f6736829bb412f2de9a3e1c728481cf1affb6a5b4769b44dfd4b",
+      "pixelSha256": "d976371418be2b60e19ae316654d433ffa49bf30813c6c7fcd1d1675b6048501",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.269699253749499,
+        14.24971642510903,
+        19.46107129116947,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p09.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p09.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p10",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "de5b15b2f0699e021186fecd6cc9d336030182afd7ff388689bda6f03c813ef4",
+      "pngSha256": "498446f46b106996d665355d0b508a90d2804dfd1955d2e5c1c19c5c0e0f7db1",
+      "pixelSha256": "a6bb464dc607f443a5faa1475a7b4bd3c73096dcb2eccb66104f34ccf61ef617",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.447810492952783,
+        14.312554550571571,
+        19.524950551072127,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p10.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p10.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p11",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "882cf530c302f6df4c8766762e86bb91b5f8cc9b22bae7af93263c5f72b0a2b2",
+      "pngSha256": "a2335da286509e21cb1e77fc0785f9db26287f2f1827d1cc4fbdae5b9348ab28",
+      "pixelSha256": "283fc2921a5341bf4db49b46d29a582d1dfef0309e088f2123baa5020bbb61a9",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.346851933831868,
+        14.211195430482535,
+        19.422097614644684,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p11.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p11.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "p12",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "85d84007c9482118cca24fc2778f5ed40722c16781148e74b9edd41977a58d10",
+      "pngSha256": "af38f3c6f38f18e4ba98f284535669adb5f13b95d026aceb11b1a2542a1e5dd1",
+      "pixelSha256": "fe0e6123900772e7a355ac20b2191fce8ccff9dd0fa128ef33124895e0f3ae24",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.393760354175114,
+        14.232401207207745,
+        19.462627689496284,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/p12.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-p12.png"
+    },
+    {
+      "id": "expansion-0341",
+      "page": "cover",
+      "sourceSha256": "9db409188bc62e69e62d7d704d7da2fb0744009559d0f5219bbf12ba4ce62416",
+      "bodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "reviewedBodySha256": "c1a28a5d0fa1406879846dc05cc8669e415b2eb180baac2f9d4bca327c221794",
+      "svgSha256": "f78a1f3395bb777398a24d153f41fe5af8bc96497a1c8cc15d40e8ee676fc084",
+      "pngSha256": "2b18d20fcb5357c32d741d1c80b815daa45dec5eee39ddf0e1d5da76dd00fb10",
+      "pixelSha256": "a6416ae348f474e9276095c6cf599c196b3fb0dc37452feb5b8d5dd4016fc6b2",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        14.774902210225228,
+        14.740664691223133,
+        19.571192834143563,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0341/cover.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0341-cover.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p01",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "db6b3ed66530c3e0db79d54c8d907ff370861366500ad49ab38512178ddb4081",
+      "pngSha256": "7c58a79bf2f22509b54c08812f413ceb57012dded66cdf76f2de4bcee7218f42",
+      "pixelSha256": "fd3a160d1e3fd71f2474a0a485b5376e31b9b3e012764eb226be957b5eef87b0",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.96764614383954,
+        16.43284308655233,
+        22.399221426678512,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p01.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p01.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p02",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "ba74e55be8bc6a1624e5b417532b47ab12d07b3a24d1255e3ff0e912e39bfabe",
+      "pngSha256": "cd9ee7f89ee6f4af33ea8c741b1a5b0c1ec0aedf5643810578e13cabbab96bb0",
+      "pixelSha256": "93713ef76bee7953760fd184d39d042f5f070901bc962822a3ca3dd2534f7bb0",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.142908028546444,
+        16.49968080266772,
+        22.134246017137876,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p02.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p02.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p03",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "2b294cb02d493719b7ffd1a816f8cedab05f8a51d8931ca47c1036dd825678ab",
+      "pngSha256": "f8807b87f69e6a8c498ef1506123cca5dccda4ea926792469937e4e430181851",
+      "pixelSha256": "b57542e2cb12b87fe18d704dd7f1d04eb6ab27ce1c30d9985b870629c7d0f45a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.14949611148063,
+        16.520910826416088,
+        22.268264207842144,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p03.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p03.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p04",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "061695fd16ce4b419cf294e2740ae0a4bf310a68e264d326605daf14e131ea83",
+      "pngSha256": "88e2db42c923f0302463ddde54d68a9c5a91d7efc72b1259e25aa52f027a2a34",
+      "pixelSha256": "b60741d71ea1fcefb94727a29e6e783d1f196d5f829d63dbbd67e83e88135b79",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.277864240819504,
+        16.85816182127273,
+        22.471530627309573,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p04.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p04.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p05",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "7de4d0cce19030c1dfd60e6c1e7a7f440fae9e04460b635002ca3c457f5afeeb",
+      "pngSha256": "ae8fba0c687959d0338f948dfbe822cd0f1698d71e893cc6e10f4bdecf8e327b",
+      "pixelSha256": "9e69e505d96a340c53c4e2a6819f0af3b68b0502f1470409e8f15c8060fcac37",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.2424454032656,
+        16.457735957455338,
+        22.40570412626482,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p05.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p05.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p06",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "7ad1da22dfd38b554c8f83c4c2d5a836a37a7cc101359afb7c4711fe5d460f16",
+      "pngSha256": "dfaf9a2f47e32b8fae65d6837b732085e82dcb3cf5ede8f2b396284ed9c08df3",
+      "pixelSha256": "b802e2f4875a21b67c1c157248b6dc2fa1498b9f7045568a24e7b0fd0084e6f3",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.22074773417445,
+        16.692254898059172,
+        22.37310513310647,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p06.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p06.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p07",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "6a14bc6d07cb0d97012476ca42273f689e0c7b668abe491eaec48ee9aad32871",
+      "pngSha256": "ede995e924c4fde47cea703af2a959b23ed08ee2f9e382753a78ecace4a528c8",
+      "pixelSha256": "ce758fbf3de2a3dd885cca3c32599b826b132ed8b76639fc66a3505689846904",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.2485090101014,
+        16.603675412435752,
+        22.30324931754646,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p07.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p07.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p08",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "8d88fb0d45e07761c0988be3e0224d27de2d803da00cd44fe17e14c5451a810c",
+      "pngSha256": "9fbc7883cf10a67f93608a0719b8f586013e3ecf1f64485c5a20895826326963",
+      "pixelSha256": "128336b82f3124ade71d60abc46c90020dde9d6bcb321c91332b2d4f0935f3e4",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.08993738000581,
+        16.540098978403012,
+        22.289446148181057,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p08.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p08.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p09",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "8413469443d694f5618aa25f99cb6755f57099856760e76fa57baf78a49a2000",
+      "pngSha256": "a59568dbf60bb8c33de3bd30681fad194a1499a6bfbcaeb85cffe1fe31c93420",
+      "pixelSha256": "91b3796e3f65f034464eae29c6e6d838ecce8aad20e54087096f97efdbdb51c4",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.096803001974415,
+        16.507406027195525,
+        22.245304516471094,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p09.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p09.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p10",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "acce16331e4a9c3a3b8d2dfe0034375c89919907d3eacd9283b3ca7013454836",
+      "pngSha256": "a84e32b25cde905c9ab6a5a534419185757c26f15496b6022262417544b921d1",
+      "pixelSha256": "bb4501779efa0dfd690794c327db75b0fc8dffb734d68a8ae56484c41344439b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.314992294155914,
+        16.403966089166612,
+        21.993770019967293,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p10.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p10.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p11",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "ee432ec25a443bbc438139eee728593d64f85f1dca011b8ada8e122234c62204",
+      "pngSha256": "959d632d3fbc1cbce792fa2d3e222633585a968d80aa5bee80836c1ab0c0b139",
+      "pixelSha256": "49d419d0ebe42e36d205ce58c6dd813927c341f4fb39154b981af119911282dc",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.54948029655551,
+        16.366304974570806,
+        21.91963412945401,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p11.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p11.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "p12",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "9b928b6851bd975652138fe8c72b1a3627c14b2ac95ead577630c3f107fe2e6d",
+      "pngSha256": "c62c9e3244c272286a337cd2593c84216a2c8c4c1179b62b8d7f24fbdf3ad45d",
+      "pixelSha256": "c3ebc0fc6fc94ec05efaa3cd190721298b9de28255d259201d6d846ddb16cfbd",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.71306276303077,
+        18.33476303031789,
+        23.53042489925253,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/p12.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-p12.png"
+    },
+    {
+      "id": "expansion-0342",
+      "page": "cover",
+      "sourceSha256": "180770386a932380a28ef3bac4190d5dfbc8f7ced7d8f2666cb36292fa197762",
+      "bodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "reviewedBodySha256": "c890424d0543df8acb1d39327bba43b154568dceb2dd9e141c05b746f8b66c2f",
+      "svgSha256": "30a1920cedfd0aa69cacf50a9528938f8702a6a29b6107d48eef26e79809fb77",
+      "pngSha256": "4140f88e835e1241fe5502bfef63b1645c5e5a478190ad3e2e412da4792e8e65",
+      "pixelSha256": "42c1a4009240cdb8f55490cdb5e6d85ee9ab196185c84b1483256b6f65a301f7",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        21.915260673512996,
+        17.211553812371488,
+        22.97940783403614,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0342/cover.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0342-cover.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p01",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "f3d4d14270c1fbe39f6aa2e2888b9ec2fc1ca5356bb82bb54b46b7069946d108",
+      "pngSha256": "0139906e7de2ce8879d2f7bf029cc6be994776dc22e104f367d648a4ae888daa",
+      "pixelSha256": "3877b93d67d51055eeeb06acc0c44e96a7ffef4dbf05a8f68261db7f5cf1762a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        24.543878107403213,
+        25.34577972671238,
+        32.360871956266664,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p01.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p01.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p02",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "6076c0bf33e0aff843842f675bce03b05fbd9d33800ab70df1d2280e6c874734",
+      "pngSha256": "733685fd5bc869db18340eaea89513af1d707ab96d2808c31bf363b7b847bb8c",
+      "pixelSha256": "f6e4f7742dd947ad93d3ba318c885cf7d1c7c9b71ffb0b7d6152832842a2b18d",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.949870560940347,
+        27.186663767471206,
+        33.405726629783345,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p02.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p02.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p03",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "dc3dd07b3c887a45177c8bc05672e3f79242a20d5bc4dcbe99caf9eee4a92394",
+      "pngSha256": "8db9b2124e5fd1b0c83b984ec8246990695faa6f56e0f28889061f8fdd0ee955",
+      "pixelSha256": "6c0fdca4f350744cd233921425d6dbd2704760a673f496a202d309feb9e5db0e",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.4191888569235,
+        27.790123954697016,
+        33.080864125168546,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p03.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p03.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p04",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "b1f1db860e0afd961c48bfef18d315714192974f602e0e7d845d19f6556fd6ab",
+      "pngSha256": "81ab97226d2ca4be0ca94c69c65c67b14a99e5ef0234ca5f5197b89d07520b27",
+      "pixelSha256": "8aa8694d8fe5aff8d88bf1cd81b7d1a97100aab82228475a44dac74769d6f64f",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.2320118841658,
+        27.15152904199575,
+        32.90041941855362,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p04.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p04.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p05",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "aea99d0ddd8fb24434c17ff6041e89d62ead5706cb57118068ced126f5130f05",
+      "pngSha256": "3827003175ddce89e1f7ddf25d82260e2da8cd2abfb90041da6730a5cbf8bd44",
+      "pixelSha256": "e95ea33662ede05e1604efc246d1692439937cf1870cc3a80b28d0cc67c2007b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.168734525509738,
+        27.24170879372963,
+        32.49473838825484,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p05.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p05.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p06",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "8a3a9368a14970d5f4d0898d3093f1d9c302a3670f525e5a8b51e85dda3f06ee",
+      "pngSha256": "8ce84b38ff2038f80f420fb655b941ed5219a028e78ded31ebbf4f37a3b2acea",
+      "pixelSha256": "da7553ca611c2837e60c0800d283c6bbf233203150cce06191e6d9d0389fd5ef",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.760232804731174,
+        27.205276722378045,
+        32.41540255457281,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p06.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p06.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p07",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "0f6702de35f805ef1e24749c15e6f12b386f14e0accb38ebd075d2dfb5882e31",
+      "pngSha256": "c94e9c57fdd8351355f73e22ad45f6a3fe8fbed76879af48cac0d3fbdd425dc9",
+      "pixelSha256": "f69666a96342a4683cdd870efce31cc8583ad522c13efce01f743c941ccb7819",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.466317735434718,
+        27.631307154365988,
+        32.93557506440576,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p07.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p07.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p08",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "1253d798f848933f07947a1baad17a4648cc9c047a6b2aa36b4d2b0c11aeec8e",
+      "pngSha256": "e3b42cdd56d1aba64a73b92bbe08a8c4268642d9646b37d42c90cbb329473c0b",
+      "pixelSha256": "7a941c14ab9ec19f0c908f9d292ab3774f1bbd91105d14cf2ca23d59df391b1c",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.43412369889486,
+        27.582627388415442,
+        32.83997395721086,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p08.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p08.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p09",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "c219a10d66673016453b1522c887a2c4345452dc57bd94de941556a66f2506d9",
+      "pngSha256": "42159ea15c336455a473f6601891925500e85104ec2cc84ae56b1a7df9581d1c",
+      "pixelSha256": "1faec3992dbf238ed5b6b47f1abfcf9262c549c78af0e4aec93fb61da37f6594",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.379872557063212,
+        27.76532878121915,
+        33.06196942440393,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p09.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p09.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p10",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "2e6b76d91d410866b8cc5d807e70e0a17bfefc89db4b4ba18d41b1be19dc648b",
+      "pngSha256": "e72f8af4c387f6187c83d757c2c3070ce456e6fd2d90b32b0adc42a868024337",
+      "pixelSha256": "38a8237c373ddd0df06fcbc9bec8b333503457a81238e0d574f3de65502f1399",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.43420664721836,
+        27.539542488097656,
+        32.80751205519264,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p10.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p10.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p11",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "867db98ac7ba45085c06214ede6457ebdba8fad72bac520b5971313ade6c5ee8",
+      "pngSha256": "b929f0ac52e4da5cfee94aaa096d4e54960af82135b247b16cabc63eca0c049d",
+      "pixelSha256": "88ff6a911cf2796fcee44edc8a5b689c097fe53d3bd4778db81bcb23ac80fac5",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.459472214063688,
+        27.503481182396843,
+        32.75490261742509,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p11.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p11.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "p12",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "9eb9a97e8da8260421f84af6a254ba1f568151151a425b1545affbb262577c61",
+      "pngSha256": "cd989f106c295a621434149aa0eaacbf2c2b24d51fc1b443a0cbc83d394d5dd5",
+      "pixelSha256": "d58fe26d1f3b8ab299172df7bd4523fe0c2ca0178516eeffc53be71708699397",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.055684981767396,
+        27.39226292982707,
+        32.63203014151472,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/p12.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-p12.png"
+    },
+    {
+      "id": "expansion-0343",
+      "page": "cover",
+      "sourceSha256": "c57dae833618d4af5bb1f7d2f19d66dc920b1553489005ee55416383ebf324df",
+      "bodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "reviewedBodySha256": "50aa0ae72e56bafa6b36977c5ba9a3669c777416c63fbbeee1e512c3ca701f97",
+      "svgSha256": "57ed3666e3bec3b9d470917ff0b4b71a93a2e2d7fe6cacab4b362dfc943f2d44",
+      "pngSha256": "7a9376db9f73dbd4038eef2cc244bd55b3dd40f7dd98b65d1d9b6d28e305adae",
+      "pixelSha256": "1157b2e9bc224fee6d1c7019ec51efa9125243f4f495fdaf69555b783e571782",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        20.078915246949716,
+        29.226185408203346,
+        34.535451673467115,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0343/cover.svg",
+      "pngPath": ".cache/ninth-middle-first-art-review/expansion-0343-cover.png"
+    }
+  ]
+}

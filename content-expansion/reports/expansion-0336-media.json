@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0336",
+  "title": "小船的哈欠要小一点",
+  "version": 1,
+  "bodyCharacters": 482,
+  "pages": 8,
+  "duration": 153.418,
+  "bodySha256": "58925d4f80f3fc83684f65f9c9ef1c85b0f33c422fe48e48af0ef02b26677227",
+  "audioSha256": "352dc6882b6712a95e3b4bf759c34fdab1d03b2222b973b9a660eefc13ef11e5",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "94e6fd1196c1ac8b3ed044cb9ecc29ca605835cb888cca669d16dea5931354c1",
+      "bytes": 17044
+    },
+    {
+      "name": "p01",
+      "sha256": "70e9c31edb3dcc14896a40d75cc7bb64df86456f62bc38cccb1ede38f409a0e3",
+      "bytes": 13196
+    },
+    {
+      "name": "p02",
+      "sha256": "f122ccedf0f021c518a202135d2e157fffc219481f353c96986aaaf899902700",
+      "bytes": 12664
+    },
+    {
+      "name": "p03",
+      "sha256": "64b96baf8ce0cbb93bd19d8208dd291bac3780be79d6557ab5c69d679674a3ff",
+      "bytes": 13252
+    },
+    {
+      "name": "p04",
+      "sha256": "ef42db9056ea05c74ce2ffae0eac64ec6313bbf9338c26a924f0d8511f64b65d",
+      "bytes": 12296
+    },
+    {
+      "name": "p05",
+      "sha256": "de15ba57d688bb28a36ece9f3beac59bbdb8bd417d438e3d9752d2f58261924f",
+      "bytes": 14302
+    },
+    {
+      "name": "p06",
+      "sha256": "f8e6d2b17651bfd8b29506539511a2612599a7632317fd355abf96854b97c8de",
+      "bytes": 12048
+    },
+    {
+      "name": "p07",
+      "sha256": "b06b52c29a82600e0ebbea279850b9ce18f4e06fffc813e01044740ee6971b83",
+      "bytes": 13222
+    },
+    {
+      "name": "p08",
+      "sha256": "be75f80e04f38266e904145f2489ea8b4193161582dbf240b3315cf8e54da860",
+      "bytes": 13510
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

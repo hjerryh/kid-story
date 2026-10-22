@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0344",
+  "title": "草垛把自己捆好了",
+  "version": 1,
+  "bodyCharacters": 1040,
+  "pages": 12,
+  "duration": 315.522,
+  "bodySha256": "ceee8cb114d2c06a1eee29d7ea5fa64ebb8c1c6264bff83b367efcbe0e6ccf73",
+  "audioSha256": "8b181a3d9eaf431f713647a06858537aed2709ea7374d3376892eeb532e6b0dc",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "7ca86a487dc179e7bd6395d5acb04dc4d792a3a9ad2e5640e38000ed4b5c56b5",
+      "bytes": 18058
+    },
+    {
+      "name": "p01",
+      "sha256": "577e7ad511e15935a7b30164c264bdc910e62f0c9385d3f9ebbc5fd22a6d5e6f",
+      "bytes": 11582
+    },
+    {
+      "name": "p02",
+      "sha256": "46c3c0e7648d6c041bc12a4abdac9e4d6677bd04f498115ba95d0ab010187f3e",
+      "bytes": 16014
+    },
+    {
+      "name": "p03",
+      "sha256": "c7d2651b6da33211a09a58e3fbd1815f789ce9874a31c9313c4ea581c2f7c671",
+      "bytes": 17308
+    },
+    {
+      "name": "p04",
+      "sha256": "09ec85c59642fada5a7b949c713311d8439f17116229baa19b8eaff839d2379a",
+      "bytes": 15638
+    },
+    {
+      "name": "p05",
+      "sha256": "2b2a082661c4a762874c4e6c8edd20abb18d5e359ce2b3d6950c36bb89423ba9",
+      "bytes": 15848
+    },
+    {
+      "name": "p06",
+      "sha256": "f9f9affcff6bf8a40c90fda3e2acd913951288da7e996c6b8b55cdc61d8aba5d",
+      "bytes": 16418
+    },
+    {
+      "name": "p07",
+      "sha256": "0ac580c71608a96725e8b4d5ddddbfe3e95acc6d63f06dc97b9eaad2cf30d070",
+      "bytes": 16006
+    },
+    {
+      "name": "p08",
+      "sha256": "ab0907454e4470e4fb12765cf1d86fd6e17fc16e8f5a305aa42e06a85355350a",
+      "bytes": 15786
+    },
+    {
+      "name": "p09",
+      "sha256": "47c01fa664b68a300c5d5021472ac62d45454adc5b68a4442138836e18f86483",
+      "bytes": 16472
+    },
+    {
+      "name": "p10",
+      "sha256": "edde5fc365299bbbd69992b96d7f315e68845ddec4f07e5ae2552b6ee8ce6d53",
+      "bytes": 15878
+    },
+    {
+      "name": "p11",
+      "sha256": "2817d00077bc1b914997506a6935109f8cb0630b611cdb2a159bd4aa1bb67ebe",
+      "bytes": 15332
+    },
+    {
+      "name": "p12",
+      "sha256": "6a815895b847da0e2f5d8cbf1bc23ef111262f1c659791e11b30ac09e8dc6c80",
+      "bytes": 15646
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0350",
+  "title": "铜铃走回小步子",
+  "version": 1,
+  "bodyCharacters": 1041,
+  "pages": 12,
+  "duration": 311.394,
+  "bodySha256": "e8fb59d842183ff96fe37b06860cd0688de28c8b3f6f618d94376c0740ab7316",
+  "audioSha256": "5e95add3397fb454ef72f11c939c91af3428b3ba2ffd4b1861b0b5345302fa68",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "698b0d87cdde8ff9d703e9f3a81307fb9a3988fb5c1d777acf92ac356696ac23",
+      "bytes": 16230
+    },
+    {
+      "name": "p01",
+      "sha256": "57df78c9270af4e13906edd0464e8fb1cd48f0dcf16b5cf4c57f21e68104526f",
+      "bytes": 13676
+    },
+    {
+      "name": "p02",
+      "sha256": "895b34aeb3ed5d298944137fad45ae977c75bc5717793e89eadbac342095dd16",
+      "bytes": 13214
+    },
+    {
+      "name": "p03",
+      "sha256": "0b78aad530767e72e342730fc6615320d79894e4eeba34f1e5828e96458c3bfc",
+      "bytes": 12962
+    },
+    {
+      "name": "p04",
+      "sha256": "82d5e0fbdf1eda8fb5ffd537022faf2c3c6ddb3b99ebec2e008f4e4ee4a53618",
+      "bytes": 13176
+    },
+    {
+      "name": "p05",
+      "sha256": "1b1fbd14ddcb1e9a952ca57ef0ae4afc112ec4f2a0fb7015392b2a5248bdbe0c",
+      "bytes": 12590
+    },
+    {
+      "name": "p06",
+      "sha256": "5c771a01c73f40d77d5fc2eb7bc4a7df85f99653cfdd8d026298732a4620928c",
+      "bytes": 16594
+    },
+    {
+      "name": "p07",
+      "sha256": "80bad5c35d9aa9a70d2b1612a05d53f4887840d33ddf598d90317df4cbd319b8",
+      "bytes": 12218
+    },
+    {
+      "name": "p08",
+      "sha256": "620467b55a4abfa6e2abbfcb640df510b55b7433abfe2d278d8609bc5d6e962d",
+      "bytes": 10356
+    },
+    {
+      "name": "p09",
+      "sha256": "9091499ceea924d409cfc24606c0769f3f97e1b12af22b3e32397c06af5f4d46",
+      "bytes": 14154
+    },
+    {
+      "name": "p10",
+      "sha256": "770c7302f4cb8dd6eef12a81f6e55971630a6e00bc19e895abfe24980fe96285",
+      "bytes": 14060
+    },
+    {
+      "name": "p11",
+      "sha256": "588f5c0d5fd75ebe8b7fbd0e2214984d38d3159babbd73beb40d6783ee87ee75",
+      "bytes": 12500
+    },
+    {
+      "name": "p12",
+      "sha256": "c8f4178acce7e0c1ab1cdb97e50215676968ba5fb4c8d95283da2eef29158775",
+      "bytes": 15982
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

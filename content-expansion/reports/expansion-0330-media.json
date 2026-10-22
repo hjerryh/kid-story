@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0330",
+  "title": "爷爷的鞋尖空出来了",
+  "version": 1,
+  "bodyCharacters": 550,
+  "pages": 8,
+  "duration": 178.378,
+  "bodySha256": "6a1d7c375993b246aafdb76b9e6a437cf5b949aeb818bb0cc8b4fa78ce907e3a",
+  "audioSha256": "ce78c8191b0ae74e91f1dd7b8189048e80d4f4dfeaedf60af425ea2bb9924807",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "798aacec6c4b24328dcf4b7a60ac1dc87730b3e573d65ef72d866bcd6a872473",
+      "bytes": 14530
+    },
+    {
+      "name": "p01",
+      "sha256": "c26616e9bbfb265acbbcc3f45eefcf2cf577c6d28e976169b57fdb2db14bbfc8",
+      "bytes": 11680
+    },
+    {
+      "name": "p02",
+      "sha256": "11349af1f4eb9b6dbd6ec7033294f7ede7f8322a1b2b67bbb36401a8f9f93f9b",
+      "bytes": 10628
+    },
+    {
+      "name": "p03",
+      "sha256": "32082958619d4e58ed078bb9359af4a915bd4c9865017aed8e3e69b04c4323b1",
+      "bytes": 6128
+    },
+    {
+      "name": "p04",
+      "sha256": "b4d6735bc66c873663effc88d1d5f25f988f274c28146881ac65d164e3701bb0",
+      "bytes": 12262
+    },
+    {
+      "name": "p05",
+      "sha256": "5922d7e858be3d1e8096e97ec47bd919ad21596aab1e8c5c8b052974cd9dd645",
+      "bytes": 12254
+    },
+    {
+      "name": "p06",
+      "sha256": "b0e5cb9c5052d4f6a18ce00a483123067b27a706a6e5b24de9b1627c2629fafd",
+      "bytes": 12344
+    },
+    {
+      "name": "p07",
+      "sha256": "66b7659cb26f59094f7434eb685fd2f83008c253fb4b3e5f682ddc86fa2d9951",
+      "bytes": 12264
+    },
+    {
+      "name": "p08",
+      "sha256": "9b6eec709330ef3e6886371138e9d4deba03c308dc265f79e08b57d0e63c46ad",
+      "bytes": 13792
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

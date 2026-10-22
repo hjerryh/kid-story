@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0331",
+  "title": "花杯转圈以前",
+  "version": 1,
+  "bodyCharacters": 525,
+  "pages": 8,
+  "duration": 169.234,
+  "bodySha256": "05991df2a1eeb7e53fa29c67e641f1718820409e538584fa855550f8b8385709",
+  "audioSha256": "3c93c8e5ca44f3c9d2c08f92f53eaac2494c3571cfaea80799dc132e5703cf1d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e47087ba6efec8fe872105f990089582ed5638070541c451da1bdd7c67698fde",
+      "bytes": 13918
+    },
+    {
+      "name": "p01",
+      "sha256": "64d96b97a6d89a8ff10668a146dc7ba1755dab442084c876deaa1d0abc736054",
+      "bytes": 10928
+    },
+    {
+      "name": "p02",
+      "sha256": "fe062c49f74a8d64b4931148646a018d89de965b696879c6b6ec733f2d4fd5d3",
+      "bytes": 11426
+    },
+    {
+      "name": "p03",
+      "sha256": "17e40f33f02818bc315ad979c08111f6c2e74c5468093669de44af7de49a9104",
+      "bytes": 10660
+    },
+    {
+      "name": "p04",
+      "sha256": "95c8fa8e3cca205656b8ac5b276add5003508ec328ccdccd352009f71cb9196f",
+      "bytes": 10852
+    },
+    {
+      "name": "p05",
+      "sha256": "b9b393cf662985ead503f2ca8b8393569a22e6807b15b2dab2e4e20e889a547f",
+      "bytes": 10928
+    },
+    {
+      "name": "p06",
+      "sha256": "d39180deedd043ee248fc9666649f366a421205ca8178467fddb13a258810b2a",
+      "bytes": 10988
+    },
+    {
+      "name": "p07",
+      "sha256": "e4856b6fe95bff263e77e4423e26b82fff4f2840b44a412d3db209bb93590793",
+      "bytes": 11220
+    },
+    {
+      "name": "p08",
+      "sha256": "eea8026043f00dc015f183811445045d7dba56e039c2a0b8be0780b9b6435d6b",
+      "bytes": 11114
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

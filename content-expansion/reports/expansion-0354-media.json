@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0354",
+  "title": "铜远望着没有彗星的天空",
+  "version": 1,
+  "bodyCharacters": 1490,
+  "pages": 16,
+  "duration": 462.938,
+  "bodySha256": "2025e950b4cdd1ae6ad01b74e26ad660a6efcee9899bd3934fce7d3480ea6f87",
+  "audioSha256": "d896d5ebef6524e7fb5a07cdc0035470c665ef5510d88321fb242e73c811c1b2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b5973f33a357e725fadb2ae39cf95e283e8ee4f19e98e7eae451f9f03c4487da",
+      "bytes": 16512
+    },
+    {
+      "name": "p01",
+      "sha256": "77ed1ed731c72197f0a7487ad1dce357dd3d3eafba4086696f3c7d91e384737b",
+      "bytes": 9972
+    },
+    {
+      "name": "p02",
+      "sha256": "20eed4a93f4574c503100b41df8125160e2712e236628f0822d4f5ee6f44d56c",
+      "bytes": 12716
+    },
+    {
+      "name": "p03",
+      "sha256": "71255fed4ba132dec4a4a6fb35c922d018520d72f0eb49c32741653bd279780c",
+      "bytes": 12774
+    },
+    {
+      "name": "p04",
+      "sha256": "b0cc92228724b9f032cac97ba4d48b53758d6dd1c42d75959c5576838a41e35f",
+      "bytes": 12712
+    },
+    {
+      "name": "p05",
+      "sha256": "4d311d1c2955a8e25958f0e048e4d64e14b1e4eb26075ba8ad384ccb00c8b9cc",
+      "bytes": 11854
+    },
+    {
+      "name": "p06",
+      "sha256": "f797167f4103ab4a1174faf5fccb92a2a9c9a5d3ed091e8d0b73ba40255ebcc1",
+      "bytes": 12670
+    },
+    {
+      "name": "p07",
+      "sha256": "2a299ce5e6f0139fe0a9690a8c69dfbc8a6f3c8d43e5dc570db76a99518f65c7",
+      "bytes": 9394
+    },
+    {
+      "name": "p08",
+      "sha256": "384ed61c11a93230a749de4ffdce7a5531d2ab65fb52c051e46cfc213dc983f7",
+      "bytes": 10326
+    },
+    {
+      "name": "p09",
+      "sha256": "625492a6cacab530433a41696801573bb26529e729ca043e5346787130ac0199",
+      "bytes": 10448
+    },
+    {
+      "name": "p10",
+      "sha256": "05d0c9a5b7f52acea43e3cd6de4aebab8bd769f30c59e3d0b121ddeaf126fcb5",
+      "bytes": 11012
+    },
+    {
+      "name": "p11",
+      "sha256": "6cbf07dcb861f009467394253ac92ffff986345ed5dc568d62ccc38452d902dd",
+      "bytes": 12542
+    },
+    {
+      "name": "p12",
+      "sha256": "b9186ef79fce80389faf4ccd2a538600e745e7ae0228586de7e5fb7524c5fe09",
+      "bytes": 12646
+    },
+    {
+      "name": "p13",
+      "sha256": "b9db5f46bc3cdcca18046934ef04f3534126b372e606af7ff7362d122491c25e",
+      "bytes": 12702
+    },
+    {
+      "name": "p14",
+      "sha256": "6e963224ca8d2db9c8d2fe7f9ccba28e7f240661750729df09be14d7164f73a5",
+      "bytes": 13118
+    },
+    {
+      "name": "p15",
+      "sha256": "ae44e82a1e3d1ef08a4ef2edb95efa16daa9b49e69e5a717c610099e9370d49d",
+      "bytes": 13504
+    },
+    {
+      "name": "p16",
+      "sha256": "dd1e3ffe2527064fb6f9cc99577aa4ec1312a405e5327662585bb7e21ab57a03",
+      "bytes": 13358
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

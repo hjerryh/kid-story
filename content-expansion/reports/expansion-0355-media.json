@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0355",
+  "title": "槐伯往太阳那边走",
+  "version": 1,
+  "bodyCharacters": 1487,
+  "pages": 16,
+  "duration": 448.106,
+  "bodySha256": "5a1801ac4abdd6c3341a998507e2fe16ea562e81300dd2dec75baf917675d273",
+  "audioSha256": "d9be7fe066d8e12b63a80269f0b75bea18cfc19f8463fd1ffe6acf9e117e088d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "bb0b5b3d33e422f0b07192f124686a5d08fdf8075f22e8062d60ac2df06c388d",
+      "bytes": 15544
+    },
+    {
+      "name": "p01",
+      "sha256": "2bb1fb5fd7acd8bf60cc9c455f69e37657d21352d8c660f5ac6495f0c015d014",
+      "bytes": 12342
+    },
+    {
+      "name": "p02",
+      "sha256": "4587e161dc51d71950bf639292114859b85156d5a1f799c09370ffd957ff0836",
+      "bytes": 12286
+    },
+    {
+      "name": "p03",
+      "sha256": "979fb29633f302871c2d98845e386533538d2bd926c2cc7607676e7e06c3d1ae",
+      "bytes": 11928
+    },
+    {
+      "name": "p04",
+      "sha256": "b05511b4c0c4b1c8d4f2534b0630c9138d9eb84fda83e673a28bffaf52469203",
+      "bytes": 11104
+    },
+    {
+      "name": "p05",
+      "sha256": "2391ee0518b38513086ee645f79cbbb832669e1517a1ec53ef47636d18562b69",
+      "bytes": 9176
+    },
+    {
+      "name": "p06",
+      "sha256": "433e989bd1702f5b1c290dec9433bc9fb5d4e3a55253c96cdf25a112993f8dcb",
+      "bytes": 9764
+    },
+    {
+      "name": "p07",
+      "sha256": "16bbd716db04fdbf935800c4d923271e71675e3ca7e861028f1e206ce0ce3200",
+      "bytes": 11634
+    },
+    {
+      "name": "p08",
+      "sha256": "8321196db5dd5555371ded77ba13944c0662eeefa7cfde65acd91f482cab1fed",
+      "bytes": 11556
+    },
+    {
+      "name": "p09",
+      "sha256": "e774b8bfbe2d16ad3060f3a47be9261ba9ffd0646352cc8e06ef82f17d37b910",
+      "bytes": 11816
+    },
+    {
+      "name": "p10",
+      "sha256": "f5cedaee96abcffeb6766e3fa89888894a58653881b2ae70709d2820cea3aca5",
+      "bytes": 11654
+    },
+    {
+      "name": "p11",
+      "sha256": "ebd67331ea8fc82a891fd7bab9aba6609e8b2324e5faec900292b91679ebdb11",
+      "bytes": 11220
+    },
+    {
+      "name": "p12",
+      "sha256": "7de82f2c4ff2a627f55fc5a4d0f41a3947e2711d0bc1fa3bbfddf3a4bf0a71b0",
+      "bytes": 13506
+    },
+    {
+      "name": "p13",
+      "sha256": "e4e49a5cc8115aa104510a2510816c24141cda0f221ab5710bbae4819cc3c96f",
+      "bytes": 12494
+    },
+    {
+      "name": "p14",
+      "sha256": "ab3a44215bdeb37e3e0d19d9d5a12945d7e9db4e65bd4f9bcb5ac6842147ebb1",
+      "bytes": 12662
+    },
+    {
+      "name": "p15",
+      "sha256": "0e991285103f21a183e1f719d7f2ce13a2c7033f5dd27a9949996833cae1afd5",
+      "bytes": 11822
+    },
+    {
+      "name": "p16",
+      "sha256": "f5f5ee7247ba9bb8ae61e97c5702f8bef4b1d81ef5294bd8a69f1a9a466562ce",
+      "bytes": 13936
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0331",
+  "version": 1,
+  "status": "media-ready",
+  "title": "花杯转圈以前",
+  "subtitle": "嗒嗒后面停一停",
+  "description": "竹叶茶馆里，一只小花杯每天都跳同一支舞。小灰鼠芝麻想和它一起跳，却总是碰到杯把。坐下来仔细看一看，他发现舞步里藏着一个小小的停顿。",
+  "ageBand": "3-5",
+  "theme": "观察与节奏",
+  "color": "#85B6A0",
+  "character": "小灰鼠芝麻：浅灰色绒毛，圆耳朵，穿湖蓝色短背心，系白色小领巾。花杯：白瓷小茶杯，杯身一朵红花，弯弯的杯把，两只圆短的白瓷脚。",
+  "cover": "/library/stories/expansion-0331/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 169.234,
+  "detailUrl": "/library/stories/expansion-0331/v1/story.json",
+  "audio": "/library/stories/expansion-0331/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "竹叶茶馆的窗边，住着一只长脚的小花杯。它每天都跳同一支舞，瓷脚轻轻嗒嗒响。小灰鼠芝麻听得耳朵直摇。他把椅子挪开，空出一块地方：“花杯，我想和你一起跳！”",
+      "image": "/library/stories/expansion-0331/v1/p01.webp",
+      "start": 0,
+      "end": 20.174
+    },
+    {
+      "id": "p02",
+      "text": "花杯朝他鞠了一躬：“好呀，先看看我的脚。”它向左迈一步，向右迈一步，又转了一个圈。芝麻觉得真容易，立刻伸开双手。可是刚转起来，他的鼻尖就碰上了弯弯的杯把。",
+      "image": "/library/stories/expansion-0331/v1/p02.webp",
+      "start": 20.174,
+      "end": 40.108
+    },
+    {
+      "id": "p03",
+      "text": "“哎哟，像碰到一颗凉豆子！”芝麻揉揉鼻尖。这回，他把步子迈得小小的，尾巴也收好。左一步，右一步，转呀——杯把又碰到了他的耳朵。花杯停下来，他也停下来。",
+      "image": "/library/stories/expansion-0331/v1/p03.webp",
+      "start": 40.108,
+      "end": 60.378
+    },
+    {
+      "id": "p04",
+      "text": "芝麻有些纳闷：“我的脚是不是太快了？”他坐到竹椅上，请花杯独自跳一遍。这次，他不忙着动脚，只看那两只小瓷脚。窗外的竹叶沙沙响，花杯身上的红花慢慢转过来。",
+      "image": "/library/stories/expansion-0331/v1/p04.webp",
+      "start": 60.378,
+      "end": 80.984
+    },
+    {
+      "id": "p05",
+      "text": "左一步，右一步。咦，花杯没有马上转圈！它把两脚并在一起，静静站了一小会儿，才抬脚转身。芝麻跟着轻轻吸了一口气。原来，那两声嗒嗒后面，还有一个没有声音的地方。",
+      "image": "/library/stories/expansion-0331/v1/p05.webp",
+      "start": 80.984,
+      "end": 102.19
+    },
+    {
+      "id": "p06",
+      "text": "芝麻重新站起来：“我再试试。”左一步，右一步。他的尾巴已经想转了，双脚却稳稳站住。他看着花杯，轻轻吸气。等小瓷脚再次抬起，他才跟着转身。这回，杯把从鼻尖旁轻轻过去。",
+      "image": "/library/stories/expansion-0331/v1/p06.webp",
+      "start": 102.19,
+      "end": 125.124
+    },
+    {
+      "id": "p07",
+      "text": "没有碰到！芝麻笑了，花杯身上的红花也转得亮亮的。他们又向左，又向右，一起停住，再一起转圈。最后，花杯弯下小脚，芝麻弯下腰，两位舞伴面对面，认认真真地鞠了一躬。",
+      "image": "/library/stories/expansion-0331/v1/p07.webp",
+      "start": 125.124,
+      "end": 147.266
+    },
+    {
+      "id": "p08",
+      "text": "跳累了，芝麻和花杯并排坐在窗边。风把竹叶的清香送进来。芝麻的尾巴尖还在偷偷跳舞：左一下，右一下，停一停。花杯看见了，轻轻碰了碰他的手：“下次，也请你的尾巴来跳。”",
+      "image": "/library/stories/expansion-0331/v1/p08.webp",
+      "start": 147.266,
+      "end": 169.234
+    }
+  ],
+  "buildHash": "fd46c300e96aa750fa2f23f6982c7be8085d8a7f47448c9f65157d63517fdc2a"
+}

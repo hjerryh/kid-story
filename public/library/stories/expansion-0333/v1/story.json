@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0333",
+  "version": 1,
+  "status": "media-ready",
+  "title": "金冠在门口亮闪闪",
+  "subtitle": "沙点心店开张啦",
+  "description": "米酥想在浅滩边的沙堡里开一家沙点心店，却舍不得摘下新捡到的漂亮金冠。偏偏戴着它，无论做什么都会变成尖塔。圆圆的沙饼还能做出来吗？",
+  "ageBand": "3-5",
+  "theme": "自己的选择",
+  "color": "#E7C88C",
+  "character": "小沙精米酥：浅金色皮肤，蓬松的白色短发，穿海蓝色短裤和白色背心，赤脚。金冠：小巧的金色王冠，正面有一张圆嘴。小蟹：橙红色甲壳，戴白色小围兜。",
+  "cover": "/library/stories/expansion-0333/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 164.578,
+  "detailUrl": "/library/stories/expansion-0333/v1/story.json",
+  "audio": "/library/stories/expansion-0333/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "浅滩旁有一座矮沙堡。小沙精米酥想在里面开家沙点心店，请朋友来玩。他把窗台拍得平平的，准备做圆沙饼、弯沙糕，还有胖胖的沙馒头。光是想想，他的小手就痒起来。",
+      "image": "/library/stories/expansion-0333/v1/p01.webp",
+      "start": 0,
+      "end": 21.254
+    },
+    {
+      "id": "p02",
+      "text": "门口的沙里露出一顶小金冠。米酥抖掉沙粒，戴在白头发上。金冠亮闪闪地说：“戴着我，做出的沙东西都会变成尖塔！”米酥摸摸漂亮的冠尖：“只做一块小饼，也会吗？”",
+      "image": "/library/stories/expansion-0333/v1/p02.webp",
+      "start": 21.254,
+      "end": 41.548
+    },
+    {
+      "id": "p03",
+      "text": "他捧来湿沙，轻轻按圆。刚松开手，沙饼中间就鼓起来，越长越高，成了一座细尖塔。米酥又把塔尖压下去。噗，塔尖重新冒出来，像一根怎么也躺不平的小辫子。",
+      "image": "/library/stories/expansion-0333/v1/p03.webp",
+      "start": 41.548,
+      "end": 61.482
+    },
+    {
+      "id": "p04",
+      "text": "米酥把金冠歪着戴，又转到脑后，重新揉了一只沙馒头。噗，还是尖塔。他举手想摘金冠，手指却停住了。阳光在金冠上跳呀跳，真好看。他还想多戴一小会儿呢。",
+      "image": "/library/stories/expansion-0333/v1/p04.webp",
+      "start": 61.482,
+      "end": 81.704
+    },
+    {
+      "id": "p05",
+      "text": "小蟹戴着围兜来了，伸头看看：“今天卖屋顶呀？”米酥也看看窗台。两座尖塔站得笔直，一块圆饼也没有。他想起自己要开的点心店，又想起手心里揉着圆沙团的舒服感觉。",
+      "image": "/library/stories/expansion-0333/v1/p05.webp",
+      "start": 81.704,
+      "end": 102.094
+    },
+    {
+      "id": "p06",
+      "text": "“我今天要做沙饼。”米酥说。他双手摘下金冠，把它放到门旁的小沙台上。“你可以在这里亮闪闪。”金冠没有生气，只打了个圆圆的呵欠。米酥的白头发蓬地松开了。",
+      "image": "/library/stories/expansion-0333/v1/p06.webp",
+      "start": 102.094,
+      "end": 122.412
+    },
+    {
+      "id": "p07",
+      "text": "他把两座尖塔揉散，重新拢成沙团。这一次，圆饼安安稳稳地趴在窗台上，再也没有长高。米酥用手指压出一道弯，做成沙糕。小蟹拍拍钳子：“我要这块！假装吃一大口！”",
+      "image": "/library/stories/expansion-0333/v1/p07.webp",
+      "start": 122.412,
+      "end": 143.642
+    },
+    {
+      "id": "p08",
+      "text": "沙点心店开张了。小蟹咂咂嘴，吃了一嘴巴的空气，还认真说了声香。金冠在门边闪着光。海风吹过米酥的头发，痒痒的。他笑着捧起下一团沙，这回，要做一只胖馒头。",
+      "image": "/library/stories/expansion-0333/v1/p08.webp",
+      "start": 143.642,
+      "end": 164.578
+    }
+  ],
+  "buildHash": "9be14ee4cb2553c7bacda7e90675dbdd036b7184b958e884194a8ff9451d041d"
+}

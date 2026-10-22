@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0338",
+  "title": "蓝石头留在袋子里",
+  "version": 1,
+  "bodyCharacters": 1013,
+  "pages": 12,
+  "duration": 302.154,
+  "bodySha256": "0ea29601b831ce4cab4d4a4d8e4198c0824a8cbbf608e6c61ab9922feea451d1",
+  "audioSha256": "7655722fb2cadbfe9eb55b13ba859bd0aed03350f1421e067c86e5bdbe71fa3a",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "a1724bd9dc61c15de76688ce3d4fec14ace1e9655a94dffb39789d7c964aa75c",
+      "bytes": 16668
+    },
+    {
+      "name": "p01",
+      "sha256": "3a49109b51cd1c271210123fe0e49e715947d03346a983c25e7810b743fe3667",
+      "bytes": 13564
+    },
+    {
+      "name": "p02",
+      "sha256": "0cbaccc3f2c77159fe1c31df45a0aeb33ece00e7bfabbd94398d010f38711f60",
+      "bytes": 13654
+    },
+    {
+      "name": "p03",
+      "sha256": "bf21bcf3982b6139433cb46b110fb0630b516dfb622cae4d2cf878c951f55429",
+      "bytes": 13514
+    },
+    {
+      "name": "p04",
+      "sha256": "40f3e64ee494016fd84ae74ccbadef105daf8afe27b4fb35f7a8e18510bbe7b8",
+      "bytes": 13352
+    },
+    {
+      "name": "p05",
+      "sha256": "f44b5dce9df6c614e89357d3efb24afefa0c7e73774c270d18a9cb1699e92805",
+      "bytes": 13534
+    },
+    {
+      "name": "p06",
+      "sha256": "616ed1595197a39c9bbaa3fe05598ed31dd30028fcd29311d2ca1f8d6504eba1",
+      "bytes": 13558
+    },
+    {
+      "name": "p07",
+      "sha256": "1bdaba344661b318db215f00d6aef4e8562df65089de031b3f0525db7546c48d",
+      "bytes": 14240
+    },
+    {
+      "name": "p08",
+      "sha256": "460ab3be6a437e4ade0ee9ec7ef26b34852011735bdc4d1ba2204192625116a2",
+      "bytes": 13996
+    },
+    {
+      "name": "p09",
+      "sha256": "d421991b69209c9cda7e0243a76ed7a4c6a88460b1eed7108c43fb12021f4bcb",
+      "bytes": 14042
+    },
+    {
+      "name": "p10",
+      "sha256": "417412988b50cc7c9b1a05f1260a525b3510a4a52a6ca36b7bbde7bca9e90971",
+      "bytes": 14424
+    },
+    {
+      "name": "p11",
+      "sha256": "70980ceab4e40f5fc452c994a723f862d65c702fe45a0694d668b8e3b2b41633",
+      "bytes": 14120
+    },
+    {
+      "name": "p12",
+      "sha256": "3214570d8e9c544ee0d1ee5d963be28d17b66f0163390ab053b9d7167db0e38b",
+      "bytes": 14118
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

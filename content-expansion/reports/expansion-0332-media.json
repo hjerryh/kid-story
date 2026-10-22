@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0332",
+  "title": "吧嗒带着尾巴伞",
+  "version": 1,
+  "bodyCharacters": 530,
+  "pages": 8,
+  "duration": 177.01,
+  "bodySha256": "2eb0dcc6a0ed407f625b03b2ac0861be94901fe0326814347cce3e934b1bca28",
+  "audioSha256": "6427ad9494b0e30ee5ed223059fbfbcad2153ef819ab3b326325d1b575dcd3f6",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ce9fb55ae5e1f12c6654e453edccfd49f3bb5fd93a5b1cf7a94894b05ef2dd31",
+      "bytes": 15114
+    },
+    {
+      "name": "p01",
+      "sha256": "058d096830e44d60c8e5cefd218cd842678d572af17df52d4cee10456bbcc72c",
+      "bytes": 9682
+    },
+    {
+      "name": "p02",
+      "sha256": "e038966ba60fa4581b542f08bea09b07ef6d0594b4c6b7b9fb60227279e3055b",
+      "bytes": 10126
+    },
+    {
+      "name": "p03",
+      "sha256": "1a54fd4c3e4a7bc6d1a69b7e57841117538f6b584d0a24225fad3d38255dcef0",
+      "bytes": 10192
+    },
+    {
+      "name": "p04",
+      "sha256": "8c01a506bb2ca8ba5f6e7b8670ba56f8216940993baf71ec745d4c2262da8e44",
+      "bytes": 9870
+    },
+    {
+      "name": "p05",
+      "sha256": "67e6d5121f57f34c414b8f6d044efc5e14b3af4a85584bd6c4ae3d40aaf9e434",
+      "bytes": 9976
+    },
+    {
+      "name": "p06",
+      "sha256": "402065883f8cc176aa8a39c48e080ce17b4c374107233676dcc5342ada85c4dd",
+      "bytes": 10886
+    },
+    {
+      "name": "p07",
+      "sha256": "daa5861bb410f6f856f3f189d240c47bb40b70e7f0e0ef439d52bb151f5dc0cf",
+      "bytes": 13016
+    },
+    {
+      "name": "p08",
+      "sha256": "0fc2229043a59434b95d2dced38f8dcae6e8c8ff9a30438a109e4bf3ad6aec21",
+      "bytes": 12006
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0337",
+  "title": "绒丘停在半空等一等",
+  "version": 1,
+  "bodyCharacters": 1012,
+  "pages": 12,
+  "duration": 307.842,
+  "bodySha256": "e79cc63e687826f87b8e24f8e867eafa35af8e4add1da512609416f20479ecce",
+  "audioSha256": "8e632b9d102dda116f45b3331da90924474b0d6f68a2a9a3099d290a39549e3c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f832a92347cb99e5e8edadd0c2060e6f1bf2558fdf935d4bb2d75dd747ce3546",
+      "bytes": 13818
+    },
+    {
+      "name": "p01",
+      "sha256": "3a59eaac3ac9c87700db556af4bddb8f5d14a361801637d7e5b4034c6514cbc4",
+      "bytes": 9742
+    },
+    {
+      "name": "p02",
+      "sha256": "97dae62917d5d4a4cd33cb1a0fa58e382403886fd3195544ebbb465581aeb9ab",
+      "bytes": 12130
+    },
+    {
+      "name": "p03",
+      "sha256": "0135453628b758ede777c427b00e1905f110fb571de60b4bf3d4f21aaaa8a4ca",
+      "bytes": 10564
+    },
+    {
+      "name": "p04",
+      "sha256": "5170441549b566a43037d0dd5e6f254b242ec81f73b395295aa5baa6b75b0fbd",
+      "bytes": 11708
+    },
+    {
+      "name": "p05",
+      "sha256": "8949133888fc2b61b60cb68eef36b390b651e0e7ebc753d99038b93e111d0503",
+      "bytes": 12382
+    },
+    {
+      "name": "p06",
+      "sha256": "ccb4113c36b53511ad2ea996d2e3758e3064bcfef2c617aa02bf786f1612e0c0",
+      "bytes": 12650
+    },
+    {
+      "name": "p07",
+      "sha256": "dbb32bfa9a8bd0904f8f30acbd5956a3f8906f10282e550928c784091e843502",
+      "bytes": 12368
+    },
+    {
+      "name": "p08",
+      "sha256": "ddcf8a6e502b92a7655cc8deb5c1efe02ddda395a44ed54725606637b2384fd3",
+      "bytes": 12312
+    },
+    {
+      "name": "p09",
+      "sha256": "ab73762f8bf62b7c1bbe3851c3ef2e971a62e0ff9005ce49ac8cf841d1a52006",
+      "bytes": 11266
+    },
+    {
+      "name": "p10",
+      "sha256": "a971c307d4fdf697bcc6b499c9c74478b7efbdb7003dff52de09b95bfbb4d201",
+      "bytes": 7702
+    },
+    {
+      "name": "p11",
+      "sha256": "79a558b0ae7bd4eed285cc35fab781bf363f427438d495a5673223493994b033",
+      "bytes": 9612
+    },
+    {
+      "name": "p12",
+      "sha256": "983cb3d8db989d9d69a588dfbdeb186622c92d6a04daa4079bd3b3c104a88e61",
+      "bytes": 13562
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

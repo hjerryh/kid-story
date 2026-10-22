@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0335",
+  "version": 1,
+  "status": "media-ready",
+  "title": "转弯时等一等木鸭",
+  "subtitle": "一起走过弯弯小路",
+  "description": "苔团答应把三只木鸭从山谷作坊带到小池塘，可每走过一个弯，身后的队伍就少了一截。怎样才能把每一位小客人都好好带到？",
+  "ageBand": "3-5",
+  "theme": "承诺与陪伴",
+  "color": "#8DAF9B",
+  "character": "小鼹鼠苔团，灰褐色绒毛，圆鼻子，穿蓝色短背带裤，戴米白色软帽。三只木鸭都有浅黄色木纹身体、橙色扁嘴和小木脚，分别戴红、绿、紫色小围兜，其中紫围兜木鸭个头最小。",
+  "cover": "/library/stories/expansion-0335/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 157.57,
+  "detailUrl": "/library/stories/expansion-0335/v1/story.json",
+  "audio": "/library/stories/expansion-0335/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "山谷作坊里，三只新做好的木鸭醒来了。它们摇着小木脚，闻见窗外湿湿的风。“我们想去游泳。”苔团戴好软帽，说：“我带你们去小池塘，一只也不会落下。”",
+      "image": "/library/stories/expansion-0335/v1/p01.webp",
+      "start": 0,
+      "end": 18.374
+    },
+    {
+      "id": "p02",
+      "text": "小路弯弯，白花香香。苔团走在前头，三只木鸭跟在后头，嗒嗒，嗒嗒。他想着池塘里的圆荷叶，不知不觉走快了。转过一道弯，背后的脚步声忽然只剩下一双。",
+      "image": "/library/stories/expansion-0335/v1/p02.webp",
+      "start": 18.374,
+      "end": 38.26
+    },
+    {
+      "id": "p03",
+      "text": "苔团回头一看，只有红围兜木鸭。他赶紧往回走，绿围兜和紫围兜都站在弯口。“怎么不走啦？”“你不见了呀。”最小的木鸭说。苔团拍拍胸口：“下次听我喊！”",
+      "image": "/library/stories/expansion-0335/v1/p03.webp",
+      "start": 38.26,
+      "end": 58.218
+    },
+    {
+      "id": "p04",
+      "text": "到了第二道弯，苔团边走边喊：“这边，这边！”木鸭们伸长脖子，却没有跟过来。花丛那边传来小小的回答：“听见啦，可是看不见你。”苔团只好又折了回去。",
+      "image": "/library/stories/expansion-0335/v1/p04.webp",
+      "start": 58.218,
+      "end": 76.976
+    },
+    {
+      "id": "p05",
+      "text": "这回，苔团蹲在最小的木鸭身边。呀，花茎像一排高高的柱子，把前面的路遮住了。他再看看木鸭短短的脚：自己迈一步，它要迈好几步呢。苔团把伸出去的脚收了回来。",
+      "image": "/library/stories/expansion-0335/v1/p05.webp",
+      "start": 76.976,
+      "end": 97.294
+    },
+    {
+      "id": "p06",
+      "text": "再出发时，苔团走一小段，就回头看一眼。到了弯口，他停下来，等红围兜、绿围兜、紫围兜都走到身边，才一起转弯。这一次，三张橙色的小嘴一直跟在他身旁。",
+      "image": "/library/stories/expansion-0335/v1/p06.webp",
+      "start": 97.294,
+      "end": 116.964
+    },
+    {
+      "id": "p07",
+      "text": "小池塘终于亮在眼前。苔团陪木鸭们走到平平的水边，看着它们一只接一只浮起来。红围兜，绿围兜，还有紫围兜。三双小木脚拨着水，画出了三条细细的波纹。",
+      "image": "/library/stories/expansion-0335/v1/p07.webp",
+      "start": 116.964,
+      "end": 136.994
+    },
+    {
+      "id": "p08",
+      "text": "苔团坐在岸边，慢慢晃着脚。最小的木鸭游了一圈，又游回来，用扁扁的嘴轻碰他的鞋尖。“你还在呀。”“在呢。”苔团笑了。荷叶轻轻摇着，像在给三只木鸭扇风。",
+      "image": "/library/stories/expansion-0335/v1/p08.webp",
+      "start": 136.994,
+      "end": 157.57
+    }
+  ],
+  "buildHash": "247300690403ed593e3329064ad9ea0caa26f233d0345d6dbcfdd999d61fb827"
+}

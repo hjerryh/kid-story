@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0347",
+  "title": "墨舟浮起来的那一页",
+  "version": 1,
+  "bodyCharacters": 1041,
+  "pages": 12,
+  "duration": 307.506,
+  "bodySha256": "68f8ee7b60971a342e06feee0fae106597f7d6d2eac99b78acea4b3df9aeb8fa",
+  "audioSha256": "5a1babc306ff047ef191b9b08bd0e4532289a5d33bb3832ac348488e69770142",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e2dd85f62ee2a18aefbd6e37e99cf53a67000539e3bd31e42b750d8d398a1951",
+      "bytes": 15512
+    },
+    {
+      "name": "p01",
+      "sha256": "71c894f5ef3b84b32730e69e60c5a6469f9e57838fffc96c9cb4767f95bd8e0d",
+      "bytes": 12238
+    },
+    {
+      "name": "p02",
+      "sha256": "3a700797d374528ffc20d7cf50c1b725ace2b8b94ff32333997c02e3549944d8",
+      "bytes": 12586
+    },
+    {
+      "name": "p03",
+      "sha256": "509f26a912c10ae51b859237180c7f8e49357aad91587f746f5d83e7608eb03c",
+      "bytes": 12926
+    },
+    {
+      "name": "p04",
+      "sha256": "cdf199d2e864dd48bad51a5587c2ae2559f1e2399aa5421f80ced04a94a7104b",
+      "bytes": 12668
+    },
+    {
+      "name": "p05",
+      "sha256": "704132f7ac32f8f96f9db1012ee9f9ff63bbb5c28776a1402d6bc379d6322d96",
+      "bytes": 14794
+    },
+    {
+      "name": "p06",
+      "sha256": "86b2dd8a0a74a29b2c4deee30b6a1b294f0b120fcdbcda00048c083f1b11de98",
+      "bytes": 14250
+    },
+    {
+      "name": "p07",
+      "sha256": "004b3c99e9686ebf2bf7505ff319c439e4a4e420f3483edd466474b2232ee070",
+      "bytes": 14654
+    },
+    {
+      "name": "p08",
+      "sha256": "5dde3cc6e11d623c754cd0c8a98f89dff7fd035cc143ebe258543bc96e328851",
+      "bytes": 14440
+    },
+    {
+      "name": "p09",
+      "sha256": "3b6f683394a6c79c14ede69cbfe02e5314685bd4afc16b035a21957bcd8152a2",
+      "bytes": 14486
+    },
+    {
+      "name": "p10",
+      "sha256": "ca234c600a4bf53ab691c5fbcf316f5915957989dbfb50bdb69efe9303ddc75a",
+      "bytes": 14756
+    },
+    {
+      "name": "p11",
+      "sha256": "e5723d4014aec9312c74ee2ca95568e428bebe0ba04e2e30f928be759ce6e3e6",
+      "bytes": 14384
+    },
+    {
+      "name": "p12",
+      "sha256": "3e5f0d7da769f83279224becc43d447e9ab95643a981f5440b28c428ec6e6330",
+      "bytes": 13310
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

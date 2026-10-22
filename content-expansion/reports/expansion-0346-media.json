@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0346",
+  "title": "苔山挑了最小的长椅",
+  "version": 1,
+  "bodyCharacters": 1003,
+  "pages": 12,
+  "duration": 299.706,
+  "bodySha256": "af72ac655cbaa5dcab89276fc81137c792da7a3165c6c6a7052070f1e85e981f",
+  "audioSha256": "5382e9f964d78b9ddbd73287a278123b1a28fe3330e0d15b29b54897e664a61f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4c1742568325ed5fee59f511ae28e310aa2cac7e3083b92fa15253fa8c00bdcf",
+      "bytes": 15624
+    },
+    {
+      "name": "p01",
+      "sha256": "92bd561156dc631b92e2d37e17dd6dbf1616117a5434f02cfe0d2bc9eff3df80",
+      "bytes": 11542
+    },
+    {
+      "name": "p02",
+      "sha256": "1e191626626adb390079b050399ea1fed5553b3993526a2367deeb3906c338e7",
+      "bytes": 14782
+    },
+    {
+      "name": "p03",
+      "sha256": "2f2c85c798ce424c8820c26f0691cad34eb3e7911b1b4cecc6ade46225ac1de3",
+      "bytes": 12022
+    },
+    {
+      "name": "p04",
+      "sha256": "7cd3c9fc1be34fced4d7da49a361a0082fb8e7d09f10054ff6bacd65bd6abefd",
+      "bytes": 13678
+    },
+    {
+      "name": "p05",
+      "sha256": "3b1538327a8dc6a72c83d759b93289f414878657ef1310b7902eee6e1b2fa540",
+      "bytes": 12556
+    },
+    {
+      "name": "p06",
+      "sha256": "df4070ca406edb259791aff4bc2bf5dc831632e3c9c5a104a22237e27fe4ba2a",
+      "bytes": 11344
+    },
+    {
+      "name": "p07",
+      "sha256": "dca5e049ca0c5c0996d1b547b6fd6170038ee63dc5db9844053d5966dbe36869",
+      "bytes": 14642
+    },
+    {
+      "name": "p08",
+      "sha256": "2580237891baa9e6f1348299ee0da92b16145b9b4114aa90aa8bf2f36917d70f",
+      "bytes": 16376
+    },
+    {
+      "name": "p09",
+      "sha256": "9a65f44c4cb56875d56de6116b88b33f5a9dafcddb4938372eb5a2302505d442",
+      "bytes": 16448
+    },
+    {
+      "name": "p10",
+      "sha256": "f75177689c77de3d47fbe2a39078ffc4b8b28e9bf7236c83ed3a2a10fc788220",
+      "bytes": 13800
+    },
+    {
+      "name": "p11",
+      "sha256": "e47b174956532022b13a26bb91e12de46a1644d788b5b52669e8fc38561b62c7",
+      "bytes": 8808
+    },
+    {
+      "name": "p12",
+      "sha256": "acae606f94312d50db41839fa86c96f99d4658633b572fc2de1cb50afae381c9",
+      "bytes": 10292
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

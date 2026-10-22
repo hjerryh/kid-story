@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0329",
+  "title": "亮纽扣换了一张床",
+  "version": 1,
+  "bodyCharacters": 513,
+  "pages": 8,
+  "duration": 164.866,
+  "bodySha256": "db29fe5e469afbf311ec0b92d15c2a6fb5018a77f64a97b6f3b3f1b8e8107ec2",
+  "audioSha256": "86ef7f48b7ee76157eb0c2bf2d69470b6fa1112d60e14424c50a97649cd89d1c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "98fc18ff88b365886ae06a86ddeb78d662e178ea10271a03764ecdde18faa5ed",
+      "bytes": 15944
+    },
+    {
+      "name": "p01",
+      "sha256": "08bb8351900d894f5f4bcf193bcea4862f84922432d6f6bfb96d8fbe33b708f2",
+      "bytes": 13526
+    },
+    {
+      "name": "p02",
+      "sha256": "a2dea0077ee52a27195130d52849ba7792098b85e0a4885ece8be8ebc7054aee",
+      "bytes": 13324
+    },
+    {
+      "name": "p03",
+      "sha256": "0670548c54a551960bad8a5205c98a8c233aa6647352391ed7a7cd42a065d040",
+      "bytes": 13378
+    },
+    {
+      "name": "p04",
+      "sha256": "339cbbb0dc682ad8cd232c795936f79e784f2824563f12c5fc15f098a52c3047",
+      "bytes": 11550
+    },
+    {
+      "name": "p05",
+      "sha256": "bf01f65059e54163bf8c101f87d43e1d340f2b50322e9cd48b448e2339cb39f1",
+      "bytes": 11844
+    },
+    {
+      "name": "p06",
+      "sha256": "0968b9312644ab5dce195d75696584b9b120965d0b92f34472174d8d2a0ac836",
+      "bytes": 13124
+    },
+    {
+      "name": "p07",
+      "sha256": "25116426b5d8b6243d311e3163e43feb0605ac6b07643d4d111fd0906a388287",
+      "bytes": 13586
+    },
+    {
+      "name": "p08",
+      "sha256": "be7b790a11d304a1ffd77c8153b4df3df32f2432a13244a7320ae00395fecb12",
+      "bytes": 12816
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

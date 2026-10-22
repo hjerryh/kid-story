@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0342",
+  "title": "织月拆开了小阳台",
+  "version": 1,
+  "bodyCharacters": 923,
+  "pages": 12,
+  "duration": 281.61,
+  "bodySha256": "6120d5f4b453fd2500944f6ae0c7f1dc199c6bae781129a4c3bce4bd9eef531b",
+  "audioSha256": "5b3bd5daeab299bbb7bffe4fdf324ed538930497fc4afd4caec6011cb7dedf15",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f32bbf7e6c5a0a7f1f0d433aa2cbdbfbab74b410dec20b2be01a5fdb9d97c3f4",
+      "bytes": 15830
+    },
+    {
+      "name": "p01",
+      "sha256": "bfdae7a540689d2a873f6a6d103ea6286f8d2e87fe57058d569c0144995f72e1",
+      "bytes": 11992
+    },
+    {
+      "name": "p02",
+      "sha256": "8c9e017ccb83f439bb46a71e7cc5acb6a61e2fec1ad43e64922fcbe5a9175a40",
+      "bytes": 13732
+    },
+    {
+      "name": "p03",
+      "sha256": "baef5b8b3f36fc0b3c9049e0e675342913070415d2729b7aa8da9fa56374ae42",
+      "bytes": 14156
+    },
+    {
+      "name": "p04",
+      "sha256": "5c115b84e5381a3c91451344abc48e20d465bf378a0ae9bd0a7f11f987af32f2",
+      "bytes": 13754
+    },
+    {
+      "name": "p05",
+      "sha256": "239426ba4741569a0cb97ae2083e84b65fcc34d39efcc46c8986e5bf47c1acf1",
+      "bytes": 12896
+    },
+    {
+      "name": "p06",
+      "sha256": "08a1cf5a3b306f660cfab9e3142810954632605a5ce67298838edad40c3dbd53",
+      "bytes": 13544
+    },
+    {
+      "name": "p07",
+      "sha256": "f5737a664b04884b69c7001e1a14d7730438f4371c384cd2049d5670bfc67b21",
+      "bytes": 13592
+    },
+    {
+      "name": "p08",
+      "sha256": "a24ea390643111b159320ecb829dd2aa3eac23a9428da92187cf62c41c2a0e45",
+      "bytes": 13918
+    },
+    {
+      "name": "p09",
+      "sha256": "2afefe4d09d2cc80bfec7484b7d3fa6208d3dda4c2f64ce59d5c1a3c71c0c593",
+      "bytes": 14392
+    },
+    {
+      "name": "p10",
+      "sha256": "ce1034dc369de5ff478d44a22bfc7785c3b7fa614edbae3e70d2b7d69e047b39",
+      "bytes": 12900
+    },
+    {
+      "name": "p11",
+      "sha256": "b812c1a19b6a220249f8117d088ece5eca20faecc2e835a4ee1a9fba8237e07a",
+      "bytes": 12528
+    },
+    {
+      "name": "p12",
+      "sha256": "67f7c58a9d9f11a9b1eea8d4cc6d428c52e54af6f3768042b6de38ad1ae9185e",
+      "bytes": 9056
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

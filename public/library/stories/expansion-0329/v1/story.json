@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0329",
+  "version": 1,
+  "status": "media-ready",
+  "title": "亮纽扣换了一张床",
+  "subtitle": "先试试，再交换",
+  "description": "荞荞想用一颗亮纽扣补好核桃车，可纽扣的主人不喜欢她拿来交换的漂亮东西。怎样才能换到车轮，又让圆砾也得到心爱的宝贝？",
+  "ageBand": "3-5",
+  "theme": "交换心愿",
+  "color": "#A8BFCB",
+  "character": "花精灵荞荞：浅棕色短发，头戴两片绿叶，穿淡紫色连衣裙，背蓝绒小袋。石头小人圆砾：灰白色圆脑袋，短短的手脚，穿深绿色小背心。小车是装有三个木轮、缺少一个轮子的核桃壳车。",
+  "cover": "/library/stories/expansion-0329/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 164.866,
+  "detailUrl": "/library/stories/expansion-0329/v1/story.json",
+  "audio": "/library/stories/expansion-0329/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "风铃街道叮叮响，花精灵荞荞推着核桃车，一歪，一歪。车子少了一个轮子。石头小人圆砾脚边，有颗又圆又亮的纽扣。荞荞蹲下来看看，大小正好，连中间的小孔都合适。",
+      "image": "/library/stories/expansion-0329/v1/p01.webp",
+      "start": 0,
+      "end": 21.206
+    },
+    {
+      "id": "p02",
+      "text": "“我拿三片红花瓣换，好吗？”荞荞问。圆砾把纽扣举到脸前，里面照出一个圆鼻头。“这是我的镜子呀。”他摸摸鼻子，“花瓣很漂亮，可我已经有一顶花帽子了。”",
+      "image": "/library/stories/expansion-0329/v1/p02.webp",
+      "start": 21.206,
+      "end": 40.18
+    },
+    {
+      "id": "p03",
+      "text": "荞荞打开蓝绒小袋，又添了一枚白贝壳。“贝壳也给你！”圆砾还是摇头：“我没有想要贝壳呀。”荞荞把贝壳收回袋里，指尖慢慢摸着袋口。她觉得自己带来的宝贝不少了。",
+      "image": "/library/stories/expansion-0329/v1/p03.webp",
+      "start": 40.18,
+      "end": 60.666
+    },
+    {
+      "id": "p04",
+      "text": "她没有再往外掏东西，而是问：“那你想要什么呢？”圆砾指指屋里的小石床：“我想睡得软一点。石床硌着背，翻个身，又硌着肚皮。”他说着，轻轻揉了揉自己的小肚皮。",
+      "image": "/library/stories/expansion-0329/v1/p04.webp",
+      "start": 60.666,
+      "end": 80.552
+    },
+    {
+      "id": "p05",
+      "text": "荞荞摸摸蓝绒袋。里面软，外面也软，圆砾刚好能躺进去。可是，她很喜欢背着它散步。她想了一会儿，说：“你愿意拿纽扣换这个袋子吗？我们先试试，不合适就不换。”",
+      "image": "/library/stories/expansion-0329/v1/p05.webp",
+      "start": 80.552,
+      "end": 100.99
+    },
+    {
+      "id": "p06",
+      "text": "荞荞倒出贝壳，把空袋铺在石床上。圆砾钻进去，翻翻身，脚趾也没有挤着。他把纽扣递给荞荞。荞荞套上车轴，轻轻一推，小车稳稳地走了，两人都忍不住笑出了声。",
+      "image": "/library/stories/expansion-0329/v1/p06.webp",
+      "start": 100.99,
+      "end": 122.004
+    },
+    {
+      "id": "p07",
+      "text": "“我愿意换！”圆砾说。“我也愿意！”荞荞说。她把贝壳放进核桃车，空空的肩膀轻了一点，心里还有一点舍不得。圆砾把绒袋边抚平：“下次来，你可以坐在床边跟我聊天。”",
+      "image": "/library/stories/expansion-0329/v1/p07.webp",
+      "start": 122.004,
+      "end": 143.138
+    },
+    {
+      "id": "p08",
+      "text": "荞荞推着车往前走。亮纽扣转呀转，小车不再歪来歪去，贝壳也坐得稳稳的。她回头挥手，圆砾正从蓝绒袋里伸出一只脚，舒服地晃了晃。风铃轻轻响，像替他们盖好了一角被子。",
+      "image": "/library/stories/expansion-0329/v1/p08.webp",
+      "start": 143.138,
+      "end": 164.866
+    }
+  ],
+  "buildHash": "784ce59cdd721519327bdb80cbb955ec78084cbcce7f54fd1683fed8651493c0"
+}

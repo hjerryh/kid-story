@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0336",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小船的哈欠要小一点",
+  "subtitle": "一起编一片海",
+  "description": "小驴苜苜想给不能远行的苹果树苗讲一个海边故事，可她自己也没见过海。故事刚开头就卡住了，一句轻轻的“不知道”，却让他们找到了一片可以一起想象的海。",
+  "ageBand": "3-5",
+  "theme": "未知与想象",
+  "color": "#8DB99A",
+  "character": "苜苜是一只浅灰色小驴，耳尖深灰，额前有一撮短鬃毛，穿湖蓝色背带裤。苹果树苗有细细的棕色树干、五片绿叶，树干上有圆眼睛和小嘴。",
+  "cover": "/library/stories/expansion-0336/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 153.418,
+  "detailUrl": "/library/stories/expansion-0336/v1/story.json",
+  "audio": "/library/stories/expansion-0336/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "四季果园里，小驴苜苜常给苹果树苗讲路上的事。树苗的根扎在土里，哪里也去不了。这天，它轻轻拉住苜苜的裤脚：“今天讲海吧。我想听一个有小船的故事。”",
+      "image": "/library/stories/expansion-0336/v1/p01.webp",
+      "start": 0,
+      "end": 19.694
+    },
+    {
+      "id": "p02",
+      "text": "苜苜没见过海。她望望旁边的蓝水盆，张开两只前蹄：“海呀，大概是一个好大的水盆。小船住在里面。”树苗问：“那么，小船靠岸的时候，要爬过盆边吗？”",
+      "image": "/library/stories/expansion-0336/v1/p02.webp",
+      "start": 19.694,
+      "end": 38.692
+    },
+    {
+      "id": "p03",
+      "text": "苜苜在泥地上画了一条小船，又给它画了楼梯。可是，船怎么走楼梯呢？她擦掉两级，又添上三级。树苗等着听下去，叶子一动不动。苜苜的耳朵慢慢垂了下来。",
+      "image": "/library/stories/expansion-0336/v1/p03.webp",
+      "start": 38.692,
+      "end": 58.362
+    },
+    {
+      "id": "p04",
+      "text": "“我不知道。”苜苜轻声说，“我没有见过海，刚才那些都是我猜的。”树苗把叶子搭在她肩上：“那我们编一片海，好不好？故事里的海，可以先从这里开始。”",
+      "image": "/library/stories/expansion-0336/v1/p04.webp",
+      "start": 58.362,
+      "end": 75.824
+    },
+    {
+      "id": "p05",
+      "text": "苜苜抹掉楼梯，画出弯弯的波浪：“我们的海里，有一条会打哈欠的小船。”树苗的叶尖翘起来：“它一打哈欠，就吞进去一颗纽扣！”苜苜笑了，接着讲了下去。",
+      "image": "/library/stories/expansion-0336/v1/p05.webp",
+      "start": 75.824,
+      "end": 93.79
+    },
+    {
+      "id": "p06",
+      "text": "“小船含着纽扣，说话咕噜咕噜。它把纽扣吐到甲板上，想送还给主人。”树苗问：“是谁丢的呢？”苜苜想了想：“是一只穿外套的熊。它正捂着肚皮找纽扣。”",
+      "image": "/library/stories/expansion-0336/v1/p06.webp",
+      "start": 93.79,
+      "end": 112.644
+    },
+    {
+      "id": "p07",
+      "text": "小船把纽扣送到岸边。熊缝好了外套，肚皮暖暖的，就给小船唱起摇篮曲。小船又打了个哈欠，这回嘴巴张得小小的，免得吞进月亮。讲到这里，树苗的叶子垂了下来。",
+      "image": "/library/stories/expansion-0336/v1/p07.webp",
+      "start": 112.644,
+      "end": 133.538
+    },
+    {
+      "id": "p08",
+      "text": "“等你真的见过海，再讲给我听。”树苗困困地说。“好呀。”苜苜坐在它身边，也打了一个小小的哈欠。她看看泥地上的船，赶紧抿住嘴巴。可别把故事里的纽扣吞进去。",
+      "image": "/library/stories/expansion-0336/v1/p08.webp",
+      "start": 133.538,
+      "end": 153.418
+    }
+  ],
+  "buildHash": "72f724055ffc5f256e73ef84e497a95077a72d65146144dc8b04c9fcf172bdfe"
+}

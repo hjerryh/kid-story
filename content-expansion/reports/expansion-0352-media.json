@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0352",
+  "title": "木纹列车转了一个弯",
+  "version": 1,
+  "bodyCharacters": 1433,
+  "pages": 16,
+  "duration": 439.586,
+  "bodySha256": "f947c87ad50958e3df7f7220e8b3480f7c1f51b66bd65c8fa8201b6e9e48cc51",
+  "audioSha256": "f51e96eff5371b2bf6a48c46c0b6d73aee3fbc94a7a77d58357a24267f1b2775",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b2413405ab612511b609a1a227b6094e4faedc5f62cd1436c16c8bc7cfa019ee",
+      "bytes": 19628
+    },
+    {
+      "name": "p01",
+      "sha256": "3f9dc21347c9a635d7754491d26b550c4519a1d859b4268c41013692d4a1981f",
+      "bytes": 13772
+    },
+    {
+      "name": "p02",
+      "sha256": "a8705d7576946570dd518314f88f8fb65914e8c9dc5407d76ae78eccb9b39426",
+      "bytes": 14704
+    },
+    {
+      "name": "p03",
+      "sha256": "38c519317bdf590003c3b67d000f466f06b75096e0d70078bb8fce9333eebf57",
+      "bytes": 14168
+    },
+    {
+      "name": "p04",
+      "sha256": "9ce2381f5a6aa0f8ee9f76ab11310506099bfef7a5342a5b7370b84ab0cc093d",
+      "bytes": 14486
+    },
+    {
+      "name": "p05",
+      "sha256": "a8f73c2a9ac67dd83ded56096e65147064b30af1083becf09cebb8b4b9c89f3b",
+      "bytes": 14160
+    },
+    {
+      "name": "p06",
+      "sha256": "be568260ec25f989aab495d4b66a3a0aa181d50aa8d7a7f712087aa9f1eed1ba",
+      "bytes": 14630
+    },
+    {
+      "name": "p07",
+      "sha256": "a952781d9d2bc697159879bcdb9d1d73e2ab613b3c36e2dc3f053efc842a4190",
+      "bytes": 14496
+    },
+    {
+      "name": "p08",
+      "sha256": "b5567dce7fd1a5133d00ee6741f095c2ea4443014b3c47bc3cc73dcbdfa3e918",
+      "bytes": 15928
+    },
+    {
+      "name": "p09",
+      "sha256": "66157c16399dbf29f863d9261a7447842ed747cc9003ec5bd689b08d153085a6",
+      "bytes": 17348
+    },
+    {
+      "name": "p10",
+      "sha256": "2c4276e436ffe275f38f510ddf06d31c4a4bd4c48cc0397df39a46609ceb9121",
+      "bytes": 16782
+    },
+    {
+      "name": "p11",
+      "sha256": "29d78ac11078b2b148d85fae6e8b1c15f6b754e4c235af5d1df7d7fd724bcce5",
+      "bytes": 16298
+    },
+    {
+      "name": "p12",
+      "sha256": "65e0dcd2bd0bea573be61d7ec25e3b5e88050d9dad2dfbb13e71f708b040a0b5",
+      "bytes": 16638
+    },
+    {
+      "name": "p13",
+      "sha256": "5a95f46101553410ec3ee70504db7fd92bce113f9b6178d47964f8942dffaff2",
+      "bytes": 15548
+    },
+    {
+      "name": "p14",
+      "sha256": "cff43d0a096e99889d268f9a5d22a8b37610deaba580b46127b99fd7391e9e12",
+      "bytes": 16576
+    },
+    {
+      "name": "p15",
+      "sha256": "7129266fd9817d39663d633220230fa5652974bde75d653f0ca15dc2eac5256a",
+      "bytes": 14436
+    },
+    {
+      "name": "p16",
+      "sha256": "f37c0be09d099a964d51eb7b9907baa436d5520c467a327c563ca4bf540bc323",
+      "bytes": 15624
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

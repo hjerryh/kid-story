@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0341",
+  "title": "石丘的耳朵盖着碟子",
+  "version": 1,
+  "bodyCharacters": 996,
+  "pages": 12,
+  "duration": 305.682,
+  "bodySha256": "32a82759ee7517aa03df560e9b9eb85cde9e3687004fae3529e590691245f74f",
+  "audioSha256": "e17e401d98edff133d835663a981b849027ac26722edf1ab395214f2a4857c3b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "97da43aafa608c84281a221b0ae858d7a060343a59db4b90551c5cf601fb701e",
+      "bytes": 11190
+    },
+    {
+      "name": "p01",
+      "sha256": "78fc3b968ad94017fbc81b67b07c8c4e78fa2cbc48162904bcd08ed228b25ec4",
+      "bytes": 9496
+    },
+    {
+      "name": "p02",
+      "sha256": "e30832891ee835e891882a16b2a28451cabc7bec6e2a904461691da7fa08be7a",
+      "bytes": 9860
+    },
+    {
+      "name": "p03",
+      "sha256": "fce83d14046eee53d90111646d6205e6d1bec5d00285b8044dbce0ab4b8e8ff5",
+      "bytes": 9824
+    },
+    {
+      "name": "p04",
+      "sha256": "f8fa4ec9e5debf1fac28c60897fbd3aed7fcad501b90f6b4a90ddc481e2c8737",
+      "bytes": 9862
+    },
+    {
+      "name": "p05",
+      "sha256": "f5aacc29ea11f13eda2db3a58e28da5d8a71c08cff94e94701dd2e91c437f3ac",
+      "bytes": 9928
+    },
+    {
+      "name": "p06",
+      "sha256": "b889672eb876e982d2b8850297cc3bcc91716ebebec9f0352da9dee23cb5d6a7",
+      "bytes": 8968
+    },
+    {
+      "name": "p07",
+      "sha256": "270c15ac34a3cc67a892726111b407e9f23c62ee426796d26471839688e42c2b",
+      "bytes": 9468
+    },
+    {
+      "name": "p08",
+      "sha256": "a335e8c0a9d42b76f6784a0d237b5ccf7600285fd6191e14c82df48afb46009c",
+      "bytes": 9506
+    },
+    {
+      "name": "p09",
+      "sha256": "f5c7c9b78d37e055bab5b53d8e9f21664a4ef9ceefae8017f2229d33ecaed086",
+      "bytes": 9598
+    },
+    {
+      "name": "p10",
+      "sha256": "e01f26df492c40ef1bc5281919b84b137e9edb08dd2c09caa982db97f6668dad",
+      "bytes": 9852
+    },
+    {
+      "name": "p11",
+      "sha256": "c4dfcd112bce842193526cf8d75c3157a654ef6d49cebfa61c7adc82773b1d5d",
+      "bytes": 9646
+    },
+    {
+      "name": "p12",
+      "sha256": "90d33f8d8f6dd3e6c96c41291580302560687630f219942923b0cd3ab9b294bf",
+      "bytes": 9584
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

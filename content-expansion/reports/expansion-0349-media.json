@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0349",
+  "title": "八只靴子踏了二十四下",
+  "version": 1,
+  "bodyCharacters": 970,
+  "pages": 12,
+  "duration": 288.738,
+  "bodySha256": "0fa455bcc99a36ef018385c94eb255cdf45902bf562d81d3c00084894dfd4ee4",
+  "audioSha256": "81bf6eede66d0aec7391ae19e19721fcf927623d1e58a4fd83c0584004fc3440",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "50ed607f66e4f63c8ebb7cd697a702599d1380faa11df5fcecca180c511929cf",
+      "bytes": 18208
+    },
+    {
+      "name": "p01",
+      "sha256": "9c33d2e59251b8193d8bf59d60d761065efa6b9713eb29ca148f001ce81d3baf",
+      "bytes": 12008
+    },
+    {
+      "name": "p02",
+      "sha256": "c762652a7dae78e5442aeb5799c3cd2610e1cedb730526baabc6e404edb6ee8f",
+      "bytes": 14400
+    },
+    {
+      "name": "p03",
+      "sha256": "a981d5d5e433d754a8bf9ff175ee36862349dfdabe0b878bf7d170f7a8d1b709",
+      "bytes": 14266
+    },
+    {
+      "name": "p04",
+      "sha256": "d365fed2f5959609629b2c5531cac72f683403e9f9c18468d26236045dd08c0a",
+      "bytes": 14146
+    },
+    {
+      "name": "p05",
+      "sha256": "b99f4154bd746d6bdd42744a81cddbe1ddfe67cabaef4824f1de2fad2dfa6f9a",
+      "bytes": 14518
+    },
+    {
+      "name": "p06",
+      "sha256": "18beabe46c42fafb25d4684403798a724920024ef748fc12b8b14a4c88e2959d",
+      "bytes": 15296
+    },
+    {
+      "name": "p07",
+      "sha256": "b0175a8af4d1fb93e4a5b348efffa8a8f525f3869fd478486257cc15ee013cbd",
+      "bytes": 14612
+    },
+    {
+      "name": "p08",
+      "sha256": "37567994f8af3d6d8a3d09727465531af8cdcae0b8e2ebc8a7751feaa1c398f6",
+      "bytes": 14268
+    },
+    {
+      "name": "p09",
+      "sha256": "62428b894fb7d8758a1aca1bc89cfb8299b279592238dd59ed989c5c321ebe1c",
+      "bytes": 14522
+    },
+    {
+      "name": "p10",
+      "sha256": "afa1520cdf23e47f901b08a2453a2109fccd7cfbb3ac1b8b36fb8389f8d67f52",
+      "bytes": 14248
+    },
+    {
+      "name": "p11",
+      "sha256": "2f72c18293c16306d6346dadf087318a5eb530e9096f08e91cc8ad424f7ba74d",
+      "bytes": 15644
+    },
+    {
+      "name": "p12",
+      "sha256": "19d7620999fc8cf598bba136d6a62cfde143e270c5569da81b047d3f7728b4e8",
+      "bytes": 16098
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

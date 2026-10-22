@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0353",
+  "title": "红带钥匙不再变戏法",
+  "version": 1,
+  "bodyCharacters": 1463,
+  "pages": 16,
+  "duration": 444.914,
+  "bodySha256": "b67b63180e5ca28df675fa49d26302b11099628b1c36f4d6ae4715528d147698",
+  "audioSha256": "d94b091ac7d427f778ad726b249451b378ceca38d97925fc40bc6f9a2103ac86",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "47c687d16943c54072a6484d7011cce138c78c2034c0b5ab427394ec5ec89d75",
+      "bytes": 14814
+    },
+    {
+      "name": "p01",
+      "sha256": "3661756e406378d06a4b0177a956f840c995e7d0fa001516a9390bd99f155546",
+      "bytes": 12846
+    },
+    {
+      "name": "p02",
+      "sha256": "482c523fd4b5cb797ebb69e1396965a309bb119970815fb3d01d7763076cbeca",
+      "bytes": 11936
+    },
+    {
+      "name": "p03",
+      "sha256": "7ab2329afb4b49da49df518f7d7d54d1151dc059c21297b8cf9bacf0a68ff8f7",
+      "bytes": 12342
+    },
+    {
+      "name": "p04",
+      "sha256": "2c607781e4c368eb2cedbc51d70a1d5add4f643a2853c0398242caeecde22e34",
+      "bytes": 10558
+    },
+    {
+      "name": "p05",
+      "sha256": "976b07f06d1d49794d59a89906eabcada92967287fcf44215daf8caeac4f8e15",
+      "bytes": 12196
+    },
+    {
+      "name": "p06",
+      "sha256": "f04a84e863d780f70edd24e7ade1a1076bc3cc67ba3c256820632b12ac2fdcfe",
+      "bytes": 12758
+    },
+    {
+      "name": "p07",
+      "sha256": "140f4a21203ab0090e179dbef13fd999cb213bd78a4e5edfb6ad0fb2c41f06b0",
+      "bytes": 13986
+    },
+    {
+      "name": "p08",
+      "sha256": "7928574dce434aab512d9a8077c34a778eea0c3b8a8b0e915ebedf054a34a4c4",
+      "bytes": 12578
+    },
+    {
+      "name": "p09",
+      "sha256": "94715fc777b3767aa496d3fedd5bd8700effd5223d9443eb92df0f1a2400d3b9",
+      "bytes": 13484
+    },
+    {
+      "name": "p10",
+      "sha256": "31596302caba9591f839e4ed5127472058dcc666daf04a7a28a02f65837fc7b1",
+      "bytes": 12114
+    },
+    {
+      "name": "p11",
+      "sha256": "7662ff19c2d755b2e4112463672a471c1da6f4d39c3f5dadc1a8c1a39d68e885",
+      "bytes": 11658
+    },
+    {
+      "name": "p12",
+      "sha256": "91eabddb2beb0afd00f390d82ab631d8d3349ee0ec7012c726130fd0340a0d49",
+      "bytes": 11748
+    },
+    {
+      "name": "p13",
+      "sha256": "20868c4552f60b64fd83b634607b00b046ddb9d1b7cdccbe817fa209172fd1b3",
+      "bytes": 12290
+    },
+    {
+      "name": "p14",
+      "sha256": "f3178b21b82e6f935be7cf97f10e444dfc9fc8fefd99eea6477040a9cf2bcf71",
+      "bytes": 12450
+    },
+    {
+      "name": "p15",
+      "sha256": "5c429223a3c6f437b6ad72def95b2488a668dcb24271d50349f4e33f74e0f736",
+      "bytes": 15846
+    },
+    {
+      "name": "p16",
+      "sha256": "57fafa2bdac57847b2d3bd0449aad4ba1f90b9f2e050be1e4678cfc750a991f1",
+      "bytes": 12300
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

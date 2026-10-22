@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0335",
+  "title": "转弯时等一等木鸭",
+  "version": 1,
+  "bodyCharacters": 486,
+  "pages": 8,
+  "duration": 157.57,
+  "bodySha256": "25eb243b06ac9531b827966413f2e29003b7891ff274a8d0da339c35e9130e69",
+  "audioSha256": "4de92e91baa8772fb8f8b3df815fd4d3298592872eeef715a4d44c67376097c7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2e8a49a632dd0257b564fe1c3e5387700bbaf4fa8dc1a6dc7f8fac01076bc2ad",
+      "bytes": 14000
+    },
+    {
+      "name": "p01",
+      "sha256": "a81e0ea08c9bca8d1f28b8a5f9f5bed8ddaf660d628d0584f41b7de18484ad4a",
+      "bytes": 7714
+    },
+    {
+      "name": "p02",
+      "sha256": "bc0f2086125506472cd9e08c20dc9c3d0d1f32f158c2c06b1bf9614b3d25790e",
+      "bytes": 10928
+    },
+    {
+      "name": "p03",
+      "sha256": "d7ca545dbee4769863698a89fa746807bd7d438b03fee573833370200040f664",
+      "bytes": 11922
+    },
+    {
+      "name": "p04",
+      "sha256": "772537768a02c42ab2c1982a783cd6e808152c3170deb3795c6a101c2166f6c0",
+      "bytes": 12144
+    },
+    {
+      "name": "p05",
+      "sha256": "34391a7d7ab4b8137384b0ee086e3f70f603ab81f72c7e843d6c921be2128261",
+      "bytes": 11920
+    },
+    {
+      "name": "p06",
+      "sha256": "511591e1d174a50bd31c790ad64882044302a6f5cb4a2293c799e3ac6698d51d",
+      "bytes": 11298
+    },
+    {
+      "name": "p07",
+      "sha256": "41a75d581eb8782d96f799b63066ce94150ae590f75a1f4094bae7e313e3369f",
+      "bytes": 11686
+    },
+    {
+      "name": "p08",
+      "sha256": "d07228de6ee4b371ee27cd5b4e7b9c56898d8cf80f6de1a1676ecc0be903dfca",
+      "bytes": 11346
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

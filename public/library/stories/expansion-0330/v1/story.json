@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0330",
+  "version": 1,
+  "status": "media-ready",
+  "title": "爷爷的鞋尖空出来了",
+  "subtitle": "两双鞋的小舞步",
+  "description": "米绒想在萤火坡地重跳小时候的舞，可爷爷的鞋尖已经放不下她的脚。找来大拖鞋也没用，她还能找回那段摇摇晃晃的快乐吗？",
+  "ageBand": "3-5",
+  "theme": "温暖往事",
+  "color": "#78865B",
+  "character": "米绒是一只浅灰色小田鼠，圆耳朵，穿淡紫色连衣裙，系白色小腰带。爷爷是一只灰褐色老田鼠，留着短短的白胡须，穿蓝色马甲和棕色布鞋。",
+  "cover": "/library/stories/expansion-0330/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 178.378,
+  "detailUrl": "/library/stories/expansion-0330/v1/story.json",
+  "audio": "/library/stories/expansion-0330/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "夏夜，米绒牵着爷爷来到萤火坡地。草尖凉凉的，小灯似的萤火虫在远处闪。她指指爷爷的棕布鞋：“小时候，我站在你的鞋尖上跳舞。今晚，我还想那样跳！”爷爷笑着伸出双手。",
+      "image": "/library/stories/expansion-0330/v1/p01.webp",
+      "start": 0,
+      "end": 22.406
+    },
+    {
+      "id": "p02",
+      "text": "米绒扶住爷爷的手，轻轻踩上去。咦，脚跟露在外面，脚尖也挤在一起。爷爷刚挪一步，她就滑回软草里。“再摆摆好。”她把两只脚靠得更近，可还是站不稳。以前明明放得下呀。",
+      "image": "/library/stories/expansion-0330/v1/p02.webp",
+      "start": 22.406,
+      "end": 44.428
+    },
+    {
+      "id": "p03",
+      "text": "米绒跑回坡脚的小屋，抱来一双大绿拖鞋。“给你的鞋再穿一双鞋！”爷爷坐下来，把布鞋套进去。米绒扶着他的手试了试。这回地方够大了，她高兴得耳朵一抖：“我们走吧！”",
+      "image": "/library/stories/expansion-0330/v1/p03.webp",
+      "start": 44.428,
+      "end": 64.986
+    },
+    {
+      "id": "p04",
+      "text": "可是，大拖鞋的鞋头软软的，一抬脚就往下垂，拖着草叶沙沙响。米绒赶紧下来，替爷爷脱掉拖鞋，整齐地放在一旁。她坐在草上，小声问：“我长大了，那支舞是不是就没有了？”",
+      "image": "/library/stories/expansion-0330/v1/p04.webp",
+      "start": 64.986,
+      "end": 86.696
+    },
+    {
+      "id": "p05",
+      "text": "爷爷挨着她坐下，轻轻哼起从前的歌：“左边摇，右边摇，小小尾巴过木桥。”米绒的脚尖忽然点了一下，又点一下。她低头看着自己的脚。原来，它们还记得什么时候往左，什么时候往右。",
+      "image": "/library/stories/expansion-0330/v1/p05.webp",
+      "start": 86.696,
+      "end": 108.982
+    },
+    {
+      "id": "p06",
+      "text": "米绒站起来，在爷爷身边留出一点地方。“这次，我自己走这些小步子。你牵着我，好不好？”她先往左挪，停一停，再往右挪。裙角轻轻摆起来。爷爷站到她旁边，把暖暖的手递给她。",
+      "image": "/library/stories/expansion-0330/v1/p06.webp",
+      "start": 108.982,
+      "end": 132.012
+    },
+    {
+      "id": "p07",
+      "text": "左边摇，右边摇。爷爷迈小步，米绒也迈小步。唱到小尾巴，她故意把尾巴弯成一座桥，逗得爷爷胡须直颤。啊，就是这种笑声！米绒把他的手握紧一点，脚下的草软软地托着他们。",
+      "image": "/library/stories/expansion-0330/v1/p07.webp",
+      "start": 132.012,
+      "end": 154.154
+    },
+    {
+      "id": "p08",
+      "text": "回家时，米绒用一只胳膊夹抱着那双大绿拖鞋，另一只手仍牵着爷爷。“下次还来跳。”她说。爷爷点点头。走着走着，米绒又往左摇了一下，爷爷也跟着摇了一下。两双鞋，轻轻走过同一片月光。",
+      "image": "/library/stories/expansion-0330/v1/p08.webp",
+      "start": 154.154,
+      "end": 178.378
+    }
+  ],
+  "buildHash": "64c7da509417badf970cf89ea5719c3ef4fde35cfc235af10df4a9cdce7de3f7"
+}

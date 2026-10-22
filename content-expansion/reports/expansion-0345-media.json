@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0345",
+  "title": "月豆包不翻跟头了",
+  "version": 1,
+  "bodyCharacters": 956,
+  "pages": 12,
+  "duration": 286.434,
+  "bodySha256": "1c9395fac50d0c649edf63cbf526b2ff3c31295b9430eb3b166ed562288d8b1b",
+  "audioSha256": "bf977800ceb91c3684412d1913bd9ccce7958fae3385074d486a29137ba04aa3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "96b7d2a27060f34f9bae57c659fb664a73becbeb7ec23c95f571f2befaff599f",
+      "bytes": 15792
+    },
+    {
+      "name": "p01",
+      "sha256": "1c394b716ceceda7e16043d5899b54f7b6f3aabee95bdd68d290802aece7ebe4",
+      "bytes": 11400
+    },
+    {
+      "name": "p02",
+      "sha256": "39a79924ad3c4ebdebd657435dfc025987cae0d5154fbff9c627e079c1ab4120",
+      "bytes": 12272
+    },
+    {
+      "name": "p03",
+      "sha256": "f02a2b355c76a3ff9440e37e8bfb379010a0b273d5fc03f6bca282a2bc3ac813",
+      "bytes": 12212
+    },
+    {
+      "name": "p04",
+      "sha256": "d9159fc97eefcab526b76fe5849f116b9f9f9b0bb3c428f33d8af5ace37bca91",
+      "bytes": 12132
+    },
+    {
+      "name": "p05",
+      "sha256": "acda705af739ef695e0c92c8ad986df0b20d6010404abdce80eb4d5e56dc111b",
+      "bytes": 13304
+    },
+    {
+      "name": "p06",
+      "sha256": "065a15943eb31a7eff5fcc4513596316c1bc841e5b927e814905e1badc793c8c",
+      "bytes": 13156
+    },
+    {
+      "name": "p07",
+      "sha256": "e9ebc1cb7c6d63457be2dc0c14d31ff3c070286ae2c93be36d5796b8ed8b7f4d",
+      "bytes": 14304
+    },
+    {
+      "name": "p08",
+      "sha256": "9b1532b0291efa1c8b7e907552e4f9fa902b342537e33f66e0056ba243d1ba21",
+      "bytes": 13330
+    },
+    {
+      "name": "p09",
+      "sha256": "a46c21b5547bf2a158bb159ddee20924734cbb11c2fda00d2f50f92f5914c563",
+      "bytes": 15000
+    },
+    {
+      "name": "p10",
+      "sha256": "e6dabd09d50ff9fd5a41b6158e51ae4b454b93e1aacb82efe8492632250ef90b",
+      "bytes": 13858
+    },
+    {
+      "name": "p11",
+      "sha256": "25b311f324ca4973a8157fd467dd2b1ba9928b20ea9c38d8c97343646dafb0b5",
+      "bytes": 13326
+    },
+    {
+      "name": "p12",
+      "sha256": "f14a672fb20e632481f2c2f11339ba9cd029d2569e8895f7feb9d3a3ade67be2",
+      "bytes": 13434
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

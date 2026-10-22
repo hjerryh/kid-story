@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0334",
+  "title": "白云没有碎",
+  "version": 1,
+  "bodyCharacters": 512,
+  "pages": 8,
+  "duration": 165.274,
+  "bodySha256": "f78c41e19841efaa3b94d349212739ad13aa88d94e799e18f96cffd5af199e91",
+  "audioSha256": "03a4a7164cae62b5bd5439da2027a81440f6638a0674b7e758ef433f4c0aa608",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4a4953c3ea8a6509bb1d35178a3feca624be075547219fd9dd894febb42d9cb3",
+      "bytes": 14646
+    },
+    {
+      "name": "p01",
+      "sha256": "4e05aa4da19c388922b51e58754f589a61d271d548cb89192b5334c563db7d68",
+      "bytes": 9196
+    },
+    {
+      "name": "p02",
+      "sha256": "5605cdf61f443ec61b308c8d8fe7c6c567fd31477b50291f0b34fcfcacb20a77",
+      "bytes": 10456
+    },
+    {
+      "name": "p03",
+      "sha256": "4b3e3c8935d14c762aa5e750d2a9a1890cda76366e44f7aa9870b51444a3b01f",
+      "bytes": 11334
+    },
+    {
+      "name": "p04",
+      "sha256": "31bda779440a5d3cefaa903ef8b03982351a63ae93955fada846e5f6d10b4595",
+      "bytes": 13324
+    },
+    {
+      "name": "p05",
+      "sha256": "0f1e73a147d4da0c756f3819b8990100ef7bc1b44c9e4df53336f73ca8610724",
+      "bytes": 13822
+    },
+    {
+      "name": "p06",
+      "sha256": "0b51bdc3b303860514a157fe301def6c4f909c4c5e9511b0bbadad9cae190ce3",
+      "bytes": 15124
+    },
+    {
+      "name": "p07",
+      "sha256": "cfd2173500a165cf8e04dffe7b0fd8dd78a6234bcaf0b2dfba75eb3c3b32a0ed",
+      "bytes": 12442
+    },
+    {
+      "name": "p08",
+      "sha256": "beba0f2d37be406af0b924efcd2ca3f64d36993ae10fc92d2b9525664c6dd02e",
+      "bytes": 12888
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

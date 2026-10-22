@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0348",
+  "title": "细风回到迷宫里",
+  "version": 1,
+  "bodyCharacters": 1026,
+  "pages": 12,
+  "duration": 303.378,
+  "bodySha256": "7706378eaff7dd02416ce9402293e248628d29f9a0ce887ba0a714275adae8a3",
+  "audioSha256": "144c616890a3c77f5401da0da45d3d2796f4141595115c525fb3b5a217f8a7fd",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "bbfef8f40a6d4c2829a461aa058e8346e2fe5d2728bb63b13a8bcf553fd81415",
+      "bytes": 21200
+    },
+    {
+      "name": "p01",
+      "sha256": "21dccc557815cde830c2b534addd269e48d7717ec20fb2187da23851182779d5",
+      "bytes": 17762
+    },
+    {
+      "name": "p02",
+      "sha256": "aadfae50b4ea4ab1ab45b3bf35a7db36f2d12fa78b92daf0b5bb4676f7ea272e",
+      "bytes": 14898
+    },
+    {
+      "name": "p03",
+      "sha256": "95caaa07423617fcafa24852258adfedcacb4cd6d3c0926a49113ea3fd9f72ed",
+      "bytes": 21462
+    },
+    {
+      "name": "p04",
+      "sha256": "0225a5365d07174eee71c2bc0e400f2aa52ab053889499a9fb366e07139b0963",
+      "bytes": 18902
+    },
+    {
+      "name": "p05",
+      "sha256": "279141353dd1e4c31c26f043d4534008236c85af4feff47dc24ecc2398844852",
+      "bytes": 13826
+    },
+    {
+      "name": "p06",
+      "sha256": "a9ed4263c16fc2075af4381158ae8ad15d8d645643ec6ea93f091d7b2a6b586e",
+      "bytes": 17328
+    },
+    {
+      "name": "p07",
+      "sha256": "2f331ae7985fb8f18d4323b26751a25aa43e1f174b89baa3b638aee49e1d2685",
+      "bytes": 18810
+    },
+    {
+      "name": "p08",
+      "sha256": "b1ffa037f19b63faed26d24f268903114d91ddf50c11920a0c01238d2066285c",
+      "bytes": 19226
+    },
+    {
+      "name": "p09",
+      "sha256": "30f695d47380e653d27abd89a6d5f6ac2451140394280e44c8af951118c953b0",
+      "bytes": 16450
+    },
+    {
+      "name": "p10",
+      "sha256": "5b8203cbce3cff99ec89d6fd1bf372de04889f90519e0545f8ba66e99bc29e9f",
+      "bytes": 24470
+    },
+    {
+      "name": "p11",
+      "sha256": "e739684f9f30792948d70d502b1a8ad468917c3434b18acde6ad109767d777d7",
+      "bytes": 19344
+    },
+    {
+      "name": "p12",
+      "sha256": "742562cdc852a3e2d90a9689ec5bb1b3f4cd2d4e4085aacb0a305d40828cacec",
+      "bytes": 18864
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0343",
+  "title": "盘枝用小树枝鼓掌",
+  "version": 1,
+  "bodyCharacters": 1014,
+  "pages": 12,
+  "duration": 303.066,
+  "bodySha256": "6b00b0a5fe52508363fabbc8c7dc04aee744626bd068e726a19576a888ec113a",
+  "audioSha256": "7e2a5193e7f971a505726716d6a17463512bccd6ccb4187b57ce6a2735f103c3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b73c1079dc55244d0624c00ad26791d92feca71740e17b49db558304b77c6248",
+      "bytes": 20146
+    },
+    {
+      "name": "p01",
+      "sha256": "9bbee89947a1837ffeadbfabb7d93c91d280ca2a743cf0178a4f7e38511c0e29",
+      "bytes": 17536
+    },
+    {
+      "name": "p02",
+      "sha256": "432eee22e97bfc04e13d9a0d644919eb44c7788600ac835eb6f43d3b8e0079fa",
+      "bytes": 18458
+    },
+    {
+      "name": "p03",
+      "sha256": "b207787dada8ffdf5860825d969659504d184f4d5c59805b2dca3f10afc74d3a",
+      "bytes": 17548
+    },
+    {
+      "name": "p04",
+      "sha256": "0704b4121506c7dc0e1bf91178f6bdd9c55c0b86724cd16e58fc6444baff1aaf",
+      "bytes": 19812
+    },
+    {
+      "name": "p05",
+      "sha256": "511e185b35a0552bfec8730134028b08c9999e72bfd06f8791986996b6fd1df2",
+      "bytes": 16568
+    },
+    {
+      "name": "p06",
+      "sha256": "4b8fc81ec8d71e6f6412800bdac54e210e3c09bf5ca6bc2d5bbdb61be50ca239",
+      "bytes": 16932
+    },
+    {
+      "name": "p07",
+      "sha256": "dd8faa3f06d5771e7cb72facdabe3a586b0cfa41348d6d321fe4e482dba2ad5d",
+      "bytes": 17526
+    },
+    {
+      "name": "p08",
+      "sha256": "1e0e5927e4af5093b7d2e4d692b1060f229583ab4e090184eeb4a5f37b71e6bc",
+      "bytes": 17142
+    },
+    {
+      "name": "p09",
+      "sha256": "56a1c7472ea9976e407a00dc5bc5bd79fdbc468ba3b16fe9bbfdc93d3c164f90",
+      "bytes": 17992
+    },
+    {
+      "name": "p10",
+      "sha256": "53f0be8523e519c5999e72a8b5abf2bbd15d307ae2e7d60c49a0f1e9bddfd2da",
+      "bytes": 17592
+    },
+    {
+      "name": "p11",
+      "sha256": "c1ffb145618c915fd556f5b00de2878bfdf49e1a5f2d7672bc59fc3c50099fc5",
+      "bytes": 17132
+    },
+    {
+      "name": "p12",
+      "sha256": "df9fe7d79cebd3a2b8584a50b62dd32e4124c8998682b9ba7e66ae46c8017e56",
+      "bytes": 17126
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
