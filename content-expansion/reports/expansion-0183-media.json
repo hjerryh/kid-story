@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0183",
+  "title": "软坡的新河流",
+  "version": 1,
+  "bodyCharacters": 986,
+  "pages": 12,
+  "duration": 304.458,
+  "bodySha256": "06e3e6118667b543888a0f8254c396fe83609db50eee22310a78ed191c5342d7",
+  "audioSha256": "21aacaa35d6c80fcbc372cf49c438f02d0e40a2416a714cf812dfc61c801efec",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "14fb048c395d13234c356c2c7d4352d24bb16991ade1d446dc06d9fcfb337fbc",
+      "bytes": 11398
+    },
+    {
+      "name": "p01",
+      "sha256": "e0cc59e80baf009a6965969190609c27d679187640a5d6f35d7981ac18835e27",
+      "bytes": 10286
+    },
+    {
+      "name": "p02",
+      "sha256": "15378bd59e891848218ea7b44c771715cda950049307c96c72dfff44596f13bd",
+      "bytes": 11728
+    },
+    {
+      "name": "p03",
+      "sha256": "a0540efb7ad2368d5d96ed99ed7a8c11c3afbd0347c130a5aa8ce123e514653f",
+      "bytes": 9144
+    },
+    {
+      "name": "p04",
+      "sha256": "aeaafa7716d8e243d72341f9bceda3c516da43f037d8b0719484eced1ef609ad",
+      "bytes": 10692
+    },
+    {
+      "name": "p05",
+      "sha256": "becd338f6503b331c0e399cc2c0d5d3714d4acb69948566da85a0e3a84772b22",
+      "bytes": 9710
+    },
+    {
+      "name": "p06",
+      "sha256": "f8da59e412f5fdeda441f414fc42042b70d6ac921367e9d814cb569af3ad4292",
+      "bytes": 9330
+    },
+    {
+      "name": "p07",
+      "sha256": "99917a6e0890fde0dd34e0593e5a933e39cad9ce1601da7bfd15f82bb42295b6",
+      "bytes": 9324
+    },
+    {
+      "name": "p08",
+      "sha256": "4a9300f97ca8c35e8607385b9798f198a04982f191cde585355209cab97b4050",
+      "bytes": 9308
+    },
+    {
+      "name": "p09",
+      "sha256": "dbf312ea49bcc3d6a2ce27b1d9c83da31136fbecc4a35aa50718d0e1eef0c034",
+      "bytes": 9402
+    },
+    {
+      "name": "p10",
+      "sha256": "46b3a56614e24733bce15e43c76dcdf64dda691a6b0040f573fbc67ad1485b2f",
+      "bytes": 9618
+    },
+    {
+      "name": "p11",
+      "sha256": "7eb59fbeeaba4706029d9d463a91412a941ee9558e642f437ef4b4d6071ebe6f",
+      "bytes": 10956
+    },
+    {
+      "name": "p12",
+      "sha256": "4f260c881a5f77da2e463fd4b84ce7fac6e31cfd98d4c3abbdccfb6171ce49f1",
+      "bytes": 12048
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

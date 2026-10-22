@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0172",
+  "title": "小黄帽躺下以后",
+  "version": 1,
+  "bodyCharacters": 465,
+  "pages": 8,
+  "duration": 149.65,
+  "bodySha256": "13db397d8b7f4b41af9735d77b1c0739b79583c2153da58dba5dbd38c6495de2",
+  "audioSha256": "66dc3a7428e4f26e922b7cacd3cd01fd52d200f29f145d98dc8cee225bd7e662",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5a5bb3e6da65d94fc3cb89103383dc56d051214dbd3cf1e7fd339a5106f915b0",
+      "bytes": 13584
+    },
+    {
+      "name": "p01",
+      "sha256": "1408ebb1171a1b1364d013a2d4b119d3e204981a032d2e0dac2cc4cb56afad06",
+      "bytes": 12030
+    },
+    {
+      "name": "p02",
+      "sha256": "13ef304a3224190f5ae6cfae2217396221156d9439916b0929ca2cd23ce772d2",
+      "bytes": 13986
+    },
+    {
+      "name": "p03",
+      "sha256": "2c605b0afdfcebbd4e477a5f80c78e0834fc7ca833bdf6184ae896c34580465e",
+      "bytes": 14814
+    },
+    {
+      "name": "p04",
+      "sha256": "1c5e20b5a0f8a3f2d355cc46a20e7bdf2e98b9a98e11c09b38c5f5a1ba3303ad",
+      "bytes": 14660
+    },
+    {
+      "name": "p05",
+      "sha256": "841421cf77a561b4a989d9bc2a93bf2a9e22b52da010ffc9c6a63411d30e7604",
+      "bytes": 12362
+    },
+    {
+      "name": "p06",
+      "sha256": "0126e0f464d5cf933d519bb815d6bc2714245cd8b0f2d0797a3f3c128823d5c7",
+      "bytes": 13880
+    },
+    {
+      "name": "p07",
+      "sha256": "8208c810f453cd7a0fc26acc4d3dc6092d28d93b5a0647d976139317ed9a6d4c",
+      "bytes": 13960
+    },
+    {
+      "name": "p08",
+      "sha256": "c903da48b67111ec2d0326ad07ef98008fbc00d063160f42bee781a0824364bb",
+      "bytes": 12330
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

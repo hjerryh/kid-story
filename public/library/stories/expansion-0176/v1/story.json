@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0176",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小桃还没学会呱",
+  "subtitle": "空着一个小圆圈",
+  "description": "陶小桃想和瓷蛙点点玩跳格子，可“隔一个跳”到底怎么跳？院里的小圆格都准备好了，小桃却把脚缩了回来。一句轻轻的“不知道”，让游戏慢慢动了起来。",
+  "ageBand": "3-5",
+  "theme": "不懂也能开口",
+  "color": "#C98265",
+  "character": "陶小桃是一个红陶小人，圆脸，头顶一撮弯弯的陶泥卷发，穿草绿色短褂和米白色裤子。瓷蛙点点全身浅蓝，背上有三颗白圆点，戴柔软的白色小领结。",
+  "cover": "/library/stories/expansion-0176/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 163.402,
+  "detailUrl": "/library/stories/expansion-0176/v1/story.json",
+  "audio": "/library/stories/expansion-0176/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "陶土村的小院里，住着红陶小人陶小桃。一天，浅蓝色的瓷蛙点点来了，在地上画了五个小圆格。小桃蹲着看，圆格像一串白饼干。他很想和这位新朋友一起玩。",
+      "image": "/library/stories/expansion-0176/v1/p01.webp",
+      "start": 0,
+      "end": 19.814
+    },
+    {
+      "id": "p02",
+      "text": "点点站进第一个圆格，说：“隔一个跳，跳到最后，就能摸摸自己的肚皮，说一声呱！”小桃笑了。他也想摸着肚皮呱一下。可是，隔一个跳，到底要把脚放在哪里呢？",
+      "image": "/library/stories/expansion-0176/v1/p02.webp",
+      "start": 19.814,
+      "end": 39.292
+    },
+    {
+      "id": "p03",
+      "text": "轮到小桃了。他先站进第一个圆格，再迈进旁边的圆格。“这个要空着呢。”点点说。小桃看看脚下，又看看前面。每个格子都圆圆的，看起来都很适合放一只脚。",
+      "image": "/library/stories/expansion-0176/v1/p03.webp",
+      "start": 39.292,
+      "end": 59.586
+    },
+    {
+      "id": "p04",
+      "text": "小桃抬起脚，又缩了回来。他有点不好意思，捏住了绿短褂的衣角。点点还在等他。小桃轻轻说：“我不知道怎么隔一个跳。你能慢慢做一次，让我看看吗？”",
+      "image": "/library/stories/expansion-0176/v1/p04.webp",
+      "start": 59.586,
+      "end": 78.08
+    },
+    {
+      "id": "p05",
+      "text": "“可以呀！”小桃退到格子旁，点点回到第一个圆格，用脚指指旁边那个：“这里空着。”他轻轻一跳，落进第三个圆格。小桃的眼睛跟着他走。哦，原来中间要留下一个空圆圈！",
+      "image": "/library/stories/expansion-0176/v1/p05.webp",
+      "start": 78.08,
+      "end": 99.43
+    },
+    {
+      "id": "p06",
+      "text": "点点又越过第四个圆格，跳进第五个。他摸摸肚皮：“呱！”小桃笑得弯下腰。“我看懂啦！让我从头试试。”点点挪到格子旁，小桃走回第一个圆格，先看看要空着的那个，再弯弯膝盖。",
+      "image": "/library/stories/expansion-0176/v1/p06.webp",
+      "start": 99.43,
+      "end": 122.004
+    },
+    {
+      "id": "p07",
+      "text": "小桃轻轻跳进第三个圆格，站稳了，又跳进第五个。两个该空着的格子，都好好空着呢！他摸摸自己的陶肚皮，叫了一声：“呱！”声音小小的，点点却拍起了两只前脚。",
+      "image": "/library/stories/expansion-0176/v1/p07.webp",
+      "start": 122.004,
+      "end": 141.986
+    },
+    {
+      "id": "p08",
+      "text": "“再来一回？”点点问。“这回我看你跳。”小桃说。他在格子旁坐下，给朋友腾出地方。小院里，一声呱，又一声呱。墙根的水盆晃着亮光，把两张笑脸装得圆圆的。",
+      "image": "/library/stories/expansion-0176/v1/p08.webp",
+      "start": 141.986,
+      "end": 163.402
+    }
+  ],
+  "buildHash": "da03035bc8fc1bec487f7e6ca5799a8826e83e612cef7f4c623d1d1a32592eaf"
+}

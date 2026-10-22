@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0171",
+  "title": "雾猫旁边的小圆窗",
+  "version": 1,
+  "bodyCharacters": 509,
+  "pages": 8,
+  "duration": 160.426,
+  "bodySha256": "61ab65ffea3d5893f0c058d105ec35d9be90c869e46b7789048b577077db1728",
+  "audioSha256": "9c9d99d90a3a22dc05e6f9fe372cf44beec060e2add1c7df855fa91b5f3df2d8",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "740aee80c581322c9699726df589509b394ac844426dbeb644f3fae88cf79618",
+      "bytes": 13364
+    },
+    {
+      "name": "p01",
+      "sha256": "768a550ed86b00437c6aaf0b9936110014555e0fc9e36b50df0de8475653bab2",
+      "bytes": 10408
+    },
+    {
+      "name": "p02",
+      "sha256": "4a5e95ddc89f25d415dea58567dc67de9afdc7fa88a742a7cc53f6c491a8d0c2",
+      "bytes": 10334
+    },
+    {
+      "name": "p03",
+      "sha256": "113f03558e426abc585d7c975db22ba72d59bd7028bec5e913b46fa37c83f162",
+      "bytes": 10602
+    },
+    {
+      "name": "p04",
+      "sha256": "4307eb38902d64a2f2956572c6bc5cd5dd9eeafef7538fb1282fd333168abc59",
+      "bytes": 10754
+    },
+    {
+      "name": "p05",
+      "sha256": "b33d297053ec23d4c012555122632b73f62c93030a2a9818d630349f91068a9b",
+      "bytes": 10678
+    },
+    {
+      "name": "p06",
+      "sha256": "913a273e5d64f98acb4fd793c52318cdb9e6fa038b783998e107710f89ed613a",
+      "bytes": 10992
+    },
+    {
+      "name": "p07",
+      "sha256": "2874c59593745b948756a9bcac6f2c3680fc0cfbe8c8c3265ec56e8d1f93ef4d",
+      "bytes": 10470
+    },
+    {
+      "name": "p08",
+      "sha256": "8d9e59c83b635581712dce1a878c40151973b557246fe5589586136f4cda0a43",
+      "bytes": 10436
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

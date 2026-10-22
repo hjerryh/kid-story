@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0177",
+  "title": "水壶也要走得过去",
+  "version": 1,
+  "bodyCharacters": 1002,
+  "pages": 12,
+  "duration": 298.074,
+  "bodySha256": "0aa2aba5a40de9065652ccd0d26f7c944b5b903adf304c1c0a03799425480c7d",
+  "audioSha256": "1dab441840cbf67f80e77e34c2ee667740a23e4c41125100d0cddde62124e6f3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8860219a9e48237c9e1b53788cc15bb6ad62cde5b55e0749cc5ed5aa520da943",
+      "bytes": 11230
+    },
+    {
+      "name": "p01",
+      "sha256": "ffce292e86e3031292c0c086f09afdd5b9fb208d94b8831d0ca2d52bd4c70200",
+      "bytes": 7904
+    },
+    {
+      "name": "p02",
+      "sha256": "cb5b3f9ff86c1d852ecf87c63aba5de08c66386eb3cc9c1939c9e723346eff7a",
+      "bytes": 8758
+    },
+    {
+      "name": "p03",
+      "sha256": "8f37ede3db5dc9730c9333bfeb974804966612a04099a7e0d8a5fc0fda113a06",
+      "bytes": 9070
+    },
+    {
+      "name": "p04",
+      "sha256": "2c31bcd8fec3688b2e130d36eae6b12fd4cab7e788e6aab4f02059e010764507",
+      "bytes": 8386
+    },
+    {
+      "name": "p05",
+      "sha256": "0ce6c13265d03b3d6c42d483ae1ef865c88db9a5159420e87bd32c6feaf8dd04",
+      "bytes": 8210
+    },
+    {
+      "name": "p06",
+      "sha256": "60a657329195c7842915cc861f239d9544c4fd2ce8e24767e285c9d90de85469",
+      "bytes": 9878
+    },
+    {
+      "name": "p07",
+      "sha256": "e9a5d77c5457a459dcda0c7ccddac5eaf9ad8ba9f868087d74c562c6280e075c",
+      "bytes": 9618
+    },
+    {
+      "name": "p08",
+      "sha256": "5f28c6deae21122bb3345fb2135163d613f5bfcf83e1a9fc15e7b521cb520dd7",
+      "bytes": 11698
+    },
+    {
+      "name": "p09",
+      "sha256": "825f5a64431f0437222cdcda4c513ce8001d50552db640fdc814cbb15d0956db",
+      "bytes": 9364
+    },
+    {
+      "name": "p10",
+      "sha256": "a78c27adf167152614800c75fcbe32ef76d04a7e61f1b122f002c4794de9aa87",
+      "bytes": 9118
+    },
+    {
+      "name": "p11",
+      "sha256": "982ddfceecef95781813ad5711610db24247989d9ac3d2a7cda817c85ef39d9d",
+      "bytes": 9316
+    },
+    {
+      "name": "p12",
+      "sha256": "4fe0e8ba92624ce8b2ebda7d79f72b58b74e09edac104467d35fedf95b9dc8ac",
+      "bytes": 9168
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

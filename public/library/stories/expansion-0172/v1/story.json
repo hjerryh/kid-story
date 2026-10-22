@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0172",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小黄帽躺下以后",
+  "subtitle": "给小鞋找一张床",
+  "description": "雨后的庭院里，小猪芋朵给石头芽芽讲午睡故事。可是，故事里的小黄帽越跑越远，芽芽也越听越精神。芋朵该把这只忙碌的小帽子带到哪里呢？",
+  "ageBand": "3-5",
+  "theme": "故事与想象",
+  "color": "#91B6A0",
+  "character": "小猪芋朵：浅粉色皮肤，圆鼻头，穿浅绿色连衣裙和棕色雨靴。石头芽芽：灰白色的小圆石头，有两只细细的眼睛和一张小嘴，没有四肢。",
+  "cover": "/library/stories/expansion-0172/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 149.65,
+  "detailUrl": "/library/stories/expansion-0172/v1/story.json",
+  "audio": "/library/stories/expansion-0172/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨停了，庭院里有湿湿的薄荷香。小猪芋朵发现，石头芽芽还睁着眼睛。“我想听个故事再午睡。”芽芽说。芋朵蹲下来：“好呀，我给你讲一只小黄帽。”",
+      "image": "/library/stories/expansion-0172/v1/p01.webp",
+      "start": 0,
+      "end": 18.662
+    },
+    {
+      "id": "p02",
+      "text": "“小黄帽跳出衣柜，跑过草地，跳上一片大叶子。叶子载着它，漂到了小河中央。”芽芽把眼睛睁圆了：“然后呢？”芋朵想，小河太好玩啦，得让小帽子再走远一点。",
+      "image": "/library/stories/expansion-0172/v1/p02.webp",
+      "start": 18.662,
+      "end": 38.14
+    },
+    {
+      "id": "p03",
+      "text": "“一条大鱼送它上岸。它爬过一座面包山，又遇见一座弯弯的饼干桥。”芽芽一点也不困：“桥那边有什么？”芋朵挠挠耳朵。哎呀，她本来是想陪芽芽睡觉的。",
+      "image": "/library/stories/expansion-0172/v1/p03.webp",
+      "start": 38.14,
+      "end": 57.066
+    },
+    {
+      "id": "p04",
+      "text": "芋朵把声音放得很轻：“桥那边有一片树林，小黄帽悄悄走进去……”芽芽却忙着问：“它认得路吗？会走到哪里呀？”芋朵停住了。越往前讲，芽芽的问题越多。",
+      "image": "/library/stories/expansion-0172/v1/p04.webp",
+      "start": 57.066,
+      "end": 75.68
+    },
+    {
+      "id": "p05",
+      "text": "一滴雨水从叶尖落下，嗒。芽芽小声问：“小黄帽跑了这么久，不累吗？”芋朵看看自己的雨靴，动动脚趾。“一定累啦。”她忽然知道，该带小黄帽去哪里了。",
+      "image": "/library/stories/expansion-0172/v1/p05.webp",
+      "start": 75.68,
+      "end": 94.582
+    },
+    {
+      "id": "p06",
+      "text": "“树林里有间小屋，门口铺着软软的地毯。小黄帽走进去，抖掉帽檐上的沙，松开帽带。屋里有张小床，不用爬山，也不用过桥，往前挪一小步，就能躺上去了。”",
+      "image": "/library/stories/expansion-0172/v1/p06.webp",
+      "start": 94.582,
+      "end": 113.316
+    },
+    {
+      "id": "p07",
+      "text": "“然后呢？”芽芽的声音慢了下来。“小黄帽盖好被子，把两根帽带摆在枕边。今天不走啦，明天再看看窗外。”芽芽轻轻嗯了一声，细细的眼睛终于合上了。",
+      "image": "/library/stories/expansion-0172/v1/p07.webp",
+      "start": 113.316,
+      "end": 131.834
+    },
+    {
+      "id": "p08",
+      "text": "芋朵没有再讲下去。风吹过薄荷，香气轻轻贴着她的裙边。她坐在芽芽旁边，把两只雨靴的鞋尖靠在一起。嘘，这里还有两只小鞋，也想歇歇脚呢。",
+      "image": "/library/stories/expansion-0172/v1/p08.webp",
+      "start": 131.834,
+      "end": 149.65
+    }
+  ],
+  "buildHash": "f69f566dffacd84fe380b42735a7ea46951ee6af5d0662a96cc8dd371f9cded2"
+}

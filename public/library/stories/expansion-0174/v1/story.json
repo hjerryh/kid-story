@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0174",
+  "version": 1,
+  "status": "media-ready",
+  "title": "弯弯可以哭着讲",
+  "subtitle": "听你讲讲小鸟",
+  "description": "萤火坡地的长凳哭了，因为树上的小鸟搬走了。米芹送花、扮鬼脸，都没能让他开心。一句轻轻的问话，让她终于知道该怎样陪着这位老朋友。",
+  "ageBand": "3-5",
+  "theme": "陪伴与想念",
+  "color": "#89976B",
+  "character": "小田鼠米芹：浅棕色绒毛，圆耳朵，穿淡紫色背带裙，背米白色小布包。长凳弯弯：蜂蜜色木头身体，弧形靠背，四条短凳腿，靠背两端各有一只圆眼睛，中央有小鼻子和小嘴。",
+  "cover": "/library/stories/expansion-0174/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 161.698,
+  "detailUrl": "/library/stories/expansion-0174/v1/story.json",
+  "audio": "/library/stories/expansion-0174/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "萤火坡地上，长凳弯弯正在掉眼泪。泪水顺着木头纹路，滴在两只前脚旁边。小田鼠米芹走过来，摸摸湿湿的泥土：“谁把你弄疼啦？”弯弯摇摇靠背，发出轻轻的一声叹息。",
+      "image": "/library/stories/expansion-0174/v1/p01.webp",
+      "start": 0,
+      "end": 21.086
+    },
+    {
+      "id": "p02",
+      "text": "“树上的小鸟都长大，飞走了。”弯弯说，“以前，他们吃饱了，就在枝头挤成一团。我每天都抬头看。”米芹也抬起头。空鸟巢夹在树杈间，只有几片叶子轻轻地摇。",
+      "image": "/library/stories/expansion-0174/v1/p02.webp",
+      "start": 21.086,
+      "end": 41.26
+    },
+    {
+      "id": "p03",
+      "text": "米芹想让弯弯开心起来。她从布包里拿出一朵蓝色小花，放在凳面上。“你看，像不像一颗蓝星星？”弯弯认真看了看：“很好看。”可说完，他的眼角又滚出一滴泪。",
+      "image": "/library/stories/expansion-0174/v1/p03.webp",
+      "start": 41.26,
+      "end": 60.978
+    },
+    {
+      "id": "p04",
+      "text": "米芹鼓起腮帮，扮了一只胖胖的大熊，又学大熊慢吞吞地挥爪子。弯弯的嘴角动了一下，眼泪却没有停。米芹放下爪子，小声说：“我都不知道，还能做什么让你笑了。”",
+      "image": "/library/stories/expansion-0174/v1/p04.webp",
+      "start": 60.978,
+      "end": 80.336
+    },
+    {
+      "id": "p05",
+      "text": "弯弯没有回答，只望着树杈。米芹也安静下来。过了一会儿，她坐到凳子一头，问：“你最想念小鸟的什么呀？”弯弯眨眨湿眼睛：“最小的那只，总把自己的尾巴当成别人的。”",
+      "image": "/library/stories/expansion-0174/v1/p05.webp",
+      "start": 80.336,
+      "end": 100.39
+    },
+    {
+      "id": "p06",
+      "text": "“他一转身，就追着尾巴啄，差点碰到哥哥的头。”弯弯讲着，轻轻笑了一声，接着又抽抽鼻子。“我能一边哭一边讲吗？”“能呀。”米芹挪近一点，“后来，哥哥怎么办了？”",
+      "image": "/library/stories/expansion-0174/v1/p06.webp",
+      "start": 100.39,
+      "end": 120.156
+    },
+    {
+      "id": "p07",
+      "text": "弯弯讲了好久，讲小鸟第一次探头，第一次展开翅膀。米芹没有再扮大熊，也没有催他擦眼泪。她把两只脚轻轻晃着，听完一个故事，再问一个。弯弯紧绷的靠背慢慢松了下来。",
+      "image": "/library/stories/expansion-0174/v1/p07.webp",
+      "start": 120.156,
+      "end": 140.858
+    },
+    {
+      "id": "p08",
+      "text": "草间亮起点点萤火。弯弯还想念小鸟，可眼泪已经停了。“明天，你还来听吗？”他问。“来，我还没听最小的那只怎么学会飞呢。”米芹靠着他坐了一会儿，小花留在他们中间。",
+      "image": "/library/stories/expansion-0174/v1/p08.webp",
+      "start": 140.858,
+      "end": 161.698
+    }
+  ],
+  "buildHash": "36bdddd32666f65d1107aba22687c1f525aa67c3635a7dfc252473889584cd86"
+}

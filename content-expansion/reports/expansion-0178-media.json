@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0178",
+  "title": "荇芽的花还在头上",
+  "version": 1,
+  "bodyCharacters": 1000,
+  "pages": 12,
+  "duration": 304.482,
+  "bodySha256": "baf4063ce3a38ae20b6e549a68e19290e601e8743b8ab573ee437f0e889a7c44",
+  "audioSha256": "c606c3ff828fb5412fea06982d9f38f8ea7490b89b9b4f55babad1b0b956513b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "631a29efd0cc859798010a71bd108c3d798b486b6d46c17b2d8778c553ee2c98",
+      "bytes": 15982
+    },
+    {
+      "name": "p01",
+      "sha256": "2cadd2137763b90c4089b838a5f4bdd7615e2cbbea47ca14f52ab5f98dbefdcd",
+      "bytes": 9172
+    },
+    {
+      "name": "p02",
+      "sha256": "3aeadea19cb142c9491564743e246920a0ef9e4779c948dbe69ab1e1291bb107",
+      "bytes": 13944
+    },
+    {
+      "name": "p03",
+      "sha256": "ec2579707831d3ef66754f84a7d172ee2951a0997e3816fb431a57a69a417477",
+      "bytes": 13738
+    },
+    {
+      "name": "p04",
+      "sha256": "51115caa4e022b36af3d8543271d38c48615553f13664a658eeb853bd09c2746",
+      "bytes": 10646
+    },
+    {
+      "name": "p05",
+      "sha256": "bed2e48d1ed3ade78e89e51cd49418c4138cc0a203c1c7348319d2799563cc0c",
+      "bytes": 13496
+    },
+    {
+      "name": "p06",
+      "sha256": "ca7e356f829268ebeb5ee938082d1e70ed37aa409f09ce2c31678547441bb6f2",
+      "bytes": 13198
+    },
+    {
+      "name": "p07",
+      "sha256": "cb60b35fb7a6fe2a57fbf37ae14de9464ff1ef808e9802daefb13803a61f042b",
+      "bytes": 14028
+    },
+    {
+      "name": "p08",
+      "sha256": "fbefd96e56e82d01e5a6fca63b254d02aefe4c0b0d14462ca3bc6301962a4ae4",
+      "bytes": 11432
+    },
+    {
+      "name": "p09",
+      "sha256": "dce754f49ec2d8fd7a8b66a67edb8b09a09186cd0bde8f921d5e5d6070ee449e",
+      "bytes": 12692
+    },
+    {
+      "name": "p10",
+      "sha256": "30f49a97a7c1044b23350fce56426f8a9725d810aa97aede10c12ad4f25cef1f",
+      "bytes": 12326
+    },
+    {
+      "name": "p11",
+      "sha256": "38bc5b8f10e6fcf3e6f7a168c5e17d9ea4702ac34ccc720d30202c30dbddc472",
+      "bytes": 13108
+    },
+    {
+      "name": "p12",
+      "sha256": "8c51568058d4efb0bf304b7f6a1e7e73eaa4c930a9090072d977ba3b6a19b395",
+      "bytes": 13408
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

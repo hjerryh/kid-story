@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0169",
+  "version": 1,
+  "status": "media-ready",
+  "title": "等圆圈画好再开船",
+  "subtitle": "红伞下的摇摇椅",
+  "description": "雨伞山坡的大伞下面，只有一张摇摇椅。松果想摇着尾巴看雨，泥豆想坐稳画水洼。一张不停晃动的画纸，让两个朋友开始商量怎样度过这个雨天。",
+  "ageBand": "3-5",
+  "theme": "轮流与协商",
+  "color": "#75A99B",
+  "character": "小松鼠松果：赤褐色毛，蓬松大尾巴，穿绿色短背心。小鼹鼠泥豆：深灰色绒毛，圆鼻头，穿蓝色背带裤，背米白色小画包。两位角色全篇外观一致。",
+  "cover": "/library/stories/expansion-0169/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 166.234,
+  "detailUrl": "/library/stories/expansion-0169/v1/story.json",
+  "audio": "/library/stories/expansion-0169/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨伞山坡上，长着一把把大伞。下雨了，伞面自己张开，伞下干干的。松果找到一张摇摇椅，招呼泥豆：“一起坐吧！我要摇着尾巴看雨。”泥豆背着画包，高高兴兴地挤过来。",
+      "image": "/library/stories/expansion-0169/v1/p01.webp",
+      "start": 0,
+      "end": 21.134
+    },
+    {
+      "id": "p02",
+      "text": "椅子刚好坐下两个朋友。松果脚尖一点，前呀，后呀，雨珠在眼前晃。泥豆拿出纸，想画水洼里的圆圈。可椅子一摇，铅笔也摇，圆圈拖出了一条长尾巴，差点跑到纸外面。",
+      "image": "/library/stories/expansion-0169/v1/p02.webp",
+      "start": 21.134,
+      "end": 41.86
+    },
+    {
+      "id": "p03",
+      "text": "“停一下好吗？”泥豆把两只脚踩在地上。椅子不动了，松果的尾巴也垂下来。“可我就是想摇呀。”他看看四周，只有湿草地，没有第二张椅子。泥豆捏着铅笔，也舍不得走。",
+      "image": "/library/stories/expansion-0169/v1/p03.webp",
+      "start": 41.86,
+      "end": 62.658
+    },
+    {
+      "id": "p04",
+      "text": "松果试着只摇一点点，纸上的圆还是歪了。他又提议：“摇一下，停一下！”可是泥豆刚把笔放下，椅子又动了。松果也总得收住脚，摇得不痛快。两个朋友一起叹了口气。",
+      "image": "/library/stories/expansion-0169/v1/p04.webp",
+      "start": 62.658,
+      "end": 83.96
+    },
+    {
+      "id": "p05",
+      "text": "松果低头看看，泥豆画了好久，那个圆还缺着一小口。他问：“你要一直画下去吗？”泥豆摇头：“我只想画完这一张。画好了，笔就能睡觉啦。”松果摸摸尾巴，想了一会儿。",
+      "image": "/library/stories/expansion-0169/v1/p05.webp",
+      "start": 83.96,
+      "end": 103.894
+    },
+    {
+      "id": "p06",
+      "text": "“那先让你画完。等会儿陪我摇，好吗？”松果问。泥豆点点头：“好！到时候，怎么摇由你选。”松果把脚踩稳，靠着椅背看伞顶。雨点隔着红布，敲得他的耳朵痒痒的。",
+      "image": "/library/stories/expansion-0169/v1/p06.webp",
+      "start": 103.894,
+      "end": 124.836
+    },
+    {
+      "id": "p07",
+      "text": "泥豆画好了一个圆，又画上漂在水洼里的小叶船。“好了！”他把画举给松果看，随后收好纸笔，扣上画包。“现在轮到你。”松果笑着说：“我要慢慢摇，像你画的那条小船。”",
+      "image": "/library/stories/expansion-0169/v1/p07.webp",
+      "start": 124.836,
+      "end": 145.442
+    },
+    {
+      "id": "p08",
+      "text": "前呀，后呀，两双小脚轻轻点地。画包安稳地躺在泥豆腿上，松果的尾巴擦过他的裤脚。泥豆笑得缩起脖子：“船上有毛毛虫！”红伞滴下一串水珠，他们的小船摇得更慢了。",
+      "image": "/library/stories/expansion-0169/v1/p08.webp",
+      "start": 145.442,
+      "end": 166.234
+    }
+  ],
+  "buildHash": "d352ba67dd7f87c19c25b807341069e8025f752bb9dafa8d793bf6913488e57b"
+}

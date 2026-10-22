@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0180",
+  "title": "南瓜先生住楼上",
+  "version": 1,
+  "bodyCharacters": 1051,
+  "pages": 12,
+  "duration": 309.642,
+  "bodySha256": "6a3b052bdd318a009c7ba14eb4f6ab114572d6abb7ac87cb5a39e938e8f74a7b",
+  "audioSha256": "bba1d2e8fed88db444295a8b1dfd5ef8b3c7c406ea079863f406b2cb06847a22",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "cc29294a455de67a990b6a8a2b31f34156f3495898eaf800924d20a6ca35f294",
+      "bytes": 21618
+    },
+    {
+      "name": "p01",
+      "sha256": "5a676d76589ce3ebdeced577159e0816ddf41b1c1576b88ea285bed96bac09c1",
+      "bytes": 17426
+    },
+    {
+      "name": "p02",
+      "sha256": "58cc232cecbeb5d08a871d8436b704317bcedec03684cd8d03723e97658df86a",
+      "bytes": 14482
+    },
+    {
+      "name": "p03",
+      "sha256": "7cc633650c8db3d585f3f292d2b7fd6de590359d4caadd1e9ebeeab6e8c7a53e",
+      "bytes": 16872
+    },
+    {
+      "name": "p04",
+      "sha256": "66756e8edea65c24d837e246ee7917ec266218a884aed101a1f748680d1e4dd2",
+      "bytes": 16474
+    },
+    {
+      "name": "p05",
+      "sha256": "bf0b86649c416fa7a95b5e6615619e810821840c7bcf4e7a530f95f1bea71c10",
+      "bytes": 17430
+    },
+    {
+      "name": "p06",
+      "sha256": "0482bf1378d5918fc66e0cdf7e842c01099c8372a1fc3fea3b058eff6e163a25",
+      "bytes": 16956
+    },
+    {
+      "name": "p07",
+      "sha256": "4a141b16e4243315359d603052e0fc7abfd7ef11bb4e61eab73d8a5f3aa488c2",
+      "bytes": 17256
+    },
+    {
+      "name": "p08",
+      "sha256": "999e6b3da841c8cf808f5d0f10d9583f9da7bc3dd33b09dfa98561ec9f2d2ae2",
+      "bytes": 14772
+    },
+    {
+      "name": "p09",
+      "sha256": "5270f4b4dd339f19713e8ef7f924556172ecb2ddd8fe1c6d1428d0f7e49d0f7e",
+      "bytes": 20144
+    },
+    {
+      "name": "p10",
+      "sha256": "b6931684cc431c13072b1de19b9f5dd2eb52872378cbc69ec277ed13e4a4972a",
+      "bytes": 17452
+    },
+    {
+      "name": "p11",
+      "sha256": "750acdb9e6a75764b28dc35f8a12cc320b2824825e495f1711180246fb6deaad",
+      "bytes": 15318
+    },
+    {
+      "name": "p12",
+      "sha256": "ab57156002a039e2b03e72306655a137ec9446a6650a3a5f8e805658dc23150f",
+      "bytes": 13868
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

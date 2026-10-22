@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0173",
+  "title": "蓝靴子里盖什么被子",
+  "version": 1,
+  "bodyCharacters": 525,
+  "pages": 8,
+  "duration": 164.482,
+  "bodySha256": "77e9cb1e21e87a3a7f8cfbe8300f06217b129fd8b5436577e339bfff9e35f83b",
+  "audioSha256": "63e82b7ed46df861e14cdf6da96051de4148dd70a5f93754f810cee599ff6711",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "1f304e4b7f60e0c84f6e64281be54684ce3773923bd67da8dc495121cd87c9d0",
+      "bytes": 14944
+    },
+    {
+      "name": "p01",
+      "sha256": "b8a3d957cef8b48505e5e9be799132b6e9ece9ee3f082992a970b2628858b511",
+      "bytes": 11254
+    },
+    {
+      "name": "p02",
+      "sha256": "a9ad9ca61752e69a5160ca0c1dca94d3aa19b07224bd6fcff91f62bdfce1ec73",
+      "bytes": 13398
+    },
+    {
+      "name": "p03",
+      "sha256": "c966592a98852ec2b0b5730df4d3b20279480fc56cd64c46b72d535853147c75",
+      "bytes": 13920
+    },
+    {
+      "name": "p04",
+      "sha256": "3784299b26982a61a85c485ab7378c5c16c4f0b5a7ffab4f2284c9ff0a318143",
+      "bytes": 13836
+    },
+    {
+      "name": "p05",
+      "sha256": "41db0f969e924f258f2b1cacdcf9849ddb0ddf9ed231e222ec6191c98fdaa95c",
+      "bytes": 11454
+    },
+    {
+      "name": "p06",
+      "sha256": "5718508f5d046397cb5931c584cf40bd50076052c5efdee775be9aec65811147",
+      "bytes": 12058
+    },
+    {
+      "name": "p07",
+      "sha256": "38b0363cdb4f767fe540ba21a9f8bc2f33b685092a03b9e43d829c95525d2ec9",
+      "bytes": 12566
+    },
+    {
+      "name": "p08",
+      "sha256": "c133e59574314bc0c955884b9d4493b272762a0234802b3de562556bc79e9f57",
+      "bytes": 10488
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

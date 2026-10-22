@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0175",
+  "version": 1,
+  "status": "media-ready",
+  "title": "绒枣坐在小圆饼上",
+  "subtitle": "窗边留着一个位置",
+  "description": "绒枣答应给蒲蒲留一张椅子，可竹叶茶馆坐满了客人，兔婆婆也想坐下来歇歇。只剩两张空椅子，其中一张，是绒枣最喜欢的。",
+  "ageBand": "3-5",
+  "theme": "小小约定",
+  "color": "#829B63",
+  "character": "绒枣：浅棕色小睡鼠，圆耳朵，穿紫红色围裙。蒲蒲：灰褐色小刺猬，米白肚皮，背绿色小挎包，戴一副银色圆眼镜，开头忘在家中、取回后戴上。兔婆婆：白毛长耳兔，穿浅蓝色外套，戴圆眼镜。",
+  "cover": "/library/stories/expansion-0175/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 157.258,
+  "detailUrl": "/library/stories/expansion-0175/v1/story.json",
+  "audio": "/library/stories/expansion-0175/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "竹叶茶馆里，绒枣正擦桌子。小刺猬蒲蒲翻开图画书，忽然摸摸鼻尖：“哎呀，眼镜忘在家了。替我留着这张椅子，好吗？”“好呀，你回来还坐这里。”绒枣点点头。",
+      "image": "/library/stories/expansion-0175/v1/p01.webp",
+      "start": 0,
+      "end": 20.51
+    },
+    {
+      "id": "p02",
+      "text": "蒲蒲走了，书还摊在桌上，里面有一只抱着萝卜的小熊。绒枣擦完最后一张桌子，摸摸自己的小摇椅。软垫像一块厚面包，她最喜欢坐进去，把尾巴舒舒服服地盘起来。",
+      "image": "/library/stories/expansion-0175/v1/p02.webp",
+      "start": 20.51,
+      "end": 39.94
+    },
+    {
+      "id": "p03",
+      "text": "沙沙，门口的竹帘响个不停，客人把别的椅子都坐满了。兔婆婆提着菜篮进来，轻轻揉了揉膝盖：“我想坐一会儿。”屋里只剩蒲蒲的椅子，还有绒枣的小摇椅空着。",
+      "image": "/library/stories/expansion-0175/v1/p03.webp",
+      "start": 39.94,
+      "end": 58.41
+    },
+    {
+      "id": "p04",
+      "text": "绒枣从柜台下搬出一只矮木箱，擦得干干净净。兔婆婆弯了弯腿，又慢慢站直：“这个太矮啦，我坐下就不好起来。”绒枣扶住她的胳膊，小耳朵一点一点垂了下来。",
+      "image": "/library/stories/expansion-0175/v1/p04.webp",
+      "start": 58.41,
+      "end": 77.336
+    },
+    {
+      "id": "p05",
+      "text": "她伸手碰了碰蒲蒲的椅背，又看见桌上那只抱萝卜的小熊。“我说过，回来还坐这里。”她小声念着。接着，她转过身，把自己摇椅上的软垫拍松：“婆婆，这张坐着舒服。”",
+      "image": "/library/stories/expansion-0175/v1/p05.webp",
+      "start": 77.336,
+      "end": 97.51
+    },
+    {
+      "id": "p06",
+      "text": "兔婆婆坐稳了，长长地舒了一口气。绒枣望望自己的软垫，尾巴有点舍不得地动了动。她拿来一块圆地垫，铺在木箱旁边。木箱当小桌，刚好放下她的一杯温水。",
+      "image": "/library/stories/expansion-0175/v1/p06.webp",
+      "start": 97.51,
+      "end": 116.724
+    },
+    {
+      "id": "p07",
+      "text": "不一会儿，蒲蒲戴着眼镜回来了。“我的位置还在！”他坐上椅子，把书朝绒枣斜了斜。绒枣抱着地垫挪过去，坐在他旁边。原来，那只小熊抱的萝卜，比小熊自己还大。",
+      "image": "/library/stories/expansion-0175/v1/p07.webp",
+      "start": 116.724,
+      "end": 137.33
+    },
+    {
+      "id": "p08",
+      "text": "窗外的竹叶沙沙响，兔婆婆的小摇椅轻轻晃。蒲蒲一页一页读，绒枣一幅一幅看。她把尾巴盘在地垫上，悄悄笑了：今天没有坐进厚面包，却像坐在一张圆圆的小饼上。",
+      "image": "/library/stories/expansion-0175/v1/p08.webp",
+      "start": 137.33,
+      "end": 157.258
+    }
+  ],
+  "buildHash": "c48d4ede99bbe393231883ea8622b274efe97a393a300ee030dc3a6da37b5338"
+}

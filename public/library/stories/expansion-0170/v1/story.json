@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0170",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小红鞋今天坐车",
+  "subtitle": "一起再走那条小路",
+  "description": "绒栗找到第一次出门时穿的红鞋，想再穿着它们走一遍林间小路。可是，他的小脚已经长大了，红鞋却还是那么小。这趟盼望中的散步，还能一起去吗？",
+  "ageBand": "3-5",
+  "theme": "旧物与回忆",
+  "color": "#C96C59",
+  "character": "小睡鼠绒栗：浅棕色绒毛，圆耳朵，穿蓝色背带短裤。爸爸：深棕色绒毛，穿米色衬衫。旧红鞋：一双圆头小布鞋，白色鞋带，鞋尖各有一张会说话的小嘴。",
+  "cover": "/library/stories/expansion-0170/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 168.202,
+  "detailUrl": "/library/stories/expansion-0170/v1/story.json",
+  "audio": "/library/stories/expansion-0170/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "绒栗在抽屉里找到一双小红鞋。鞋尖张开嘴，打了个长长的哈欠：“我们好久没出门啦！”绒栗把它们捧到脸旁。软软的布上，还有一点旧木柜的香味，闻着就想笑。",
+      "image": "/library/stories/expansion-0170/v1/p01.webp",
+      "start": 0,
+      "end": 19.382
+    },
+    {
+      "id": "p02",
+      "text": "第一次去树林音乐屋，绒栗就穿着它们。那时，他牵着爸爸的手，一步一步走过小路。“今天还走那条路！”绒栗说。红鞋高兴地翘起鞋尖：“我们记得那棵歪脖子梨树！”",
+      "image": "/library/stories/expansion-0170/v1/p02.webp",
+      "start": 19.382,
+      "end": 39.436
+    },
+    {
+      "id": "p03",
+      "text": "可是，绒栗的脚趾刚进去，脚跟就留在外面。他松开鞋带，把鞋口撑得圆圆的，还是穿不下。“你的脚长大了。”红鞋轻声说。绒栗看看自己的脚，又看看小小的鞋，耳朵垂下来。",
+      "image": "/library/stories/expansion-0170/v1/p03.webp",
+      "start": 39.436,
+      "end": 61.194
+    },
+    {
+      "id": "p04",
+      "text": "“袜子脱掉，也许就行了。”绒栗又试了一次。鞋尖鼓起来，小脚还是进不去。他马上停下，把红鞋并排放好。“我想和你们一起走。”他摸摸鞋带，“不想只把你们放回抽屉。”",
+      "image": "/library/stories/expansion-0170/v1/p04.webp",
+      "start": 61.194,
+      "end": 81.8
+    },
+    {
+      "id": "p05",
+      "text": "墙边停着绒栗的玩具推车，里面坐着几块积木。他忽然眨眨眼：“脚不能坐进鞋里，鞋可以坐进车里呀！”他搬出积木，把两只红鞋请上车。鞋带垂在车边，像两条小尾巴。",
+      "image": "/library/stories/expansion-0170/v1/p05.webp",
+      "start": 81.8,
+      "end": 102.046
+    },
+    {
+      "id": "p06",
+      "text": "绒栗穿上合脚的新鞋，推着小车出门，爸爸走在旁边。车轮咕噜咕噜，红鞋轻轻摇晃。“以前这里有块大石头！”它们说。绒栗找到了。原来那块大石头，现在只到他的膝盖。",
+      "image": "/library/stories/expansion-0170/v1/p06.webp",
+      "start": 102.046,
+      "end": 123.54
+    },
+    {
+      "id": "p07",
+      "text": "歪脖子梨树还在，树枝弯弯地伸过小路。“那天，你在这里要抱抱。”爸爸说。绒栗朝爸爸伸出一只手：“今天牵牵就好。”他用另一只手推车，红鞋在车里看着一片片摇动的绿叶。",
+      "image": "/library/stories/expansion-0170/v1/p07.webp",
+      "start": 123.54,
+      "end": 145.202
+    },
+    {
+      "id": "p08",
+      "text": "到了音乐屋，他们坐在门前的长椅上。绒栗把小车停在身边，让红鞋也朝着敞开的门。屋里飘出轻轻的琴声。“明天还坐车吗？”红鞋问。“坐呀。”绒栗晃晃脚，“这回换我带你们走。”",
+      "image": "/library/stories/expansion-0170/v1/p08.webp",
+      "start": 145.202,
+      "end": 168.202
+    }
+  ],
+  "buildHash": "432e53a28870ac45abbbeb4f980be28c7296d87b55f1d00b09e94c4015795365"
+}

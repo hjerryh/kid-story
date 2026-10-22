@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0171",
+  "version": 1,
+  "status": "media-ready",
+  "title": "雾猫旁边的小圆窗",
+  "subtitle": "玻璃上的雨天朋友",
+  "description": "米朵画在玻璃水雾上的小猫活了，想看看雨廊外的蜗牛。可擦掉水雾，也会擦掉雾猫走路的地方。米朵怎样才能给朋友开一扇合适的小窗呢？",
+  "ageBand": "3-5",
+  "theme": "细心观察",
+  "color": "#A6BCCB",
+  "character": "小女孩米朵，黑色齐耳短发，穿紫色外套、米白长裤和红色布鞋。雾猫是米朵画在玻璃水雾上的小猫，圆耳朵、短胡须、弯尾巴，身体由透明线条围成，只能在有水雾的玻璃上活动。",
+  "cover": "/library/stories/expansion-0171/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 160.426,
+  "detailUrl": "/library/stories/expansion-0171/v1/story.json",
+  "audio": "/library/stories/expansion-0171/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨落在屋檐上，沙沙沙。米朵坐在暖暖的雨廊里，用手指在玻璃的水雾上画了一只猫。刚画好弯尾巴，小猫就伸了个懒腰。这里画在水雾上的小动物，都会醒过来。",
+      "image": "/library/stories/expansion-0171/v1/p01.webp",
+      "start": 0,
+      "end": 19.382
+    },
+    {
+      "id": "p02",
+      "text": "窗外的花盆上，一只蜗牛正慢慢爬过青色的边沿。米朵指给雾猫看。雾猫眯起眼睛，却只看见白蒙蒙的一片。米朵说：“我给你擦一扇小窗，你就能看见它啦。”",
+      "image": "/library/stories/expansion-0171/v1/p02.webp",
+      "start": 19.382,
+      "end": 38.308
+    },
+    {
+      "id": "p03",
+      "text": "米朵拿出软手帕，在雾猫头顶擦出一个小方块。外面的绿叶清楚了，雨珠也清楚了。可是雾猫踮起脚，还是够不到。“再往上一点点！”米朵说。雾猫摇了摇尾巴。",
+      "image": "/library/stories/expansion-0171/v1/p03.webp",
+      "start": 38.308,
+      "end": 58.314
+    },
+    {
+      "id": "p04",
+      "text": "雾猫伸出前爪，碰到擦干净的地方，又缩了回来。“没有水雾，我走不过去。”米朵想把小窗往下擦大些，手帕却快碰到猫耳朵了。她赶紧停住：那也是雾猫的身子呀。",
+      "image": "/library/stories/expansion-0171/v1/p04.webp",
+      "start": 58.314,
+      "end": 78.032
+    },
+    {
+      "id": "p05",
+      "text": "米朵把手帕放在膝头，没有急着再擦。她看着雾猫慢慢坐好，侧过脑袋，把鼻尖贴向玻璃。原来，它的眼睛在这里，比小方窗低了好多。它脚下还需要一片水雾站稳。",
+      "image": "/library/stories/expansion-0171/v1/p05.webp",
+      "start": 78.032,
+      "end": 97.846
+    },
+    {
+      "id": "p06",
+      "text": "她用手帕包住一根手指，在猫眼睛旁轻轻转了一圈。一个小圆窗出来了，只有豆子那么大。米朵没有擦掉下面的水雾。雾猫挪近半步，四只爪子都稳稳地留在白雾里。",
+      "image": "/library/stories/expansion-0171/v1/p06.webp",
+      "start": 97.846,
+      "end": 117.588
+    },
+    {
+      "id": "p07",
+      "text": "“看见啦！它背着一座圆房子！”雾猫轻轻叫起来。蜗牛伸着触角，沿花盆边慢慢往前爬。雾猫也不催，只把胡须往两边收一收。米朵低下头，和它一起看那座小房子移动。",
+      "image": "/library/stories/expansion-0171/v1/p07.webp",
+      "start": 117.588,
+      "end": 139.154
+    },
+    {
+      "id": "p08",
+      "text": "蜗牛爬到叶子背后去了。雾猫仍趴在小圆窗旁，看雨滴从玻璃外面滑下来。米朵收好手帕，靠着窗框坐着。“这扇窗刚刚好。”雾猫说。它的尾巴弯过来，像一个小小的笑。",
+      "image": "/library/stories/expansion-0171/v1/p08.webp",
+      "start": 139.154,
+      "end": 160.426
+    }
+  ],
+  "buildHash": "60f831dfbf4860db36fa1585a3666c6b13c0c070191b2e489fc4bcae57ff83bc"
+}

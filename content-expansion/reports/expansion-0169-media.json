@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0169",
+  "title": "等圆圈画好再开船",
+  "version": 1,
+  "bodyCharacters": 510,
+  "pages": 8,
+  "duration": 166.234,
+  "bodySha256": "89bf7591370fcd3fe20fd9ef9dcc019c940e9ddf808acc45b7a17d3f55a7d427",
+  "audioSha256": "ad10208c4daf30ad901139864321a586083ec9d0ab76d160a1877506f5822fe1",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0f89fa41f7c5a247aa18a23bc587dcf8ec16282cbec62f7af3c8ccb2261a0dd1",
+      "bytes": 20902
+    },
+    {
+      "name": "p01",
+      "sha256": "7e22be920164d75975ff60e528d200bbd9ffeeb5d1fa704b7f8dd697f5ca2778",
+      "bytes": 17982
+    },
+    {
+      "name": "p02",
+      "sha256": "a3b2f31060a286ea74059325225740560d15acdc5211fb708a1c35ef371328f3",
+      "bytes": 18772
+    },
+    {
+      "name": "p03",
+      "sha256": "7e67a1883a17ff2cac17191fa4f52d117d8156c9467f9795b61230b484d8b242",
+      "bytes": 18058
+    },
+    {
+      "name": "p04",
+      "sha256": "070d1ccc731b828c4199cd9470cb43ef580ee8539355d31d15e8f309a4be8486",
+      "bytes": 18348
+    },
+    {
+      "name": "p05",
+      "sha256": "d3cfbfc4de43531b0e8047c591229d26212bc77ef6a962e2be07f34624346597",
+      "bytes": 17512
+    },
+    {
+      "name": "p06",
+      "sha256": "e2ec11400ad2d6975c276cfeb43e22c8e548536452b40bba20b4fa2a3a2a0b1d",
+      "bytes": 18054
+    },
+    {
+      "name": "p07",
+      "sha256": "3bc8dc93f7aaafafde8b810d74415cc7eaa0b3f029091575b367cedddbc317bf",
+      "bytes": 17870
+    },
+    {
+      "name": "p08",
+      "sha256": "504cab20dcb26763eccbb9fa4c56f593c2c4f11936151988fcfa9fce4e4ddf48",
+      "bytes": 19192
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

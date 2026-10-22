@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0176",
+  "title": "小桃还没学会呱",
+  "version": 1,
+  "bodyCharacters": 499,
+  "pages": 8,
+  "duration": 163.402,
+  "bodySha256": "20305f0def08e3b203baa446d357d75e5df0f095c20182d23ccb1f53850e3c1a",
+  "audioSha256": "927f27a4168c26a3db28c70668ea020fb05c1e99a1a5d86dc9e768c547282b91",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b7e5fd7af012b48af93db0678b0150bb8cdc604ac4ba5169445861b4bf30ba0d",
+      "bytes": 17946
+    },
+    {
+      "name": "p01",
+      "sha256": "3e991310514ccb86e3155897fe5dc6207ba1f1e6a8151a20234a7e2b21e5f524",
+      "bytes": 14470
+    },
+    {
+      "name": "p02",
+      "sha256": "0b34359c68821939584b41ebd2aee951830a307cbe139ca618e02cf61e91948b",
+      "bytes": 14666
+    },
+    {
+      "name": "p03",
+      "sha256": "255acc06ba93f4f97b69585169e2b5ad3cf0799c9edc8d9380a0a7beca1c3a9b",
+      "bytes": 14186
+    },
+    {
+      "name": "p04",
+      "sha256": "e5f61a997c8eb3d5c3da2277ab849a3fe1521c4f93231abe536655298102f892",
+      "bytes": 15128
+    },
+    {
+      "name": "p05",
+      "sha256": "2de71c74fa10a7c266f714ecbb40d6fcac84ae3449c04c7124fb820b34e8c30c",
+      "bytes": 15484
+    },
+    {
+      "name": "p06",
+      "sha256": "c5888256c925d48c3a2aaffc343e2fe63b330de5fcabc49107da807ca7c89a97",
+      "bytes": 15192
+    },
+    {
+      "name": "p07",
+      "sha256": "bb1161c4d2ee7eedc20064e3e4a101aa2235a007c85acd25b508c613e7c48396",
+      "bytes": 15054
+    },
+    {
+      "name": "p08",
+      "sha256": "1298c6aa4519f59dc0a198021efed13da1facdd9cb1518b01a789f6c02c47078",
+      "bytes": 15388
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

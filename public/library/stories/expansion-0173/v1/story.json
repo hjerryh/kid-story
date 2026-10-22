@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0173",
+  "version": 1,
+  "status": "media-ready",
+  "title": "蓝靴子里盖什么被子",
+  "subtitle": "一本自己选的睡前故事",
+  "description": "梨朵想自己选一本睡前故事，可三本会说话的书都在邀请她。她试着把故事一起读，却越读越糊涂。一串藏在蓝靴子旁的小脚印，让她终于作出了自己的决定。",
+  "ageBand": "3-5",
+  "theme": "自己的选择",
+  "color": "#858CC6",
+  "character": "小女孩梨朵，黑色齐耳短发，圆脸，穿淡紫色睡衣和白色软拖鞋。三本会说话的书分别是红封面的火车书、黄封面的蛋糕书、蓝封面的靴子书。",
+  "cover": "/library/stories/expansion-0173/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 164.482,
+  "detailUrl": "/library/stories/expansion-0173/v1/story.json",
+  "audio": "/library/stories/expansion-0173/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "风铃街道亮起小灯，梨朵抱来三本书。这里的书有个秘密：翻开就会说话，合上便安安静静。今晚，她想自己选一本故事，读完再钻进软被窝。她把三本书摆在床边。",
+      "image": "/library/stories/expansion-0173/v1/p01.webp",
+      "start": 0,
+      "end": 20.414
+    },
+    {
+      "id": "p02",
+      "text": "红书说：“来坐我的火车！”黄书说：“来看看九层蛋糕！”蓝书轻轻说：“我的靴子里住着谁呢？”梨朵看看火车，又看看蛋糕，手指停在蓝靴子旁。那里印着一串米粒大的脚印。",
+      "image": "/library/stories/expansion-0173/v1/p02.webp",
+      "start": 20.414,
+      "end": 41.38
+    },
+    {
+      "id": "p03",
+      "text": "每一本看起来都好玩，梨朵拿起这本，又舍不得那本。她想，干脆一起读吧！于是，她把三本书并排打开，先读红书一页，再读黄书一页，最后翻一下蓝书，忙得小手来回跑。",
+      "image": "/library/stories/expansion-0173/v1/p03.webp",
+      "start": 41.38,
+      "end": 62.346
+    },
+    {
+      "id": "p04",
+      "text": "火车刚进山洞，蛋糕就少了一颗樱桃，蓝靴子里又响起窸窸窣窣。梨朵挠挠头：是火车吃掉了樱桃吗？三本书各说各的话，她连刚才读到哪儿都忘了，眉毛慢慢皱起来。",
+      "image": "/library/stories/expansion-0173/v1/p04.webp",
+      "start": 62.346,
+      "end": 81.896
+    },
+    {
+      "id": "p05",
+      "text": "梨朵把三本书都合上。屋里只剩窗外轻轻的叮当声。她坐了一会儿，心里却有一串小脚印走来走去。靴子里面会有小床吗？那个小住客，晚上睡觉要不要盖被子呢？",
+      "image": "/library/stories/expansion-0173/v1/p05.webp",
+      "start": 81.896,
+      "end": 101.686
+    },
+    {
+      "id": "p06",
+      "text": "她拿起蓝书，轻声说：“今晚，我想先认识你的小住客。”红书和黄书被放回矮书架，封面挨着封面。梨朵还想坐火车，也想看蛋糕，不过现在，她翻开蓝书，从第一页慢慢读起。",
+      "image": "/library/stories/expansion-0173/v1/p06.webp",
+      "start": 101.686,
+      "end": 122.796
+    },
+    {
+      "id": "p07",
+      "text": "原来，一只小老鼠把蓝靴子当成了家。它拖来棉花铺小床，又捡了一片落下的花瓣当被子。梨朵一直读到最后，看见小老鼠把花瓣拉到下巴，终于知道那串脚印走去了哪里。",
+      "image": "/library/stories/expansion-0173/v1/p07.webp",
+      "start": 122.796,
+      "end": 143.234
+    },
+    {
+      "id": "p08",
+      "text": "梨朵合上蓝书，放在枕边，也把被子拉到下巴。她的脚趾在被窝里动了动，像两只找好床的小老鼠。窗外，风铃轻轻响了一声。她小声说：“晚安，蓝靴子。今晚我也睡得下。”",
+      "image": "/library/stories/expansion-0173/v1/p08.webp",
+      "start": 143.234,
+      "end": 164.482
+    }
+  ],
+  "buildHash": "c9ac77e19b7a0ace15a2ae44498cda9444c2e369ea9b27f8079bd80e45f7e7b8"
+}

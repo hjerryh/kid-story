@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0170",
+  "title": "小红鞋今天坐车",
+  "version": 1,
+  "bodyCharacters": 519,
+  "pages": 8,
+  "duration": 168.202,
+  "bodySha256": "52644e9d7f5927e3178fa5602441d06a7f1344cbb44c21aa24488671277f6802",
+  "audioSha256": "c19596f6bfda0299e3e22873bfbeaf78cdad124b955ea463d5d100609dc9eb1d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "508103f32e8d7a918401449b897a08c7d82bef99ed8762fbe96c5147bfec5360",
+      "bytes": 18430
+    },
+    {
+      "name": "p01",
+      "sha256": "c14efa32fc9ef22a0be97b8f5c8f22f74b91031ac21fca681cbe939507c5b775",
+      "bytes": 11270
+    },
+    {
+      "name": "p02",
+      "sha256": "0f67a552fc405a55339b9166d59b0bca313136d933c5022d771490ddf5a15b4e",
+      "bytes": 15006
+    },
+    {
+      "name": "p03",
+      "sha256": "f4f1d96c925f64f06473a69f420c3336bac7bdf0271f3ffdd159ceb8a28c1f86",
+      "bytes": 12048
+    },
+    {
+      "name": "p04",
+      "sha256": "7f2e6b3c19d0e986e8d2b858588ed947712cfeb61d2b81010d8f317491f4ae27",
+      "bytes": 11874
+    },
+    {
+      "name": "p05",
+      "sha256": "de6262023747cde43da6ba2bf15069092a515902430b1eb670d4f46dc62e8c7d",
+      "bytes": 12412
+    },
+    {
+      "name": "p06",
+      "sha256": "ff13546f2544fab9a7274dc6f2e7c0dbcbb4f852449539efb46215bc210d6f57",
+      "bytes": 18102
+    },
+    {
+      "name": "p07",
+      "sha256": "ab015f4e20893751d2d8e1353650f9853f6975a334c215132337650c4e9010fe",
+      "bytes": 19394
+    },
+    {
+      "name": "p08",
+      "sha256": "af8c7d2708a86d8a3c4dc650763dcedee3943c73c93a4bdfa7526481c9db18a8",
+      "bytes": 16640
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

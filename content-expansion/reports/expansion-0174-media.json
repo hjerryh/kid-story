@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0174",
+  "title": "弯弯可以哭着讲",
+  "version": 1,
+  "bodyCharacters": 510,
+  "pages": 8,
+  "duration": 161.698,
+  "bodySha256": "1c2b428142133df59dbf7b98d3ea26b34af57b44d09d7aab93e17fd4def58cdd",
+  "audioSha256": "e46f7f783fad3844cb41cf61b83dc70b5514701748960535ad0e99f141976f73",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "22ea70a97b916ef52ac86ee5beb4ec44f340c546b80afea69a25418688169685",
+      "bytes": 17738
+    },
+    {
+      "name": "p01",
+      "sha256": "4d8e02e9724b03a9e0ac228d8df4179c5a8c900b6db47adf1bc3c39186f5ff07",
+      "bytes": 17186
+    },
+    {
+      "name": "p02",
+      "sha256": "c1638765fc3d0baa1e2ab524721abf9febc7bcb18348c4419044922a1a47ead9",
+      "bytes": 17200
+    },
+    {
+      "name": "p03",
+      "sha256": "4b88a5f41f112b62199604ce44b55c5170ca4fb44281ca9d0e4593bf7cdfec28",
+      "bytes": 16604
+    },
+    {
+      "name": "p04",
+      "sha256": "ba242ef143c97eea3e4dc5ad18643ed14306328caa117ce74393d21cd68ace2e",
+      "bytes": 17042
+    },
+    {
+      "name": "p05",
+      "sha256": "82b0dd996e50811a33f18f4b8815d041a6c648e93d24076165186d9d714d2f48",
+      "bytes": 15900
+    },
+    {
+      "name": "p06",
+      "sha256": "63bdc1ebd5b6b3e2c4339e08ec7d9023c185e9af31c5a5ef033c9dde36a94013",
+      "bytes": 15672
+    },
+    {
+      "name": "p07",
+      "sha256": "c37b564a21ec01b2f44641e7d35dbab709e7cecd99cf4fbe5ee144e8c6ab47c6",
+      "bytes": 17880
+    },
+    {
+      "name": "p08",
+      "sha256": "c0e54f9f01a76bf30229d60f364bccd7a94ebd3500d1f224c7326f3e8e3f6a3f",
+      "bytes": 17682
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

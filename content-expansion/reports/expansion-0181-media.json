@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0181",
+  "title": "圆砾的小屋藏得很低",
+  "version": 1,
+  "bodyCharacters": 993,
+  "pages": 12,
+  "duration": 310.938,
+  "bodySha256": "c2ed5d74481b88dfef392cf15c2208fa7ab6444ebdf06d443fc75c6752c2ecce",
+  "audioSha256": "692dbe4f77337ce5aa6305130db7e25086da1f2ca6fa7fc3adab06d1aa9c44b7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b7c4a0203ba793ffb9588f0ebbefa6db5ea82a4d5642f03ef8003f89de5c3239",
+      "bytes": 18266
+    },
+    {
+      "name": "p01",
+      "sha256": "a9c769a87e2ea044ace02f8af20574f6eab12c6cf6612624456b27d564caab49",
+      "bytes": 10832
+    },
+    {
+      "name": "p02",
+      "sha256": "cedd19a1bfedd47ab6afc6b120cd05eda2ce9012dc1154ea8c18d17b52d80968",
+      "bytes": 11048
+    },
+    {
+      "name": "p03",
+      "sha256": "ebcb9e7d1faeae3bd39140b3253e859098ab18def1dc344ff393266af83e2f66",
+      "bytes": 10848
+    },
+    {
+      "name": "p04",
+      "sha256": "0a1b08659440f81f64bae1aeee43fee52ca82324cd8d589f8334eafcd338aa4a",
+      "bytes": 9438
+    },
+    {
+      "name": "p05",
+      "sha256": "d3d3c1464d599eb9c3d6d29b875b970cd55c0bf87f17fa3875865b842b6efbb4",
+      "bytes": 10246
+    },
+    {
+      "name": "p06",
+      "sha256": "ebaa64d68efab3aa814907a13516fff7f9ae0408714f6cc5b50af19bfe2d5a7c",
+      "bytes": 9476
+    },
+    {
+      "name": "p07",
+      "sha256": "ec7485ce0817515cd200664fcb576db221873355b773278d85fd4073d93c2bfd",
+      "bytes": 10282
+    },
+    {
+      "name": "p08",
+      "sha256": "95ff8454947478b2ff6adb7181c0e7d7564db6eea104fb596a91cd22a6c28695",
+      "bytes": 9926
+    },
+    {
+      "name": "p09",
+      "sha256": "09f1e5cd1fd90d329206a63c3230348dc47b7e9bf8c644194386f9ddfaf8421f",
+      "bytes": 10170
+    },
+    {
+      "name": "p10",
+      "sha256": "0e5456b71cc19bdb18799131b28fdaddb2681ff241f8a02136fa5cb955968dbd",
+      "bytes": 15444
+    },
+    {
+      "name": "p11",
+      "sha256": "f2cd179e18d55bcac35d8d888ed6df51a5eb4d4ec6c7a81508b0e6eeeb68f05c",
+      "bytes": 16052
+    },
+    {
+      "name": "p12",
+      "sha256": "e9cba77b8ba4ffab3539fbe153a67b3dbbc504ac539fdee7e471fdbc08788620",
+      "bytes": 15834
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

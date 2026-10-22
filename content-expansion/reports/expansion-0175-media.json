@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0175",
+  "title": "绒枣坐在小圆饼上",
+  "version": 1,
+  "bodyCharacters": 506,
+  "pages": 8,
+  "duration": 157.258,
+  "bodySha256": "523a695bcf8d252987ac07dc6ab787c4418b85b9ee5238fb1c53126954237bcb",
+  "audioSha256": "707d4c43273a6a868fab2a21e8cafafdce4b2e59564938b9ba76bef9b3717ad3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3e9a2b60b3d870b82fc3373dead22262cd55c144a031c72dde50f79e749deca7",
+      "bytes": 23682
+    },
+    {
+      "name": "p01",
+      "sha256": "fc8d3ed4d982ca304d2e630d8954f657239d0db695ccf0d10af4e20944ea618e",
+      "bytes": 14028
+    },
+    {
+      "name": "p02",
+      "sha256": "7d63dce4fc61e45b63a4376184f2878b9d1342cccc2a4ad2ceaeb1d064aa168d",
+      "bytes": 11388
+    },
+    {
+      "name": "p03",
+      "sha256": "429a06c4d71dd160e6f970496b208cd6c8d6a78acbb31d407903af835a2c3721",
+      "bytes": 17756
+    },
+    {
+      "name": "p04",
+      "sha256": "7605ea615a9c2d1cfe1d71e33044f578df935fee1d696e20bac24a0cefff581a",
+      "bytes": 17824
+    },
+    {
+      "name": "p05",
+      "sha256": "a9ffa5131afa825cf0abe4c1b4f5c29fb9a3bc8192828a1b8d2c519e2c77b6b4",
+      "bytes": 17322
+    },
+    {
+      "name": "p06",
+      "sha256": "fd53720b20d45a5b991bea4583a7ade426956c7f3d50c62a673599920ff855b6",
+      "bytes": 17232
+    },
+    {
+      "name": "p07",
+      "sha256": "b1bf2a87b7974e344fde1b5186524accdb28ee9f788929b9f615e0073d70f901",
+      "bytes": 19412
+    },
+    {
+      "name": "p08",
+      "sha256": "e6c327ac25decd25cec672d5fab98a1856b0ccafa8e48b8de908110e61361842",
+      "bytes": 19642
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
