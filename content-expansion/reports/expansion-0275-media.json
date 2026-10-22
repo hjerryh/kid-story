@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0275",
+  "title": "绵岚飞过敞开的屋顶",
+  "version": 1,
+  "bodyCharacters": 1510,
+  "pages": 16,
+  "duration": 468.554,
+  "bodySha256": "e136f4f09e79f55bd1a4165e1292951d83996f52a184040e2d276b2d6ba6ba90",
+  "audioSha256": "7f1b6bceb15b103b93d6cacd3aad457fe2606e3ca2095c9727b80ddecd95a2cc",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "58ad77011ed5ce840f645749c90b221403492b273f84a1520ce5cf279e193697",
+      "bytes": 15084
+    },
+    {
+      "name": "p01",
+      "sha256": "bcb9a2d71cf5be2e76deb3df9ce90fd0c5ffd5250812e34fd924bf4d337e91bb",
+      "bytes": 12812
+    },
+    {
+      "name": "p02",
+      "sha256": "8fc9d17804e109b1f9682036a159620d5cf8c27ba9f8a9a3d1bce292e832848a",
+      "bytes": 13432
+    },
+    {
+      "name": "p03",
+      "sha256": "613ff4474c4a58797e8949a320cc81466bac165bfa2908c0a519d6e8ee594d51",
+      "bytes": 12906
+    },
+    {
+      "name": "p04",
+      "sha256": "00654bcf277e5f0a443567272176b5464703544d3d39733cefdf1e86dc6ef908",
+      "bytes": 13220
+    },
+    {
+      "name": "p05",
+      "sha256": "618ff81cb11902097aee958b2e587a9f61b2924e829ca1974cbbc9095d9c6cba",
+      "bytes": 13938
+    },
+    {
+      "name": "p06",
+      "sha256": "fcd4785256c748566ffa48bb08b16c80531376a139395385367c76f7d26586d9",
+      "bytes": 14928
+    },
+    {
+      "name": "p07",
+      "sha256": "b73bcd0e44f4c43a7e2c027024edde8312bcc53dc4292d3477fd94a980029900",
+      "bytes": 12374
+    },
+    {
+      "name": "p08",
+      "sha256": "b0618c846a1168e2baa483c89935537353586f650dbb95e2af5c9755b2b24dee",
+      "bytes": 12334
+    },
+    {
+      "name": "p09",
+      "sha256": "139a90a910674c7afd1d5f38d751fe129ea2eaf53a870fcf53d2402e302b8252",
+      "bytes": 12742
+    },
+    {
+      "name": "p10",
+      "sha256": "5fc91d5be25d43d660abcca82a580f279f538228931e1e873aada05197901fed",
+      "bytes": 13496
+    },
+    {
+      "name": "p11",
+      "sha256": "b19fddf4c4f445e5036a4f1b991d8a9fe68a56f941215189aeadbd30ccd14fde",
+      "bytes": 13778
+    },
+    {
+      "name": "p12",
+      "sha256": "4918b46e3ddaa61088e90fea2b1fdb2bae239e35483f2d6ffb054c4a7888c76f",
+      "bytes": 14036
+    },
+    {
+      "name": "p13",
+      "sha256": "d5eff00783bfe37b29e23857fad1b4cdd96261f154af406630d957b9c740813d",
+      "bytes": 14450
+    },
+    {
+      "name": "p14",
+      "sha256": "a008537fdb432473f9a38ee4d8ebbf4eea11c07e3f342acb623060ef67a3a02e",
+      "bytes": 12976
+    },
+    {
+      "name": "p15",
+      "sha256": "236cfa60ee7fd0cb45e8212b66d6946aeea9dd11040db94321030d7e63dd5ca9",
+      "bytes": 11942
+    },
+    {
+      "name": "p16",
+      "sha256": "28c02d58c04b993acb6dbc737e424565869e4902267a7fff0d30563b12bd67d6",
+      "bytes": 13768
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

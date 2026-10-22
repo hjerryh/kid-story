@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0301",
+  "title": "问问长到了苹果那么大",
+  "version": 1,
+  "bodyCharacters": 1046,
+  "pages": 12,
+  "duration": 310.914,
+  "bodySha256": "2a748fc3961b595724577bd3a2294154e92f8a51776cb30249094b22e4ed3872",
+  "audioSha256": "a5ef60065a48eef5016ed843042973362a756d80a91307672810b61467b54a86",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "22fb930a4f1b6487446df13729b3183c6cd53bee922502e3eb786ccdd0ae98fa",
+      "bytes": 15448
+    },
+    {
+      "name": "p01",
+      "sha256": "e5c0104df024c3d0dc0ac95b2694289d1dc4674a1e8d6e2446b4d6bdb1ca9424",
+      "bytes": 11040
+    },
+    {
+      "name": "p02",
+      "sha256": "f242a32de7163fc490f560e0aada041d5caa578dd601e6f43d3db3ef89c6c12b",
+      "bytes": 12582
+    },
+    {
+      "name": "p03",
+      "sha256": "de4d5b01b0557bb0b0a49fc4c1cae66f2221bd8b9b80d51a2ba8527bf66c4b81",
+      "bytes": 13272
+    },
+    {
+      "name": "p04",
+      "sha256": "653ff78124fdcbaee2c8604b193b456d26936ce8ec29650b8798ead50ad8afaf",
+      "bytes": 13656
+    },
+    {
+      "name": "p05",
+      "sha256": "8f8aa91b1e0a21b7638f4d7dcbb356e8a857858469c127dd2fb0ce9d8bb4a100",
+      "bytes": 13646
+    },
+    {
+      "name": "p06",
+      "sha256": "c28e40d5967199d21a90d20682c188646793ff590f508bfcf2cf8abab2110218",
+      "bytes": 14210
+    },
+    {
+      "name": "p07",
+      "sha256": "ea452503361e1e9e977b7928cc4e79cf0a0f54bc744328df0f924f101282b625",
+      "bytes": 14002
+    },
+    {
+      "name": "p08",
+      "sha256": "ee2617a70637a4e3500dd3f40bdf44b17128f25f179f5a81be4ac50d96803a9c",
+      "bytes": 14572
+    },
+    {
+      "name": "p09",
+      "sha256": "c57894be5a511cf66e1f791b9e2f226c64cfb98dca67304a1291cacc7915d5a4",
+      "bytes": 13298
+    },
+    {
+      "name": "p10",
+      "sha256": "59df2d40744f6fe22ac19395712746948962aa7bf45a6d8f61bf2052bb50d46b",
+      "bytes": 12694
+    },
+    {
+      "name": "p11",
+      "sha256": "6b543b36cc3bb4b2c553cdeeb178cfa64b5a9deb5c2f4e4193ce3f9ce6b6964e",
+      "bytes": 10918
+    },
+    {
+      "name": "p12",
+      "sha256": "ddb39186217aba11f16b67d821c2a9cce73e1c9d2d0f9b6638d1078db52156a5",
+      "bytes": 11210
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0296",
+  "version": 1,
+  "status": "media-ready",
+  "title": "绒点先要了一小口",
+  "subtitle": "先尝一小口",
+  "description": "松果游乐场的冰糕车请绒点挑一种新口味，可“清清凉凉”究竟是什么滋味？绒点猜了又猜，终于说出自己不知道，也找到了一口一口尝明白的办法。",
+  "ageBand": "3-5",
+  "theme": "未知的滋味",
+  "color": "#91C9B0",
+  "character": "小鼹鼠绒点有灰褐色短毛、圆鼻头，穿湖蓝色背带裤，戴米白色小帽。冰糕车有薄荷绿车身、两只木轮和一把条纹伞，车头长着圆眼睛与弯嘴巴，柜台两侧有能取杯舀冰糕的短木手臂。",
+  "cover": "/library/stories/expansion-0296/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 151.666,
+  "detailUrl": "/library/stories/expansion-0296/v1/story.json",
+  "audio": "/library/stories/expansion-0296/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "松果游乐场里，冰糕车摇着两只木轮，慢悠悠地走来了。小鼹鼠绒点玩累了，想挑一份冰糕，坐到树下吃。车子眨眨眼：“今天有新口味，清清凉凉的薄荷！”",
+      "image": "/library/stories/expansion-0296/v1/p01.webp",
+      "start": 0,
+      "end": 18.59
+    },
+    {
+      "id": "p02",
+      "text": "浅绿色的冰糕，像绒点帽子上的一道树影。他想，绿色大概是青草味吧。可是，他没有吃过青草，也没有尝过薄荷。“它是不是甜甜的叶子？”绒点摸摸帽子问。",
+      "image": "/library/stories/expansion-0296/v1/p02.webp",
+      "start": 18.59,
+      "end": 38.116
+    },
+    {
+      "id": "p03",
+      "text": "“有点甜，还有一点凉。”车子说。绒点张开嘴，接了一小口树下的风。风凉凉的，却没有味道。他又看看冰糕，鼻头皱起来：这么一大份，要是不喜欢怎么办？",
+      "image": "/library/stories/expansion-0296/v1/p03.webp",
+      "start": 38.116,
+      "end": 57.594
+    },
+    {
+      "id": "p04",
+      "text": "绒点把差点说出口的“我要”咽了回去。“我不知道薄荷是什么味道。能不能先尝一点点？”他用手指比了小小的一点。冰糕车笑了，打开旁边一个小盒子。",
+      "image": "/library/stories/expansion-0296/v1/p04.webp",
+      "start": 57.594,
+      "end": 75.488
+    },
+    {
+      "id": "p05",
+      "text": "小纸杯里只有一小口，配着一把干净小勺。绒点尝了尝，舌尖甜，嘴里凉，鼻子里还有一股陌生的香。他抿抿嘴：“原来是这样呀。不过，我不想吃一大份。”",
+      "image": "/library/stories/expansion-0296/v1/p05.webp",
+      "start": 75.488,
+      "end": 94.366
+    },
+    {
+      "id": "p06",
+      "text": "“那就看看别的。”车子揭开另一只盒盖。“这是黄瓜冰糕。”绒点认识黄瓜，可黄瓜冻起来，他也没尝过。这回，他没有急着选，又要了一小杯，用新勺子尝。",
+      "image": "/library/stories/expansion-0296/v1/p06.webp",
+      "start": 94.366,
+      "end": 113.436
+    },
+    {
+      "id": "p07",
+      "text": "这一口有淡淡的黄瓜香，像家里午饭时闻到的味道。绒点舔舔嘴角，眼睛弯了：“我喜欢这个，请给我一小碗。”车子舀起圆圆的一球，轻轻放进他的小碗里。",
+      "image": "/library/stories/expansion-0296/v1/p07.webp",
+      "start": 113.436,
+      "end": 131.498
+    },
+    {
+      "id": "p08",
+      "text": "绒点坐上长椅，一小勺，一小勺，吃得慢慢的。冰糕车从旁边经过，木轮轻轻响。他朝车子挥挥勺子。树叶也摇了摇，把一小片清凉的影子，放在他圆圆的鼻头上。",
+      "image": "/library/stories/expansion-0296/v1/p08.webp",
+      "start": 131.498,
+      "end": 151.666
+    }
+  ],
+  "buildHash": "d7b924063075803a7cd3c8b98c2afd8ca9e555ab30561cfdd8509bba76f5c0c7"
+}

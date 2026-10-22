@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0291",
+  "version": 1,
+  "status": "media-ready",
+  "title": "四条腿的叶子藏好了",
+  "subtitle": "绿叶下面有四条腿",
+  "description": "团栗和叶子小马在橘子温室玩捉迷藏。小马藏进绿叶，又变成黄叶的颜色，团栗怎么也找不到。他停下脚步，发现自己一直漏看了小马身上的一样东西。",
+  "ageBand": "3-5",
+  "theme": "细看与发现",
+  "color": "#EDA449",
+  "character": "小鼹鼠团栗：深灰色绒毛，圆鼻头，穿湖蓝色背带裤，戴米白色软帽。叶子小马：手掌大小，身体像一片长叶，四条细腿，叶柄似的尾巴，身上颜色会变得和贴近的叶子一样。",
+  "cover": "/library/stories/expansion-0291/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 160.546,
+  "detailUrl": "/library/stories/expansion-0291/v1/story.json",
+  "audio": "/library/stories/expansion-0291/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "橘子温室里，团栗认识了一匹叶子小马。小马只有他的手掌大，贴近绿叶就变绿，贴近黄叶就变黄。“来捉迷藏吧！”小马说，“我藏在低低的地方，你不用爬树。”",
+      "image": "/library/stories/expansion-0291/v1/p01.webp",
+      "start": 0,
+      "end": 19.094
+    },
+    {
+      "id": "p02",
+      "text": "团栗闭眼数到十，再睁开眼。小马不见了，眼前全是绿叶。他看看这片，摸摸那片。“找到啦！”可是，那片叶子没有回答，只有一点橘香沾在他的鼻头上。",
+      "image": "/library/stories/expansion-0291/v1/p02.webp",
+      "start": 19.094,
+      "end": 39.028
+    },
+    {
+      "id": "p03",
+      "text": "盆边有片黄叶。团栗跑过去，小声说：“这回是你吧？”黄叶还是黄叶。旁边传来细细的笑声。“我就在附近。”小马说。团栗转了两圈，帽子都歪了，仍没找到。",
+      "image": "/library/stories/expansion-0291/v1/p03.webp",
+      "start": 39.028,
+      "end": 60.138
+    },
+    {
+      "id": "p04",
+      "text": "团栗有点累，坐到矮凳上。他把帽子扶正，不再急着伸手。面前一根枝条上，有长叶，有圆叶，还有被虫子咬过一口的叶。咦，它们都没有小马那样的四条腿。",
+      "image": "/library/stories/expansion-0291/v1/p04.webp",
+      "start": 60.138,
+      "end": 78.872
+    },
+    {
+      "id": "p05",
+      "text": "他先看一片叶子的边，再看下一片。宽宽的绿叶下面，伸着几根细细的东西。团栗没有扑过去。他歪着头，慢慢数：一条，两条，三条，四条。最小的那条还弯了一下。",
+      "image": "/library/stories/expansion-0291/v1/p05.webp",
+      "start": 78.872,
+      "end": 99.742
+    },
+    {
+      "id": "p06",
+      "text": "“找到你啦，四条腿的叶子！”团栗轻轻说。小马笑得肚皮一抖，从叶子后面探出头。“你怎么认出来的？”“叶子不会把腿弯起来呀。”团栗笑了，鼻头差点碰着马鼻头。",
+      "image": "/library/stories/expansion-0291/v1/p06.webp",
+      "start": 99.742,
+      "end": 120.156
+    },
+    {
+      "id": "p07",
+      "text": "这回轮到团栗藏。他躲到大花盆后面，把帽子也收进去。小马闭眼数数。团栗低头一瞧，自己的小尾巴还露在外头。他刚想往里挪，又停住了，悄悄抿起嘴巴。",
+      "image": "/library/stories/expansion-0291/v1/p07.webp",
+      "start": 120.156,
+      "end": 140.066
+    },
+    {
+      "id": "p08",
+      "text": "小马走过来，先看盆口，再看盆边，最后低下头。“找到你啦，有尾巴的花盆！”团栗噗地笑出了声。温室暖暖的，一小片阳光照着他们，连那条没藏好的尾巴也暖暖的。",
+      "image": "/library/stories/expansion-0291/v1/p08.webp",
+      "start": 140.066,
+      "end": 160.546
+    }
+  ],
+  "buildHash": "8cfa249a08fa2809ba7d892fd6af16f4500f8c5b0be98a312f8def208f173dd1"
+}

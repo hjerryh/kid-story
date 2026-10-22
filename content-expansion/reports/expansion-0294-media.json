@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0294",
+  "title": "陶陶认得滴答了",
+  "version": 1,
+  "bodyCharacters": 519,
+  "pages": 8,
+  "duration": 173.746,
+  "bodySha256": "871f969651ebea8361e2eba6bf36764acf7920f42dd3bba18e218b14e57f9fed",
+  "audioSha256": "046a60465a45a944728f1be619fd8fe87c6b224513659077ec5128494789b548",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "580eb2ad736057ad9b8a06247da74336d5426402b69840108f260bb0877c6bb1",
+      "bytes": 18300
+    },
+    {
+      "name": "p01",
+      "sha256": "4cb63661c06fd14881b3816e4d5177fa2075b4520d33cad3e7de85d08668b41b",
+      "bytes": 14078
+    },
+    {
+      "name": "p02",
+      "sha256": "2c95a40541048dccc507f9c718b19cdd71479562861a6212cb025542ef6c6cd3",
+      "bytes": 14272
+    },
+    {
+      "name": "p03",
+      "sha256": "bda159d36c2c69987093a59f2c0bd4e41a6fd2bfbd6c917cd077302176d6c891",
+      "bytes": 14120
+    },
+    {
+      "name": "p04",
+      "sha256": "23b5e2d429acfbf2a17427d9704d488d86c7c129938dba256c59b0e544440a5f",
+      "bytes": 14128
+    },
+    {
+      "name": "p05",
+      "sha256": "1f6d511f601aca656e60c886a923b7e37b852ee7a932e90707e346219fa845ec",
+      "bytes": 14202
+    },
+    {
+      "name": "p06",
+      "sha256": "1ac6414ad3d506530640d64af558067acad2516e79a0866ce6c76024972dc6da",
+      "bytes": 14056
+    },
+    {
+      "name": "p07",
+      "sha256": "5f38e2384fb902207c39992191c202376127067f2eb9d93c4a78bbca51e69a51",
+      "bytes": 15096
+    },
+    {
+      "name": "p08",
+      "sha256": "2aa9415691068aef6923d7d23510399afcff111533a38cab56520f45976c3e8e",
+      "bytes": 14580
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

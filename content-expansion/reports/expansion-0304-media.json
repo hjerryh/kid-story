@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0304",
+  "title": "阿榧补上了三只眼睛",
+  "version": 1,
+  "bodyCharacters": 1075,
+  "pages": 12,
+  "duration": 320.514,
+  "bodySha256": "7bcdf85bf9d547024f471913697861e781695e22e9584951652aa33db2871d19",
+  "audioSha256": "4e85266c256a4de1bc9a4869b2b7e48aabc6ee99f34e55a790d2558838e25491",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5f8621d259b4b1f804501a7e7e84aa420415f86c0d603caaae5ed03e66c2f70e",
+      "bytes": 6884
+    },
+    {
+      "name": "p01",
+      "sha256": "534d732c8e6b56e854da77125bd873991c6862f2b27c95cb9d26c2d38f4a6743",
+      "bytes": 8634
+    },
+    {
+      "name": "p02",
+      "sha256": "f9c18a4c8a862dbed2c4cf7ce346f47a183b9d6829bfaa02c1efc7c9eb693374",
+      "bytes": 8436
+    },
+    {
+      "name": "p03",
+      "sha256": "dfc7bfc3b639d0c1130fdf9740e9f62c6c53d68278738a3807ce98b5d4323947",
+      "bytes": 9066
+    },
+    {
+      "name": "p04",
+      "sha256": "4823242720c1a5a40b472b9b4305fbfb41bcece816df18de30a8828edf131e0c",
+      "bytes": 8674
+    },
+    {
+      "name": "p05",
+      "sha256": "ec166cfe76678755db25b8dea4a62e0e435386730e7007c7ad4484e85cd0d738",
+      "bytes": 8910
+    },
+    {
+      "name": "p06",
+      "sha256": "f9c79207801b20d190a7079f6318adf305040cf9fd7befdca57b9e74ce7c7856",
+      "bytes": 9166
+    },
+    {
+      "name": "p07",
+      "sha256": "fe94dcbc4232477a6aefc5b55358314648a255c58d9c013cae1f66aedefdc1b0",
+      "bytes": 9322
+    },
+    {
+      "name": "p08",
+      "sha256": "9c8bd933ec8837ddfc0fb2f392bc8163c16c33085d63a513fe64cdbda0a5b434",
+      "bytes": 8634
+    },
+    {
+      "name": "p09",
+      "sha256": "71240ec69174fc1ca51bc617bb8c93a112699a7a41305f58853611a0744586de",
+      "bytes": 6038
+    },
+    {
+      "name": "p10",
+      "sha256": "43873ab2ed70937bc284e2886887a1eedbf88d72fbeab0fc107f70a38e03c9a7",
+      "bytes": 8268
+    },
+    {
+      "name": "p11",
+      "sha256": "6f08cdee2dcc90eae2bdb7e2e7555023e9135134e7dfa7f0d18ab6bb9279219c",
+      "bytes": 9430
+    },
+    {
+      "name": "p12",
+      "sha256": "07062b300b9bdf4543e3b170a7bf0bfa65c841b3e75e36b968e5c79dd6ccb2bb",
+      "bytes": 5834
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

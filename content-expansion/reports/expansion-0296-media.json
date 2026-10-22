@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0296",
+  "title": "绒点先要了一小口",
+  "version": 1,
+  "bodyCharacters": 473,
+  "pages": 8,
+  "duration": 151.666,
+  "bodySha256": "bf1a55c489b83d523f45dfdf63a70681840819703b794400b48d7df8d8aaef63",
+  "audioSha256": "590deef62de66d64f971de70d849f62df1ba1d139e5b88a89444a671cbd0b600",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "75833b90a0cd3b8c8a2d2ae01de320fe56dbc92972ad791058c49964d5370803",
+      "bytes": 16868
+    },
+    {
+      "name": "p01",
+      "sha256": "dd8d422e17aa64d19c3af0261193cea84d5261c9927a193a44b618ced3108751",
+      "bytes": 16272
+    },
+    {
+      "name": "p02",
+      "sha256": "eaa7a5eb31e02b75406c33dc6c3715b620d47b15d99027a01bfe4d61d94241a0",
+      "bytes": 15564
+    },
+    {
+      "name": "p03",
+      "sha256": "d0714e05d76f6a945cc515d7f58a6bdd84c1a1795c1a0b753ec6e9ba744af1c6",
+      "bytes": 15728
+    },
+    {
+      "name": "p04",
+      "sha256": "814ff8dbfa5741096a093fc2c65e77493a526def87033ab70bdd5095f0d2d8ff",
+      "bytes": 15782
+    },
+    {
+      "name": "p05",
+      "sha256": "c9bc86b7c3a0ed8eacd1a73c5b75371758d11892e469bffb1381186c8cf26eb9",
+      "bytes": 15868
+    },
+    {
+      "name": "p06",
+      "sha256": "be5a7966751ce940c31c3bc29a2e07ed1977f992778327bb404d163065dceeee",
+      "bytes": 16054
+    },
+    {
+      "name": "p07",
+      "sha256": "c96162c085aee03904ae8c14855232dd74964d760638fe8fa9b68670d2850cab",
+      "bytes": 16182
+    },
+    {
+      "name": "p08",
+      "sha256": "9ec004153e78aebb517b506a48fb70e31829bc8deed02ad57cbc64d3e8b4e9f3",
+      "bytes": 14410
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

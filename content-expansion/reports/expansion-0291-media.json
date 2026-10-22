@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0291",
+  "title": "四条腿的叶子藏好了",
+  "version": 1,
+  "bodyCharacters": 481,
+  "pages": 8,
+  "duration": 160.546,
+  "bodySha256": "8be4606b3ee48fd117d12712a43e6a18c54081cd606245a7d4943e0a864a098f",
+  "audioSha256": "edb90651dc68bf82a3836c776c3a7903ccde996da434f05b08b723476d82e2f6",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "223592ed268d679c74f871df057b7fb0d2d5fda6ed7f6fdc7dd280121de76986",
+      "bytes": 20340
+    },
+    {
+      "name": "p01",
+      "sha256": "d51ddd146a88e9a945e0d08f030f91ab0b6101f593c13a0c94fc071f634ad7c1",
+      "bytes": 19722
+    },
+    {
+      "name": "p02",
+      "sha256": "448c5bda2b0eb76a11bfd4c709e837b06acccee877d6055d1b63cb6a00f14b79",
+      "bytes": 19196
+    },
+    {
+      "name": "p03",
+      "sha256": "abfb5600d893640c665d565f95231b9dd1a4b184263d77c60dabd027e794140f",
+      "bytes": 19010
+    },
+    {
+      "name": "p04",
+      "sha256": "7b5d8fa4f90db72e14088c217a6e080d3898701626fa19cc77bbcd6566c0b2cb",
+      "bytes": 20160
+    },
+    {
+      "name": "p05",
+      "sha256": "154fd093567619129167c767591d3ba5b5f897c70d1feb56428f3b1cfa74e81f",
+      "bytes": 20162
+    },
+    {
+      "name": "p06",
+      "sha256": "b19817f4202f910e75078d374340abbc171d2d08097a981d81680d457f2e56b0",
+      "bytes": 20454
+    },
+    {
+      "name": "p07",
+      "sha256": "e0f78f0608e4ebd8f0b68163ab47a484267026d77e0a08fa6dacb4fa7b232176",
+      "bytes": 21842
+    },
+    {
+      "name": "p08",
+      "sha256": "c592ec68a124aa578f179d45beb0ec1423b7af1fea8979efd85637e1d683c1c7",
+      "bytes": 22630
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

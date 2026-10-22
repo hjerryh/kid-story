@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0297",
+  "title": "小桥下面叮了一声",
+  "version": 1,
+  "bodyCharacters": 955,
+  "pages": 12,
+  "duration": 285.81,
+  "bodySha256": "ec063086f8d9afce48aee10d63b4925d3ebb97c6e8e02a08178f74c5c4b6642e",
+  "audioSha256": "59e5b7301f5dceb0eb9b31354f963e4ecfbc5e688a40edd4fdde5a12dbab4bad",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "21e8342d3fc072222a7d4d10f73ca38cfc50ecd76973cb0de2d4cab6cd489c97",
+      "bytes": 18462
+    },
+    {
+      "name": "p01",
+      "sha256": "2db70868c00ae8f198263947878affde3320b22d146bfbf5f5159718643d0632",
+      "bytes": 10062
+    },
+    {
+      "name": "p02",
+      "sha256": "5c1946782754e33758d60bde7c94f35123fa18182538d5d9f1814898e650da40",
+      "bytes": 9758
+    },
+    {
+      "name": "p03",
+      "sha256": "204a5a1f4676a26a5b04b0a117d85e8c1f4fc78f87dd82aa724124d2b757ba6a",
+      "bytes": 15502
+    },
+    {
+      "name": "p04",
+      "sha256": "f1602b6698bc3fe0ced242b6c2ae24b3dd3ea1facf62673a1168067084c069d4",
+      "bytes": 14502
+    },
+    {
+      "name": "p05",
+      "sha256": "a6d4107369600e3619cc3a80d527df0fa3c84089e383a62ed1c3702a3a3f2dcd",
+      "bytes": 14698
+    },
+    {
+      "name": "p06",
+      "sha256": "f594ace85312df1ab7cf007db5ae77752deb5ae419b826ea44c73c49952cfc18",
+      "bytes": 10634
+    },
+    {
+      "name": "p07",
+      "sha256": "7d5df1f536e896d3dfe29c24a0f720d332c3ed574d1d605e00c654e14f9e16de",
+      "bytes": 10400
+    },
+    {
+      "name": "p08",
+      "sha256": "552ae1583abed73c5fb321a239f6d390f039e78583704de6c2da3c96282fbf38",
+      "bytes": 14302
+    },
+    {
+      "name": "p09",
+      "sha256": "3405cb2c716f64b76889fc86be832cfe493eae3d065de118ac6d46f9a3bda2a7",
+      "bytes": 16954
+    },
+    {
+      "name": "p10",
+      "sha256": "69ad4ca2ab672b7cdf0bad03b9c943e43f7ef743e1dc31d5f5b3cda9c5012205",
+      "bytes": 17228
+    },
+    {
+      "name": "p11",
+      "sha256": "0347c9fce8fd0205238732d10276c515e8063396129aeaf40681a18ab1abd938",
+      "bytes": 15782
+    },
+    {
+      "name": "p12",
+      "sha256": "4434ab7fafc978f910aff3c4c282441732e8527f785965023c6630e7e5803bd7",
+      "bytes": 12994
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

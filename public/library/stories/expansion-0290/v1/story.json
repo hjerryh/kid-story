@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0290",
+  "version": 1,
+  "status": "media-ready",
+  "title": "兜兜的补丁住里面",
+  "subtitle": "紫蝴蝶留在外面",
+  "description": "湖心果摊的围裙兜兜破了口袋。圆芦想把它补好，可新布会盖住一块藏着快乐往事的紫色果汁印。怎样才能让口袋重新装东西，也让那块小印子留下来？",
+  "ageBand": "3-5",
+  "theme": "旧物与回忆",
+  "color": "#B59AC8",
+  "character": "小浣熊圆芦：灰褐色绒毛，黑眼圈，蓬松环纹尾巴，穿浅绿色短背带裤。围裙兜兜：米白色布围裙，胸前有两颗黑线绣眼睛，宽口袋左边有一块紫色果汁印，系带能像小手一样活动。",
+  "cover": "/library/stories/expansion-0290/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 151.282,
+  "detailUrl": "/library/stories/expansion-0290/v1/story.json",
+  "audio": "/library/stories/expansion-0290/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "湖心果摊上，圆芦有一条会说话的围裙，叫兜兜。它总用两根系带抱住圆芦的腰。今天，一只木夹从它的口袋里掉了出来。兜兜低头瞧瞧：“哎呀，我漏东西啦！”",
+      "image": "/library/stories/expansion-0290/v1/p01.webp",
+      "start": 0,
+      "end": 19.406
+    },
+    {
+      "id": "p02",
+      "text": "圆芦把兜兜铺在桌上。口袋裂了一道口子，旁边有块紫印子，像只胖蝴蝶。那是上次和外婆吃桑葚留下的。圆芦摸摸破口：“我把你补好，你就能接着陪我做事了。”",
+      "image": "/library/stories/expansion-0290/v1/p02.webp",
+      "start": 19.406,
+      "end": 38.596
+    },
+    {
+      "id": "p03",
+      "text": "他找来一块蓝布和布胶，把蓝布盖在破口上。大小正好，可紫蝴蝶不见了。兜兜伸出系带，轻轻推开布角：“能留下它吗？那天，你和外婆都笑出了紫牙齿。”",
+      "image": "/library/stories/expansion-0290/v1/p03.webp",
+      "start": 38.596,
+      "end": 57.282
+    },
+    {
+      "id": "p04",
+      "text": "圆芦也笑了。他换一块小黄布，紫蝴蝶露出来了，破口却还张着嘴。他把黄布往旁边挪，另一头又露了出来。“唔，补丁太小啦。”圆芦托着脸，看了好一会儿。",
+      "image": "/library/stories/expansion-0290/v1/p04.webp",
+      "start": 57.282,
+      "end": 76.352
+    },
+    {
+      "id": "p05",
+      "text": "兜兜把一根系带伸进口袋，摸摸破口的位置。系带从破口里露出一点，像条小尾巴。圆芦忽然凑近了：“咦，我能看见里面！布也能住在里面呀。”",
+      "image": "/library/stories/expansion-0290/v1/p05.webp",
+      "start": 76.352,
+      "end": 93.862
+    },
+    {
+      "id": "p06",
+      "text": "圆芦把蓝布塞进口袋，平平地铺在破口下面。他在破口四周涂上布胶，轻轻按好。蓝布贴在里面，紫蝴蝶留在外面。兜兜躺着等胶干，圆芦就在旁边整理水果筐。",
+      "image": "/library/stories/expansion-0290/v1/p06.webp",
+      "start": 93.862,
+      "end": 114.228
+    },
+    {
+      "id": "p07",
+      "text": "等布胶干透，圆芦先放进一只木夹，又放进一只。兜兜晃晃口袋，两只木夹都稳稳待着。它高兴地摆起系带：“我的肚子补好啦！紫蝴蝶也没有搬家，真好呀。”",
+      "image": "/library/stories/expansion-0290/v1/p07.webp",
+      "start": 114.228,
+      "end": 132.962
+    },
+    {
+      "id": "p08",
+      "text": "圆芦重新系上兜兜，给擦干净的果筐夹好布盖。紫蝴蝶跟着他一上一下。兜兜小声问：“你还记得外婆的紫牙齿吗？”圆芦咧嘴一笑：“记得，我的比她还紫呢！”",
+      "image": "/library/stories/expansion-0290/v1/p08.webp",
+      "start": 132.962,
+      "end": 151.282
+    }
+  ],
+  "buildHash": "4c0859b4af4658ec694d6a8e00da070286ba600fed658cd4763b30f264786f92"
+}

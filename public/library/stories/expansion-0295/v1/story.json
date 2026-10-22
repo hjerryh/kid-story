@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0295",
+  "version": 1,
+  "status": "media-ready",
+  "title": "纸雪花还想跳一会儿",
+  "subtitle": "雪花听见谁的歌",
+  "description": "茸笛答应把羽毛剧场的纸雪花收回盒子，可雪花总从盒沿跳出去。扫一回，追一回，她终于发现，让雪花不停跳舞的歌声，就藏在自己嘴巴里。",
+  "ageBand": "3-5",
+  "theme": "小小承诺",
+  "color": "#A9CEDB",
+  "character": "小睡鼠茸笛：浅棕色绒毛，圆耳朵，穿湖蓝色短背心，尾巴细长。白鹅阿蓬：白羽毛，橙色嘴和脚，穿紫色围裙。纸雪花：白色六角纸片，没有五官，听见歌声就会跳起来。",
+  "cover": "/library/stories/expansion-0295/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 171.61,
+  "detailUrl": "/library/stories/expansion-0295/v1/story.json",
+  "audio": "/library/stories/expansion-0295/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "羽毛剧场里，白鹅阿蓬有一盒纸雪花。只要听见歌声，雪花就会跳起来。小睡鼠茸笛想玩一会儿。阿蓬说：“可以呀，玩完请收回盒子。”茸笛点点头，把盒子抱上了舞台。",
+      "image": "/library/stories/expansion-0295/v1/p01.webp",
+      "start": 0,
+      "end": 21.11
+    },
+    {
+      "id": "p02",
+      "text": "茸笛唱起小歌，白雪花蹦过脚背，蹦上肩头，还有一片轻轻碰了碰她的鼻尖。“阿嚏！”她笑得尾巴直打卷。她又唱了一遍，伸开两只小手，让雪花从手心一路跳到手肘。",
+      "image": "/library/stories/expansion-0295/v1/p02.webp",
+      "start": 21.11,
+      "end": 41.932
+    },
+    {
+      "id": "p03",
+      "text": "玩够了，茸笛拿来软扫帚，要把雪花送回家。她一边扫，一边哼着刚才的小歌。扫帚往左，雪花往右；扫帚往右，雪花又蹦过扫帚头。地板上，白色的小点反而铺得更开了。",
+      "image": "/library/stories/expansion-0295/v1/p03.webp",
+      "start": 41.932,
+      "end": 63.186
+    },
+    {
+      "id": "p04",
+      "text": "“那就一片一片捡。”茸笛蹲下来，把三片雪花放进盒子，嘴里的歌还没停。扑，扑，扑！三片又跳了出来。她的耳朵垂下来：“我答应要收好的，你们怎么总想再玩一会儿呢？”",
+      "image": "/library/stories/expansion-0295/v1/p04.webp",
+      "start": 63.186,
+      "end": 83.912
+    },
+    {
+      "id": "p05",
+      "text": "茸笛弯着腰，停下小歌，呼哧呼哧喘口气。咦，雪花全落下了。一片躺在鞋边，一片趴在盒沿，动也不动。她眨眨眼，想起阿蓬的话：“原来，是我一直唱歌，请你们跳舞呀！”",
+      "image": "/library/stories/expansion-0295/v1/p05.webp",
+      "start": 83.912,
+      "end": 105.334
+    },
+    {
+      "id": "p06",
+      "text": "那首歌还想从嘴里溜出来。茸笛轻轻抿住嘴，先把鞋边的雪花捡起来，再把远处的拢到一起。这回，没有一片逃走。她慢慢收，连背心上粘着的那片，也摘下来放进了盒子里。",
+      "image": "/library/stories/expansion-0295/v1/p06.webp",
+      "start": 105.334,
+      "end": 126.612
+    },
+    {
+      "id": "p07",
+      "text": "茸笛又看了看幕帘后面，找到最后一片雪花。她把它放好，盖上盒盖，抱到阿蓬面前。“全收好啦。”阿蓬打开看了一眼，重新盖好，笑着腾出柜子里的一格。茸笛把盒子稳稳地放进去。",
+      "image": "/library/stories/expansion-0295/v1/p07.webp",
+      "start": 126.612,
+      "end": 148.802
+    },
+    {
+      "id": "p08",
+      "text": "现在，茸笛终于可以接着唱了。柜子里传来沙沙、沙沙的轻响。原来雪花在盒子里跳舞呢！她贴近盒子，轻轻打着拍子：“今天的小舞台，变小啦。”沙沙，沙沙，歌声也跟着变得轻轻的。",
+      "image": "/library/stories/expansion-0295/v1/p08.webp",
+      "start": 148.802,
+      "end": 171.61
+    }
+  ],
+  "buildHash": "85fac0a0f693bfe1d68e37f5b14a30c66e1d008e7257cd0de7755dd2ce3c4fb7"
+}

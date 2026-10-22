@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0293",
+  "title": "茸桃坐上了云蜗牛",
+  "version": 1,
+  "bodyCharacters": 500,
+  "pages": 8,
+  "duration": 162.106,
+  "bodySha256": "39a6295aaf0256b73256eaeba72e8918581a18ac5fc2351ac2695ab2fdf0f508",
+  "audioSha256": "57bd3bf3504d356b4ccc9d6b400318a26ae18ca01e5fec8974231ec6d2d1a063",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e89bba98c572c0093d3f41aaa1930f077ce7c93a6d0241c9baec54e9f28f406e",
+      "bytes": 17126
+    },
+    {
+      "name": "p01",
+      "sha256": "1fc1ce1dc6da2bd176b6be9c54e206c6257932a9f0dddf665be11bf97b54fa5d",
+      "bytes": 10160
+    },
+    {
+      "name": "p02",
+      "sha256": "b64fcd8474d5190a6f058fb2ef1b0358c374169d323880354528d1d24b1cb585",
+      "bytes": 14562
+    },
+    {
+      "name": "p03",
+      "sha256": "0ea06c02f722cec333358bda1a3aa63403c04b74626e31828efc39f58157c321",
+      "bytes": 11720
+    },
+    {
+      "name": "p04",
+      "sha256": "49469ed5693a2917b94677d6213da8f0f6a7f4c34765578c32de0e943bb9ef09",
+      "bytes": 11388
+    },
+    {
+      "name": "p05",
+      "sha256": "aa8c6a270497d15ab31463477bbefce8e3b57776d17ae4d117a21b2d9a42272a",
+      "bytes": 12192
+    },
+    {
+      "name": "p06",
+      "sha256": "1f0a1bf1e4050ff5da394237e80cdf4da45d7f2c54ac36c34330f2d6dfab643c",
+      "bytes": 12720
+    },
+    {
+      "name": "p07",
+      "sha256": "d9211ac2a7e1c7579edc71554f7906eb38a9f42f0fa26f02f0033dc600dbd0a2",
+      "bytes": 14186
+    },
+    {
+      "name": "p08",
+      "sha256": "e3d661be4aa4a2db6907e7649f136b7373f19d0653c11d94224514f728e6d4b3",
+      "bytes": 14606
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

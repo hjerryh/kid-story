@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0272",
+  "title": "海的尽头接着一口井",
+  "version": 1,
+  "bodyCharacters": 1516,
+  "pages": 16,
+  "duration": 465.458,
+  "bodySha256": "a0a5ab34047673bb598ad1d90ae1c584bda164ec8e0f2a729d376d0b4c51a676",
+  "audioSha256": "2334ee9990739026fca0ae848a654348fb7753319eb60c595b3028e5952343c2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3d1d27b72e515802d25d7764cf83447fb853cc389e7998155c8a0ab1f284b068",
+      "bytes": 21572
+    },
+    {
+      "name": "p01",
+      "sha256": "2d4ec0c5a0130320e23842a5305d8d3d80e61e7d3284bef7e4c845a6b3501c31",
+      "bytes": 12536
+    },
+    {
+      "name": "p02",
+      "sha256": "0ca47f859233ac4d8b8ac4479383cb384e8fee7c5035ea128d690a1ca30d295d",
+      "bytes": 12234
+    },
+    {
+      "name": "p03",
+      "sha256": "96fd750049f8c9f4a5cb55cbc6d6d46ab95a7a766c02c72171cf726fd87e72c2",
+      "bytes": 12118
+    },
+    {
+      "name": "p04",
+      "sha256": "435b01fce7c7c35355dbf2d9ab0a721ccedd199173e7fbdcda57bee466a0a6e7",
+      "bytes": 9420
+    },
+    {
+      "name": "p05",
+      "sha256": "cdb09ca366c755f205d6fc1d09d60f6268ae41b2803b9f9e17d5ba41e5188e73",
+      "bytes": 11454
+    },
+    {
+      "name": "p06",
+      "sha256": "f7fa4a031131ed224a7a4ccce84baa454f88257cc967dccdf23922d01e23ac11",
+      "bytes": 12512
+    },
+    {
+      "name": "p07",
+      "sha256": "32c6bdb6b74dd991506606532115590873385b01f9df2d2bf8e20c0a99c6261a",
+      "bytes": 12594
+    },
+    {
+      "name": "p08",
+      "sha256": "428f4d64e9e58dec3819b6d50348c44cb7fa199abe1f4f845e017cd880f7ec05",
+      "bytes": 12628
+    },
+    {
+      "name": "p09",
+      "sha256": "bc899a89877b258992f0c47537f28a564bf8b17414cee317c3a76234fecb68aa",
+      "bytes": 12974
+    },
+    {
+      "name": "p10",
+      "sha256": "f92dd097b953dea8353f151fb037264210026aa24e92e99a2683d546b9fee62d",
+      "bytes": 13306
+    },
+    {
+      "name": "p11",
+      "sha256": "6ffc87b81d2aac726a1c7b2f1a1fa7d164ecf6b6791ddaf7358cf1995ccfece3",
+      "bytes": 14780
+    },
+    {
+      "name": "p12",
+      "sha256": "6605c3314a019b6cd05069a31453dee006bb871ddc250e90432e649e3d21a109",
+      "bytes": 10158
+    },
+    {
+      "name": "p13",
+      "sha256": "c4afe285084c9e51a8ea9c29d1ed1a4a0bfc4892212c38176ccb8df1a39ba919",
+      "bytes": 13586
+    },
+    {
+      "name": "p14",
+      "sha256": "823cf427e8695afb6f24a4bb58eb28f6d06a301a2c8e4ab367d7ce581dcda839",
+      "bytes": 17522
+    },
+    {
+      "name": "p15",
+      "sha256": "2f4274698c3292fd9842a8c99109469238c4c038b932808a50211df0231c621a",
+      "bytes": 16972
+    },
+    {
+      "name": "p16",
+      "sha256": "284673fc2e6c2c524d0672e917a6d978d8056f253dfacd7f1b09ff85ef308535",
+      "bytes": 17766
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

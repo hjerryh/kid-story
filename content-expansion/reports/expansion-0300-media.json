@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0300",
+  "title": "船长坐着一片湖上楼",
+  "version": 1,
+  "bodyCharacters": 940,
+  "pages": 12,
+  "duration": 288.138,
+  "bodySha256": "b3dacaefced41c4809ef29e33b0234a998fe444da4941b45288a1efc0f50af3f",
+  "audioSha256": "b42684ee9252145868f4337964f41a4f2f24241eb2c736a22d48be404021cc38",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3064c13c959b397253d6bf899d3c5e80c6b6bc15f49655ae05282b2808bd8bcf",
+      "bytes": 15766
+    },
+    {
+      "name": "p01",
+      "sha256": "3ab1953d24f53a0d3fd9ca3c8a814d5777f99f5583cb027f192e0e3948eb70b5",
+      "bytes": 12052
+    },
+    {
+      "name": "p02",
+      "sha256": "6cf6ddc6a226bd253c89047c44aa5c0bc171b63707a70660caa4ac62dc368566",
+      "bytes": 12004
+    },
+    {
+      "name": "p03",
+      "sha256": "565f921c439a4ffcc38c13c7cb2ada9aa2a0973c9633951838a32aaf4f334c20",
+      "bytes": 12620
+    },
+    {
+      "name": "p04",
+      "sha256": "104af49130c3556a00082e65809c82d934bc947b9de88cc48879e0c3c693248c",
+      "bytes": 12176
+    },
+    {
+      "name": "p05",
+      "sha256": "9514923b6bfd937da13b48c81125aeeb74de305228f1a35d5b13e0b2274e7704",
+      "bytes": 12548
+    },
+    {
+      "name": "p06",
+      "sha256": "c02f5dc68291739fe05503c5519d3b56342aacdd67c37ae27b76b248d3270790",
+      "bytes": 12628
+    },
+    {
+      "name": "p07",
+      "sha256": "434ccc5243f1c64f0918183ba76e3c4450087560334073874283bba42de9ba80",
+      "bytes": 12426
+    },
+    {
+      "name": "p08",
+      "sha256": "8f102ebc8c1fe52433a2d6f52e3daa4819e4ead6bdc1a19ab37df300c6955d9d",
+      "bytes": 12492
+    },
+    {
+      "name": "p09",
+      "sha256": "459522b1d594ce63a8ce64276fecc5d30d05a396c13c7c404e504c2d13bc2262",
+      "bytes": 12474
+    },
+    {
+      "name": "p10",
+      "sha256": "092bd59c1d23f9725c114a41a897d20f3c6f7942ce498429bde3fc0e203eefec",
+      "bytes": 12402
+    },
+    {
+      "name": "p11",
+      "sha256": "22fb6c5dc22d49b10da8f8ebb51ad501a003b9b1ded5d4255d65fae8df4192a8",
+      "bytes": 12082
+    },
+    {
+      "name": "p12",
+      "sha256": "2ea27b60deb0c41d2cc310149d1e191461bba035d289e449bdbe15058533bfa5",
+      "bytes": 12602
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

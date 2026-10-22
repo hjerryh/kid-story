@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0299",
+  "title": "亮着的六格没有走掉",
+  "version": 1,
+  "bodyCharacters": 975,
+  "pages": 12,
+  "duration": 297.114,
+  "bodySha256": "a16bb6cf467cf35d145bb8685692190c1526a132ee5b474a6e564c6cfbb01cee",
+  "audioSha256": "9f39520f8a0639df97d487fa51524cdd7c0470626c9854889ef9ef17f6a0dad0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5862cfb83f3261753810b23bdeef1b5cabbfa0c4a4c7b8439a5dedaa89c4acdc",
+      "bytes": 13864
+    },
+    {
+      "name": "p01",
+      "sha256": "81dcbbed8b986af496698295718c0e279fd60d0c875316a1a8fa144a6214ba20",
+      "bytes": 8492
+    },
+    {
+      "name": "p02",
+      "sha256": "b9c49ee7f1e861214b74b019d6ec05f0215445a6e42d554bc5eae7dcb652bfcd",
+      "bytes": 9616
+    },
+    {
+      "name": "p03",
+      "sha256": "1c2e7f248162031a3aff305d018051bed9df407f757b8bfdc6e2e765db111a11",
+      "bytes": 10052
+    },
+    {
+      "name": "p04",
+      "sha256": "734200cfb93d3527c689fcc1405bfb0bafccdd703b6e407a68d759c429b77736",
+      "bytes": 9634
+    },
+    {
+      "name": "p05",
+      "sha256": "57e0dfe061dfb60b59deeec3a806d333d24b4170460567fff354f6a8e031ce00",
+      "bytes": 10390
+    },
+    {
+      "name": "p06",
+      "sha256": "6486d2b930dd8f01604a46c4d71ad5a8eedc7327a66a57d59a41c657a1a31c53",
+      "bytes": 10390
+    },
+    {
+      "name": "p07",
+      "sha256": "757a0ad8230078243c1c1c30172e9ddd340867fd2f945d8a72b3df920cb6d3c6",
+      "bytes": 10100
+    },
+    {
+      "name": "p08",
+      "sha256": "df0448977302c8ab339964e8e73f9e6046df21ed3b05f0fd19c54f9741b83b31",
+      "bytes": 10250
+    },
+    {
+      "name": "p09",
+      "sha256": "914cf6e7a4c3515e283f18f2ac857f2f1d7be9b2fc29864d5e498609a16046f2",
+      "bytes": 9808
+    },
+    {
+      "name": "p10",
+      "sha256": "0983503e1667bae27609a0b8ed0c1e9b678a88f9265947635960fc870b9aa11a",
+      "bytes": 10232
+    },
+    {
+      "name": "p11",
+      "sha256": "234fc46c1337d425f58d8d113cb541b71d9a33e6c07dca61c4e545bd2824f012",
+      "bytes": 12870
+    },
+    {
+      "name": "p12",
+      "sha256": "48546ff09d8e7e8ccd1fbb80b9191b7db68d0a4f661cbb3862f789187aac9839",
+      "bytes": 10390
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

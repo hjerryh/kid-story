@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0292",
+  "title": "贝壳爷爷骑着沙海豹",
+  "version": 1,
+  "bodyCharacters": 511,
+  "pages": 8,
+  "duration": 162.994,
+  "bodySha256": "37e559d2b269ae30bd4c44cd50ba6f288ebe3f5a2b52c077b6cd3af74c80abb5",
+  "audioSha256": "9ac8eba064fff337061452cf3c92c1628368995c3290ff4eca52d4ca097ea073",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b5017487cb8b9fe33a7d6dd9e93023d1686523b4bea1212c546dee5e23cca556",
+      "bytes": 14924
+    },
+    {
+      "name": "p01",
+      "sha256": "405210ae1f47b7a495d09e5d04d38ed0cc525acf4f8adefb31cb7ffe4253952c",
+      "bytes": 10480
+    },
+    {
+      "name": "p02",
+      "sha256": "40b3f537c6c91f3ba339f641d86d860c2f269a66b2fc7b4c34babc56481ed412",
+      "bytes": 12468
+    },
+    {
+      "name": "p03",
+      "sha256": "91abb399da16afb251710aa03228c3cbc98c743f3a1ad960735bbf67b2121f23",
+      "bytes": 11962
+    },
+    {
+      "name": "p04",
+      "sha256": "76adc0f052916766c80759b6718fe059411abebee64b8b39b75579474b12fab9",
+      "bytes": 12056
+    },
+    {
+      "name": "p05",
+      "sha256": "1b055876b188ebecc452d68d9421fbb237bfa8b4f8ee8ba132619b0744115057",
+      "bytes": 12106
+    },
+    {
+      "name": "p06",
+      "sha256": "576cefe6542ee21bb38ab3c96902af70555d8dc872a5e6e84026e89ac72e894d",
+      "bytes": 12282
+    },
+    {
+      "name": "p07",
+      "sha256": "d9530f15c40ae80db6b3032fb91c02b50f20710b694cbc8fd0667524ace4b3b7",
+      "bytes": 12314
+    },
+    {
+      "name": "p08",
+      "sha256": "62f9ed5cc81afb2af34e543487bf788ec641faa7bf20687fa4ccd22d8aa0b337",
+      "bytes": 11576
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

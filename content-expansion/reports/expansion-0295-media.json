@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0295",
+  "title": "纸雪花还想跳一会儿",
+  "version": 1,
+  "bodyCharacters": 527,
+  "pages": 8,
+  "duration": 171.61,
+  "bodySha256": "3cbbda175181de9de2eee036a1531b354dc37ee5753157c79563abcb326c4cb5",
+  "audioSha256": "f2faead27d5b3d3ad14fa89d205da4f5011506aa4df0929abdfc494cbec9f3ed",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e0b2b16beab4211a8c9955a9e71359dac9a67794fd50e778e5aafc04ea1dca67",
+      "bytes": 17434
+    },
+    {
+      "name": "p01",
+      "sha256": "bc10577747d6134508f61135842bbbe3fa0de88f6467226ffaa136dbd7bf1dc5",
+      "bytes": 15688
+    },
+    {
+      "name": "p02",
+      "sha256": "683c1b981a819b7b4989886e5a3d9e79d462eb38c6ce73d7e0bb0f06f45fc17c",
+      "bytes": 14026
+    },
+    {
+      "name": "p03",
+      "sha256": "2b5f2a5ce5f287d7904378d0256d99bf52f1276fa3ad69fb6b5940c101d15071",
+      "bytes": 15388
+    },
+    {
+      "name": "p04",
+      "sha256": "4cffc865f20e9f5a765e33ce8c67b0bfa99bc518553ca428ce59d11da88c0593",
+      "bytes": 14046
+    },
+    {
+      "name": "p05",
+      "sha256": "9f03dddd2630c1a776d14e8c294fee4940bf75dd2a82893fc0fe239daa1c23fa",
+      "bytes": 14770
+    },
+    {
+      "name": "p06",
+      "sha256": "68d0845b2d9ecdeabad578d8a1a129f6155cea7d2847255a8a620c67711ef824",
+      "bytes": 13102
+    },
+    {
+      "name": "p07",
+      "sha256": "6c0cf3246fe215d928520861825c8ade5d791cb5d200fc0c4a0dab659d06ab51",
+      "bytes": 14608
+    },
+    {
+      "name": "p08",
+      "sha256": "d2313f1c537c7c3ba3a5d259b83f54d91a3c58c0ca9239ae6277336dfca8c9af",
+      "bytes": 14154
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

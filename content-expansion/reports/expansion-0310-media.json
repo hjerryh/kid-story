@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0310",
+  "title": "贝缝两边都是那一天",
+  "version": 1,
+  "bodyCharacters": 952,
+  "pages": 12,
+  "duration": 283.77,
+  "bodySha256": "e17a442fa1df55c1d90c4682e082fcf09335b126d68e444b65068cbbbde96d48",
+  "audioSha256": "babee5c3fe3ab135e5295456f35fee9a7ad909f9f360d361308dcd93039c6721",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d002578476f50bf3a13a8993bcbfbbb2fb08ae8fc7d41d371f95e02ddfc13195",
+      "bytes": 16676
+    },
+    {
+      "name": "p01",
+      "sha256": "be56ce22cca047164a49508b5f33650f40ea6f441265e0ebc7e953e8e7f1d387",
+      "bytes": 7514
+    },
+    {
+      "name": "p02",
+      "sha256": "8d0fbc2958f7d067ce76a2f7417858ff73cefe1869aa57a6839a1eae028b7fbe",
+      "bytes": 9984
+    },
+    {
+      "name": "p03",
+      "sha256": "e9f9007c2d52c1f8c30473593fd5ea55efb8afc63991db63681c81813fb9ad0a",
+      "bytes": 12148
+    },
+    {
+      "name": "p04",
+      "sha256": "877e831fbfc68e3439b08721fd0fdbd6ecd46f7d22cc3f4564b1e4a56a5ca34d",
+      "bytes": 12756
+    },
+    {
+      "name": "p05",
+      "sha256": "d2619237c05bb546997b4afaea039061ca60ae364a3d114a2762ea85712161bf",
+      "bytes": 14032
+    },
+    {
+      "name": "p06",
+      "sha256": "942d8a8b34bf51416564a324b7a443e41ef79b78c5ae581a28431813f5b379ac",
+      "bytes": 13212
+    },
+    {
+      "name": "p07",
+      "sha256": "8f8d4ba0f36fb0fd0549ad19d7b95a8187b6bb9c2a9f4e6f4edc1e3ae7d29db6",
+      "bytes": 10494
+    },
+    {
+      "name": "p08",
+      "sha256": "2cc88e005b4910497a0ee5dddb6e720b466deaebbfeab6eacbc906cd2b0e8889",
+      "bytes": 8888
+    },
+    {
+      "name": "p09",
+      "sha256": "77a7bf60cea2827d6cd4994f8eae9c6f192cc6eab8ace9cc26adad5d1e236826",
+      "bytes": 10700
+    },
+    {
+      "name": "p10",
+      "sha256": "e977c9460386e77d88b36606fc9a95cd802ba94ccb49695067a68962eacd6e48",
+      "bytes": 12842
+    },
+    {
+      "name": "p11",
+      "sha256": "d6af265e1acbc97f010b4df92d808f8e295d8e976ccec34cac50f8f725a03c6b",
+      "bytes": 13572
+    },
+    {
+      "name": "p12",
+      "sha256": "0954e939951f6c2c6c2c759291b472f897b7d440d97e9d6595a605d45f9ac915",
+      "bytes": 13628
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

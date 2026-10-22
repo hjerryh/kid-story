@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0290",
+  "title": "兜兜的补丁住里面",
+  "version": 1,
+  "bodyCharacters": 480,
+  "pages": 8,
+  "duration": 151.282,
+  "bodySha256": "ce69ce7cf144f731a688ad191a5c930e2b874a304cd40040fabe00b4e7225b16",
+  "audioSha256": "cc914edc3b028e6b9c1084f7e645ba50331761508e5e114f5a28aa8f53afd90f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "01799ece4edc6257954dc6a0f8df3a86a34d89d5a5bfccf032381477c4ff429d",
+      "bytes": 17250
+    },
+    {
+      "name": "p01",
+      "sha256": "10c775ea9003289a17d2e8993cead4c9f9fac6848345e8b316ca2952e9d5a591",
+      "bytes": 15294
+    },
+    {
+      "name": "p02",
+      "sha256": "26dd1c30b3e993c49ee2f5c5e25cf295f973aaab5cebc4edf8c23d24189b6cb0",
+      "bytes": 16242
+    },
+    {
+      "name": "p03",
+      "sha256": "19ded0cf240f5681304e200bc0fabaef5c1a44cf43e4d37cdefd14c726051c8a",
+      "bytes": 16126
+    },
+    {
+      "name": "p04",
+      "sha256": "1ac1d87f8d2eba3835927df59ec878e9e38f022c2ef3b34280d8c92344c0aa84",
+      "bytes": 15832
+    },
+    {
+      "name": "p05",
+      "sha256": "b88984bf7e4a930503d3a30833375ba74d65405198c627ab7d2d94dceb511147",
+      "bytes": 15514
+    },
+    {
+      "name": "p06",
+      "sha256": "e806e0b65a70eb623ff017cca7daadbc9ab76f7a30379b098af020aa5abc2492",
+      "bytes": 16600
+    },
+    {
+      "name": "p07",
+      "sha256": "0beceab9b2c9ac4589de5da03a58a49484af83e725b1b397b5cde9678801ad67",
+      "bytes": 15912
+    },
+    {
+      "name": "p08",
+      "sha256": "b00e724f7b671db143dcde29284a0852a97ece501b964d9c3491342f6ef2dc00",
+      "bytes": 15608
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

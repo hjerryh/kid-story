@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0273",
+  "title": "砚背在十一号读信",
+  "version": 1,
+  "bodyCharacters": 1541,
+  "pages": 16,
+  "duration": 474.818,
+  "bodySha256": "a2be19d616b2869d9a426f6b5dbff2fbec80f30249ed909ebd900801556421af",
+  "audioSha256": "92448ba74735c7c66deb069fe2d9b833a54e3c5a38d0e6e06f8df5a3a11ad083",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6217189adbedbd7d8b2bdb72f5e15a273e6b33ea91031d387e3a6d40f4b5ba95",
+      "bytes": 15802
+    },
+    {
+      "name": "p01",
+      "sha256": "2f0ad4b010d6761a95e65d8299b95ce65108a8902a0b5197a81901fbedef6e8d",
+      "bytes": 11974
+    },
+    {
+      "name": "p02",
+      "sha256": "62b5f3cab4fcde8e9414e0fe76e8e1e62ce47e35e55191bbedb96ef340092744",
+      "bytes": 11772
+    },
+    {
+      "name": "p03",
+      "sha256": "e11c5e5914e22df04a4b3e2e87e40108bb2eea9682d93d499d4478797072c905",
+      "bytes": 14796
+    },
+    {
+      "name": "p04",
+      "sha256": "c77b4c33e4ba92205aff3d4c1e97b189710bcbc7db3f11c618a5f02feedc03b1",
+      "bytes": 10244
+    },
+    {
+      "name": "p05",
+      "sha256": "69079845dd305a5eea89c873c9244497aca2a29924df678493e5dd964fe6d2ac",
+      "bytes": 12770
+    },
+    {
+      "name": "p06",
+      "sha256": "74e06aaaffe0a442f8c78091e24a057e24541a42350845d348c6535dc84bec02",
+      "bytes": 11902
+    },
+    {
+      "name": "p07",
+      "sha256": "a6e7272fd8db038da10c75d22084bb943894771575f6ec2bc5e6c729b7203020",
+      "bytes": 11262
+    },
+    {
+      "name": "p08",
+      "sha256": "c4a0cc22dd2956ae59f25ee933f4d980fd30a0117fb02bc1f38fe45f923c3678",
+      "bytes": 12152
+    },
+    {
+      "name": "p09",
+      "sha256": "bfe0fe503eb435f0cefd6d39fd60d350454c80f01c1e06111db0e86b7dfad1f1",
+      "bytes": 12902
+    },
+    {
+      "name": "p10",
+      "sha256": "dec8f9b0ec07c468efd9128f13c44f538da37cc4a382361c4f86d29179962117",
+      "bytes": 13734
+    },
+    {
+      "name": "p11",
+      "sha256": "f47378dcdf117b29c4cdaa0a36cb38fe279a9a9784e17c7d4889d42238c76cde",
+      "bytes": 12112
+    },
+    {
+      "name": "p12",
+      "sha256": "6052d971c1da7991c6adafe86c5de9956de81006c918ee425e929167bfd8c3d9",
+      "bytes": 12636
+    },
+    {
+      "name": "p13",
+      "sha256": "78956ed06a9fa862d7bf4cb489fa291fafc7041c129ea859db4182b5866891db",
+      "bytes": 12296
+    },
+    {
+      "name": "p14",
+      "sha256": "1f7c971102376194400ea47a321c339d45588cb0f449a3cbeaa7edf2058dfe9d",
+      "bytes": 12766
+    },
+    {
+      "name": "p15",
+      "sha256": "5aaeeb8f2037a97b122d95f248fa8c7c6fb9f5c4da403cb9fc801f75d01ef2da",
+      "bytes": 9640
+    },
+    {
+      "name": "p16",
+      "sha256": "cb967f87976c1cbfc9f2e3d5d325a36193b31c3f140558b3a2e20b0b031cfbab",
+      "bytes": 13498
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

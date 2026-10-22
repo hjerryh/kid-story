@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0274",
+  "title": "九齿梳只会拆辫子",
+  "version": 1,
+  "bodyCharacters": 1523,
+  "pages": 16,
+  "duration": 469.802,
+  "bodySha256": "c68400029124bf568d1bb14836b43312bfc1708f6455fec6794a9a5da3d8a346",
+  "audioSha256": "a76454d7ffcc4d6da8bbefea584c91dd518ad7757d52a0e9c61c51e6a29a0119",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "12061412be1455b7b4a05c3babd1ece5b8bfac9c06c6a6d6da974bcf494c1c0f",
+      "bytes": 14302
+    },
+    {
+      "name": "p01",
+      "sha256": "e3688691d145d6d9c15595c10d3a02898aaca43f46a3255d5fce4847cb160dc8",
+      "bytes": 6890
+    },
+    {
+      "name": "p02",
+      "sha256": "e05e76541b1c77e7be028a2e3ba9927c4bc9be41369ccd298b8cf455d499f3b4",
+      "bytes": 10516
+    },
+    {
+      "name": "p03",
+      "sha256": "311b8f311da74752aeb203d5503784a71a9c9fc1e6fb6624ca2fd678c2b0979e",
+      "bytes": 10818
+    },
+    {
+      "name": "p04",
+      "sha256": "fe3d840bf274e3dda8d28292a64456a43a99f75596a6144aa825116c37800abc",
+      "bytes": 13250
+    },
+    {
+      "name": "p05",
+      "sha256": "d849c63662c4a56b696d6e01d69749afcd8ff10c39e6c3bccab36e2cc8e7a003",
+      "bytes": 12992
+    },
+    {
+      "name": "p06",
+      "sha256": "66c7cdb13d3f253215c4800dfaae0fdb7292f6081c4019ffbf89bfe50a5a5daa",
+      "bytes": 14016
+    },
+    {
+      "name": "p07",
+      "sha256": "7fddf1ef2315aedae8b31820975badc548b01e4a3f29d75d58f0dab09988fa45",
+      "bytes": 10836
+    },
+    {
+      "name": "p08",
+      "sha256": "c78ad164417d0022320156a09629b8289faebdc37d8fb7b324545212a762676a",
+      "bytes": 13120
+    },
+    {
+      "name": "p09",
+      "sha256": "511074ba185906a6c99a08b539436aaedcd1ef6e0301f700461ac8f466df3467",
+      "bytes": 11938
+    },
+    {
+      "name": "p10",
+      "sha256": "770ba1658e9af5e813b47e1e1d7193ab8b3c7e9a73fd5ed47535cfca9d01be1d",
+      "bytes": 10878
+    },
+    {
+      "name": "p11",
+      "sha256": "b4a1ebbc7f0549ef5edefd6d63d51eb6c4294182fc90817adb8815bf72c44e47",
+      "bytes": 11102
+    },
+    {
+      "name": "p12",
+      "sha256": "57468f1eb2e4342bbe19ab413095961cd4dcd896124c626f4d4f3f09688d6535",
+      "bytes": 14374
+    },
+    {
+      "name": "p13",
+      "sha256": "096950993e0eb57fbd3ec29e4101fa43c66f557c8f2b6990b585a0ae95049923",
+      "bytes": 12410
+    },
+    {
+      "name": "p14",
+      "sha256": "e599103d7744727012fd6e68505d636249499253e057c1e05651bca48e22055f",
+      "bytes": 10698
+    },
+    {
+      "name": "p15",
+      "sha256": "ec5c2bae7d24e2b5582eaed859f2f163cd7f89d086d0b774c3dc646aae4fd642",
+      "bytes": 10486
+    },
+    {
+      "name": "p16",
+      "sha256": "93d1cceb78e53ff9f52e1407bdf4ecbfe4fd18ea033450d63aa84669dd720915",
+      "bytes": 11100
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

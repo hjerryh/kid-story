@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0289",
+  "title": "月亮面团先选哪一块",
+  "version": 1,
+  "bodyCharacters": 520,
+  "pages": 8,
+  "duration": 168.874,
+  "bodySha256": "b70a7ba1e584ff73518bcf054896e10f7bba8534b3982469fc7915373c804e34",
+  "audioSha256": "86aa1965da8fa350361f30afe1fb75d38b167ab291b9e3029679f3793c286e8c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "54923cb9400b1b8af6cc7d6f8cb6087ab0fc35d857a8b9cc9dd223dd7d230d52",
+      "bytes": 19002
+    },
+    {
+      "name": "p01",
+      "sha256": "bb6fb1463d825093eaf1bb0fd30431d1f931f85e296967084ba4e2893ac39103",
+      "bytes": 15160
+    },
+    {
+      "name": "p02",
+      "sha256": "29a814202ec866dd5521146dde4cf70e550ca3a8e9f3616a27fb0e7815fbac6b",
+      "bytes": 15566
+    },
+    {
+      "name": "p03",
+      "sha256": "7092119ffb99172e8dd9ec6a5620fc755861801a5b5a33075324d02acd871390",
+      "bytes": 15252
+    },
+    {
+      "name": "p04",
+      "sha256": "92ffec56bb5e35c0f330c6f07192c14bfe8a399c178b37fb589c557701f4008b",
+      "bytes": 15306
+    },
+    {
+      "name": "p05",
+      "sha256": "1146640ec22a74892b48e6ace073ee98e873189c3c01bf38cf80eb79d911705d",
+      "bytes": 15308
+    },
+    {
+      "name": "p06",
+      "sha256": "882760be5e5fea26df1e256ed445cc8d07cce99015c32498d174e4f64dae0328",
+      "bytes": 16622
+    },
+    {
+      "name": "p07",
+      "sha256": "50fbc51cc7de12d80c85a230f7307bb1520567cb6e5db6435b665c2f7b01b2d3",
+      "bytes": 16606
+    },
+    {
+      "name": "p08",
+      "sha256": "aba37a466ee85ecba45df12db4c801d9e1771746a92c453d2a47f924c9ed680c",
+      "bytes": 13938
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

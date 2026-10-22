@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0305",
+  "title": "花尾把贝壳留在草帽上",
+  "version": 1,
+  "bodyCharacters": 1049,
+  "pages": 12,
+  "duration": 319.794,
+  "bodySha256": "0e52ba8791be78370a8268b2d371f1875728f8eacbd0843ee8cc314d5b5e128e",
+  "audioSha256": "5e370a8c5ac1eb7c62d3c6b48532c07cc4b8076ed948afd2d63f89a5aa757ee0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8c4a0d46ceca73134d3963f6f5ea402125d195b75daa7b0bf1989139048f64da",
+      "bytes": 15226
+    },
+    {
+      "name": "p01",
+      "sha256": "b1f0b0828873da9fb9e96f26f11f2f8ea233c8570dec855821a97a3933798391",
+      "bytes": 12682
+    },
+    {
+      "name": "p02",
+      "sha256": "dd7ce382f1d9b291298b0a458f1d151aa26a18ab2fabbca2aeb5814f2f37cf24",
+      "bytes": 9406
+    },
+    {
+      "name": "p03",
+      "sha256": "7846c6376888fabe2c5a9dcdf3ac0996f083f4bba34904ab3efe506977a3eb98",
+      "bytes": 9872
+    },
+    {
+      "name": "p04",
+      "sha256": "e2204f4d3ff3dbc66e5c180e3541d48c4192c6a9058589a559dd4a5c4991f2c8",
+      "bytes": 8692
+    },
+    {
+      "name": "p05",
+      "sha256": "7afbb47a729d321fb330d14daec5fc714f4c03100ba233dae35d9e07da45b310",
+      "bytes": 9926
+    },
+    {
+      "name": "p06",
+      "sha256": "8f6ba15be46acb28de47392c8be2e87e6e3e1f37a36c58730360ad4da4340eec",
+      "bytes": 8992
+    },
+    {
+      "name": "p07",
+      "sha256": "c546cdd07f9730e203724929e3d5bc39e7e78a0115d3fd68f962e18b4045af7b",
+      "bytes": 12242
+    },
+    {
+      "name": "p08",
+      "sha256": "0c83994586a92768122c8caba0730e621167e3f415c947a1d973e0755b8c23bf",
+      "bytes": 12218
+    },
+    {
+      "name": "p09",
+      "sha256": "0543a8378936fa102c155f846e22508e620495fce2789e134b088f5903aaeb39",
+      "bytes": 9552
+    },
+    {
+      "name": "p10",
+      "sha256": "021f8d805acdbbe09ef036765b56e6f213acf4f80ea8aa5c38f984ed3050ac9d",
+      "bytes": 10066
+    },
+    {
+      "name": "p11",
+      "sha256": "765a20fd247d7b02f572660687259431ac12078cb7a9ffcbba43c24a5798a910",
+      "bytes": 12400
+    },
+    {
+      "name": "p12",
+      "sha256": "bfd3aa0bcdf94c71b76d178ca6705c50220e6e97687d5a88c90b2d5e8a0da11e",
+      "bytes": 12620
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0293",
+  "version": 1,
+  "status": "media-ready",
+  "title": "茸桃坐上了云蜗牛",
+  "subtitle": "坐着云蜗牛去看星星",
+  "description": "茸桃想去星星牧场，看看小星星怎样从草丛里醒来。大家都坐跑得快的云兔，她却发现，自己想看的风景，可能藏在一段慢慢的路上。",
+  "ageBand": "3-5",
+  "theme": "自己的选择",
+  "color": "#827AB8",
+  "character": "小田鼠茸桃：浅棕色绒毛，圆耳朵，穿紫色短外套，背米白色小挎包。云兔：白色云朵身体，长耳朵，背上有蓝色坐垫。云蜗牛：淡灰色云朵身体，背着透明圆壳，壳内有绿色小坐垫。",
+  "cover": "/library/stories/expansion-0293/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 162.106,
+  "detailUrl": "/library/stories/expansion-0293/v1/story.json",
+  "audio": "/library/stories/expansion-0293/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "星星牧场的小星星，白天睡在草里，睡够了才伸着光芒爬起来。小田鼠茸桃想去看看：它们醒来时，会不会打呵欠？她背好小包，来到云朵车站，耳朵竖得高高的。",
+      "image": "/library/stories/expansion-0293/v1/p01.webp",
+      "start": 0,
+      "end": 19.67
+    },
+    {
+      "id": "p02",
+      "text": "车站停着一只云兔和一只云蜗牛。云兔一蹦，就能越过一座草坡。云蜗牛慢慢挪，透明壳里摆着小坐垫。排队的客人都往云兔那边走，茸桃也跟着排在了后面。",
+      "image": "/library/stories/expansion-0293/v1/p02.webp",
+      "start": 19.67,
+      "end": 39.436
+    },
+    {
+      "id": "p03",
+      "text": "云兔说，可以先绕小坡试坐一圈。茸桃坐上蓝垫子。呼，草叶成了绿线，草里的金光一闪就过去了。她赶紧回头，却只看见云兔蓬松的尾巴，连星星的脸也没看清。",
+      "image": "/library/stories/expansion-0293/v1/p03.webp",
+      "start": 39.436,
+      "end": 59.226
+    },
+    {
+      "id": "p04",
+      "text": "回到车站，茸桃问：“路上能停下来吗？”云兔摇摇耳朵：“我要把客人送到坡顶，路上不停。”坡顶能看见整片牧场，可茸桃想看清一颗星星。她摸着包带，没有上车。",
+      "image": "/library/stories/expansion-0293/v1/p04.webp",
+      "start": 59.226,
+      "end": 78.896
+    },
+    {
+      "id": "p05",
+      "text": "茸桃又坐进云蜗牛的透明壳。蜗牛挪了几步，一颗露珠还在窗外晃。“你会走很久吗？”她问。“会呀。不过，你想看哪丛草，我就停在哪丛草边。”茸桃往软垫里坐了坐。",
+      "image": "/library/stories/expansion-0293/v1/p05.webp",
+      "start": 78.896,
+      "end": 100.798
+    },
+    {
+      "id": "p06",
+      "text": "云兔招呼下一趟客人。茸桃向它挥挥手：“这回我坐蜗牛。”她知道路会很长，便把小包放在脚边。云蜗牛出发了。一片草叶轻轻擦过圆壳，发出细细的沙沙声。",
+      "image": "/library/stories/expansion-0293/v1/p06.webp",
+      "start": 100.798,
+      "end": 120.732
+    },
+    {
+      "id": "p07",
+      "text": "走过长长的小路，茸桃发现草里躺着一颗小星星，光芒卷得紧紧的。“停在这里吧。”她说。等了一会儿，一束光伸出来，又一束伸出来。小星星张开嘴，真的打了个呵欠。",
+      "image": "/library/stories/expansion-0293/v1/p07.webp",
+      "start": 120.732,
+      "end": 141.218
+    },
+    {
+      "id": "p08",
+      "text": "茸桃捂着嘴笑了。小星星抖掉身上的草屑，慢慢升到她头顶，朝她眨了一下眼。她靠回软垫，也打了个小呵欠。“再坐一会儿。”她轻声说。圆壳外，那颗星星一直亮着。",
+      "image": "/library/stories/expansion-0293/v1/p08.webp",
+      "start": 141.218,
+      "end": 162.106
+    }
+  ],
+  "buildHash": "6ca1ea14f5284b38e38142f2bc6ec2a4279c1245bc4d030f8709218053f53856"
+}

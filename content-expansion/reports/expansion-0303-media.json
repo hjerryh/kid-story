@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0303",
+  "title": "织篱换了一条小路",
+  "version": 1,
+  "bodyCharacters": 984,
+  "pages": 12,
+  "duration": 289.77,
+  "bodySha256": "f066d8e8a070eef5254501c3ab6eb46fd641a9b615ce4e944a92612906696ef6",
+  "audioSha256": "0e87464ba8f2a1490c8d6a57710682f1c0dfc5fb33f109420e706133b8cd68f8",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "461b8be39fa2241bd8663ee1bd1417326ff0b2deebb4a40ffbebd13bce55b851",
+      "bytes": 22922
+    },
+    {
+      "name": "p01",
+      "sha256": "5f1eb5cb44ff45deee0b583e17a309d5f8e001928af88bfa431c984e0b231e59",
+      "bytes": 18644
+    },
+    {
+      "name": "p02",
+      "sha256": "0da73d69e5023af31baa6250470515193f545107564f2416107815090210b81c",
+      "bytes": 18662
+    },
+    {
+      "name": "p03",
+      "sha256": "ef7d965ec7dca4edd3113b119628be1046c674f3555427bcc41bc50961f91aa2",
+      "bytes": 17790
+    },
+    {
+      "name": "p04",
+      "sha256": "52b8b8ec33a49abfdb7d914eb824bd87fd4cb3f409570759f7fed5cc15adba5b",
+      "bytes": 17862
+    },
+    {
+      "name": "p05",
+      "sha256": "58b9dba492300da5b4926dbc2ce2d6d23e862373bd5b492a7b793824023d677d",
+      "bytes": 18956
+    },
+    {
+      "name": "p06",
+      "sha256": "6e431ac3173afe94131b66b2642c49dc4bc9e6ff7997167583102b9e12f69aca",
+      "bytes": 15882
+    },
+    {
+      "name": "p07",
+      "sha256": "99947afbcf50b59a7f2dfd8780dd392cae49bbfd830d3c5ff157c4e0c7e8388d",
+      "bytes": 16526
+    },
+    {
+      "name": "p08",
+      "sha256": "b6691fca290f8b04153574c65501acaf85be27251e5f1414cc6e73a09ae2a558",
+      "bytes": 16142
+    },
+    {
+      "name": "p09",
+      "sha256": "8c493a7ca9add318ce4d2b542cdf5446ccc2952f253613beec04d8d18536145f",
+      "bytes": 19428
+    },
+    {
+      "name": "p10",
+      "sha256": "50df510e995050feb639ff25569b97208977f97ef136eb6393e03fa77ce51120",
+      "bytes": 13096
+    },
+    {
+      "name": "p11",
+      "sha256": "fddd772054e02804ec8a30b417509f5dafd631d2f5692eb5be13604f4204914e",
+      "bytes": 11622
+    },
+    {
+      "name": "p12",
+      "sha256": "876afef06167d3a135144cfc1abb085d6e612f7368b59edafe7aade4c1c15e7f",
+      "bytes": 19374
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

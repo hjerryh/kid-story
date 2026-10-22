@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0298",
+  "title": "三块石头以后的风",
+  "version": 1,
+  "bodyCharacters": 1012,
+  "pages": 12,
+  "duration": 304.194,
+  "bodySha256": "da18313a59fb6a02d605214a7a1813edfc956b383b2be09b090c5dcc2957511c",
+  "audioSha256": "4c725e4c67ac3ddafcd968ea711f910465e67eff6425367d8900bdf35d63cdac",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ef6eea7f1cc4def3d0bbe7b141e75f8a83a3cbfb651344f886d706711b0eedfe",
+      "bytes": 10748
+    },
+    {
+      "name": "p01",
+      "sha256": "e82db6d2cd58d43b89693b8920b3e2614797d7ba89f401fc0534ada079e12147",
+      "bytes": 8656
+    },
+    {
+      "name": "p02",
+      "sha256": "ba3233b2c91812dd9b108e8196c9085b608535440fa983b4abfc3a9b94eb18ac",
+      "bytes": 8686
+    },
+    {
+      "name": "p03",
+      "sha256": "d95b36cbdefa5f094a87669b5c2df2b9081412f41f2e91d956ab2a1c281927f7",
+      "bytes": 9110
+    },
+    {
+      "name": "p04",
+      "sha256": "6856fad38df4468caa999e91093aa38791898285b280aca68ef79002336debaf",
+      "bytes": 8698
+    },
+    {
+      "name": "p05",
+      "sha256": "781d3e1a5bcc5e6e6c1b161eb52c195d0c064730711ed97c1a6a090f8e78bf23",
+      "bytes": 8382
+    },
+    {
+      "name": "p06",
+      "sha256": "bea7440c9af55b7b80878d9bf0dafe616db22d03116e787e2fa26ccc92c82ac7",
+      "bytes": 9234
+    },
+    {
+      "name": "p07",
+      "sha256": "b720985f23bf8be61b8ee36db39463a153b59189f22df2cdb6cb752e0116c48b",
+      "bytes": 9382
+    },
+    {
+      "name": "p08",
+      "sha256": "96f703f342e17b26b74e0c22af6fe739f52cff2984fa8ab33bf272c54b087a31",
+      "bytes": 9246
+    },
+    {
+      "name": "p09",
+      "sha256": "cba3c974e7718ecb3718c4b4856b088b151ece7f1ba5a68c36fd921d9021ae59",
+      "bytes": 9746
+    },
+    {
+      "name": "p10",
+      "sha256": "0b1581b83480722e713b0bb4d18d490735650b010add35bb5708f6fd406c1dc8",
+      "bytes": 6826
+    },
+    {
+      "name": "p11",
+      "sha256": "101aee90cf3e45cc37309b23374f0b326d29ecfcd0bc33d8c3c07302db3c00be",
+      "bytes": 9042
+    },
+    {
+      "name": "p12",
+      "sha256": "400f5b008ab48d43e82b87fc4577e735c2490bc93cd9258e870c151107f93816",
+      "bytes": 8624
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

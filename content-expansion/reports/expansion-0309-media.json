@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0309",
+  "title": "木鸟从沙山上面飞过",
+  "version": 1,
+  "bodyCharacters": 992,
+  "pages": 12,
+  "duration": 298.002,
+  "bodySha256": "074f1da4505122d4a3c0c5d0bfc98974a391097df885b2bf78d71ed91fab7a80",
+  "audioSha256": "52d4337eccc7c5baa237d607dcb5d3fdcb32f248f2e471b57c532a63377b8167",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5329a83e87600aecbfd0c2c264296c03a8e81a6feb200632ce5c006dd5b18604",
+      "bytes": 17616
+    },
+    {
+      "name": "p01",
+      "sha256": "13d0bb56e19b1f5e379315afd12db04fafe3c1e7e1734dae2d638114a9e5dc1e",
+      "bytes": 11500
+    },
+    {
+      "name": "p02",
+      "sha256": "e051c8ad2b2574e67a649e0e08861301b8d2fe3fd22603d0a6331df624e38a49",
+      "bytes": 12590
+    },
+    {
+      "name": "p03",
+      "sha256": "6f0cc89753916448568dd13442250b28b667aa77e4598f60212fe818804e2581",
+      "bytes": 11564
+    },
+    {
+      "name": "p04",
+      "sha256": "19b51dd752e890705935ed4f9aadf8118f3dd6314ae3817a0197bc9a64b5d096",
+      "bytes": 13088
+    },
+    {
+      "name": "p05",
+      "sha256": "edc5a427db4df402c4407ef0eb72d21a8bf3803b9d5a679ec2d6181770e2a822",
+      "bytes": 12804
+    },
+    {
+      "name": "p06",
+      "sha256": "bba645acf8a55ac5ccc91573833806fd9ac04f6e698f30bdd796a1052de0a856",
+      "bytes": 11156
+    },
+    {
+      "name": "p07",
+      "sha256": "bc8cc1f8686559d4a94b2123aec18a95c7056f63a7ab2aa333961e77e0473a6f",
+      "bytes": 12462
+    },
+    {
+      "name": "p08",
+      "sha256": "b92b991b4b4f1d48ccb2ffb7bccf3f77b820e4f1312f7e189d89a67e9b24b318",
+      "bytes": 12292
+    },
+    {
+      "name": "p09",
+      "sha256": "3256268e65927c87fa6ac23028c0415d68b0f831c40a4d1e45961086fead3034",
+      "bytes": 13598
+    },
+    {
+      "name": "p10",
+      "sha256": "9fb0d099510d7e82af544007c5f8a27964753687e2cff8b74aa089986d0a2911",
+      "bytes": 14520
+    },
+    {
+      "name": "p11",
+      "sha256": "0a21e0716bc78befdacfd8eaa4b86e045f37a3a3fd3cec7827a36069cf5e9098",
+      "bytes": 14534
+    },
+    {
+      "name": "p12",
+      "sha256": "2485db902d5d56c3b34249d7d398eb3b1eae8f0c60ce37c63c78f49c493da501",
+      "bytes": 14682
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

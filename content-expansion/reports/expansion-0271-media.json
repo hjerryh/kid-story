@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0271",
+  "title": "蓝砂丘旁的蜗牛门",
+  "version": 1,
+  "bodyCharacters": 1427,
+  "pages": 16,
+  "duration": 435.986,
+  "bodySha256": "985ca1fdceea878a884d293f1e24c9e0c146fb65beffbfc3400427b68504dca9",
+  "audioSha256": "40fd3dc7ebd460f8c3bfb5e77999799cb777d78c88351282e034ff00da11a51f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4b024449994ff4ee5e2b99707e4b394054574dde96c28939df121a53c3fdcbbb",
+      "bytes": 12042
+    },
+    {
+      "name": "p01",
+      "sha256": "4b514930990634635896ed31f14173ead9dff8a2f1491a704f7b7cd9c3ba1cdf",
+      "bytes": 12750
+    },
+    {
+      "name": "p02",
+      "sha256": "713ca25084e000eafb6cb255b9c2d5b08828ca1db4f6247f6b2771dbe10006ce",
+      "bytes": 12876
+    },
+    {
+      "name": "p03",
+      "sha256": "7d7f09fe78e4f6950d7e593b109151960ca4a7a99988853f9db5cd12ed74a083",
+      "bytes": 10872
+    },
+    {
+      "name": "p04",
+      "sha256": "6cd9f9d2d206dc7a03afc34d1bbb0a45eb1456bb17d3b8b279d263ff9f034645",
+      "bytes": 12884
+    },
+    {
+      "name": "p05",
+      "sha256": "4ea2f4eb31c94eb9e5f0ef1bffa5ddaba32252c3477605b7253caa1866a26a84",
+      "bytes": 11916
+    },
+    {
+      "name": "p06",
+      "sha256": "98855043a8c0a5e0814a9e530fd9a42cff02373bc11e8eeee2a423fcce0643ec",
+      "bytes": 11652
+    },
+    {
+      "name": "p07",
+      "sha256": "cf1b8620864966c201a59d419de4f393275999b71ff00e0f784f82801e9330fd",
+      "bytes": 11346
+    },
+    {
+      "name": "p08",
+      "sha256": "f8ca8916216fb1e645593b6b7156288670fdcca80d1b6cb963d8847b600ffcf5",
+      "bytes": 13812
+    },
+    {
+      "name": "p09",
+      "sha256": "a2567c62b0b5699eb97e45be13f3787363b74dbbb8627e939f88cc0f7d75f54d",
+      "bytes": 11892
+    },
+    {
+      "name": "p10",
+      "sha256": "8ca587791a5df95d54e7535bd25b5f7289826af24c6bdfee56daeb03e606e4ed",
+      "bytes": 12488
+    },
+    {
+      "name": "p11",
+      "sha256": "d7d48db1d4aa5b747b3a9e62df2afe5d66bc21c1f60ba7f6b21857fabc7b07b6",
+      "bytes": 13144
+    },
+    {
+      "name": "p12",
+      "sha256": "b32c070998b581dbedcff801ac14a7ffd8af6f07906c9285f7576720e4727665",
+      "bytes": 14806
+    },
+    {
+      "name": "p13",
+      "sha256": "a829945d4cb26a5212702ddb24eba62d3061c3e9d7316dbe5332ee4e7adb51b5",
+      "bytes": 14042
+    },
+    {
+      "name": "p14",
+      "sha256": "892ec3651ccfc5fa5809269406e350fbfe7b41d85e30961dbb925be91484ff7d",
+      "bytes": 10040
+    },
+    {
+      "name": "p15",
+      "sha256": "89f84292a57dbf016dce1693bb0a6fd6e5917472c0104d70be96dfefa90c9070",
+      "bytes": 12108
+    },
+    {
+      "name": "p16",
+      "sha256": "45ccec04f62a1c89ffdf57f86e32f39991cee2026afae050930b99a8b7f84a96",
+      "bytes": 10990
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0289",
+  "version": 1,
+  "status": "media-ready",
+  "title": "月亮面团先选哪一块",
+  "subtitle": "两盏圆圆的小夜灯",
+  "description": "绒桃和豆青得到一团能做小夜灯的月亮面团。绒桃分出的两块一大一小，可他们都想要大的那块。怎样分，才能让两个朋友都愿意伸出手呢？",
+  "ageBand": "3-5",
+  "theme": "分享与协商",
+  "color": "#A7B8D8",
+  "character": "绒桃：浅灰色小睡鼠，圆耳朵，穿紫色背带裙，戴白色花扣。豆青：棕色小睡鼠，鼻尖有一撮白毛，穿绿色短背心。月亮面团：银白色，柔软凉凉，揉圆后便持续发出柔和的光。",
+  "cover": "/library/stories/expansion-0289/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 168.874,
+  "detailUrl": "/library/stories/expansion-0289/v1/story.json",
+  "audio": "/library/stories/expansion-0289/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "藤蔓天桥旁，绒桃和豆青收到一个纸包，是月亮送给他们的。里面是一团凉凉软软的月亮面团，只要揉圆，就会亮起来。他们想各做一盏小夜灯，放在自己的床边。",
+      "image": "/library/stories/expansion-0289/v1/p01.webp",
+      "start": 0,
+      "end": 18.782
+    },
+    {
+      "id": "p02",
+      "text": "绒桃先把面团扯成两块。一块胖，一块瘦。她把胖的拉到面前，说：“这块能照亮我的枕头。”豆青也伸出手：“我也想要胖的，我的枕头一样黑呀。”两双小手停在了桌子上。",
+      "image": "/library/stories/expansion-0289/v1/p02.webp",
+      "start": 18.782,
+      "end": 39.796
+    },
+    {
+      "id": "p03",
+      "text": "“那我给你添一点。”绒桃揪下一小点，贴在瘦面团上。豆青歪头看看：“还是你的大。”绒桃又揪一点，比刚才还小。那块瘦面团顶着小尖角，像戴了一顶歪歪的帽子。",
+      "image": "/library/stories/expansion-0289/v1/p03.webp",
+      "start": 39.796,
+      "end": 59.898
+    },
+    {
+      "id": "p04",
+      "text": "豆青没有拿。他说：“你分的时候，总舍不得那块大的。”绒桃低头摸摸面团，轻轻嗯了一声。“不然，你来分，我先选，好吗？”绒桃想了想，把护着大面团的手松开了。",
+      "image": "/library/stories/expansion-0289/v1/p04.webp",
+      "start": 59.898,
+      "end": 80.168
+    },
+    {
+      "id": "p05",
+      "text": "这回，绒桃把两块面团搓成同样粗的长条，并排放好。一条伸出去一大截。她掰下一段，接到短的上面。接多了，就挪回一点。凉凉的面团在手心里慢慢变软，终于差不多长了。",
+      "image": "/library/stories/expansion-0289/v1/p05.webp",
+      "start": 80.168,
+      "end": 102.694
+    },
+    {
+      "id": "p06",
+      "text": "绒桃把两条面团各自折成一团，左边看看，右边看看。她悄悄问自己：要是豆青拿走这一团呢？她摸摸另一团，也喜欢。“好了，你选吧。”这次，她把两只小手都放回了膝上。",
+      "image": "/library/stories/expansion-0289/v1/p06.webp",
+      "start": 102.694,
+      "end": 124.74
+    },
+    {
+      "id": "p07",
+      "text": "豆青选了靠近自己的一团。绒桃拿起剩下的，心里没有小疙瘩了。他们轻轻揉呀揉，两颗圆面团先后亮了，光软软地落在鼻尖上。“我的亮了！”“我的也亮了！”两张脸一起笑起来。",
+      "image": "/library/stories/expansion-0289/v1/p07.webp",
+      "start": 124.74,
+      "end": 146.162
+    },
+    {
+      "id": "p08",
+      "text": "回到家，绒桃把小夜灯放在床边。光照着枕头，也照着被角。对面的小窗里，豆青的灯同样圆圆的。绒桃朝他挥挥手，钻进被窝。两扇窗像天桥两头睁着的小眼睛，轻轻说着晚安。",
+      "image": "/library/stories/expansion-0289/v1/p08.webp",
+      "start": 146.162,
+      "end": 168.874
+    }
+  ],
+  "buildHash": "b2782e885dfb43680cb77d5a0de2bce2284f312570ad7bc0cf8d6ec1246a5392"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0292",
+  "version": 1,
+  "status": "media-ready",
+  "title": "贝壳爷爷骑着沙海豹",
+  "subtitle": "一位圆肚皮坐骑",
+  "description": "棉棉想用会醒来的沙子，为贝壳爷爷做一匹散步的小马。可是，小马的细腿总是塌下来。沙盘边一个圆圆的手印，让她想到了另一位特别的坐骑。",
+  "ageBand": "3-5",
+  "theme": "沙中奇想",
+  "color": "#83C9C2",
+  "character": "小女孩棉棉：黑色齐耳短发，穿浅绿连衣裙、白色凉鞋。贝壳爷爷：拇指大小，身体是乳白色圆贝壳，长着两只小手和两条短腿，戴蓝色软帽。沙海豹：浅金色，圆肚皮、短鳍、小黑石眼睛。",
+  "cover": "/library/stories/expansion-0292/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 162.994,
+  "detailUrl": "/library/stories/expansion-0292/v1/story.json",
+  "audio": "/library/stories/expansion-0292/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "海边小镇的窗台上，住着贝壳爷爷。他的腿短短的，绕花盆走一圈，就要歇三回。棉棉想给他做一匹沙马，让他坐着去看花盆后面新开的蓝花。爷爷高兴得扶住了帽子。",
+      "image": "/library/stories/expansion-0292/v1/p01.webp",
+      "start": 0,
+      "end": 20.27
+    },
+    {
+      "id": "p02",
+      "text": "镇上有一种瞌睡沙，湿湿地捏成小动物，再轻拍三下，小动物就会醒来。没拍之前，捏坏了还能重做。棉棉端来一盘沙，先捏圆肚子，再捏四条细腿，最后添上翘尾巴。",
+      "image": "/library/stories/expansion-0292/v1/p02.webp",
+      "start": 20.27,
+      "end": 40.612
+    },
+    {
+      "id": "p03",
+      "text": "可是，棉棉刚松手，小马的腿就塌了。扑簌簌，圆肚子坐进沙盘里。她把沙拢回来，把腿捏得高高的，想让爷爷坐得更神气。谁知，这一回塌得更快，连尾巴也倒下了。",
+      "image": "/library/stories/expansion-0292/v1/p03.webp",
+      "start": 40.612,
+      "end": 61.218
+    },
+    {
+      "id": "p04",
+      "text": "棉棉没有拍醒它。她托着下巴，另一只手轻轻按在沙上，留下一个扁扁的手印。手印旁的沙堆宽宽的，稳稳的。她碰一下，没有倒；再碰一下，还是好好地趴在那里。",
+      "image": "/library/stories/expansion-0292/v1/p04.webp",
+      "start": 61.218,
+      "end": 80.96
+    },
+    {
+      "id": "p05",
+      "text": "棉棉眼睛一亮：“不用长腿，也能带你散步呀！”她把沙堆捏成长圆形，肚皮贴着盘底，两边添上短短的鳍。“是海豹！”爷爷说。棉棉又把它的背轻轻抹平，留出座位。",
+      "image": "/library/stories/expansion-0292/v1/p05.webp",
+      "start": 80.96,
+      "end": 101.47
+    },
+    {
+      "id": "p06",
+      "text": "两颗小黑石做眼睛，一道弯弯的印子做嘴巴。棉棉轻拍一下、两下、三下。沙海豹眨眨眼，短鳍动起来了。“请上来。”它说。爷爷扶着圆背坐好，肚皮下面一点也没塌。",
+      "image": "/library/stories/expansion-0292/v1/p06.webp",
+      "start": 101.47,
+      "end": 122.964
+    },
+    {
+      "id": "p07",
+      "text": "棉棉把沙盘贴着窗台放平。沙海豹一扭一扭，载着爷爷出了盘，沿着花盆慢慢走。到了花盆后面，三朵蓝花正挨在一起。爷爷仰起脸：“原来你们的花心，是白色的呀。”",
+      "image": "/library/stories/expansion-0292/v1/p07.webp",
+      "start": 122.964,
+      "end": 143.138
+    },
+    {
+      "id": "p08",
+      "text": "看完蓝花，沙海豹又载着爷爷绕回窗前。爷爷没歇一回，海豹倒打了个小呵欠。棉棉笑着摸摸它的圆脑袋。它趴在花盆旁，爷爷靠着它，听窗外的海风吹了一会儿又一会儿。",
+      "image": "/library/stories/expansion-0292/v1/p08.webp",
+      "start": 143.138,
+      "end": 162.994
+    }
+  ],
+  "buildHash": "90aca4d65e2d01940e48ee9b63a69d895ead10c411fb10542fec5667231f107c"
+}

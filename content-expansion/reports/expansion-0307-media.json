@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0307",
+  "title": "软毯里有一个水弯",
+  "version": 1,
+  "bodyCharacters": 1086,
+  "pages": 12,
+  "duration": 317.562,
+  "bodySha256": "512f6fa0159e8549d20c0f2f6d2760fb4085d273aae0f7f2e055ab890a977a04",
+  "audioSha256": "d67fc8cb2fb14b52f981077c9557163a69f619f8e010f618f69bca2362c4bdc6",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "429bdda052534887d89465f3df1f6420e655b8fdadc431d5e958ea9543bbc492",
+      "bytes": 19004
+    },
+    {
+      "name": "p01",
+      "sha256": "37d68dbdabadd06dda46d17ff2c24c3e51c19094813217901b1e9754f03758d5",
+      "bytes": 7380
+    },
+    {
+      "name": "p02",
+      "sha256": "aed88e55fefec11e650e1ace5b63d3d3db31e61c3ae084ad8e4df3f28f04d34e",
+      "bytes": 9060
+    },
+    {
+      "name": "p03",
+      "sha256": "7d9da49aef161569dca0693dd2517572394b3cccd791479404a84cee4c9b3c38",
+      "bytes": 15664
+    },
+    {
+      "name": "p04",
+      "sha256": "636bec395e6ffaf2fc6141f69472974ccced30e76b9a9e5617fd30568dd8039f",
+      "bytes": 15078
+    },
+    {
+      "name": "p05",
+      "sha256": "eef20edbe8a63c0b4eba6c39e95d2ea8e54321c434e703593e0908df9c778afb",
+      "bytes": 15492
+    },
+    {
+      "name": "p06",
+      "sha256": "52b009f6fa39309784bc6ddec7c5cd161d957665ea5749d81a44b328f4b3f41d",
+      "bytes": 15692
+    },
+    {
+      "name": "p07",
+      "sha256": "b199402355658f9e1ea4d64536467ee6f6a11f8570effdee8d0cbb2ebfa02a27",
+      "bytes": 15472
+    },
+    {
+      "name": "p08",
+      "sha256": "975b9fd9a8c188090542ee0ac6bf041ad7deee8b4babd9fc706e21b18f33d931",
+      "bytes": 16414
+    },
+    {
+      "name": "p09",
+      "sha256": "8f3c60d5e1f950c9d964f12db3f1d0ff82069ca54f02e79363c2a816a04d1792",
+      "bytes": 15880
+    },
+    {
+      "name": "p10",
+      "sha256": "7cc87677e6700ff75276c0662a3d93bed2555727b83adecdd406deaa108a9e45",
+      "bytes": 15938
+    },
+    {
+      "name": "p11",
+      "sha256": "8345b74bd3c1310acadf4f878b9b98445f258f9951e534cd2fad126b3e9b880d",
+      "bytes": 15292
+    },
+    {
+      "name": "p12",
+      "sha256": "a0a3f4f420a005f843aa8709c4049004eca47a385234e3913d91b299de171690",
+      "bytes": 8298
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0302",
+  "title": "最好的座位在侧面",
+  "version": 1,
+  "bodyCharacters": 966,
+  "pages": 12,
+  "duration": 289.17,
+  "bodySha256": "b245afcedc9acfef2f9b8907c02f2848deb13f0117b6255567778c02880094e3",
+  "audioSha256": "77374e8e2a6eff3848ca07fa288eeb6ea4960f1ae4f46298817ba4ab7577268c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "17e9c0dc875b23d998066a4e8c811e1122b678a9d56209edfaddab1dcbce26f7",
+      "bytes": 15944
+    },
+    {
+      "name": "p01",
+      "sha256": "cf97f9a29e5967311943488f9c0629964325bf1f27ebd731e82c8f3e6ebc38d9",
+      "bytes": 12322
+    },
+    {
+      "name": "p02",
+      "sha256": "c9eea6d30905dcc0c00effe3fa8a253b6ee66f65538e52921612b3bdc70258a0",
+      "bytes": 9778
+    },
+    {
+      "name": "p03",
+      "sha256": "b4bee2f09cc1892f22d8ef9ca336ac4fb64fb70e5797496bcd3750d186b74850",
+      "bytes": 12208
+    },
+    {
+      "name": "p04",
+      "sha256": "1bbf4a4891e106cefcb7fb2b92e4429087fd7857bc80a266cfcf8a52409e15ba",
+      "bytes": 12794
+    },
+    {
+      "name": "p05",
+      "sha256": "59c86ac71a9db06bc7a96df6625660421a581800f10f0dc7195eb285b154f6a0",
+      "bytes": 12856
+    },
+    {
+      "name": "p06",
+      "sha256": "be54c8a945799a1a4d311519d2de0dbe47630e52928ffd70e2ea7af508ee671a",
+      "bytes": 12504
+    },
+    {
+      "name": "p07",
+      "sha256": "66641a8d685bec046687db422caf3dbee0edc290abbeeb19304705fcd4f4c6bb",
+      "bytes": 12596
+    },
+    {
+      "name": "p08",
+      "sha256": "1118e5aa28f7d04e691ecf897b6ce47ecedcb29efcce7e9f9e16ea431524f275",
+      "bytes": 10296
+    },
+    {
+      "name": "p09",
+      "sha256": "adefe32e88118259bfd9840ea5937c1a35874654f66c37a781492b89268bb1c8",
+      "bytes": 13920
+    },
+    {
+      "name": "p10",
+      "sha256": "fccb9152b31e5139cadd6fab6124a4e2d13b7aefe3f4f2e09564e4638b9e7d9b",
+      "bytes": 13850
+    },
+    {
+      "name": "p11",
+      "sha256": "70f3eeabf5f9e270c719a731c08da44ee1c67f4a76cd46568a5169db6116895f",
+      "bytes": 10836
+    },
+    {
+      "name": "p12",
+      "sha256": "2922844936aa8d2eebb5594828b6444a4116096b8c950d95c971c5cdfeffa334",
+      "bytes": 11166
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
