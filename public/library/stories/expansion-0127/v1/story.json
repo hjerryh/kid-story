@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0127",
+  "version": 1,
+  "status": "media-ready",
+  "title": "蓬球从哪边出发",
+  "subtitle": "风滚草换个地方出发",
+  "description": "沙丘观测站的墙角卡着一棵想去远处的风滚草。麦沙吹过、推过，它却总滚回来。墙外明明有风，怎样才能送这位圆朋友继续旅行呢？",
+  "ageBand": "3-5",
+  "theme": "沙丘种子",
+  "color": "#D9B875",
+  "character": "小沙狐麦沙，浅黄色绒毛，耳尖深褐，穿天蓝色背心，戴软软的白布帽。蓬球是一棵圆蓬蓬的枯黄风滚草，细枝交错，枝间留着许多小种子。",
+  "cover": "/library/stories/expansion-0127/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 156.034,
+  "detailUrl": "/library/stories/expansion-0127/v1/story.json",
+  "audio": "/library/stories/expansion-0127/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "沙丘观测站外，麦沙听见墙角沙沙响。一团枯黄的草正在抖枝条。“我是蓬球，”它说，“风把我送到这里，我却滚不出去了。”麦沙蹲下来，鼻尖碰到一股干草香。",
+      "image": "/library/stories/expansion-0127/v1/p01.webp",
+      "start": 0,
+      "end": 19.694
+    },
+    {
+      "id": "p02",
+      "text": "蓬球原来是一棵风滚草，干枯后离开了根，跟着风旅行。它把枝条张开一点：“我还有好多种子，要边滚边送呢。”麦沙看看挤紧的墙角，说：“我来送你出去。”",
+      "image": "/library/stories/expansion-0127/v1/p02.webp",
+      "start": 19.694,
+      "end": 37.924
+    },
+    {
+      "id": "p03",
+      "text": "麦沙鼓起腮帮，对着蓬球呼呼吹。蓬球晃了一下，又靠住墙。麦沙换到旁边，吹得帽带都飘起来了，蓬球还是没走。“你的风很暖，”它说，“可是有一点点小。”",
+      "image": "/library/stories/expansion-0127/v1/p03.webp",
+      "start": 37.924,
+      "end": 57.282
+    },
+    {
+      "id": "p04",
+      "text": "麦沙轻轻推着蓬球，离开墙脚。他刚松开爪子，一阵风就把蓬球送了回来。咕噜，咕噜，又是那个角落。麦沙摸摸耳朵：“奇怪，风这么大，怎么不肯带你走呢？”",
+      "image": "/library/stories/expansion-0127/v1/p04.webp",
+      "start": 57.282,
+      "end": 76.664
+    },
+    {
+      "id": "p05",
+      "text": "他没有再推，先看自己的帽带。帽带朝墙角飘，墙外杆上的布条也朝这边飘。原来，风一直在往墙角吹！“我们换个地方出发。”麦沙说，蓬球的细枝轻轻颤起来。",
+      "image": "/library/stories/expansion-0127/v1/p05.webp",
+      "start": 76.664,
+      "end": 97.006
+    },
+    {
+      "id": "p06",
+      "text": "麦沙拿来装杂物的小推车，把蓬球轻轻放进去。车轮沿着石板路，绕过观测站，也绕开路边的小草。到了屋子另一边，眼前是一大片空沙地，没有墙挡着了。",
+      "image": "/library/stories/expansion-0127/v1/p06.webp",
+      "start": 97.006,
+      "end": 115.428
+    },
+    {
+      "id": "p07",
+      "text": "麦沙看看帽带，正朝空沙地飘。他放下蓬球，往旁边退了退。风一来，蓬球就滚起来了。一颗种子落下，又一颗落下。“这次不用你吹啦！”蓬球笑着越滚越远。",
+      "image": "/library/stories/expansion-0127/v1/p07.webp",
+      "start": 115.428,
+      "end": 135.818
+    },
+    {
+      "id": "p08",
+      "text": "麦沙把小车推回站里，坐在台阶上歇脚。远远的，蓬球像一个蹦跳的小圆点。近近的，一颗种子躺在沙窝里。麦沙朝远处挥挥爪，又轻声对沙窝说：“你在这里歇歇吧。”",
+      "image": "/library/stories/expansion-0127/v1/p08.webp",
+      "start": 135.818,
+      "end": 156.034
+    }
+  ],
+  "buildHash": "e3e6cb41cc906773f2a2825a4b031df3e5f7c6e0869da62881b6d673156e5937"
+}

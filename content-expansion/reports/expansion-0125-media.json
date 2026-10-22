@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0125",
+  "title": "蓝团团旁边有星星",
+  "version": 1,
+  "bodyCharacters": 507,
+  "pages": 8,
+  "duration": 163.738,
+  "bodySha256": "a6f96ab7863a66e3a9d0960c648c92a23ae1c676bc82f98e684065497565dba6",
+  "audioSha256": "4b75a512874d8745f0688f45289cace0de8b5134c96272e27ae85de6448f0614",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4622954eb663f675678a0e6559d5f9dbf2ffb794ee5094a64d38383612c536e2",
+      "bytes": 18146
+    },
+    {
+      "name": "p01",
+      "sha256": "35dd1b060151e324886ba57f0cc7895fe2caabb9f21b25b276d9428951b11fe8",
+      "bytes": 13796
+    },
+    {
+      "name": "p02",
+      "sha256": "7a241729b9c85b654caf69d77105ffdc7d55d358213abdf026ea6b0331ef1d15",
+      "bytes": 14032
+    },
+    {
+      "name": "p03",
+      "sha256": "5cb3c9d75cd57656adc0adccb884510a2d61ef867686fbc3a951523e1948800d",
+      "bytes": 15046
+    },
+    {
+      "name": "p04",
+      "sha256": "595bb31b11b543e1e49cc4e632a17e8fd628da2ce6b170095f7da0aef5d18fad",
+      "bytes": 15502
+    },
+    {
+      "name": "p05",
+      "sha256": "7d4003d92732c1f0a42ade1d3b0d115159a75ac38126773ee970e32b45581288",
+      "bytes": 14918
+    },
+    {
+      "name": "p06",
+      "sha256": "a723a739fb9597373d8943054c21111b6b2b53006fb3256141ba277dce24a4eb",
+      "bytes": 15660
+    },
+    {
+      "name": "p07",
+      "sha256": "2bb87d23ffe134a8064fdb08633dd083a01c45c79ddc9907ba23893e63d51ac5",
+      "bytes": 15696
+    },
+    {
+      "name": "p08",
+      "sha256": "209f8997c5d461c8b2cfb3815ac89cf83bf324b411f93c736ba160c26c99a2d5",
+      "bytes": 14912
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

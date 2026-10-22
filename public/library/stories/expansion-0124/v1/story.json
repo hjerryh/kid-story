@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0124",
+  "version": 1,
+  "status": "media-ready",
+  "title": "圆窝窝也留下",
+  "subtitle": "泥盘里留下的小路",
+  "description": "米丘想把自己和石头朋友的脚印带回家，可泥盘里的小脚印总被抹平。一个想留下，一个想收拾，两位朋友要怎样做出属于他们的小路？",
+  "ageBand": "3-5",
+  "theme": "朋友间的误会",
+  "color": "#829B73",
+  "character": "小獾米丘：灰褐色毛，脸上两道黑条纹，穿杏黄色背带裤，挎棕色小布包。石头朋友圆墩：浅灰色圆身体，短短的石头手脚，头顶一撮绿苔，系蓝色小领巾。",
+  "cover": "/library/stories/expansion-0124/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 151.066,
+  "detailUrl": "/library/stories/expansion-0124/v1/story.json",
+  "audio": "/library/stories/expansion-0124/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "苔藓山洞里，住着石头朋友圆墩。小獾米丘带来一盘软泥，想留下两个人的脚印，带回家给妈妈看。他把泥盘放在地上，快乐地说：“我们做一条小路吧！”",
+      "image": "/library/stories/expansion-0124/v1/p01.webp",
+      "start": 0,
+      "end": 17.678
+    },
+    {
+      "id": "p02",
+      "text": "米丘脱下鞋，在泥上踩了两下。噗叽，噗叽，两朵小脚印开出来。他转身去拿擦脚的手帕。圆墩伸出小石手，抹呀抹。等米丘回来，泥面又平得像一块豆腐。",
+      "image": "/library/stories/expansion-0124/v1/p02.webp",
+      "start": 17.678,
+      "end": 37.948
+    },
+    {
+      "id": "p03",
+      "text": "“咦，脚印太浅了吗？”米丘重新踩上去，还扭了扭脚掌。这回，连小脚趾的印子都有了。圆墩却赶紧捧来旁边的软泥，把坑填满，仔仔细细地拍了又拍。",
+      "image": "/library/stories/expansion-0124/v1/p03.webp",
+      "start": 37.948,
+      "end": 56.466
+    },
+    {
+      "id": "p04",
+      "text": "米丘把脚缩了回来。“你不喜欢我的脚印吗？”他的声音小小的。圆墩正要靠近，圆脚踩进了泥盘边沿，留下一个圆窝窝。他连忙抹掉，头上的绿苔都晃起来。",
+      "image": "/library/stories/expansion-0124/v1/p04.webp",
+      "start": 56.466,
+      "end": 75.248
+    },
+    {
+      "id": "p05",
+      "text": "米丘看见了，抬起头问：“你的脚印，你也不要吗？”圆墩说：“我把路踩坏啦！有一个坑，补一个坑，走起来才平呀。”他说完，还用手掌轻轻摸了摸泥面。",
+      "image": "/library/stories/expansion-0124/v1/p05.webp",
+      "start": 75.248,
+      "end": 93.286
+    },
+    {
+      "id": "p06",
+      "text": "“啊，我想做的路，不是拿来走的。”米丘把泥盘拉近，“我想把我们的脚印带回家。妈妈一看，就知道我和你一起玩过。”圆墩低头看看自己的脚：“圆窝窝也留下？”",
+      "image": "/library/stories/expansion-0124/v1/p06.webp",
+      "start": 93.286,
+      "end": 111.924
+    },
+    {
+      "id": "p07",
+      "text": "“留下！”米丘先踩一步，圆墩跟着踩一步。小脚印，圆窝窝，弯弯地排成一条路。泥盘晃了一下，圆墩马上托住盘边。这回，他的手只扶着木盘，没有碰软泥。",
+      "image": "/library/stories/expansion-0124/v1/p07.webp",
+      "start": 111.924,
+      "end": 132.026
+    },
+    {
+      "id": "p08",
+      "text": "米丘擦净脚，穿好鞋，小心端起泥盘。圆墩问：“等泥干了，我能去看看吗？”“能呀，妈妈还没见过你的圆脚呢。”洞口的绿苔软软地垂着，圆墩高兴地抬起一只脚。",
+      "image": "/library/stories/expansion-0124/v1/p08.webp",
+      "start": 132.026,
+      "end": 151.066
+    }
+  ],
+  "buildHash": "e79ea2a2409d98c00ea4ec01d6831df12eb1542adf34456eaa8ea8005b9a3054"
+}

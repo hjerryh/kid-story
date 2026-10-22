@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0128",
+  "title": "不会走开的红晚霞",
+  "version": 1,
+  "bodyCharacters": 488,
+  "pages": 8,
+  "duration": 159.946,
+  "bodySha256": "a3250b20f832091baffc877c12b3b1991184a533fe4d4c6397ff133a2743fa80",
+  "audioSha256": "7c886b5a47970c3c34981e998ef2dc4654e3dbbb25f344a2fbd2d9bdcb995167",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "030726d9f43b1882264161018055fab424e4bc011257d5395ffea298c16d13f1",
+      "bytes": 13058
+    },
+    {
+      "name": "p01",
+      "sha256": "63df403429e5d12f1a5fb33a4f9cf752bcfcc5fc1678b56d0b7d63a53aa515c4",
+      "bytes": 10540
+    },
+    {
+      "name": "p02",
+      "sha256": "a597743ac3c33752717456565489db8d30986b3c36096bf86f6a6e9d1da27e28",
+      "bytes": 11694
+    },
+    {
+      "name": "p03",
+      "sha256": "91ec18748dba161087661bbcd1f1d290283083b9c2caf04266fb3a8418958b52",
+      "bytes": 12130
+    },
+    {
+      "name": "p04",
+      "sha256": "d2243a1879fff6604a75db32601334365bc133352d2593df220ec54673d77000",
+      "bytes": 11976
+    },
+    {
+      "name": "p05",
+      "sha256": "1ea84323d3ca3cf2b19437bae0d8ef8eed26236e44f9be86d30cee15d808174d",
+      "bytes": 11520
+    },
+    {
+      "name": "p06",
+      "sha256": "0d4f058d8ba0daf8aff5a4de519218827c3b1ba17e8439fa94b3e11a1a49c0a0",
+      "bytes": 12906
+    },
+    {
+      "name": "p07",
+      "sha256": "12f5241b5b585f18797841d8c64299f3c04ecd83aca59fbfd20e78f5e6f8e215",
+      "bytes": 11560
+    },
+    {
+      "name": "p08",
+      "sha256": "921d52c40c157c42008d411f341d81cae56d6322eae953bd1281e65704c7f853",
+      "bytes": 10862
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

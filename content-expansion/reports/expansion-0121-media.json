@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0121",
+  "title": "小花伞说晚上好",
+  "version": 1,
+  "bodyCharacters": 501,
+  "pages": 8,
+  "duration": 158.938,
+  "bodySha256": "1fc8d21767ab74ee85e395dc93b79b381c9281b0cf8cf734cfe3902f07ef0261",
+  "audioSha256": "3b877867ccfd0dfe3ae554a820ae98b528aff16dceeb218c24eb1e6ce1503473",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d826936813356bd82909bcadc2857aaaff21872b5f4e7c6eb3eed165dce7e8a3",
+      "bytes": 16296
+    },
+    {
+      "name": "p01",
+      "sha256": "1a691e919787bca127ff806f196fc82c0795e6aebaa3693103c849efa810d466",
+      "bytes": 14142
+    },
+    {
+      "name": "p02",
+      "sha256": "aa7f6c219dccaa283482a8ac042c4f2538d4fd627498bfd6ba619309edda59f1",
+      "bytes": 13446
+    },
+    {
+      "name": "p03",
+      "sha256": "2f7929fc878f63d7ed23253dd85b7780734cec9323b4b864ff718c11533bc8f1",
+      "bytes": 13558
+    },
+    {
+      "name": "p04",
+      "sha256": "9957040d957ef1bd43f1590672e377fb98530f4dbe29824daf43e9b0ae3bb114",
+      "bytes": 14006
+    },
+    {
+      "name": "p05",
+      "sha256": "328f68e4565246b2e817ac9681138c0f0b1715e2e6489aa87264c738d9c9ab4c",
+      "bytes": 14480
+    },
+    {
+      "name": "p06",
+      "sha256": "4e416aed4b921d3fad657c40f5051b9df8cb4d7251cb2f48e34a43c3b82ea5aa",
+      "bytes": 15522
+    },
+    {
+      "name": "p07",
+      "sha256": "912f75c3b216928b3942379e17d85757228ed36445d08f730130e5cae60fbb39",
+      "bytes": 15502
+    },
+    {
+      "name": "p08",
+      "sha256": "90d5ef2dc474d02188e67af0e3749fbbde061b991b98e4f33d5ae57f4e797f21",
+      "bytes": 14650
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

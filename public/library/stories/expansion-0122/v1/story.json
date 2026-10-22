@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0122",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小白贝壳里的床头风",
+  "subtitle": "带一阵小风回家",
+  "description": "麦扣想买一阵风，让床头的小纸风车转起来。可空中市集的风把他的脸吹鼓了，也把小布包吹翻了。他得先弄明白，怎样的风才适合带回自己的小床边。",
+  "ageBand": "3-5",
+  "theme": "说出需要",
+  "color": "#A8D8D5",
+  "character": "小獾麦扣：灰褐色绒毛，脸上有两道黑条纹，穿杏黄色背带裤，胸前有圆木扣，背绿色小布包。风婆婆：银白色卷发，穿淡紫色长裙，腰间挂着装贝壳的布袋。",
+  "cover": "/library/stories/expansion-0122/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 160.234,
+  "detailUrl": "/library/stories/expansion-0122/v1/story.json",
+  "audio": "/library/stories/expansion-0122/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "麦扣的床头有一只小纸风车。每天睡醒，他都想看它转一转，可窗外常常没有风。听说空中市集卖风，麦扣把风车装进绿色小布包，坐着云梯，升到了白云上。",
+      "image": "/library/stories/expansion-0122/v1/p01.webp",
+      "start": 0,
+      "end": 19.358
+    },
+    {
+      "id": "p02",
+      "text": "风婆婆的摊子上，排着大大小小的贝壳。掀开盖子，风就出来；合上盖子，风就歇着。“我要能吹动风车的风。”麦扣说。婆婆笑着打开大海螺：“试试这阵！”",
+      "image": "/library/stories/expansion-0122/v1/p02.webp",
+      "start": 19.358,
+      "end": 39.268
+    },
+    {
+      "id": "p03",
+      "text": "呼——麦扣的脸颊鼓起来，背带也啪啪响。他赶紧摆摆手，婆婆合上盖子。这样的大风，准会把床上的小被子掀走。可是麦扣又想，风小了，风车会不会转不动呢？",
+      "image": "/library/stories/expansion-0122/v1/p03.webp",
+      "start": 39.268,
+      "end": 59.01
+    },
+    {
+      "id": "p04",
+      "text": "他选了一只中等的贝壳，把小布包放在旁边。盖子刚开，包口就翻了过来，露出里面的风车。麦扣按住布包：“请先关上。我想要风车转，可不想东西都乱跑。”",
+      "image": "/library/stories/expansion-0122/v1/p04.webp",
+      "start": 59.01,
+      "end": 77.552
+    },
+    {
+      "id": "p05",
+      "text": "摊角有只小白贝壳，盖子开着。一根线头在它旁边，轻轻摆呀摆。麦扣刚才嫌它太小，连看都没看。这回，他取出自己的风车：“我需要轻一点的风，可以拿它试吗？”",
+      "image": "/library/stories/expansion-0122/v1/p05.webp",
+      "start": 77.552,
+      "end": 97.054
+    },
+    {
+      "id": "p06",
+      "text": "“当然可以。”婆婆把小贝壳推过来。麦扣举着风车，慢慢靠近。先是一片叶子动了，接着，整只风车悠悠转起来。旁边的布包安安稳稳，他脸上的绒毛也只是轻轻摇。",
+      "image": "/library/stories/expansion-0122/v1/p06.webp",
+      "start": 97.054,
+      "end": 117.9
+    },
+    {
+      "id": "p07",
+      "text": "麦扣又把风车移远一点，它慢慢停了。他移回来，它又转了。“我要这一只，放近些就够啦！”他合好盖子，付了钱，把小贝壳捧进布包里。一路上，包里安安静静。",
+      "image": "/library/stories/expansion-0122/v1/p07.webp",
+      "start": 117.9,
+      "end": 137.954
+    },
+    {
+      "id": "p08",
+      "text": "晚上，麦扣把贝壳摆在风车旁，打开盖子。小风车转呀转，小被子乖乖盖着肚皮。他看了一会儿，打个哈欠，轻轻合上盖子。“睡吧。”他对风说。风车停下，他也闭上眼睛。",
+      "image": "/library/stories/expansion-0122/v1/p08.webp",
+      "start": 137.954,
+      "end": 160.234
+    }
+  ],
+  "buildHash": "52af9df8806de447ab2f1a1d7c0b01f57dff37d2276b5b1ec0088ce0ea7fbc78"
+}

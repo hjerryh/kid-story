@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0123",
+  "title": "枣核床长出了四条腿",
+  "version": 1,
+  "bodyCharacters": 547,
+  "pages": 8,
+  "duration": 179.578,
+  "bodySha256": "3f2cdd29c1b751fc1d02c45f7289e6c1a832120f6691442f025434e9d7eaf350",
+  "audioSha256": "d574dde5e9d9e376aacaaca0c6736811ae1f7973dd99e01710e8a36a7eef7af7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "865dd706554f2b5113d2154da07dd49a838b924e1df8f65e25cb973c33c33eb0",
+      "bytes": 13834
+    },
+    {
+      "name": "p01",
+      "sha256": "71089f56c2664f25e1f132fb811fa3c70bf7ba37dca0d6b6a8b137172b83c594",
+      "bytes": 10042
+    },
+    {
+      "name": "p02",
+      "sha256": "4fd766d97a87628601b75286c943bce4bd45385fa2620e4e268e5a2bb0d12658",
+      "bytes": 11616
+    },
+    {
+      "name": "p03",
+      "sha256": "7d8bb63b0ab41779c04eeb694bb19f7ddf356cbf4a2e999674e08a13db595d3b",
+      "bytes": 11822
+    },
+    {
+      "name": "p04",
+      "sha256": "865998a65b236bc010f47e5b3b56daa3c91404afcb2166572608d236f168938e",
+      "bytes": 10826
+    },
+    {
+      "name": "p05",
+      "sha256": "b20509cbe6cbdbf4ffc6769081c7fc2a60ecba244427db040d7227f76295b370",
+      "bytes": 10740
+    },
+    {
+      "name": "p06",
+      "sha256": "3596dac0d45f6828e576a79359efd9705faf96a7c2aa60a82a8918530819b495",
+      "bytes": 10454
+    },
+    {
+      "name": "p07",
+      "sha256": "dcc753e7f7d95665bbe76018493140d1810628073c9b971fa5ba1e3b4038183a",
+      "bytes": 9962
+    },
+    {
+      "name": "p08",
+      "sha256": "7ec2bc5010dc46ea9ece634b04400921e84b60a2f7344d7d3b6ff57e66cc282b",
+      "bytes": 11106
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

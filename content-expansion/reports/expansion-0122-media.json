@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0122",
+  "title": "小白贝壳里的床头风",
+  "version": 1,
+  "bodyCharacters": 488,
+  "pages": 8,
+  "duration": 160.234,
+  "bodySha256": "54b04770c4c7bad03851e5be04bb9c3711a9d76016062f9c80076976d28ca33c",
+  "audioSha256": "28294701654fff4b728c19479c3987d09b48371072f436c16a6ef6006a6d0c5f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3cec815322a0473638c0546797d57179acf2a470e5f530d39402fbc3934280ee",
+      "bytes": 17152
+    },
+    {
+      "name": "p01",
+      "sha256": "5e7cbd53e447239bcfb31d01121550c1e80d2995e4168330760ad642d20f689e",
+      "bytes": 10660
+    },
+    {
+      "name": "p02",
+      "sha256": "9aaeaf151aae06e13105b9a63dbdf87b3a3477b899e3845649b362a679cff077",
+      "bytes": 14518
+    },
+    {
+      "name": "p03",
+      "sha256": "f368b47d25082aa609ad09f3aeb3f956ef46a1363a851023107fc6ee2d85057d",
+      "bytes": 15816
+    },
+    {
+      "name": "p04",
+      "sha256": "b03146dfc042fcb0709923e3f0cd7c609792f592a28cc5a6d237858306d1c0fd",
+      "bytes": 13900
+    },
+    {
+      "name": "p05",
+      "sha256": "9478f0ef7f210f4a2d50c4e9474acb2dbbd6f1694e1e07622336c45504cbc8f2",
+      "bytes": 13498
+    },
+    {
+      "name": "p06",
+      "sha256": "2633da1c98218a454368896b1491bfeb970541d01bdf9c2afa3988c01dc1fd7e",
+      "bytes": 13874
+    },
+    {
+      "name": "p07",
+      "sha256": "f4111a1482ee67ceb285aee2182293ef94aac4386af99b869c84505d18140a49",
+      "bytes": 13200
+    },
+    {
+      "name": "p08",
+      "sha256": "074e0b401063340f92f15802b35a6e32de8d2d6b9097d409abb20dbd699674fe",
+      "bytes": 10456
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

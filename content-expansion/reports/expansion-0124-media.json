@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0124",
+  "title": "圆窝窝也留下",
+  "version": 1,
+  "bodyCharacters": 468,
+  "pages": 8,
+  "duration": 151.066,
+  "bodySha256": "1408addfc2932f66effb196a8e2841d218bf7b892914f1671e42ce10ce41d2e3",
+  "audioSha256": "372d61bcaccd1d37aa10b38dd3675f837b508a9b9fc0cd72961810521a94e2a6",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "c0d30180a15b762ea1a6f2be031af4000f628eef810116089d7a10defab5bd69",
+      "bytes": 14924
+    },
+    {
+      "name": "p01",
+      "sha256": "4098e4aaf289ffa43430dda8cb7db06c10dc04c00b0a2c7525534f1bd62d587c",
+      "bytes": 12360
+    },
+    {
+      "name": "p02",
+      "sha256": "a23b329bc8e31dad9dc431feed81e5e928c6881437c16a98cd67b2daa9165235",
+      "bytes": 12728
+    },
+    {
+      "name": "p03",
+      "sha256": "47287f64a0b5e01d95a46d75d79c796b6b800e09473a71c1cea0ba4556844163",
+      "bytes": 12992
+    },
+    {
+      "name": "p04",
+      "sha256": "7e5897f837b87d447bb137c24d0273b93480ce5daef2380cd46a68b849e2b697",
+      "bytes": 12350
+    },
+    {
+      "name": "p05",
+      "sha256": "6f4344f938f0e4ffb43fae9d025be09485871bd64758c20f06ec1c5fef47a8a7",
+      "bytes": 12302
+    },
+    {
+      "name": "p06",
+      "sha256": "a866a9cb5cea2cbffb48b1c41b0c5ae5e1281ac55535619e5c426bf8e12d0472",
+      "bytes": 12494
+    },
+    {
+      "name": "p07",
+      "sha256": "0bc2615d77f924aa696fe4900384dfbde8977dd809b01a03b758c37115651296",
+      "bytes": 12764
+    },
+    {
+      "name": "p08",
+      "sha256": "4efe021afe9ae79016dfbaa9afbedf53e4d6dc1a36e193855cb1766ecb79ffe6",
+      "bytes": 12032
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

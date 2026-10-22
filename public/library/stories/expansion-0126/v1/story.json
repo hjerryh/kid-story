@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0126",
+  "version": 1,
+  "status": "media-ready",
+  "title": "泡泡火车到站啦",
+  "subtitle": "啵的一声到站了",
+  "description": "月光牧屋里，一把小壶能倒出圆圆的泡泡。蓬月想让泡泡排成长火车，栗丁却最喜欢把它们碰破。断开的泡泡火车，还能带着两个朋友一起玩吗？",
+  "ageBand": "3-5",
+  "theme": "不同的喜欢",
+  "color": "#B6A8D8",
+  "character": "小羊蓬月：奶白色卷毛，圆耳朵，穿浅紫色背带裙。小刺猬栗丁：栗褐色短刺，米黄色脸蛋和肚皮，穿绿色小背心。泡泡壶：浅蓝色圆肚陶壶，弯壶嘴，壶盖上有白色月牙。",
+  "cover": "/library/stories/expansion-0126/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 167.53,
+  "detailUrl": "/library/stories/expansion-0126/v1/story.json",
+  "audio": "/library/stories/expansion-0126/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "月光牧屋里，有一把圆肚子小壶。它不倒水，只倒泡泡。小羊蓬月把壶嘴轻轻一斜，圆泡泡便一个挨一个飘出来。她请小刺猬栗丁坐在软毯上：“我们开一列泡泡火车吧！”",
+      "image": "/library/stories/expansion-0126/v1/p01.webp",
+      "start": 0,
+      "end": 20.174
+    },
+    {
+      "id": "p02",
+      "text": "蓬月鼓起嘴巴，轻轻吹。泡泡摇摇晃晃，像一串透明葡萄。栗丁伸出指尖，啵，碰破一颗；啵，又碰破一颗。他笑得肚皮直抖。蓬月却急了：“哎呀，车厢全断开啦！”",
+      "image": "/library/stories/expansion-0126/v1/p02.webp",
+      "start": 20.174,
+      "end": 41.524
+    },
+    {
+      "id": "p03",
+      "text": "蓬月想，也许车厢太小了。她把壶斜得更低，倒出一颗大泡泡。栗丁眼睛一亮，伸长指头。啪！大泡泡在他鼻尖破了。他笑得更响，蓬月抱着壶，耳朵慢慢垂下来。",
+      "image": "/library/stories/expansion-0126/v1/p03.webp",
+      "start": 41.524,
+      "end": 62.706
+    },
+    {
+      "id": "p04",
+      "text": "“这次先别碰，好不好？”蓬月说。栗丁把手藏到背后。泡泡火车终于长起来了，可他不笑了，只拿脚尖蹭蹭毯子。“我最喜欢啵的一下。”他说，“手指头也想玩。”",
+      "image": "/library/stories/expansion-0126/v1/p04.webp",
+      "start": 62.706,
+      "end": 82.784
+    },
+    {
+      "id": "p05",
+      "text": "蓬月看看他的手，又看看泡泡。她喜欢圆圆的车厢，栗丁喜欢清脆的响声。正想着，三颗泡泡飘到了空椅子旁。蓬月忽然说：“这里当车站！火车到了，你来给车厢开门！”",
+      "image": "/library/stories/expansion-0126/v1/p05.webp",
+      "start": 82.784,
+      "end": 103.726
+    },
+    {
+      "id": "p06",
+      "text": "蓬月摆了几块积木，当作沿路的小山。栗丁坐到椅子边，竖起一根指头。“先让它绕过山，再进站。”蓬月说。她倒出新泡泡，小步挪着，轻轻吹着，把火车送向栗丁。",
+      "image": "/library/stories/expansion-0126/v1/p06.webp",
+      "start": 103.726,
+      "end": 124.62
+    },
+    {
+      "id": "p07",
+      "text": "一节，两节，三节，透明车厢绕过小山，慢悠悠地进了站。栗丁轻轻一点：“开门啦！”啵！又一点，啵！蓬月看完了整列火车，栗丁也听够了喜欢的响声。两个人都笑了。",
+      "image": "/library/stories/expansion-0126/v1/p07.webp",
+      "start": 124.62,
+      "end": 146.618
+    },
+    {
+      "id": "p08",
+      "text": "他们又开了好几趟车。最后一颗泡泡飘得特别慢，里面映着一弯小月亮。栗丁没有伸手，只轻轻招呼：“小月亮，你坐稳呀。”蓬月捧着壶，陪他等那节亮亮的车厢慢慢进站。",
+      "image": "/library/stories/expansion-0126/v1/p08.webp",
+      "start": 146.618,
+      "end": 167.53
+    }
+  ],
+  "buildHash": "790a590f23d4187d7ec578243a9b2fd8437215abfa0a49f9998db938b6e9d08b"
+}

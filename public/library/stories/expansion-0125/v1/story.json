@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0125",
+  "version": 1,
+  "status": "media-ready",
+  "title": "蓝团团旁边有星星",
+  "subtitle": "五个尖角找回来",
+  "description": "麦绒想给旧木阁楼的小床印一幅星星帘，可会说话的星星海绵一碰布，五个尖角就不见了。麦绒试着按得更用力，却印出更大的蓝团团。他们还能把星星印出来吗？",
+  "ageBand": "3-5",
+  "theme": "试印星星",
+  "color": "#819DBF",
+  "character": "小田鼠麦绒：浅棕色绒毛，圆耳朵，穿杏黄色背带裤。星星海绵：黄色五角星形状，中央有两只小黑眼睛和一张小嘴，吸进蓝色颜料后身体变蓝。",
+  "cover": "/library/stories/expansion-0125/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 163.738,
+  "detailUrl": "/library/stories/expansion-0125/v1/story.json",
+  "audio": "/library/stories/expansion-0125/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "旧木阁楼里，有一张小床。小田鼠麦绒想给床边的白布帘印上蓝星星。他找到一块会说话的星星海绵。“我有五个尖角！”海绵挺挺软肚皮，“让我试试吧。”",
+      "image": "/library/stories/expansion-0125/v1/p01.webp",
+      "start": 0,
+      "end": 18.71
+    },
+    {
+      "id": "p02",
+      "text": "麦绒把蓝色颜料倒进浅盘，让海绵舒舒服服地泡进去。咕叽，咕叽，海绵的肚皮鼓起来了。“我准备好啦！”麦绒捧起它，往白布上一按。咦，星星怎么变成了蓝团团？",
+      "image": "/library/stories/expansion-0125/v1/p02.webp",
+      "start": 18.71,
+      "end": 39.004
+    },
+    {
+      "id": "p03",
+      "text": "“一定是尖角没贴住。”麦绒换了块空地方，把两只小手都压上去。“嘿哟！”蓝水从海绵边上挤出来。这回的团团更大了。“我的角呢？”海绵低头找，麦绒也低头找。",
+      "image": "/library/stories/expansion-0125/v1/p03.webp",
+      "start": 39.004,
+      "end": 59.778
+    },
+    {
+      "id": "p04",
+      "text": "麦绒把海绵托回浅盘上方。滴答，滴答，它还在往下滴蓝水。五个尖角明明都在，只是湿漉漉地挤成一团。麦绒看看布上的水圈，小声说：“是不是蓝水太多，把角淹住了？”",
+      "image": "/library/stories/expansion-0125/v1/p04.webp",
+      "start": 59.778,
+      "end": 80.6
+    },
+    {
+      "id": "p05",
+      "text": "他轻轻挤了挤海绵，让多余的蓝水流回盘里。“肚皮松快啦。”海绵说。麦绒没有急着碰白布帘，先找来一块旧布。他托住海绵，轻轻按下，再直直提起：一颗星星出现了！",
+      "image": "/library/stories/expansion-0125/v1/p05.webp",
+      "start": 80.6,
+      "end": 101.278
+    },
+    {
+      "id": "p06",
+      "text": "这颗星星有五个清清楚楚的尖角。麦绒笑得胡须翘起来。他让海绵浅浅蘸一点颜料，先在旧布上试一下，再印到帘子上。轻轻按，直直提，蓝星星一颗接一颗站好了。",
+      "image": "/library/stories/expansion-0125/v1/p06.webp",
+      "start": 101.278,
+      "end": 121.236
+    },
+    {
+      "id": "p07",
+      "text": "帘子上，星星有的深，有的浅，像在眨不同的眼睛。最先印的两个蓝团团还在那里。麦绒歪头看了看：“这两朵云，也住下吧。”海绵点点尖角：“我的星星正好有地方躲猫猫。”",
+      "image": "/library/stories/expansion-0125/v1/p07.webp",
+      "start": 121.236,
+      "end": 142.298
+    },
+    {
+      "id": "p08",
+      "text": "等颜料干了，麦绒把帘子挂在小床边。洗干净的海绵躺在小碟里，重新露出黄肚皮。晚上，麦绒拉好帘子，小声数星星。数到蓝云旁边，他打了个哈欠，海绵也跟着打了一个。",
+      "image": "/library/stories/expansion-0125/v1/p08.webp",
+      "start": 142.298,
+      "end": 163.738
+    }
+  ],
+  "buildHash": "e100a32c1a336eebf5169634ce817a0c211a6ee815597704e4cfebb5c820f762"
+}

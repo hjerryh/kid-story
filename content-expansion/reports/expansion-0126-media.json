@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0126",
+  "title": "泡泡火车到站啦",
+  "version": 1,
+  "bodyCharacters": 496,
+  "pages": 8,
+  "duration": 167.53,
+  "bodySha256": "3c3bcd675edb9f9dce1becdd4bcc7c8da54c73007079e17240f6838f9e6ab0ff",
+  "audioSha256": "f07163e15ad5772c68c8e3b3d72c9f1495dbeba26c070ea0aa6178123d65c6f4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9b74e5aaf00d81ae27d979d97612f096f8009b6795075501dd5b2b4451f54c14",
+      "bytes": 20472
+    },
+    {
+      "name": "p01",
+      "sha256": "c7da06a69aec78975372aab44bb9a0edb6c990db4d04adaeb130e60589c0a525",
+      "bytes": 14980
+    },
+    {
+      "name": "p02",
+      "sha256": "3ba0e600005eaf134b7adce362a16dc9c259c15a2c31b031b3852e945d0b32ef",
+      "bytes": 15090
+    },
+    {
+      "name": "p03",
+      "sha256": "bb1b341c37b7af2d2a19a201926936e8a7f8aa4bcbaab4c3e25b5622fbe949e4",
+      "bytes": 14664
+    },
+    {
+      "name": "p04",
+      "sha256": "098b9c08169295c525f5f3fb46698d22203944cc5368154031498aad1f83a367",
+      "bytes": 14620
+    },
+    {
+      "name": "p05",
+      "sha256": "3e64efa2487b9bc23eb29fba4eb4b73114462631db53d65f8d87ae519d0893ea",
+      "bytes": 14642
+    },
+    {
+      "name": "p06",
+      "sha256": "78d053a575e26c866f08b33950253338db2d4efc362a1766a1651143c8351360",
+      "bytes": 15452
+    },
+    {
+      "name": "p07",
+      "sha256": "bd2de3e999c170693907a7e8f5e4c1a083f7022c1336d2ab795abfd1db46bbc3",
+      "bytes": 15112
+    },
+    {
+      "name": "p08",
+      "sha256": "df309f69a1772f3985aca91eb6ee7b2b47ba1b48136472644587e2498d48c0c7",
+      "bytes": 14518
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

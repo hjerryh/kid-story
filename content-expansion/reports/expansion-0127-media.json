@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0127",
+  "title": "蓬球从哪边出发",
+  "version": 1,
+  "bodyCharacters": 481,
+  "pages": 8,
+  "duration": 156.034,
+  "bodySha256": "e11b172044a84f56c0208485d2a42fe59615963d607ed7ec9374ca1672c4fb94",
+  "audioSha256": "1c5ef337e490c5aba05f53cff710f1952723d54cf94cf4291ba564b3871f2a0e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "bff6ae8be28f4d0b08a1472f2a2669b02ce54a8960a9148bde9d802acbe4f7b5",
+      "bytes": 15550
+    },
+    {
+      "name": "p01",
+      "sha256": "3193fffcc47be1b2ff881d69f822b5378c62366213c9f4fe931a0aa2cfea435a",
+      "bytes": 10990
+    },
+    {
+      "name": "p02",
+      "sha256": "1eaa58e0518a76d93815280b4509eaec2fa2f13c93558e384a10f9c5036cc321",
+      "bytes": 11652
+    },
+    {
+      "name": "p03",
+      "sha256": "49f1faa097b4f71f19942f25c0b32a339df09bef7cde294b5f066550f2e9049d",
+      "bytes": 11714
+    },
+    {
+      "name": "p04",
+      "sha256": "44cf530f622f3f8e565ba91d11bf138f4329b5e21e28cef825972471bfd03657",
+      "bytes": 12810
+    },
+    {
+      "name": "p05",
+      "sha256": "ecd15e37180fe5b562c7eeda55b00352864b7e2faa041f9af797966bf498df5e",
+      "bytes": 11904
+    },
+    {
+      "name": "p06",
+      "sha256": "20a6a8895fd437827a9c8421ac9a5cddcdae92039c735594b2ddd190853f5bb3",
+      "bytes": 12088
+    },
+    {
+      "name": "p07",
+      "sha256": "7594bcae3ad5eb708b074b76b00bf39f8c18810cae07efb66981bfb704babe01",
+      "bytes": 12408
+    },
+    {
+      "name": "p08",
+      "sha256": "3dac0b51d756dbd2111906448d13028ca5ff180cd8687f515e32dd0bc19bb45c",
+      "bytes": 9444
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

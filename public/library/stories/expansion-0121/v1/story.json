@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0121",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小花伞说晚上好",
+  "subtitle": "白花自己的起床时间",
+  "description": "落叶迷宫里藏着一朵紧紧合拢的白花。小花精弯弯想看看花心，却怎么也看不见。她留在花旁画画，发现这朵花有自己的起床时候。",
+  "ageBand": "3-5",
+  "theme": "花间发现",
+  "color": "#D5AA62",
+  "character": "小花精弯弯，浅绿色短发，圆脸，穿杏黄色连衣裙和绿色软鞋，背一只小小的棕色布包；身量只有一片枫叶高。",
+  "cover": "/library/stories/expansion-0121/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 158.938,
+  "detailUrl": "/library/stories/expansion-0121/v1/story.json",
+  "audio": "/library/stories/expansion-0121/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "小花精弯弯走进落叶迷宫，鞋底沙沙，头顶沙沙。一个转角后，藏着一朵合拢的白花，像一把卷好的小伞。弯弯仰起脸：花伞里面，会不会藏着一颗圆圆的小太阳？",
+      "image": "/library/stories/expansion-0121/v1/p01.webp",
+      "start": 0,
+      "end": 19.718
+    },
+    {
+      "id": "p02",
+      "text": "她想看清白花的花心。她绕到左边，又绕到右边，还蹲下来往上瞧。白花裹得严严实实，只露出一点尖尖的花瓣。弯弯的脖子都仰酸了，里面依旧什么也看不见。",
+      "image": "/library/stories/expansion-0121/v1/p02.webp",
+      "start": 19.718,
+      "end": 38.404
+    },
+    {
+      "id": "p03",
+      "text": "“小花伞，请打开一点点，好吗？”弯弯轻轻问。白花没有回答。她又唱了一支起床歌，唱到最后，自己先打了个哈欠。白花还是尖尖的，连一条小缝也没有露出来。",
+      "image": "/library/stories/expansion-0121/v1/p03.webp",
+      "start": 38.404,
+      "end": 58.002
+    },
+    {
+      "id": "p04",
+      "text": "弯弯没有掰花瓣。她从布包里拿出小画本，坐在一片黄叶上。“那我先画画你的外面。”她画完细细的花茎，再画尖尖的花头。画着画着，身旁的阳光慢慢移走了。",
+      "image": "/library/stories/expansion-0121/v1/p04.webp",
+      "start": 58.002,
+      "end": 77.192
+    },
+    {
+      "id": "p05",
+      "text": "天空变成淡淡的紫色。弯弯抬头一看，咦，尖尖的花头变松了！她把蜡笔放下，挨着花坐好。一条白边慢慢向外弯，另一条也跟着弯。那把小花伞，正在自己打开。",
+      "image": "/library/stories/expansion-0121/v1/p05.webp",
+      "start": 77.192,
+      "end": 97.462
+    },
+    {
+      "id": "p06",
+      "text": "白花伸了个懒腰，轻声说：“晚上好。”弯弯终于看见了，花心是淡黄的，像一小勺软软的月光。“原来你这时候起床呀！”她说。白花点点头，把清清的香气送到她鼻尖。",
+      "image": "/library/stories/expansion-0121/v1/p06.webp",
+      "start": 97.462,
+      "end": 118.5
+    },
+    {
+      "id": "p07",
+      "text": "弯弯翻开新的一页，把张开的白花画下来，又认真添上淡黄的花心。白花低头看了看：“白天那张也留着，那是我睡觉的样子。”弯弯把两张画并排摆好，轻轻笑了。",
+      "image": "/library/stories/expansion-0121/v1/p07.webp",
+      "start": 118.5,
+      "end": 137.258
+    },
+    {
+      "id": "p08",
+      "text": "第二天，弯弯等天空泛起淡紫色，才带着画本来到转角。白花刚好伸展花瓣。她坐回那片黄叶上，说：“晚上好，小花伞。”这回她不急着画了，她们一起看星星慢慢亮起来。",
+      "image": "/library/stories/expansion-0121/v1/p08.webp",
+      "start": 137.258,
+      "end": 158.938
+    }
+  ],
+  "buildHash": "876c88c0c33e540b78e58075c49548a2145b1af2236e6add89fef73eaf545034"
+}

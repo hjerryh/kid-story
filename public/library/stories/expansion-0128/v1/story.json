@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0128",
+  "version": 1,
+  "status": "media-ready",
+  "title": "不会走开的红晚霞",
+  "subtitle": "窗婆婆想看雪",
+  "description": "杏团把果酱画到了会说话的窗婆婆脸上，却说那是晚霞。红印子越擦越大，窗婆婆看不清最喜欢的雪花了。杏团要怎样把窗外的白世界还给她？",
+  "ageBand": "3-5",
+  "theme": "诚实与补救",
+  "color": "#B8CED9",
+  "character": "小松鼠杏团：栗棕色绒毛，奶白色脸颊，蓬松大尾巴，穿浅黄色背带裤。窗婆婆：风雪山屋的一扇方窗，浅棕色木窗框，两枚圆木节像眼睛，说话时窗框轻轻响。",
+  "cover": "/library/stories/expansion-0128/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 159.946,
+  "detailUrl": "/library/stories/expansion-0128/v1/story.json",
+  "audio": "/library/stories/expansion-0128/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "风雪山屋里，杏团坐在窗边吃面包。窗婆婆最爱看雪，一片，两片，她看得木窗框轻轻响。杏团舔舔嘴角的果酱，说：“白白的外面，要是开一朵红花就好了。”",
+      "image": "/library/stories/expansion-0128/v1/p01.webp",
+      "start": 0,
+      "end": 19.43
+    },
+    {
+      "id": "p02",
+      "text": "她用沾着果酱的手指，在玻璃上点了五片花瓣。窗婆婆问：“什么红红的，挡住我的眼睛啦？”杏团把手藏到背后，小声说：“是晚霞。”说完，她的耳尖热热的。",
+      "image": "/library/stories/expansion-0128/v1/p02.webp",
+      "start": 19.43,
+      "end": 38.356
+    },
+    {
+      "id": "p03",
+      "text": "窗婆婆眨眨木节眼睛：“这片晚霞真厚呀，小雪花都看不清了。”杏团看看红花，又看看窗外。她想把白白的世界还给窗婆婆，便拿来桌上的干布，悄悄擦起来。",
+      "image": "/library/stories/expansion-0128/v1/p03.webp",
+      "start": 38.356,
+      "end": 57.33
+    },
+    {
+      "id": "p04",
+      "text": "擦一下，花瓣拉长了。再擦一下，五片花瓣连成一团红雾。果酱黏黏的，干布也黏住了。杏团越擦越着急。窗婆婆轻轻说：“别忙，我可以等晚霞自己走开。”",
+      "image": "/library/stories/expansion-0128/v1/p04.webp",
+      "start": 57.33,
+      "end": 77.552
+    },
+    {
+      "id": "p05",
+      "text": "杏团停下了手。“它不会自己走。”她低着头说，“不是晚霞，是我画的果酱花。对不起，我刚才没有说实话。”窗婆婆没有催她。杏团抬起脸：“我能用湿布洗掉它吗？”",
+      "image": "/library/stories/expansion-0128/v1/p05.webp",
+      "start": 77.552,
+      "end": 97.654
+    },
+    {
+      "id": "p06",
+      "text": "“可以呀，轻轻洗。”杏团端来一小盆温水，把干净软布浸湿，拧到不滴水，再贴住红印。等了一会儿，黏黏的果酱变软了。她慢慢一擦，玻璃露出了一小块亮亮的白。",
+      "image": "/library/stories/expansion-0128/v1/p06.webp",
+      "start": 97.654,
+      "end": 117.588
+    },
+    {
+      "id": "p07",
+      "text": "杏团一小块一小块地擦，把布洗净，再擦一遍。盆里的水变成淡淡的粉红色。最后一点红印不见了，窗外的松树清清楚楚。窗婆婆高兴地说：“瞧，树尖戴了顶歪帽子！”",
+      "image": "/library/stories/expansion-0128/v1/p07.webp",
+      "start": 117.588,
+      "end": 138.218
+    },
+    {
+      "id": "p08",
+      "text": "杏团也笑了。她拿出纸和红蜡笔，把红花画在纸上，放到窗边的桌子上。“这朵不挡眼睛。”她靠着木窗框，陪窗婆婆看雪。一片，两片，白帽子又往松树的小耳朵上滑了一点。",
+      "image": "/library/stories/expansion-0128/v1/p08.webp",
+      "start": 138.218,
+      "end": 159.946
+    }
+  ],
+  "buildHash": "bd3d6cc6a022966003417ecdd2a9e225f29d7b19a218dfff001fdca2964a7826"
+}
