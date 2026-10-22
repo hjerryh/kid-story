@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0267",
+  "title": "最圆的球窝盖上了叶子",
+  "version": 1,
+  "bodyCharacters": 1025,
+  "pages": 12,
+  "duration": 305.874,
+  "bodySha256": "1c878f1bc0514e4a4a50c36a9b9bc89bb60893ecaa4bbf30f6a8821309f9ee72",
+  "audioSha256": "450266e7618a8d23fc6c992915e8e988331393b2d30c6733fdf31e52a24bd177",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5ab8645fe4ed8aedb065a4226cbdec11570f67a6e780e96726fd4343dd2a7b2c",
+      "bytes": 14700
+    },
+    {
+      "name": "p01",
+      "sha256": "235939a78d16aba986324a960e11ec6d65f1d0c429a3882f4876e9a199d49f49",
+      "bytes": 9556
+    },
+    {
+      "name": "p02",
+      "sha256": "82f1a834cfdb5a611b7db72e361dded06a049d81d70e8e20fd5ae1cab300c32c",
+      "bytes": 9398
+    },
+    {
+      "name": "p03",
+      "sha256": "98f32fd86a4de32b56697a43d0419c5953035381980bb3fec5aa13e60cb0c584",
+      "bytes": 12686
+    },
+    {
+      "name": "p04",
+      "sha256": "916df054a84a60529e3b829aac7801f5b1800c96e181c394a22556f91411910f",
+      "bytes": 10062
+    },
+    {
+      "name": "p05",
+      "sha256": "9a87704b26a84605a9a140edff69a31a3a3b77bebb0eebaa9202de156ff84354",
+      "bytes": 9636
+    },
+    {
+      "name": "p06",
+      "sha256": "8cd516dd3006b96aec2cc23dff22ed7f515c8c54cfec26be8d2b542ddfda2d02",
+      "bytes": 15628
+    },
+    {
+      "name": "p07",
+      "sha256": "5cbfd427fef95258b1900ce4cfaf8d4706c3a2a81c21cf1c1ec57ba207d39485",
+      "bytes": 14742
+    },
+    {
+      "name": "p08",
+      "sha256": "3a8104226451370d9a2692af0f51f4ff7a4852084e725db71f4d8071fec87fdd",
+      "bytes": 13066
+    },
+    {
+      "name": "p09",
+      "sha256": "3b5b48e25496a81b3c5b739482a832bdfaf3b217540f63f43a3988c942b6e7d4",
+      "bytes": 13344
+    },
+    {
+      "name": "p10",
+      "sha256": "8c0cb82e6fb8a967c3b4d3561154668521740ac006b769e92f60dec4cfa4b4dc",
+      "bytes": 13704
+    },
+    {
+      "name": "p11",
+      "sha256": "5f1209dcfbddf19f4c893e527f25dcdd34d0254e9e6a5db1b318a9c836c886ed",
+      "bytes": 9360
+    },
+    {
+      "name": "p12",
+      "sha256": "af1cc093d5483550539e60f30cee783a379212a95b415459fdadb92a5be26b55",
+      "bytes": 14474
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

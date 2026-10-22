@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0270",
+  "title": "两颗水珠一起赢了",
+  "version": 1,
+  "bodyCharacters": 1012,
+  "pages": 12,
+  "duration": 300.402,
+  "bodySha256": "63898530fbd1dac77d351bc04db429f5cc54db3abe1f7c5d20e307f2600c797a",
+  "audioSha256": "ea74db3a8f927fdf4bcac1370d8294fd98ca68c05d717cd8f9dd52b1821bf944",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3c11b33ea01c7bca257a6d04af9d9b7bcc238b2196930deb97b0e6913fe6de0b",
+      "bytes": 25214
+    },
+    {
+      "name": "p01",
+      "sha256": "143d7ff337057d8fb814daa4903324ca5c7cf592f2ce32914476f6a2195d5dd3",
+      "bytes": 10908
+    },
+    {
+      "name": "p02",
+      "sha256": "ab9988f03def1f920c996ee69afe2efd408b58675fc70cbc2e7b54bced02ad5a",
+      "bytes": 18898
+    },
+    {
+      "name": "p03",
+      "sha256": "c9138a1fc1e95a7389b20451b475c66d02b1e8e338c0b206defdf489fb2fe3c9",
+      "bytes": 18454
+    },
+    {
+      "name": "p04",
+      "sha256": "8103140d77a41ddfd6169da8ff6a68cc6f476e6aebe33b152894f77c5636ae1a",
+      "bytes": 14434
+    },
+    {
+      "name": "p05",
+      "sha256": "e442a7e4ad60f88b561e4e2321021c450cc5f03b381d8bcf81e99e343724e0e8",
+      "bytes": 18642
+    },
+    {
+      "name": "p06",
+      "sha256": "c1ce6d1083ff352591b14ba9e5af3eb327cb1ca0d2c074ae1d4e891336f91379",
+      "bytes": 19044
+    },
+    {
+      "name": "p07",
+      "sha256": "1c575b815382031fe53665958f85fddf1b2d5552c2c8dbb581a8afdde7af2f14",
+      "bytes": 18920
+    },
+    {
+      "name": "p08",
+      "sha256": "ebcca12db8af2598897f580e82a529463f539b126f612975a193dda8f10007ed",
+      "bytes": 22186
+    },
+    {
+      "name": "p09",
+      "sha256": "c1fbf085ccabbbb1b1fcba3de2f102f2e264baddc473a93397e13b0bdba18fb6",
+      "bytes": 22208
+    },
+    {
+      "name": "p10",
+      "sha256": "4a95054000ce9fb9247ae94464203c4476d3943cedc2277affef575cb4eb4550",
+      "bytes": 22446
+    },
+    {
+      "name": "p11",
+      "sha256": "30cc62e3490ef9a4bb14383618c0893bee0aa91e7bf0de0136d6ce83b4729162",
+      "bytes": 19182
+    },
+    {
+      "name": "p12",
+      "sha256": "638a92c4205b6c8e8d96984c637607f97ef0622e6582be1eed573e91c48c59c4",
+      "bytes": 12418
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

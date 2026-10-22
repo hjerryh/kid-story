@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0268",
+  "title": "纸龙翅膀上的两道折痕",
+  "version": 1,
+  "bodyCharacters": 984,
+  "pages": 12,
+  "duration": 295.026,
+  "bodySha256": "5bcb1593d2a251426511d7158a215091422bac9a395b2394a8eb75b99c038cdb",
+  "audioSha256": "10e437c0958e7c8b6394fe63b7e0a6a8371bcd93fd5a6acaa57313b1398b7201",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e1063293a91a3af7c6b91fc4f10e88e49d826fcb15346d94840b12670f078cff",
+      "bytes": 17948
+    },
+    {
+      "name": "p01",
+      "sha256": "5cdfd52ca57ce20b5195acc87d547312fa2e5c1e1a26e69a85d1e69fe020bb72",
+      "bytes": 18462
+    },
+    {
+      "name": "p02",
+      "sha256": "90382fae4e6279bbb1de3d3bb5f8a06688ab703c67b814281cbbfda015d68388",
+      "bytes": 18570
+    },
+    {
+      "name": "p03",
+      "sha256": "1263ef95b5dfa386f2e39dd576543ffc829f7e3fde7d498a8201cacc5c0a4980",
+      "bytes": 19420
+    },
+    {
+      "name": "p04",
+      "sha256": "3c819d4748f7281397d5d83f7a72a6784754918c37904c9e0088360f86f9059c",
+      "bytes": 18360
+    },
+    {
+      "name": "p05",
+      "sha256": "8c5d041c14afc01f79cffeaee51b4ded1b253f89c2ae0f15674e853880faab35",
+      "bytes": 20376
+    },
+    {
+      "name": "p06",
+      "sha256": "8fd7d17b26ce38a66e40dbaee0ed6edb8ac92ba496deee43bff7c87b0adb2c75",
+      "bytes": 18658
+    },
+    {
+      "name": "p07",
+      "sha256": "26beac7732389fa2e4224034a1193badf22de66fce6d4339c8cd7d9f9f5e4d05",
+      "bytes": 19268
+    },
+    {
+      "name": "p08",
+      "sha256": "6aaf889869723c7a5a2355d776d394b53eac4e15f302fa3a50b619d06ed489b3",
+      "bytes": 19648
+    },
+    {
+      "name": "p09",
+      "sha256": "365ce9ee7a62d3a87074a36f1b67444b2cd81f6e060273e912c8eff9a6b59e32",
+      "bytes": 15934
+    },
+    {
+      "name": "p10",
+      "sha256": "88a2ffc46d541573ca1144c65c5dbc45767dcd57440b554c6581cba8eaf1313d",
+      "bytes": 19564
+    },
+    {
+      "name": "p11",
+      "sha256": "bda6bf99445a05dac71dc95069f61e6c8b0be907e9b2e4e5a95a0bcc4240f1c4",
+      "bytes": 18064
+    },
+    {
+      "name": "p12",
+      "sha256": "059e0e79c2219ee1f019cbfc3a6ccbd2b63e441946e65288660a6db49ccfa522",
+      "bytes": 17512
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

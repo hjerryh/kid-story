@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0265",
+  "title": "左靴先住进了抽屉",
+  "version": 1,
+  "bodyCharacters": 1037,
+  "pages": 12,
+  "duration": 305.034,
+  "bodySha256": "286d4f7c3a90f6c5ad2820dd497864caa5a3a17753d69186d26e3d89e398c52c",
+  "audioSha256": "ba58b78834383fe45b6872862170b8495cca4562c22c6c0a381f12a3b85fe095",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "fc0e45501829421e6bba3cb916167061e27ef1f2117597aca153ecaf5b544959",
+      "bytes": 14564
+    },
+    {
+      "name": "p01",
+      "sha256": "dd8b7614f1a1c62e69393d6b2ebe736079dae1514fe923a854527a37a1d9842a",
+      "bytes": 11698
+    },
+    {
+      "name": "p02",
+      "sha256": "5c7d1711205677f702c03c3aff3aabca4ce0efe3b808505a027e89c25c1f34f2",
+      "bytes": 13748
+    },
+    {
+      "name": "p03",
+      "sha256": "46f2df3983fb57eca8ab51309a5e7f08a04b3eb7bbb4f8b98df40f2a388ec786",
+      "bytes": 12956
+    },
+    {
+      "name": "p04",
+      "sha256": "915a31baf846eddcd199dbe78e6fc719b9959510b5d9bebde979387814fede19",
+      "bytes": 13764
+    },
+    {
+      "name": "p05",
+      "sha256": "143c4ba722e940b03aa9e42be2047f5443a0e41be2b4adbb33b00dae0af598fc",
+      "bytes": 12978
+    },
+    {
+      "name": "p06",
+      "sha256": "cb67f35afbcbcd197a6278cbac7b3246d00afc66569a02bcbed8343cdd5cfd34",
+      "bytes": 7302
+    },
+    {
+      "name": "p07",
+      "sha256": "93d5fccf15eeb151e03e46cc202b67dea234ee4040ad0718597d4af18d3c1866",
+      "bytes": 14074
+    },
+    {
+      "name": "p08",
+      "sha256": "a974c4c6981fc30b2e8891fd1935cd5a4f7cbff8efff944746d143cfd18125f4",
+      "bytes": 9462
+    },
+    {
+      "name": "p09",
+      "sha256": "97666f9e3bb9492eade697c9080acd44c02f8027495f6f67515d905d77eb0308",
+      "bytes": 7620
+    },
+    {
+      "name": "p10",
+      "sha256": "2408c74e164cab3e02de8bb571ee14929d724bf02e8e6a7504802ba20ee144f9",
+      "bytes": 7510
+    },
+    {
+      "name": "p11",
+      "sha256": "ef126be2034d03f6259c448bb641196f6f0e3c2f24842cb5b592a51575591db4",
+      "bytes": 13520
+    },
+    {
+      "name": "p12",
+      "sha256": "466749096cbfd319d42a1d9fa777a2f31b1361c774e8b22a4f117f38ffb9b7a2",
+      "bytes": 7766
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

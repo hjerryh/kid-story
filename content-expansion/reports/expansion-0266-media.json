@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0266",
+  "title": "信封里有一条泥河",
+  "version": 1,
+  "bodyCharacters": 985,
+  "pages": 12,
+  "duration": 299.394,
+  "bodySha256": "ea7a11348fc07e35196c1f21edab50aa0dfc1e617e5830131aa843fa48c8603d",
+  "audioSha256": "a1dbeb7bcde94a774bc827e1dd547a6b459c8f816b258542e98f3955e593c1f7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "c961f2474b05dcebe256c7adc51788f29dedf0d6899e7a07fdb7935c3a63db12",
+      "bytes": 22050
+    },
+    {
+      "name": "p01",
+      "sha256": "8dd5f65bb41186b1488f61abd5531c765d7de64cd049a03fe4d7af624eeb84bd",
+      "bytes": 15316
+    },
+    {
+      "name": "p02",
+      "sha256": "380322032c4a02238ff4465cea1e3e8be3e87859b364b0d17c5c38627643705a",
+      "bytes": 12762
+    },
+    {
+      "name": "p03",
+      "sha256": "0a2d4c600d3db499fea86ac033fbd8fd6e0a430f606860f1ab79127491189743",
+      "bytes": 14410
+    },
+    {
+      "name": "p04",
+      "sha256": "5b249eb968b4b7d2336d57b4c1a76f3c51ee8368ac14b7845890968949cbea9c",
+      "bytes": 16598
+    },
+    {
+      "name": "p05",
+      "sha256": "a550456eacd24c724065e1b3ffe1c6f0b60e9600adcf76e2c07577836b90fab8",
+      "bytes": 16764
+    },
+    {
+      "name": "p06",
+      "sha256": "b9ecd6599633156001cb9bcebb17e689d123cc1b5922733d71025bea6d648bc1",
+      "bytes": 16968
+    },
+    {
+      "name": "p07",
+      "sha256": "037236d4d6586a6174e3a688a415e38cd2e2cffcfc66d836cc3adc0f93af703e",
+      "bytes": 17296
+    },
+    {
+      "name": "p08",
+      "sha256": "522b5da42cf468e1fb7a72a284298d3d5b9b30700f4b8e03a9f3a41ae8715646",
+      "bytes": 17302
+    },
+    {
+      "name": "p09",
+      "sha256": "db1b6ad5b02ddf6c927168bba1137eee7f22e6b792b83dba596219ad87f82de3",
+      "bytes": 18254
+    },
+    {
+      "name": "p10",
+      "sha256": "36f3d95be1d7100239cc4137eb56fcaa52dc9604ec35d666d33381523068f0cb",
+      "bytes": 18088
+    },
+    {
+      "name": "p11",
+      "sha256": "23ed741e39933c066f3d534c31631b93b5e8718e590f2bbc48a98468f09736c3",
+      "bytes": 10522
+    },
+    {
+      "name": "p12",
+      "sha256": "9ed6839f722624012a3ec81ff4ede0ecb1b3bd813e8ccaf833f697fcee16f70f",
+      "bytes": 15500
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
