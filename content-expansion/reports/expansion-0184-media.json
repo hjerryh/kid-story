@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0184",
+  "title": "茶桌下面游来一条鱼",
+  "version": 1,
+  "bodyCharacters": 1010,
+  "pages": 12,
+  "duration": 303.258,
+  "bodySha256": "23329bf881737e55a01b406dde6cead0fcb4b8c759fe56a4fe16c8edfe6c2f39",
+  "audioSha256": "04881541b91c0cef42b2579f6a790df965abf03d9ef9a3eb700e773c0f8bdc70",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9722501d9bdfbd17b655c606e866b3a5277bfc66e41d41356f507416659da2a0",
+      "bytes": 14642
+    },
+    {
+      "name": "p01",
+      "sha256": "32f89d1802a51e87523939f7e09d6ce5269bdbe5549f35650c708bfcaf2b10bf",
+      "bytes": 8938
+    },
+    {
+      "name": "p02",
+      "sha256": "04770bc16b26fc93871c12432108e79fee20d6325aaf65f6a659a29c35b10124",
+      "bytes": 11370
+    },
+    {
+      "name": "p03",
+      "sha256": "cefbcb5e7f3d114fea24ae5b6ed895d1afd1ae0b4463e8d9b3f9cf2d83d48ba8",
+      "bytes": 10080
+    },
+    {
+      "name": "p04",
+      "sha256": "251923951aa0587dd2604b9f558a96873c5620e653a9bbef3d4114ae3ce2e35e",
+      "bytes": 9142
+    },
+    {
+      "name": "p05",
+      "sha256": "05361bea54088357a2c68e18c9355ab234ea0f31a8c6b7774020129e26625b39",
+      "bytes": 9486
+    },
+    {
+      "name": "p06",
+      "sha256": "c4cc49cab5ab98baa6de3168a993dd026fc81d9937e98b51c1526ed6a2f1f198",
+      "bytes": 9570
+    },
+    {
+      "name": "p07",
+      "sha256": "3bab3bda5d0c54d2eac0b20a9ab778c4590e59105f866ee5ff4f97783bc2861f",
+      "bytes": 10040
+    },
+    {
+      "name": "p08",
+      "sha256": "495b928eeced64959db507d4c3a7e985e0b245fc3985c99eca8b8c3e7ba60435",
+      "bytes": 9780
+    },
+    {
+      "name": "p09",
+      "sha256": "53e84fcfff4dbc5be89723eece0645a1167ff28351ad8b0f5366c0edaacf7717",
+      "bytes": 11138
+    },
+    {
+      "name": "p10",
+      "sha256": "0c3647939705f7a3890ba4cb3a27501a79de60310f5b6b14d421f2f88fb50637",
+      "bytes": 12224
+    },
+    {
+      "name": "p11",
+      "sha256": "9283fde18999a4c9bd95cf4c94820cc1207087e2cbe42870f8123c4856029364",
+      "bytes": 11842
+    },
+    {
+      "name": "p12",
+      "sha256": "2b466d9a10346c49e235cbdd44645144d4e06a80a860de7e1d195b61afb83f75",
+      "bytes": 11810
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

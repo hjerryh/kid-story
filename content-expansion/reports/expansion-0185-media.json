@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0185",
+  "title": "簧簧把一跳变小了",
+  "version": 1,
+  "bodyCharacters": 943,
+  "pages": 12,
+  "duration": 289.266,
+  "bodySha256": "724853b65a6e070e206784cb1765a15ebe0a888a80368ba5e063276239d16102",
+  "audioSha256": "3c1c7f9c0e39fcf8a35689911bdc461c3b24b287812dda6d91b2e5471a5c6626",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "625ab03f5df328f51fa69c6db9203bacd0b442cfa31a48fb94c114f64a238f9f",
+      "bytes": 14420
+    },
+    {
+      "name": "p01",
+      "sha256": "53690b80ad62f4e8b11d35a66022dd18c316344fe170404f1ab83aa6e1b0e08c",
+      "bytes": 12138
+    },
+    {
+      "name": "p02",
+      "sha256": "7e9ea463feedc3d52b81b536f9d63d5935aed95e38bd2610b9d704c982a01eb5",
+      "bytes": 9870
+    },
+    {
+      "name": "p03",
+      "sha256": "842791d3c15d335ba93cdbecc1f567ae77d9b3de2b26a6a3f21aa51b1ac82dd4",
+      "bytes": 10176
+    },
+    {
+      "name": "p04",
+      "sha256": "1294f5b958ed44cb9bad1a23de728969cc5b3e7b8cbc343479a554f869fea9e8",
+      "bytes": 10176
+    },
+    {
+      "name": "p05",
+      "sha256": "431b0bbd5eaba0af20e618c24d7314aca864b76a55f69b1be19054c4b2b1a882",
+      "bytes": 10094
+    },
+    {
+      "name": "p06",
+      "sha256": "e9ebc954a7494a25f47b03aa21f4c2435ec40ac80bac5fe37aab56622b5228a2",
+      "bytes": 11596
+    },
+    {
+      "name": "p07",
+      "sha256": "3707cc7557829bb63f2701a8c92f08db18f47b29ac38af2d9af59277091dbfd1",
+      "bytes": 10516
+    },
+    {
+      "name": "p08",
+      "sha256": "1b0a7b1a39bb96811bdb0a23a44b9dac79105adbf4d5adccee6d20d743c73e40",
+      "bytes": 10640
+    },
+    {
+      "name": "p09",
+      "sha256": "61a25af4a993e5fbd1f72b8f405fbdde1739d39be6f37dc3193db2b6750d71b5",
+      "bytes": 10162
+    },
+    {
+      "name": "p10",
+      "sha256": "1c85bc5aeb0b0d2744746f41956cb863941958a412ae264e1cbec4451352fc65",
+      "bytes": 10728
+    },
+    {
+      "name": "p11",
+      "sha256": "ebd2e571e1c9ff6658dea3fcca741cd209fba896b584748a0fc5704ef88092aa",
+      "bytes": 13164
+    },
+    {
+      "name": "p12",
+      "sha256": "9e0fdbfd50a3882df39c57d8ac564585c9ad55fb8b638ceb05512ebc1a57fd9f",
+      "bytes": 12282
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

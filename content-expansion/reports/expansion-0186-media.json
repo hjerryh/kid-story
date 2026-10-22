@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0186",
+  "title": "木鱼每次都回来",
+  "version": 1,
+  "bodyCharacters": 954,
+  "pages": 12,
+  "duration": 287.874,
+  "bodySha256": "30d389887559c936d9ceb2812a50a3d2ad6eb15ce5a3ddcc019df63f2e53e4d7",
+  "audioSha256": "1e10f2baa423d96b9f1c64fa2d8dddfcf389bf694a604f5a3e0e1510b7ad4b9e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "044791cde53d216bc1734ff0002d7361b4ec33dcebafa54db4b40000a7750be6",
+      "bytes": 21098
+    },
+    {
+      "name": "p01",
+      "sha256": "7aaf3d11cb72ff3158358bc9002d9c536da08eb40f44dfe97ca1112f58d36742",
+      "bytes": 15576
+    },
+    {
+      "name": "p02",
+      "sha256": "3232def36d5b76203c1d91e3fb62773391d85ffde3db2862a0e40a237b3f63cc",
+      "bytes": 14638
+    },
+    {
+      "name": "p03",
+      "sha256": "83597c649d2eb6dcb318ed28599856391a8c4eee29cb5505a875a5f467dfb80e",
+      "bytes": 17206
+    },
+    {
+      "name": "p04",
+      "sha256": "ffe92e5e8661f9139d96e259f94483bdd78e5f18805455158ce9355fca03b37d",
+      "bytes": 17074
+    },
+    {
+      "name": "p05",
+      "sha256": "715acd77bcf86e3c44864e47afd6a7e916bef655795b812f8cec27ff22fcd8ef",
+      "bytes": 16804
+    },
+    {
+      "name": "p06",
+      "sha256": "134bcddb9fbae2263923a0d9800ed39c7a0423391f989da75febe0740c7ca7ea",
+      "bytes": 16942
+    },
+    {
+      "name": "p07",
+      "sha256": "bf09d48682fbaa13036c9afe6790cca750ee05daf092638af32c7fd437d6eecc",
+      "bytes": 17048
+    },
+    {
+      "name": "p08",
+      "sha256": "ac5bc1c58428291e62dccb59013e054ca1ce1d57affa9c62f6977f4fa84803e4",
+      "bytes": 17254
+    },
+    {
+      "name": "p09",
+      "sha256": "37de9496d244b3072405ab7514a163d6e457aeebad409b23ace6325a86a4afec",
+      "bytes": 15314
+    },
+    {
+      "name": "p10",
+      "sha256": "fb5c224088729b161412eb09a979f1b44c9231024340e43442a487e154c7a58d",
+      "bytes": 15034
+    },
+    {
+      "name": "p11",
+      "sha256": "860d7f1760861c1d5432349d6a4216ebcdc235a6c2b6beb676955efebdea01f6",
+      "bytes": 16766
+    },
+    {
+      "name": "p12",
+      "sha256": "12acd1f447995715173d18a9155627d10d559e2f83d28565d54ecab1bc2a95ff",
+      "bytes": 17236
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

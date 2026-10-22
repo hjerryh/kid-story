@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0190",
+  "title": "六只蓝鞋认出了外婆",
+  "version": 1,
+  "bodyCharacters": 1024,
+  "pages": 12,
+  "duration": 315.378,
+  "bodySha256": "a0f6d03cec7225ddefecf12a5d14664f1515900280bf012d08aa0acc9bc27557",
+  "audioSha256": "7746324788ac05992e3bb4506099c9115a46030b34a68fbcf55342baee9ee0ff",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "756ae44ed498bf04b0f4c3d6386f51458e6a8e4d470b76baca8170c95b3ff420",
+      "bytes": 20402
+    },
+    {
+      "name": "p01",
+      "sha256": "7c9ee6c07c2a76238d1f85463ad4bb284600b74f899979c78872df1e83f286c4",
+      "bytes": 13474
+    },
+    {
+      "name": "p02",
+      "sha256": "0d3a52ff2eb0c0af18e949cdede957fd80b43ccd827028665224d791f5c20e43",
+      "bytes": 12378
+    },
+    {
+      "name": "p03",
+      "sha256": "0ef8366793777225775d58195e9e23be06ef2ca9febfbb0d4929f897db2fdadc",
+      "bytes": 16982
+    },
+    {
+      "name": "p04",
+      "sha256": "d434e3ee46f1bf604ecf9d9bfd048500e2ca083369fab877b4d1171286e8269d",
+      "bytes": 13862
+    },
+    {
+      "name": "p05",
+      "sha256": "a94883efc8bbad968751d9bb211dd39f69272c512e60467696f8e9a35f8ac27a",
+      "bytes": 13656
+    },
+    {
+      "name": "p06",
+      "sha256": "6c67735b4d298dc04a2179318e34a4b2c19fe8b0685c38bf5d67da7135ab9177",
+      "bytes": 14754
+    },
+    {
+      "name": "p07",
+      "sha256": "524f2729c73dfbb308fefbb9afe25fcb22ba0d6f916d4858f2c3242f631674c3",
+      "bytes": 14064
+    },
+    {
+      "name": "p08",
+      "sha256": "6c48dc981b7c2e51301e62caf890d2f6588a8bf3aa2d4b4b613eaf7e7994dd4b",
+      "bytes": 12876
+    },
+    {
+      "name": "p09",
+      "sha256": "29c41cae078c68e65be8e2c462fd768353894be0257a59cd03ed67cd0494ffc7",
+      "bytes": 12998
+    },
+    {
+      "name": "p10",
+      "sha256": "3d38778cc814dab60da31033b34291233ead8fc4f85aefd9c6d56c77d1f48744",
+      "bytes": 13136
+    },
+    {
+      "name": "p11",
+      "sha256": "c4df1b142b6a093059d95b73fee0b449fb90475a3e647aa61b3ab96e8c421884",
+      "bytes": 12586
+    },
+    {
+      "name": "p12",
+      "sha256": "8ee3c5086f9a1a2a5c617d0828a4808465f97c141892a7559fae34732ada0cde",
+      "bytes": 16906
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

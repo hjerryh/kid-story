@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0189",
+  "title": "纸马转身的地方",
+  "version": 1,
+  "bodyCharacters": 975,
+  "pages": 12,
+  "duration": 290.61,
+  "bodySha256": "5b5e7a9a61d61a593de3a74ba0a6dfb86de6fe8fe3b163d6ec3602d3901460e9",
+  "audioSha256": "48f8fc83c9a5f4fad741c47a1bc92510a9d7917de4673f1b0482db550c978d55",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e102764b828daaa125325800419181b74cb889b00479a2c8d89f6d920cc40ec4",
+      "bytes": 21600
+    },
+    {
+      "name": "p01",
+      "sha256": "1e963626f4dee6740e3e677c6c606b80825f3abba981430a98b488b267278480",
+      "bytes": 11108
+    },
+    {
+      "name": "p02",
+      "sha256": "5525e80dd4d6b73a9e315e988d72aff00c90d6c2e578dabe48d2eb7509ac81e3",
+      "bytes": 14716
+    },
+    {
+      "name": "p03",
+      "sha256": "9640e659c2150c150e2ea32f437d8d844cf5db9c7f194251c6440b86b4f23e8f",
+      "bytes": 15852
+    },
+    {
+      "name": "p04",
+      "sha256": "2a47b4e0e1cf105c7449f4aa121120dc2bc2f9dd789c8917f1692f8aa9eecff8",
+      "bytes": 16668
+    },
+    {
+      "name": "p05",
+      "sha256": "aa6911facfcb527ca399454fa7bc60dd6eea0bd84d40b50957c5f7a796f5a66f",
+      "bytes": 14798
+    },
+    {
+      "name": "p06",
+      "sha256": "f62a1acebc79b77ab3d5d5a0ad5c6f6e3b8d8b469bc148aa3d03572f787ca605",
+      "bytes": 15610
+    },
+    {
+      "name": "p07",
+      "sha256": "8b0f6b81dd8ea7d871cdedb48124ea735130c5035d7acd33ea584682342b797b",
+      "bytes": 14236
+    },
+    {
+      "name": "p08",
+      "sha256": "cc58500c8dab0b64404eda2141c76bcd36f06ac3a3b98976a75cc49d8c8d1e55",
+      "bytes": 14766
+    },
+    {
+      "name": "p09",
+      "sha256": "12e7e414c5da28661af34f547622be5d0e9eeba9c763424920929cfd20c676f4",
+      "bytes": 15420
+    },
+    {
+      "name": "p10",
+      "sha256": "7ac3fd97d96b12c1d6e64bf19d473b11dda56508f6cfb2517ea26d650289447d",
+      "bytes": 15094
+    },
+    {
+      "name": "p11",
+      "sha256": "b8700d40162032167174a81b67df4aa7adabc57e218cc7d843e69f4ecf32760e",
+      "bytes": 18250
+    },
+    {
+      "name": "p12",
+      "sha256": "c24a6f84a2920f46dd1a2fa3adea57d4f726ebba7ac69281817d0904508f55da",
+      "bytes": 18080
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

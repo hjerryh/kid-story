@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0187",
+  "title": "绒靴的饭桌开在草里",
+  "version": 1,
+  "bodyCharacters": 1007,
+  "pages": 12,
+  "duration": 309.474,
+  "bodySha256": "3113b983cbeca0cbb5723c3b4cb136c448651b57d7264761f247fbb7466ca497",
+  "audioSha256": "b75a0a8366e9878d728cc86d70819c1235b579ce6d226767f2c27f66afab6d6d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e553888621657abc926ba43287639195b69cd63718687210b3a1e1e03737efd3",
+      "bytes": 21408
+    },
+    {
+      "name": "p01",
+      "sha256": "3d9519e215a04cc5161b3f798c517ae6937046aa5cbd09c5ff6d0d2a4abc9775",
+      "bytes": 14874
+    },
+    {
+      "name": "p02",
+      "sha256": "c86b689a4c071a65c436f76af8bb0ee64bab49c513f4199b2557d502200ce69b",
+      "bytes": 12958
+    },
+    {
+      "name": "p03",
+      "sha256": "8d34adc3a948e03baada7b63930ffd6556396ac80c92846b05aed88ece5f3ddb",
+      "bytes": 16054
+    },
+    {
+      "name": "p04",
+      "sha256": "b5327ee6c5caab2beb087bcb1632cd526dcf917752d3ee9d5b0e28b1318f5eea",
+      "bytes": 15994
+    },
+    {
+      "name": "p05",
+      "sha256": "66823d8bbe19f25b23c762dcae986a373674289fe12d41e65d61d39d843244a6",
+      "bytes": 15124
+    },
+    {
+      "name": "p06",
+      "sha256": "694049cc0a44bc63dc2e789935ad28b73665aa90cae035091a6ecc141c456660",
+      "bytes": 15644
+    },
+    {
+      "name": "p07",
+      "sha256": "72f2b3fc6a01a100713c9e8eac2df225d58b7c52923fa74a5fa9f430bd18dd42",
+      "bytes": 14544
+    },
+    {
+      "name": "p08",
+      "sha256": "f5bb7b6e6653e552ee13baa455732ee735ea9d02de836cf44ad78d12dfd36984",
+      "bytes": 17756
+    },
+    {
+      "name": "p09",
+      "sha256": "0477e02afe3074414e2d64b1ee8d307003ad6b0da8839715739a155c1ae874c4",
+      "bytes": 16634
+    },
+    {
+      "name": "p10",
+      "sha256": "4a32240938439822aea5424e085784eaa880a37158d4f26c31506389c8da341a",
+      "bytes": 14822
+    },
+    {
+      "name": "p11",
+      "sha256": "9557825a548ba135015e0700899199b87a44cdff00419e55c8009f310f6999d0",
+      "bytes": 18584
+    },
+    {
+      "name": "p12",
+      "sha256": "f38b72838f3f5e44d9a999c56799273788b18d22524a38a234b4e657f0e7b30b",
+      "bytes": 18748
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

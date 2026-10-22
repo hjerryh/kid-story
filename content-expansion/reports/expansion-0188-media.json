@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0188",
+  "title": "晴天只遮住鼻尖的伞",
+  "version": 1,
+  "bodyCharacters": 958,
+  "pages": 12,
+  "duration": 290.778,
+  "bodySha256": "df57edda27ad2734d711b86bc39576a2deb91a6c60eacc1ff10b231125d65a2d",
+  "audioSha256": "6da39e7546982ad11bce6df44efcec8e4898971fa94b5040c403a3101e54e847",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e8b58beaea0c4598e4c23ae2e868b3a0f4d97be0eff43d1226a3bf882a0ad1c2",
+      "bytes": 19068
+    },
+    {
+      "name": "p01",
+      "sha256": "5434a3d693b48a91df0c806faecf7fecd54d1b7a4185040ac88c2d6f2582b84f",
+      "bytes": 13528
+    },
+    {
+      "name": "p02",
+      "sha256": "98b796c8e17ae3bbeb28a095612dcd76332bfefdef89ce4e9a9f861c6922712f",
+      "bytes": 16280
+    },
+    {
+      "name": "p03",
+      "sha256": "18c7669b526a75d93a3902df260c8477eff33ea3ecb9971aeafdea0241e3fe83",
+      "bytes": 16566
+    },
+    {
+      "name": "p04",
+      "sha256": "21e9d11395efcfee7ec36ec775e26539a87931d22b7f5a6b28c2f764e9eabbff",
+      "bytes": 11632
+    },
+    {
+      "name": "p05",
+      "sha256": "f68662061c874413f23b64ebb09aa95ab8f09b218ff4902503962dbe55f9c2f4",
+      "bytes": 14654
+    },
+    {
+      "name": "p06",
+      "sha256": "badff9097aa7b707a0d6df2b95d41a90c1add16e5b1d1abb8ab9dcfb72bc9a4c",
+      "bytes": 14068
+    },
+    {
+      "name": "p07",
+      "sha256": "00fac74daf9ff215dcefa388668f6757b6ed8e764e022a9ad9fe90cfdd604bae",
+      "bytes": 13510
+    },
+    {
+      "name": "p08",
+      "sha256": "1dd1da1e5dd34bd974ad8e08973394847cf935a7ca5d2b9414272e1cee9719c5",
+      "bytes": 14070
+    },
+    {
+      "name": "p09",
+      "sha256": "bef9a0b91ce5345c644f45342e9aee27e8b5d20426af48079e761f047110c658",
+      "bytes": 14000
+    },
+    {
+      "name": "p10",
+      "sha256": "a725583c35787a49f626fe3e76ce0d1cb000a7c447758e1d125c24cd39fba82e",
+      "bytes": 17472
+    },
+    {
+      "name": "p11",
+      "sha256": "b92978b699dfffd8c159c893b6c61fec8e59a8540676e1b1f6995bd8ad0ecc79",
+      "bytes": 16400
+    },
+    {
+      "name": "p12",
+      "sha256": "9820d3f6d0846c71f852f169e6cbbf956bc9d59a8306e58302d475477ab53528",
+      "bytes": 17050
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
