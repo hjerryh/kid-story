@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0211",
+  "version": 1,
+  "status": "media-ready",
+  "title": "天桥的胳肢窝",
+  "subtitle": "谁在偷偷挠痒",
+  "description": "藤蔓天桥想安安静静睡个午觉，右边的胳肢窝却总是发痒。小田鼠荞团找来找去，终于在一阵风里看见了那个偷偷挠痒的小东西。",
+  "ageBand": "3-5",
+  "theme": "耐心观察",
+  "color": "#78A477",
+  "character": "小田鼠荞团，灰褐色绒毛，圆耳朵，穿浅绿色短背心，背着米白色小布包。藤蔓天桥由粗壮绿藤编成，有宽宽的木板桥面和密密的藤栏杆，桥头长着两只叶片耳朵。",
+  "cover": "/library/stories/expansion-0211/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 170.794,
+  "detailUrl": "/library/stories/expansion-0211/v1/story.json",
+  "audio": "/library/stories/expansion-0211/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "午后的藤蔓天桥暖暖的。小田鼠荞团刚走到桥头，就听见一声长长的哈欠。“我想睡午觉，可右边胳肢窝总是痒。”天桥说。荞团放下布包：“我来找找，是什么在挠你。”",
+      "image": "/library/stories/expansion-0211/v1/p01.webp",
+      "start": 0,
+      "end": 20.798
+    },
+    {
+      "id": "p02",
+      "text": "荞团沿着右边的栏杆慢慢找。粗藤像编好的辫子，嫩叶软软地贴在上面。他看见一点灰，便用手帕轻轻擦干净。天桥舒服地叹口气，可没过一会儿，又忍不住咯咯笑起来。",
+      "image": "/library/stories/expansion-0211/v1/p02.webp",
+      "start": 20.798,
+      "end": 41.02
+    },
+    {
+      "id": "p03",
+      "text": "“是不是缝里藏着碎叶子？”荞团捡起桥头的一根草穗，扫了扫藤条。“哎哟，更痒啦！”天桥笑得叶耳朵直翘。荞团赶紧收回草穗，把它放进布包，不再东扫一下、西扫一下。",
+      "image": "/library/stories/expansion-0211/v1/p03.webp",
+      "start": 41.02,
+      "end": 61.986
+    },
+    {
+      "id": "p04",
+      "text": "他坐在木板上，先看一会儿。没有风，天桥安安静静。风一来，右边一片卷叶翻了个身，天桥就笑了。风停了，叶子垂下来，笑声也停了。荞团竖起耳朵，等着下一阵风。",
+      "image": "/library/stories/expansion-0211/v1/p04.webp",
+      "start": 61.986,
+      "end": 82.928
+    },
+    {
+      "id": "p05",
+      "text": "呼，风又来了。卷叶一动，藤缝里露出一根褐色的小尖尖。荞团轻轻掀开叶子，原来是一只干豆荚！它卡在两根藤条之间，风推着叶子，叶子推着豆荚，细尖便挠一下天桥。",
+      "image": "/library/stories/expansion-0211/v1/p05.webp",
+      "start": 82.928,
+      "end": 104.494
+    },
+    {
+      "id": "p06",
+      "text": "荞团伸手握住豆荚宽宽的一头，轻轻抽，抽不动。他停下来看看，把豆荚顺着藤缝挪了一点，再慢慢往外退。沙的一声，豆荚出来了，卷叶也舒展开来。“还痒吗？”他问。",
+      "image": "/library/stories/expansion-0211/v1/p06.webp",
+      "start": 104.494,
+      "end": 126.084
+    },
+    {
+      "id": "p07",
+      "text": "“等风来试试。”天桥小声说。荞团便陪它等。风摸过一片叶子，又摸过一片叶子。天桥没有笑，只打了一个软绵绵的哈欠。“这回不痒了。”荞团笑了，把干豆荚装进小布包。",
+      "image": "/library/stories/expansion-0211/v1/p07.webp",
+      "start": 126.084,
+      "end": 148.322
+    },
+    {
+      "id": "p08",
+      "text": "天桥的两只叶耳朵慢慢垂下，睡着了。荞团背好布包，轻手轻脚走到桥那头。包里的干豆荚碰着草穗，沙沙响。他回头瞧瞧：风还在翻动绿叶，天桥却睡得香香的，一点也没醒。",
+      "image": "/library/stories/expansion-0211/v1/p08.webp",
+      "start": 148.322,
+      "end": 170.794
+    }
+  ],
+  "buildHash": "0dd3da6ebf370d0db25c5a32300883212b1c74ac48556650b7c9924a8262ceb5"
+}

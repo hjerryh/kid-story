@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0191",
+  "title": "星星之间要留多宽",
+  "version": 1,
+  "bodyCharacters": 1565,
+  "pages": 16,
+  "duration": 475.466,
+  "bodySha256": "99b070f8278d784b70a750baa68b41e0fbe8797359703938c668a2730f495ddb",
+  "audioSha256": "467bfaeb834b236117eb9fb8f595f98cbd2136f710d16c0a4b7c657c7c3f4ec7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0b3c1b4322891df4ad069b0bdbbcd50d8555736151851ac1f9be2feecfedfa52",
+      "bytes": 17782
+    },
+    {
+      "name": "p01",
+      "sha256": "165df480cb34ab83659a994294bce4e61c3f83054598ce399a97e15d7256fc57",
+      "bytes": 15918
+    },
+    {
+      "name": "p02",
+      "sha256": "0aed175f6c7858292639d544761fe0cf3cc8382b88055d9a673115362429c945",
+      "bytes": 19726
+    },
+    {
+      "name": "p03",
+      "sha256": "f312b2972160333a6877fe5a28af34fedc675b9d55e20f2e52a66a7ef60360e0",
+      "bytes": 22110
+    },
+    {
+      "name": "p04",
+      "sha256": "abeef8134e216c7d4f6c760b87a19f64fe1d7d3492d4a8edb38ac759e103f94c",
+      "bytes": 22936
+    },
+    {
+      "name": "p05",
+      "sha256": "b32b15b537abe5aced9099b3c0a62e63d0101748979a216bfe18de71a8c5a880",
+      "bytes": 18886
+    },
+    {
+      "name": "p06",
+      "sha256": "018cee9f6362a08173a72a56df65d778e818ebed84f1ea52d1bc2de03a4aad61",
+      "bytes": 20578
+    },
+    {
+      "name": "p07",
+      "sha256": "4589750d3b0c910e92448cd791e586fda14191228e8de64bf796443ec89a0a5f",
+      "bytes": 20894
+    },
+    {
+      "name": "p08",
+      "sha256": "846772591f40ecefb37947b34a6efba3c6127793a2a9dde6144cba3958e49ece",
+      "bytes": 19438
+    },
+    {
+      "name": "p09",
+      "sha256": "7dce282e6ff67910372db78ef6fefef583c3e6f666b55c7077ab285429b2610f",
+      "bytes": 19332
+    },
+    {
+      "name": "p10",
+      "sha256": "3e38accea1382b85beb8e11beba5426133193154ae829b62366998842dd92e6d",
+      "bytes": 19698
+    },
+    {
+      "name": "p11",
+      "sha256": "ae2c49f74f07f49a72f54719c6ffcd181386e550264bc39d225cfd5fd7970846",
+      "bytes": 11370
+    },
+    {
+      "name": "p12",
+      "sha256": "2872e13da14617e1644b25ee3a97374c0994983562ea183a98d07ff453bc251c",
+      "bytes": 17550
+    },
+    {
+      "name": "p13",
+      "sha256": "b43b9216f44a77ef2127a75c36326799c0a8dc1f2a51df2e42b6f037e435e73f",
+      "bytes": 16202
+    },
+    {
+      "name": "p14",
+      "sha256": "fdfaee96eed9697f7c0198ef79b223629537ae3f173fc2e62293386edf6127bc",
+      "bytes": 17032
+    },
+    {
+      "name": "p15",
+      "sha256": "d739e7cf077a5304b918a427ee31b527658d659be5a875d41958214314a6cef6",
+      "bytes": 17672
+    },
+    {
+      "name": "p16",
+      "sha256": "e1a36309ef3993db7c73c9c9207b5c5ff2c68cc63c427801588ce1f0bb787394",
+      "bytes": 17286
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

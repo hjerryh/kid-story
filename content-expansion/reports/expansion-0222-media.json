@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0222",
+  "title": "三颗幼星走过木门",
+  "version": 1,
+  "bodyCharacters": 999,
+  "pages": 12,
+  "duration": 301.506,
+  "bodySha256": "4a0e375d27957fb4a01529564de7d4742a38a74a1125d8f2e8796173771bc757",
+  "audioSha256": "e2fa191e4584a9b61cd08c76c89888f53c870f893cd658992a61cb398122c06c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0aafcc381a858da1d98da0c31d4d9e56988ac846847f5376f221851f5af86945",
+      "bytes": 14426
+    },
+    {
+      "name": "p01",
+      "sha256": "bb4af8ccd5eee5b95d70fdbea65d4ea135e733f011c5c67fa09bda3b26fe5c41",
+      "bytes": 12282
+    },
+    {
+      "name": "p02",
+      "sha256": "2903566be70a060ccb28d742d9dd711374792845dc8156340276b972c9077e13",
+      "bytes": 14696
+    },
+    {
+      "name": "p03",
+      "sha256": "2e22d13069c695c1f571d59413d8218f878452fd263d1cbadfbd4cff6900aaea",
+      "bytes": 13454
+    },
+    {
+      "name": "p04",
+      "sha256": "a5d4fc2c9c3e8301282747e2f66d3a0099f8c5d2720549a453e278e5c33c31af",
+      "bytes": 11120
+    },
+    {
+      "name": "p05",
+      "sha256": "c502a91ade527883678ef9bc80ef51a116ab4b1452d3fa0536c6f01df316ea01",
+      "bytes": 11736
+    },
+    {
+      "name": "p06",
+      "sha256": "949b429052c493ad1da64a56d46565b4248fcb6a9581dc3db800f6db53c3e880",
+      "bytes": 11684
+    },
+    {
+      "name": "p07",
+      "sha256": "eff4916c0080367048878d19f2f4b7218bf1cb2364c104419a24225dfdfa8121",
+      "bytes": 13508
+    },
+    {
+      "name": "p08",
+      "sha256": "fdadef5dce281d364a578badc02c1e464c4f91636078b14fa06f7f1a3809e437",
+      "bytes": 13462
+    },
+    {
+      "name": "p09",
+      "sha256": "852a45b0580735202234b3ea6947f78640fc7bd9d6ce2ee72d8fb2b648649b5c",
+      "bytes": 13306
+    },
+    {
+      "name": "p10",
+      "sha256": "51fbe1c5ba9116d1ee124e5cb2919faff9835aa205b3b55553b483e1690a57e8",
+      "bytes": 13660
+    },
+    {
+      "name": "p11",
+      "sha256": "568d8a672d2e4297eb3efa500638356a67ff3ffafafa70d6a377be3f7d5f396c",
+      "bytes": 9940
+    },
+    {
+      "name": "p12",
+      "sha256": "f7d03acbbbf0f33fffed471087f9c4f27f21296f99fef71589e45edd3f2b8d6a",
+      "bytes": 11800
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

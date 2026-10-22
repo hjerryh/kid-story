@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0193",
+  "title": "折岚要带哪一件雨天",
+  "version": 1,
+  "bodyCharacters": 1599,
+  "pages": 16,
+  "duration": 487.658,
+  "bodySha256": "18dcd3ee3bdb820d94aa1909668a402df9299e86b75968a933aa1b9e4c48c635",
+  "audioSha256": "2c3ce24c34e9acbe4569588753f62cbd31430f4a18bb29b3e0e636fbddfe89f9",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "477ab847601643cdd4eb692232e6bb02dd213341ef3929122d4482e3cd4c7f08",
+      "bytes": 20758
+    },
+    {
+      "name": "p01",
+      "sha256": "c4eaa0d880b9a381ad56e1577c2c9a17220c3eb3c3338dd1c7219fc95f8dda67",
+      "bytes": 13508
+    },
+    {
+      "name": "p02",
+      "sha256": "048e8b6d4c27d77bbacea916f7e3b77ed6efb5ba19073db53796ff01e86e35bc",
+      "bytes": 12194
+    },
+    {
+      "name": "p03",
+      "sha256": "894c78572bf8dbc9fce64fd340aad1f2e2d40febe6178321c61af4fda707d723",
+      "bytes": 11494
+    },
+    {
+      "name": "p04",
+      "sha256": "f108df7a4f32f0eae0f8fc9b66d654fc839bfe52465c591638f2d01a4d352661",
+      "bytes": 10858
+    },
+    {
+      "name": "p05",
+      "sha256": "5d5a821d22c55b69d0d9121b9bab3fc27ae5d9f25f01604485bf25673ceadb42",
+      "bytes": 13094
+    },
+    {
+      "name": "p06",
+      "sha256": "2f1109f356da6b0f27102ee0f68049491cb31f631c27f82ed9d603a494852e3c",
+      "bytes": 12442
+    },
+    {
+      "name": "p07",
+      "sha256": "152950ea2bf9d230e7fadd8d9d3ae59838264232b612cd2095a751368800dca2",
+      "bytes": 12590
+    },
+    {
+      "name": "p08",
+      "sha256": "e4cbb6b1e662f23058986426e6b353462af84762ad0ef70f5336bd1fc3717726",
+      "bytes": 10950
+    },
+    {
+      "name": "p09",
+      "sha256": "cf036fad5649fa20c7417593ab7575fbf6479d81f785048d36cf06c781055d0b",
+      "bytes": 10828
+    },
+    {
+      "name": "p10",
+      "sha256": "8b9b6761956e3bc602c3e35901056106f8895a490cfd66ddce1494443d04fdac",
+      "bytes": 12942
+    },
+    {
+      "name": "p11",
+      "sha256": "7680f8e6f8eca889dd9b6b499fd3ac30fc5bc7186fae973e8c29a5a35ac84adf",
+      "bytes": 13194
+    },
+    {
+      "name": "p12",
+      "sha256": "ea477d19330551a4c318091fe49a6089223da717e3d118de47572ec377bcc22c",
+      "bytes": 13202
+    },
+    {
+      "name": "p13",
+      "sha256": "698a21dc47c11dd1db8f8508245fea9e747e66f0e72806de9f9a4332bfc7625b",
+      "bytes": 15118
+    },
+    {
+      "name": "p14",
+      "sha256": "8ab1727d55cff1ecf4ea9ce227793ac4c16f9aa498f6c6b8c895067bbdcf24ee",
+      "bytes": 21676
+    },
+    {
+      "name": "p15",
+      "sha256": "9f632547def7add84a3e21f3c55d0d015514d5a725c32d3759e192fec72dc822",
+      "bytes": 22316
+    },
+    {
+      "name": "p16",
+      "sha256": "9f69e4c72712b1e97e79a12f556f694cffc1d26c197be8e49acdd386321459c8",
+      "bytes": 18446
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0212",
+  "title": "果树上有三扇门",
+  "version": 1,
+  "bodyCharacters": 502,
+  "pages": 8,
+  "duration": 162.898,
+  "bodySha256": "6956852cc1d8be14ae565d5b7fb56f2dffb6f06b78293fc66947b0d12b7595c6",
+  "audioSha256": "54200cbab85f2217bce808b3649afb2a166c8ca9e7ca1cf11240c0d6011d6115",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d57a2f72adc53b36bd314b2808f8e0981bfc5388122b5ff6f3d807d1ae450174",
+      "bytes": 15408
+    },
+    {
+      "name": "p01",
+      "sha256": "07457aa9e6fb828f8b3c0604ace8eda5e7e9632d6a474c15dabc9c521687d320",
+      "bytes": 14004
+    },
+    {
+      "name": "p02",
+      "sha256": "8780b3f1821b0b782a3277b89ef26ab3f438b63e0c4a99c5688e60259155a9db",
+      "bytes": 13558
+    },
+    {
+      "name": "p03",
+      "sha256": "e1ebc329e6f5530133dc49151340ee3402e842cc67b0a5bac7e5602e8e2355a0",
+      "bytes": 13388
+    },
+    {
+      "name": "p04",
+      "sha256": "84192ea5a4dfe8b702d65d4e37310242480cf5d7da2c0c64bb5e391cf4d5c1c7",
+      "bytes": 12248
+    },
+    {
+      "name": "p05",
+      "sha256": "77059e915d744059dca749a9a0746b39b731014bfd5304b828f81ccc7a0c73aa",
+      "bytes": 14070
+    },
+    {
+      "name": "p06",
+      "sha256": "b05202f28eb223091fd3943222be9423913c28004760efb2c4e87fe4fd55a237",
+      "bytes": 14382
+    },
+    {
+      "name": "p07",
+      "sha256": "0d7a257d2758e8233f35f373862ee7f183550327cc50112323ae00ada2531610",
+      "bytes": 13884
+    },
+    {
+      "name": "p08",
+      "sha256": "c21525f46138d203bc0b9f5342002754f96c328d1a156ffdc95c7e9ebd5d73ff",
+      "bytes": 13798
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

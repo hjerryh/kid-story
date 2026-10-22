@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0192",
+  "title": "折折背上的第七级",
+  "version": 1,
+  "bodyCharacters": 1437,
+  "pages": 16,
+  "duration": 441.29,
+  "bodySha256": "822b957522f265c849a1c0d31e95a4472e0f3c8163fb5c47d256ffacd0b5c09a",
+  "audioSha256": "221ddbb6e081eb912d87b2b932c410ce29b9e079e68c926f1497b6fcb51ae0c4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "873553024705a219d16ae552ca4594b58ac0d67e551b8af190a87a5e853a1c46",
+      "bytes": 14638
+    },
+    {
+      "name": "p01",
+      "sha256": "6cab9cf8875f031720c0aafbe32db8aa5be3582231a7ba06a11429c594aa8bf8",
+      "bytes": 13240
+    },
+    {
+      "name": "p02",
+      "sha256": "10c00f9e396ebf653556ef9497a6635ed151dea04203873f51fcd4587b6de831",
+      "bytes": 14036
+    },
+    {
+      "name": "p03",
+      "sha256": "bdeb0086af08cc29e669ffb90cf8d954922d56ea7ca0c682904c339073c4b1fb",
+      "bytes": 13950
+    },
+    {
+      "name": "p04",
+      "sha256": "66a21553f562bcb21b1219f27960dbdbd428ce97eefb7335aac0eac75efc7b8c",
+      "bytes": 14170
+    },
+    {
+      "name": "p05",
+      "sha256": "d83d4ec0ab49e4aa1458fc1658f807f9714eac70995f2ad41b077cfdec8b286c",
+      "bytes": 14078
+    },
+    {
+      "name": "p06",
+      "sha256": "cc5b6230fd99653107d61140ff105f943f1834d5b1c317528d2c3e4f9024057e",
+      "bytes": 14918
+    },
+    {
+      "name": "p07",
+      "sha256": "7b1ae64d5266a8fa0ef1174ac82292f77677a18edef5696103c7fb2ef9681d77",
+      "bytes": 14038
+    },
+    {
+      "name": "p08",
+      "sha256": "3d29fa0859eff56084c631890957e4385d70de61812cd878ffa7f6c2f31ad13d",
+      "bytes": 13656
+    },
+    {
+      "name": "p09",
+      "sha256": "d9ff7335adac439dc169cc000f30f4d3c87179b15e9ce2acf673170214f564c7",
+      "bytes": 14904
+    },
+    {
+      "name": "p10",
+      "sha256": "b6b64f212c9f2cdea6f78f2954263df04e7fc658926162848493da76a9df2bad",
+      "bytes": 13772
+    },
+    {
+      "name": "p11",
+      "sha256": "13084c13db49a707b22bb2d4a7b8887169f51672ebd3d657c7fd3f3d2fded997",
+      "bytes": 14112
+    },
+    {
+      "name": "p12",
+      "sha256": "ccc5b69ce384e27772c184e60c9bf9e6105a0b07df2b6d5f7e0e600e47a5dedd",
+      "bytes": 13452
+    },
+    {
+      "name": "p13",
+      "sha256": "204cc4b627fd37d89523e7e03678876981a5f81a245fa23782f2560ce1f10ed6",
+      "bytes": 13574
+    },
+    {
+      "name": "p14",
+      "sha256": "1e8220b75ab1a47198f57d878309df3c5369c15d8deda0ff0f31128d8fff6545",
+      "bytes": 13212
+    },
+    {
+      "name": "p15",
+      "sha256": "b297aeac9eb829abf4eda90510e1a417ce1819d7487c084117d089e0dabe0076",
+      "bytes": 11752
+    },
+    {
+      "name": "p16",
+      "sha256": "ff20494c0957c33bf8f1d4055c25cea8c3f3de660ce0281320922ceb7b92e4d6",
+      "bytes": 13460
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

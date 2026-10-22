@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0216",
+  "version": 1,
+  "status": "media-ready",
+  "title": "谜语柜的小方田",
+  "subtitle": "一道可以慢慢问的谜",
+  "description": "蓬蓬想拿出屋顶花园里的野餐垫，谜语柜却出了一道听不懂的谜语。猜了又猜以后，她决定告诉柜子：自己还不知道答案。",
+  "ageBand": "3-5",
+  "theme": "好奇与发问",
+  "color": "#8DB5A1",
+  "character": "小田鼠蓬蓬：浅灰色绒毛，圆耳朵，穿淡紫色短背心，挎米白色小布包。谜语柜：矮矮的青绿色木柜，柜门上有一张圆嘴，两个铜把手像弯眉毛。",
+  "cover": "/library/stories/expansion-0216/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 168.034,
+  "detailUrl": "/library/stories/expansion-0216/v1/story.json",
+  "audio": "/library/stories/expansion-0216/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "屋顶花园的花架下，住着一只谜语柜。猜对它的谜语，柜门就会打开。小田鼠蓬蓬带着两块两头尖尖的枣泥点心来了。她想拿出里面的野餐垫，坐在香香的薄荷旁，慢慢吃一顿午后点心。",
+      "image": "/library/stories/expansion-0216/v1/p01.webp",
+      "start": 0,
+      "end": 21.686
+    },
+    {
+      "id": "p02",
+      "text": "谜语柜动了动圆嘴，说：“一块小方田，不长瓜和豆。每天贴贴脸，喝水不张口。”蓬蓬竖起耳朵。小方田她知道，喝水她也会，可这两样放在一起，怎么就听不明白了呢？",
+      "image": "/library/stories/expansion-0216/v1/p02.webp",
+      "start": 21.686,
+      "end": 42.292
+    },
+    {
+      "id": "p03",
+      "text": "“是花盆！”蓬蓬指着旁边的方花盆。柜子轻轻摇摇把手：“花盆能长豆呀。”“那就是水杯！”蓬蓬又说。柜子笑了：“水杯有杯口呀。”两只铜把手还是紧紧挨在一起。",
+      "image": "/library/stories/expansion-0216/v1/p03.webp",
+      "start": 42.292,
+      "end": 63.594
+    },
+    {
+      "id": "p04",
+      "text": "蓬蓬坐到小圆凳上，抱住点心包。她还想猜小碗，可小碗也有口。她不想一直乱猜了。薄荷叶擦着她的耳朵，痒痒的。她揉揉耳尖，小声说：“我不知道。小方田是什么呀？”",
+      "image": "/library/stories/expansion-0216/v1/p04.webp",
+      "start": 63.594,
+      "end": 84.992
+    },
+    {
+      "id": "p05",
+      "text": "“这里的小方田，只是说它方方的。”柜子答。“能种菜吗？”蓬蓬问。“不能，它身上毛茸茸。”“像我的肚皮？”蓬蓬摸摸自己，笑了起来，“可是我的肚皮不会贴着脸喝水呀。”",
+      "image": "/library/stories/expansion-0216/v1/p05.webp",
+      "start": 84.992,
+      "end": 106.054
+    },
+    {
+      "id": "p06",
+      "text": "她用两只爪子贴贴脸，忽然想起早晨洗脸的事。脸上湿漉漉，拿什么擦一擦，水珠就不见了？“毛巾！”她跳下小凳，“毛巾会把水吸进去！我的那条正好也是方方的！”",
+      "image": "/library/stories/expansion-0216/v1/p06.webp",
+      "start": 106.054,
+      "end": 126.012
+    },
+    {
+      "id": "p07",
+      "text": "“猜对啦！”柜门咔嗒打开。里面的毛巾、桌布和小盘子，都整整齐齐。蓬蓬抱出绿色野餐垫，在薄荷旁铺平，又把点心放好。她这才发现，刚才一直皱着的小鼻子，已经松开了。",
+      "image": "/library/stories/expansion-0216/v1/p07.webp",
+      "start": 126.012,
+      "end": 148.514
+    },
+    {
+      "id": "p08",
+      "text": "蓬蓬咬了一口点心，也给柜子出谜语：“什么东西，刚才有两个角，现在只剩一个角？”柜子想了想：“我不知道，能再说一点吗？”蓬蓬举起咬过的点心：“另一只角，在我的肚子里！”",
+      "image": "/library/stories/expansion-0216/v1/p08.webp",
+      "start": 148.514,
+      "end": 168.034
+    }
+  ],
+  "buildHash": "71fee8c2165c07d6b0e2340d3058fd9b244c328073a72a2beaaba1258fb2b28f"
+}

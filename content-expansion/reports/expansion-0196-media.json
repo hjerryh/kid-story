@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0196",
+  "title": "阁楼里的一小口浮岛",
+  "version": 1,
+  "bodyCharacters": 1443,
+  "pages": 16,
+  "duration": 437.858,
+  "bodySha256": "98c203933d53a1a51a5a5a5b841a8e899eaeed132c5d80afae0af97da5ec1210",
+  "audioSha256": "5339e1018c5b991364f07eb596bf418df4787d0ab7b135ca1f6d85775e5e2eee",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "cf9f5c5b8774c12d4ed0668ec398e1401acbb3fc36695dbe013174f6610dfb57",
+      "bytes": 18288
+    },
+    {
+      "name": "p01",
+      "sha256": "36b7cce291433aee5cdfc7c53a8b64840e6908deb540dc54c19658f909222273",
+      "bytes": 14998
+    },
+    {
+      "name": "p02",
+      "sha256": "a310bc1dccb869f5636bb0d1944bf0627ad3b35ebc18acf3338578dee3267676",
+      "bytes": 14902
+    },
+    {
+      "name": "p03",
+      "sha256": "4af88fd5b16440c0b5179b9078d3bd55cbee8009932c76bc18fe1fc46360fbd9",
+      "bytes": 14690
+    },
+    {
+      "name": "p04",
+      "sha256": "60c91fe3faea00ca01f3142d6f33d440957d0a3d5ada14baa3d616359441d9a0",
+      "bytes": 14684
+    },
+    {
+      "name": "p05",
+      "sha256": "d148ddf9c63b597cdf852df611331aed76cffbf08cb5e5f9548b97aca19bc3bc",
+      "bytes": 16156
+    },
+    {
+      "name": "p06",
+      "sha256": "b3c5b268a5e34facfb4efa59702cab2f73b2570db0dbcafc9e7075a95452319f",
+      "bytes": 15206
+    },
+    {
+      "name": "p07",
+      "sha256": "36c1d2cdde4edb030cda967e3b71c8dabc916506795a15f1186ca4a4307fd26f",
+      "bytes": 14752
+    },
+    {
+      "name": "p08",
+      "sha256": "21f9c6a8ff6a26b25dcdab75f91a99cb5a24b9e338d73b7871d7f741b9ec3046",
+      "bytes": 15594
+    },
+    {
+      "name": "p09",
+      "sha256": "c99b90453d3ab935a3b4dd29c0aca7e65489e84368731145a28357e9683f9d50",
+      "bytes": 15556
+    },
+    {
+      "name": "p10",
+      "sha256": "32f9f218a0ffb52d719dbe115c4dd39219d0160ca26268a6e86166fdb0b0b1a9",
+      "bytes": 10804
+    },
+    {
+      "name": "p11",
+      "sha256": "ae033428047c62bc9b5109ff5865cbcdd960b42e5618f8e4cc5542e7092307b6",
+      "bytes": 15140
+    },
+    {
+      "name": "p12",
+      "sha256": "3b8cb368c946bfb0debc096dd30ce9a25e81ed803d3801b12e2b9bcfdd824527",
+      "bytes": 12972
+    },
+    {
+      "name": "p13",
+      "sha256": "f75e9a2d849b41e96dcb0d6fb9aac1031b371ea7176c4d60891e24906cbed998",
+      "bytes": 16256
+    },
+    {
+      "name": "p14",
+      "sha256": "9b5e142f2cdf795778fc5af0dd8bf37053bcfbf47f02d538e4b2487b768a6b26",
+      "bytes": 12422
+    },
+    {
+      "name": "p15",
+      "sha256": "d9fb399299db3b107de2cf24230dd9a3c46c753711bf9a3bc7e96a41a3a91d59",
+      "bytes": 12936
+    },
+    {
+      "name": "p16",
+      "sha256": "f7d21356f400b5075230133b3248a2481e6ddf30b39d3377563a8dfed7a5b61b",
+      "bytes": 17926
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

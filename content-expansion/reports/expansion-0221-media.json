@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0221",
+  "title": "瓷鲸伸懒腰的地方",
+  "version": 1,
+  "bodyCharacters": 1025,
+  "pages": 12,
+  "duration": 307.962,
+  "bodySha256": "ba7db456d56fda3c9f869bb762acf700b21de9609a1fd114d6cb6976c55c979a",
+  "audioSha256": "a746a88c94b0ad0fabb1cd6131f7317c6e20cec026a7d6c757a12145a534effb",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "723ed70ae234f3f1fed9514a9a6a3d3b177c07cad17203f745ef337bfc30bdc7",
+      "bytes": 18798
+    },
+    {
+      "name": "p01",
+      "sha256": "16ac15f16708ca280e819b589025d6b0124c66c6316132529ad679b9de26329a",
+      "bytes": 10858
+    },
+    {
+      "name": "p02",
+      "sha256": "df89b4153682b7558386dbac1bdae2a389d80596bc0b769a9f1c235effedd7dc",
+      "bytes": 10538
+    },
+    {
+      "name": "p03",
+      "sha256": "6eecb19cba4e8e7d7a69785c3c87d1c7442f32f68906f4c82e09cb07dcded5f7",
+      "bytes": 10754
+    },
+    {
+      "name": "p04",
+      "sha256": "aa841b9602022fbf54876f852aa9b444b49da3fa475b73e9ecbab701efc82c38",
+      "bytes": 10664
+    },
+    {
+      "name": "p05",
+      "sha256": "0b26bfa2aef0a63f291d7ea92449eb35e4e245935088e642bd14f6eace38db1e",
+      "bytes": 9926
+    },
+    {
+      "name": "p06",
+      "sha256": "0b2922dbaaa217462fecb3cf44965dbb3817ac655047ad1c62182ac94eccf9c2",
+      "bytes": 10848
+    },
+    {
+      "name": "p07",
+      "sha256": "6cf2d4ba2d8d2248066ca47ab4aecdac22ba82736bb277aec22a4bda37fe96e0",
+      "bytes": 10170
+    },
+    {
+      "name": "p08",
+      "sha256": "a3b27f3eafad9d53140c813b93cb661a334ae18f955e7672c26cf01c880857dd",
+      "bytes": 10858
+    },
+    {
+      "name": "p09",
+      "sha256": "b498151faa98f76ea00f9546fd1ba1fcbd3056233808b4ebf1ee39fc09753380",
+      "bytes": 15674
+    },
+    {
+      "name": "p10",
+      "sha256": "1479fa7beba8f4fda07ea3b293480fd54746ef90c406fee0f2ed2c151c0c0aad",
+      "bytes": 15196
+    },
+    {
+      "name": "p11",
+      "sha256": "2ac21bb124035151a905cc865333af400d8996c62cfc68c48fc29abaf45f1b3c",
+      "bytes": 14876
+    },
+    {
+      "name": "p12",
+      "sha256": "15df8b8e7c7f6bf8ef88a00ec0f84d26ba1d42467a271602ae896670b6b29043",
+      "bytes": 15932
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

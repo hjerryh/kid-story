@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0210",
+  "version": 1,
+  "status": "media-ready",
+  "title": "花毯记得轻轻的痒",
+  "subtitle": "尾尖记起的小花",
+  "description": "米苔重回暖灯旅店，想再看看小时候陪她玩耍的花毯开花。可是，她越使劲跳，花毯越安静。一次脚边的轻轻擦动，带她找回了那个暖暖的下午。",
+  "ageBand": "3-5",
+  "theme": "温暖回忆",
+  "color": "#D8AD78",
+  "character": "小田鼠米苔：浅棕色绒毛，圆耳朵，细长尾巴，穿莓红色外套和蓝布鞋，背米白色小挎包。花毯：奶白色长方形地毯，四角有绿流苏，中央有一张细线绣成的笑脸，受轻柔搔痒时会开出柔软的布花。",
+  "cover": "/library/stories/expansion-0210/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 162.61,
+  "detailUrl": "/library/stories/expansion-0210/v1/story.json",
+  "audio": "/library/stories/expansion-0210/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "米苔又来到暖灯旅店。门里的黄灯圆圆的，像一块热饼。小时候，她和奶奶在这里住过。大厅里有一条会开布花的毯子，她想再看一次那些花，便踮起脚往里面瞧。",
+      "image": "/library/stories/expansion-0210/v1/p01.webp",
+      "start": 0,
+      "end": 19.286
+    },
+    {
+      "id": "p02",
+      "text": "花毯还在老地方，四角的绿流苏轻轻摆动。“米苔，你回来啦！”它认出了她。可奶白色的毯面上，一朵花也没有。米苔记得，那天她一跳，脚边就开满了粉红的小花。",
+      "image": "/library/stories/expansion-0210/v1/p02.webp",
+      "start": 19.286,
+      "end": 39.412
+    },
+    {
+      "id": "p03",
+      "text": "她放下小包，跳了一下，又跳一下。蓝布鞋发出扑扑声，花毯却没有开花。她把两只脚抬得更高。“别这么重呀，”花毯说，“我的花要轻轻挠痒才会开，你忘记了吗？”",
+      "image": "/library/stories/expansion-0210/v1/p03.webp",
+      "start": 39.412,
+      "end": 58.458
+    },
+    {
+      "id": "p04",
+      "text": "米苔蹲下来，用小爪子揉揉毯面。绒毛倒向左边，又倒向右边，还是没有花。“这像在搓面团呢。”花毯说。米苔停了手。她明明记得自己在跳舞，怎么就想不起别的了？",
+      "image": "/library/stories/expansion-0210/v1/p04.webp",
+      "start": 58.458,
+      "end": 79.544
+    },
+    {
+      "id": "p05",
+      "text": "跳累了，米苔坐在毯边，脱下鞋子歇歇脚。她的尾巴弯过来，尾尖轻轻擦了一下毯角。“嘻！”花毯笑了，一朵小花冒了出来。米苔低下头，看看花，又看看自己的尾巴。",
+      "image": "/library/stories/expansion-0210/v1/p05.webp",
+      "start": 79.544,
+      "end": 100.198
+    },
+    {
+      "id": "p06",
+      "text": "啊，她想起来了！那天，奶奶坐在旁边，用尾尖挠着花毯。小花一朵朵钻出来，她才高兴得跳起舞。她一直记着自己的小脚，却忘了奶奶那条在毯上扫来扫去的尾巴。",
+      "image": "/library/stories/expansion-0210/v1/p06.webp",
+      "start": 100.198,
+      "end": 120.348
+    },
+    {
+      "id": "p07",
+      "text": "米苔让尾尖轻轻扫过去，再轻轻扫回来。“嘻嘻，好痒！”花毯笑出了粉花、黄花，还有小小的蓝花。她把脚伸进花丛，花瓣软软地碰着脚心。这一次，她也忍不住笑了。",
+      "image": "/library/stories/expansion-0210/v1/p07.webp",
+      "start": 120.348,
+      "end": 141.074
+    },
+    {
+      "id": "p08",
+      "text": "窗外的小雨沙沙响。米苔坐在花中，给花毯讲奶奶最近做的栗子糕。讲着讲着，她的尾巴又动了。“等一等，”花毯笑着说，“让我先听完呀。”米苔收好尾巴，脚边还留着一朵蓝花。",
+      "image": "/library/stories/expansion-0210/v1/p08.webp",
+      "start": 141.074,
+      "end": 162.61
+    }
+  ],
+  "buildHash": "b04ee326eb7a70a33a17f45ad5d7e8ececb1d25e89862b7345d19d9cf07052e8"
+}

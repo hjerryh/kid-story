@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0223",
+  "title": "桑叶盘旁的晚香玉",
+  "version": 1,
+  "bodyCharacters": 1009,
+  "pages": 12,
+  "duration": 308.034,
+  "bodySha256": "7cf8ae1011a4161f1683cf8b0f2c97d9d93446a57492ca217c357d41332c741a",
+  "audioSha256": "f044d9cc6ad12ace110699627b485e27cbf1d749ed5a8cd00c5551ee6f4fb402",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "43d419c7ce68326c9b305bf380be459c64862f9c5d3d7c41c1aa4c3308c33a44",
+      "bytes": 14368
+    },
+    {
+      "name": "p01",
+      "sha256": "683ea2e0dc3e86bd3a455eeee71756e9d5d4aad905feb00f5310827e451b73be",
+      "bytes": 11434
+    },
+    {
+      "name": "p02",
+      "sha256": "4cce444107263d0df94a004dc941c2a9ba306a17b70d072660ef439c04f1aa6c",
+      "bytes": 11276
+    },
+    {
+      "name": "p03",
+      "sha256": "6eeb364e3e3e4b9e3e88dd518427bf3dc23df81e20ae3c3df2e2b372151c2423",
+      "bytes": 12604
+    },
+    {
+      "name": "p04",
+      "sha256": "6f44c78154984a9e5d7d5dd831394ffeb9707e354f835ab3f8a834fbd7c4a2fc",
+      "bytes": 12818
+    },
+    {
+      "name": "p05",
+      "sha256": "48057a32722f439606a94d2be372fa90f6e57e0c052040c028af19b74e4c93d2",
+      "bytes": 12540
+    },
+    {
+      "name": "p06",
+      "sha256": "ffe0e5c5eff8f68e81ab579bec364ad13ebdb8d4b5c3cf7bd5adb8ad9229261b",
+      "bytes": 11530
+    },
+    {
+      "name": "p07",
+      "sha256": "9c4d13ce6a31ebe10441c12f6d28121a413f2ee3470407d6a3791ea7abaaabd0",
+      "bytes": 11442
+    },
+    {
+      "name": "p08",
+      "sha256": "d21fbedcdc2dc4d4902782e3db64f94d0f6e2c4ed2900bf986836e98ca47f394",
+      "bytes": 12402
+    },
+    {
+      "name": "p09",
+      "sha256": "39fb04d75e3e182e76267333cfc320d9d123e09bfa1b78aab2672fc73158bae0",
+      "bytes": 12232
+    },
+    {
+      "name": "p10",
+      "sha256": "d1b77287bf4dc8001787113e56991bde0046e1b72edc82323e33e1f4b29b19a2",
+      "bytes": 12330
+    },
+    {
+      "name": "p11",
+      "sha256": "36ae26672e6aebf1759d511d22aaa21fe42ea005b4a4fbea91f8f4c8b9b18d3a",
+      "bytes": 11552
+    },
+    {
+      "name": "p12",
+      "sha256": "ea54ba107cce7f8dac271048c597c54663834712f65bdcdd27c26c73ade7d161",
+      "bytes": 12452
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

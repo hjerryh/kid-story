@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0219",
+  "title": "去白塔以前先脱鞋",
+  "version": 1,
+  "bodyCharacters": 963,
+  "pages": 12,
+  "duration": 287.442,
+  "bodySha256": "23eec1801a8a5356a0ffd7d8cc958b46815e8fbd815852f5b2238df8c6111357",
+  "audioSha256": "73a10428b91e93df0d363c825421b4db9b1c9a3460095b1817e51bfa3f6bc913",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8a5e27a395026eb0038fff916b416ffadb365dc630dc28d2cbda2a8cabf447b8",
+      "bytes": 17404
+    },
+    {
+      "name": "p01",
+      "sha256": "fb7a3f159574e138fafbd43b25b22390779aa64806a38ac7ecaf75570037edcc",
+      "bytes": 12922
+    },
+    {
+      "name": "p02",
+      "sha256": "6944f680bed4c58c635eb396fb2b79b591222cb36433c9eb6429c18f632f4c03",
+      "bytes": 14762
+    },
+    {
+      "name": "p03",
+      "sha256": "b691c27983c493dacff76cab9186a44fa18dc2d543ef4e10e4d14655849cdbb9",
+      "bytes": 15394
+    },
+    {
+      "name": "p04",
+      "sha256": "95131cec7b92ccb8843746bdfbc6c6ca4c1b89089713d32355f5e7cea2f47c11",
+      "bytes": 14350
+    },
+    {
+      "name": "p05",
+      "sha256": "7b16abdda5605225f94a33915bd6ffc5201f87692e7200c714c827fc14929313",
+      "bytes": 17038
+    },
+    {
+      "name": "p06",
+      "sha256": "de6fa007ff46e022dafc452db6067335ce85b1ddb0cd312538857baf0f8b3c2f",
+      "bytes": 14432
+    },
+    {
+      "name": "p07",
+      "sha256": "e3da8de93581a059a0217c214ca1bbf04435aa0e9dba5cbbcba71dd930c8616e",
+      "bytes": 14134
+    },
+    {
+      "name": "p08",
+      "sha256": "d1c4d2631395c93ef2a967c0fa4deef41fefbe18a1f841b4debaf63f94f870d2",
+      "bytes": 15768
+    },
+    {
+      "name": "p09",
+      "sha256": "cf475e7feeca7cc0f72bc462bf9cf998b1fb42ef246d0b953faec360811ba512",
+      "bytes": 15678
+    },
+    {
+      "name": "p10",
+      "sha256": "dee1568e61b795dc06165418684579a96acf205f05e617b813e83e12c7fb0364",
+      "bytes": 15052
+    },
+    {
+      "name": "p11",
+      "sha256": "3f10694c2a4470d824a275cb58817f5d6fd392c86e0d3fbcfa063bacadfe1528",
+      "bytes": 12616
+    },
+    {
+      "name": "p12",
+      "sha256": "4a0ba1bc144d6b1761c215615481d8015eafef27e6e8176129b4474346686cd2",
+      "bytes": 12422
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

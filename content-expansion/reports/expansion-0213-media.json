@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0213",
+  "title": "柚芽拆下红屋顶",
+  "version": 1,
+  "bodyCharacters": 494,
+  "pages": 8,
+  "duration": 161.578,
+  "bodySha256": "3487c8b615b535cc68d9e406efc8dafc1074365c362249890abef64576dc8eb2",
+  "audioSha256": "eb5b6899a19fe209a6ecbb865e1086561265a528984fddb9ff49384c50ac5f94",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8d9f8fc4295b89da7f9522419eaaf8a6f23227a594b9ca95b4d621ae8b3e9c56",
+      "bytes": 16594
+    },
+    {
+      "name": "p01",
+      "sha256": "3531256d19094a460a3a94b89ae478eb8b32e503fe0773584ef894794103c5d8",
+      "bytes": 12808
+    },
+    {
+      "name": "p02",
+      "sha256": "ba35cb603533291519c59966e416f1a7fb38e5b13400e2970ad383ef2eb597ac",
+      "bytes": 13946
+    },
+    {
+      "name": "p03",
+      "sha256": "d5b058801823a131b0946e77c4f7ffdfd16681800a18bcf6eb3c7a7bd8c93eac",
+      "bytes": 13904
+    },
+    {
+      "name": "p04",
+      "sha256": "cff685cd90768f337b7c573d9df4e1d6c8813fe404b44ac9852d0a6d622700f7",
+      "bytes": 14148
+    },
+    {
+      "name": "p05",
+      "sha256": "b65780a7bc6c1edd75a171eef9f0fb6aa3c7450affb75b0bc86affd07998387a",
+      "bytes": 13802
+    },
+    {
+      "name": "p06",
+      "sha256": "2ac1b58b226a347049db8d41e7e224a67718dde6e5f332d4c962627d2bdf7186",
+      "bytes": 14408
+    },
+    {
+      "name": "p07",
+      "sha256": "61ccfe3e881b62095d54d072e9a27d844bd50662269f3168a7040117ff8dcd47",
+      "bytes": 14004
+    },
+    {
+      "name": "p08",
+      "sha256": "282c49873c6a04831fac53cca8305cfeff03bfd9a9fdb788db18c9eeefaeeefd",
+      "bytes": 13838
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

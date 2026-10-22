@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0195",
+  "title": "花拱下面原来是只鞋",
+  "version": 1,
+  "bodyCharacters": 1526,
+  "pages": 16,
+  "duration": 473.234,
+  "bodySha256": "2f1a251c840ad51db6042bb56f7fd527b6cf05460a42ce2ca9654b52e1b42184",
+  "audioSha256": "a5e3dead4140440afd4bf84108b7248f6f78ab389d87c3263c7c22a5f5cd7ecb",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "cbbc63af44098de033b7668c3b25a50377e50b8fef4941eae31f3f6a82e6ca1e",
+      "bytes": 19426
+    },
+    {
+      "name": "p01",
+      "sha256": "f17492bf3b4d800ca6316b50004115c6950dada113bb426b50db2b23e9f00449",
+      "bytes": 16382
+    },
+    {
+      "name": "p02",
+      "sha256": "0fb617a50d66e3d90fcd17bae9228a6b334840f2a7a01fa6ffea1f80de23d82c",
+      "bytes": 15634
+    },
+    {
+      "name": "p03",
+      "sha256": "a58877d9edf069de9fcbac52b9658a9525727e04fa07bc097bb4f1512b1147bb",
+      "bytes": 14886
+    },
+    {
+      "name": "p04",
+      "sha256": "d2f80b99ee94fbf50966e3438d18bed7710cbeb03b39f7bcbfb1599c45b96116",
+      "bytes": 17046
+    },
+    {
+      "name": "p05",
+      "sha256": "445729119e44ce8daceea5ce9f3aac6c0721651309c62f4fee7f8a1eec48c3dc",
+      "bytes": 16008
+    },
+    {
+      "name": "p06",
+      "sha256": "9c688be013f77352bfc7283241b18cb558c972a97f041c67f022229a2a0e0d4f",
+      "bytes": 15374
+    },
+    {
+      "name": "p07",
+      "sha256": "e0ecc1a3c71600156a542b6e5bf6909130fa11970b46c9fa279f9670978a93a9",
+      "bytes": 14110
+    },
+    {
+      "name": "p08",
+      "sha256": "d88f4f80e6fcbe5b876782bd7fcc8d794f62e778b9162a5a9b0329b29ba1b4ee",
+      "bytes": 14502
+    },
+    {
+      "name": "p09",
+      "sha256": "4643648897f0ee2cc7a91fa967a1d64ce4d600dd4a1e82db9a25b264c4221b2f",
+      "bytes": 14660
+    },
+    {
+      "name": "p10",
+      "sha256": "3b0db0e248825a728ca759dcacb3a11193b31c9760beceb24f187d70696b1888",
+      "bytes": 12362
+    },
+    {
+      "name": "p11",
+      "sha256": "3f9644a343a29b7007e96bc7c16a0b676d2468c058bd246dbfe0c9a90a611ab9",
+      "bytes": 14148
+    },
+    {
+      "name": "p12",
+      "sha256": "37ec6768a0382eb831ce71b5c0abc6077ff49e5dbf2541e9cb24c9499186dcd8",
+      "bytes": 13698
+    },
+    {
+      "name": "p13",
+      "sha256": "81ba24bcbdf33070597fa6acad66e0e86ab9f9d3698957f323f37d279ee38fdb",
+      "bytes": 14564
+    },
+    {
+      "name": "p14",
+      "sha256": "312f91d592d8aaed7e82dd8bf21784201a7128d0929bf2907e6dd1a25b7e29e5",
+      "bytes": 15882
+    },
+    {
+      "name": "p15",
+      "sha256": "142d7221ef15f3d89d610123705b7900c41f1cfef7dbdbcc8f300ebc0af0cfff",
+      "bytes": 14566
+    },
+    {
+      "name": "p16",
+      "sha256": "48dd9b8ed2ab1ff43e26059ec63ccd2a8e84b674ef1e975f1cecad0ead817901",
+      "bytes": 14950
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

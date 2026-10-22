@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0200",
+  "title": "团山的月牙没有缩小",
+  "version": 1,
+  "bodyCharacters": 1483,
+  "pages": 16,
+  "duration": 463.058,
+  "bodySha256": "3aa96ee514e784fea28930a96ff8a9663ffba4f459349c5197f1c9b7c20c7142",
+  "audioSha256": "375935f23efa06f0b96f55c539df5b40c7c369e9640fb12de08011024f32d158",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f1703be36396ff3407941c7ac3f66d4432ec1b3be0c3ab49a882203657b2f84b",
+      "bytes": 20344
+    },
+    {
+      "name": "p01",
+      "sha256": "d2aed6a627159639590a8173d8988462bef1a03a3c3d7e1c4c9e39bec44ee4f6",
+      "bytes": 11436
+    },
+    {
+      "name": "p02",
+      "sha256": "6d65de1ecc5ab391ed03c27831b8d87d82aa4437e162d574358e11faaeaa90fb",
+      "bytes": 14014
+    },
+    {
+      "name": "p03",
+      "sha256": "e9aa25c40922d0e26ba66679eade8a9b02fe3ddd4e0c268a42b101634b5e4ce3",
+      "bytes": 13756
+    },
+    {
+      "name": "p04",
+      "sha256": "2722f0b46eaccc11cd6658670286de32dbb3f1b102f7dae3bfee48301332d619",
+      "bytes": 13762
+    },
+    {
+      "name": "p05",
+      "sha256": "db5362dc18c41a71d289a630f58ee6effd870a13d710f03e4bfbf36954f4d01c",
+      "bytes": 11654
+    },
+    {
+      "name": "p06",
+      "sha256": "aee2d4c7e73cc52ad5548eb62c5eaf65f46027a178d73f8060f1807e30994707",
+      "bytes": 13050
+    },
+    {
+      "name": "p07",
+      "sha256": "bceba41d654bde1de5a423f30a920080c6a34dc59ea59fe24625f7462acfa614",
+      "bytes": 12996
+    },
+    {
+      "name": "p08",
+      "sha256": "17adf9a867503c79b55346ad492950afa74e2596ebdc39a2dde23f285c4fc842",
+      "bytes": 14908
+    },
+    {
+      "name": "p09",
+      "sha256": "143360fb2bcfdd5246f4d4a2158f3178450f9c1ed4f2a810e2314dec8c403661",
+      "bytes": 13640
+    },
+    {
+      "name": "p10",
+      "sha256": "b94428f8258dce235edfbc6cbb23052aee51443459e8767acef7a86f5a76e514",
+      "bytes": 13768
+    },
+    {
+      "name": "p11",
+      "sha256": "b05fc27bdd1cc460e9b391bfbd9dedec67803944e2da5ff12de787d4b5d70281",
+      "bytes": 14350
+    },
+    {
+      "name": "p12",
+      "sha256": "5424a9c4109c160fd4b3a5b13bfa9f75e295509ad38f1daab3e4b2a81bafe00a",
+      "bytes": 13768
+    },
+    {
+      "name": "p13",
+      "sha256": "b210a87e90fe8f7fe50bbc5a378dfb6cdf0ba0119670ed9d232ad0eab1623031",
+      "bytes": 13234
+    },
+    {
+      "name": "p14",
+      "sha256": "4195adfbd242d3e7e0dde90b4eee7e0135122fc99cfb6c9dda0a6cd5d144e037",
+      "bytes": 13746
+    },
+    {
+      "name": "p15",
+      "sha256": "b0c29918e1a20e60c5dfe2137f95ac51b0986033f47274fac145b5bd13d2a1b5",
+      "bytes": 19614
+    },
+    {
+      "name": "p16",
+      "sha256": "99706a804716c53ed11efed5f6dd40ec7a079af68ab932604eacc00a88c6aa1b",
+      "bytes": 17566
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

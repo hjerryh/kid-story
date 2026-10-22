@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0198",
+  "title": "四只木脚愿意走多远",
+  "version": 1,
+  "bodyCharacters": 1483,
+  "pages": 16,
+  "duration": 454.898,
+  "bodySha256": "8883e3582bca494c046329300cfb8ca7eb4b72e2cb3fb72f479466423982ba5c",
+  "audioSha256": "24620252cfe2b792ccc27324715d361e867af191f9f346d8492bdcaa7c85e79d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "16ea1f2a964817f687e4dc0d9222811f9ae30ee5d6611284d1b39d9037ae219b",
+      "bytes": 15266
+    },
+    {
+      "name": "p01",
+      "sha256": "02d3b01483943d2edaa5268342dd63e6947f55fc53f1966afd4b18e49aac3671",
+      "bytes": 11904
+    },
+    {
+      "name": "p02",
+      "sha256": "c4a9b8e1366a600c98fde64d9eb4c1de57ba89799caad37a6126608b03e3cec7",
+      "bytes": 11948
+    },
+    {
+      "name": "p03",
+      "sha256": "313e546688b6c579eecda1b2fa605a226fa65d88cd5eacab4521beb2e90f51a3",
+      "bytes": 12916
+    },
+    {
+      "name": "p04",
+      "sha256": "ac8f5a2a1bf0f8ee106bf6a6309f1ac21a9f0db5cc17a04fe01360c2ce655404",
+      "bytes": 11482
+    },
+    {
+      "name": "p05",
+      "sha256": "c25830359f5b1efa7b5fd23b2dc7099c9ecd9e24db9d5bd71a169c9b48420a6d",
+      "bytes": 12722
+    },
+    {
+      "name": "p06",
+      "sha256": "f56ae1053333651635d761d0156545c30b707a8294c521e8fe6804c619970aa4",
+      "bytes": 11478
+    },
+    {
+      "name": "p07",
+      "sha256": "74d3511430381b4164011e79d82c8d3530fba627038a23bc7e2c1a7808300875",
+      "bytes": 11208
+    },
+    {
+      "name": "p08",
+      "sha256": "3204324b033593fde5c55f33b1199cdb4b5356a3c97eb14bb48b0e807bb802d2",
+      "bytes": 11420
+    },
+    {
+      "name": "p09",
+      "sha256": "f24907afe845b71eda0cc836e49aa454b3bf6e47db07271c49f3e301a169d361",
+      "bytes": 11038
+    },
+    {
+      "name": "p10",
+      "sha256": "9f938bc919539e5af7cd01d8c907c77ed96abced14ebf8310c002fe0b34ac1b5",
+      "bytes": 12206
+    },
+    {
+      "name": "p11",
+      "sha256": "98069473605167f81ccbd323ca3800bff7f8ba5319a9ea6313a01c885126202f",
+      "bytes": 14670
+    },
+    {
+      "name": "p12",
+      "sha256": "ed11ebce3aacfde7024b055c14d902c2be0c563d1d33149e762474e823634dc6",
+      "bytes": 11600
+    },
+    {
+      "name": "p13",
+      "sha256": "4a574921b212fb5bdc007167d531d88350c75be1b82aa9cdf859f475b18f3002",
+      "bytes": 12868
+    },
+    {
+      "name": "p14",
+      "sha256": "a19fcac5c0d219b3d14bf620225da4388dc64649837445f879ddc67e089004aa",
+      "bytes": 12824
+    },
+    {
+      "name": "p15",
+      "sha256": "e6e02becdb090162f3505d036799dbd34d27e7a83f632890eccae2d8d7239270",
+      "bytes": 13110
+    },
+    {
+      "name": "p16",
+      "sha256": "0bb996255eb12a5a7f565d8344ea25e845ddb8bcc1c69d93db9a81499a29985f",
+      "bytes": 13584
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

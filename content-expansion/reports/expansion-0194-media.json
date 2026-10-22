@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0194",
+  "title": "今晚不走枕头里的沙路",
+  "version": 1,
+  "bodyCharacters": 1591,
+  "pages": 16,
+  "duration": 484.682,
+  "bodySha256": "353af8986d329d815e01a52c46a19726f39020e4618834535a10a07d79a0f05f",
+  "audioSha256": "259faa617be7ea5b6f80e66f0d9d9cfe78573d2aca3a8d1d76b0231b5317b116",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ec71e8432432d48b6b1666d1dabb3b0aa757f623f24079252433eceee6748a1f",
+      "bytes": 12988
+    },
+    {
+      "name": "p01",
+      "sha256": "9c4d425839f3bbab80c5525dcbe4705457989ae4838bac472516c600b3a8f85e",
+      "bytes": 11378
+    },
+    {
+      "name": "p02",
+      "sha256": "71ca97c27c5aa3aa4c6e43796a34227f37c1bc03e5c8ce75fb712db2f9d1d06c",
+      "bytes": 11526
+    },
+    {
+      "name": "p03",
+      "sha256": "9c08df08a1edcc892fb28b7bb7f72911aab653d973d650ef12ae1410ad883c5b",
+      "bytes": 11508
+    },
+    {
+      "name": "p04",
+      "sha256": "56d3487aca662d103eac4f6cc9394006e2da3e4197ee30bfd29386ce4fe2ac6d",
+      "bytes": 14304
+    },
+    {
+      "name": "p05",
+      "sha256": "e7c8d7ad34750cbd7299a3e7dd3bc970823a0270cefba792e705e8e853771dcc",
+      "bytes": 11582
+    },
+    {
+      "name": "p06",
+      "sha256": "7e4a64705b5bf9670e839c40751754560489749e21d07b17060d77a7ddc3226a",
+      "bytes": 11252
+    },
+    {
+      "name": "p07",
+      "sha256": "519cb28517d19e94ceaf4edc4a61d6f1281ecf6deca7ccc3b02e97c8d314f732",
+      "bytes": 11478
+    },
+    {
+      "name": "p08",
+      "sha256": "260a6be43382bd1d53655654e05d533603d6a22b26904949ce0a06c866f54b94",
+      "bytes": 13732
+    },
+    {
+      "name": "p09",
+      "sha256": "de715d3eae67b81142f05b6c9cc6dc4a01179af77517332e28e89ff84ba4595d",
+      "bytes": 12712
+    },
+    {
+      "name": "p10",
+      "sha256": "1a1eeb0aa431bdfb406f328813e070a0c0a05c83933511fc2f633e18524612e2",
+      "bytes": 10936
+    },
+    {
+      "name": "p11",
+      "sha256": "c721c9e84b4e3d12487f9e126e0719f1620646d8c054e4c16d89f1408db7cbee",
+      "bytes": 11724
+    },
+    {
+      "name": "p12",
+      "sha256": "8de61eb014138d80a8cbb349f20c422edff703531ade2e1bc01a5ad4481ee2a0",
+      "bytes": 10570
+    },
+    {
+      "name": "p13",
+      "sha256": "999ff6de22402d6c12ed4eb7fe9994cbf9cccdcbc60e1e26ac43b991e06e503b",
+      "bytes": 13558
+    },
+    {
+      "name": "p14",
+      "sha256": "f3e2c6c91002f243b9571fe221994ff1eace50393055b718fcdfbc7fe5c6bbdb",
+      "bytes": 14588
+    },
+    {
+      "name": "p15",
+      "sha256": "b45be32f7cec4ea6ad48b9c7df29bfa88b148847f454d3fecc66a518c9c8d138",
+      "bytes": 12324
+    },
+    {
+      "name": "p16",
+      "sha256": "9a68acca60b7b844ba323e1a44e6ef6dcca2cb74d5a2172c637f3754410bb9b5",
+      "bytes": 10738
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

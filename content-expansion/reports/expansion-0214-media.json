@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0214",
+  "title": "鳐鳐的尾巴咬住了自己",
+  "version": 1,
+  "bodyCharacters": 506,
+  "pages": 8,
+  "duration": 163.69,
+  "bodySha256": "a6d24cc87351ab4caaad2872534f7f47e432c2261f54071616868f3bf8e2608f",
+  "audioSha256": "9be03048539975542ca9edbe9d5754663a374848a9ea34cc418125b75705656e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2e8e30f0f0fff592cfd2361d8248c6da0e53fa5482f04981bb7bf5ef5712dae2",
+      "bytes": 14132
+    },
+    {
+      "name": "p01",
+      "sha256": "b25debf7b218b4997784aeceb752593378bb1c086f9956fa15d2d7c74f965c0c",
+      "bytes": 11714
+    },
+    {
+      "name": "p02",
+      "sha256": "7ec18bfb34fd24d3dc88320675ad55cf4437d9aa200e5a8ba9b11a92bd080cf3",
+      "bytes": 11804
+    },
+    {
+      "name": "p03",
+      "sha256": "1106c130801d7ad13b77e3659b98ce1dbf99d2d3e174fea2d540940861516882",
+      "bytes": 11992
+    },
+    {
+      "name": "p04",
+      "sha256": "87eff406905ced98fa920d1edeb0c4accc89b3045fa9ff6cf4c3e1e9438176c1",
+      "bytes": 11624
+    },
+    {
+      "name": "p05",
+      "sha256": "cf664de2b8741ff14ebbab44ed2c63c1d2d2c13f8a52ab4cfaa33189d4b9883e",
+      "bytes": 11824
+    },
+    {
+      "name": "p06",
+      "sha256": "4a78c603d863c450963455e4353a4f305eb3b318e25c517da28cefeecc655eb9",
+      "bytes": 11484
+    },
+    {
+      "name": "p07",
+      "sha256": "4e30f2b4917f3704132a57fdd0b63cdbba6786ebf4eaf9f46607762afe33cebf",
+      "bytes": 12068
+    },
+    {
+      "name": "p08",
+      "sha256": "3d2f5e71f0df58b000f51c1cc58e210591110a6dbf84fd10be025ee028028dcc",
+      "bytes": 11628
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

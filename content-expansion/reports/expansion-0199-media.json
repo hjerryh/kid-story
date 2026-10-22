@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0199",
+  "title": "浅浅走过第三棵松树",
+  "version": 1,
+  "bodyCharacters": 1612,
+  "pages": 16,
+  "duration": 491.138,
+  "bodySha256": "05f1cbc5d695a0eef32b69785f2aa1f9722b1e8f4f3908bf027abe74e27aacd7",
+  "audioSha256": "cffcc770c1721ceccc739048db929e0eb95b878e8f618f3653dcac09701f0780",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "135c852205f6bc1e392f305aa142882ed2f52bee18f7a65c241252af733bd089",
+      "bytes": 17216
+    },
+    {
+      "name": "p01",
+      "sha256": "b2b0574476d4d184308cbea6c677f6590a459b9a4e67c49b9f9947e0b065b08e",
+      "bytes": 11564
+    },
+    {
+      "name": "p02",
+      "sha256": "6b6e1212f08b345bbbb71f1e2236ce4d58ca9cd56a08bb99bae43615f38fcd22",
+      "bytes": 10994
+    },
+    {
+      "name": "p03",
+      "sha256": "b16cb01b3f24ebf88d6f62741f3dd1ff93125ad749ac250785e65d2eae81d293",
+      "bytes": 11474
+    },
+    {
+      "name": "p04",
+      "sha256": "8a41b3c254e183a596610838f286aa9c47af3c3a92bd53db7662f0db48812a8b",
+      "bytes": 11556
+    },
+    {
+      "name": "p05",
+      "sha256": "9920a370e6f4fc70c0f55cee7f3d4987c2682c8895f480f13be949a94dac6d63",
+      "bytes": 10854
+    },
+    {
+      "name": "p06",
+      "sha256": "52cf9733105d2bfa88599c3078590bbf5dafaa8e051dc28bcb41fb9af8b67e28",
+      "bytes": 10922
+    },
+    {
+      "name": "p07",
+      "sha256": "60e0b09729ffb38d45efaeb758a552b07ec801e0395874cbd33fe92afa23cbcf",
+      "bytes": 12768
+    },
+    {
+      "name": "p08",
+      "sha256": "8e0710e80e91dd969427d4320ae3676aff00498f4ca3b1132b7983f9a90a3882",
+      "bytes": 19510
+    },
+    {
+      "name": "p09",
+      "sha256": "9106bf278654a8271bc33987a2e025910bf84e290bbc2a70589e14f3ab751e40",
+      "bytes": 10732
+    },
+    {
+      "name": "p10",
+      "sha256": "aac8ab6c88dc92223a1393e2092faf018ec0ac629304e036a4695c04131d52d0",
+      "bytes": 19058
+    },
+    {
+      "name": "p11",
+      "sha256": "09d13598080600179a97b2e0456ca372aa2b7982939ebcd2d6be4e5f254fa2f8",
+      "bytes": 12718
+    },
+    {
+      "name": "p12",
+      "sha256": "ca92fb821f7b72b300f8febad61c6df323e92adeb3f065506fb45864e11fa75c",
+      "bytes": 12550
+    },
+    {
+      "name": "p13",
+      "sha256": "2a7665b2d69039c0363f8ba27aece5a7070ebebb1e066af3235c7db720196fbe",
+      "bytes": 12534
+    },
+    {
+      "name": "p14",
+      "sha256": "75ac5a076b56bbb9347b91dc6caaa51dac8784b8f9c03bdf8ff9d2cdee0774a3",
+      "bytes": 11448
+    },
+    {
+      "name": "p15",
+      "sha256": "98a5758a8735b8e23aea8e02a4c81ae7ea0f717ce05bd99bba2307959b3c893d",
+      "bytes": 13372
+    },
+    {
+      "name": "p16",
+      "sha256": "3d81b77893c53b3b2d3f5441334c4a9ef0d6c0341ebe1f9e30f9b517faf2bcb9",
+      "bytes": 19820
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

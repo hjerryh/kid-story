@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0212",
+  "version": 1,
+  "status": "media-ready",
+  "title": "果树上有三扇门",
+  "subtitle": "纸树藏着甜秘密",
+  "description": "萄萄想在湖心果摊给木头小猪造一座小果园，可真果子压倒了小树，画出来的果子又摘不下来。纸上的树里，还能藏进甜甜的惊喜吗？",
+  "ageBand": "3-5",
+  "theme": "小小果园",
+  "color": "#A9C975",
+  "character": "果精萄萄：浅绿色卷发，圆脸，穿紫色短外套和白色软鞋。木头小猪点点：浅棕色木身，背上三块蓝色圆斑，短短的木腿，系绿色领巾，个头只有一只梨那么高，会走路、说话和吃水果。",
+  "cover": "/library/stories/expansion-0212/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 162.898,
+  "detailUrl": "/library/stories/expansion-0212/v1/story.json",
+  "audio": "/library/stories/expansion-0212/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "湖心果摊飘着甜香，木头小猪点点站在一只梨旁边。他和梨一样高，够不着大果篮。“我想自己摘一回果子。”他告诉果精萄萄。萄萄摸摸下巴：“我来造个小果园！”",
+      "image": "/library/stories/expansion-0212/v1/p01.webp",
+      "start": 0,
+      "end": 19.838
+    },
+    {
+      "id": "p02",
+      "text": "萄萄找来三根细树枝，插进泥团，当作果树。她刚挂上一颗樱桃，小树就歪倒了。换根粗树枝呢？点点仰起鼻子，还是够不着。樱桃红红的，像挂在高高的屋顶上。",
+      "image": "/library/stories/expansion-0212/v1/p02.webp",
+      "start": 19.838,
+      "end": 40.372
+    },
+    {
+      "id": "p03",
+      "text": "她又拿来厚纸，画了矮矮的树，红果子就在点点鼻尖前。点点轻轻拱一下，果子没动；再拱一下，果子还是没动。“这座果园很好看，”他说，“可是，果子摘不下来呀。”",
+      "image": "/library/stories/expansion-0212/v1/p03.webp",
+      "start": 40.372,
+      "end": 59.922
+    },
+    {
+      "id": "p04",
+      "text": "点点转到纸后，一不小心，把纸边的小口顶开了。小纸片翘起来，像一扇门。他探出鼻子：“这里能开门！”萄萄看见门后那碟樱桃，眼睛亮了：“树上也能有门呀！”",
+      "image": "/library/stories/expansion-0212/v1/p04.webp",
+      "start": 59.922,
+      "end": 79.304
+    },
+    {
+      "id": "p05",
+      "text": "萄萄把厚纸折出两个弯，让它稳稳站住。她沿着树冠，慢慢撕出三扇小门，每扇门都留着上边，掀开还能放下。门口低低的，点点不用踮脚，只要抬抬鼻子就能打开。",
+      "image": "/library/stories/expansion-0212/v1/p05.webp",
+      "start": 79.304,
+      "end": 99.046
+    },
+    {
+      "id": "p06",
+      "text": "她洗净水果，把樱桃、草莓和去核的桃肉分别放进小碟，藏在三扇门后。“果园准备好啦！”点点背过身，闭上眼睛。萄萄把小门一一放下，只露出满树绿叶和红圆点。",
+      "image": "/library/stories/expansion-0212/v1/p06.webp",
+      "start": 99.046,
+      "end": 120.204
+    },
+    {
+      "id": "p07",
+      "text": "点点走进小果园，顶开第一扇门，草莓的香气扑到鼻子上。他伸出前蹄，抱出一颗草莓。“摘到啦！”他咬了一小口，嘴边红红的。纸树轻轻摇晃，门后还有两份甜甜的秘密。",
+      "image": "/library/stories/expansion-0212/v1/p07.webp",
+      "start": 120.204,
+      "end": 141.53
+    },
+    {
+      "id": "p08",
+      "text": "三扇门都打开后，点点的肚子圆了一点。他靠着纸树，打了个小哈欠。萄萄问：“明天还来摘吗？”“来，”点点眯着眼说，“明天别告诉我，哪扇门里住着桃子。”湖水在桌边亮呀亮。",
+      "image": "/library/stories/expansion-0212/v1/p08.webp",
+      "start": 141.53,
+      "end": 162.898
+    }
+  ],
+  "buildHash": "04a5ca58a3758e161cbbb9ffb46abac806c2ef4d5284fafbfa1c89b6ccd8a659"
+}

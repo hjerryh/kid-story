@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0197",
+  "title": "苏苇终于画到第三片花瓣",
+  "version": 1,
+  "bodyCharacters": 1420,
+  "pages": 16,
+  "duration": 435.05,
+  "bodySha256": "0cf25a2472fffb3ffcd8334aab429868a5c74eebb21fff8b8243a8572da51de1",
+  "audioSha256": "360905c1139fb2f8aca307de6f9019c6794aaf41312cf03668db99e182e3e6e4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "fb0a92308f7ebf778d46e7febe1b884b8af5edb35ef7f46a73d7a23bd7ef89d2",
+      "bytes": 19716
+    },
+    {
+      "name": "p01",
+      "sha256": "eed50bb307b9604ce4455df778208b7c83cbd2d49c42d870dbd91d4e836bb68a",
+      "bytes": 16122
+    },
+    {
+      "name": "p02",
+      "sha256": "6f88f3b82e658f24eb994bb41ad49e9ee71fd62327b3c120fb719885dc3d7f8e",
+      "bytes": 18608
+    },
+    {
+      "name": "p03",
+      "sha256": "d90bd25d2c6db294156b0b804b2069f54a20adc7b05476900f7009072b7b2341",
+      "bytes": 12830
+    },
+    {
+      "name": "p04",
+      "sha256": "de190d583a4b2ac704541c659e33981e5b23a56763f25854ac948e6dd2731a67",
+      "bytes": 11956
+    },
+    {
+      "name": "p05",
+      "sha256": "2561c457e308718e4dfbb53889f07b85f831bff665d726100456d4a805584691",
+      "bytes": 18636
+    },
+    {
+      "name": "p06",
+      "sha256": "be859659dd5ef43c42cd62d790ce13d9fd3564b7a96e7d123fed8f7b46541eb8",
+      "bytes": 14724
+    },
+    {
+      "name": "p07",
+      "sha256": "65218a1b7a33320ae683994a1e9505b79a34b6634b7409824ce64f08d6c28b96",
+      "bytes": 12284
+    },
+    {
+      "name": "p08",
+      "sha256": "a866e5bb6be0b21f0ea2a2f5bff6b132d9e5e596cc5ed195a42a146b9b9eb7c9",
+      "bytes": 13332
+    },
+    {
+      "name": "p09",
+      "sha256": "31cd1a09002990d5ca034fe203ee4290bc4c0e013221e8d412ba6aa245c51363",
+      "bytes": 12908
+    },
+    {
+      "name": "p10",
+      "sha256": "b4b6f1edc32529013abc597f06acce7a15550cff109edcd06dbcbffb50962669",
+      "bytes": 13972
+    },
+    {
+      "name": "p11",
+      "sha256": "b92853c5197cf2ae940937a6824d180c79ea4182cdcf9fafb71f7d919279afb4",
+      "bytes": 11386
+    },
+    {
+      "name": "p12",
+      "sha256": "3f883498aadee5de3d38702b83f6a03b8854606c6a2066bdefffd2443ecd1ffa",
+      "bytes": 14042
+    },
+    {
+      "name": "p13",
+      "sha256": "7fa20638fea8875366b32e2ca1a03561ab3da8a351b6002558f725f50b70171c",
+      "bytes": 14586
+    },
+    {
+      "name": "p14",
+      "sha256": "44a260d617d6ab8b01a34d93e348fc690f5e146c2ff0d2196b7bc8ed67573a35",
+      "bytes": 13476
+    },
+    {
+      "name": "p15",
+      "sha256": "3b2448d7481bceebd3e035ab86810108489e00b512f5e458b692fbf15a81eb35",
+      "bytes": 11986
+    },
+    {
+      "name": "p16",
+      "sha256": "b59c8c3b9e2493a368b2c33353381cce18f5a83be9d7056f952b9f726d454f53",
+      "bytes": 21214
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

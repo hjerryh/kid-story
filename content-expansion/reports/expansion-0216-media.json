@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0216",
+  "title": "谜语柜的小方田",
+  "version": 1,
+  "bodyCharacters": 514,
+  "pages": 8,
+  "duration": 168.034,
+  "bodySha256": "ea8085c5dbccf1b53339c3aba96729cc0dbeb893a7375e43f234a34bbc7caa73",
+  "audioSha256": "1e88cc56c41b8eab9bc5128f23239c0ea67f4c1c33a8780c477fbac3e19652cb",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "410f0834166d71b58ae2552b912c1121b59c71c0e2e3e287f0ec432504fb2bf8",
+      "bytes": 19646
+    },
+    {
+      "name": "p01",
+      "sha256": "47bbb5c940ad99ed3893afb7ab88e1d9427f4ac537cebcef6b9421af1de48e49",
+      "bytes": 16872
+    },
+    {
+      "name": "p02",
+      "sha256": "e607784ed55f8156fcfe60892e4b2ad66d22fb0d2d6a7190480e819487494e31",
+      "bytes": 16714
+    },
+    {
+      "name": "p03",
+      "sha256": "4c6f37b45ede049ca2a5fd7cbda70e40c8c7a119b5bed9f47f2d1e9a47ec761a",
+      "bytes": 16948
+    },
+    {
+      "name": "p04",
+      "sha256": "77fbe5149a6ad985f2ad2b57ce524f46f23dd29ed17085b4236623314188abff",
+      "bytes": 16204
+    },
+    {
+      "name": "p05",
+      "sha256": "e90696c8808f4dbaaf129b31252fc5a9010fd5ad24a495cc01659048d407783d",
+      "bytes": 16248
+    },
+    {
+      "name": "p06",
+      "sha256": "0edf0f142fb54feb4a805efb5d61f6c6b601ed05e005cace76ff2ebf9628780a",
+      "bytes": 16236
+    },
+    {
+      "name": "p07",
+      "sha256": "9d98083d0d76a51a45baa9c9dcacdb0a3aa6c327c68984942069aba3c80b7fab",
+      "bytes": 16788
+    },
+    {
+      "name": "p08",
+      "sha256": "0a4af2c0cf25ebf8b21f3268d57bdeb0c159adb56092b4691f5b54756c29e3e6",
+      "bytes": 16816
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0218",
+  "title": "第六步，沙鲸浮上来",
+  "version": 1,
+  "bodyCharacters": 906,
+  "pages": 12,
+  "duration": 283.89,
+  "bodySha256": "7fa618d38e5be40cda1434cb5a399116325ba4053f734d69acf3980dea8102d5",
+  "audioSha256": "e1527fd894ec63a6f5b3f6baff7577819c9d53776198afe2e833c2a768db5e73",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9751c190c05d8e8adffd140cd28c044960566484ca2628bae6fd7d1d458f1a67",
+      "bytes": 19652
+    },
+    {
+      "name": "p01",
+      "sha256": "0483ca2b46b3f29365353ebd9401cb1ba2b687b659ca90948aac7f3e5bbb4190",
+      "bytes": 14484
+    },
+    {
+      "name": "p02",
+      "sha256": "c17ea8c9224e3cb598d2932b9663452e2d239e9bbfb896006dfdb453f37c431f",
+      "bytes": 16506
+    },
+    {
+      "name": "p03",
+      "sha256": "08906b7cf14f608366e009de42b20adfb6963dff480e3fa44b539cedcf5e0d50",
+      "bytes": 16798
+    },
+    {
+      "name": "p04",
+      "sha256": "56a1befb7ab70fb21640e3d93e7f011b11c7c79cfa63ad8d41311fed71567784",
+      "bytes": 16968
+    },
+    {
+      "name": "p05",
+      "sha256": "1ce4413a92e74380b28e60eb4132ee05bc6a3299d0343d0110f720eaf36914f2",
+      "bytes": 16938
+    },
+    {
+      "name": "p06",
+      "sha256": "0c4a23c64e59a8f1794a9a1dd9d20368ba9de2557ab968b983e74b36cb25f0a3",
+      "bytes": 16556
+    },
+    {
+      "name": "p07",
+      "sha256": "707d921f9314cf9fc7d0048234d7721b70db47696810c5d4eaf566dbf7af104d",
+      "bytes": 16752
+    },
+    {
+      "name": "p08",
+      "sha256": "6d0a2211a8eb185292a25d5a36c857e6cca113539173a996d636ab68f252737d",
+      "bytes": 15204
+    },
+    {
+      "name": "p09",
+      "sha256": "2b695b9f13b991a77c0ef81a77dc8b8eda6c318c386d7c8ddd5bd4dffbc66cf6",
+      "bytes": 15876
+    },
+    {
+      "name": "p10",
+      "sha256": "793d4b3fff87b0c7a167c3749c6c7f069df824af2b9fe5c547ada91898eb58f9",
+      "bytes": 17570
+    },
+    {
+      "name": "p11",
+      "sha256": "51992f8bba5ac08e1db99d378058a3f84231622070b283c0d47431d91672843f",
+      "bytes": 17074
+    },
+    {
+      "name": "p12",
+      "sha256": "92f1f2a1dbd8d5f9317f74359774f25a85a0b364060f5d3e1fb352f9670f6cff",
+      "bytes": 15520
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

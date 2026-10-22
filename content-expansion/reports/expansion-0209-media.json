@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0209",
+  "title": "酥边边和软心心",
+  "version": 1,
+  "bodyCharacters": 520,
+  "pages": 8,
+  "duration": 165.418,
+  "bodySha256": "55f819ae66ed6dd9c1f1c5047b7ad0b8d98fc13e5fc5b2713493c52fb77ab9f0",
+  "audioSha256": "b3301fbb36c515b67f1d6576a7af2d082fc692d66bced0b39b99d53084d7f797",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "bbaf6180f9986599a6a0e33d687234c631d9720f41125c7637ef713e5b135d6c",
+      "bytes": 19138
+    },
+    {
+      "name": "p01",
+      "sha256": "941f2061176a1b69c57f20215193870b6fe19a8e80761f8c83b9ac5e78dae4e4",
+      "bytes": 14266
+    },
+    {
+      "name": "p02",
+      "sha256": "ef5933fb301c9c9de619b6ac4bbe95be43e5dfa7f0dbca52ef36b0f3ac0bf145",
+      "bytes": 14408
+    },
+    {
+      "name": "p03",
+      "sha256": "a35352336ef867521c83171b66fef331688b0e5531f35200a73696ce416ae0c0",
+      "bytes": 15632
+    },
+    {
+      "name": "p04",
+      "sha256": "dd8812a9aa6034fd40e75124d69ff1fdc4d201036ad45bd1ca092d042618a96f",
+      "bytes": 14970
+    },
+    {
+      "name": "p05",
+      "sha256": "3721f42db83c779bad591ac9157a65bbef00772a41a310218d7299b9cbdf6661",
+      "bytes": 15064
+    },
+    {
+      "name": "p06",
+      "sha256": "30930a3d869854b9bb4d076b3c4a658d07e7d801758d24e87a85e1cae7aa699b",
+      "bytes": 15478
+    },
+    {
+      "name": "p07",
+      "sha256": "e983703a7f901aa3eac0473b4b49f1118f8646ea874727dcb66ef6a55c9121ce",
+      "bytes": 15312
+    },
+    {
+      "name": "p08",
+      "sha256": "5056b6c19a7a8e0e43576a75f4db8402ebcc8da087951f3322c1da4df8ac11fb",
+      "bytes": 14706
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

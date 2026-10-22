@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0215",
+  "version": 1,
+  "status": "media-ready",
+  "title": "云球不当小凳子",
+  "subtitle": "等它慢慢圆回来",
+  "description": "芋圆借来一只软软的云球，答应好好送回去，却把它坐成了一张小圆饼。越急着修好，云球越变越怪。芋圆能把圆滚滚的朋友还给小羊吗？",
+  "ageBand": "3-5",
+  "theme": "承诺与照料",
+  "color": "#A9C9DF",
+  "character": "芋圆是一只浅粉色小猪，圆鼻头，穿湖蓝色短背带裤，左侧口袋绣着白豆子。星绵是一只奶白色小羊，卷卷毛，戴淡紫色小领巾。云球洁白柔软，没有五官。",
+  "cover": "/library/stories/expansion-0215/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 162.49,
+  "detailUrl": "/library/stories/expansion-0215/v1/story.json",
+  "audio": "/library/stories/expansion-0215/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "星星牧场里，小羊星绵有一只云球，滚过草尖，轻得不压弯小花。芋圆伸出手：“能借我玩吗？我会圆圆地送回来。”星绵把球递给他。球软软的，贴着他的圆鼻头。",
+      "image": "/library/stories/expansion-0215/v1/p01.webp",
+      "start": 0,
+      "end": 20.414
+    },
+    {
+      "id": "p02",
+      "text": "芋圆推着云球走过草坡，又让它从两脚之间滚过去。玩累了，他拿出梨块，顺势坐在球上。“正好是个小凳子！”等梨吃完，他站起来，呀，云球成了一张厚厚的圆饼。",
+      "image": "/library/stories/expansion-0215/v1/p02.webp",
+      "start": 20.414,
+      "end": 40.3
+    },
+    {
+      "id": "p03",
+      "text": "芋圆想起自己说过的话，赶紧捏住圆饼的两边，往中间拢。左边鼓起来，右边却瘪下去。他又揉了揉，云球多了好几个小坑，像一颗皱巴巴的大果子，怎么也滚不动了。",
+      "image": "/library/stories/expansion-0215/v1/p03.webp",
+      "start": 40.3,
+      "end": 59.634
+    },
+    {
+      "id": "p04",
+      "text": "他把云球放在草上，蹲下来，鼻头也皱了。过了一会儿，最早捏出的小坑竟浅了一点。芋圆伸手一按，小坑又深了。他赶紧收回手：原来不碰它，它才会自己慢慢鼓起来。",
+      "image": "/library/stories/expansion-0215/v1/p04.webp",
+      "start": 59.634,
+      "end": 80.024
+    },
+    {
+      "id": "p05",
+      "text": "星绵沿着小路走来了。芋圆没有把云球藏到背后。“我把它当凳子，坐扁了。后来又捏坏了。我想等它圆回来，再还给你。”说完，他看着草上的云球，两只耳朵热乎乎的。",
+      "image": "/library/stories/expansion-0215/v1/p05.webp",
+      "start": 80.024,
+      "end": 101.23
+    },
+    {
+      "id": "p06",
+      "text": "星绵坐在旁边：“它现在还不能滚呢。”芋圆点点头。他好想摸摸云球有没有变圆，手伸出去，又塞进口袋。他用脚尖数面前的小草，数乱了，就从最弯的那一根重新数起。",
+      "image": "/library/stories/expansion-0215/v1/p06.webp",
+      "start": 101.23,
+      "end": 121.956
+    },
+    {
+      "id": "p07",
+      "text": "草叶轻轻摇，云球一点一点鼓起肚子。小坑不见了，扁底也圆了。芋圆再多等了一会儿，才用指尖轻轻推一下。云球骨碌碌滚到星绵脚边。“这次，圆圆地还给你啦！”",
+      "image": "/library/stories/expansion-0215/v1/p07.webp",
+      "start": 121.956,
+      "end": 141.674
+    },
+    {
+      "id": "p08",
+      "text": "星绵把云球轻轻滚了回来。“我们一起玩吧。”芋圆坐到草地上，两条腿张开，接住那团软软的白。玩累了，他拍一拍身下的小草：“今天的小凳子在这里。”云球停在他们中间。",
+      "image": "/library/stories/expansion-0215/v1/p08.webp",
+      "start": 141.674,
+      "end": 162.49
+    }
+  ],
+  "buildHash": "42feb993665f1aec1678ec844e19a44fa6f9c374c9b699ce5188e1ea643607eb"
+}

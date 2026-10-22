@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0217",
+  "title": "榛布的露水茶馆",
+  "version": 1,
+  "bodyCharacters": 984,
+  "pages": 12,
+  "duration": 295.77,
+  "bodySha256": "1261804734688137418d313c68b9759fd1252c4154986891d4f5574c68f5996b",
+  "audioSha256": "d6b36024f02f4bd9fe6217cc68a5ffd42fba48a64bd7e1b8be831e5e8386ccda",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6f6371456a2fc5f793aeccdc261781c03de64565edf3890421f4dbd97ba33637",
+      "bytes": 18848
+    },
+    {
+      "name": "p01",
+      "sha256": "88465ae7c935b96a3a24c1b39257da7515fd86110b4cea9bcc90aa83c6696e6e",
+      "bytes": 13256
+    },
+    {
+      "name": "p02",
+      "sha256": "bc4b3e9947a12e7133669c103f9715a4ef745b26246301bd3b70aae1c219488e",
+      "bytes": 14354
+    },
+    {
+      "name": "p03",
+      "sha256": "3f56bc26df54ffd7c5f1ed0c8939881a870805d5e34c745e40eb667d32368de5",
+      "bytes": 14138
+    },
+    {
+      "name": "p04",
+      "sha256": "be476c8e92482c5d04c62820ba7d362f124591190f430957d82d3759caf41e24",
+      "bytes": 14558
+    },
+    {
+      "name": "p05",
+      "sha256": "d8a8a28b9011c73861f26c3edd1954550c1eee271a59ead425871f30c47e86b5",
+      "bytes": 13986
+    },
+    {
+      "name": "p06",
+      "sha256": "b783e72868b10622980a2e00233d3f9e0b8ea73d4e3989e6e8a225d6696bcc1e",
+      "bytes": 17962
+    },
+    {
+      "name": "p07",
+      "sha256": "1c37462dc7741840ae985a2796c50cc7b05b0eb044bc77f3591bcaebad2847ac",
+      "bytes": 17792
+    },
+    {
+      "name": "p08",
+      "sha256": "fbbf6836ff29f56b94b352412dab03972045b95db933b3481aaff825b5d41e3b",
+      "bytes": 17688
+    },
+    {
+      "name": "p09",
+      "sha256": "0a30d87167525e69d4ac774ba7454708e406444ec2d2df478a673a3e7045b9f6",
+      "bytes": 14614
+    },
+    {
+      "name": "p10",
+      "sha256": "05fd7a71df76d021a4cd893982bf511d1b420aecb11e0c6409e47303413a45c4",
+      "bytes": 14410
+    },
+    {
+      "name": "p11",
+      "sha256": "9a5b8ecf8ea6e45d296425c76d0de1e707f9e5463c6370f3f6159ebd81590fdb",
+      "bytes": 13894
+    },
+    {
+      "name": "p12",
+      "sha256": "61a924a8d8031069fdd5a856d89a994a47027f79d83853f151b8b4ec1aafcda5",
+      "bytes": 15546
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

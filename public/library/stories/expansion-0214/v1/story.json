@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0214",
+  "version": 1,
+  "status": "media-ready",
+  "title": "鳐鳐的尾巴咬住了自己",
+  "subtitle": "蓝尾巴慢慢松开",
+  "description": "苔桃想把风筝鳐鳐挂在窗前看帆船，可他的长尾巴打了结。越着急，结越紧，苔桃也快哭了。两个朋友先在桌边坐了一会儿。",
+  "ageBand": "3-5",
+  "theme": "着急的时候",
+  "color": "#79B8C4",
+  "character": "苔桃：棕色齐耳短发的小女孩，穿浅绿色连衣裙、白袜子和棕色布鞋。鳐鳐：会说话的浅蓝色鳐鱼形风筝，圆眼睛，白色肚皮，带一条长长的蓝布尾巴。",
+  "cover": "/library/stories/expansion-0214/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 163.69,
+  "detailUrl": "/library/stories/expansion-0214/v1/story.json",
+  "audio": "/library/stories/expansion-0214/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "海边小镇的早晨，苔桃打开矮柜，请出风筝鳐鳐。他会说话，最喜欢看白帆船。苔桃答应把他挂在窗前，让长尾巴随着海风轻轻摆。可是，他的蓝布尾巴缠成了一大团。",
+      "image": "/library/stories/expansion-0214/v1/p01.webp",
+      "start": 0,
+      "end": 21.35
+    },
+    {
+      "id": "p02",
+      "text": "苔桃捏住尾巴两头，往两边一拉。布结没有打开，反而缩成了硬硬的小疙瘩。她换一只手，又拉了一次。鳐鳐低头瞧瞧：“我的尾巴，好像咬住自己啦。”苔桃一点也没笑。",
+      "image": "/library/stories/expansion-0214/v1/p02.webp",
+      "start": 21.35,
+      "end": 41.62
+    },
+    {
+      "id": "p03",
+      "text": "她本来想和鳐鳐一起数船，现在却只能盯着这个结。她抠呀抠，指尖都累了，脸颊也热起来。“我解不开。”她小声说。话一出口，眼睛里就盛满了水，鼻尖酸酸的。",
+      "image": "/library/stories/expansion-0214/v1/p03.webp",
+      "start": 41.62,
+      "end": 62.226
+    },
+    {
+      "id": "p04",
+      "text": "苔桃把尾巴放下，双手藏进膝盖之间。“我想歇一小会儿。”鳐鳐说：“好，我陪你。”他们看着桌上的一块阳光。窗帘鼓起来，又落下去。谁也没有催那个结赶快打开。",
+      "image": "/library/stories/expansion-0214/v1/p04.webp",
+      "start": 62.226,
+      "end": 82.664
+    },
+    {
+      "id": "p05",
+      "text": "过了一会儿，苔桃的手不再攥紧了。她擦擦眼睛，把布结平平放在桌上。咦，中间有一道小缝，能看见下面的木纹。刚才她一直拉两头，竟没发现这里还藏着一点空地方。",
+      "image": "/library/stories/expansion-0214/v1/p05.webp",
+      "start": 82.664,
+      "end": 103.102
+    },
+    {
+      "id": "p06",
+      "text": "这次，苔桃把布条朝结中间送了送。小缝变大了，露出一个松松的圈。她沿着尾巴末端慢慢摸，找到它穿过的地方，再轻轻退回来。一个圈打开了，下面还有一个。",
+      "image": "/library/stories/expansion-0214/v1/p06.webp",
+      "start": 103.102,
+      "end": 122.7
+    },
+    {
+      "id": "p07",
+      "text": "苔桃不急着拉了。她松开一圈，就把那一段铺直，终于，最后的小疙瘩也散开了。蓝尾巴软软地躺过半张桌子。她把鳐鳐挂上低低的窗钩。“看，你的尾巴又这么长啦！”",
+      "image": "/library/stories/expansion-0214/v1/p07.webp",
+      "start": 122.7,
+      "end": 142.442
+    },
+    {
+      "id": "p08",
+      "text": "一只白帆船从窗外慢慢经过。苔桃伸出一根手指：“第一只。”鳐鳐的尾巴轻轻碰着她的手背。“还有一点皱呢。”他说。苔桃摸摸那些细细的折痕：“嗯，像小小的海浪。”",
+      "image": "/library/stories/expansion-0214/v1/p08.webp",
+      "start": 142.442,
+      "end": 163.69
+    }
+  ],
+  "buildHash": "b8c412def9072caf871a9dae38e4cf17e0bae45da07afd6ef449024e0decdaae"
+}

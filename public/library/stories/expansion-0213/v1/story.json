@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0213",
+  "version": 1,
+  "status": "media-ready",
+  "title": "柚芽拆下红屋顶",
+  "subtitle": "树枝下面的散步伙伴",
+  "description": "柚芽想用神奇积木拼一位散步伙伴。朋友喜欢高高的城堡，她却总想着一只贴着地面走的小兽。积木快用完了，她还要照着朋友的主意拼下去吗？",
+  "ageBand": "3-5",
+  "theme": "自己的选择",
+  "color": "#F2B65C",
+  "character": "小花精柚芽：浅棕色齐耳短发，头顶两片小绿叶，穿淡紫色连衣裙和绿色软鞋，背着透明的小翅膀。瓢虫豆点：红色翅壳上有黑圆点，戴白色小帽。积木小兽：由彩色木积木拼成，身体长长、六只短脚，背上有橙色方块。",
+  "cover": "/library/stories/expansion-0213/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 161.578,
+  "detailUrl": "/library/stories/expansion-0213/v1/story.json",
+  "audio": "/library/stories/expansion-0213/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "橘子温室里，柚芽打开一盒神奇积木。只要拼好，说声“做好啦”，积木就会活过来。她想拼一位散步伙伴，陪自己钻过矮矮的树枝，看看藏在叶子后面的橘子。",
+      "image": "/library/stories/expansion-0213/v1/p01.webp",
+      "start": 0,
+      "end": 18.518
+    },
+    {
+      "id": "p02",
+      "text": "瓢虫豆点飞过来，说：“拼一座会走的城堡吧！屋顶尖尖，多漂亮！”柚芽拿起红三角。她原来想拼长长的小兽，可豆点说得真高兴。她便把积木一块块往上叠。",
+      "image": "/library/stories/expansion-0213/v1/p02.webp",
+      "start": 18.518,
+      "end": 38.596
+    },
+    {
+      "id": "p03",
+      "text": "城堡渐渐高了，挡住柚芽面前的绿叶。她歪着头，才能看见树下的小路。“再加一层！”豆点拍拍翅膀。柚芽摸摸盒底，只剩几块积木，心里却还趴着那只小兽。",
+      "image": "/library/stories/expansion-0213/v1/p03.webp",
+      "start": 38.596,
+      "end": 58.578
+    },
+    {
+      "id": "p04",
+      "text": "她举起最后一块长积木，往城堡顶上比了比。太高了，散步时会碰到矮树枝。柚芽没有放上去。她把长积木横在脚边，又摆上一块，轻轻摸过这条长长的背。",
+      "image": "/library/stories/expansion-0213/v1/p04.webp",
+      "start": 58.578,
+      "end": 77.504
+    },
+    {
+      "id": "p05",
+      "text": "“我想拼这个。”柚芽说。“城堡不拼了吗？”豆点问。柚芽点点头，把红屋顶放回盒里：“我想让伙伴走在身边，还能一起看树底下。”她拆下一块墙，心里松快了一点。",
+      "image": "/library/stories/expansion-0213/v1/p05.webp",
+      "start": 77.504,
+      "end": 97.918
+    },
+    {
+      "id": "p06",
+      "text": "柚芽拆下城堡，把积木排成长身体，下面安上六只短脚。豆点坐在盒边看着。这回，柚芽自己挑了一块橙色方块放在背上。“像带着一颗橘子。”她笑着说，“做好啦！”",
+      "image": "/library/stories/expansion-0213/v1/p06.webp",
+      "start": 97.918,
+      "end": 118.788
+    },
+    {
+      "id": "p07",
+      "text": "六只短脚动起来，哒哒，哒哒。小兽走到柚芽身边，抬起方脑袋：“往哪里走？”柚芽指指树下。它轻轻钻过去，她弯腰跟上。绿叶下面，一颗橘子正挨着另一颗橘子。",
+      "image": "/library/stories/expansion-0213/v1/p07.webp",
+      "start": 118.788,
+      "end": 139.778
+    },
+    {
+      "id": "p08",
+      "text": "豆点飞下来，落在小兽的橙色方块上。小兽走几步，便停下来等柚芽。她头顶的小绿叶挂住一片落叶啦。柚芽摘下落叶，笑着追上去。温室里，六只木脚把午后的路走得轻轻的。",
+      "image": "/library/stories/expansion-0213/v1/p08.webp",
+      "start": 139.778,
+      "end": 161.578
+    }
+  ],
+  "buildHash": "5d852cb586ee3f2d848188603584dd3833ca96ade9a797bd78e719465663c5fa"
+}

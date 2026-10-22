@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0210",
+  "title": "花毯记得轻轻的痒",
+  "version": 1,
+  "bodyCharacters": 505,
+  "pages": 8,
+  "duration": 162.61,
+  "bodySha256": "b8248a87683780214b8f511f539b77d38c2f0ab6b368c4ee0cc818c6455facd8",
+  "audioSha256": "37bf5b4b664bd799f42e4ded0a5598aab48ce0317c208a5b6022427bf2f2f3b0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "aab51630f6328a1072c3bc4a281a350133efb3126066e693af227e0ca86b3ea7",
+      "bytes": 17638
+    },
+    {
+      "name": "p01",
+      "sha256": "251efa93b6f6cc21681abafded8db330560296c0a5db7a3055d8f791b8718e41",
+      "bytes": 12956
+    },
+    {
+      "name": "p02",
+      "sha256": "ba8be4d12d11f774e2135dada27266c4d3184e8f9f5fc4ed9f23e60dda26a854",
+      "bytes": 11854
+    },
+    {
+      "name": "p03",
+      "sha256": "1aab883a89d7e4d4953fe5dc9aa1197893d66681c9f860d80995c56a2ea2963a",
+      "bytes": 13386
+    },
+    {
+      "name": "p04",
+      "sha256": "378e77b6e700e46df274f89b987524c7f474645b8ebcfb914a8b0515055dbfbc",
+      "bytes": 12194
+    },
+    {
+      "name": "p05",
+      "sha256": "41f579c9be9ec3fea2fb5e55757e26be7067282de4c70d77df1f53f3e9e3a12d",
+      "bytes": 12862
+    },
+    {
+      "name": "p06",
+      "sha256": "5ceb0351d3411f0c8163a811740298aa2c4ceb620ea76d0f4e30613af0e43973",
+      "bytes": 15344
+    },
+    {
+      "name": "p07",
+      "sha256": "48ee2acfe5a0802e5860d66e538aac11b2d2c54dd29376fa4d019487afd4f023",
+      "bytes": 14922
+    },
+    {
+      "name": "p08",
+      "sha256": "fc95ed261aeeb8dfa2f4dd8c5ea67b9ce567aa5747d756883e6e2e3f2983a3e1",
+      "bytes": 14766
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

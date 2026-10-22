@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0211",
+  "title": "天桥的胳肢窝",
+  "version": 1,
+  "bodyCharacters": 518,
+  "pages": 8,
+  "duration": 170.794,
+  "bodySha256": "df67ec6c3ad9f217f306b6a9f1e4c1912e0169f6ef2607cdff7ba029e3f57829",
+  "audioSha256": "0d442e02ff1b5ef4d28da6cb2d53be8865992384a5b8bc400c78fbc4f73f652c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2820e6e263fc7cbc3a7560811a27b18883849c3ffa0904db51bc867d13a3ad2f",
+      "bytes": 18080
+    },
+    {
+      "name": "p01",
+      "sha256": "685e9f1cc1bc220783d79d6127f586e9f5a227f7abc813cdaf4a4b30bff7940d",
+      "bytes": 16726
+    },
+    {
+      "name": "p02",
+      "sha256": "58f1d347ebe5377b1ea88b27a15d46885324671cf03154b044570e29e0851fe8",
+      "bytes": 17248
+    },
+    {
+      "name": "p03",
+      "sha256": "21b1e8e0a35aedc3618b46c1d501835cf95429f0932385ea88a0b91f7223b67b",
+      "bytes": 17236
+    },
+    {
+      "name": "p04",
+      "sha256": "d02ab3886cec4af2e312416ba1d58e779d3f7551b1d9d95840fdb4cddac0d6b4",
+      "bytes": 17126
+    },
+    {
+      "name": "p05",
+      "sha256": "874a41592a1253f549a90e6f18008075f8e5f7540bea412034d19ab0ade39d6a",
+      "bytes": 17586
+    },
+    {
+      "name": "p06",
+      "sha256": "71f5473270b83302d693aca35a1746de5b10136575742e437674fb1af08d18f1",
+      "bytes": 17392
+    },
+    {
+      "name": "p07",
+      "sha256": "256de866d49b33c9285125ca4ca4d9d325eecaf150146172758a4af1ec714b06",
+      "bytes": 17208
+    },
+    {
+      "name": "p08",
+      "sha256": "c6ac74edda9ef494b22cda1585d4029d0dc52a4299461077191c144a06b46536",
+      "bytes": 15992
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
