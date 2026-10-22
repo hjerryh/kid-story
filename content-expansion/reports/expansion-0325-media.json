@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0325",
+  "title": "尾巴挨着脸的床",
+  "version": 1,
+  "bodyCharacters": 494,
+  "pages": 8,
+  "duration": 156.706,
+  "bodySha256": "579b5b2b273922d5d3a1238881f3222586331fa6187459e71cf77c22a0461735",
+  "audioSha256": "4b71e97d2b4667b91bb74b8c7201f5f73df9f492fc58b326d6462a25c15f4474",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "404de37e50a2f9bab0af1d527cf57a45e578ad0e1dc8a14908d38517d637882a",
+      "bytes": 17336
+    },
+    {
+      "name": "p01",
+      "sha256": "f344ed7ee049c304b1277c2b29164e33bebb24108893449863cf2f7905a6b123",
+      "bytes": 12134
+    },
+    {
+      "name": "p02",
+      "sha256": "f2a6e5f06fa68c0b895b5075a9920d67c0c2d0fcdc50766ca71006a35feddbe0",
+      "bytes": 12128
+    },
+    {
+      "name": "p03",
+      "sha256": "38ee5ffd87b16e7352c531c27bf4c0d23357cd5c62898854547712552b46481e",
+      "bytes": 12674
+    },
+    {
+      "name": "p04",
+      "sha256": "e2da904a3037f02954fcaf9752ebc0d5f2cb3281d6827d18d228c46126da60f5",
+      "bytes": 12964
+    },
+    {
+      "name": "p05",
+      "sha256": "8bce0a1da139181702926da52b2518afcd2c7b3058dd46156a2502cd40ebbc81",
+      "bytes": 13168
+    },
+    {
+      "name": "p06",
+      "sha256": "34089e3b67d5ccc6014d9ab9fa465da397be30caaebb5337d94934c5474071d6",
+      "bytes": 13836
+    },
+    {
+      "name": "p07",
+      "sha256": "4b49000c7a411449866680a149d8200fdc2124e01aef817c18d558fad04fc7b5",
+      "bytes": 13656
+    },
+    {
+      "name": "p08",
+      "sha256": "f9cb2cf6efaf650b9afb1ae30ab5c56115b92d353cd732f25d28dbe6a93bb227",
+      "bytes": 13776
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

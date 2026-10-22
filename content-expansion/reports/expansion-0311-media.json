@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0311",
+  "title": "银边邮票里留一段岸",
+  "version": 1,
+  "bodyCharacters": 1518,
+  "pages": 16,
+  "duration": 456.362,
+  "bodySha256": "74fd0046aa2ab4176cdb581cdb787eac6ed0aa0dac5406d8620589d99d25331c",
+  "audioSha256": "5c6caf8b931192dd0bd9fad13ad62ab1eb7fccc3e5f02ce8594c52c5513c0b6d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9131fb341749e6f6c0a2b78ce1ccade2ecf452ca88196240b1ea260f4e253c1b",
+      "bytes": 22400
+    },
+    {
+      "name": "p01",
+      "sha256": "cab5ceee2bca8bbea178ea721fe7e9b134826055130c0337bdd97c8bac279ba4",
+      "bytes": 18020
+    },
+    {
+      "name": "p02",
+      "sha256": "a30c50bf20171091bef8eb7252b9e14f8641231e22080ac9557a9493a9e4c24c",
+      "bytes": 18066
+    },
+    {
+      "name": "p03",
+      "sha256": "2513fb0cb24928603b52f36e250049c146cc3ee3d92ba6c912787083a570c823",
+      "bytes": 19022
+    },
+    {
+      "name": "p04",
+      "sha256": "3722e5d6700f17311568888eecd09c9374898134e5d689e8a092cb799b2ad0ab",
+      "bytes": 18776
+    },
+    {
+      "name": "p05",
+      "sha256": "4a8be656cf56b135627e5a9b05cab2abeb29342588ea25dfbcae811befb8cf37",
+      "bytes": 9956
+    },
+    {
+      "name": "p06",
+      "sha256": "0d7ead197f66d194ac4e9590f1207149da372723c62258b997bbb425115392bf",
+      "bytes": 16972
+    },
+    {
+      "name": "p07",
+      "sha256": "7e1ac1da65cb24841b1091c762858530aa51a5679eca8a5191dfbcfbbd7511c8",
+      "bytes": 18996
+    },
+    {
+      "name": "p08",
+      "sha256": "c000f4a26d7a94b47d35eb5bb360e270c0c906bdb78fe5a9efe8f684510765c2",
+      "bytes": 11652
+    },
+    {
+      "name": "p09",
+      "sha256": "6c1dc62e97f08f047cd687f5d05163c06c80d558019d8cc4c7f46380e1796c97",
+      "bytes": 12956
+    },
+    {
+      "name": "p10",
+      "sha256": "b76371975b8236bc2ced9cee219a0eade2ae82828837ffdcb1059ffa1598a9a9",
+      "bytes": 9740
+    },
+    {
+      "name": "p11",
+      "sha256": "1d158686475f65d70a91d1321945db8ba67d6d9668200ca2da7a7db616262493",
+      "bytes": 12442
+    },
+    {
+      "name": "p12",
+      "sha256": "a4a982a85f1496b80a278252185b8df0d6c435f311c2e91510172ac7f0571836",
+      "bytes": 13050
+    },
+    {
+      "name": "p13",
+      "sha256": "2cabee52fd516e8a5cf84f99193ffb3a81e85a75d81e5e0878c3685871403835",
+      "bytes": 12436
+    },
+    {
+      "name": "p14",
+      "sha256": "06eec29f2f9d2e51b780137a1e7d3524875c97c6ebcb20a191e0d390d15c502e",
+      "bytes": 12828
+    },
+    {
+      "name": "p15",
+      "sha256": "50ed4387a1fe0f40aa18478551d2ede02e626ab820abd5579b0ed20556638dd8",
+      "bytes": 18810
+    },
+    {
+      "name": "p16",
+      "sha256": "5a77f469230ccdd81b11c32cf5c1fc4976084299c0f91e12cffcdcf5cd7300f9",
+      "bytes": 18642
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

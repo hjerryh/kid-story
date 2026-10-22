@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0323",
+  "title": "影子之间放个懒腰",
+  "version": 1,
+  "bodyCharacters": 520,
+  "pages": 8,
+  "duration": 167.458,
+  "bodySha256": "dfbe4ab7ec75e33430b5a8859f68dca3a6a5275ee558ea40621ebaee9ccf3135",
+  "audioSha256": "c62ad3aa87664ef18de10e00f9cd3810f48bdd30f1f70bb69c04aea8fc493774",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8cfbd950a195530c62e614a6b1ff008781a98d6f0a87c7a2f84b6fb3e165220b",
+      "bytes": 18708
+    },
+    {
+      "name": "p01",
+      "sha256": "a34dde377aa34a898d2405419644603ebe72f568a3f067880ee114a3797729b6",
+      "bytes": 15696
+    },
+    {
+      "name": "p02",
+      "sha256": "bd9758486a5f88ee300640381b7231c5d496d6bd0f76e3a58c1278f075354dd1",
+      "bytes": 15096
+    },
+    {
+      "name": "p03",
+      "sha256": "25cf01eb085272cf189186f820768cc852e5886420792adaf87d256c1b9dfa7d",
+      "bytes": 14730
+    },
+    {
+      "name": "p04",
+      "sha256": "c8b26fa23b37fbb9a54ad7a7d1c61bc23e71a6528f5bae680982608c54182b10",
+      "bytes": 16090
+    },
+    {
+      "name": "p05",
+      "sha256": "d655a9559776805afdb76033da42d42d75ad52fa81c6ab4177870d9fb4322d3b",
+      "bytes": 14876
+    },
+    {
+      "name": "p06",
+      "sha256": "7793c6b3ec6407300814b3c52deee4816fe414b78276c5dc442fc824af4da24b",
+      "bytes": 15242
+    },
+    {
+      "name": "p07",
+      "sha256": "f8f16b2be7d7096d3c0ed7d57255d2c31f22ffb397006812ac1d00cfed0e0317",
+      "bytes": 14912
+    },
+    {
+      "name": "p08",
+      "sha256": "ff241eaf5f7a3e1db101da950bcc0bafe37e192ac83ccc63c4ac58b66ae845d3",
+      "bytes": 15094
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

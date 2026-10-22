@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0315",
+  "title": "近路卷起来以后",
+  "version": 1,
+  "bodyCharacters": 1518,
+  "pages": 16,
+  "duration": 459.194,
+  "bodySha256": "3c33b4bfd50f9072ba5e79ef5c1734824232a5aa408aa6f509b6d389a864fbd9",
+  "audioSha256": "3fce0e8c8ee846b6ea273931c39dd07c37fd1696b45af85499ca4ce692b454b9",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "041e44dbefd45576db68c8fa2cdff3c7eb5c2fd36b73c37a945a5380a33bffab",
+      "bytes": 16818
+    },
+    {
+      "name": "p01",
+      "sha256": "c9d316993dd7860be50ab3dfddae8288d3be3a720b2ff562b78b85c53b914752",
+      "bytes": 12432
+    },
+    {
+      "name": "p02",
+      "sha256": "b5e4869117d63c426a302968d827e30fb78ab428848a381e4d443195a6fccb18",
+      "bytes": 10374
+    },
+    {
+      "name": "p03",
+      "sha256": "2e05bc33dfd79d6712ba3c55baa038c442980ba30a339c8997b75b85655cd32e",
+      "bytes": 11126
+    },
+    {
+      "name": "p04",
+      "sha256": "3754245fa3e24ff4e1594d41921f09917bd90d6cfbcf2a662481d7f3693227f4",
+      "bytes": 12754
+    },
+    {
+      "name": "p05",
+      "sha256": "32998447024382562c019ba662ab01edaa42f133cbb80cd55f57ed902f24cac5",
+      "bytes": 11306
+    },
+    {
+      "name": "p06",
+      "sha256": "b666bfb9e32362a090efea39a53e79cdca1a957c9300d35263c3596587e84fa6",
+      "bytes": 10872
+    },
+    {
+      "name": "p07",
+      "sha256": "5fbfe30dee4115921cf2faaeb9d5c6978b95b48d09b9468f36a8350b482aa262",
+      "bytes": 10378
+    },
+    {
+      "name": "p08",
+      "sha256": "d4d7bfb4139081dbe18012824dc9cec94c3178a35ed6399e2faf171f2104bff4",
+      "bytes": 11016
+    },
+    {
+      "name": "p09",
+      "sha256": "955b83317e93b2df0b504a69b377c96e6161f45a87f1413e664cd191114b3a9e",
+      "bytes": 11092
+    },
+    {
+      "name": "p10",
+      "sha256": "00d043adb75a2e6c80fd3b45eec8d6e60c0a314310fdeb6040537b0dcd4f63df",
+      "bytes": 12386
+    },
+    {
+      "name": "p11",
+      "sha256": "846efc63c3b609e2bd7a3d3924439e7044172a1971c57357ded86627a6fdccdc",
+      "bytes": 9934
+    },
+    {
+      "name": "p12",
+      "sha256": "9a3a46ba381c87fa8306007d572dcb803647c43b7a715287bee7db0b8457b234",
+      "bytes": 11588
+    },
+    {
+      "name": "p13",
+      "sha256": "efa053cfc359894ed581e1bec180d504545a3a45e132e8a9bf64e4c4049da04f",
+      "bytes": 10656
+    },
+    {
+      "name": "p14",
+      "sha256": "88e73d1692bd63d620a18e3298aa75d0e67f3ad4b5757dfbaa7e51c2bc48af47",
+      "bytes": 14624
+    },
+    {
+      "name": "p15",
+      "sha256": "a008f67c2204f50202bcc0fa23d5fb2bb62a44d06bc3ffa83619228e7c9f2827",
+      "bytes": 14374
+    },
+    {
+      "name": "p16",
+      "sha256": "8612659fe827cedd8698904361b04a0bfcb569cc52b6945e622553d2281d8fb7",
+      "bytes": 14232
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

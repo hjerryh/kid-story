@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0276",
+  "title": "一只手从十二盘沙里回来",
+  "version": 1,
+  "bodyCharacters": 1492,
+  "pages": 16,
+  "duration": 465.362,
+  "bodySha256": "9e8172e149e59f37b376efc1d54058ce350918da6dd97198b6061a44b9902479",
+  "audioSha256": "66dc8290581c74c23a2127faf63b10624c21eb903bc9007431d5f8e5aea1dc02",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "1653bbe521b3accb88198362c229c495a7b9327a7129a85be536e1ec0fbbc95a",
+      "bytes": 12948
+    },
+    {
+      "name": "p01",
+      "sha256": "cbd2b0d7bbb3b1b015a6e2fe7159353932510058220b86b7ef1c9a67018b6439",
+      "bytes": 11230
+    },
+    {
+      "name": "p02",
+      "sha256": "110b463500e5614608405f349a9c02ee9f0c04cc2289e97349ba5d7bf10af66c",
+      "bytes": 11820
+    },
+    {
+      "name": "p03",
+      "sha256": "5dee2f1c5ed842685223d4abc4f8d67a49db9b4ce50f8919c370f5493377ced4",
+      "bytes": 10114
+    },
+    {
+      "name": "p04",
+      "sha256": "24c865b71cd5f89f0701d4ca49dd46f45bb7153db1eb1bb7ea721d6db1a366b1",
+      "bytes": 10212
+    },
+    {
+      "name": "p05",
+      "sha256": "5ca5988a2cd04c43d3986f6da487965a940ec19b4414e4bb041c7e3332509216",
+      "bytes": 11768
+    },
+    {
+      "name": "p06",
+      "sha256": "21e296858d0faa81237050c154320947d2dba65208b4b5c9bd3f03d3f9c8ef94",
+      "bytes": 9446
+    },
+    {
+      "name": "p07",
+      "sha256": "127bc9f446bcf31f2d0df16fac1f6f5b669497363765f69297c95fc15cab30bb",
+      "bytes": 11228
+    },
+    {
+      "name": "p08",
+      "sha256": "c73013fd5cb3ff5c13337d160045ca1c6ed59acffcfd3c16f2d77374b023021d",
+      "bytes": 11614
+    },
+    {
+      "name": "p09",
+      "sha256": "3d8f125536c9f8b13e41ed57c1bbbbc336eac3cbad909f671ebe8ef913b1537f",
+      "bytes": 11050
+    },
+    {
+      "name": "p10",
+      "sha256": "a71d217e69a77b6fc70593bc64cbfbf95664ebad8b8e9ae078a1efe91a29201a",
+      "bytes": 11008
+    },
+    {
+      "name": "p11",
+      "sha256": "28d0391035a3ca80caa2e72c20593c6b215f3be716460d97ee6b99f5a8dafe44",
+      "bytes": 11354
+    },
+    {
+      "name": "p12",
+      "sha256": "28033d9b77c4c523e3823dc515b702fb1de2c8134beca47ade64a628135f7379",
+      "bytes": 13878
+    },
+    {
+      "name": "p13",
+      "sha256": "adceb1ae10bcda35130b44760c4a3a72724322599795741e447442d346fdc4d0",
+      "bytes": 11808
+    },
+    {
+      "name": "p14",
+      "sha256": "310fb6dffbabf891728ac5b27c7555d0aacbee864185848e6844321372e382c4",
+      "bytes": 11534
+    },
+    {
+      "name": "p15",
+      "sha256": "9a3c13d72cdbf8a8e494811a8c74265b8e822ffdf342524c62278bf4d64009b7",
+      "bytes": 11336
+    },
+    {
+      "name": "p16",
+      "sha256": "46df4bcc678d5a23664a233af694541dd7487ca6e1e83693312f64942a34452b",
+      "bytes": 10864
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

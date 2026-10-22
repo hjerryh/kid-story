@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0314",
+  "title": "沉石在两双手之间",
+  "version": 1,
+  "bodyCharacters": 1465,
+  "pages": 16,
+  "duration": 449.642,
+  "bodySha256": "559c494d148dc970de6085b59dabe451de18045f4c897dd1f4751d567b7de4e3",
+  "audioSha256": "4a0ecd769f00d628a06941d5e932290f4dcbbac5e4508b200c55a1246efb9123",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "fbbab32f7b06096d627fa02302d60ab2d187c858cac80180ffee86150e6ef570",
+      "bytes": 16272
+    },
+    {
+      "name": "p01",
+      "sha256": "a5384c1ae9d660d00a65920429e326540f6fec4a1c2a285986da1a48fe892276",
+      "bytes": 13240
+    },
+    {
+      "name": "p02",
+      "sha256": "6722cb5fcd2a315028b3efc2b8b089d0012e38638e0df4b04f8858189451ea05",
+      "bytes": 13334
+    },
+    {
+      "name": "p03",
+      "sha256": "b8cfe0c760d51c73e463f55d933706bb317f81782e17dd069c239b1417c5677e",
+      "bytes": 8376
+    },
+    {
+      "name": "p04",
+      "sha256": "a681c9bcdd06b6d7b0032562dadd96d7da6b8c9f1af379dc3b038e0407c05b63",
+      "bytes": 13198
+    },
+    {
+      "name": "p05",
+      "sha256": "b88b567c1728a9d94b9bd6701428c482828787f526d4301d4b940d6c38279872",
+      "bytes": 11650
+    },
+    {
+      "name": "p06",
+      "sha256": "f55ddefcda804052a7c0767dc064cb8a87d7dfd0736ee9b61a2a196185f2f84a",
+      "bytes": 10170
+    },
+    {
+      "name": "p07",
+      "sha256": "cb0b1613cdb70bfb29de521151abee0bb97d03c535c9c87da2f4bd9d72e285fc",
+      "bytes": 10618
+    },
+    {
+      "name": "p08",
+      "sha256": "3962c69d25b2ed6785842adfd7bffe934cc2613e0abb15a336e59d5fbef3628e",
+      "bytes": 9834
+    },
+    {
+      "name": "p09",
+      "sha256": "6b9917d6b1b77088035b884801462e91002b27f82fe032f52809242c66f80a7d",
+      "bytes": 11814
+    },
+    {
+      "name": "p10",
+      "sha256": "1d7e81ea208ddb0d259b53c82d676dd7b0bbf7d2ff7cbba22a2b1623ee39d949",
+      "bytes": 12048
+    },
+    {
+      "name": "p11",
+      "sha256": "7d8138a3ea81b2233fbcb10de9a7f68a3e78ad0a4a8b82e37fe2015f8910e13f",
+      "bytes": 12050
+    },
+    {
+      "name": "p12",
+      "sha256": "87241a568329a62be8f3ef0fdf9da230c249dc18390a843a301b3545328eafe9",
+      "bytes": 12334
+    },
+    {
+      "name": "p13",
+      "sha256": "aededc08f43ca0952bff2f1b947d14565008b53c729c58b9488784d972174028",
+      "bytes": 12414
+    },
+    {
+      "name": "p14",
+      "sha256": "e89bc7bc252a06eda072f99802d728c893d544cb96665a7c061eb022039266a3",
+      "bytes": 13068
+    },
+    {
+      "name": "p15",
+      "sha256": "96e06e57bd9aeb9bdb6095f7e1836fd86d227766edf53b054881d21038d34591",
+      "bytes": 10366
+    },
+    {
+      "name": "p16",
+      "sha256": "2287feb089857d9d4e6f4fa3b2a6c9da7989614c318bfd49f8b17437ca27ef06",
+      "bytes": 14798
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

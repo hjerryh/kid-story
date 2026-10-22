@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0324",
+  "title": "黄花不用还回来",
+  "version": 1,
+  "bodyCharacters": 496,
+  "pages": 8,
+  "duration": 158.794,
+  "bodySha256": "4a9dacad8c80463aaf35a2847f4264d169a6e3547be2893ac8dd763f39abd18a",
+  "audioSha256": "3216e828e6434009897ac7fbb031c8963a3c41c51108fada7597d8b8fc66de67",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "a6ed563decab85237be706415627b39630c422b21b7264487e4245645f509538",
+      "bytes": 15382
+    },
+    {
+      "name": "p01",
+      "sha256": "5a5964591402d9f83dbdff336884eeddce3203415c73b4c2f8110d4d0f0ee41b",
+      "bytes": 10668
+    },
+    {
+      "name": "p02",
+      "sha256": "f26a5fcea78c1d580d9856d8a6420ecfae72c198861708e44485526c918ed2bf",
+      "bytes": 10874
+    },
+    {
+      "name": "p03",
+      "sha256": "5864ef3f39c341f0a37151612cc69c3364d6333856cef5d204d5ffb63b374db2",
+      "bytes": 11052
+    },
+    {
+      "name": "p04",
+      "sha256": "d17af7d2f429bb0ce4d8db93d39b3e7262197295b5782562dc6beaac62bfca3a",
+      "bytes": 11250
+    },
+    {
+      "name": "p05",
+      "sha256": "e8628186bcf509af93e281bfcc360e2655d29cffd1b5b141fef7707c375f48ca",
+      "bytes": 10990
+    },
+    {
+      "name": "p06",
+      "sha256": "87ec55ff664b319c317ed147428a573b849a38c11f6e44c843d0f2a464b70b61",
+      "bytes": 10872
+    },
+    {
+      "name": "p07",
+      "sha256": "3abcf24f81c07b648e39dfa33bdb7f1440be76d81a6ae7add3d3a9cd9d839f51",
+      "bytes": 11346
+    },
+    {
+      "name": "p08",
+      "sha256": "9bebfe005fdb717de1376c25de45a0fe45d46c52aa34ea7c18d2553a11e0b953",
+      "bytes": 12768
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

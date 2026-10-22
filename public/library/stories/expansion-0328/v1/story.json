@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0328",
+  "version": 1,
+  "status": "media-ready",
+  "title": "空罐子闻起来还很甜",
+  "subtitle": "雨后的一顿果酱早餐",
+  "description": "雨后的庭院里，栗绒答应准备一顿果酱早餐，却把茶壶姑娘的李子酱吃光了。一个还留着甜香的空罐子，让他迟迟不敢开口。他能怎样补回朋友的早餐呢？",
+  "ageBand": "3-5",
+  "theme": "诚实与补救",
+  "color": "#B881A0",
+  "character": "小睡鼠栗绒：浅棕色绒毛，圆耳朵，穿湖蓝色短背心。茶壶姑娘：白瓷身体，壶身有三朵蓝花，圆壶盖，壶身两侧各有一只小瓷手，穿软木小鞋，能走路、说话。",
+  "cover": "/library/stories/expansion-0328/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 155.698,
+  "detailUrl": "/library/stories/expansion-0328/v1/story.json",
+  "audio": "/library/stories/expansion-0328/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨停了，庭院闻起来凉凉的。栗绒擦好小桌子，要和茶壶姑娘吃果酱面包。姑娘穿着软木鞋，嗒嗒走来，放下一小罐李子酱：“我去拿杯子，你来摆早餐吧。”",
+      "image": "/library/stories/expansion-0328/v1/p01.webp",
+      "start": 0,
+      "end": 18.182
+    },
+    {
+      "id": "p02",
+      "text": "栗绒打开盖子，甜香钻进鼻子。他想，先尝一小口吧。一口酸，一口甜，舌头还想尝一口。等小勺碰到罐底，发出轻轻的一声响，他才停下来。哎呀，果酱没有了！",
+      "image": "/library/stories/expansion-0328/v1/p02.webp",
+      "start": 18.182,
+      "end": 38.908
+    },
+    {
+      "id": "p03",
+      "text": "他把罐子歪过来，用小勺沿着里面刮了一圈，又刮一圈。剩下的果酱只够抹一个面包角。他把盖子盖好，摆上两只盘子，耳朵热热的，连门口的脚步声也不敢听。",
+      "image": "/library/stories/expansion-0328/v1/p03.webp",
+      "start": 38.908,
+      "end": 57.906
+    },
+    {
+      "id": "p04",
+      "text": "茶壶姑娘带回杯子，打开罐盖：“咦，我记得装了满满一罐呀。”栗绒低下头，没有回答。姑娘歪歪壶盖：“难道我记错了？我回去找找。”她的软木鞋转向了院门。",
+      "image": "/library/stories/expansion-0328/v1/p04.webp",
+      "start": 57.906,
+      "end": 77.48
+    },
+    {
+      "id": "p05",
+      "text": "“等一下！”栗绒抬起头，“你没有记错，是我吃光了。我一直想再尝一口。对不起，你还没有吃呢。”茶壶姑娘停住脚：“我有点失望。我本来很想吃李子酱的。”",
+      "image": "/library/stories/expansion-0328/v1/p05.webp",
+      "start": 77.48,
+      "end": 96.214
+    },
+    {
+      "id": "p06",
+      "text": "栗绒想起柜子里还有一罐覆盆子酱，那是他舍不得打开的。他跑回屋，抱着罐子出来：“李子酱已经拿不回来了。这罐是我的，你愿意换一种吗？今天先给你抹。”",
+      "image": "/library/stories/expansion-0328/v1/p06.webp",
+      "start": 96.214,
+      "end": 115.284
+    },
+    {
+      "id": "p07",
+      "text": "姑娘想了想，说：“好，我愿意尝尝。”栗绒打开罐子，仔仔细细抹好一片，递给她，再给自己抹一片。抹好以后，小勺就留在盘边，没有偷偷跑进他的嘴巴里。",
+      "image": "/library/stories/expansion-0328/v1/p07.webp",
+      "start": 115.284,
+      "end": 133.946
+    },
+    {
+      "id": "p08",
+      "text": "覆盆子酱有细细的小籽，咬起来沙沙的。吃完早餐，栗绒洗净了李子酱罐。罐口还留着一点甜香。“下次我带酱，你带面包。”姑娘说。栗绒点头，把干净罐子递到她手里。",
+      "image": "/library/stories/expansion-0328/v1/p08.webp",
+      "start": 133.946,
+      "end": 155.698
+    }
+  ],
+  "buildHash": "d2ac0d42803051b8804f5db1f79ce5df00d823c8cb042c40a2fb4659cc5ca473"
+}

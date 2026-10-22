@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0327",
+  "version": 1,
+  "status": "media-ready",
+  "title": "雨水先坐石头凳",
+  "subtitle": "给雨水一个落脚处",
+  "description": "屋檐雨廊旁，一股雨水把苔藓边的泥土冲走了。小灰鼠荻绒想保住这片绿茸茸的小坡，可接水的杯子很快就满了。雨水该在哪里歇歇脚呢？",
+  "ageBand": "3-5",
+  "theme": "苔藓小森林",
+  "color": "#729886",
+  "character": "荻绒是一只小灰鼠，圆耳朵，白肚皮，穿湖蓝色马甲，尾巴细长。雨水管是固定在廊柱旁的棕色陶管，圆圆的管口像一张嘴，会说话，不能自己移动。",
+  "cover": "/library/stories/expansion-0327/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 154.834,
+  "detailUrl": "/library/stories/expansion-0327/v1/story.json",
+  "audio": "/library/stories/expansion-0327/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "屋檐雨廊旁，有一片绿茸茸的苔藓。小灰鼠荻绒每天经过，都要蹲下来看看。“像一座小小的森林。”她说。今天下雨了，小森林亮晶晶的，叶尖挂着圆水珠。",
+      "image": "/library/stories/expansion-0327/v1/p01.webp",
+      "start": 0,
+      "end": 19.526
+    },
+    {
+      "id": "p02",
+      "text": "忽然，廊柱边的雨水管吐出一股水，直直冲在小坡边。细泥跟着水流走，苔藓底下露出一道小缝。荻绒赶紧凑过去：“哎呀，小森林的脚底下，怎么空了一块？”",
+      "image": "/library/stories/expansion-0327/v1/p02.webp",
+      "start": 19.526,
+      "end": 38.044
+    },
+    {
+      "id": "p03",
+      "text": "“请你先闭闭嘴，好吗？”荻绒对雨水管说。雨水管咕噜咕噜地回答：“屋顶的水一直往我肚子里来，我停不住呀。”荻绒摸摸下巴：“那我给你接着，试试看。”",
+      "image": "/library/stories/expansion-0327/v1/p03.webp",
+      "start": 38.044,
+      "end": 56.37
+    },
+    {
+      "id": "p04",
+      "text": "她拿来一只小杯，放在水柱下面。叮咚，叮咚，杯子满了。水越过杯沿，又流向小坡。荻绒抱走满杯的水，回来时，泥缝已经长了一点。小杯实在接不完这场雨。",
+      "image": "/library/stories/expansion-0327/v1/p04.webp",
+      "start": 56.37,
+      "end": 76.616
+    },
+    {
+      "id": "p05",
+      "text": "荻绒放下杯子，坐在廊边想办法。一滴水溅上石砖，啪，散成薄薄的一片，再慢慢滑下去。她睁大眼睛：“水落在硬地方，就散开啦！我给水柱找个落脚的地方。”",
+      "image": "/library/stories/expansion-0327/v1/p05.webp",
+      "start": 76.616,
+      "end": 96.238
+    },
+    {
+      "id": "p06",
+      "text": "廊角躺着一块扁石头。荻绒推一推，石头沿着湿地慢慢滑动。她把它推到管口下方的空地上，避开绿茸茸的苔藓。“坐这里吧。”她拍拍石面，退回廊里等着看。",
+      "image": "/library/stories/expansion-0327/v1/p06.webp",
+      "start": 96.238,
+      "end": 115.956
+    },
+    {
+      "id": "p07",
+      "text": "哗啦！水柱落在石头上，散成几股细细的水，沿着地面流开。荻绒蹲着看了好一会儿，小坡边没有再掉泥。“接住啦！”雨水管高兴地说，嘴里还忙着咕噜咕噜。",
+      "image": "/library/stories/expansion-0327/v1/p07.webp",
+      "start": 115.956,
+      "end": 135.578
+    },
+    {
+      "id": "p08",
+      "text": "雨小了，小森林仍旧绿茸茸的。荻绒把杯子收回去，又来坐了一会儿。石头上响着细细的水声，一颗水珠挂在苔藓尖上，晃呀晃。她轻轻笑了：“你还有一盏小灯呢。”",
+      "image": "/library/stories/expansion-0327/v1/p08.webp",
+      "start": 135.578,
+      "end": 154.834
+    }
+  ],
+  "buildHash": "47e9174f4e4b324ed0dc4482979f5bd2317a24960219a0caa629a7cc5e5f6a7f"
+}

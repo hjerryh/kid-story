@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0316",
+  "title": "蓝帽子里面有八条腿",
+  "version": 1,
+  "bodyCharacters": 1506,
+  "pages": 16,
+  "duration": 457.298,
+  "bodySha256": "67c6776fd4df907977a0541a5ebdd5f9fd1f735d4e754152ed819f0ee8032ea1",
+  "audioSha256": "82984a0bdc24fad6721c55488c3527d3fd8a39cc1ab8f887b4e5ec820591aa61",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "943947aa8bed31cf1b132a1abed6a716e678f2960370fdf48296b63cf94a90e8",
+      "bytes": 14096
+    },
+    {
+      "name": "p01",
+      "sha256": "e6b780f3cdd6d3e39c4f12c6a28c6b8ba180305e45f109ac2754dbd0bfeb02d9",
+      "bytes": 10090
+    },
+    {
+      "name": "p02",
+      "sha256": "4541a1691400cef58fd4b4775767e0172dd53776f44d7efb34dcbaf859cda164",
+      "bytes": 12174
+    },
+    {
+      "name": "p03",
+      "sha256": "4e3e69ddf7349c98228c1d116211395605cf829355e5adc2808ee1f8cb874480",
+      "bytes": 9168
+    },
+    {
+      "name": "p04",
+      "sha256": "6092f4759827f692b671c61f8de0857fbd11efafb99ac986e1fa40deb36b6acb",
+      "bytes": 10970
+    },
+    {
+      "name": "p05",
+      "sha256": "49f74220fc87787d6a8a51ef0fb08e8155737c5259b2b593c6daa21322210a2d",
+      "bytes": 11802
+    },
+    {
+      "name": "p06",
+      "sha256": "5b6b3fa880cfe0d71eb58827be55cc9d57ac1960e59a661e9b3a262f626d13be",
+      "bytes": 9298
+    },
+    {
+      "name": "p07",
+      "sha256": "29292b1ad145db0bd049573dba58739befa3ebd17254d7a812c4751e55bbcb85",
+      "bytes": 10074
+    },
+    {
+      "name": "p08",
+      "sha256": "90520a1ea2ed952e552292721ef397374ef51db9a0d942d6f6237bdbeb6b7766",
+      "bytes": 10508
+    },
+    {
+      "name": "p09",
+      "sha256": "c255499243d8a64a2699de333675f7076f4fba7192e81793f1122f72d3b12783",
+      "bytes": 9960
+    },
+    {
+      "name": "p10",
+      "sha256": "ff47007449a4d1b75605909c014cff338df76a69d84591012a511c4409355390",
+      "bytes": 10564
+    },
+    {
+      "name": "p11",
+      "sha256": "b965ac9cc396be5b2ff7d9301dd00379c97228fae3c3e1e0c2f3472bddd95db7",
+      "bytes": 9730
+    },
+    {
+      "name": "p12",
+      "sha256": "2eaa857a784134859d856ded0bf484df2253a3034fdbffa5ce4a07b94c92de71",
+      "bytes": 11392
+    },
+    {
+      "name": "p13",
+      "sha256": "e73eaa561ab0ac6cae49c385a951025c6dbc66a4a72a8299773fff95b7a9b6ab",
+      "bytes": 11138
+    },
+    {
+      "name": "p14",
+      "sha256": "deedf649a3ae86a97bbef480f249c85258bbbb603f977a5fb9dfe9097911899a",
+      "bytes": 10526
+    },
+    {
+      "name": "p15",
+      "sha256": "a6f27d93a7ef28277389e89ef7ce086dcc8333d186f1273004fecf14d9f1c181",
+      "bytes": 9904
+    },
+    {
+      "name": "p16",
+      "sha256": "439d849935ae0b4404cb981ced2ff3cb0b383a26d610ea10eaa2aba654d1d456",
+      "bytes": 9748
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

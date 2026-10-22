@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0313",
+  "title": "这场雨落在桥西",
+  "version": 1,
+  "bodyCharacters": 1771,
+  "pages": 16,
+  "duration": 543.146,
+  "bodySha256": "e5ddf48518363887f8d64f9b46ba6c599756cc72f7419aed1c3b328f0ebb3c6a",
+  "audioSha256": "b60bff32bf2110af0ffb7a6afb587a316ceca3c0f8a5903474a96c4cfa34e360",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "7a6f310272ea685c92d89d78b93b267575243fa455fbbdf2f0aef3b0aaebd89b",
+      "bytes": 15346
+    },
+    {
+      "name": "p01",
+      "sha256": "4ed75d5dcaa193c3a5795f643bd1e216b0166281aef630f99799df15bd8e81e8",
+      "bytes": 11458
+    },
+    {
+      "name": "p02",
+      "sha256": "e43516d49ae52303f22df519ee3d602b7b63111732b287f476545e2c389cb8a4",
+      "bytes": 11598
+    },
+    {
+      "name": "p03",
+      "sha256": "fbd0f76094e6a145b9d351eb06083cce899793318d1ac6ce5bd0a92a6c93d0ba",
+      "bytes": 12486
+    },
+    {
+      "name": "p04",
+      "sha256": "26f1e22f6d6db4b35e931dc083e6e785690642586c3917b7d38b39061c1e106d",
+      "bytes": 12352
+    },
+    {
+      "name": "p05",
+      "sha256": "ddc637fd20588effae89f5eba99144a59a89cd3ccc6b43ae711b48f24c77acff",
+      "bytes": 14298
+    },
+    {
+      "name": "p06",
+      "sha256": "9df1a9e97ee6814083b5941c5d599863d716a69c6d1ee6cc5b57300dbb72fb69",
+      "bytes": 11372
+    },
+    {
+      "name": "p07",
+      "sha256": "15d753d7fcff9919cf15a00214c61be82a3075ce5a8bbcec0d1fde9d991f389d",
+      "bytes": 12924
+    },
+    {
+      "name": "p08",
+      "sha256": "d461a2cfa4d18b577cc88bdfaafe7a0610bc8046e8c0299df32355573b44582b",
+      "bytes": 12722
+    },
+    {
+      "name": "p09",
+      "sha256": "f264681de0f28f8ac29ec01f8270209c91e3d41419603e65406ee2b65ff68eb2",
+      "bytes": 11576
+    },
+    {
+      "name": "p10",
+      "sha256": "b96f7012989e0f62bc077c64ef26736f9c0783c10db7a8bfd0947475e2c2d152",
+      "bytes": 11748
+    },
+    {
+      "name": "p11",
+      "sha256": "f2ab9b8066c1c4ea573c01bad4fcd1373b051a71c51d22d95a9866929f3695ba",
+      "bytes": 12534
+    },
+    {
+      "name": "p12",
+      "sha256": "19cc25392588b75842b0703dc277363f401e00acf120d9a5c2f14914951d62f3",
+      "bytes": 13892
+    },
+    {
+      "name": "p13",
+      "sha256": "ece851ee8ea36c42f8f288e9ff4afca9ea4235f57bcf10765dd4165ee5a158cd",
+      "bytes": 11374
+    },
+    {
+      "name": "p14",
+      "sha256": "f43360578b5638fde34180ef9ddee7ab242ff718ffae7534a4fafb1c4e18b5d0",
+      "bytes": 14080
+    },
+    {
+      "name": "p15",
+      "sha256": "3b4dd86a6e6fe2af9487f342e403993f02aeb36579331c3d9a4cd614fd3a521b",
+      "bytes": 11950
+    },
+    {
+      "name": "p16",
+      "sha256": "58af59888ea249deb323c692e903ac75d6335d8e59f343d0aeb8d233061da08b",
+      "bytes": 11190
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

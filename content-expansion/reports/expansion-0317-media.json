@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0317",
+  "title": "栎舟少带了半座仓库",
+  "version": 1,
+  "bodyCharacters": 1566,
+  "pages": 16,
+  "duration": 476.522,
+  "bodySha256": "cdcf9ae8ae4a4ae66eed251d4968d7d25718f65b75d0f88a505be052aefe76a4",
+  "audioSha256": "1eaa213897d610628b0f5b7139d54584be2990604fcccff6e354d13c37c35e04",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2f65accdbd4da788fd52286faf0ca412522e664c6d69302262c2bfafa601049e",
+      "bytes": 22264
+    },
+    {
+      "name": "p01",
+      "sha256": "0eabce2856924b6bb6645bd95b03e54b4e91c929e9c80c357af328c1943744f3",
+      "bytes": 16242
+    },
+    {
+      "name": "p02",
+      "sha256": "049f169790ae236758249c81adbc73313be4b374459d3123f3342292366d1895",
+      "bytes": 19330
+    },
+    {
+      "name": "p03",
+      "sha256": "31a972b1c0d759ca530b386ac11e41468f90b8f0b82218562fb3cc64f027e1a7",
+      "bytes": 20176
+    },
+    {
+      "name": "p04",
+      "sha256": "5756d8667011ae1f6d07f71babc4e94b641e728b3e91760aca11999f27bb7156",
+      "bytes": 17806
+    },
+    {
+      "name": "p05",
+      "sha256": "7552601ea1c9a4170095dd15f0816d9359df4d7388cdefe982805c4c37719f36",
+      "bytes": 12612
+    },
+    {
+      "name": "p06",
+      "sha256": "079b6729f3d1376bab6cb7d4d067fba44f21b22013fbb54ca03387f8f5900327",
+      "bytes": 12072
+    },
+    {
+      "name": "p07",
+      "sha256": "008b724a87d8411ce12c4006eff3297485a2d339ddbedb7ef8670c8ef84f1950",
+      "bytes": 17628
+    },
+    {
+      "name": "p08",
+      "sha256": "51bd8bb009e885a47ad8714f4e3b61604b9f2e6259ceaaa6cd732485d0c84e5e",
+      "bytes": 19162
+    },
+    {
+      "name": "p09",
+      "sha256": "6dfa2d9f862dcb04ab851cf17034515c0d42fb66dc89ca1f0a810b8f9a5f2907",
+      "bytes": 15832
+    },
+    {
+      "name": "p10",
+      "sha256": "969dcd2ea3fc88d51f66c32e805510e8839d8eebe68fc2e2ac52ce13304c57d2",
+      "bytes": 15280
+    },
+    {
+      "name": "p11",
+      "sha256": "0ab8b63abb0da13dd25771fde144809aead9a67310118fe363ced990154f8366",
+      "bytes": 12094
+    },
+    {
+      "name": "p12",
+      "sha256": "9f3c30f6e316be466fe88b4c9cd1cfdc941677a43a1cb43093ad5e4ee9a55964",
+      "bytes": 12700
+    },
+    {
+      "name": "p13",
+      "sha256": "770bf1b17ae77f742ba3583edbd03571f713a10c92599c5cb138d9ee0d8f4560",
+      "bytes": 17244
+    },
+    {
+      "name": "p14",
+      "sha256": "27f5fd957eede2e78f3f63b6b2e6be0ce7010e6e572a306b004b2b4fe708278b",
+      "bytes": 11694
+    },
+    {
+      "name": "p15",
+      "sha256": "b576c488675fd120046683f7718dc64d0cc6e6fcdb49c14fa4b22a85bdabbdbc",
+      "bytes": 17038
+    },
+    {
+      "name": "p16",
+      "sha256": "9a03141dc685657240345176584e554194c6e384daa739bca0b116595750e268",
+      "bytes": 17646
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

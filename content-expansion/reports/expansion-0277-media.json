@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0277",
+  "title": "梦里的箱子拆开以后",
+  "version": 1,
+  "bodyCharacters": 1606,
+  "pages": 16,
+  "duration": 491.402,
+  "bodySha256": "2dc5704cd4d69420f8659bbd40818072aa080b2d8407fd43c846e14a08292904",
+  "audioSha256": "7a5e5db323d2e66aeabdab8b148e747f954e136e704511782c570a053ab0504f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "690be42506ab4787a46a39d877b9803148a1335c3beff4f4f426c2d80f5fdd27",
+      "bytes": 13760
+    },
+    {
+      "name": "p01",
+      "sha256": "76524e2c2506812b9e2c6d2dd05400779ee8b161cea89e8fea3cd205df3ad288",
+      "bytes": 10258
+    },
+    {
+      "name": "p02",
+      "sha256": "06afbea69fdb05dcfaed21c240daad167639e98273b3a6c90c6766b52cb3eddd",
+      "bytes": 9118
+    },
+    {
+      "name": "p03",
+      "sha256": "e53ea229d35ed90d489095468b7285a02e9fb2d22ba06f4e1038a38a551d81cc",
+      "bytes": 8266
+    },
+    {
+      "name": "p04",
+      "sha256": "da5bc2e4bf56853020af4ba5afb2f890f026433cbde4cacfd941bd576199e602",
+      "bytes": 10378
+    },
+    {
+      "name": "p05",
+      "sha256": "0da0991ab8065da424cd1be5de96eb31b625045474ba4855932ac2649ac5b69c",
+      "bytes": 9362
+    },
+    {
+      "name": "p06",
+      "sha256": "b9b555d3a2127f2147b5f0c567cd106f0002c783c3a47522113485fcf2ff6bd5",
+      "bytes": 9864
+    },
+    {
+      "name": "p07",
+      "sha256": "642966360c2625d2a581ede0004cca33616ccade7c28108ca09b514bfc5a4e4e",
+      "bytes": 8526
+    },
+    {
+      "name": "p08",
+      "sha256": "b8d1e98b2a335461a77d132b1f73a22b439580428e2e3e8093cdbbb4cb0441c4",
+      "bytes": 9844
+    },
+    {
+      "name": "p09",
+      "sha256": "8d3878c0cdb12bfe43718b5b4eea704dbe026617cae020d9293d79aa1ffbda15",
+      "bytes": 10286
+    },
+    {
+      "name": "p10",
+      "sha256": "c1d43ee71acd66829dcd47d113f6256d6b604e97ebb0b4f483fef1a39e461a8b",
+      "bytes": 11624
+    },
+    {
+      "name": "p11",
+      "sha256": "cb7564220e52f8a16dd6058a7163d9106fbe52c5db02ddaab9f8bdfc9a84b7c1",
+      "bytes": 12028
+    },
+    {
+      "name": "p12",
+      "sha256": "4b460e14551834f7e3a11ab38a162a9cfeb9b750b61fe925795f3357d0e9bc56",
+      "bytes": 12226
+    },
+    {
+      "name": "p13",
+      "sha256": "f152553c97e65b18fc85f999ffeea142cf24f1fa66d6e3ff2f2aab91eb502d3b",
+      "bytes": 12042
+    },
+    {
+      "name": "p14",
+      "sha256": "c9e232712482d6d1f9a97d449320b7220db40f9fdd30359ce2dfa57a25311f15",
+      "bytes": 9178
+    },
+    {
+      "name": "p15",
+      "sha256": "0f5325063d49f1ddc6cec96fd3e36bfc2ec6e7208d91560e66d63bd77c4fa90b",
+      "bytes": 9538
+    },
+    {
+      "name": "p16",
+      "sha256": "b9adc04202b018cf50e29a378336e639b6e79d58e4cf288a831878771bc1b8c8",
+      "bytes": 11248
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

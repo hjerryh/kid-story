@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0321",
+  "version": 1,
+  "status": "media-ready",
+  "title": "松果大门慢慢开",
+  "subtitle": "松果屋的弯楼梯",
+  "description": "蓬米受邀参观松果姑娘家的弯楼梯，一场雨却让松果屋合得紧紧的。她搬来小凳子，又找来大叶子，直到发现旁边的一颗旧松果正在悄悄变化。",
+  "ageBand": "3-5",
+  "theme": "雨后发现",
+  "color": "#8AAB91",
+  "character": "小田鼠蓬米：灰褐色绒毛、奶白色肚皮、圆耳朵，穿湖蓝色小马甲。松果姑娘：栗色短发，穿米白色连衣裙，戴一顶小小的绿叶帽，身高只有蓬米的指头那么高。",
+  "cover": "/library/stories/expansion-0321/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 163.354,
+  "detailUrl": "/library/stories/expansion-0321/v1/story.json",
+  "audio": "/library/stories/expansion-0321/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "蘑菇森林里，蓬米认识了一位松果姑娘。她的家是一颗大松果，里面有绕圈圈的弯楼梯。“来走走吧，像爬进一个小旋涡！”蓬米听得耳朵竖起来，约好第二天来做客。",
+      "image": "/library/stories/expansion-0321/v1/p01.webp",
+      "start": 0,
+      "end": 18.902
+    },
+    {
+      "id": "p02",
+      "text": "夜里下了一场雨。第二天，蓬米来到树下，松果屋却合得紧紧的。姑娘从一道窄缝里露出鼻尖：“门变小啦！”蓬米侧侧身，圆肚皮还是进不去。她还没见过那架弯楼梯呢。",
+      "image": "/library/stories/expansion-0321/v1/p02.webp",
+      "start": 18.902,
+      "end": 39.796
+    },
+    {
+      "id": "p03",
+      "text": "蓬米搬来矮凳子，看看上面的缝。上面的缝也很窄。她又轻轻推推一片硬壳，硬壳纹丝不动。“昨天明明开着呀。”她坐回苔地上，摸到一手湿凉，马甲边也沾了水。",
+      "image": "/library/stories/expansion-0321/v1/p03.webp",
+      "start": 39.796,
+      "end": 59.946
+    },
+    {
+      "id": "p04",
+      "text": "树叶还在滴水。蓬米找来一片宽叶，给松果屋遮住头顶。滴答，滴答，水落到旁边去了。可是等了好一会儿，门缝仍旧那么小。姑娘伸出小手，摸摸外面：“还是湿的。”",
+      "image": "/library/stories/expansion-0321/v1/p04.webp",
+      "start": 59.946,
+      "end": 80.528
+    },
+    {
+      "id": "p05",
+      "text": "蓬米回家拿小毛巾，忽然看见门廊里的旧松果。它干干的，一片片硬壳都张开了。她摸摸这个，又想想树下那个：“湿的时候合起来，干了会不会打开？”她抱着毛巾跑回去。",
+      "image": "/library/stories/expansion-0321/v1/p05.webp",
+      "start": 80.528,
+      "end": 100.654
+    },
+    {
+      "id": "p06",
+      "text": "“我家门廊淋不到雨，还有风。愿意去试试吗？”姑娘答应了。蓬米抱起松果屋，慢慢走，免得里面的杯子乱跳。她把屋子放稳在软垫上，擦掉外面的水珠，坐在旁边陪着。",
+      "image": "/library/stories/expansion-0321/v1/p06.webp",
+      "start": 100.654,
+      "end": 121.356
+    },
+    {
+      "id": "p07",
+      "text": "风轻轻吹过门廊。松果屋慢慢干了，硬壳也一点一点张开。先能伸出一只手，再能探出一张脸，最后，蓬米的圆肚皮也过得去啦！姑娘扶着门边笑：“我的大门回来啦！”",
+      "image": "/library/stories/expansion-0321/v1/p07.webp",
+      "start": 121.356,
+      "end": 141.506
+    },
+    {
+      "id": "p08",
+      "text": "蓬米终于走上弯楼梯。一圈，又一圈，木头香轻轻贴着鼻尖。姑娘决定把家留在干爽的门廊。她们并排坐在台阶上，看蘑菇森林亮起来。蓬米笑着说：“你的楼梯，把我绕饿啦。”",
+      "image": "/library/stories/expansion-0321/v1/p08.webp",
+      "start": 141.506,
+      "end": 163.354
+    }
+  ],
+  "buildHash": "a696430de7ac95f9a57b4d538699357c0bb4d5f5a1857914be98de3f216378bf"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0325",
+  "version": 1,
+  "status": "media-ready",
+  "title": "尾巴挨着脸的床",
+  "subtitle": "木毛虫的圆圆午觉",
+  "description": "木毛虫栗节想在雨伞山坡做一张午睡床。床已经加长了，尾巴却还是跑到床外。他打了个呵欠，决定看看自己睡觉时究竟是什么模样。",
+  "ageBand": "3-5",
+  "theme": "尝试与调整",
+  "color": "#8DAF85",
+  "character": "栗节是一只会说话的木毛虫，身体由六颗浅棕色圆木珠连成，能柔软地弯曲；头顶两根短短的木触角，戴一条湖蓝色小围巾。",
+  "cover": "/library/stories/expansion-0325/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 156.706,
+  "detailUrl": "/library/stories/expansion-0325/v1/story.json",
+  "audio": "/library/stories/expansion-0325/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨伞山坡上，撑着一把红色的大伞。木毛虫栗节爬到伞下，六颗圆木珠似的身子晒得暖暖的。他打了一个小呵欠：“我要在这里做张床，睡一个香香的午觉。”",
+      "image": "/library/stories/expansion-0325/v1/p01.webp",
+      "start": 0,
+      "end": 18.11
+    },
+    {
+      "id": "p02",
+      "text": "栗节找来六片干叶，用脑袋推成一条长床。一颗木珠躺一片，刚刚好。他把身体伸得直直的，尾巴也摆得端端正正。叶子闻起来像秋天，栗节满意地闭上了眼睛。",
+      "image": "/library/stories/expansion-0325/v1/p02.webp",
+      "start": 18.11,
+      "end": 37.852
+    },
+    {
+      "id": "p03",
+      "text": "可是，呵欠一个接一个，栗节的身子慢慢弯了。脑袋挨近尾巴，尾巴挤出了叶床。一根草尖轻轻搔着他：“痒呀！”栗节睁开眼睛，看看床，又看看尾巴：“床不够长吗？”",
+      "image": "/library/stories/expansion-0325/v1/p03.webp",
+      "start": 37.852,
+      "end": 57.978
+    },
+    {
+      "id": "p04",
+      "text": "他又推来两片大叶，接在床尾。这回，床长得能多睡一个脑袋。栗节重新躺下，轻轻闭眼。没过多久，尾巴又跑到床边，床尾的新叶子却空空的，一片也没用上。",
+      "image": "/library/stories/expansion-0325/v1/p04.webp",
+      "start": 57.978,
+      "end": 77.96
+    },
+    {
+      "id": "p05",
+      "text": "栗节有点累，爬到旁边一块宽宽的苔藓上歇着。苔藓软绵绵，他的身子又弯了起来。这次，没有草尖挠他。他低头一看，呀，尾巴正挨着脸，自己像一只小圆饼。",
+      "image": "/library/stories/expansion-0325/v1/p05.webp",
+      "start": 77.96,
+      "end": 97.606
+    },
+    {
+      "id": "p06",
+      "text": "“原来，我睡着时是圆圆的。”栗节没有再去找叶子。他把床尾的两片推到两边，又把其余叶子挪一挪。长长的床变成了宽宽的圆床，中间留着一块柔软的苔藓。",
+      "image": "/library/stories/expansion-0325/v1/p06.webp",
+      "start": 97.606,
+      "end": 116.964
+    },
+    {
+      "id": "p07",
+      "text": "栗节爬进圆床，先把身子弯起来，再伸一伸。脑袋有地方，尾巴也有地方。他发现右边还有一点窄，便把那片叶子往外推推。再躺一次，这回，哪里都不挤啦。",
+      "image": "/library/stories/expansion-0325/v1/p07.webp",
+      "start": 116.964,
+      "end": 136.466
+    },
+    {
+      "id": "p08",
+      "text": "伞边吹来一点风，叶床轻轻沙沙响。栗节把尾巴贴在脸旁，像抱着一颗光滑的小栗子。他终于睡着了。梦里，他没有走很远，只在自己的圆床上，舒舒服服地翻了个身。",
+      "image": "/library/stories/expansion-0325/v1/p08.webp",
+      "start": 136.466,
+      "end": 156.706
+    }
+  ],
+  "buildHash": "ed9e47b3f18a4d459624f9607002c7408a03991473764bb9712a1ec6f34c9964"
+}

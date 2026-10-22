@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0319",
+  "title": "榉先生终于听见了结尾",
+  "version": 1,
+  "bodyCharacters": 1483,
+  "pages": 16,
+  "duration": 450.266,
+  "bodySha256": "f6489d67e84ba0cafa15924129dc65640c6c6d1e17c320bc417210f6b012594a",
+  "audioSha256": "4d3e06d5cf73fabd166c104f10362b09ed3b2adbd23a97ae2dc6eeb208f3b7cd",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "7623951170aa71e43a82d581819066d73bc41a8f1e179dd4560637f2d8860487",
+      "bytes": 15548
+    },
+    {
+      "name": "p01",
+      "sha256": "61ca9bbde443c5c650d88e2fe7c00e01b50682286c93efbeb1ef87f680923310",
+      "bytes": 12422
+    },
+    {
+      "name": "p02",
+      "sha256": "d215482e152d2093ed42b39fd15a1594cbbf0485b72f111d70f3e7e16486a06f",
+      "bytes": 12918
+    },
+    {
+      "name": "p03",
+      "sha256": "0b6ce0511c769133076480eb4289c279e0cd0d75aa7159f5bfae30b613b8bdd0",
+      "bytes": 12788
+    },
+    {
+      "name": "p04",
+      "sha256": "705ab5ea0ea5aa4f2746397e87d29a455951905bc72b89eb9650d8b11b882a31",
+      "bytes": 14024
+    },
+    {
+      "name": "p05",
+      "sha256": "abd1f666862f442ab3cd0e3758914304c2dfb5eb2b1b1b4f89e8bb4f8845451a",
+      "bytes": 13220
+    },
+    {
+      "name": "p06",
+      "sha256": "4ceebd720d5cda9283db489164ce12e176b9074a16428fbc30c9f8237a4df385",
+      "bytes": 13780
+    },
+    {
+      "name": "p07",
+      "sha256": "e956a62281e02848c1615d40730dd889588214660f64bc9cd5db7526fc727319",
+      "bytes": 13726
+    },
+    {
+      "name": "p08",
+      "sha256": "5a9ac47e56cd3b2cdac4356df0f0865d5ba91b038c394cd825bf41ec49652b91",
+      "bytes": 12086
+    },
+    {
+      "name": "p09",
+      "sha256": "623ac4c6a960dd5d30cacc80912e34d5aa16a47c2e1f3dd43f87c35f83a606d7",
+      "bytes": 13334
+    },
+    {
+      "name": "p10",
+      "sha256": "edb17e8ba57e6ed8e562cab8be91706c08f91ba8b5cc33c2c20daa9ea36c96a9",
+      "bytes": 13306
+    },
+    {
+      "name": "p11",
+      "sha256": "8a9c2bb6e10b4ca7b339197d0c76290ee0c053f3e05f174c0308bd754bbb11dd",
+      "bytes": 13748
+    },
+    {
+      "name": "p12",
+      "sha256": "cc9464e4816c0658f48e260f677863f6481eb48d9d64d66db0ff873b591cb3a0",
+      "bytes": 14694
+    },
+    {
+      "name": "p13",
+      "sha256": "1f75a6f98ca4ba18da22741be91041d877378dba11cb8b3e5acb8c219fcaa9a7",
+      "bytes": 14660
+    },
+    {
+      "name": "p14",
+      "sha256": "a9c4273aeb822ac0c94bb5e644117804a4354289a127fabc97ea9af7ef3179e1",
+      "bytes": 12404
+    },
+    {
+      "name": "p15",
+      "sha256": "c6c29619f5bc09029b2f86d7a8da9bcae070e6210c98feaa6f2fb9019786c3e9",
+      "bytes": 14778
+    },
+    {
+      "name": "p16",
+      "sha256": "78621da64946d6cdc21d61fb524912f3cc78cd2aa760caec614b246052aec4f1",
+      "bytes": 13612
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

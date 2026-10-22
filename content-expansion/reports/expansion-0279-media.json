@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0279",
+  "title": "纸脚带着墨点出发",
+  "version": 1,
+  "bodyCharacters": 1515,
+  "pages": 16,
+  "duration": 466.826,
+  "bodySha256": "523f0ef1e48a95e8640a04bad50074a5fcc30c663b03207c9319fec44cbd00d2",
+  "audioSha256": "d69fda6a55245088602e735a6282e55d8069f7b3788e57a9b8c695520b6093cb",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5fd83a198cdb0389c07d57a308a2a6e23c8a9a3236639e41e8c9a2dffa1ff187",
+      "bytes": 11182
+    },
+    {
+      "name": "p01",
+      "sha256": "a8ada8b423f727cc1481f5b25b32bcac1ba13e3fddb02cfc49058754da6a5cd2",
+      "bytes": 11040
+    },
+    {
+      "name": "p02",
+      "sha256": "4d554ad0a530bf5bd813195ea031ac60eb6e546c92dfd1b03c0b81a5831a7e27",
+      "bytes": 11998
+    },
+    {
+      "name": "p03",
+      "sha256": "fb6d4d6ddd7e9c2e7bfddb6c0d62af0ef7cf6cd8ee3208a9d3ee7b0f4db52bb3",
+      "bytes": 8334
+    },
+    {
+      "name": "p04",
+      "sha256": "a9c5be2787d48daa3d6003518db79046da6aef17b29e8fffe97f9441dc560823",
+      "bytes": 8690
+    },
+    {
+      "name": "p05",
+      "sha256": "fc0678967dd054caa9c1fe519a174cbd28821dc7c2e5b132124519731596a592",
+      "bytes": 11636
+    },
+    {
+      "name": "p06",
+      "sha256": "b4bc5dc894b2310767f2a9a0348e58455de50a806e1bcf99c5aa64700a4fbcb6",
+      "bytes": 10486
+    },
+    {
+      "name": "p07",
+      "sha256": "3939883338a5dda7d854eb63820123d5360ef495acdfeb33d9b013de3265400b",
+      "bytes": 10128
+    },
+    {
+      "name": "p08",
+      "sha256": "0320dbf69b116f7744038287009d39b5a9c1c278cbcc3352f2f38159dc31c58f",
+      "bytes": 9554
+    },
+    {
+      "name": "p09",
+      "sha256": "8d81dd491c41fb87e29cfc8eaf04f10878898436be77d40d3ee849733b3a4aa5",
+      "bytes": 10876
+    },
+    {
+      "name": "p10",
+      "sha256": "30e148c55f62e1cfb4767c34e126ddad79902995cd387a65d2e9ecf67490d406",
+      "bytes": 9828
+    },
+    {
+      "name": "p11",
+      "sha256": "b01b4ea324320c525ffa482aa2778e9f050d343bb73cd53fd75065981f9ffae3",
+      "bytes": 9498
+    },
+    {
+      "name": "p12",
+      "sha256": "f9a13b1a196e33c4e3a88ca00e927e7fa224e7e6fb9ae251011412b6533ebc7b",
+      "bytes": 8052
+    },
+    {
+      "name": "p13",
+      "sha256": "919b2cbc23ce6df029858e4ebd5ba1471e4b0289b755c7f383dac462e334454e",
+      "bytes": 8000
+    },
+    {
+      "name": "p14",
+      "sha256": "48f3bc27f2c6f5379d48e8f1f6f683fdab86a66f889614fe5684659d56eab3f1",
+      "bytes": 11334
+    },
+    {
+      "name": "p15",
+      "sha256": "450845c02d99f1af2242dc0a31e79f43d653e26c4666595ae0e3ce0cd49bba26",
+      "bytes": 18982
+    },
+    {
+      "name": "p16",
+      "sha256": "992224641efb4c269467fb1f6960cf8d4d46dcc08b57ed6f9978edcbd50fbf26",
+      "bytes": 9252
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

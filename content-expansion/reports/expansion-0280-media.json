@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0280",
+  "title": "纸獾先看一看再出发",
+  "version": 1,
+  "bodyCharacters": 1529,
+  "pages": 16,
+  "duration": 471.842,
+  "bodySha256": "572226ec99314721e89981159a0bbb632b4eed572d4d2425fd5d070b55ee09a8",
+  "audioSha256": "f2bbac00489291574bdfb0e4d6fdfa9df32ab68837ab4885f06a00d4ef702d00",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d6d2bc7eabca68c403254f5751adaf113a262f34b32c4e0e5543aa654ce8bf5a",
+      "bytes": 15284
+    },
+    {
+      "name": "p01",
+      "sha256": "6489d817321c1dc2de3d5540a4d15d3464eb93ff3325bbb892652498b82855eb",
+      "bytes": 11324
+    },
+    {
+      "name": "p02",
+      "sha256": "5f6882708604ef1cecd7d6ed4a5898972ac048af7e349a241763e85369375a15",
+      "bytes": 11930
+    },
+    {
+      "name": "p03",
+      "sha256": "c6382568b1ac352fe2767dcad9dd51a0df19a12f3ede618e50a2195005ee412e",
+      "bytes": 11680
+    },
+    {
+      "name": "p04",
+      "sha256": "696986c3d4cb8feebc08619c70430565b4cd70a4c6667062221e38a1b332b8db",
+      "bytes": 8036
+    },
+    {
+      "name": "p05",
+      "sha256": "8c77efa4fa506fa54df49150672a6d631da3dd4427cc260d08728a6be2ae3da4",
+      "bytes": 8592
+    },
+    {
+      "name": "p06",
+      "sha256": "1baaee6db2d6c4f10a634c274683346a43d89d1471f950df6833be1cafa20d95",
+      "bytes": 8212
+    },
+    {
+      "name": "p07",
+      "sha256": "fd4709db9201ab45c2ad13a2540c0afa29bf8b729f4db7c2560f31b992df71dc",
+      "bytes": 12808
+    },
+    {
+      "name": "p08",
+      "sha256": "c9149f6e6423aea7fe54de3f5bf219b1a05a2833a48df90e9dbb077946898da8",
+      "bytes": 10698
+    },
+    {
+      "name": "p09",
+      "sha256": "65da73bfd5fb64af2edf3e582da9a819419576e6711cfdcf0ef7f94166b3f92d",
+      "bytes": 12414
+    },
+    {
+      "name": "p10",
+      "sha256": "03300730501c8df3e51bf838053eb6ba16b2245d010f4e9a9fbee4e414d7ce67",
+      "bytes": 12894
+    },
+    {
+      "name": "p11",
+      "sha256": "158123b591d72dd9542e9518335ee3704d7bf63d4380d79ea542e5419065e462",
+      "bytes": 12246
+    },
+    {
+      "name": "p12",
+      "sha256": "999ae3e8a9554763c84157f5e3090ef023ac8e8b22b549f2f969bbc2160769d7",
+      "bytes": 12992
+    },
+    {
+      "name": "p13",
+      "sha256": "19b5911ada367e1b8517322ad64d4039e3ccd5942905bc6d659467cf7069678c",
+      "bytes": 12450
+    },
+    {
+      "name": "p14",
+      "sha256": "f2181bb073047ad488ad3ffd1cbefad1241d9859620879407172ce5f10807360",
+      "bytes": 9838
+    },
+    {
+      "name": "p15",
+      "sha256": "3724c4428dbdaa8c0311285b20950e9fc0311ee0ffd2ebe3686f5ce474cb2ca9",
+      "bytes": 9906
+    },
+    {
+      "name": "p16",
+      "sha256": "799379eeee6eb50b0f1d80c8e65d60e40f15005f64d5be87a81b65b019094408",
+      "bytes": 12784
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

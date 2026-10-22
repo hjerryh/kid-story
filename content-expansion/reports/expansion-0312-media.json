@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0312",
+  "title": "雪花从背面回天上",
+  "version": 1,
+  "bodyCharacters": 1497,
+  "pages": 16,
+  "duration": 455.57,
+  "bodySha256": "2ed9ad1b23fe49a0d1228cdc7626052b3d0a9316b69b3b639d406075628b57fe",
+  "audioSha256": "177a54bc187848bfb32d4d50f0572da5ec0169ba427e8253330b12794df642d3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "14acdcd86531ad6ae079fb62e85ab19e9adb16ba0907c6c1ff30bd23b106eeb5",
+      "bytes": 18696
+    },
+    {
+      "name": "p01",
+      "sha256": "fe335e3d8292ea475ed8259d2566ff675799e42ab3a1c9f4565cdf26b546e873",
+      "bytes": 12402
+    },
+    {
+      "name": "p02",
+      "sha256": "99bcfc508a73abe307102308991d60b0d229129bbbcecd179aac7d3c333f9b6d",
+      "bytes": 11712
+    },
+    {
+      "name": "p03",
+      "sha256": "742560c0f84101d236ddd8ff89251618db5d81a0b1e3d4f488a890f5cb544ce4",
+      "bytes": 12804
+    },
+    {
+      "name": "p04",
+      "sha256": "500b218f2fabccfbe668d00ef9a9424c3194e3dffe26a7e1d337597f47b45de5",
+      "bytes": 11248
+    },
+    {
+      "name": "p05",
+      "sha256": "07643253695263c40917a4b4d29d55b58a84999f443e3da43ec845c38b64df0d",
+      "bytes": 13322
+    },
+    {
+      "name": "p06",
+      "sha256": "c331b97d068b5e956e55764ed250160eed6b22fcff757693dca5e5490fe9b807",
+      "bytes": 12588
+    },
+    {
+      "name": "p07",
+      "sha256": "6a2d78f8dfef2de324e6713b55aadc6ecb5ad7a336070b031fb341efccfe571e",
+      "bytes": 14050
+    },
+    {
+      "name": "p08",
+      "sha256": "138a7f46125418a0348a67e64fa0f8e501b0c1b96f79e1ca08a5ed057467eb6a",
+      "bytes": 13878
+    },
+    {
+      "name": "p09",
+      "sha256": "310c26fa5e592c78fcdc214d09671c0008857c52696114cf3d50be9a10a3c54f",
+      "bytes": 13070
+    },
+    {
+      "name": "p10",
+      "sha256": "9f0b10971bb01c3fa6c97995b4e767758698c86eae0eb418a84197e45160297d",
+      "bytes": 13732
+    },
+    {
+      "name": "p11",
+      "sha256": "49df4a31b6f2d180f6d5dd178a07ebd558c389f4c89cda0d4d70a1f07ac3d907",
+      "bytes": 14466
+    },
+    {
+      "name": "p12",
+      "sha256": "145134e0b00a805c30810e698360e98a4223d165de0c2eba627ca82c902b3863",
+      "bytes": 14156
+    },
+    {
+      "name": "p13",
+      "sha256": "9497f82e680c0f289a098035028ca829267912871d9734d7db97436bd2c1b934",
+      "bytes": 15408
+    },
+    {
+      "name": "p14",
+      "sha256": "dcfd944dda59a76df18ca758dff8426c2ec2c023eb5e866161f28ec2241c7f57",
+      "bytes": 15616
+    },
+    {
+      "name": "p15",
+      "sha256": "d10f06c80630deb795698610368018deaae9a165c99e2d2cb3c4b536d5fc1908",
+      "bytes": 15140
+    },
+    {
+      "name": "p16",
+      "sha256": "aae219509ef2169185900a2b9b3df9454e6ff5f56246d24f8aa21fe928678dd6",
+      "bytes": 15842
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

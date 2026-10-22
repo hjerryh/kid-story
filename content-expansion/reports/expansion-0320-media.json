@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0320",
+  "title": "第七只脚先往上抬",
+  "version": 1,
+  "bodyCharacters": 1483,
+  "pages": 16,
+  "duration": 461.978,
+  "bodySha256": "610a9f04c8eb4135dd08288137ad86bf3333d82c446adec1788953e502ecbf8e",
+  "audioSha256": "31297978db62a60b1d90c544f5415b9132b8c6c73a34adc6a93021e67eee9e18",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "bf955043b1a28440f9923a6e25d2d432558c102f9581db4b1c747d8ebb14b4a5",
+      "bytes": 22408
+    },
+    {
+      "name": "p01",
+      "sha256": "3141dd28756bdbb6f8534fc05ca73004ea87d1f232d1f40186e94bc447de0d09",
+      "bytes": 16194
+    },
+    {
+      "name": "p02",
+      "sha256": "74fdf743d3c5cdb2ce84d38817c843631adc90138c6950c3da87a9ae02a93a56",
+      "bytes": 18824
+    },
+    {
+      "name": "p03",
+      "sha256": "8d3fced17b2af1993287b87053fce1fa496b643d156ce79433b49e113cd7737e",
+      "bytes": 17032
+    },
+    {
+      "name": "p04",
+      "sha256": "11bc47281150ff6b8acda5cc57aaa38fcc344406fb252b2147e87cb889f58e94",
+      "bytes": 20510
+    },
+    {
+      "name": "p05",
+      "sha256": "d9f7357848a2225180817186b6d403869c3c10ab64bd64f768895eb1b8fa9fa9",
+      "bytes": 19262
+    },
+    {
+      "name": "p06",
+      "sha256": "27422c6b3056ddd578c39e97c7607de0c69ec665f60d55a85b10e9dd0b131bf8",
+      "bytes": 18384
+    },
+    {
+      "name": "p07",
+      "sha256": "d34cbe2387c5ab241071d1eb8de45a835e34c40609e434522d7f2d58aed3b3cc",
+      "bytes": 18634
+    },
+    {
+      "name": "p08",
+      "sha256": "6bb7bd385835f319eac7295e43e165420422aa0e86f35bdc641b08f28864b0f8",
+      "bytes": 16660
+    },
+    {
+      "name": "p09",
+      "sha256": "84f6c169458c8c94765e559dff05ad89aac30e0c5a03f59d7335a10be0a6f3ac",
+      "bytes": 18404
+    },
+    {
+      "name": "p10",
+      "sha256": "a626cec278d72409583b1ff5bb5fc5b03f9d6895e2178d0b002925962742a175",
+      "bytes": 18508
+    },
+    {
+      "name": "p11",
+      "sha256": "4bbf135745254513b09ddc57fda1cb1dec6cb216141ac3c214e38cba8f07cd45",
+      "bytes": 19610
+    },
+    {
+      "name": "p12",
+      "sha256": "5187a6e373d5482f342f9649c178c78b71fcec2ffa84934c1caade0f356dab24",
+      "bytes": 19600
+    },
+    {
+      "name": "p13",
+      "sha256": "d78bb830381620c90b3e0bf1401d4dd80629a89774b46a1f1557790992540f3f",
+      "bytes": 18802
+    },
+    {
+      "name": "p14",
+      "sha256": "891c0bae2dc67368eb6757eb472acee7ad472fe028288aaf5d739f0e6d0bd376",
+      "bytes": 20238
+    },
+    {
+      "name": "p15",
+      "sha256": "26c40d9c96de6ef4d49d2c99dfb180d43d0ce762ad272a49562e4a6e134bc0e8",
+      "bytes": 19116
+    },
+    {
+      "name": "p16",
+      "sha256": "82f5da9f827721ab9c1fcc958995fd0313ddef8af8af468a9e820870ae6e1581",
+      "bytes": 19406
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

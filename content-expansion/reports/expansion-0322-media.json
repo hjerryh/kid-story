@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0322",
+  "title": "阿榆留住一小块蓝",
+  "version": 1,
+  "bodyCharacters": 505,
+  "pages": 8,
+  "duration": 161.698,
+  "bodySha256": "09192086472485c6265b6632e70f399e25a2a86593edbcfb9592d8a878e68da3",
+  "audioSha256": "238be296bc1dd121b7808e70503224d0234c696b1b2f1fde42c781bfbc87d610",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "df1f8b3dcebebc9e91fc11ffe19875044113a3fbe52cc7862aff869a65866408",
+      "bytes": 13154
+    },
+    {
+      "name": "p01",
+      "sha256": "da203cdc9fdc2cbe50fce3c83a1712fe33d2f1040dccf3495b7b54fc1b07efc2",
+      "bytes": 11752
+    },
+    {
+      "name": "p02",
+      "sha256": "0dbb0c76abe0616b1db298c389c425a36a868cf693ee160abfca4214ef8c88a2",
+      "bytes": 8370
+    },
+    {
+      "name": "p03",
+      "sha256": "726c4d3c5c371d3697abca10ca4058b8bf8c619365ed567e62ec262f600107c7",
+      "bytes": 8314
+    },
+    {
+      "name": "p04",
+      "sha256": "2781db8b2b509b1c89e20b14421e14e00227bd0bdc520375a1fc4d4f72006f7a",
+      "bytes": 9270
+    },
+    {
+      "name": "p05",
+      "sha256": "93685182e8bfc038fe5ea00acfa15c7b77bd78bd2f3a53216433a077d2ff016b",
+      "bytes": 9216
+    },
+    {
+      "name": "p06",
+      "sha256": "2afc596abee4fbc27641e2af2400364a8108faefb35c0ae5b13676e0040b390b",
+      "bytes": 10620
+    },
+    {
+      "name": "p07",
+      "sha256": "2de215403bd158e26e9febe2bbdc5d76cb5e7ac5dc48232afc24d705244d0d26",
+      "bytes": 9948
+    },
+    {
+      "name": "p08",
+      "sha256": "679936cd1303f400a4cfe50a0dc8c45963d5de8889217f12a2d74fe966b7534e",
+      "bytes": 9964
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

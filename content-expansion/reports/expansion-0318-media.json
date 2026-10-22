@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0318",
+  "title": "小旗挂在凳子背后",
+  "version": 1,
+  "bodyCharacters": 1520,
+  "pages": 16,
+  "duration": 464.402,
+  "bodySha256": "7aa0846dda3f6901fcb98ea8ef4d5f851a828aed8c19683e16f110b7e3688172",
+  "audioSha256": "04132043b4570d57768bb63e7a57566727199aa82e830d72f690b50fe590db0d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3e5ef3b4e179bb6ed1e26eb7d5d6177db96a10a04d5d11cc47b06641dfac7938",
+      "bytes": 16586
+    },
+    {
+      "name": "p01",
+      "sha256": "13d41f213f4c1a57a8c4197d861461c6bdf4ff8821152af83d13e1b25a1748ed",
+      "bytes": 13800
+    },
+    {
+      "name": "p02",
+      "sha256": "1e9d6f2dd2da04f22c06370f70bb7aa133914d0bda735ab1ed07c2b83a6b6706",
+      "bytes": 20038
+    },
+    {
+      "name": "p03",
+      "sha256": "1d42296a080fb42f71c2b144cfdfe7695754797a89551c5e8e6af611f1ff8704",
+      "bytes": 14602
+    },
+    {
+      "name": "p04",
+      "sha256": "64103b9380a2416e50f958224537cf71830748bfb2e13c1914ab80af517a9b5d",
+      "bytes": 17928
+    },
+    {
+      "name": "p05",
+      "sha256": "efd668afbb85184ba7d319b480f63fd26c303aa77dff694f80cc41555b18f27f",
+      "bytes": 11312
+    },
+    {
+      "name": "p06",
+      "sha256": "698d06ab9db8848fd393ec02e7484c825cdb32d2651ac231f0ba36145be1efe1",
+      "bytes": 12546
+    },
+    {
+      "name": "p07",
+      "sha256": "494300633eb78c6425a03f1df44d47a56552ed1c560df5871210ed1bae8d4589",
+      "bytes": 10000
+    },
+    {
+      "name": "p08",
+      "sha256": "4f10dccb9961534e34dd4fa14eb66a8d7be0ee104cbafdbc52ebd422079c5058",
+      "bytes": 15452
+    },
+    {
+      "name": "p09",
+      "sha256": "b0bb3dec615c7543418f0e227b07282ba84cb2546c51ce6c42509043f7daeef6",
+      "bytes": 15258
+    },
+    {
+      "name": "p10",
+      "sha256": "f524177f35af0b618675c4def039f5c1209326cbefeaace18372d2f2fb0ef8c8",
+      "bytes": 10366
+    },
+    {
+      "name": "p11",
+      "sha256": "6e6aae3d8569fa843aed261a377524a0bb3dc7f84b2efc9d1f63d70e2ebddb8b",
+      "bytes": 10004
+    },
+    {
+      "name": "p12",
+      "sha256": "c5314cfb36c5286d1c285242bebb4a1d07fc40dbe052d0cc446f4a5f59094e3b",
+      "bytes": 9590
+    },
+    {
+      "name": "p13",
+      "sha256": "4cb1bb82c704cda2ce70df532405efdf85f4fd663fd125a1f859de2316d2f8de",
+      "bytes": 11488
+    },
+    {
+      "name": "p14",
+      "sha256": "2b565e81287ab46fe0591c3f542fc5854120fea256c734217f2996f931913279",
+      "bytes": 13978
+    },
+    {
+      "name": "p15",
+      "sha256": "25b9c31eaa9cc16f49e06d1e5fc558a89acd0092f06ac68964e6e193654788ed",
+      "bytes": 16350
+    },
+    {
+      "name": "p16",
+      "sha256": "0c4677f9baad4c9a56d6e51758dcf2e773b78f6af3598a1077f8c6d596613693",
+      "bytes": 14054
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

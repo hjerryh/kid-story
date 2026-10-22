@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0324",
+  "version": 1,
+  "status": "media-ready",
+  "title": "黄花不用还回来",
+  "subtitle": "一包不用还的花籽",
+  "description": "绒麦送给陶盆朋友一包向日葵花籽，花籽却被原样送了回来。朋友明明喜欢黄花，为什么舍不得把种子种下去？",
+  "ageBand": "3-5",
+  "theme": "听懂心意",
+  "color": "#D5B977",
+  "character": "小田鼠绒麦：浅棕色绒毛、圆耳朵，穿湖蓝色背带裤，背米白色布包。陶盆小伙伴点点：砖红色圆陶盆，盆沿有三颗白点，正面有眼睛和嘴巴，两侧长着短短的陶土手。",
+  "cover": "/library/stories/expansion-0324/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 158.794,
+  "detailUrl": "/library/stories/expansion-0324/v1/story.json",
+  "audio": "/library/stories/expansion-0324/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "花籽仓库里，绒麦挑了一小包向日葵花籽。他想送给陶盆点点。点点的肚子里装着松软的土，却一直没有花。每次看见黄花，他都会伸出两只小陶手，轻轻拍呀拍。",
+      "image": "/library/stories/expansion-0324/v1/p01.webp",
+      "start": 0,
+      "end": 20.222
+    },
+    {
+      "id": "p02",
+      "text": "绒麦把纸包递过去：“这是我的花籽，给你！”点点抱住纸包，笑得嘴巴弯弯。绒麦也笑了。他想，等花开了，点点头顶就会有一张黄黄的笑脸，还能跟着风轻轻摇。",
+      "image": "/library/stories/expansion-0324/v1/p02.webp",
+      "start": 20.222,
+      "end": 39.94
+    },
+    {
+      "id": "p03",
+      "text": "第二天，绒麦来看他。点点却把纸包递了回来，边角折得整整齐齐。“一颗也没少。”他说。绒麦摸摸纸包，心里有点空。是不是这些花籽太普通，点点不喜欢呢？",
+      "image": "/library/stories/expansion-0324/v1/p03.webp",
+      "start": 39.94,
+      "end": 60.666
+    },
+    {
+      "id": "p04",
+      "text": "绒麦回仓库拿来花朵图册，翻开红花，又翻开紫花。“你想换一种吗？”点点摇摇手：“我最喜欢黄花。”他望着那包花籽，手伸出一点，又慢慢缩回了圆肚子旁边。",
+      "image": "/library/stories/expansion-0324/v1/p04.webp",
+      "start": 60.666,
+      "end": 79.664
+    },
+    {
+      "id": "p05",
+      "text": "“那你为什么还给我？”绒麦问。点点小声说：“我想把它们种下去。可是，长成花以后，就还不回原来的花籽啦。”他轻轻碰了碰纸包：“能再借我看到明天吗？”",
+      "image": "/library/stories/expansion-0324/v1/p05.webp",
+      "start": 79.664,
+      "end": 98.11
+    },
+    {
+      "id": "p06",
+      "text": "绒麦这才明白。他把纸包放进点点手里：“我说得不清楚。这包花籽是送给你的，不用还。你可以把它们种成自己的花。”“真的归我？”“嗯，连开出来的花也是。”",
+      "image": "/library/stories/expansion-0324/v1/p06.webp",
+      "start": 98.11,
+      "end": 117.18
+    },
+    {
+      "id": "p07",
+      "text": "点点立刻选出一颗花籽，放进土里的小窝，轻轻盖好土，再浇一点水。剩下的花籽收回纸包。他请绒麦把自己搬到阳光够得着的地方，天天看看土干不干，也看看绿芽来了没有。",
+      "image": "/library/stories/expansion-0324/v1/p07.webp",
+      "start": 117.18,
+      "end": 138.338
+    },
+    {
+      "id": "p08",
+      "text": "绿芽来了，叶子长了。又过了许多天，一朵黄花在点点头顶打开。绒麦来看花，点点伸手招呼他：“花是我的，可你随时都能来看。”风吹过，黄花轻轻碰了碰绒麦的耳朵。",
+      "image": "/library/stories/expansion-0324/v1/p08.webp",
+      "start": 138.338,
+      "end": 158.794
+    }
+  ],
+  "buildHash": "b8626f1242416c3a3431fe745888116c137d447133de1c8b5fa8eab761b8bc43"
+}

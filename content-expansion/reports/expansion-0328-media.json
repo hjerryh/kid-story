@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0328",
+  "title": "空罐子闻起来还很甜",
+  "version": 1,
+  "bodyCharacters": 482,
+  "pages": 8,
+  "duration": 155.698,
+  "bodySha256": "f5165964f7dba1f251a666fb560f9b264202770a4986ac0b01a03487a33289ab",
+  "audioSha256": "c39fe8c0c43aa9e447a3c032a0033100495ee50fb4f7494cb563856689a7b46c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4220849694ba0e090c2ab02f67e51de1cde4dea488ec91168277f0ee2a28e084",
+      "bytes": 15756
+    },
+    {
+      "name": "p01",
+      "sha256": "a17b1ac98250abe5dd856bc034c09ad1bad98c7e08edef622f96ccb787a2199d",
+      "bytes": 12344
+    },
+    {
+      "name": "p02",
+      "sha256": "11cbf0f3ccfe358786d605d4fc4e05a5acc576bb61b03bfa915ceeadca87f8c9",
+      "bytes": 10100
+    },
+    {
+      "name": "p03",
+      "sha256": "043f1ebcb3e60f3b6f1232f947669425ed5a78b4ccbd208bac83e30a6033d9b6",
+      "bytes": 11024
+    },
+    {
+      "name": "p04",
+      "sha256": "09b5151913be13e4888c877ce07f90a121fcdb88a9fb383c0a80cd1bfeaeae90",
+      "bytes": 12616
+    },
+    {
+      "name": "p05",
+      "sha256": "f2d33dff79e1a5f40076198e9ef6f96dd997a73a397ff643796c34ee76fae3aa",
+      "bytes": 13292
+    },
+    {
+      "name": "p06",
+      "sha256": "fbc5c2b58be95049c3154bbf617b9beb940d718e3ae8470c6738ac822daf772f",
+      "bytes": 9340
+    },
+    {
+      "name": "p07",
+      "sha256": "ce0bea1c13970ea368f89c0ff54238b8c2e904274613c70250e1b3a04349b2df",
+      "bytes": 13258
+    },
+    {
+      "name": "p08",
+      "sha256": "94f6224a795aa6b375956077307a53b1b6b126686faa5ccd7342ac38cdae0bbe",
+      "bytes": 12598
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

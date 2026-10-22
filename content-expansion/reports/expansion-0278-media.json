@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0278",
+  "title": "杯子塔从雪盘里搬走了",
+  "version": 1,
+  "bodyCharacters": 1507,
+  "pages": 16,
+  "duration": 461.234,
+  "bodySha256": "96e49f765a70f5e3f48ee640fc2e0223de2d3144d459324ce6616aaa84eb0bb7",
+  "audioSha256": "0185dff29ca26b6f0fe73dcd41d30a5826d65f09268d85c89f7ce80d31bb5f8e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "a03f30627ac8bffb17432dfceb4e94ed3dbbf62da465a115f118da7c15a35b92",
+      "bytes": 19984
+    },
+    {
+      "name": "p01",
+      "sha256": "149a45676f8cf60f33dc80cc6665cb74aa6867d92c060d08ef9fd4e5b2b646bd",
+      "bytes": 15594
+    },
+    {
+      "name": "p02",
+      "sha256": "3a4cffde01d49d255984ac3cf98e69cad7f46fa7dd34ecf789a61fc86997d6ec",
+      "bytes": 15734
+    },
+    {
+      "name": "p03",
+      "sha256": "e25858657fd7191fb3bacff0b574718588bba27b07699c12dbd8b0b2701fe78c",
+      "bytes": 14158
+    },
+    {
+      "name": "p04",
+      "sha256": "1fe358a3a2030ec46aed83fe0679b728c9e3a62ac7ee907ff4afe5d44650957c",
+      "bytes": 17560
+    },
+    {
+      "name": "p05",
+      "sha256": "4cbceb8c43aa512711911b7daa3398745213e94ab48e13fa3d4855f0bc395b19",
+      "bytes": 11560
+    },
+    {
+      "name": "p06",
+      "sha256": "088f0df47ccbfaf4b4931e18d861ff1e769c6b12b3220bf3771f51cf2b60e503",
+      "bytes": 18152
+    },
+    {
+      "name": "p07",
+      "sha256": "68633d047fb17d6589b658231b0a6f57ff10d68ac269af434f61cbba098d6508",
+      "bytes": 17644
+    },
+    {
+      "name": "p08",
+      "sha256": "241efc1954b3a770701321e3466b546e9217493c57e5a5842e91bd9b720f58e4",
+      "bytes": 17774
+    },
+    {
+      "name": "p09",
+      "sha256": "73411d1f6eca6ac8726680c0baff6410c7ccc8854785f8ad8d0c910a51b3c829",
+      "bytes": 17980
+    },
+    {
+      "name": "p10",
+      "sha256": "b5ac37f2e91588eb25ec87880a1b3fc464d8223628e42da7fa3e08551e31dd88",
+      "bytes": 17712
+    },
+    {
+      "name": "p11",
+      "sha256": "44158127cd3e223632b66c661503e32e9767fd9138d3d8d90fd6e8460198c2fa",
+      "bytes": 16504
+    },
+    {
+      "name": "p12",
+      "sha256": "60043b42abb97f8e10f70c7889f63c5f93638f0a0e5853f38439f1e9a21f5b25",
+      "bytes": 16578
+    },
+    {
+      "name": "p13",
+      "sha256": "fea0df43aa0309cfe12847cda2cdbce4da60a43c3ce26bdc314aaa255c7d7d0d",
+      "bytes": 17592
+    },
+    {
+      "name": "p14",
+      "sha256": "ab9c497557d8694d516c78370b4af20d8d5fdcf606cea08a5baca3cc07b65e7f",
+      "bytes": 8762
+    },
+    {
+      "name": "p15",
+      "sha256": "2b365cd3f92da9c94befe488dc69722fdc20acf98fca374326d8ec4f71d6bb30",
+      "bytes": 19270
+    },
+    {
+      "name": "p16",
+      "sha256": "dc9ed6935553fda13fca7336e6825500ee564105e109c4f387fa5d4a71a34dab",
+      "bytes": 16546
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

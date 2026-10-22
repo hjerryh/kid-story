@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0321",
+  "title": "松果大门慢慢开",
+  "version": 1,
+  "bodyCharacters": 514,
+  "pages": 8,
+  "duration": 163.354,
+  "bodySha256": "bb7afbe8adfef1675f823274cb726e02e494b411975db1d9344c29edb3bc7768",
+  "audioSha256": "0141f459b3dc254134c7411e826bc146c758c5dce7846d720fdb107a11526358",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5c5639c112b856ddcfffdf9df5474e74eef4cc06c6bfc00e76d03ca99bb302dd",
+      "bytes": 17986
+    },
+    {
+      "name": "p01",
+      "sha256": "dc7163879834d8d1efd7026b8edd9e5b4fcc39cf25a88b9e323e2d00dc0604fb",
+      "bytes": 16210
+    },
+    {
+      "name": "p02",
+      "sha256": "f6bfb31077543ec297641b5efa0599d6c4fa9f094bbab581af1e619b1a56b705",
+      "bytes": 14546
+    },
+    {
+      "name": "p03",
+      "sha256": "c702cac0c5ccb87106d2aa5bd708f6f92669f03d88a15febdf29ff3df7966fb5",
+      "bytes": 14514
+    },
+    {
+      "name": "p04",
+      "sha256": "c4c97f16b2db503d1a564f897e8c9925440cf324a4ae2c18a0db644ab2c54d49",
+      "bytes": 15612
+    },
+    {
+      "name": "p05",
+      "sha256": "2d9f771682ba88d3335daaa94d39f1095c244ef9324550967829e058a18436f4",
+      "bytes": 10608
+    },
+    {
+      "name": "p06",
+      "sha256": "192acc422ab065e8fe7c28b72fb42cc9d9fa2de8822f2c06a605acaf808901c9",
+      "bytes": 13642
+    },
+    {
+      "name": "p07",
+      "sha256": "b18c14fa6c1724149a02a17c1b744ecf7ea07f46dce24c5fc6efc89c606a7286",
+      "bytes": 16042
+    },
+    {
+      "name": "p08",
+      "sha256": "76a027b062ddae3c222de8fba5a9e8fa7e7933ac22a1525dce283fbffbfb3de5",
+      "bytes": 12074
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

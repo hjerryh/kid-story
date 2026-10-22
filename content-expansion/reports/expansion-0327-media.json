@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0327",
+  "title": "雨水先坐石头凳",
+  "version": 1,
+  "bodyCharacters": 480,
+  "pages": 8,
+  "duration": 154.834,
+  "bodySha256": "8384bfdcc4b91e163e4c27c20bf59be776fc9c4342e05058a7ed7806437a5eec",
+  "audioSha256": "2f3210b01708ae65715d90fba65914300791356353bc29d8a9a7bbdf66967e60",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "93d0467d884d0d82e0b5330aa8ff4a4561c9bf18d2ef5b675ea3cf5f4208821d",
+      "bytes": 12790
+    },
+    {
+      "name": "p01",
+      "sha256": "da6d6251dfce55b9c597e5ab0e399ea31f78e2264edf932713bb6ed3fbbd4c10",
+      "bytes": 9184
+    },
+    {
+      "name": "p02",
+      "sha256": "1e64a763e18272580943cac55bf46fcd053b3fbf517760910c2d2d6d49a6ce89",
+      "bytes": 9870
+    },
+    {
+      "name": "p03",
+      "sha256": "6b2ca1a1732f5910751c4c6663eb9e3d99ebc16ee0ad9f9712e46e2d8341a308",
+      "bytes": 10462
+    },
+    {
+      "name": "p04",
+      "sha256": "5cc51fc4112d1af2f202f474c407d326ee64e8352a351ece3d90a3cc71c8201c",
+      "bytes": 10778
+    },
+    {
+      "name": "p05",
+      "sha256": "8b90bc2c12c429e7be830fcaef51d39a6ebc8b79a53a6a00e4cb698120459d7a",
+      "bytes": 10370
+    },
+    {
+      "name": "p06",
+      "sha256": "13830fb21d1b25473fc7bcc8c8e6a2e58afa7eeac9fcded75fc934f9d707ff9a",
+      "bytes": 10322
+    },
+    {
+      "name": "p07",
+      "sha256": "99c9517cb27d47035b2a5ef48742974043032f1e99307f20ea6221d93f95b854",
+      "bytes": 11086
+    },
+    {
+      "name": "p08",
+      "sha256": "067da1ce024a5b1caa4fd1571d1f3abbddc03bbffdffab013b53fd032c415014",
+      "bytes": 10458
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

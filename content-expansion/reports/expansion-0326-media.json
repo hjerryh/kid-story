@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0326",
+  "title": "咕噜只有一个肚子",
+  "version": 1,
+  "bodyCharacters": 554,
+  "pages": 8,
+  "duration": 174.754,
+  "bodySha256": "bfa5cdf501293ac110e2ef18e963a6d70b858e9a216fa21f147b6c02433dc45d",
+  "audioSha256": "d87336f9acd5d711f8d9d93764da774e0a997be5d9e4626ebfb8671f79bd09b2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ea350afd506cd6593ab7098ffaf481dd493e902b17e111215ff611d29f8e8795",
+      "bytes": 19074
+    },
+    {
+      "name": "p01",
+      "sha256": "1b6fd51de2834695bc80b22445b30dbd928ae5c5e2c72383cf0c4b59b49ebb10",
+      "bytes": 14422
+    },
+    {
+      "name": "p02",
+      "sha256": "2d3026f6592ceea08ad33a4c0682a1f0681dc194451807ef3275f78c3c1dcbca",
+      "bytes": 14978
+    },
+    {
+      "name": "p03",
+      "sha256": "035b38d253cfe23048f02b656b74223071bed1acae78f33734552799a28b1940",
+      "bytes": 15124
+    },
+    {
+      "name": "p04",
+      "sha256": "db0960c5c2fabc3b1c719cd44ddf303a5e19be2ca338f8d10a35288ea45a79a0",
+      "bytes": 14350
+    },
+    {
+      "name": "p05",
+      "sha256": "cb6d3e11cc00a103f645c3f3ff577bd58dd740a4f91b43f51d300a64a283cb05",
+      "bytes": 15090
+    },
+    {
+      "name": "p06",
+      "sha256": "465dd310f18083a6ab44763026aa1fbf57a3d83e67fcaa48d195f4d4de144000",
+      "bytes": 15472
+    },
+    {
+      "name": "p07",
+      "sha256": "26deebef63d44313b99a723399806c68cb04cb8cc5096b1b46233bc4fa4b8154",
+      "bytes": 14754
+    },
+    {
+      "name": "p08",
+      "sha256": "06c57ad5e522d8fddb5cf71b8d7b8d60e07afb1b8b406011ba43272d6bff131a",
+      "bytes": 14714
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
