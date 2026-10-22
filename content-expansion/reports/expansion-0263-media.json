@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0263",
+  "title": "早餐桌跟着哪扇窗",
+  "version": 1,
+  "bodyCharacters": 976,
+  "pages": 12,
+  "duration": 291.378,
+  "bodySha256": "6f474c9aaf2c34cdd8124394907040be722b8c1eaa7b69b8300d7687a17cd5e6",
+  "audioSha256": "9958074d33bb385dd739c5ca1fc2ca0e68a42d304f07b26d000d0b75323e2d2f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "74b30c2d12789301fc8ec85afd0bb5deb9833680ad672e6e4a41d912df2b21cd",
+      "bytes": 14128
+    },
+    {
+      "name": "p01",
+      "sha256": "4f6f88fb083e34e92f13cedd5638e057f8257e73fc30bd20b6016d7048a874b8",
+      "bytes": 10502
+    },
+    {
+      "name": "p02",
+      "sha256": "4e3ca035e6e7209eed0be957ae0ef27dba7f6fca25efb5e7f34a4e1268e3d5ee",
+      "bytes": 8006
+    },
+    {
+      "name": "p03",
+      "sha256": "8354738df825f57761cfea99b248f97cff07f15505d1858baa3ddd77ee4599aa",
+      "bytes": 12778
+    },
+    {
+      "name": "p04",
+      "sha256": "c281ce8f519081be53e950c56efca3ac1f4042b2a2bb08f8cba12cfdfbee6a78",
+      "bytes": 12370
+    },
+    {
+      "name": "p05",
+      "sha256": "017da91e91611c0466f51b3ccc06b0ae967efe3d5590f07102a35f7ea857dce9",
+      "bytes": 9398
+    },
+    {
+      "name": "p06",
+      "sha256": "d50bf2c831e363be5c9dedad3224654a88823cfa3e78d774476900163f0b3eec",
+      "bytes": 7712
+    },
+    {
+      "name": "p07",
+      "sha256": "b8330acdb88c081aa103955e7b752d167a9a004e34b7833818095f735f1ee3ae",
+      "bytes": 13210
+    },
+    {
+      "name": "p08",
+      "sha256": "1747c7da6acec15456ca7081595b5bc038b9a644b5813cbe419bd628b6c8dc6a",
+      "bytes": 10008
+    },
+    {
+      "name": "p09",
+      "sha256": "f520d1460eebdfa84c82657ca227f6c4b668677ddad517f4b516efc751fa39e4",
+      "bytes": 11544
+    },
+    {
+      "name": "p10",
+      "sha256": "bc38ccc594697d90e9989c821c6efc532b45c3dab64fce330e34197e63aa581b",
+      "bytes": 15122
+    },
+    {
+      "name": "p11",
+      "sha256": "a74b9b713c31218930f8cc4b185c50b0639ce2a3219f6c8ef2e06ce5bf4564b3",
+      "bytes": 11042
+    },
+    {
+      "name": "p12",
+      "sha256": "b42f21eaec89d4042bd8a7d1dba4883d0b255ad4c022b3d29a3c8921aa1ec005",
+      "bytes": 10486
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

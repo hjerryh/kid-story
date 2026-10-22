@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0239",
+  "title": "候花镜照不到的早晨",
+  "version": 1,
+  "bodyCharacters": 1542,
+  "pages": 16,
+  "duration": 466.562,
+  "bodySha256": "2da3362c71c409aa489fb59882fe92fc5fc9ab1c522456fac06b295cb12c2d5c",
+  "audioSha256": "b93fe21aedb9b401bc40ca7477e0de037c256e653c45e55f2d5116e270939efc",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6cd1aa85706f6835310283bf607d697c0254bb67c34749f9479f82d5c4fcaa45",
+      "bytes": 16036
+    },
+    {
+      "name": "p01",
+      "sha256": "62381dd3a4e405454614e3ad68d9e07bae956f8f22f59aa4f080e68ad7954e1e",
+      "bytes": 10432
+    },
+    {
+      "name": "p02",
+      "sha256": "96e3f96527b66e38967afc80361c22dd1f3baced91e996929ae657c048bb73c7",
+      "bytes": 14898
+    },
+    {
+      "name": "p03",
+      "sha256": "405ed5490342dfd408914523508da62ac451f48d728c9e8f3a07ca7addea9efd",
+      "bytes": 14640
+    },
+    {
+      "name": "p04",
+      "sha256": "be1793e4ba5c7b2eb87f8ad5223103377663d3a2b9591bebfa00f14941570055",
+      "bytes": 15086
+    },
+    {
+      "name": "p05",
+      "sha256": "f763738769b48e778b2ce94bd37869d3465146a423b8f993c1b4245e21e1b6eb",
+      "bytes": 14724
+    },
+    {
+      "name": "p06",
+      "sha256": "792a052826eab39079c08525a1464f2d6bf691c61e092b7c790aa7c10d0c3309",
+      "bytes": 15314
+    },
+    {
+      "name": "p07",
+      "sha256": "5955435333687cae1cca10e6fd05ff553cdfcf23a3c87213c36ecbd98fafeaa6",
+      "bytes": 15628
+    },
+    {
+      "name": "p08",
+      "sha256": "a8b412216748014d62a617c964c20994837253ec87c1520fa3bf72abba34c838",
+      "bytes": 7936
+    },
+    {
+      "name": "p09",
+      "sha256": "97dfac2c9c86393f156710f0dad58b0113ac68782c124df7b82cf78f7b3c6030",
+      "bytes": 9748
+    },
+    {
+      "name": "p10",
+      "sha256": "7eb2a6dd26e1547c29d54b4e4ef5911da32104de88730ec43f1dccdf2bf11492",
+      "bytes": 12000
+    },
+    {
+      "name": "p11",
+      "sha256": "ca931b69e15d99405e9b0c88bddf3476fa51628a54093326c627c142daba9876",
+      "bytes": 9568
+    },
+    {
+      "name": "p12",
+      "sha256": "8e42442ce51a32383dd0730af34e73305aed3d7ecadee22f5f724e65ed5a92f6",
+      "bytes": 10458
+    },
+    {
+      "name": "p13",
+      "sha256": "81693f229c684b64f5f62b89732c20df199cdfaf9b46e1e5730065e951beace6",
+      "bytes": 10852
+    },
+    {
+      "name": "p14",
+      "sha256": "7b63e9a31ab3b01f88419d4697282c8f49c83f8e681e761ec0ba333f3201b599",
+      "bytes": 11412
+    },
+    {
+      "name": "p15",
+      "sha256": "444e6ab387fbac28ea66ff2c06bbe4797ca3651502ed90e929cf38b1cab8c48a",
+      "bytes": 13498
+    },
+    {
+      "name": "p16",
+      "sha256": "f172aa6c69aab2368efc47f9e33c2b8ba16d8918ac8e3262302e9e79ced54abd",
+      "bytes": 12270
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0260",
+  "title": "山梨从墙里递出来",
+  "version": 1,
+  "bodyCharacters": 912,
+  "pages": 12,
+  "duration": 277.338,
+  "bodySha256": "bee6497b6b7ac2e43d441f6e94364de91dd54950117369097f2af3cf716dde79",
+  "audioSha256": "acf23d5e5756addf948e4da22900a7d6188db640105dff2e31d4115624912200",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5360c3019e5e826d6e882cacb072d7f873085d60d29852ef751dfc2094e2a2a0",
+      "bytes": 20272
+    },
+    {
+      "name": "p01",
+      "sha256": "c9a3e432df3253404539d4706ce94908e638485a54a8fe1f55417b46db0eefe2",
+      "bytes": 14902
+    },
+    {
+      "name": "p02",
+      "sha256": "16369746c9c4a73b9108260aaa81397bcabaa5e403662c093150ba70464c7a41",
+      "bytes": 15674
+    },
+    {
+      "name": "p03",
+      "sha256": "b4f4ffc9bece9e1e4431f2cf78addc03958875c78c1707dd83eb77a44888523f",
+      "bytes": 16134
+    },
+    {
+      "name": "p04",
+      "sha256": "f3bc799e625e89292cb8b4dfed3f93e2b4d660607a353c14cd149cd447bab7d3",
+      "bytes": 15674
+    },
+    {
+      "name": "p05",
+      "sha256": "359852ed74c0d32d21d32b378122e05fb52c2281911357428f9f1a251aebdd02",
+      "bytes": 15806
+    },
+    {
+      "name": "p06",
+      "sha256": "2cac38c5b359a8bff6014cf6e0678d996269eb6e5b52d56f64c89d6be98012e7",
+      "bytes": 15882
+    },
+    {
+      "name": "p07",
+      "sha256": "447ec0edbef9fada8873bc00e8378d217bf4b2ccdf7a7f55b0052b238dd32f08",
+      "bytes": 15876
+    },
+    {
+      "name": "p08",
+      "sha256": "db53019336294d3e5a1e3cd676a73916d630719224bff525f920be008c45ecaf",
+      "bytes": 16210
+    },
+    {
+      "name": "p09",
+      "sha256": "3313d6e57ae05c5a5c84b6a6cd57e872195ed3aa479043f107b43b4d74f73a2a",
+      "bytes": 15984
+    },
+    {
+      "name": "p10",
+      "sha256": "3bca81a8fd4943441e3c11b518bcc7ad5da8f5d068fc27e8c6aedd08c7710616",
+      "bytes": 16002
+    },
+    {
+      "name": "p11",
+      "sha256": "2af1c41bdc2990f945849537af87c6cbd54a97a6e8264e653ed448a78e5f0093",
+      "bytes": 15930
+    },
+    {
+      "name": "p12",
+      "sha256": "41ec1e3f4181c5cf4c61b21e8c0e139b0c82270295bd1568ae9143b1eff07ccb",
+      "bytes": 15568
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0257",
+  "title": "弯镜里藏着一处碰头",
+  "version": 1,
+  "bodyCharacters": 1083,
+  "pages": 12,
+  "duration": 320.754,
+  "bodySha256": "213f8c8ecff78be56e982f8bc875729781fc8bbb79a71b2451d7a3c42f06eac2",
+  "audioSha256": "fd5c9686ffcd21bcf1b8016100db79a4baa3c5830b4113497ca48bf96af76f55",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "44a36a4091702fe6e4ef2b7a1b6f39a2e8f81b60727010b43b18e3bb57d26212",
+      "bytes": 15628
+    },
+    {
+      "name": "p01",
+      "sha256": "f5473193c84a00b4d3aa6697c43767b13e22257449d096f26884e8af1c7057d4",
+      "bytes": 12266
+    },
+    {
+      "name": "p02",
+      "sha256": "2cfc21e1f1bcc5e0750ab11ad4c09a12e29f481a586068864c82a7e52f4a283b",
+      "bytes": 13150
+    },
+    {
+      "name": "p03",
+      "sha256": "bd8a01729e66e00e77000fe9a0a38f46cb50b72bd7962cb9348dc60c82194aca",
+      "bytes": 13276
+    },
+    {
+      "name": "p04",
+      "sha256": "acbbf976c3f774c39eaa270c892c037320464af202ff842adbee4dcc5f7b3476",
+      "bytes": 14144
+    },
+    {
+      "name": "p05",
+      "sha256": "a694e19382a9126474cf3e83cd6c9ea01b2f9b7b53fa18b0dd7a2d00a1715319",
+      "bytes": 13462
+    },
+    {
+      "name": "p06",
+      "sha256": "84f2da600623f89c007bf7c1300404af9102efe852950d8f20d39100ead045a6",
+      "bytes": 12566
+    },
+    {
+      "name": "p07",
+      "sha256": "ecd5e6f85ef7fa19330e07328b0a2bee8ef6acb2ef68b12c8e6d9ff4eafa0ed1",
+      "bytes": 15210
+    },
+    {
+      "name": "p08",
+      "sha256": "faa4003aaa8cdd88ad9d3cd4c15a085185a58d2c8e0d3a030a2574d86edc78ce",
+      "bytes": 15004
+    },
+    {
+      "name": "p09",
+      "sha256": "614821738be5c6b18aff8be27abc66cc14d62d76de7f6aafb0eb5e8533828ef7",
+      "bytes": 13342
+    },
+    {
+      "name": "p10",
+      "sha256": "5c4b9d9865ae070d6d668cfa3cc143020d2b95634f67f56385238a822113834b",
+      "bytes": 13140
+    },
+    {
+      "name": "p11",
+      "sha256": "1e2ff8598dd9207df023ad5f5c736b5e383439db75b66f3dc038c925ca83fcea",
+      "bytes": 15548
+    },
+    {
+      "name": "p12",
+      "sha256": "509a153905db063062da4e4ee2ca39b23eae39cbbaf448766ad8ab8a2504e053",
+      "bytes": 13352
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

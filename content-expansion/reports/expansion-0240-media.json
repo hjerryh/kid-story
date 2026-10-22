@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0240",
+  "title": "浮白终于打了个呵欠",
+  "version": 1,
+  "bodyCharacters": 1530,
+  "pages": 16,
+  "duration": 472.898,
+  "bodySha256": "8924ef84d5f00907b181da680795ea37bcbf4d51da599d6dcffee18e12c9f391",
+  "audioSha256": "10f6260e5d3a83081a7d894e69b2fc16e44bd7efeb0ac790fde5d9e250a4b5df",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e6ad53d769c811345fcd0769256a89e3c4d3f62cc0057ddbdacd861571bcf0ff",
+      "bytes": 21494
+    },
+    {
+      "name": "p01",
+      "sha256": "4196e95f3e0aae6937546b29c3b3220e5a8f3d5be8aab1795b5c0c08ff9fb7af",
+      "bytes": 17480
+    },
+    {
+      "name": "p02",
+      "sha256": "24eed1eb8e449acd6fd0044bc9db6f9507d6b7f0f8c157e35c5ee4f2eb97c0a4",
+      "bytes": 17186
+    },
+    {
+      "name": "p03",
+      "sha256": "8bee52cca37544aab3fc9e2fbd7db6df6055446921c1e20618e1ba6f2a7dffee",
+      "bytes": 16612
+    },
+    {
+      "name": "p04",
+      "sha256": "f3cf9fcd4142f924893a2017d152a700fa62b664af6dada6d85a0868730f8ca1",
+      "bytes": 17964
+    },
+    {
+      "name": "p05",
+      "sha256": "1d31c5b3e9e63cf9e276baa76f1044335a47f94ec0e9933accc73ce5f0bd0864",
+      "bytes": 22716
+    },
+    {
+      "name": "p06",
+      "sha256": "9bce81fd2343e9104691457f18b804cc75de2bacd30d12926069b5cc3e1bebf6",
+      "bytes": 12766
+    },
+    {
+      "name": "p07",
+      "sha256": "b79f7b0f06b43322271e993fbcde2afc73a299b0bdd58f516bcc85cd1872e1be",
+      "bytes": 21388
+    },
+    {
+      "name": "p08",
+      "sha256": "db9eddea4bcefa74231ca1c9a526a6f188ec6cabaf5dc17cd8c7b50a82b6f0b6",
+      "bytes": 20324
+    },
+    {
+      "name": "p09",
+      "sha256": "de7debc1ca80d0801b108f2c72ff6aaed172f6793a23b152df9407210ffc1862",
+      "bytes": 18446
+    },
+    {
+      "name": "p10",
+      "sha256": "d58f6dbe8a53dffdb9da00c3bb8a0c80223d7996d378a30da22227fea139affd",
+      "bytes": 16648
+    },
+    {
+      "name": "p11",
+      "sha256": "b6230c1b53ca313a0e6fb77e8c817ed16e5ba5d7d2b53de925318c1658fffa61",
+      "bytes": 12058
+    },
+    {
+      "name": "p12",
+      "sha256": "fe9a82aa73d065fe4c49d32833ac47b7f524d26e3f8e0c2926bf220d044d8cf9",
+      "bytes": 17724
+    },
+    {
+      "name": "p13",
+      "sha256": "30aa6779b664b67f8364c16dc2d9f626496177d6f5d3a7c6fb767c1054e5d0d9",
+      "bytes": 12298
+    },
+    {
+      "name": "p14",
+      "sha256": "2265073b0e5f723ef5874a550b3511a1fbc92a2ed7b83ae87d1fda59c6e6dadf",
+      "bytes": 20018
+    },
+    {
+      "name": "p15",
+      "sha256": "8dcf13467cdda1e3df5e10ea639db70e2052633d58ae97f57e4de98af9c367ac",
+      "bytes": 20714
+    },
+    {
+      "name": "p16",
+      "sha256": "191d46102dded2ed7069713733ec2328a3db94cebf3d7910bbb3fb5122d126df",
+      "bytes": 14546
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

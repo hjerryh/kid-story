@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0262",
+  "title": "垒垒从藏身处走出来",
+  "version": 1,
+  "bodyCharacters": 1047,
+  "pages": 12,
+  "duration": 314.442,
+  "bodySha256": "242351e1ee7d743315e1c8b7bc71a6dda61770a7b6cc65e2528201cb2db73f7d",
+  "audioSha256": "2904124254e457371726ff43783d369d5c3329b0cb3453fd17d66e97e5b68f33",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2e06e9cb861fcf274a8abf1e301416322fa18fdc3c7806a612aa28695140f181",
+      "bytes": 14806
+    },
+    {
+      "name": "p01",
+      "sha256": "85200b4e2fb509eedf9f2bb6db3dbf4d6379d71810ba9fa690c14beeb2901847",
+      "bytes": 7778
+    },
+    {
+      "name": "p02",
+      "sha256": "c79530a3fde7c40a6b4420c60505cc4d26e62bf9a954b2b5823538defc1a9867",
+      "bytes": 11046
+    },
+    {
+      "name": "p03",
+      "sha256": "1dfd746073e7783ad49d83cb0ae9254e4c771a29e7f62282db019065059cb881",
+      "bytes": 10670
+    },
+    {
+      "name": "p04",
+      "sha256": "530eff1647bfdb4a76cfa8ca47fefd86500c3d2c52a4393d030c6a9b95e833e8",
+      "bytes": 10194
+    },
+    {
+      "name": "p05",
+      "sha256": "fe4e46698352d7b2953bab07a990c40752cf70ccf7606d1ca621ba4e03727eb9",
+      "bytes": 8562
+    },
+    {
+      "name": "p06",
+      "sha256": "76bf91ad369b143677f97279123f83993eb7a9ece536ac3c92c35c4e8af7eb0d",
+      "bytes": 10590
+    },
+    {
+      "name": "p07",
+      "sha256": "e8f5f7fa93f735c6f53bc75a7e63ebb8eeb4080d38a3d047538ed6ac2554c466",
+      "bytes": 10222
+    },
+    {
+      "name": "p08",
+      "sha256": "13f521685ae6155fdbff1d15bb16cd7b167787eae87d74c06bb1039cf58cc66c",
+      "bytes": 11592
+    },
+    {
+      "name": "p09",
+      "sha256": "6cb8e61e9507f2faba6eae74fc1937403877bfdcd465698f003ecd96647ca31a",
+      "bytes": 12738
+    },
+    {
+      "name": "p10",
+      "sha256": "b781c7ccd22f540afd215880eca220e19d3e8c0ca63c10483c77ddc5e101a2ac",
+      "bytes": 10710
+    },
+    {
+      "name": "p11",
+      "sha256": "0264075fbbaf2bbb2810d494ac3e5ef77d09e17b986bb373331692cab4f69ba9",
+      "bytes": 11400
+    },
+    {
+      "name": "p12",
+      "sha256": "0276764d81050f19bd7a80bb07a7d174256f6d5749df02ebdd360dcad8ba8f1d",
+      "bytes": 12514
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

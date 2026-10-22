@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0259",
+  "title": "半朵云下面有梨树",
+  "version": 1,
+  "bodyCharacters": 939,
+  "pages": 12,
+  "duration": 284.226,
+  "bodySha256": "7bfb13ea9d781514c0d4b6bf028e66cbde3f97cde9c038bda585978ac9878d99",
+  "audioSha256": "543b6d1361227984484c1f228e71a0af1b893c8226b10e769f5d71095c3df68c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "13cd487a42916590562922c806e2db22c7c5cabb39e57b1add739fd9f0fc637b",
+      "bytes": 17580
+    },
+    {
+      "name": "p01",
+      "sha256": "136f8935302e1cac5368da6317a9b66c05993faeed1c7395bb46bdde7734a594",
+      "bytes": 12136
+    },
+    {
+      "name": "p02",
+      "sha256": "5a6228afbff3423da0eca16a64c5f9786c5a0cd2b16cf81584ada3fe4e0db6a6",
+      "bytes": 12216
+    },
+    {
+      "name": "p03",
+      "sha256": "dc3aa00542851e3656674660803a30eafa31179e2db07e6d6b43180850e0638f",
+      "bytes": 14824
+    },
+    {
+      "name": "p04",
+      "sha256": "74db58e78e1da837f103f63f9330cc3ed3495e2e64b54f91e664270bb063cd28",
+      "bytes": 13676
+    },
+    {
+      "name": "p05",
+      "sha256": "cb7e764fafb06e3875c1bb904c6decfe7722c833c47e46a72a234531a54775fa",
+      "bytes": 14194
+    },
+    {
+      "name": "p06",
+      "sha256": "a108d192a0f24afa1c8c86ad965520c25cc2771d63133fb10588a241e90491b9",
+      "bytes": 14748
+    },
+    {
+      "name": "p07",
+      "sha256": "558482f283abb6b1ecd302745237ba605cadce2550f3366bf8c8379de6fbda64",
+      "bytes": 14224
+    },
+    {
+      "name": "p08",
+      "sha256": "065ef8dbfc7de7697ed5c3be63da5ae9436aa1946605b0e7da564bf493bcca3d",
+      "bytes": 16280
+    },
+    {
+      "name": "p09",
+      "sha256": "36db6e36bf85f119bb717dcf3466160d1708e6f45cf869440d48f823694a1633",
+      "bytes": 14536
+    },
+    {
+      "name": "p10",
+      "sha256": "30aed63c989c1fd5650eae11d822c4e8fd9dc98532422bf02b732f902980fe08",
+      "bytes": 15958
+    },
+    {
+      "name": "p11",
+      "sha256": "d99c18061b24ceb88116b65df072cd33bcd419363f2dac81779eb2af3efdf60f",
+      "bytes": 16896
+    },
+    {
+      "name": "p12",
+      "sha256": "0704ca55b912b06a4be3b843bc4ac3cb26881e7710b8d2814496b9deaff89b7e",
+      "bytes": 14142
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

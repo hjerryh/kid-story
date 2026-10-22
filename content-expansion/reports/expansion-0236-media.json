@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0236",
+  "title": "弯角不吃现成的答案",
+  "version": 1,
+  "bodyCharacters": 1440,
+  "pages": 16,
+  "duration": 433.73,
+  "bodySha256": "0382f496823c49a8ff32309e396fe65f82c3354d78c1304f92c8224f37678861",
+  "audioSha256": "7148d94f083405feb06a5b09e23ec8ecc344a0ea4147a9a23bcd0a7b72e766c3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "198a4a2ca1ed8028c3ff8c3590e2c5610ca3896fbfd64fdc6ba908f778d10083",
+      "bytes": 15382
+    },
+    {
+      "name": "p01",
+      "sha256": "c135c4f93004a685c7ade1f96e86efa331be38e40409e32259be86054819029c",
+      "bytes": 11846
+    },
+    {
+      "name": "p02",
+      "sha256": "7d27ef0112f7e5f8e8ba542153488fee601aaa9a23499e66aeab19e6b3f3672d",
+      "bytes": 11934
+    },
+    {
+      "name": "p03",
+      "sha256": "a6daef40933c7e6d5db3a3cf1920189dea251173a02ca23679381f623d4a60fe",
+      "bytes": 11494
+    },
+    {
+      "name": "p04",
+      "sha256": "4534ba3ae0c2b04e0741bc4dbe1c6f5475db0f0bcc418d0922ead2269fd674fd",
+      "bytes": 10460
+    },
+    {
+      "name": "p05",
+      "sha256": "2d36640abc50e3253c155303d4fd53e2bc141151501067cfae391e28ceaf1912",
+      "bytes": 11768
+    },
+    {
+      "name": "p06",
+      "sha256": "a57ce9f18baf45d11fe4d734c7d9986cf865f045398b188daec839e2817a2dab",
+      "bytes": 11168
+    },
+    {
+      "name": "p07",
+      "sha256": "3d3813e87ae3e8d0580aa461178224cab1b8e5acf11cb653b366ba1466bd9c68",
+      "bytes": 11608
+    },
+    {
+      "name": "p08",
+      "sha256": "d1725d39e7e055b973567f04a64950ef83d1ebeaaf9071fdece29164380a0d29",
+      "bytes": 14070
+    },
+    {
+      "name": "p09",
+      "sha256": "a9ec9482e2c0fba679833e36b95142d9730a120c9619cb33dcd2976fe5481b73",
+      "bytes": 13444
+    },
+    {
+      "name": "p10",
+      "sha256": "fb63b0a8bc7aad99a152356c91555889411ec8f66c765a19c207bc402be88e1f",
+      "bytes": 11858
+    },
+    {
+      "name": "p11",
+      "sha256": "88760baa3f61f0e5ef971f293801b3ff361d51676728763d51809f2775450525",
+      "bytes": 13912
+    },
+    {
+      "name": "p12",
+      "sha256": "7c4fed6f9c7fd0b7ca8018d507fd2e9d098bf144eee34117adbec2e5184fb29e",
+      "bytes": 10982
+    },
+    {
+      "name": "p13",
+      "sha256": "08e4a250cdabccf571c2510c7d870a3086bdf3964482cd6c3ce63396d2ff3a6b",
+      "bytes": 13992
+    },
+    {
+      "name": "p14",
+      "sha256": "46fb758e1fc19f8e7c63de548b36e49266cb845d370d05e3c8bf0557eb7dfbff",
+      "bytes": 12914
+    },
+    {
+      "name": "p15",
+      "sha256": "a868d9e1fc2a23607b3ba5931aaeffb5b87e04176271683ff4be5a88d7f19023",
+      "bytes": 11418
+    },
+    {
+      "name": "p16",
+      "sha256": "392a6429af4b0045daa50424031a36642d65d693a80a4265541cccde25fe5d09",
+      "bytes": 12506
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

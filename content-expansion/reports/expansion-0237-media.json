@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0237",
+  "title": "岸豆咬下半个月亮",
+  "version": 1,
+  "bodyCharacters": 1625,
+  "pages": 16,
+  "duration": 493.37,
+  "bodySha256": "597485b218781c3bcaf8967b74b3eaddcee959bac397f32e5e49482761c8d703",
+  "audioSha256": "e5bc416bf12bd7022fc31e9cb31e4a2f7177349bfbfb78760b62265f052656c3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "08a269f15a90786e4dfa2750dc56c6c05f7a8d110fae59d8e311e24865db645c",
+      "bytes": 19288
+    },
+    {
+      "name": "p01",
+      "sha256": "f040f5629bbf34a6ed5a25d5a36d800be834a96ce5cd26528d628baded2953a2",
+      "bytes": 16300
+    },
+    {
+      "name": "p02",
+      "sha256": "23afb9be37229cf2260de674ff1b1abbfd5a0e73816e2f3254d358ee0975da9b",
+      "bytes": 13770
+    },
+    {
+      "name": "p03",
+      "sha256": "b3cb668f73c585075e4a80b770ea71ddd1396abb222904d7475edbc0c91983b9",
+      "bytes": 10628
+    },
+    {
+      "name": "p04",
+      "sha256": "f1d5b59604d13221f30eb3cd798948610c4f331bff16c34a26c3845a207273e3",
+      "bytes": 10654
+    },
+    {
+      "name": "p05",
+      "sha256": "eaf652447d3172bedc6b099ffbf9b12cbde7ce9a4de911271b4f1bc9c6d23e81",
+      "bytes": 11210
+    },
+    {
+      "name": "p06",
+      "sha256": "a27be405b9f89e0f3ab4c1b08fabd6b38c65e957b6b5218fa89312076e22ea34",
+      "bytes": 17644
+    },
+    {
+      "name": "p07",
+      "sha256": "923f6063a26411084b372288f44509237571405e9d136c9146b8ad2bafb75097",
+      "bytes": 17354
+    },
+    {
+      "name": "p08",
+      "sha256": "8eab613f11c45569ca73446d63f83e38e2a7757ae68f46f6c1354f197f1a7a47",
+      "bytes": 18182
+    },
+    {
+      "name": "p09",
+      "sha256": "acdfaa9a1b4b438599d1617df97382ebf6eb9052270cbf7391acc09c8212c6b0",
+      "bytes": 12028
+    },
+    {
+      "name": "p10",
+      "sha256": "8cc5c6bec10182892abe6728ddbb0a2b1ec61765cc8482fd9800d8c20f21909e",
+      "bytes": 12896
+    },
+    {
+      "name": "p11",
+      "sha256": "9dfca4d287d5539d3570ea1756975793902662bb79be2a007c484e8a335a7c66",
+      "bytes": 12438
+    },
+    {
+      "name": "p12",
+      "sha256": "e00e2df278d30292067fa72263f741eb9b24264b9eb227589e374ee2bf3ac332",
+      "bytes": 12120
+    },
+    {
+      "name": "p13",
+      "sha256": "8414875f9ee14aa5dbdb56b32173f1bce8396b5307f9efe00fb270f8297efe94",
+      "bytes": 12006
+    },
+    {
+      "name": "p14",
+      "sha256": "293d0484ef6cd7bebf0265ee43a39081b5b9dc5ffece41b0b3cbbfe4ff050b43",
+      "bytes": 11964
+    },
+    {
+      "name": "p15",
+      "sha256": "b0f01d9ab3fc085cebcc4cf47fa7cddaa2a5f4218565e6178339fb4d88ae881a",
+      "bytes": 17748
+    },
+    {
+      "name": "p16",
+      "sha256": "385438d4598d4159fa92ab19f6fbc2a3db8f621d734dae99145682bbb2f7e0f4",
+      "bytes": 13576
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

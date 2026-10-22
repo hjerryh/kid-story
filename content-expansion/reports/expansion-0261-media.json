@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0261",
+  "title": "陶栗梦里的两条水沟",
+  "version": 1,
+  "bodyCharacters": 1046,
+  "pages": 12,
+  "duration": 307.074,
+  "bodySha256": "99083152b6a285ebaeb1fe9c421da1e5877c990b3daf259369315d298508ee95",
+  "audioSha256": "f6aa5b604c1accae0c9fd9e46b6d8a2d8ce45ec1d13012c4fe706c2b3c38471f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "c18192563929cd1d7d87eb99d2c8ed154637b2cbddc3dcf219d305efc83a2c9f",
+      "bytes": 21126
+    },
+    {
+      "name": "p01",
+      "sha256": "96280a713f0ef7bc0fc13dfdebe49ad5bbca5e369bea6d37ba599c06f2d79e21",
+      "bytes": 14072
+    },
+    {
+      "name": "p02",
+      "sha256": "e8eec9c1e6fa62797fb1b24d2476d9b1a2a6334a382d800f8a2c74bf4845ca4b",
+      "bytes": 12062
+    },
+    {
+      "name": "p03",
+      "sha256": "d978bf95777171b5847d6c5aea9bd8f301314b68bd88734f1c02db032d9d45d6",
+      "bytes": 11554
+    },
+    {
+      "name": "p04",
+      "sha256": "da39e3403f54161aa26b2c8ed005da1a79a600934c06461da82b8218a65ec976",
+      "bytes": 11804
+    },
+    {
+      "name": "p05",
+      "sha256": "acf2f10bc0af136dfa74df328baa761247615ffdd459caebb4061d5fa6c5b3b6",
+      "bytes": 12308
+    },
+    {
+      "name": "p06",
+      "sha256": "823b86f5184bc64f39f40b9f348405704b9571c68851da30ef50061ab2a90fff",
+      "bytes": 12548
+    },
+    {
+      "name": "p07",
+      "sha256": "73bba5ecb359fe7fae314224fb43cb41de4713bfdc59dd3de5dc0a4e97e7c4f8",
+      "bytes": 12402
+    },
+    {
+      "name": "p08",
+      "sha256": "d977b12bcfb19be98219e83677f95e6b15ddef302acf6b0508af4d99b78bec7e",
+      "bytes": 11078
+    },
+    {
+      "name": "p09",
+      "sha256": "b20fbaef0dea897f10539e515936ab985743743825254042ae6e6cf65bc27940",
+      "bytes": 14744
+    },
+    {
+      "name": "p10",
+      "sha256": "8e40b66fc99b387b33455517a2b653fa0216a2371ba358eb0887fd7f4b4334a6",
+      "bytes": 16390
+    },
+    {
+      "name": "p11",
+      "sha256": "7cd1693edec284fb7a88f365266a2ac2e03b0b813434cb5e95008cb043ec3dfe",
+      "bytes": 17772
+    },
+    {
+      "name": "p12",
+      "sha256": "98f3e3154e6535fdd559d0c25ace6c24090baff1e7e399eba33f9a7699843c06",
+      "bytes": 10070
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
