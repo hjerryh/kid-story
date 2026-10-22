@@ -2,6 +2,8 @@
 
 给 3–10 岁孩子的中文有声绘本 App。Expo / React Native 同一套代码支持 iOS、Android 和网页预览。
 
+正式网页版：<https://kid-store.jentin.cn>。已部署到服务器并启用HTTPS，发布与维护说明见 [部署记录](docs/deployment.md)。
+
 ## 本地运行
 
 ```sh
@@ -56,4 +58,4 @@ npm run build:web
 
 故事在 `src/content/stories.json`，实际音轨时间轴在 `src/content/timings.json`。修改旁白正文后必须重新录制、生成时间轴并验证，不能手填预计时长。插图脚本用本项目原创 SVG 场景渲染 PNG；配音为预生成普通话音轨，播放过程中不调用在线 TTS。
 
-设计、实施计划与实际验证证据位于 `docs/`。没有执行应用商店发布或任何云端部署。
+设计、实施计划与实际验证证据位于 `docs/`。网页版已部署；没有执行应用商店发布。
