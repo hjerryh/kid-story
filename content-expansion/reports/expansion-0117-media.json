@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0117",
+  "title": "小山里面软软的",
+  "version": 1,
+  "bodyCharacters": 1565,
+  "pages": 16,
+  "duration": 481.346,
+  "bodySha256": "ad01bd097407cf3156b96f273d2ac8bbbf2b1d2c5a5f5060c6dcddec97c986e2",
+  "audioSha256": "0e5dd1fe309e042af9da23a0e74f57366450602175af109577a5b437da7c0908",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0e25537db313f38c6e012fede78746889c11684ad94d68cc51731642b3a1b8eb",
+      "bytes": 15092
+    },
+    {
+      "name": "p01",
+      "sha256": "f2af64df53b951b6d3596f1fe1304d247064f65a2c13c48cc63984a81df3afb7",
+      "bytes": 9708
+    },
+    {
+      "name": "p02",
+      "sha256": "7b68a881210f5b56141cd6c517dd6c6a4e8f96d4b4a727f123efdfdcbe3122ad",
+      "bytes": 10168
+    },
+    {
+      "name": "p03",
+      "sha256": "4e7d3f718dcd43be13b97aa929e10f314996ad63628acf8f158772b0fc6fcde2",
+      "bytes": 11428
+    },
+    {
+      "name": "p04",
+      "sha256": "ad718ad0b2cf24a4e82bc38d732fac3278ebc5ece9c0a6c4f522ca180e744fb4",
+      "bytes": 10198
+    },
+    {
+      "name": "p05",
+      "sha256": "839c847c8db2d0b0500e2fa4cde184de6f6b0cd17f5defe3b8c038fb1ccc3ebc",
+      "bytes": 8274
+    },
+    {
+      "name": "p06",
+      "sha256": "a8c34ddd227cf3a22302dd8a770a0747115a61c5404f09c3225b302199f36ffc",
+      "bytes": 10728
+    },
+    {
+      "name": "p07",
+      "sha256": "98fdcfe682cee1b9c157009f9cb7770897b962ead7030258cb46b198fb0eebd1",
+      "bytes": 10626
+    },
+    {
+      "name": "p08",
+      "sha256": "1b9d66a8c16defd615c57608c48237ee8ef502f24819565ed8ed84f3ce778de2",
+      "bytes": 10704
+    },
+    {
+      "name": "p09",
+      "sha256": "b9c5bf5300e16e6ce38d918209d58be860995b3c685b1c2c503a7ba5f5514a8f",
+      "bytes": 11302
+    },
+    {
+      "name": "p10",
+      "sha256": "833b7bddefe06ae9888367fde57063377883fcfb8fe9fd44f9884aad797c17dd",
+      "bytes": 11652
+    },
+    {
+      "name": "p11",
+      "sha256": "66bc76c824da22a3b065bf971b5add16e04c4e7d1bb4f7ccc53662c33eb0c0ff",
+      "bytes": 10986
+    },
+    {
+      "name": "p12",
+      "sha256": "c61ac4349d7ee942fcddb5d29223952e5a86376c9ff53f0da2cc6cf7d3c38718",
+      "bytes": 11714
+    },
+    {
+      "name": "p13",
+      "sha256": "fd586be39d64d3b6646b0a8bab9a06c8d797d2ba8e1d69df23cb01607f16693a",
+      "bytes": 11266
+    },
+    {
+      "name": "p14",
+      "sha256": "32cd9df3129c702d126d190bf9ef5abe511f706a81061477e5e471d340d4bfeb",
+      "bytes": 11692
+    },
+    {
+      "name": "p15",
+      "sha256": "8bc256b73671fd1f39b0290868a5d8e676b8eb8de458cc15297f747b3a52c5cd",
+      "bytes": 12274
+    },
+    {
+      "name": "p16",
+      "sha256": "65eee48047a534f26c49d7374621f8fd137c7b57805ebac9b326793e5c954ce8",
+      "bytes": 12658
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

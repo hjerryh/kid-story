@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0118",
+  "title": "南枝的阁楼还要读书",
+  "version": 1,
+  "bodyCharacters": 1552,
+  "pages": 16,
+  "duration": 468.53,
+  "bodySha256": "9f5f379f5235ba3c62e08e7307923e4403a7ad09539d8e7a0786eb83bf764e11",
+  "audioSha256": "d676a486a18d9989186620a986a5de0ede749fdbffb8950ef716a8f3f66d0c58",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "aadf3de084103b6ac1a748514dfc152aca59cba795270f144c8f9e5ce2dfb755",
+      "bytes": 20110
+    },
+    {
+      "name": "p01",
+      "sha256": "de147c113f3f578e028ccf2d4328054093a5106d4abc445a148cd296fe14df41",
+      "bytes": 14786
+    },
+    {
+      "name": "p02",
+      "sha256": "a8dfa0f229c33125ae1bbdbba580b48bafc563cf5bb9c009a04b0c0253fb5ed3",
+      "bytes": 18484
+    },
+    {
+      "name": "p03",
+      "sha256": "c102d98152fca0b5ba480d08852148ed07a1868de95a61b9794681d6a7ebcccd",
+      "bytes": 16840
+    },
+    {
+      "name": "p04",
+      "sha256": "ad05cf5ec2802b128c169910addcc94196995ef51d56e8fbaa0fccf9c4a814d5",
+      "bytes": 16564
+    },
+    {
+      "name": "p05",
+      "sha256": "3faf36acdfe960206d28bd4cccc6632d01aee6bf349d89eba6906f17dffc916c",
+      "bytes": 20044
+    },
+    {
+      "name": "p06",
+      "sha256": "8314ae4b7dbb3d0deea8f5d8ee2a7fbb2dee8e155ecc7795407fa6b012af26b5",
+      "bytes": 19216
+    },
+    {
+      "name": "p07",
+      "sha256": "26755bb9855d0dcd7253f93d1279cd5106d721546b614880226aff976adde670",
+      "bytes": 18856
+    },
+    {
+      "name": "p08",
+      "sha256": "a79a608dea958abc0f35aa2bb67d3341db8dc8341c250233f93092253b1675ea",
+      "bytes": 19896
+    },
+    {
+      "name": "p09",
+      "sha256": "d7ebdadf9a6b68078b0bfca2075cfadb606640c710a8635b9a8b8430d071a944",
+      "bytes": 19494
+    },
+    {
+      "name": "p10",
+      "sha256": "cf61ef37a91f45300a0b11e7e8e2b5d09ad638f53a8b9baccee0f1f677b4a5d4",
+      "bytes": 18442
+    },
+    {
+      "name": "p11",
+      "sha256": "c9cd675e3f4b0171fd171d55b08efc89d8cbc402bcd5e8b869bfbee75c3c5a15",
+      "bytes": 18572
+    },
+    {
+      "name": "p12",
+      "sha256": "359142b12a98435ffeaa16619821fb3e2cf947aca4654f51c04c44bbbcf08a6f",
+      "bytes": 18504
+    },
+    {
+      "name": "p13",
+      "sha256": "5d7d4c0e72a8fd6f15e8d4c8c132cdc40bb9b72a186e9a7977870c2bf1d94068",
+      "bytes": 18274
+    },
+    {
+      "name": "p14",
+      "sha256": "759d61601fa1c19166dee514411eca7674594fee0c5d588f0e7389a83ff9c895",
+      "bytes": 14268
+    },
+    {
+      "name": "p15",
+      "sha256": "17fec70ac86ef98a1a77f14280da0094754e5c1dd2dfbb64bf4b824492a8fe3b",
+      "bytes": 15958
+    },
+    {
+      "name": "p16",
+      "sha256": "760c7dc7151f6641ab4bb78b226894543c5df5d53ef729aeebad39894e119280",
+      "bytes": 17330
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

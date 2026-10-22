@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0119",
+  "title": "小岛还空着一些地方",
+  "version": 1,
+  "bodyCharacters": 1704,
+  "pages": 16,
+  "duration": 518.138,
+  "bodySha256": "c40d2a564db21f56550a58052aa66422021e0f4eb4b4d6e7075912dab0bbc078",
+  "audioSha256": "e385a384e8260e50e8c39a60af5da46e11ed7ea77f7cef5ca25d2bc097972fee",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "054d436f45912d9b202f1cedc73d1bee69d2c5e00cb64ff935ebd7f0bab59dc1",
+      "bytes": 13298
+    },
+    {
+      "name": "p01",
+      "sha256": "8803bdc058705ef6099fdae48395e8b9a03d850a63c1ba7e9c00bb3e974ff74e",
+      "bytes": 8366
+    },
+    {
+      "name": "p02",
+      "sha256": "0d6e5250072e1513542073d6f38f93e51f426ce904c4531b0b3f8ace93681353",
+      "bytes": 12552
+    },
+    {
+      "name": "p03",
+      "sha256": "5ac293f2970735a6b779843d0b21f69c60e0cfcb8b2b59fbd51617b92c8864ad",
+      "bytes": 8320
+    },
+    {
+      "name": "p04",
+      "sha256": "cfba63951be33ab8afce919e58e588085a1a911abdba3ce767f09c4b74cd2950",
+      "bytes": 13826
+    },
+    {
+      "name": "p05",
+      "sha256": "d6cd9f2e062a5500ca9a86b934181c27e669ccf51bc2d9d32eac99f172faa533",
+      "bytes": 15280
+    },
+    {
+      "name": "p06",
+      "sha256": "8a88882a9bda494bcdfd230080f875df6fa1e384b26ae5fae5b9afb5c2420d77",
+      "bytes": 8760
+    },
+    {
+      "name": "p07",
+      "sha256": "3fe5ed7b6eb14cdbd36e9b69f9611d283f58466665291dd7543a2c1be2bb6478",
+      "bytes": 9582
+    },
+    {
+      "name": "p08",
+      "sha256": "33279b9fddf7185f218486f7be470b402074b416c367023ea4197cab8e869e1a",
+      "bytes": 8104
+    },
+    {
+      "name": "p09",
+      "sha256": "7fafdf91e5752921a99e89dcf19d15c09860ce1b9710c33404ded631f4660f23",
+      "bytes": 17550
+    },
+    {
+      "name": "p10",
+      "sha256": "8fd1d0072105b3bc7a4bb22ce4a7fe98e5b9916466829edca5d1b74d6282e869",
+      "bytes": 12040
+    },
+    {
+      "name": "p11",
+      "sha256": "06dade00b6427b3ab135829f421aa67d434d56aab3ee4199444c861140f01e81",
+      "bytes": 15412
+    },
+    {
+      "name": "p12",
+      "sha256": "86eb0ece34c2845235cc9c2831a67af62e4773c9f841b51f6b0438a91ec27a64",
+      "bytes": 9212
+    },
+    {
+      "name": "p13",
+      "sha256": "34e3145c1fbaf763d3cb2acc0a0c7ecb6fdb06fff887a3cbe3b0df18904aad7e",
+      "bytes": 9398
+    },
+    {
+      "name": "p14",
+      "sha256": "77b43c72c54f44d8b833e0b7f119fafa48b2d2457f2eb69330e1d20d64c40a6d",
+      "bytes": 9504
+    },
+    {
+      "name": "p15",
+      "sha256": "715974faea0649911f901c8e5f7b23c2e8f596a68537c4cf296d0c8890123eec",
+      "bytes": 12144
+    },
+    {
+      "name": "p16",
+      "sha256": "104f22509bbdde2b013aa4333a88a59c185877530d7fa06c041800430e338898",
+      "bytes": 10726
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

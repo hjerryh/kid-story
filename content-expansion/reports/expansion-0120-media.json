@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0120",
+  "title": "请别把沙丘画回昨天",
+  "version": 1,
+  "bodyCharacters": 1426,
+  "pages": 16,
+  "duration": 430.13,
+  "bodySha256": "8c9a0f0dd52b7b1e096b20338184640372578ddc2951ecccb0aa9aa9ec380cb2",
+  "audioSha256": "75f72d2ba241fdfa2292539fa29f8f6996de26bd4394f6e9d8589a2b95ae238c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "051585fcd092c5570e1749e5e95d01dacf86314e35a28bb6402cd160b9dfc678",
+      "bytes": 17488
+    },
+    {
+      "name": "p01",
+      "sha256": "fe859d0b0dd365c5eea2c616e8c171fdb3284a30f96a0438b16ce7ce970bc900",
+      "bytes": 12944
+    },
+    {
+      "name": "p02",
+      "sha256": "882f9c6f1c04033ff1dce01d0cbaef1c6364416a5c99e70302d1748a7e3363cc",
+      "bytes": 14926
+    },
+    {
+      "name": "p03",
+      "sha256": "91b8248b00c07cc646550be5b9d2dd34e83eda81da71e2aebbd6f242eb7e9484",
+      "bytes": 15688
+    },
+    {
+      "name": "p04",
+      "sha256": "9e95058fd0caec57370e96304f31eaf34d5b4ff76430dab430c8e147edf4110a",
+      "bytes": 16144
+    },
+    {
+      "name": "p05",
+      "sha256": "1994fb75bbb259265ec80d8f88f6f921ca19cba6dfecd43c2d77402440909063",
+      "bytes": 16292
+    },
+    {
+      "name": "p06",
+      "sha256": "4100a8f884ea6fa35f303dd14518f38aefc25f38c725268e36f010b5ef8ac14b",
+      "bytes": 15706
+    },
+    {
+      "name": "p07",
+      "sha256": "8452261d29c5848aaade242e8b3cf766699c802811bbb16250272acc3a50f652",
+      "bytes": 14068
+    },
+    {
+      "name": "p08",
+      "sha256": "15b22f923c8668eea4b6ab52ba7972ceaa246b032154af6cae68b9c0df6dbf70",
+      "bytes": 13190
+    },
+    {
+      "name": "p09",
+      "sha256": "5887bf39936c1f5907ebc5b4344a3c671332bdd98ac25913b084f5c35093afdd",
+      "bytes": 16236
+    },
+    {
+      "name": "p10",
+      "sha256": "402e3449a849eec1296cd827018d78b69150fdc1e9cbe4cd32d2cf208e20cde9",
+      "bytes": 15966
+    },
+    {
+      "name": "p11",
+      "sha256": "1cc5423b5146501098328ee95bb8182d303270054d2078a9559c08c2597730b9",
+      "bytes": 14462
+    },
+    {
+      "name": "p12",
+      "sha256": "1b6e2aace24a95acd97f95cb421abbe75ca2526989ce150b10d6e8af79bb953e",
+      "bytes": 17176
+    },
+    {
+      "name": "p13",
+      "sha256": "4ae8e6beb7027c9416e5a7d09a7941fba57ef680f6cccd67390c4e62b360f784",
+      "bytes": 17446
+    },
+    {
+      "name": "p14",
+      "sha256": "437b47a78a591dc972775377abd33e19172a5ddef5b5c023a4a20ab7df604803",
+      "bytes": 16720
+    },
+    {
+      "name": "p15",
+      "sha256": "f4f1fdc4bd91d2b1f3f7ce1e3bc3b3e699f052ef0a046d28bd9f59cdfe49785b",
+      "bytes": 17116
+    },
+    {
+      "name": "p16",
+      "sha256": "def56b5cdfcd4fc6001021aa6cd7a9a87cef0192f821bd65963629c5a0c6e1fe",
+      "bytes": 13098
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
