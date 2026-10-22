@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0001",
+  "version": 2,
+  "status": "media-ready",
+  "title": "午睡垫什么时候回来",
+  "subtitle": "把小小的约定说清楚",
+  "description": "小水獭第一次把最喜欢的午睡垫借给朋友。到了午睡的时候，垫子还没有回来，她想起自己有一句话忘了说。",
+  "ageBand": "3-5",
+  "theme": "表达需要与借还约定",
+  "color": "#608E86",
+  "character": "小水獭圆圆：栗棕色绒毛、米白口鼻，穿浅黄色短背心；小鸭点点：浅黄色绒毛、橙色扁嘴，戴蓝色小帽；午睡垫为绿色叶片形，边缘缝着三颗黄色纽扣。",
+  "cover": "/library/stories/expansion-0001/v2/cover.webp",
+  "pageCount": 8,
+  "duration": 151.522,
+  "detailUrl": "/library/stories/expansion-0001/v2/story.json",
+  "audio": "/library/stories/expansion-0001/v2/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "小水獭圆圆有一张叶子午睡垫。躺上去，软软的；翻个身，沙沙的。每天吃过午饭，她就抱着垫子去柳树下，把尾巴卷成小圈，做一个带着水花的梦。",
+      "image": "/library/stories/expansion-0001/v2/p01.webp",
+      "start": 0,
+      "end": 18.182
+    },
+    {
+      "id": "p02",
+      "text": "这天早上，小鸭点点来敲门。她的小船椅子硬邦邦，坐得屁股疼，想借垫子坐一坐。圆圆摸摸软垫，说：可以呀。点点抱着垫子走了，蓝帽子在门外一晃一晃。",
+      "image": "/library/stories/expansion-0001/v2/p02.webp",
+      "start": 18.182,
+      "end": 37.372
+    },
+    {
+      "id": "p03",
+      "text": "午饭吃完，圆圆打了个大呵欠。她走到柳树下，草地空空的。她先用尾巴垫着头，又用一片大叶子盖着肚皮，可是翻过来，翻过去，还是想念自己的软垫。",
+      "image": "/library/stories/expansion-0001/v2/p03.webp",
+      "start": 37.372,
+      "end": 55.482
+    },
+    {
+      "id": "p04",
+      "text": "圆圆跑到河岸。点点正坐在船里，给木头小鱼画眼睛。圆圆鼓起脸：我的垫子怎么还不回来？点点停下画笔：我以为可以用到傍晚呢，你没有说什么时候要。",
+      "image": "/library/stories/expansion-0001/v2/p04.webp",
+      "start": 55.482,
+      "end": 74.216
+    },
+    {
+      "id": "p05",
+      "text": "圆圆张张嘴，又合上。早上，她真的只说了可以呀。她坐在岸边想一会儿，慢慢说：我现在困了，午睡要用它。下次借给你，我们先说好还回来的时候，好吗？",
+      "image": "/library/stories/expansion-0001/v2/p05.webp",
+      "start": 74.216,
+      "end": 93.238
+    },
+    {
+      "id": "p06",
+      "text": "点点点点头，把画好的木鱼放进篮子，抖掉垫子上的两片叶子。圆圆接过来，抱一抱，软软的味道还在。点点说：对不起，让你等了。圆圆说：我也忘了说清楚。",
+      "image": "/library/stories/expansion-0001/v2/p06.webp",
+      "start": 93.238,
+      "end": 112.74
+    },
+    {
+      "id": "p07",
+      "text": "第二天，点点又来借软垫。圆圆说：早上可以借，午饭前请送回我的门口。点点重复一遍，才抱起垫子。午饭的香味刚飘出来，门外就响起笃笃笃，软垫回来了。",
+      "image": "/library/stories/expansion-0001/v2/p07.webp",
+      "start": 112.74,
+      "end": 132.554
+    },
+    {
+      "id": "p08",
+      "text": "这一次，圆圆准时躺到柳树下。她把尾巴卷好，又把垫子拉平。河上传来点点轻轻的歌声，圆圆听着听着，眼睛闭上了。梦里，她的小船有一把软软的叶子椅。",
+      "image": "/library/stories/expansion-0001/v2/p08.webp",
+      "start": 132.554,
+      "end": 151.522
+    }
+  ],
+  "buildHash": "14c795d10e7d13d8402953710b04c5190a8259761e82ac7d52025e9fcb291d4a"
+}

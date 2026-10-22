@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0037",
+  "title": "海底博物馆的空展柜",
+  "version": 1,
+  "bodyCharacters": 1627,
+  "pages": 16,
+  "duration": 475.586,
+  "bodySha256": "48423dba0a0082c98bcd37b35e25b164ac87ec84e8d5750ecddc7fddb780bc22",
+  "audioSha256": "0332e783f2b499823419bc6c5e59efd7118e52f6f2cc29191a049a1b582bcfe7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "be5533e76f810b3a1ad93ef32700fec1570786a92cded3ecc0fbbefad01d1e6e",
+      "bytes": 17468
+    },
+    {
+      "name": "p01",
+      "sha256": "fe3f19ef62d3cb4cf7d5304060066c2e1c1ff785c46b454a0f7556ac43a2c0b1",
+      "bytes": 12388
+    },
+    {
+      "name": "p02",
+      "sha256": "29819d9ca7985d0c0e5bfd3fdba6f062efbb6da3f17f0f6409a768f511cd0064",
+      "bytes": 13600
+    },
+    {
+      "name": "p03",
+      "sha256": "530614edf2c488fb3673d68b4f3bf1c251389925ea3fc9f96cf4565ddd744cd4",
+      "bytes": 12572
+    },
+    {
+      "name": "p04",
+      "sha256": "deacddb6cd8b7dffcb8497f679fdbc3444616b54727d24d42ab665be029ec5ce",
+      "bytes": 16412
+    },
+    {
+      "name": "p05",
+      "sha256": "ab99d7216a4f566c4aeff53b26553b4806167c2a6e6f0cf7b84f9f3afb9d68b6",
+      "bytes": 14390
+    },
+    {
+      "name": "p06",
+      "sha256": "5e8835ec7558ff5676670b2d8aa5474428573533101745baa4a075cbf45dd4dc",
+      "bytes": 13456
+    },
+    {
+      "name": "p07",
+      "sha256": "6aeb6b4bf545a5b6eff52290a9c6e57ec47fef111826e55f089b384e6438c65b",
+      "bytes": 18308
+    },
+    {
+      "name": "p08",
+      "sha256": "35bf9203bc1c1f106530df57ae01d6a534caf5c5f782215a26db2041ff3653d6",
+      "bytes": 18002
+    },
+    {
+      "name": "p09",
+      "sha256": "f7fa749039f96bed166f1cda87e0b1869f24338ddd42acfd34293543b0e32885",
+      "bytes": 16124
+    },
+    {
+      "name": "p10",
+      "sha256": "1c87561e509f00ca2284e2778c396010df9c3d55989933e2d03049dadf8c1bad",
+      "bytes": 12896
+    },
+    {
+      "name": "p11",
+      "sha256": "c242c27a9a73984d08d61a243a9207c16df284f6233f868374bf6b1f70588dc5",
+      "bytes": 12508
+    },
+    {
+      "name": "p12",
+      "sha256": "dbdafa77d3196e1be6de4f3f434be17939d3cdf3562a905f114cfecaa9e31214",
+      "bytes": 16688
+    },
+    {
+      "name": "p13",
+      "sha256": "99cade19656bc4fd7bfa49bd06a8ce412620d2eb33fa874b9819fbceaad2e5d6",
+      "bytes": 16212
+    },
+    {
+      "name": "p14",
+      "sha256": "32f700e52de7b75c36ca6c4f805d1e10f33912e984da10f418e10db22f987000",
+      "bytes": 15244
+    },
+    {
+      "name": "p15",
+      "sha256": "12897122145b2caee14eb4069c6c17c2400d560f81a563eafbee6e1d8d3390dd",
+      "bytes": 17518
+    },
+    {
+      "name": "p16",
+      "sha256": "44d10322933aae3703010ce5b71de36af2432564f46107a6f348ca358aff938e",
+      "bytes": 13978
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

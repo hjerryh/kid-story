@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0009",
+  "title": "蚂蚁家的小石路",
+  "version": 1,
+  "bodyCharacters": 588,
+  "pages": 8,
+  "duration": 179.482,
+  "bodySha256": "fff9f86d5b68b7266f32b980147f32e93a1462d66e41d57c7f8a5cd629033d41",
+  "audioSha256": "3765d70705eeeee2ca4b8e19375f38d25fc76f8346da8072ab12b520c0041479",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f988151055700bf039e265d0502f885c55c45745a8c3775c73abfbab68661e4f",
+      "bytes": 16300
+    },
+    {
+      "name": "p01",
+      "sha256": "043d01a47021a19b777665e6e00957b19ca87ebe6e2f99e5b35d3c85b269ae57",
+      "bytes": 15658
+    },
+    {
+      "name": "p02",
+      "sha256": "aa085404177cf2f3451476a725729da6e3410c9bb89f08f861c45d4ed20fda47",
+      "bytes": 15482
+    },
+    {
+      "name": "p03",
+      "sha256": "ece7a4428af70a5924ac109808ea763a40aaae6607031ac5f75d22c33e592700",
+      "bytes": 15566
+    },
+    {
+      "name": "p04",
+      "sha256": "708c0eb73eac17877a1b49ec989ba970648814e1754ecf44aabf2a4e690c184c",
+      "bytes": 18840
+    },
+    {
+      "name": "p05",
+      "sha256": "82e5aa20bb6512dd9fb76c93dbdfe0ee8796e1d7676969dca942ffbc62310342",
+      "bytes": 17696
+    },
+    {
+      "name": "p06",
+      "sha256": "bb293bf883cd831103abd4b30bab35e06190f61000a18403f5e46ff0b8e2d3ae",
+      "bytes": 18302
+    },
+    {
+      "name": "p07",
+      "sha256": "9072bf266a893f9470bbcb1d7ebc6c68dca244c88522f348c1efd4dc67ab8aa6",
+      "bytes": 18658
+    },
+    {
+      "name": "p08",
+      "sha256": "1471d564d861c418bf36de780fd147bc0dcedc4e386ec826313f60258904cf17",
+      "bytes": 10924
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

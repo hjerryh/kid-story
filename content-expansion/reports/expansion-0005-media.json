@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0005",
+  "title": "狐狸面包的小弯腰",
+  "version": 1,
+  "bodyCharacters": 579,
+  "pages": 8,
+  "duration": 178.474,
+  "bodySha256": "704e16857e1f0545dfac9d91cc635f2bab55399ccf1002553b565402b931bd91",
+  "audioSha256": "3bff9a685263e85ea9deb1f75ef9f6c561def65543a15d3ca9f41bf9b8c8a22f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "36da8f8b92109bfda2ede8b6f5a66f48fd9c3c09202ef06b8f5f37d7e42d118a",
+      "bytes": 17774
+    },
+    {
+      "name": "p01",
+      "sha256": "0eb5013cd4275369e02ea41857a917d56a54f1a23db6b2a634d4b62f9cc33870",
+      "bytes": 17672
+    },
+    {
+      "name": "p02",
+      "sha256": "7edfa40c12c1d66ea84023c2d3545be6c39ec4019749daeff298a86bfe5c9125",
+      "bytes": 12644
+    },
+    {
+      "name": "p03",
+      "sha256": "7420888c5fe19cd345149c8b49c76a805a543e28afa12d3b220adb29e950c547",
+      "bytes": 17540
+    },
+    {
+      "name": "p04",
+      "sha256": "68e7b0edcc292f4a5242c6957c22afb70b33c53e6320b2d873a3f9b0d7bb8a39",
+      "bytes": 18062
+    },
+    {
+      "name": "p05",
+      "sha256": "ccd52739b57eda873b59a08c7e6e4d9e8d23e11e6ddd465176fd3d139527fd0f",
+      "bytes": 13350
+    },
+    {
+      "name": "p06",
+      "sha256": "2987e206c16011b933a5b7aa32d1c723b76bb86bc6ac95e9c10cd0e2ab965e96",
+      "bytes": 18006
+    },
+    {
+      "name": "p07",
+      "sha256": "206757a85b67def78547c7c1b1cbdec261c0d1fd30e8ac323b293e872a5b8240",
+      "bytes": 18918
+    },
+    {
+      "name": "p08",
+      "sha256": "c0bca1486793b49af1a3f00c6d585443a6d9ed255409f869bdda3d07196dc763",
+      "bytes": 12402
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

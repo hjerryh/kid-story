@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0024",
+  "title": "风铃只唱半句话",
+  "version": 2,
+  "bodyCharacters": 1099,
+  "pages": 12,
+  "duration": 330.426,
+  "bodySha256": "5df254fbc12c59edaea801cdc4b0a245310a748a7b98f10bf0f21656ca93802e",
+  "audioSha256": "6569ccad9199e178048f0765db001ecb69e7d7c7f0924b9d3e190bb2ef53fd98",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "92efeb2242385689aff9070245cd2d0620760fdc912f4fb5d834e0632d77d8d0",
+      "bytes": 23718
+    },
+    {
+      "name": "p01",
+      "sha256": "e387546bbdf6b569987186afbb0d537564e3efa8951e4e7b3a797f6e2d03c41e",
+      "bytes": 16982
+    },
+    {
+      "name": "p02",
+      "sha256": "a5f20a751fa42ece03a6842d8ee1c8a9518746e0158b3a86e70bc600270478d1",
+      "bytes": 13976
+    },
+    {
+      "name": "p03",
+      "sha256": "124d9c24df684bc07b7d07ad8a01e070670b6ac7bb13f4ec4d973b6398b75b39",
+      "bytes": 16470
+    },
+    {
+      "name": "p04",
+      "sha256": "2e2771462daa35d7bb94477b0d83ba911127dff49b6ab4331d7bfc83c82414a8",
+      "bytes": 10474
+    },
+    {
+      "name": "p05",
+      "sha256": "441a75a703d392de6272b79e669bf41a96f0801e34d86ca37fd88bab244256a9",
+      "bytes": 16000
+    },
+    {
+      "name": "p06",
+      "sha256": "1229a2534142eda1ac5cd034f921acb81c3040cb65bf57c3126f8896d83789e9",
+      "bytes": 16632
+    },
+    {
+      "name": "p07",
+      "sha256": "633c14a2ecfeaf38d66a0c28a103cc999808d403f19815113ad4504e65680f01",
+      "bytes": 17834
+    },
+    {
+      "name": "p08",
+      "sha256": "8ea78bd099b2ec21170c3ed5f627ab2e737a983ae95b0a5554b890192dd43c11",
+      "bytes": 16246
+    },
+    {
+      "name": "p09",
+      "sha256": "a19a9f770e364c2b02e5a6f3dfa9c1bab7cd4f900ebb644a90f96b7c18664b64",
+      "bytes": 19534
+    },
+    {
+      "name": "p10",
+      "sha256": "659dcf171dc19cf55f9bae83685541182aee1e07b9afbe3234c70b07509b2520",
+      "bytes": 19560
+    },
+    {
+      "name": "p11",
+      "sha256": "97f37b62531c446e1391a92ebb0a4490c09baf8477b153d694a1334220957262",
+      "bytes": 18750
+    },
+    {
+      "name": "p12",
+      "sha256": "f60619fc1ad7447b9bbd9202a7efe1c8e86361e2f415aa2ac5af69f6bd2aa2a6",
+      "bytes": 19888
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

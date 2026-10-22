@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0035",
+  "title": "花冠上的一道裂缝",
+  "version": 1,
+  "bodyCharacters": 1585,
+  "pages": 16,
+  "duration": 470.018,
+  "bodySha256": "61dda170c53155957664b3b468ba3e51bd848f60b58c7167a6591761cd4777e3",
+  "audioSha256": "5250a65f9754f02fbef8d42e179a0f12dd75a0759392f701213cdd402b8c8ffa",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4df24d06d512ed513ac797f42ef002ea438d6132b9dd3e04fbd40fb46b9fd73e",
+      "bytes": 18580
+    },
+    {
+      "name": "p01",
+      "sha256": "ab310ec548bfe7ad21f07709f119bf42a9e0725e10ccd2038be8f2fd2dbdfa13",
+      "bytes": 13432
+    },
+    {
+      "name": "p02",
+      "sha256": "8492c9071047d1747c9091b5b4459430410b15ed708b46a59b3b42b1c3c83794",
+      "bytes": 12286
+    },
+    {
+      "name": "p03",
+      "sha256": "cf85d0a9f1385fe8ac5fc8f32ee3ece0ef0b4470e06755bf297e394007079572",
+      "bytes": 16162
+    },
+    {
+      "name": "p04",
+      "sha256": "68d40131a589979d64f3ac961a97195aba4c9c338152be4c7cdc9798b615cf06",
+      "bytes": 15336
+    },
+    {
+      "name": "p05",
+      "sha256": "efc5d0fd459b26f778abebd413754a55f556ed3b7e7583d3bc8f644078dc5eca",
+      "bytes": 18436
+    },
+    {
+      "name": "p06",
+      "sha256": "3852098984a4b96c2e2e1f55c5e37b28a0daaf588beec85ead987bcc47223e55",
+      "bytes": 18836
+    },
+    {
+      "name": "p07",
+      "sha256": "64ced1e08cbcd3ad9b1d833e5e05e2a6111a438f80926061a6332c68137f0013",
+      "bytes": 17528
+    },
+    {
+      "name": "p08",
+      "sha256": "51d94abea5541cd50a6b1c431c4d1df710f0812a55f408693517fc47a838c9b6",
+      "bytes": 17300
+    },
+    {
+      "name": "p09",
+      "sha256": "faa0704e32fd7f79c6bb29e1e612e93ea473674ec8771d7980143250ee94c72e",
+      "bytes": 14788
+    },
+    {
+      "name": "p10",
+      "sha256": "8121d447b23cdbcc6fe9e6088a1b7c6e94be081968659f6591cd46a88f269d1b",
+      "bytes": 17466
+    },
+    {
+      "name": "p11",
+      "sha256": "12dfc77142db7b5e35da63ab267b3b652aaa4cbc5d2fc18491640e100fa18329",
+      "bytes": 18364
+    },
+    {
+      "name": "p12",
+      "sha256": "194843b883421dab4503d122fe2933d5c5f326eb5aeb511a73620bbbae4278e8",
+      "bytes": 17042
+    },
+    {
+      "name": "p13",
+      "sha256": "aa6b6d43334747b5b1f1a04b0338679dbdc7528f3dab63775330684102dfc5c1",
+      "bytes": 13050
+    },
+    {
+      "name": "p14",
+      "sha256": "46c1b98a5da8fba3a2c7ced93b54aad5a4a428e083d30f3df3ed18b57c0007f5",
+      "bytes": 16022
+    },
+    {
+      "name": "p15",
+      "sha256": "eeec8e30695ed92986643529cb24fb7f308b140ae02e20bb0c054ff9d37419b4",
+      "bytes": 12180
+    },
+    {
+      "name": "p16",
+      "sha256": "604d244c8edebd879119ff1ed424d6135e46af1c7428bc6fbbfbffcea90d85c7",
+      "bytes": 15132
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0027",
+  "title": "回水湾的红泥",
+  "version": 2,
+  "bodyCharacters": 1149,
+  "pages": 12,
+  "duration": 341.082,
+  "bodySha256": "fb027613a5d6189e43669f8170827300f18e81a91a600028816507162fe3ff87",
+  "audioSha256": "03ac293e3bde3d078cab9cf07dc0b9a71e4f38697ad9119f10453122b2029e56",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6b67a440b419fd7a20549b6b975a4e281103d768d51592e2d84c6afefffa3c3a",
+      "bytes": 16668
+    },
+    {
+      "name": "p01",
+      "sha256": "8e7f3f898222e8fa700fc35683254054ed3080d89f0888169545a73e30f0712a",
+      "bytes": 13934
+    },
+    {
+      "name": "p02",
+      "sha256": "f465a387dcc4eb6efb7e526af2fb90664d1be02ba7bf71c7f55b3dee80c929d6",
+      "bytes": 13130
+    },
+    {
+      "name": "p03",
+      "sha256": "95715e180fa1c0b66d60d2fcceffc1e10a14688b5caa6d63a92b8b5b7feaad99",
+      "bytes": 11966
+    },
+    {
+      "name": "p04",
+      "sha256": "308897c1b6757d815f6197b57cf43194ef726d34490e2b65bf65b8c377931d24",
+      "bytes": 14076
+    },
+    {
+      "name": "p05",
+      "sha256": "4f5aa2e8cf2f558e7af13875737bc782d662d019f85170c5ffac0d416dd838bd",
+      "bytes": 14320
+    },
+    {
+      "name": "p06",
+      "sha256": "f22ae17186f551e9c61323323ae2a15b5504623806f554fcd4b82242f50beb12",
+      "bytes": 12028
+    },
+    {
+      "name": "p07",
+      "sha256": "ada34f5cb8412bdcac01057c9d4f4037f4d0eb9040ab29dc79bc3cb4500263eb",
+      "bytes": 11550
+    },
+    {
+      "name": "p08",
+      "sha256": "547cc8657d58f1811e52a34c51e2b81bf8c7da79aab8092820c3d5aaff15c31b",
+      "bytes": 11592
+    },
+    {
+      "name": "p09",
+      "sha256": "6ddfa7ec7f0610b99b0d0c79bd5e945f2850cac7f9723f0b9ab36208b9eb9eea",
+      "bytes": 14356
+    },
+    {
+      "name": "p10",
+      "sha256": "ff41defdc9c294c41b4fb7316194d0f49f61a7c5d93de7fb876cadbe44284895",
+      "bytes": 12020
+    },
+    {
+      "name": "p11",
+      "sha256": "27b09159d6da9c9258a17c22de332ca136d9e3289f24eff399c3809812f0edb7",
+      "bytes": 12594
+    },
+    {
+      "name": "p12",
+      "sha256": "48c88870c03687ae6b0f6bc0793253b3395a26e1879f513a2bab2a48d270769d",
+      "bytes": 13346
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

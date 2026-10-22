@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0009",
+  "version": 1,
+  "status": "media-ready",
+  "title": "蚂蚁家的小石路",
+  "subtitle": "雨水冲不走的记号",
+  "description": "蚂蚁一家搬进新家，门前的粉笔箭头却被雨冲掉了。小蚂蚁用能摸到的小石头，为熟悉的回家路做了新记号。",
+  "ageBand": "3-5",
+  "theme": "空间辨认与替换材料",
+  "color": "#B09B6B",
+  "character": "小蚂蚁米米：赤棕身体、短触角，穿黄色小马甲；蚂蚁妈妈：深棕身体，系蓝围巾；新家在蒲公英旁的平石下，门是浅绿圆门。",
+  "cover": "/library/stories/expansion-0009/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 179.482,
+  "detailUrl": "/library/stories/expansion-0009/v1/story.json",
+  "audio": "/library/stories/expansion-0009/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "蚂蚁米米一家搬新家啦。新家在一块平平的石头下面，门口长着一株蒲公英。米米背着小枕头，走过两片大叶子，又绕过一根树枝，才找到浅绿色的圆门。她想：这条新路得好好记住呀。",
+      "image": "/library/stories/expansion-0009/v1/p01.webp",
+      "start": 0,
+      "end": 22.142
+    },
+    {
+      "id": "p02",
+      "text": "妈妈把行李放好，请米米去旧家拿最后一只空篮子。米米有点担心回来找不到门，便用粉笔画了几个小箭头：这个指向大叶子，那个指向树枝。她一路画到旧家，觉得自己已经把路装进画里了。",
+      "image": "/library/stories/expansion-0009/v1/p02.webp",
+      "start": 22.142,
+      "end": 44.26
+    },
+    {
+      "id": "p03",
+      "text": "米米拿到篮子，忽然下起一阵小雨。她等在旧家门里，等雨停了才出去。两片叶子还在，树枝也还在，可地上的白箭头浅了，有的已经不见。米米停在分岔口，朝两边看，不敢随便乱走。",
+      "image": "/library/stories/expansion-0009/v1/p03.webp",
+      "start": 44.26,
+      "end": 66.666
+    },
+    {
+      "id": "p04",
+      "text": "不一会儿，妈妈来接她了。米米指着淡淡的白痕：雨把我的路擦掉了。妈妈牵住她的手：路还在，记号被冲淡了。她们一起经过大叶子，绕过树枝。看见蒲公英时，米米认出了自己的新家。",
+      "image": "/library/stories/expansion-0009/v1/p04.webp",
+      "start": 66.666,
+      "end": 88.712
+    },
+    {
+      "id": "p05",
+      "text": "回到门口，米米看见几颗小圆石。它们淋了雨，却没有不见。米米想用石头做记号，妈妈陪她挑选。她们选了几颗搬得动的，把它们放在路边凹下去的土窝里，让中间的路仍然宽宽的。",
+      "image": "/library/stories/expansion-0009/v1/p05.webp",
+      "start": 88.712,
+      "end": 110.614
+    },
+    {
+      "id": "p06",
+      "text": "大叶子旁放一颗，树枝旁放两颗，分岔口去新家的那边放三颗。米米边放边数，妈妈帮她检查石头有没有挡路。放到最后，她们转过身，沿着小石路走了一遍。每到一个记号，米米就认出一个地方。",
+      "image": "/library/stories/expansion-0009/v1/p06.webp",
+      "start": 110.614,
+      "end": 134.004
+    },
+    {
+      "id": "p07",
+      "text": "过了几天，又下雨了。雨停以后，米米从窗口看，路边的小石头湿湿亮亮，仍在土窝里。她和妈妈出去散步，一颗，两颗，三颗，小记号都找到了。米米把沾在其中一颗石头上的泥轻轻擦掉。",
+      "image": "/library/stories/expansion-0009/v1/p07.webp",
+      "start": 134.004,
+      "end": 157.418
+    },
+    {
+      "id": "p08",
+      "text": "晚上，门口亮起小灯。米米把空篮子放在鞋柜旁，爬进有旧枕头的新小床。屋外是蒲公英，远一点是那条小石路。她已经知道，新家虽然换了地方，自己可以一点一点把回来的路记在心里。",
+      "image": "/library/stories/expansion-0009/v1/p08.webp",
+      "start": 157.418,
+      "end": 179.482
+    }
+  ],
+  "buildHash": "dc19b694ba90d615e8404a77444ccfb6a622c8c36447a2f1dfdc070a3f5d298c"
+}

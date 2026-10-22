@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0016",
+  "title": "猫头鹰的黄叶书签",
+  "version": 1,
+  "bodyCharacters": 614,
+  "pages": 8,
+  "duration": 185.698,
+  "bodySha256": "e2e3e4eb9cba5c995db4e190f98a7911138f137d5ce1fd0dd9e4fc33132eb1ad",
+  "audioSha256": "5967454b63cd2cc18f4ca5ad5b5194a285fa37ccd3bba33e570b8ebbd9fa803e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "aca53eaa22d45a761171ccbbee730296eae9309fef8d73eb60e8217c171ec937",
+      "bytes": 16896
+    },
+    {
+      "name": "p01",
+      "sha256": "2e2846f9c429be041e038af7a147af83eec8f62c7d2ba36f82cd3f4aab9165b2",
+      "bytes": 13646
+    },
+    {
+      "name": "p02",
+      "sha256": "e668738c7deb636e270cdec0a56cd84d27da35c31b76d31a66078d60c594f6ff",
+      "bytes": 9596
+    },
+    {
+      "name": "p03",
+      "sha256": "a046ef4a2b890454fe20ce79684c0c58de710ea86fee3663d52a97819d21e5be",
+      "bytes": 12202
+    },
+    {
+      "name": "p04",
+      "sha256": "35b205adb05be18ea44073057406da565f4eab5a72860417a872d0b9cbf87586",
+      "bytes": 13038
+    },
+    {
+      "name": "p05",
+      "sha256": "6cac05ba8487f7b4e728a42a38cbf488e2678e6dcc809c18f581028862f05bc7",
+      "bytes": 9676
+    },
+    {
+      "name": "p06",
+      "sha256": "358169f0895bead61e2dba130d51d4f8fe4f88a6081ca34954e119d60f43ca91",
+      "bytes": 12558
+    },
+    {
+      "name": "p07",
+      "sha256": "eb427863e56a85d0bbddbc8dec250fe373f94649997625978b711c691407b560",
+      "bytes": 13984
+    },
+    {
+      "name": "p08",
+      "sha256": "54db27355b43163749d32b3c8200434024f7520280679a0a5ffeda4c91900304",
+      "bytes": 14558
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

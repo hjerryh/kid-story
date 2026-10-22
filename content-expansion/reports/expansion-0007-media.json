@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0007",
+  "title": "今天不想跳的小青蛙",
+  "version": 1,
+  "bodyCharacters": 575,
+  "pages": 8,
+  "duration": 178.762,
+  "bodySha256": "18aa3a34d3fd6d9ddcfd6233729600f29d7eb1b4431b3b128501849ca39f3dba",
+  "audioSha256": "8ea433137349a2d5ae0af44466ea1ed6cdb6f6b46026aa841d5a17be79477384",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "97779c948b7b4e7efae01184663008dcabf2feef8c2ac05abd33cf544fd689e9",
+      "bytes": 16372
+    },
+    {
+      "name": "p01",
+      "sha256": "34dceda1cd920a4564ad108826169e002229ee6c4de68ac9af96aea305ace358",
+      "bytes": 16228
+    },
+    {
+      "name": "p02",
+      "sha256": "7319c511c2ca2980fa31a51b76e3020c131115ce494f1a903f4efb146d69b42a",
+      "bytes": 15452
+    },
+    {
+      "name": "p03",
+      "sha256": "098436153d97dd95cedad85322f54697d37aa7d88fc72fca56a73feabe26619f",
+      "bytes": 15554
+    },
+    {
+      "name": "p04",
+      "sha256": "48218e04becdfffb864daa128de80e8f76723f023f6e0efc8776c9598191c75d",
+      "bytes": 17230
+    },
+    {
+      "name": "p05",
+      "sha256": "6f44944191b91f9f6d7fc0decc0a00f397e1c2413f4255b5da7dd732d619c88f",
+      "bytes": 16408
+    },
+    {
+      "name": "p06",
+      "sha256": "8d211105753dc33102fae31fe31e64aa9abf4524f4b5f67f26fbe536896baafa",
+      "bytes": 16908
+    },
+    {
+      "name": "p07",
+      "sha256": "9d619d3538a3ca7377a602241c08fe175d82f13643c8d6ad70a9634da3a9b905",
+      "bytes": 16880
+    },
+    {
+      "name": "p08",
+      "sha256": "9b939fce216bc44ece20827eb3d3c5f62ff0662851e325c0976e02fcd4ea9143",
+      "bytes": 14690
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0039",
+  "title": "小龙的第二份报名表",
+  "version": 1,
+  "bodyCharacters": 1694,
+  "pages": 16,
+  "duration": 486.674,
+  "bodySha256": "5998d77127bc22a9ad2f4f87842652a313da48a140f650ca1ceab3e98adf27b7",
+  "audioSha256": "c64da6a8ee1d2cf3318cb6f7ba60e1c77ffaf2dec1f63a765adc221fab51a869",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f5d6c7611ebd9531acbba4aea71e698e5845924a5198933bb27b8b52b30fb259",
+      "bytes": 18148
+    },
+    {
+      "name": "p01",
+      "sha256": "4aecc72982deb2c774814a50c0b6c16288e030ab62b0137a69e81bc0ca5c4269",
+      "bytes": 16766
+    },
+    {
+      "name": "p02",
+      "sha256": "aefa3c93978c79807c01e2321a2fce18cc251876fa7d683e631e2eb27a259e31",
+      "bytes": 15250
+    },
+    {
+      "name": "p03",
+      "sha256": "971a1980ceb3ebed58d685ef48c1eeb65666b4c6ad3ae8a2f4ff07135bf8d1ae",
+      "bytes": 16854
+    },
+    {
+      "name": "p04",
+      "sha256": "e70e02aea87678d8d707a0b84ba9c17c5e2b5d90e7ba55c5dfda9ea4c493e90f",
+      "bytes": 16568
+    },
+    {
+      "name": "p05",
+      "sha256": "46a492a560fe6fde2563fe8a1a57f26cd87d66d918591dd7a5f4c49effd6a6f6",
+      "bytes": 17650
+    },
+    {
+      "name": "p06",
+      "sha256": "14b2ed29b4d9a2c46dfcab4cd33ba1fe14246bb54134e6cc7d94616817e64c00",
+      "bytes": 14744
+    },
+    {
+      "name": "p07",
+      "sha256": "b10e2fac7f0d51b5b613735bf51d39757051d38f29e389863d4678780cbf1b0f",
+      "bytes": 17508
+    },
+    {
+      "name": "p08",
+      "sha256": "013407a34d656a2938316a1e8e591ff2832bcc6f35fbffb45fcae2f7ceb7dda0",
+      "bytes": 19834
+    },
+    {
+      "name": "p09",
+      "sha256": "adcf9e708afb3209ee4d54128ef4cef4aa8edf41063fc637260e8aaf93ce110d",
+      "bytes": 17958
+    },
+    {
+      "name": "p10",
+      "sha256": "d9489e3b875452cff72c0109a669112cd0d3e202ce6a6aff6c585e70d8b25fdd",
+      "bytes": 16722
+    },
+    {
+      "name": "p11",
+      "sha256": "c27c1581c4163cf8fa0056f2d4bdf55337683a97e47fb6584100f9a146c09b2c",
+      "bytes": 19904
+    },
+    {
+      "name": "p12",
+      "sha256": "5fdb0b97e451aff6243a7f23df853c997559a78102a1ca738304e783574ecc7f",
+      "bytes": 12964
+    },
+    {
+      "name": "p13",
+      "sha256": "b2bdadacc11c1883ec5460232ac04d9be866cc992225abb4adfb575fc582cb25",
+      "bytes": 18440
+    },
+    {
+      "name": "p14",
+      "sha256": "0a77d3c59ffce9931e144971827b2a2a5fd3a8fee5df27e95f189e877d2a33e9",
+      "bytes": 21852
+    },
+    {
+      "name": "p15",
+      "sha256": "cc1471d19a2678c835f7530fa83a759f5045f22e4dcfc276ce1d99adfe8c4b59",
+      "bytes": 13554
+    },
+    {
+      "name": "p16",
+      "sha256": "0435b08ccdac7941075fd765508d98f496c7c851c82b42e2a586409258bec4a0",
+      "bytes": 16340
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

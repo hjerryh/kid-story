@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0014",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小象给豆苗喝水",
+  "subtitle": "先倒一点点再看一看",
+  "description": "小象第一次照顾细小的豆苗，总担心水不够。妈妈用一只透明小杯，帮他学会慢慢观察土里的变化。",
+  "ageBand": "3-5",
+  "theme": "照顾植物与掌握分量",
+  "color": "#84AC8C",
+  "character": "小象阿灰：浅灰皮肤、圆耳朵，穿青绿背带裤；象妈妈：深灰皮肤，系米黄围裙；豆苗种在有底孔的红陶盆里，配透明小杯。",
+  "cover": "/library/stories/expansion-0014/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 183.178,
+  "detailUrl": "/library/stories/expansion-0014/v1/story.json",
+  "audio": "/library/stories/expansion-0014/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "小象阿灰种的豆子发芽了，两片叶子伸出来，像两只绿耳朵。阿灰每天都来看一看，今天轮到他帮豆苗浇水。妈妈给他一只透明小杯，杯子里只有浅浅一点水。阿灰看着杯底：这么少，够喝吗？",
+      "image": "/library/stories/expansion-0014/v1/p01.webp",
+      "start": 0,
+      "end": 23.198
+    },
+    {
+      "id": "p02",
+      "text": "阿灰觉得自己的肚子很大，一杯水都不够，豆苗也许一样口渴。他把杯子倒满，刚要往花盆里浇，妈妈轻轻扶住杯沿：先慢一点，我们看看它的土。盆里的土表面浅浅的，摸起来有一点干。",
+      "image": "/library/stories/expansion-0014/v1/p02.webp",
+      "start": 23.198,
+      "end": 44.74
+    },
+    {
+      "id": "p03",
+      "text": "妈妈把杯子里的水倒回壶里一半，让阿灰沿着花盆边轻轻倒一点。水一碰到土，土就变深了。阿灰停下来，看那块深色慢慢往旁边伸，好像一条小小的湿路。他没有急着把剩下的水全倒完。",
+      "image": "/library/stories/expansion-0014/v1/p03.webp",
+      "start": 44.74,
+      "end": 67.314
+    },
+    {
+      "id": "p04",
+      "text": "还有一边的土是浅色。阿灰把杯口转过去，又慢慢倒一点。妈妈提醒他避开嫩嫩的叶子，水就顺着土往下走。过了一会儿，盆底的孔滴出几滴水，落在小托盘上。阿灰趴低一点看：水已经走到下面啦。",
+      "image": "/library/stories/expansion-0014/v1/p04.webp",
+      "start": 67.314,
+      "end": 91.472
+    },
+    {
+      "id": "p05",
+      "text": "妈妈说：这次够了，先让它慢慢吸。阿灰看看杯子，里面还剩一点水。他想了想，没有继续浇，而是把杯子放到旁边。妈妈稍后倒掉托盘的积水，阿灰拿小布擦干窗台，豆苗旁边又干干净净。",
+      "image": "/library/stories/expansion-0014/v1/p05.webp",
+      "start": 91.472,
+      "end": 115.078
+    },
+    {
+      "id": "p06",
+      "text": "第二天早上，阿灰抱着水壶来看豆苗。这次，他没有马上浇，先看看土，又轻轻碰一下表面。土还是深色，摸起来也湿湿的。阿灰把壶放回原处，给豆苗转个笑脸：你今天还不用再喝呢。",
+      "image": "/library/stories/expansion-0014/v1/p06.webp",
+      "start": 115.078,
+      "end": 137.58
+    },
+    {
+      "id": "p07",
+      "text": "又过了一天，土表面变干了一些。阿灰请妈妈来看看，两个人确认可以浇水，才一起取来小杯。这回杯里没有装得满满的。阿灰一边倒，一边看，看见水往土里走，就停一停，让它慢慢喝。",
+      "image": "/library/stories/expansion-0014/v1/p07.webp",
+      "start": 137.58,
+      "end": 159.986
+    },
+    {
+      "id": "p08",
+      "text": "几天后，豆苗又长出一片小叶子。阿灰叫妈妈来看，说那是第三只绿耳朵。透明小杯还放在旁边，杯底亮亮的。阿灰很喜欢照顾这位小朋友，今天先看看，明天再看看，每一回都能发现一点新样子。",
+      "image": "/library/stories/expansion-0014/v1/p08.webp",
+      "start": 159.986,
+      "end": 183.178
+    }
+  ],
+  "buildHash": "1e7b234d57fe158a5840cf8871bb40d206baf207ee7de7dff65201b3fb55aa47"
+}

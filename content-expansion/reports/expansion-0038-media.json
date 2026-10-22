@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0038",
+  "title": "卖等待的小摊",
+  "version": 1,
+  "bodyCharacters": 1653,
+  "pages": 16,
+  "duration": 481.082,
+  "bodySha256": "0f83666e25a0e48c3b6e07edd440dfe6f6c617a1c42cd889412e378f3c1c286e",
+  "audioSha256": "d6c3911028f95c5d3603cc199579fc43ddbcaef89e0ab85450bb2360f1c9cb51",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "bd749221f5b2cb8f0b30fbc0b1e51c984bb467e5e850b1643508dbfa5f8e3f5b",
+      "bytes": 23472
+    },
+    {
+      "name": "p01",
+      "sha256": "075d888b9353db2f7ff4b5184ce0c3ccbe8c9cdea8efcc3ff09ff4e3720226d0",
+      "bytes": 15782
+    },
+    {
+      "name": "p02",
+      "sha256": "c5e48689c0e94121894700c49967e966c8fa360edd38cb5564d49ec9863f3b88",
+      "bytes": 21144
+    },
+    {
+      "name": "p03",
+      "sha256": "e8f3678f202d6b273431e7dd3fedeec068a5001ac3dc6e19ef2fd5da4f2e1be3",
+      "bytes": 21842
+    },
+    {
+      "name": "p04",
+      "sha256": "180d86847adbd77412d4c0fc2eb3e2fe35409ec37b88c64334497e1b76702dea",
+      "bytes": 18042
+    },
+    {
+      "name": "p05",
+      "sha256": "7251f306e75c50d65d7291fad0e174678b05c65bf157ded9aa2097cbc7ab83d4",
+      "bytes": 13144
+    },
+    {
+      "name": "p06",
+      "sha256": "a1767b6d42625ecd1c529e9dd6be8b85151d4bc3f37c303693815622cf34edc0",
+      "bytes": 13076
+    },
+    {
+      "name": "p07",
+      "sha256": "8186d201aa2d7a8e6f89e524c7ccc04f43caee9238977fff9a37370e590e12ad",
+      "bytes": 21670
+    },
+    {
+      "name": "p08",
+      "sha256": "f8b97484a8285ec4d060fbd0ac9508193103c0883b63d5ada05b2fd8d7bb2fc7",
+      "bytes": 18214
+    },
+    {
+      "name": "p09",
+      "sha256": "5ddf7109473d86d6c36044f08bd872eab3e88692c134740bc1ff9a6ff54fba24",
+      "bytes": 16470
+    },
+    {
+      "name": "p10",
+      "sha256": "d17a126ee93a0050df2877973996695a365de701a41127dd186d26b35fe24c8c",
+      "bytes": 15680
+    },
+    {
+      "name": "p11",
+      "sha256": "b8c40e5de8eff32d5beb65abda3dddd09520c18a0d1e0e56b4844f42300c0faf",
+      "bytes": 21002
+    },
+    {
+      "name": "p12",
+      "sha256": "809584b3a400f24931ed0fee6682467ecd2c38510d159c899bd13a1f7c5bf5fd",
+      "bytes": 11966
+    },
+    {
+      "name": "p13",
+      "sha256": "1ef0e48c3fac8faa57e0b028c0565c41f86cbcbf7f70cf2db74df253708e938e",
+      "bytes": 13926
+    },
+    {
+      "name": "p14",
+      "sha256": "2345c3763d3430c3f3231c2736e020ec4a820277091c29b83a0756ac3e6bab32",
+      "bytes": 18114
+    },
+    {
+      "name": "p15",
+      "sha256": "ca91c54096d3676fd7810aeaaa894c4f7de24b84aaf32d8ed90268419cd8a456",
+      "bytes": 15192
+    },
+    {
+      "name": "p16",
+      "sha256": "c89795ee5b101e363980605b3698a2a1069540490140bb212f54994d9e3d2f9c",
+      "bytes": 17704
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

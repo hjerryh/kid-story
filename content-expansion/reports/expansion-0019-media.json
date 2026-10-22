@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0019",
+  "title": "会唱雨的裂缝杯",
+  "version": 1,
+  "bodyCharacters": 952,
+  "pages": 12,
+  "duration": 283.842,
+  "bodySha256": "f39e0d08a3c51dab4227023da0cfcd80e068f6c6051fc4fab923d625ee5c0988",
+  "audioSha256": "95e3183fd61319ec45bf4421457354c69bf4294d43aa70da53d0d36bdca7b3e6",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ac8a50ee1708af27fa74f6ea832843f3d7c510f260eb1e42e2cbb68f44cddd7c",
+      "bytes": 22806
+    },
+    {
+      "name": "p01",
+      "sha256": "b98da07d804027934abcdc3c5926dcc853bc25eea26eef775888e015a6e7d6ac",
+      "bytes": 23188
+    },
+    {
+      "name": "p02",
+      "sha256": "1c6be4c50701fdd5373f613e7a523c3ac4a86277c6ed69c13c5ff4a7bb8d8b7f",
+      "bytes": 18712
+    },
+    {
+      "name": "p03",
+      "sha256": "7463108576acc0665b809b7112811c7ba32934ddf725afad8343fc308ec32e46",
+      "bytes": 14914
+    },
+    {
+      "name": "p04",
+      "sha256": "a7ef42405a802513c9467076816dab5efdd12234b40087fb7b739eed7f8e2a7e",
+      "bytes": 15392
+    },
+    {
+      "name": "p05",
+      "sha256": "939e9ed712a98209fa33fa7a5866ff206b1e534ce4687d061fe19ad27f96bfde",
+      "bytes": 20500
+    },
+    {
+      "name": "p06",
+      "sha256": "410cbbe5cf416278015f94466a6c1cee1427c097bb9cb0ecc3b6a68e5a1194ed",
+      "bytes": 24182
+    },
+    {
+      "name": "p07",
+      "sha256": "6cd8b398c37f02825800a384b03a0fa34a844d36ba5736c3b93a247ed47dba6b",
+      "bytes": 14056
+    },
+    {
+      "name": "p08",
+      "sha256": "c6058f247b64df936a8dd36e7512d00126de0b644aef7d0c9bbcd77d93abee6b",
+      "bytes": 16452
+    },
+    {
+      "name": "p09",
+      "sha256": "300a822570f5f150bc37cae42c06acd26fd7d442142398008323863a3ed5d795",
+      "bytes": 17078
+    },
+    {
+      "name": "p10",
+      "sha256": "ca7f2816c68a80aaf9ab7a56828b8b4e4ea07ac64b3965a813bf0ca42a4f415c",
+      "bytes": 14754
+    },
+    {
+      "name": "p11",
+      "sha256": "6cc372acb88000fed4328b6d6f381d217d80729ead439f7ce50df3c036ebc7ba",
+      "bytes": 15994
+    },
+    {
+      "name": "p12",
+      "sha256": "afe4b5df5d96ea258d9450ff68f5b2f0db4f97c25f52b31af73d7fc32913c44d",
+      "bytes": 10826
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0033",
+  "title": "雪原上的春天种子",
+  "version": 1,
+  "bodyCharacters": 1551,
+  "pages": 16,
+  "duration": 461.762,
+  "bodySha256": "578dfea7d6997796ffdc5cda0139427aaba424b03bc457375ef1fa82838e9da4",
+  "audioSha256": "b35f887aaa8fef3deb604cb813e3fd6e62464ac3f6301ab0dcde0c2e6d7d6e97",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "59c075d6f8efef453b62508cdbc775969094e60e67e03f667e7c7d1ac2541717",
+      "bytes": 17994
+    },
+    {
+      "name": "p01",
+      "sha256": "4f93786e5cc74c58c46ea4ba1a79c6e4c51a6c482ae2cbc3e61deedaba4e2107",
+      "bytes": 11254
+    },
+    {
+      "name": "p02",
+      "sha256": "5cef0eef6b6ae175d0ff4cb7b5c1b1d82dbf75f05d577201daa29addf0d73dfa",
+      "bytes": 11670
+    },
+    {
+      "name": "p03",
+      "sha256": "e3a82c064aa1435d3de9a52216d45a14e31051a4951962a4bac075cffe6fd740",
+      "bytes": 10676
+    },
+    {
+      "name": "p04",
+      "sha256": "0b99a3035d1e87c4aa1e681469fe78c7e95638577f2d642299578e2389b76161",
+      "bytes": 14214
+    },
+    {
+      "name": "p05",
+      "sha256": "3931119c8fd919de7f20e59914ee2a7e13c6a6626012b4611c8dc3853bad83ae",
+      "bytes": 12808
+    },
+    {
+      "name": "p06",
+      "sha256": "f611be1aebdb63dc46eee25a9b2fff63618d987368a97a3a4a5593f4d2ab8eee",
+      "bytes": 13842
+    },
+    {
+      "name": "p07",
+      "sha256": "9742463213e16f9a90171d9581b562d428703a9a86aae774bb43cd32d187576d",
+      "bytes": 13802
+    },
+    {
+      "name": "p08",
+      "sha256": "ca2e389298b8c13c094d5e7839ee98f81d69ac47ff2c3df35765d9645758f57e",
+      "bytes": 13922
+    },
+    {
+      "name": "p09",
+      "sha256": "d809acf0c6383829dcf72bd293dce053e485e6d95cd03b9333eb3370a739b3ac",
+      "bytes": 9988
+    },
+    {
+      "name": "p10",
+      "sha256": "14a7667d235d112d572c0ace4df525b81076caaa126c2e33f84ab12c67e991ff",
+      "bytes": 12756
+    },
+    {
+      "name": "p11",
+      "sha256": "186e3bed0da3dd3ceb008d38754c3d691c856ea002b54a546633aad620f466c8",
+      "bytes": 16062
+    },
+    {
+      "name": "p12",
+      "sha256": "5ddca754529f8414c35a5a1c29aa17f3fea4648048c68539516899ce15e67b05",
+      "bytes": 17146
+    },
+    {
+      "name": "p13",
+      "sha256": "96bb775a9b54774f18e36d0918626e9236f9798862ff3001b1638081ab25bd94",
+      "bytes": 12896
+    },
+    {
+      "name": "p14",
+      "sha256": "1ea3656210900bce6aff55ea08b6bca7f5c594024ba670cada1ab6795dd94c6a",
+      "bytes": 13010
+    },
+    {
+      "name": "p15",
+      "sha256": "c4499e201a53609fbdec11777a345ad0e0caa135fd84f6ee6e87e8839eb804ed",
+      "bytes": 13820
+    },
+    {
+      "name": "p16",
+      "sha256": "a42648ce4ad3bff0e371a1d790e20161a445256bce02a66f3c59d4726c57a90c",
+      "bytes": 14358
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0003",
+  "title": "刺猬的长围巾",
+  "version": 1,
+  "bodyCharacters": 552,
+  "pages": 8,
+  "duration": 169.354,
+  "bodySha256": "091582b4579c0d2253d757366a60ee47e72549917ebc644e00a6f68996d1d1c5",
+  "audioSha256": "75aa75332a859162ac17b93ba68916ad746aeea2a6b122c70351c90610a0fc47",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "1bc4d941a82f7f1234a34262fc72cd66865bbe8dd85c3c21e929e98ec8fa932c",
+      "bytes": 17588
+    },
+    {
+      "name": "p01",
+      "sha256": "fea57b5a7d136df0afe982325f84d126222cd7baad3a09b1c6c9a243404ff119",
+      "bytes": 13936
+    },
+    {
+      "name": "p02",
+      "sha256": "8c4e001e8abc57740f4cd9bb9999e1f2b67c68979b14486cbb43ca198b616862",
+      "bytes": 9582
+    },
+    {
+      "name": "p03",
+      "sha256": "1325dce98f0e21057d6f00f3801ec2a4e180a0754d2dfd3918cb47c285a221b0",
+      "bytes": 12428
+    },
+    {
+      "name": "p04",
+      "sha256": "1d3cccc1a874ce3e366cedddee11cf76b2a3c4560943b48ea61b8244fc93871f",
+      "bytes": 12574
+    },
+    {
+      "name": "p05",
+      "sha256": "38ff2d91e0184aa63f1d1b5f471774881da6aac112fbfb3a141d7a32d5419e25",
+      "bytes": 13106
+    },
+    {
+      "name": "p06",
+      "sha256": "6cb29b9e291d00ee1e7d9a810393e51f144658cd7cf9da222635c7219bd281e1",
+      "bytes": 9930
+    },
+    {
+      "name": "p07",
+      "sha256": "34eb352e6323499cc49383f80eba9e40f1580339e41940d80ec6345c3df55745",
+      "bytes": 17532
+    },
+    {
+      "name": "p08",
+      "sha256": "93c4a191f1292ac93e89ba2d6fd58a850b867d959cdd3ec6ba63d57752304a79",
+      "bytes": 14042
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

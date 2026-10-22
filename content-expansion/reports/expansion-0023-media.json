@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0023",
+  "title": "低头就能看星星",
+  "version": 2,
+  "bodyCharacters": 1113,
+  "pages": 12,
+  "duration": 328.65,
+  "bodySha256": "c10e7938d58427fe23811e30e6049b3721a19e244a4bb1685cb06aaaf63ca945",
+  "audioSha256": "555e94ca92fc892142a2fba5428dd7eee5f18c56069bc559295ca3675af4f128",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3838a6e0777450373dc499ad1fcbe9e4d029926d1f062c4f7ca8403c61c82975",
+      "bytes": 25186
+    },
+    {
+      "name": "p01",
+      "sha256": "5c0c5de80c8f2e0ce7dd3b9625f096b2907c6bbd16c23b53f354145027cf6815",
+      "bytes": 15448
+    },
+    {
+      "name": "p02",
+      "sha256": "ff3e7e7dda37328e7a5411176e396332bcf13833715c9be15ae995d94f46d38e",
+      "bytes": 16154
+    },
+    {
+      "name": "p03",
+      "sha256": "13c2e90228d1b4864f3cc5ae25e51c939bdd0563c05da457ddf57ce0e19332dd",
+      "bytes": 19214
+    },
+    {
+      "name": "p04",
+      "sha256": "4c354c7af5b93421fa5b3d5d9706a92d0f5029435d3c07ab5b9ad03da8afef53",
+      "bytes": 15388
+    },
+    {
+      "name": "p05",
+      "sha256": "6cb34db5fc34942d0710a31a0f59c826715bdd319ffefcdb27508a41f792bbed",
+      "bytes": 15072
+    },
+    {
+      "name": "p06",
+      "sha256": "23e15a21f3d6eef6042bb914d13789981957077b1e3c64ca097c158471e3642b",
+      "bytes": 16050
+    },
+    {
+      "name": "p07",
+      "sha256": "60dbb83f64c4128749ecb13f140e48277f06e33f4a36e58d28256a48230e1605",
+      "bytes": 15320
+    },
+    {
+      "name": "p08",
+      "sha256": "e7b051d1c39acfa67887b3e066966703b430464cb247a3547e4e5646c67ec69e",
+      "bytes": 14654
+    },
+    {
+      "name": "p09",
+      "sha256": "7b236f42a08f6effdaab49afbee02950d4cd6e2b1cdf4086836d8b2953ac489c",
+      "bytes": 15112
+    },
+    {
+      "name": "p10",
+      "sha256": "23952f7a9823b68fe35e170b6415c7f153834b74bfafa4ea63445a69eba71106",
+      "bytes": 17532
+    },
+    {
+      "name": "p11",
+      "sha256": "e929c2507a4fb44eb8eb1441d630fdd2dfdd8d502534729615920b03fa59d353",
+      "bytes": 22264
+    },
+    {
+      "name": "p12",
+      "sha256": "b8c9800df0ae84330bad02fbcd15c85f1e8e8df0c2c0e84bb91c8dd6624ce12f",
+      "bytes": 16142
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

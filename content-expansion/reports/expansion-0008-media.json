@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0008",
+  "title": "小兔和衣柜旁的大影子",
+  "version": 1,
+  "bodyCharacters": 591,
+  "pages": 8,
+  "duration": 180.826,
+  "bodySha256": "b77cce99f1812b41a8e6c5f87da14353af08787289bfc43ce691a56f52448de9",
+  "audioSha256": "9ede2dc156a6f04f01bdd93783f47148585971b603ea7a4bd391eaa4be8f1256",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "a6b7cd0017d517ca526898dda3bf47e066cfcaae8cd5ca0cc46ed76f30e35c39",
+      "bytes": 16292
+    },
+    {
+      "name": "p01",
+      "sha256": "e6cca36d902dccc83e678e7a7459d7f7096486dc890d50afe1e9611ee3f0be86",
+      "bytes": 10480
+    },
+    {
+      "name": "p02",
+      "sha256": "4e8da9577b985e097e507973cb88fbe8cdfe539f6625d30b143b42868e4c2786",
+      "bytes": 12968
+    },
+    {
+      "name": "p03",
+      "sha256": "c7f1f81d1a0285afd3f3672972987b2fbf4fd8b7bf3f58c94861297aa99378f4",
+      "bytes": 12510
+    },
+    {
+      "name": "p04",
+      "sha256": "343e7ddc1fa072d987a1eac94d7eb38084ea10155b7c9669d765624cbedbef9c",
+      "bytes": 12858
+    },
+    {
+      "name": "p05",
+      "sha256": "c0f53c5128120db7588c8d60ac065314a2dbb31cd758d3b4aaec3d22449d40f0",
+      "bytes": 12404
+    },
+    {
+      "name": "p06",
+      "sha256": "c79ac6a81b6c14741c723dc540f231589bd1d66c8f7401af25c46df16b6ec79d",
+      "bytes": 12926
+    },
+    {
+      "name": "p07",
+      "sha256": "d71828140977d186c4c3f14206b6ab37026f3207d466786a67b8d1b185f3604c",
+      "bytes": 12276
+    },
+    {
+      "name": "p08",
+      "sha256": "2417efa1a6bba9718175d7307d9505010940b92dca726eb932d902fefe525b3d",
+      "bytes": 7976
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

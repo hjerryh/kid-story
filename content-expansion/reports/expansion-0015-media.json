@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0015",
+  "title": "小猴分点心的小办法",
+  "version": 1,
+  "bodyCharacters": 606,
+  "pages": 8,
+  "duration": 181.642,
+  "bodySha256": "f04e7ecef5b0481e807087ce438a48f54f0495d89a844549a15f6a0c355697a4",
+  "audioSha256": "781db8e548b98199d89bad9b535f0ad9da7601c8bd52d4e508709aefa676729b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d5b0e1749b38bcf76774b04e6741d4647cf84271f1f007ef2fdf75e42444b621",
+      "bytes": 15976
+    },
+    {
+      "name": "p01",
+      "sha256": "683dce0e6d9f092450343cf1adb7b953e61be75a0faaa5c25f0c39191e17c3d6",
+      "bytes": 14276
+    },
+    {
+      "name": "p02",
+      "sha256": "0ba4e0355cf00cb476026191665703a63888559bb5ab55b40867c97330309002",
+      "bytes": 16848
+    },
+    {
+      "name": "p03",
+      "sha256": "015879f566effbf2680b9d1c66ca4b23164bc07611b03009e2aee0f063aaa159",
+      "bytes": 17788
+    },
+    {
+      "name": "p04",
+      "sha256": "79c385945eab0ef816a8ef2d4b2c341ea9899132820a8e3f2a3ffbec988d0c31",
+      "bytes": 15844
+    },
+    {
+      "name": "p05",
+      "sha256": "9a1b855fd73bbff64f6e32eaf8cf18a5e36945d406b0fa6a6b3b58041854f085",
+      "bytes": 18930
+    },
+    {
+      "name": "p06",
+      "sha256": "0b546521f851b7607a267196aeb4132f6df79569e21775d9d8c630ec31666812",
+      "bytes": 21472
+    },
+    {
+      "name": "p07",
+      "sha256": "92b7da9349dc6bdd61268ace10ec0b97b7ae80a8c18f202a5002b584ac1272cc",
+      "bytes": 19234
+    },
+    {
+      "name": "p08",
+      "sha256": "d0512d2e4081ef0bd492ec15a3b115b4b134114ce97a1dc5b7be521d814ee7b1",
+      "bytes": 18796
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

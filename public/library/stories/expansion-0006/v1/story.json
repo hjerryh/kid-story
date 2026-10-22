@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0006",
+  "version": 1,
+  "status": "media-ready",
+  "title": "松鼠闻到的花香",
+  "subtitle": "用鼻子找到一份小礼物",
+  "description": "松鼠给奶奶带的小花袋不见了，院子里到处都有花香。他顺着风向和留下的线索，找回了自己的礼物。",
+  "ageBand": "3-5",
+  "theme": "感官观察与寻找线索",
+  "color": "#A99676",
+  "character": "小松鼠栗宝：赤褐色绒毛、大蓬尾巴，穿青色短裤；松鼠奶奶：灰褐绒毛，戴紫色披肩；小花袋为白布、蓝色抽绳，装干桂花。",
+  "cover": "/library/stories/expansion-0006/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 173.986,
+  "detailUrl": "/library/stories/expansion-0006/v1/story.json",
+  "audio": "/library/stories/expansion-0006/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "小松鼠栗宝有一个白布花袋，里面装着秋天晒干的桂花。他一闻，就想起奶奶门前的桂花树。今天，他要把花袋送给奶奶，放到奶奶的衣柜里。栗宝系好蓝色袋口，摸摸口袋，出门了。",
+      "image": "/library/stories/expansion-0006/v1/p01.webp",
+      "start": 0,
+      "end": 21.878
+    },
+    {
+      "id": "p02",
+      "text": "走到奶奶家，栗宝先帮忙把晾着的手帕收进篮子，又抱来一块小坐垫。等他伸爪子摸口袋，花袋不见了！栗宝把两个口袋翻出来，只有一小片树叶。他急得在院子里来回找，尾巴扫起一点灰。",
+      "image": "/library/stories/expansion-0006/v1/p02.webp",
+      "start": 21.878,
+      "end": 43.9
+    },
+    {
+      "id": "p03",
+      "text": "奶奶问：你最后一次摸到花袋，在哪里呀？栗宝站住想一想：在你的门口，我还闻了闻。奶奶说：那它大概还在院子里。栗宝松一口气，从门口开始找，可草地上、门槛边，都没有白袋子。",
+      "image": "/library/stories/expansion-0006/v1/p03.webp",
+      "start": 43.9,
+      "end": 66.234
+    },
+    {
+      "id": "p04",
+      "text": "一阵风吹来，栗宝闻到甜甜的桂花香。他赶紧朝香气来的方向走，走到了桂花树下。可是树上也有桂花，地上也落着花。他的鼻子被许多香气围住，一时分不清，哪一股是小袋子的味道。",
+      "image": "/library/stories/expansion-0006/v1/p04.webp",
+      "start": 66.234,
+      "end": 88.496
+    },
+    {
+      "id": "p05",
+      "text": "栗宝退到院子另一边，那里有一只装手帕的篮子。风停了一会儿，树上的香味淡了，篮子旁边却还有一点甜香。他低下头，闻闻篮边，又看看自己的爪子：刚才，我是不是在这里抱过坐垫？",
+      "image": "/library/stories/expansion-0006/v1/p05.webp",
+      "start": 88.496,
+      "end": 109.846
+    },
+    {
+      "id": "p06",
+      "text": "他把坐垫拿开，没有白袋子。再把手帕一条一条拿出来，篮底露出一根蓝线。栗宝轻轻一拉，白花袋就在下面！原来他收手帕时弯下腰，花袋从浅口袋里滑出来，躲进了软软的手帕堆。",
+      "image": "/library/stories/expansion-0006/v1/p06.webp",
+      "start": 109.846,
+      "end": 131.34
+    },
+    {
+      "id": "p07",
+      "text": "栗宝把花袋递给奶奶：送给你，它刚才先到手帕家做客啦。奶奶笑着闻一闻，请栗宝一起把手帕叠好。他们把花袋挂在衣柜里面，蓝线绕过小木钩，这次袋子有了一个不会滑走的位置。",
+      "image": "/library/stories/expansion-0006/v1/p07.webp",
+      "start": 131.34,
+      "end": 152.21
+    },
+    {
+      "id": "p08",
+      "text": "傍晚，栗宝要回家。奶奶送他一条干净手帕，轻轻一抖，飘来一丝桂花香。栗宝把手帕放进深一点的口袋，朝奶奶摆摆爪。还没有走到院门，他已经知道，下次想奶奶时可以闻一闻什么了。",
+      "image": "/library/stories/expansion-0006/v1/p08.webp",
+      "start": 152.21,
+      "end": 173.986
+    }
+  ],
+  "buildHash": "78247dbe7dab25f3dfe303b2fa7aea371e4debde96b232d29c50d30eddc026df"
+}

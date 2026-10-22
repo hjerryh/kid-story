@@ -17,14 +17,14 @@ export function ReaderScreen({story,onBack}:{story:Story;onBack:()=>void}){
  const initialPosition=useRef(restorePosition(story,library.progress[story.id]));
  useEffect(()=>{library.saveProgress(story,initialPosition.current);},[story,library.saveProgress]);
  const[manualPosition,setManualPosition]=useState(initialPosition.current),[timerOpen,setTimerOpen]=useState(false),[dragPosition,setDragPosition]=useState<number|null>(null);
- const active=playback.storyId===story.id,position=active?playback.position:manualPosition;
+ const active=playback.storyId===story.id&&playback.story?.version===story.version,position=active?playback.position:manualPosition;
  const index=getPageIndex(story,position),page=story.pages[index],favorite=library.favorites.includes(story.id),playing=active&&playback.playing;
  const readerScroll=useRef<React.ComponentRef<typeof ScrollView>>(null);
  useEffect(()=>{readerScroll.current?.scrollTo({y:0,animated:false});},[index]);
  const loading=active&&playback.loading,error=active?playback.error:null,ended=position>=story.duration-.1;
  const jump=(seconds:number)=>{if(active)playback.seek(seconds);else setManualPosition(seconds);library.saveProgress(story,seconds);};
  const go=(delta:number)=>{const next=story.pages[index+delta];if(next)jump(next.start);};
- const toggle=()=>{if(error)playback.retry();else if(active)playback.toggle();else playback.playStory(story.id,manualPosition);};
+ const toggle=()=>{if(error)playback.retry();else if(active)playback.toggle();else playback.playStory(story,manualPosition);};
  const sleepLabel=playback.sleep==='end'?'本篇结束':typeof playback.sleep==='number'?`${playback.sleep} 分钟`:'定时关闭';
  return <View style={s.root}>
   <View style={[s.header,{paddingTop:insets.top+14,paddingHorizontal:wide?42:18}]}>

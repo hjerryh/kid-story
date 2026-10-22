@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import {fileURLToPath} from 'node:url';
 import sharp from 'sharp';
 
 // All paths, palettes and characters below are original artwork for 小小故事屋.
@@ -195,6 +196,7 @@ function otherScene(story,index,cover=false){if(story.id==='seed-light')return s
 
 function svg(art,description,cover=false){return `<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="${cover?1000:800}" viewBox="${cover?'100 0 800 800':'0 0 1000 800'}"><title>${escape(description)}</title><defs><linearGradient id="night" x2="0" y2="1"><stop stop-color="#244755"/><stop offset="1" stop-color="#64857A"/></linearGradient><linearGradient id="day" x2="0" y2="1"><stop stop-color="#C5D8D1"/><stop offset="1" stop-color="#EEE6C9"/></linearGradient><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#85B6C4"/><stop offset="1" stop-color="#EEE1BC"/></linearGradient><radialGradient id="glow"><stop stop-color="#FFEAB1" stop-opacity=".55"/><stop offset=".3" stop-color="#FFEAB1" stop-opacity=".18"/><stop offset="1" stop-color="#FFEAB1" stop-opacity="0"/></radialGradient><radialGradient id="moonHalo"><stop stop-color="#FFF0BB" stop-opacity=".18"/><stop offset="1" stop-color="#FFF0BB" stop-opacity="0"/></radialGradient><radialGradient id="windowGlow"><stop stop-color="#FCE8A3" stop-opacity=".2"/><stop offset="1" stop-color="#FCE8A3" stop-opacity="0"/></radialGradient><filter id="paper"><feTurbulence type="fractalNoise" baseFrequency=".52" numOctaves="3" seed="8" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncA type="linear" slope=".12"/></feComponentTransfer><feBlend in="SourceGraphic" mode="multiply"/></filter></defs><g>${art}</g><rect x="0" y="0" width="1000" height="800" fill="#CDBB96" opacity=".2" filter="url(#paper)" style="mix-blend-mode:multiply"/></svg>`;}
 
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
 await fs.mkdir(CACHE,{recursive:true});
 const expectedPages={'moon-post':8,'seed-light':8,'cloud-whale':12,'fox-library':12,'clock-forest':16,'wind-map':16};
 for(const story of stories.filter(s=>!only||s.id===only)){
@@ -243,3 +245,8 @@ if(!sample){
  for(const story of stories){note.push('',`### ${story.title}（${story.id}）`,'',story.character,'',`封面：\`assets/stories/${story.id}/cover.png\``,'','| 文件 | 场景 | 画面中的行动 |','| --- | --- | --- |');story.pages.forEach((p,i)=>note.push(`| page-${String(i+1).padStart(2,'0')}.png | ${p.scene.setting} | ${p.scene.action} |`));}
  await fs.writeFile(path.join(ROOT,'assets/illustration-notes.md'),note.join('\n')+'\n');
 }
+
+}
+
+// Reusable original vector artwork; importing has no rendering side effects.
+export {E,R,P,G,line,star,stars,glow,moon,leaf,grass,flower,meadow,evergreen,tree,mushroom,hills,cloud,envelope,lotus,fly,fireflies,rabbit,rabbitSide,snail,box,pond,table,pear,bear,hedgehog,pot,wateringCan,basket,strawberry,cottage,whale,bubble,bird,girl,rock,book,fox,mole,squirrel,owl,shelf,stool,lantern,rain,deer,beaver,gear,wheel,routePlan,gate,nannan,grandma,paperCrane,paperBoat,map,feather,island,village,svg};

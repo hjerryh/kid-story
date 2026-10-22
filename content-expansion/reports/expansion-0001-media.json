@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0001",
+  "title": "午睡垫什么时候回来",
+  "version": 2,
+  "bodyCharacters": 478,
+  "pages": 8,
+  "duration": 151.522,
+  "bodySha256": "7f9097de819d70576da6f08a028e437075b48ba1b79b695e16acb92a2684e4e3",
+  "audioSha256": "10688a55684425ff4d4ab63f08dcd54ef48e36bcab8dec6e4b4954da5ccf82f2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "094cc56ea40f5067240b1d4eac74ad8373d99ca2e4c964c79cf9604e91f2d829",
+      "bytes": 28982
+    },
+    {
+      "name": "p01",
+      "sha256": "bafee98d7420d0ef00110aa8c99ffb6661d0cf67b76b4cb0db72d9eb294ecebf",
+      "bytes": 21536
+    },
+    {
+      "name": "p02",
+      "sha256": "d9345714469da664c099fa160b585d6d1a1c31fe0debd6e125c9961ba895eb4b",
+      "bytes": 15688
+    },
+    {
+      "name": "p03",
+      "sha256": "e5823c0963ab227ebd00be739845acd4840cf2276b55c138c9b099ee0f8ae454",
+      "bytes": 22296
+    },
+    {
+      "name": "p04",
+      "sha256": "9dbe1cc7f80ae66c93b75e5666d683f49bd919b7eed728c6170e16c5499111fe",
+      "bytes": 15830
+    },
+    {
+      "name": "p05",
+      "sha256": "513538d0b8285f4d8d3459425078ebdbbd536ae06b9ea9f1376471efac3fd240",
+      "bytes": 16944
+    },
+    {
+      "name": "p06",
+      "sha256": "102d7cc4ad54d2c88dcdf7f8fa360d91d5d97a112f4bc24efd200f12f4d4bdef",
+      "bytes": 16170
+    },
+    {
+      "name": "p07",
+      "sha256": "873273dcf07ab965bac864683fdc86bdb9f2f0b958701a56a131560366ff982a",
+      "bytes": 15454
+    },
+    {
+      "name": "p08",
+      "sha256": "afdffda76f90843fa10a852cf304a25f55d4d215bf00a6c4835c8530fbf6b16c",
+      "bytes": 24788
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

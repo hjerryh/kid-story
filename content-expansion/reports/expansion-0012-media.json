@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0012",
+  "title": "熊猫的第一份点心",
+  "version": 1,
+  "bodyCharacters": 594,
+  "pages": 8,
+  "duration": 184.858,
+  "bodySha256": "66c0bdc9b8b005717f44440ff258204b017be9da028e8dccfdb73dee8769e4a1",
+  "audioSha256": "49f70700a55f1cf307105c2701d83a9f1679c5e5a7b565761baded22d9a22026",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "aa8faa509178d2efcb61bb5c3663498f68d9a69a363437319aa50d574992a3fa",
+      "bytes": 19262
+    },
+    {
+      "name": "p01",
+      "sha256": "4f0f84608783b3ee49ea4652048751b894ba76bac86158231f56362629554195",
+      "bytes": 16608
+    },
+    {
+      "name": "p02",
+      "sha256": "52eb9e05ed2cc42ee2a9d1183889219ed1d3e83f65b2c41ef79e75e5c1bea596",
+      "bytes": 15704
+    },
+    {
+      "name": "p03",
+      "sha256": "9ad136d8cbe08b1fcf9cde65311d74c3d0b18c25f509158d10fc8a3451610d80",
+      "bytes": 19128
+    },
+    {
+      "name": "p04",
+      "sha256": "41bbd4280a0b51cf920e50383743c9a66d3ef8d4a83978fd2ea84d76ee159992",
+      "bytes": 15796
+    },
+    {
+      "name": "p05",
+      "sha256": "4b886c73224df5be637edacc71889932183a003723631dde90aeeb450fc60cc0",
+      "bytes": 15704
+    },
+    {
+      "name": "p06",
+      "sha256": "9b1ea607f2f20d0c469b92e9a9a94c4b13864a944afbbd6d9fae9b0ab985a2e6",
+      "bytes": 15538
+    },
+    {
+      "name": "p07",
+      "sha256": "5ada3993a5239de61648d3fc4b90f854100f514e2299345a8195cd94e8b3a86f",
+      "bytes": 19440
+    },
+    {
+      "name": "p08",
+      "sha256": "e6a5a998f405bdb094d651de0396e63ac8e5eef0c79f89dab0f27c4bbc612bfc",
+      "bytes": 15290
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

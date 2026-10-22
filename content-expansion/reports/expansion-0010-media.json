@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0010",
+  "title": "小鸭留下的雪人",
+  "version": 1,
+  "bodyCharacters": 585,
+  "pages": 8,
+  "duration": 178.018,
+  "bodySha256": "3d9821ba12ec51be47128d532a5372343cfb041c950622d66dff4134fbcd4ad8",
+  "audioSha256": "3f6edc5e714f59879f394501752e28e4557c1a293dc16bf4d1979f55f413f637",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "30876fee28cc9b8276ae25602816ce74c4c4aa00db456e063fce5a08694a5933",
+      "bytes": 17344
+    },
+    {
+      "name": "p01",
+      "sha256": "a764626d31f2dfd051a3d5c0b559e090943e3bf910e63aaf1206acd00dc4305c",
+      "bytes": 17040
+    },
+    {
+      "name": "p02",
+      "sha256": "722f9de571f680a5391aee174d234431f471c07a0b020ece92c4f221d2991545",
+      "bytes": 11246
+    },
+    {
+      "name": "p03",
+      "sha256": "11ed993135dce07d87daaced3d0c728080d941e9d0e94fc9ab3d6674d3de47f2",
+      "bytes": 11264
+    },
+    {
+      "name": "p04",
+      "sha256": "e5fb2fa4cad3b9df3e4f86685a62bb2668e9188124dd4977694241348e9d61a6",
+      "bytes": 13512
+    },
+    {
+      "name": "p05",
+      "sha256": "844e029165a227cbf2bc20e9a0d30a9279f9e7432354903cb28d3ce6aa99ce8f",
+      "bytes": 17232
+    },
+    {
+      "name": "p06",
+      "sha256": "dc82e9da718515259f6179155bc89a92ce8238160f1c5e9a65b045810d127641",
+      "bytes": 11482
+    },
+    {
+      "name": "p07",
+      "sha256": "d594aad467c5640c7469f089f957ab3e6d0606d83f6b8969981ae6a9cdb11a0f",
+      "bytes": 18242
+    },
+    {
+      "name": "p08",
+      "sha256": "dd2c727ee19d143cc1f4234513be46cadfbdd63dd703d4a703439eea9e029499",
+      "bytes": 14310
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

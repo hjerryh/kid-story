@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0002",
+  "title": "小熊的雨点碗",
+  "version": 1,
+  "bodyCharacters": 540,
+  "pages": 8,
+  "duration": 167.986,
+  "bodySha256": "7a4d795c858f00d48cb831bfefbbb388e3dbe46db3961459b64627125a125719",
+  "audioSha256": "d03cb749fa578cb9f5f23854977a60c9cef410ea30d45d283e537650d0b5dda7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2cbf06b5491979c77ddbade3040631584c468103f1799f3d5e98c63d414d2104",
+      "bytes": 20594
+    },
+    {
+      "name": "p01",
+      "sha256": "3de1a365882a2e67fb69baa3782cdf5f15f4b3c3849533a1a4fc31491e99b884",
+      "bytes": 13988
+    },
+    {
+      "name": "p02",
+      "sha256": "188559f20b18ad9922a7e3ab435bcb45310496020b4cd0e832cc50f02b1c8595",
+      "bytes": 14416
+    },
+    {
+      "name": "p03",
+      "sha256": "de126759d40b42a09682f4da7bdddf091c82eb22d64c54a827a764da6b3fea02",
+      "bytes": 13872
+    },
+    {
+      "name": "p04",
+      "sha256": "5deb75e34846cd17d0788e5c5820bfac363f53fc81213a62d45d081231cabd54",
+      "bytes": 12740
+    },
+    {
+      "name": "p05",
+      "sha256": "d5cf8fa32c10e5d9e7df17a48dbaed954e3fae17a7dad66773452d94ae36e15b",
+      "bytes": 13054
+    },
+    {
+      "name": "p06",
+      "sha256": "395d63faaf4312842115c807bc7441a5e38449b007d9f3f43b4cd0f448cd4a6b",
+      "bytes": 13118
+    },
+    {
+      "name": "p07",
+      "sha256": "a6ef7bf7b84f3197278cb516dd2ddaf61dfd79b317c816f804f31beaeef5797b",
+      "bytes": 15644
+    },
+    {
+      "name": "p08",
+      "sha256": "a779db002ec588e40bb57e3aa7be8f9d010f5fd5d8d63c6bef1d997b021ace9e",
+      "bytes": 14180
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

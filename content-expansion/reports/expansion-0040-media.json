@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0040",
+  "title": "灯塔熄灯以后的晚上",
+  "version": 1,
+  "bodyCharacters": 1648,
+  "pages": 16,
+  "duration": 481.442,
+  "bodySha256": "09fcba6dfb1064412c65deb958981b7f4f305728c1e9c7ca5b2393fcc80c0eeb",
+  "audioSha256": "0076d764efea4ea700a96e3c44729451acdf937399afbfb3277e237f528ba103",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "a55a13d8137646eb0e8bf819eab503bf5a89e2a6345e46d4376232417fa1b825",
+      "bytes": 16706
+    },
+    {
+      "name": "p01",
+      "sha256": "c9f1c97646e63e9e68120a7cbe9c247764a1cfd1ff6c70c175846cda4eebd0a1",
+      "bytes": 15292
+    },
+    {
+      "name": "p02",
+      "sha256": "3d6aad996517472d4a464f56a6f5024c3ac0fd12a8b5a17c35bee333fe420c6a",
+      "bytes": 17720
+    },
+    {
+      "name": "p03",
+      "sha256": "4aa4e9c8d1f836ca7df8cf13b61537b52b28536b0d462069f5de401cc27cf708",
+      "bytes": 13172
+    },
+    {
+      "name": "p04",
+      "sha256": "64d1ef308b7e6432fb8371c56713dac04181953adc5410599453b3e16ff813b4",
+      "bytes": 16002
+    },
+    {
+      "name": "p05",
+      "sha256": "7ed171f046b7afaae52c6da6f2cfccbd69eb74aebd28818acc0a1db2cbe624c4",
+      "bytes": 15812
+    },
+    {
+      "name": "p06",
+      "sha256": "7d57a13af6bad05aacd49e5d7d696517ca72cdba48c3d0f3cc5a67674a5a9710",
+      "bytes": 16682
+    },
+    {
+      "name": "p07",
+      "sha256": "77900e7473379a303735faa114fefd89b9ea867b628d637c667c0b38160396b7",
+      "bytes": 16388
+    },
+    {
+      "name": "p08",
+      "sha256": "4d8d68af54bff8619577cf2cace42e6ad9ef18d3241f6e13801fd46ec20bbf8e",
+      "bytes": 17314
+    },
+    {
+      "name": "p09",
+      "sha256": "c6f8c81d0d219f1de2de405e4d5a6d0e3fdc73bcad44580f646d6d5b60d4d694",
+      "bytes": 18972
+    },
+    {
+      "name": "p10",
+      "sha256": "8bba8eb1c88862419a8ca771844df158b13e536c6a5236fc0ca4a05fa129495f",
+      "bytes": 13146
+    },
+    {
+      "name": "p11",
+      "sha256": "fd18eedd5bd8df0da780db7fd8c99d702de3d57fdd3e172544afb973879ae367",
+      "bytes": 18410
+    },
+    {
+      "name": "p12",
+      "sha256": "6347d935f2a6682ef1af86259ab3c15648e1dbee9c5f6e54b11fe5ab7fd37c45",
+      "bytes": 15000
+    },
+    {
+      "name": "p13",
+      "sha256": "d1c83f37bee1977fabcef609083a783953914eea76279202d2887658a69e2778",
+      "bytes": 17424
+    },
+    {
+      "name": "p14",
+      "sha256": "8b3c3105e801234a51ee55f67a174ad7d11bb077f065c7a71abe7b678500c394",
+      "bytes": 20618
+    },
+    {
+      "name": "p15",
+      "sha256": "a2c4059e123e8a0349058e233c8139731c531530f420254194a37292abe2973a",
+      "bytes": 15342
+    },
+    {
+      "name": "p16",
+      "sha256": "d7418d8860a2c15976845ba693a7784bf1fababd33c452494ad999fe3b89ed5a",
+      "bytes": 15140
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

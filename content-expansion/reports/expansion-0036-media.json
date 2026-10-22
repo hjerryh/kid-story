@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0036",
+  "title": "树洞里的无声剧本",
+  "version": 1,
+  "bodyCharacters": 1605,
+  "pages": 16,
+  "duration": 467.642,
+  "bodySha256": "ebffb9d2d1a9fb603d3badcbe8cde4d33f56388b161de262a211d903242c5f1f",
+  "audioSha256": "e6f75478736b16bb6b5d3662a24b2c12c933594a3214c09d2458bace0552defa",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "54ff495a175e6642e05ef150fce459c8526cf6673f50fd9f5b0b64f574e08253",
+      "bytes": 17590
+    },
+    {
+      "name": "p01",
+      "sha256": "3ad8b1c5fec69f004a883249cd920ed45c7ca33907acc7b7ecf05752306d0702",
+      "bytes": 16878
+    },
+    {
+      "name": "p02",
+      "sha256": "f1c3c4ce10e2d7b1d80ebaa61cb1a4e590739a32aa69b37064a2752ebf049173",
+      "bytes": 17364
+    },
+    {
+      "name": "p03",
+      "sha256": "4c630e17f9de5b50728168d00701e75c42014e2aad8fa30e3a7c38eae6630f6d",
+      "bytes": 14298
+    },
+    {
+      "name": "p04",
+      "sha256": "5b1beb1c9f00a7c3de1fa452ee0da2c098fe41e00045fb8bca1d7add560104cc",
+      "bytes": 15934
+    },
+    {
+      "name": "p05",
+      "sha256": "dddf17d1f5caab76bc5019fd726b03afef4f3746af8ea3e64bcf3a475de34593",
+      "bytes": 17328
+    },
+    {
+      "name": "p06",
+      "sha256": "5df2a95f0a8fd1abcabf322d256d33a58e2342f7eb6df95587123db739f302f4",
+      "bytes": 11476
+    },
+    {
+      "name": "p07",
+      "sha256": "ba7ea167e21ff142ecabb63d408a1015bbecb5918899ec5df9ae4271995b2c73",
+      "bytes": 15762
+    },
+    {
+      "name": "p08",
+      "sha256": "8521fe2bd5e84f552eda74e16f14ea82e2dad1f88426a877685f9efc300eefc6",
+      "bytes": 12054
+    },
+    {
+      "name": "p09",
+      "sha256": "83bd8cba08b9811696dcaa618217adec72c2b186be8a08c8b3d84be07830f65e",
+      "bytes": 14752
+    },
+    {
+      "name": "p10",
+      "sha256": "a693af5ffeee6d59a95e0b185b06b0f685866f1bb6efe1b9617f6767505e4edf",
+      "bytes": 14616
+    },
+    {
+      "name": "p11",
+      "sha256": "b1009a4200ee2e22054d097ca1e9a1f0128fdbb568ea1681b30584dd662034f7",
+      "bytes": 13094
+    },
+    {
+      "name": "p12",
+      "sha256": "da842095ad228efda4b1a1ed074dbc8463ffa0088eea814eb78becd32919602e",
+      "bytes": 13548
+    },
+    {
+      "name": "p13",
+      "sha256": "73601b755a0cf0fd8d8ff1a18a63bfac90061f7b0648b09f450dd7fb1dc18fc3",
+      "bytes": 14774
+    },
+    {
+      "name": "p14",
+      "sha256": "cd669560d0c8acab41a9732acf00104ed3c6f390258ebc9e141d6d4203b30e36",
+      "bytes": 16452
+    },
+    {
+      "name": "p15",
+      "sha256": "18e20255957aad106bb0a58522990098772307bc7796b330c4748e6df9736621",
+      "bytes": 17104
+    },
+    {
+      "name": "p16",
+      "sha256": "a8d51bfe22b732991af49d1ab02cc4050f12435169985500c274d2a5639a6588",
+      "bytes": 12930
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

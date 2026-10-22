@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0014",
+  "title": "小象给豆苗喝水",
+  "version": 1,
+  "bodyCharacters": 594,
+  "pages": 8,
+  "duration": 183.178,
+  "bodySha256": "a3cb3e8d5d81bf6e6df48174106859a6293f27924bed035f3fc3a7efc6d8361b",
+  "audioSha256": "63b009bc7dbcee3c417b43db550e63d5df79f206836e0c5069fa5c3ce1d53806",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6903703173d0786eeaf57c93cea03f60f3fc939918cceeda3c0d69e9520e604e",
+      "bytes": 14074
+    },
+    {
+      "name": "p01",
+      "sha256": "beff874956c552673c6ec4eae648977389abae1f95aacbc69331d93d8a465f99",
+      "bytes": 10758
+    },
+    {
+      "name": "p02",
+      "sha256": "4fb52f250b2c4e61bd75f763c9d941aeb33de495fbd8458eb4d1cf067bbc82d3",
+      "bytes": 12910
+    },
+    {
+      "name": "p03",
+      "sha256": "7bdf54876e3a92d17fd8a29c8d70a5c3d626bb70d61afd345769dd8357cb994a",
+      "bytes": 11416
+    },
+    {
+      "name": "p04",
+      "sha256": "821e1e9ca5d1b4740154977f888589a7367fb2bf72890328641d390ef702c6ab",
+      "bytes": 11598
+    },
+    {
+      "name": "p05",
+      "sha256": "0fc703b858a4cfa3db6f9a31a05193a790a2efd404557a4821d1c715f48d53d7",
+      "bytes": 13788
+    },
+    {
+      "name": "p06",
+      "sha256": "27f2b33ef6ad6a4f9e192ef5f08b8d11cef1763f79b592d36ad520ae24949bba",
+      "bytes": 10456
+    },
+    {
+      "name": "p07",
+      "sha256": "3bee3e51172db2153eff293cc01037e336e077db764996dcba3dd74a40ebf93e",
+      "bytes": 13436
+    },
+    {
+      "name": "p08",
+      "sha256": "446493c424f754e6bd662a551f3a858c98f1fed86c2e0d33a5961bc5b6d9c3e9",
+      "bytes": 13972
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

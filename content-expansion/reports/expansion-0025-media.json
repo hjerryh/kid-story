@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0025",
+  "title": "禾禾的弯弯路",
+  "version": 1,
+  "bodyCharacters": 1089,
+  "pages": 12,
+  "duration": 321.81,
+  "bodySha256": "3fa5a9e93f1a1d88eaa06ea68fec34c502bb6c58d23a6ce40c9a1ddb798be077",
+  "audioSha256": "75d5d9ebc72fbb883ebf8c08de3fe7070bd7636a44ab143971d2e7d5235343a9",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b5037b38579908c981ebaf75ce7e9db17d01313b062db5cdf66111c1154f95e1",
+      "bytes": 22182
+    },
+    {
+      "name": "p01",
+      "sha256": "bb3b813410643596d1f2dd0d8a6060062c5d9ce40e37530c55e0ccb45803f1b1",
+      "bytes": 15200
+    },
+    {
+      "name": "p02",
+      "sha256": "bc4b509003db831f1f7d974904f0d416d968d9cb7be90766ab7cd1331dd5045e",
+      "bytes": 16064
+    },
+    {
+      "name": "p03",
+      "sha256": "bbbdb30f811b549113862c4af35fe599edfe3a98bc12b93bb1936d6e62d2de5a",
+      "bytes": 9400
+    },
+    {
+      "name": "p04",
+      "sha256": "7c05ab1a490c5d5c77d9d27288f11f80d95055699e995d607ef554ecad7ac81e",
+      "bytes": 11378
+    },
+    {
+      "name": "p05",
+      "sha256": "22fe82cf73b9c43e7f17443090314bc8129c9e36183ae0cdd7661c81e8f6f812",
+      "bytes": 11930
+    },
+    {
+      "name": "p06",
+      "sha256": "4e8691b2a4a637504bb200af4da64fb51a6caa745e6afabf156fbf6b680f2367",
+      "bytes": 10460
+    },
+    {
+      "name": "p07",
+      "sha256": "161689423b4a39eeac664e5a3fbc6f818de99abc572add45f96a3e802f365a99",
+      "bytes": 9672
+    },
+    {
+      "name": "p08",
+      "sha256": "1b04016d407aa9a3e9289003ea1c02a46929cec602a4fbe1f05bbb88fe343984",
+      "bytes": 13392
+    },
+    {
+      "name": "p09",
+      "sha256": "de7a381580af3dffb61fbc2f823931df12ca955a63b999436cbf850a691b9b1b",
+      "bytes": 13942
+    },
+    {
+      "name": "p10",
+      "sha256": "842be8290155e3a41eb939b092cc5274baeeb19072d75826ae197754eec3d0f8",
+      "bytes": 16574
+    },
+    {
+      "name": "p11",
+      "sha256": "3a22462925fc1e43c8f480b2fe3eabfaa7a0b64cfa9cacd9d6126e91584b44bf",
+      "bytes": 16786
+    },
+    {
+      "name": "p12",
+      "sha256": "3ac5838c1e7d9fdce83fda8692ed88d1e287e28c995dff3bd37cd772c668cee8",
+      "bytes": 18618
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

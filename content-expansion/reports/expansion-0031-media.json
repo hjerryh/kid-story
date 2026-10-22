@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0031",
+  "title": "浮岛剧院的两本航行簿",
+  "version": 2,
+  "bodyCharacters": 1569,
+  "pages": 16,
+  "duration": 475.346,
+  "bodySha256": "b2c81074cf71a68a42dea142288513353f97c589e677d9e86956d8fbdc504e7e",
+  "audioSha256": "d434bf0ed09e28eca327afaba0500f2fb08146d1d66b1ca345ba2648f7cef4a0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4228c4bafe48f8eba88fdb20fafa12daabd739ddc30633b68e3bd0145b67f953",
+      "bytes": 18310
+    },
+    {
+      "name": "p01",
+      "sha256": "f203681c0a2b70a5354f6d45fb2c5f3927c5d72ba0b4d2ea828f444283f9b3d6",
+      "bytes": 14424
+    },
+    {
+      "name": "p02",
+      "sha256": "a2fe5bcb182a672f571c6ff155cc832cf87f67d1eca9badbdc128eb9fcd1ee68",
+      "bytes": 16036
+    },
+    {
+      "name": "p03",
+      "sha256": "308ce1dc7e6b1ac0fe7b17b9f82b2da2a6d614082bfba08bd406a628ae5195e3",
+      "bytes": 17992
+    },
+    {
+      "name": "p04",
+      "sha256": "f9ca83628dc129771a9aa9a1c945f29825128d6022d880031b715f68d29c7146",
+      "bytes": 15312
+    },
+    {
+      "name": "p05",
+      "sha256": "25bb72b8d57cdfc365debf5da362e41ec60c9df30f7b1e1e0374bf00b2729144",
+      "bytes": 15324
+    },
+    {
+      "name": "p06",
+      "sha256": "de6dc0e8f17ff42c450df9164dccaa8de7b602ad14e0ca4cae3f4a95d9cbe800",
+      "bytes": 14816
+    },
+    {
+      "name": "p07",
+      "sha256": "1866e8df9a6355033ad28646529af06ec44874396bfebb9943f57dccc696c20e",
+      "bytes": 14632
+    },
+    {
+      "name": "p08",
+      "sha256": "86058ff5098ec156716a46605dbf5cc82ace71d876a681f06bfcb4e017ac3e84",
+      "bytes": 15376
+    },
+    {
+      "name": "p09",
+      "sha256": "6bbe365a33e04638f08afbf3ccd713c01b0ea310c91b3fb41cce53c758bec242",
+      "bytes": 14356
+    },
+    {
+      "name": "p10",
+      "sha256": "60bf79920f97160d2d4b6dabc6b6ec00c6684ffd2946583a93fa29171cd9444f",
+      "bytes": 11996
+    },
+    {
+      "name": "p11",
+      "sha256": "055e8ad25b847d243fa588f51021e644b5d08eda414c6ff021f1ad693a147487",
+      "bytes": 15854
+    },
+    {
+      "name": "p12",
+      "sha256": "faa58f6fef41d842a807e9b7729d31a62a764f295be71f6842e3076cb56d3b68",
+      "bytes": 13960
+    },
+    {
+      "name": "p13",
+      "sha256": "8108bd261315e7f1122ed9a8ad538d32d2649553a7ca5a9e27a524a14abc8fbe",
+      "bytes": 12244
+    },
+    {
+      "name": "p14",
+      "sha256": "16fb6da91c4d8c14d8f24bfb9669de41274d79347c48a775430b802fc68140f1",
+      "bytes": 11576
+    },
+    {
+      "name": "p15",
+      "sha256": "290c8aa7ca066ee582867052100bf0c82c49be47cb1205a4bdb3ab55564e0c23",
+      "bytes": 16448
+    },
+    {
+      "name": "p16",
+      "sha256": "994e90bd2352e057ba536eeeb6d935d030ca22bd734be7b7091a449243d851a4",
+      "bytes": 15866
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

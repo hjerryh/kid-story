@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0011",
+  "title": "来喝茶的小云朵",
+  "version": 1,
+  "bodyCharacters": 582,
+  "pages": 8,
+  "duration": 177.922,
+  "bodySha256": "6518ebedf241f2d28e9b8b66ac10daba26b084d11a79bbb97d635594138ccf7f",
+  "audioSha256": "1bc658e659661421c1cdbe58bbed79c75be2bc4995769371ea6a0b9d35b4f4ff",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "222b778acfb28b19ead624860a3f9be650dcb1426adda3c111b9074ac08f28bc",
+      "bytes": 15090
+    },
+    {
+      "name": "p01",
+      "sha256": "203076db236636fa938fae2246d3df840b0b0e9c606c8fb6f2bb0d1e65e628b0",
+      "bytes": 13240
+    },
+    {
+      "name": "p02",
+      "sha256": "102a321da190e264558a6a0374b20cc75364aaa552ac3371edb3a662c2d737bb",
+      "bytes": 11658
+    },
+    {
+      "name": "p03",
+      "sha256": "5fb4feca29927a23805a6c9dd69673cecf61f4aed4fab7dee4a2c1fb6d147247",
+      "bytes": 10244
+    },
+    {
+      "name": "p04",
+      "sha256": "f636223a21dd609ee214e4d516f55d5878ca565e03c58fbe24b3911ab2e6fba7",
+      "bytes": 13806
+    },
+    {
+      "name": "p05",
+      "sha256": "4429133adad122f54e1b057c9a2c887265235e9b569015df9421c12fa35ddd18",
+      "bytes": 15800
+    },
+    {
+      "name": "p06",
+      "sha256": "4e57c32e9c1d466c18584e8266953f39fb559d806e6dac178209ac4a9669c0f1",
+      "bytes": 15392
+    },
+    {
+      "name": "p07",
+      "sha256": "e5e8183e1078083c67d014a0b1ec4c1e94aeace0a30d759304ed875f3838da5e",
+      "bytes": 15702
+    },
+    {
+      "name": "p08",
+      "sha256": "73db7e7969bbcb941f10d11f4f3d711b81fa71beb8c9f0c2e0873a509b2c4397",
+      "bytes": 14900
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0030",
+  "title": "燕子窝里的彩带",
+  "version": 1,
+  "bodyCharacters": 1042,
+  "pages": 12,
+  "duration": 302.154,
+  "bodySha256": "6e3b0e23ddf05e36f10278aefbc516cd3e369698fb4b0c0eaf839d915a2839c2",
+  "audioSha256": "5625353748d12fd61828d8d986c755aa2c964bae262005fc3acde63cfee04ae4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9cc7c9ec3ee099d3bbf12d28e66956059f3094d487f688ebdfefa34844abadf0",
+      "bytes": 21040
+    },
+    {
+      "name": "p01",
+      "sha256": "95976996f304efaa3a6ba78b5a94cb2764dda03d63680de34c18d58043942481",
+      "bytes": 17214
+    },
+    {
+      "name": "p02",
+      "sha256": "66bcdbc59f0d8cbebf796e64a05ab759f641687b5531e979032d50546ec6a191",
+      "bytes": 11526
+    },
+    {
+      "name": "p03",
+      "sha256": "3587991d7b47b111e791fd7ba9c30a427833a6b2fda080293006cb5e30429c3c",
+      "bytes": 12566
+    },
+    {
+      "name": "p04",
+      "sha256": "2982749e3d098898ad5e6dfdbcf0da6e60ee907c0e2c015c9d7afdfcadca6b4d",
+      "bytes": 15554
+    },
+    {
+      "name": "p05",
+      "sha256": "eae2ea2f75054a701c2f157e079d1085f57e6f78f7e77fd3542bcaf0380bd46a",
+      "bytes": 20046
+    },
+    {
+      "name": "p06",
+      "sha256": "bcc42d4f0ea57d1e00c56ea46249b77464a09c5e0e7265babb9cccab06cd4b4f",
+      "bytes": 11974
+    },
+    {
+      "name": "p07",
+      "sha256": "969ef0e2e517c0700685b1a80c4a0ad7f528ec5bae6afb3108b471faae463a14",
+      "bytes": 10296
+    },
+    {
+      "name": "p08",
+      "sha256": "f6e078a21ca291b90e5fbeedee3f1ef51cfae13dc0aa9d0d2dfe9db818adb70a",
+      "bytes": 12178
+    },
+    {
+      "name": "p09",
+      "sha256": "0b00cf0f9dd5a03fb935b82629a42cafe0a74a36ea749db1bfc0c33ff99732f8",
+      "bytes": 17198
+    },
+    {
+      "name": "p10",
+      "sha256": "bf3f4cce071c0d836c0120956256837662ee059ad12388e3277f483ca5022cfb",
+      "bytes": 16732
+    },
+    {
+      "name": "p11",
+      "sha256": "acc6b9b3a1882aba3dbe8a44334ca333585d21a4f1014769ace885bb64d60c15",
+      "bytes": 14586
+    },
+    {
+      "name": "p12",
+      "sha256": "71023f7dbb0feaeef34fe76fe5f2ea19ce5e6f43b5ea03d0b7187c21f0a4b01c",
+      "bytes": 15672
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

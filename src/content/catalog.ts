@@ -7,7 +7,7 @@ export const stories:Story[]=source.map(story=>{
   const timing=(timings as Record<string,Timing>)[story.id];
   const assets=storyAssets[story.id];
   if(!timing||!assets)throw new Error(`Incomplete story assets: ${story.id}`);
-  return {...story,ageBand:story.ageBand as AgeBand,version:1,duration:timing.duration,cover:assets.cover,audio:assets.audio,
+  return {...story,ageBand:story.ageBand as AgeBand,version:1,pageCount:story.pages.length,duration:timing.duration,cover:assets.cover,audio:assets.audio,
     pages:story.pages.map((page,index)=>({...page,image:assets.pages[index],start:timing.pages[index].start,end:timing.pages[index].end}))};
 });
 export const findStory=(id:string|null)=>stories.find(story=>story.id===id);

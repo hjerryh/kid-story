@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0022",
+  "title": "雨缝里的一声啾",
+  "version": 1,
+  "bodyCharacters": 1059,
+  "pages": 12,
+  "duration": 315.618,
+  "bodySha256": "aa746fc35e3b7cc1309a06f477d62775dac452fdb13bce56a434f889996666ca",
+  "audioSha256": "1b09121db52354cfc915860d3beaed4a269d9ab2d5c546159a2c52784dfeaedc",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "74bff0f2596b90fcc5587f8e816d88b47358cd70160c1e7842b17077ee755ba7",
+      "bytes": 26860
+    },
+    {
+      "name": "p01",
+      "sha256": "5a9f22788f953b6c0b0a36848aa0565b6d7daa9c53ce9483e3ffc8b166ec2663",
+      "bytes": 14952
+    },
+    {
+      "name": "p02",
+      "sha256": "6af1ecb44bc6b9e1ca9f6390a350aec3a3fd1806f955d57c5acfda6595e608cb",
+      "bytes": 17356
+    },
+    {
+      "name": "p03",
+      "sha256": "b10906d1875749e3f5c4b272e429622b2c3388db8f68510f8787285c6b633e23",
+      "bytes": 20428
+    },
+    {
+      "name": "p04",
+      "sha256": "358535b2c6b84a2b3e143fb99396e35505583e93088383965046d74f7c57e3fa",
+      "bytes": 20594
+    },
+    {
+      "name": "p05",
+      "sha256": "467606b777381b27dfb7f4441512a292957e43ec51498dc7e7cb9b0104e4612d",
+      "bytes": 17818
+    },
+    {
+      "name": "p06",
+      "sha256": "ce5064325b41ee3cfe838da138cef898e20f33cfee3d2b3da929ba2589a8a9c1",
+      "bytes": 17474
+    },
+    {
+      "name": "p07",
+      "sha256": "83f38555c8420c6728889516313cd060e2d8a69e04945f96a5e5c31b146cf303",
+      "bytes": 18484
+    },
+    {
+      "name": "p08",
+      "sha256": "223069fc1097ca134c37eb907c99092dd2fa7d5e3d113d1f1f2e6036278e41d1",
+      "bytes": 19620
+    },
+    {
+      "name": "p09",
+      "sha256": "df3647de2532a7a57cedb7d68c0e9499c7f35576e98c70e8232595fb3cc7f752",
+      "bytes": 15422
+    },
+    {
+      "name": "p10",
+      "sha256": "b3d2a9acf78ced4321527d73faecbc6d4b0aa165e09b05d6c6b80d1612ddd4a0",
+      "bytes": 15930
+    },
+    {
+      "name": "p11",
+      "sha256": "6dbbcab162891604f3e24835fa3eca723e97b0c00715999274f6441348fdc612",
+      "bytes": 17056
+    },
+    {
+      "name": "p12",
+      "sha256": "2a767ae2a0fbb83648b54dbf5ac4a6b5b41d76b6180020e51560495b86a01fd2",
+      "bytes": 18494
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

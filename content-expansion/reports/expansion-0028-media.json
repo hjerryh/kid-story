@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0028",
+  "title": "沙塔里的螺旋梯",
+  "version": 1,
+  "bodyCharacters": 1047,
+  "pages": 12,
+  "duration": 313.122,
+  "bodySha256": "60e8d01698ca427892320c405302ca0d319ec91758336497c37be4bc01237374",
+  "audioSha256": "989e86614f781ac9e465adac22aaf9aa696215123dc0e025cd4c4f8d11aa75a8",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "83a2b85c9298e3378551609d7ca40cbc7afab8771ec4fb1dc4e75e1491e9142f",
+      "bytes": 18948
+    },
+    {
+      "name": "p01",
+      "sha256": "9e3f979fc7b1499807af91d69adc3ae763cd5fa775466d7f917404018f200953",
+      "bytes": 15300
+    },
+    {
+      "name": "p02",
+      "sha256": "da75cde42800eadf5f53bbbffcaeebc16edac86d2ac4b8590a38d82a5f82f101",
+      "bytes": 15274
+    },
+    {
+      "name": "p03",
+      "sha256": "205c3e2a916e366be5cb43cb53593a8dd5b2c2ed223139772a25acd5777fee9d",
+      "bytes": 14954
+    },
+    {
+      "name": "p04",
+      "sha256": "c2c90dd67c7d1222243e8aa055ca1b22d07351acbabdde73aad95da7d08f375b",
+      "bytes": 15208
+    },
+    {
+      "name": "p05",
+      "sha256": "aab831a34fe3ab3e82cc685b14952971f37087d534911904707c0b57aa233010",
+      "bytes": 15864
+    },
+    {
+      "name": "p06",
+      "sha256": "24eee4cacfc2140ead97b1b5997012b1c858d48054b8cc9a128fc1746d23ecd1",
+      "bytes": 15944
+    },
+    {
+      "name": "p07",
+      "sha256": "6f9c6a351f42988bc97a374c0721b7ba438c697f3979a2eabd08183ff91f9f77",
+      "bytes": 16260
+    },
+    {
+      "name": "p08",
+      "sha256": "2155434562eb4ac3b65d0be064902c9cfc04f8f631761820a566901d870e7d79",
+      "bytes": 15168
+    },
+    {
+      "name": "p09",
+      "sha256": "3fe9521547e168d742f054ee7e1a723664b614321b4fdb5dcdeb257c5aa0cb71",
+      "bytes": 15828
+    },
+    {
+      "name": "p10",
+      "sha256": "43f725c0b1f75e87225edadf42dbc7635c3dd14bb2409417dd07ae81344fdbf1",
+      "bytes": 15688
+    },
+    {
+      "name": "p11",
+      "sha256": "88c3704b5ddb43715ba981a1257b07a8aacd7fc59c8872060e43472b09201b16",
+      "bytes": 15108
+    },
+    {
+      "name": "p12",
+      "sha256": "9bd169a7332b50c9d9e33d0e921fc00ffd632f0a7d28a8e6db57d41fb4280199",
+      "bytes": 13634
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

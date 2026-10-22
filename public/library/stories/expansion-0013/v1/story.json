@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0013",
+  "version": 1,
+  "status": "media-ready",
+  "title": "河马家的摇摇桌",
+  "subtitle": "让短一点的桌脚站稳",
+  "description": "河马的新画桌总会晃，画纸上的圆圈也跟着歪了。他找出藏在桌子下面的原因，让小桌子稳稳站住。",
+  "ageBand": "3-5",
+  "theme": "观察原因与动手修整",
+  "color": "#A78FA8",
+  "character": "小河马泡泡：浅紫灰皮肤，穿橙色短袖；河马爷爷：深灰皮肤，戴棕色圆帽；小画桌是四条木腿的绿色方桌，其中一腿略短。",
+  "cover": "/library/stories/expansion-0013/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 185.842,
+  "detailUrl": "/library/stories/expansion-0013/v1/story.json",
+  "audio": "/library/stories/expansion-0013/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "河马泡泡有一张绿色的小画桌，是爷爷从旧屋里搬来的。桌面擦得干干净净，刚好能放下画纸和一盒蜡笔。泡泡坐好，想画一轮圆月亮。蜡笔才转半圈，桌子忽然一晃，月亮就长出一个小尖角。",
+      "image": "/library/stories/expansion-0013/v1/p01.webp",
+      "start": 0,
+      "end": 23.63
+    },
+    {
+      "id": "p02",
+      "text": "泡泡扶住画纸，再试一次。桌子咯噔一下，这回月亮又往旁边歪了。他看看蜡笔，以为是笔太滑，换了一支。可是换成蓝色也会晃，换成红色还是会晃。泡泡放下笔，叫爷爷过来看看自己的月亮。",
+      "image": "/library/stories/expansion-0013/v1/p02.webp",
+      "start": 23.63,
+      "end": 47.476
+    },
+    {
+      "id": "p03",
+      "text": "爷爷没有马上拿蜡笔，而是轻轻按了按桌角。咯噔，小桌子摇了一下。泡泡睁大眼睛：原来不是笔在跳，是桌子在跳！爷爷让泡泡退开一点，自己蹲下，看看四条桌腿，泡泡也弯腰从旁边看。",
+      "image": "/library/stories/expansion-0013/v1/p03.webp",
+      "start": 47.476,
+      "end": 71.346
+    },
+    {
+      "id": "p04",
+      "text": "有一条桌腿比另外三条短一点，底下露着细细的一条缝。爷爷按这边，另一边就翘起来。泡泡拿出自己的软手帕，想垫在下面。爷爷扶稳桌子，让他把折好的手帕放在短腿脚边，再由爷爷垫进去。",
+      "image": "/library/stories/expansion-0013/v1/p04.webp",
+      "start": 71.346,
+      "end": 94.376
+    },
+    {
+      "id": "p05",
+      "text": "桌子起初不晃了，泡泡刚画几笔，软手帕被压扁，又滑出来一点，小桌子轻轻动起来。泡泡皱起鼻子：它太软啦。爷爷找来几片薄木片。泡泡摸一摸，木片硬硬的，边边已经磨得很光滑。",
+      "image": "/library/stories/expansion-0013/v1/p05.webp",
+      "start": 94.376,
+      "end": 117.118
+    },
+    {
+      "id": "p06",
+      "text": "爷爷试了两片，太高；换成一片，刚刚好。他扶住桌子，把木片稳稳垫在短腿下，再检查四个角。泡泡伸出爪子，轻轻按这里，又按那里。咯噔声不见了，蜡笔安静地躺在盒子里，没有滚动。",
+      "image": "/library/stories/expansion-0013/v1/p06.webp",
+      "start": 117.118,
+      "end": 140.484
+    },
+    {
+      "id": "p07",
+      "text": "泡泡重新拿出一张画纸，画了一轮慢慢变圆的月亮。这次，线条顺着爪子走，没有突然跳开。他又画四颗星星，和四条稳稳的桌腿一样多。爷爷坐在旁边的小凳子上，看月亮一点一点涂满黄色。",
+      "image": "/library/stories/expansion-0013/v1/p07.webp",
+      "start": 140.484,
+      "end": 163.178
+    },
+    {
+      "id": "p08",
+      "text": "画好以后，泡泡把第一张歪月亮也留下来。他告诉爷爷：这个是桌子还会跳舞的时候画的。两个人一起笑了。绿色小桌站在窗边，短一点的那条腿踩着木片，和另外三条一样，稳稳托着泡泡的新画。",
+      "image": "/library/stories/expansion-0013/v1/p08.webp",
+      "start": 163.178,
+      "end": 185.842
+    }
+  ],
+  "buildHash": "3b1674cddcd42d72b84ba4eb9c2d5cecc604b5e8c0a7f7dbea4b56a0404e6f41"
+}

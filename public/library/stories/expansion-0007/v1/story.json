@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0007",
+  "version": 1,
+  "status": "media-ready",
+  "title": "今天不想跳的小青蛙",
+  "subtitle": "同一个游戏有两条小路",
+  "description": "朋友们在草地上玩跳圈，小青蛙今天却不想跳。他说出自己的想法，和大家把游戏改成了谁都能参加的样子。",
+  "ageBand": "3-5",
+  "theme": "表达意愿与包容游戏",
+  "color": "#7DAB73",
+  "character": "小青蛙团团：嫩绿色皮肤、圆眼睛，穿橙色短背心；小兔米粒：米白色绒毛，穿蓝短裤；小鸭小满：浅黄羽毛，戴绿领巾。",
+  "cover": "/library/stories/expansion-0007/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 178.762,
+  "detailUrl": "/library/stories/expansion-0007/v1/story.json",
+  "audio": "/library/stories/expansion-0007/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "草地上摆着五个彩色圆圈，从大柳树一直排到花坛。小兔米粒抱着一篮布花，招呼朋友来玩送花游戏。跳过圆圈，就能把一朵花送到花坛边。小鸭走过来了，小青蛙团团也慢慢走过来了。",
+      "image": "/library/stories/expansion-0007/v1/p01.webp",
+      "start": 0,
+      "end": 23.078
+    },
+    {
+      "id": "p02",
+      "text": "米粒往前一跳，稳稳落进圆圈。她回头喊：团团，你最会跳，快来呀！团团却抱住自己的小肚子，摇摇头。他今天早上在家跳了好久，现在只想慢慢走走，看看草地上的小花和小虫子。",
+      "image": "/library/stories/expansion-0007/v1/p02.webp",
+      "start": 23.078,
+      "end": 45.652
+    },
+    {
+      "id": "p03",
+      "text": "小鸭说：青蛙不是都喜欢跳吗？团团低头看脚，没有往前。他也喜欢和朋友玩，可是不想为了参加游戏就一直跳。米粒等了一会儿，走回他身边：你今天想怎么玩？团团这才轻轻开了口。",
+      "image": "/library/stories/expansion-0007/v1/p03.webp",
+      "start": 45.652,
+      "end": 68.01
+    },
+    {
+      "id": "p04",
+      "text": "我想走路送花。团团说，可以慢慢地送吗？米粒看着那排圆圈：圆圈是跳的小路，我们再摆一条走的小路吧。小鸭点点头，找来几片大叶子，沿着圆圈旁边排好，叶子之间留出宽宽的空地。",
+      "image": "/library/stories/expansion-0007/v1/p04.webp",
+      "start": 68.01,
+      "end": 90.464
+    },
+    {
+      "id": "p05",
+      "text": "两条小路一起通到花坛。米粒跳圆圈，团团沿叶子走，小鸭拍拍翅膀，也选了走路。没有人催谁快一点，花篮里的花一朵一朵到了花坛边。团团走到最后，看见一只小瓢虫爬上叶尖。",
+      "image": "/library/stories/expansion-0007/v1/p05.webp",
+      "start": 90.464,
+      "end": 112.798
+    },
+    {
+      "id": "p06",
+      "text": "团团蹲下来，把叶子轻轻挪到旁边，让瓢虫爬向草丛。米粒跳到终点时，他指给她看：小客人也到花园啦。米粒蹲下来看，发现瓢虫背上有几个黑点。三个人看了一会儿，才继续送花。",
+      "image": "/library/stories/expansion-0007/v1/p06.webp",
+      "start": 112.798,
+      "end": 134.868
+    },
+    {
+      "id": "p07",
+      "text": "花送完了，米粒的腿也有一点累。她把圆圈收成一摞，说下一回想走叶子路。团团笑了：我下一回也许又想跳啦。小鸭抱起空篮子：那就到时候再选。三个人一起慢慢走到柳树阴凉处。",
+      "image": "/library/stories/expansion-0007/v1/p07.webp",
+      "start": 134.868,
+      "end": 157.106
+    },
+    {
+      "id": "p08",
+      "text": "午后的风吹过花坛，布花轻轻摇动。团团坐在树下，两条腿舒服地伸着。今天他没有跳过一个圈，却送了花，认识了瓢虫，还和朋友玩了好久。他把一片小叶子放在膝上，看着它慢慢晃。",
+      "image": "/library/stories/expansion-0007/v1/p08.webp",
+      "start": 157.106,
+      "end": 178.762
+    }
+  ],
+  "buildHash": "ef2ffeddf5fd99a9139b9b5ce93a2a0dcb6694fb0996814ae2b15063b4ad4121"
+}

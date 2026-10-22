@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0013",
+  "title": "河马家的摇摇桌",
+  "version": 1,
+  "bodyCharacters": 597,
+  "pages": 8,
+  "duration": 185.842,
+  "bodySha256": "915d774689fe1bd118b6c9109b04826c05c94c1d6c4c70541f222193d265b810",
+  "audioSha256": "ccadaf5678e511753ff6c0fc74ae379de03990b87037eb106cb48a0571a3914d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8e2f6d85d4fa94c383966a5465fb213da32d5f06da5f61041109647801ec4989",
+      "bytes": 14174
+    },
+    {
+      "name": "p01",
+      "sha256": "d307d85e99cdf22399a905552e0c76a536bb514c4ef065b57f81b0f8c278e34c",
+      "bytes": 10190
+    },
+    {
+      "name": "p02",
+      "sha256": "3d3c129b7c42b78f19b8b07f23c544170f1333cb9acf1e58672d07837fdef8f2",
+      "bytes": 9806
+    },
+    {
+      "name": "p03",
+      "sha256": "4231ec9be34b17522eb578a3af48aa15634486fbdd6644bb268fbe5b2d65ae50",
+      "bytes": 11884
+    },
+    {
+      "name": "p04",
+      "sha256": "faa6007b6b8648216c96d6f596ed2138252c5ab04d53846ec3515de22713a2e1",
+      "bytes": 11176
+    },
+    {
+      "name": "p05",
+      "sha256": "6e38a3bba7f164f952a0a92102eb9e3f58fd971afc73537d31e73c6a4c34637b",
+      "bytes": 11294
+    },
+    {
+      "name": "p06",
+      "sha256": "4aefef9d8a7b59bcb2a2f9ad20bf00cf6dddd05c949558a6df2922eb3f67e497",
+      "bytes": 11298
+    },
+    {
+      "name": "p07",
+      "sha256": "d5c31dbf1e4f884ecb1fa05aec2c831bcaa1b485b41ef44a40a6d3461d40d55c",
+      "bytes": 11800
+    },
+    {
+      "name": "p08",
+      "sha256": "2dcacfd596ee552cd3c5a81e3d6403593aac50d5de2388b3e0e257f7b6336e09",
+      "bytes": 12748
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

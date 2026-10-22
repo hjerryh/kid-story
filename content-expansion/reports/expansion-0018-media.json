@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0018",
+  "title": "萤火坡的悄悄话",
+  "version": 2,
+  "bodyCharacters": 1051,
+  "pages": 12,
+  "duration": 305.826,
+  "bodySha256": "bf4e6f13b579687db39a9efc85daae82d9a182bfa4c3a862cb1a2761b86c74fe",
+  "audioSha256": "601bb347033ca9ac58149e2f68706557f8f8ab59b49c5fd84dd8c889d48fae4d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d7952ea0c1c6abac7132c67fe7275a8ad0ee3518321bde26dd8c21c97cf26c71",
+      "bytes": 17176
+    },
+    {
+      "name": "p01",
+      "sha256": "d91d3d3d4643058195eae8aecefd8aa8042d533a371384f8ded45367d80217e6",
+      "bytes": 13616
+    },
+    {
+      "name": "p02",
+      "sha256": "87ead09bb5b7b92a804c5822c05fcffdff5dacbf9f99b3a55334179d40b043e4",
+      "bytes": 13368
+    },
+    {
+      "name": "p03",
+      "sha256": "7fe5b34daba8fc5fb945d7c627ae72e64bd8983f585625dcebaf4d3c8a9b8a35",
+      "bytes": 14594
+    },
+    {
+      "name": "p04",
+      "sha256": "685fdaae1d020a199e74baf64b4d150ff72640e7c176765e1a0ef00165d45cd6",
+      "bytes": 13402
+    },
+    {
+      "name": "p05",
+      "sha256": "f4d44cbc77bf35d5fc183f2faaf9f0ee7bd9f758ee0408d619704b58c3dea69d",
+      "bytes": 12252
+    },
+    {
+      "name": "p06",
+      "sha256": "c78d86997168d4e37f57ba45f1bc0c4f3de8868784770e74883d9209e1808cb6",
+      "bytes": 14376
+    },
+    {
+      "name": "p07",
+      "sha256": "755545437a324466d7108c41505993510be6891cf329f3073024b333a88190a5",
+      "bytes": 14710
+    },
+    {
+      "name": "p08",
+      "sha256": "d9c76e4dfa3cb47e448768be111c43dd60a99ea95048db34ad3f8a1ba225c869",
+      "bytes": 13414
+    },
+    {
+      "name": "p09",
+      "sha256": "894359e22ce26e6e5e2c2b53a2ef6b6c1663ba6ff0dbb343e9e8ea0b463a0ceb",
+      "bytes": 14404
+    },
+    {
+      "name": "p10",
+      "sha256": "dafcc2d47f1d33260b93e21852dd1f7029ed07f9cf1bccf4050ba13f463b1daa",
+      "bytes": 13658
+    },
+    {
+      "name": "p11",
+      "sha256": "5bc626f9c6f975d90570ac111dd8373d1238a07f8eda93e893565a50362738f7",
+      "bytes": 14328
+    },
+    {
+      "name": "p12",
+      "sha256": "28d99f05cf1d023edd5afb4358aa2fb44f5fc45ada866a6a45023c543c47f6b2",
+      "bytes": 15404
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0004",
+  "title": "蜗牛家的慢门铃",
+  "version": 1,
+  "bodyCharacters": 557,
+  "pages": 8,
+  "duration": 174.61,
+  "bodySha256": "6ff58328041817ac006d189398acc01b583327aa2ec7522b246962b39e026b13",
+  "audioSha256": "c996714ffca35459520ab1c172d8b8268347b45995fef141d8ea3f0d572d12b9",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "aeed1b601dc3bbedc1a27b7a0a47ec2ec883c6b45a93fdc71365d376702004d2",
+      "bytes": 20172
+    },
+    {
+      "name": "p01",
+      "sha256": "523c7a390a34e20b872caedaa3161b24e1b6d973f625a4fe19d8a5493eeb4fbd",
+      "bytes": 15894
+    },
+    {
+      "name": "p02",
+      "sha256": "04bc7be6c790bc43f8972f36a6981ed8a51310de32557032d08d24ab5b604231",
+      "bytes": 16594
+    },
+    {
+      "name": "p03",
+      "sha256": "b5e812d78e55c282f2e0ec53e62e64f0f864d92aed6723a020813c529e1c394f",
+      "bytes": 14832
+    },
+    {
+      "name": "p04",
+      "sha256": "69e457487ecad14601f74222ded79ac1ba3b60fb70a8540064b7b20f0e6dfb49",
+      "bytes": 14018
+    },
+    {
+      "name": "p05",
+      "sha256": "aa4296a9697b4a56c7f1d3585378ad9a0bbd2c4586b5ec6a5217040946abc94e",
+      "bytes": 14410
+    },
+    {
+      "name": "p06",
+      "sha256": "75004c7cbdcb1a3ea4dbf52f518ba17972d392f9f672a0506b721d5689c60420",
+      "bytes": 12574
+    },
+    {
+      "name": "p07",
+      "sha256": "ebd3b82a88b7c9d00d3f2acef09473c3400c8aa3be9f95ce50241f308c31daaf",
+      "bytes": 18338
+    },
+    {
+      "name": "p08",
+      "sha256": "57defeaf65cc28be59d8c7526a9aad5031f2f3faf1f30f9435f56216d37c079d",
+      "bytes": 17746
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0029",
+  "title": "向日葵的影子归谁",
+  "version": 2,
+  "bodyCharacters": 1024,
+  "pages": 12,
+  "duration": 301.626,
+  "bodySha256": "ad4c38100acdf36849d835225832a54df2c1a7711107513c2442a057c6320765",
+  "audioSha256": "05b2d2fafd102644de6a513fe1d14e409eef1c406ecc469db62a600ac57c8ab4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "00e145f46e07eea5f44afd099cd7291a5fe0b080591715d9fb6a9553eb51aa57",
+      "bytes": 14430
+    },
+    {
+      "name": "p01",
+      "sha256": "e3422383148ef9f686d0147b66b749ae8de61a17d739eb4989c1cb8cc4556936",
+      "bytes": 10330
+    },
+    {
+      "name": "p02",
+      "sha256": "bd9aa2754a8312b4217d9f98b7e420c46aff0db82e92e2018b3b09413efb265c",
+      "bytes": 11174
+    },
+    {
+      "name": "p03",
+      "sha256": "ec35229144e33abd54d2b2be0a946d3593ab52a2e456ffca098574477ee81a39",
+      "bytes": 11122
+    },
+    {
+      "name": "p04",
+      "sha256": "461a273033231f38e956c740f75b2fe14398ca57ff19d579b2389d2578cd9262",
+      "bytes": 11178
+    },
+    {
+      "name": "p05",
+      "sha256": "075c31830429fb1f496ef8d8eee7296f3f40272772ac807eecf9b075934f21b9",
+      "bytes": 12532
+    },
+    {
+      "name": "p06",
+      "sha256": "413ab442ad2aefeaa1aecfac2ad62443b53ddcde8f70f52754b3657d63dd5d74",
+      "bytes": 12438
+    },
+    {
+      "name": "p07",
+      "sha256": "b02f2a98cbb6922317f0ce9906ca4109e450aa78b647cdfa10d21ec94448b83b",
+      "bytes": 11444
+    },
+    {
+      "name": "p08",
+      "sha256": "075c1b2c6074b2ab27c16a93538b97f01f66eefd10904b21a1f518d0dceac3d2",
+      "bytes": 12762
+    },
+    {
+      "name": "p09",
+      "sha256": "7a3ae79c7fb9cdb13d303aec6103eb44154d7c6e184146963497c72ca47abb29",
+      "bytes": 11298
+    },
+    {
+      "name": "p10",
+      "sha256": "2cf9ea79ee3dab8a8e6217968d9ccab8eb21c4160dd93a0ff52ad51f39257b5e",
+      "bytes": 11052
+    },
+    {
+      "name": "p11",
+      "sha256": "5fecf3a4132270fe7d7595dc363f3158ad6b32200da235bf5b94de95e8f99d77",
+      "bytes": 15674
+    },
+    {
+      "name": "p12",
+      "sha256": "08c7fc25c6ad60b8550add62f17a68df0fea427d6ba78f0a23c79e1dc9401575",
+      "bytes": 12234
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

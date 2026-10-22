@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0004",
+  "version": 1,
+  "status": "media-ready",
+  "title": "蜗牛家的慢门铃",
+  "subtitle": "叮咚以后等一等",
+  "description": "小兔去蜗牛家送画，总以为朋友不在家。一次耐心的等待，让她听见了门里面很轻的回应。",
+  "ageBand": "3-5",
+  "theme": "等待与理解不同节奏",
+  "color": "#97A876",
+  "character": "小兔朵朵：白色绒毛，穿桃红背带裙，挎小布包；蜗牛慢慢：浅绿色身体、褐色圆壳，戴蓝色软帽；家门是矮树根上的圆门。",
+  "cover": "/library/stories/expansion-0004/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 174.61,
+  "detailUrl": "/library/stories/expansion-0004/v1/story.json",
+  "audio": "/library/stories/expansion-0004/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "小兔朵朵画了一张大大的彩虹，想送给蜗牛慢慢。她把画装进布包，跳到树根小屋前。圆圆的门上挂着一只铜铃，旁边有个蘑菇形门铃钮。朵朵轻轻按一下，叮咚，声音钻进屋里。",
+      "image": "/library/stories/expansion-0004/v1/p01.webp",
+      "start": 0,
+      "end": 21.854
+    },
+    {
+      "id": "p02",
+      "text": "朵朵等了几下，又按一次。门没有开，也没有人跑出来。她趴在窗边看，可窗帘拉着。慢慢一定去散步啦。朵朵抱紧布包，蹦蹦跳跳地走了。她刚转过小路，圆门才慢慢推开一道缝。",
+      "image": "/library/stories/expansion-0004/v1/p02.webp",
+      "start": 21.854,
+      "end": 44.212
+    },
+    {
+      "id": "p03",
+      "text": "下午，朵朵又来送画。她按门铃，等一下，再按一下，还是没人开门。这时，慢慢隔着门喊：我来了，请等一等！声音细细的，朵朵正在翻布包，没有听见。她叹口气，背好包又走了。",
+      "image": "/library/stories/expansion-0004/v1/p03.webp",
+      "start": 44.212,
+      "end": 67.17
+    },
+    {
+      "id": "p04",
+      "text": "第三次来的时候，朵朵遇到蜗牛奶奶。奶奶听完说：慢慢从窗边爬到门口，要花一点时间呢。朵朵看看自己的长腿，又看看奶奶软软的脚。原来自己觉得很短的一会儿，慢慢还在路上。",
+      "image": "/library/stories/expansion-0004/v1/p04.webp",
+      "start": 67.17,
+      "end": 88.16
+    },
+    {
+      "id": "p05",
+      "text": "朵朵这次只按了一下门铃，然后站着等。风把一片叶子吹到鞋边，她把叶子放回草地。又过一会儿，她听见门里面有细细的声音：我来了。朵朵赶紧回答：我听见啦，我在这里等你！",
+      "image": "/library/stories/expansion-0004/v1/p05.webp",
+      "start": 88.16,
+      "end": 109.102
+    },
+    {
+      "id": "p06",
+      "text": "门终于开了。慢慢抬起触角，扶着门框说：前两次我也来开门，可你已经走啦。朵朵红着脸，把彩虹画递过去：我以为你不在家。慢慢展开画，笑着让她进屋，一起坐到窗边的软垫上。",
+      "image": "/library/stories/expansion-0004/v1/p06.webp",
+      "start": 109.102,
+      "end": 131.196
+    },
+    {
+      "id": "p07",
+      "text": "他们把彩虹画挂在墙上，又画了一张小图。图上是一只正在往门边爬的蜗牛，旁边站着一只安静等待的兔子。慢慢把小图贴到门铃下面。朵朵说：别人看见，就知道你正在来开门啦。",
+      "image": "/library/stories/expansion-0004/v1/p07.webp",
+      "start": 131.196,
+      "end": 152.642
+    },
+    {
+      "id": "p08",
+      "text": "第二天，朵朵带着一篮小花来。叮咚，她按一下，站在门边看云。里面传来：我来啦！朵朵笑着回答：好呀。等门慢慢打开，篮子里的花还新鲜，两个朋友有一个长长的下午可以玩。",
+      "image": "/library/stories/expansion-0004/v1/p08.webp",
+      "start": 152.642,
+      "end": 174.61
+    }
+  ],
+  "buildHash": "f0c7d065e58e417891b8d9998940c2900d35f928d98d64cb18314933c1e1b92c"
+}

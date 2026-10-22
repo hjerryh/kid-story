@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0003",
+  "version": 1,
+  "status": "media-ready",
+  "title": "刺猬的长围巾",
+  "subtitle": "长长的一头有自己的位置",
+  "description": "刺猬收到一条很长的围巾，走路时总踩住尾端。他和奶奶一起想办法，让围巾舒服地待在身上。",
+  "ageBand": "3-5",
+  "theme": "生活自理与共同调整",
+  "color": "#B48768",
+  "character": "小刺猬栗栗：浅棕软刺、奶白肚皮，穿绿色背心；刺猬奶奶：灰棕软刺，戴圆眼镜；围巾为橘黄色，末端有两朵白花。",
+  "cover": "/library/stories/expansion-0003/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 169.354,
+  "detailUrl": "/library/stories/expansion-0003/v1/story.json",
+  "audio": "/library/stories/expansion-0003/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "奶奶织好一条橘黄色围巾，给小刺猬栗栗戴上。围巾暖暖的，两头各有一朵白花。栗栗照照镜子，伸长脖子看那两朵花，喜欢得不得了。他想穿过花园，把新围巾给好朋友看。",
+      "image": "/library/stories/expansion-0003/v1/p01.webp",
+      "start": 0,
+      "end": 20.846
+    },
+    {
+      "id": "p02",
+      "text": "栗栗刚走三步，脚下忽然一绊。他扶住旁边的小椅子，低头看，原来围巾有一头拖在地上，正被自己的鞋踩着。栗栗松开脚，把那一头抱起来，走路不绊了，两只爪子却都没空了。",
+      "image": "/library/stories/expansion-0003/v1/p02.webp",
+      "start": 20.846,
+      "end": 41.62
+    },
+    {
+      "id": "p03",
+      "text": "他想把围巾多绕一圈，可脖子挤挤的，下巴也不好动。奶奶帮他松开：围巾要舒服，不能勒紧。栗栗摸摸白花，有点舍不得：要把它剪短吗？奶奶说：先不急，我们看看别的办法。",
+      "image": "/library/stories/expansion-0003/v1/p03.webp",
+      "start": 41.62,
+      "end": 62.826
+    },
+    {
+      "id": "p04",
+      "text": "奶奶把长的一头往上折。折起来以后，白花藏在里面，看不见了。栗栗摇摇头，又小心地翻过一面，两朵白花就肩并肩露出来。他们笑了，可爪子一松开，折好的围巾又垂下去了。",
+      "image": "/library/stories/expansion-0003/v1/p04.webp",
+      "start": 62.826,
+      "end": 83.672
+    },
+    {
+      "id": "p05",
+      "text": "奶奶从篮子里找出一枚宽宽的木夹。它的边圆圆的，是平时夹毛线用的。奶奶把折起的尾端夹在栗栗胸前的那段围巾上，避开脖子。栗栗松开爪子，白花还好好地待在一起呢。",
+      "image": "/library/stories/expansion-0003/v1/p05.webp",
+      "start": 83.672,
+      "end": 104.806
+    },
+    {
+      "id": "p06",
+      "text": "栗栗在屋里走走，又弯腰捡起地上的布球。围巾没有掉下来，也没碰到鞋。他伸开两只爪子转一圈，奶奶说：先慢慢走到门口试试。栗栗点头，走下矮矮的门槛，两朵白花跟着轻轻摇。",
+      "image": "/library/stories/expansion-0003/v1/p06.webp",
+      "start": 104.806,
+      "end": 127.116
+    },
+    {
+      "id": "p07",
+      "text": "花园里，小兔正在收萝卜，看见栗栗胸前的两朵花，就问：你的围巾怎么这样好看？栗栗告诉她，围巾原来太长，现在折出了一个小花园。他空着的两只爪子，还能帮小兔抱住篮子。",
+      "image": "/library/stories/expansion-0003/v1/p07.webp",
+      "start": 127.116,
+      "end": 148.346
+    },
+    {
+      "id": "p08",
+      "text": "傍晚回家，栗栗请奶奶帮忙取下木夹，把围巾平平地挂好。奶奶问：等你长高了怎么办？栗栗比比自己的头顶：那就把它放长一点！镜子里，小刺猬笑起来，两朵白花也像在笑。",
+      "image": "/library/stories/expansion-0003/v1/p08.webp",
+      "start": 148.346,
+      "end": 169.354
+    }
+  ],
+  "buildHash": "5db3fa7f5924b0fdeaf514ede34977f24a0d8965d7cdce2ccf9001a2fc00a941"
+}

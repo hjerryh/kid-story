@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0017",
+  "title": "影子裁缝的新灯",
+  "version": 2,
+  "bodyCharacters": 1011,
+  "pages": 12,
+  "duration": 298.362,
+  "bodySha256": "37c2c023a9478d15eee1d59318c37033dcd22df0cec935cc74d2b303823c38a4",
+  "audioSha256": "7c65e104ed29f103c490609dcaf716a3ac7e6a8ae420e1647dcda504384006e4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2ef7e39d4a8eaf953a39030f05b1f59e9b00660ab0a3dc0319cf588fa31a1603",
+      "bytes": 15880
+    },
+    {
+      "name": "p01",
+      "sha256": "7e3e1fccd5b7ea8838b15d5c8d4bc12084899e0324ab4301a5fdf82f0dc1525b",
+      "bytes": 13412
+    },
+    {
+      "name": "p02",
+      "sha256": "0824766314033507ed41405452ba361d27c2764b4224c25c7dd3419f1c5f8459",
+      "bytes": 9424
+    },
+    {
+      "name": "p03",
+      "sha256": "04eebd5d014d49a2aaa3e47b2a8a990fd315d4329a45b11239f2c17c36d08e88",
+      "bytes": 12238
+    },
+    {
+      "name": "p04",
+      "sha256": "e6116a4dabe321692070ad702d2998d48cf7d17767ca8af99255ea9179fba805",
+      "bytes": 14350
+    },
+    {
+      "name": "p05",
+      "sha256": "b4e1adb23149931aa9a22103b39216539b936e28f5be3f7db7ab3aacd73130b6",
+      "bytes": 12562
+    },
+    {
+      "name": "p06",
+      "sha256": "e8904395db9b0a12c6ae870b7f9032a269228426b7c2b9152f0812d0873ed6db",
+      "bytes": 12708
+    },
+    {
+      "name": "p07",
+      "sha256": "c0e352cde9984a61fdeb0b9d23942b5886c1fdea24f1563b392b68a6be5d9cdd",
+      "bytes": 14320
+    },
+    {
+      "name": "p08",
+      "sha256": "9cffeeda423adba8ac74239b5859ee1c4d368dd10a79381d6409233731636a33",
+      "bytes": 13846
+    },
+    {
+      "name": "p09",
+      "sha256": "cddad2a66ec56d24fa676589e03d83e192f305658c59e25e28fed1e06ebc1d05",
+      "bytes": 13668
+    },
+    {
+      "name": "p10",
+      "sha256": "89c3daf0edeeeb33e49d5d8010c83777821e22ed68b2a1b3fe304278bcbaa13e",
+      "bytes": 14402
+    },
+    {
+      "name": "p11",
+      "sha256": "24344ee8d395014dec0266d502633b5c8b6f7e2fe754229025e40fd8edd26bd4",
+      "bytes": 13784
+    },
+    {
+      "name": "p12",
+      "sha256": "e00d200f79aa4b81f8f34915e02ccb62e8fb19e0ea336099ad971af2ee938f78",
+      "bytes": 14636
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

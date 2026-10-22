@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0032",
+  "title": "玻璃城的备用钟声",
+  "version": 1,
+  "bodyCharacters": 1533,
+  "pages": 16,
+  "duration": 465.53,
+  "bodySha256": "fb4ff793ff03213a2cbd33d56c4c28d11a3230e03edb67a6688657f92052790a",
+  "audioSha256": "f69569c643fc89f6c9173711f28a432400e82cbfe8c3e55a4b833d3b4ac97c69",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "141b9b4ef4f2c9226220a1e89ebf9540cc0f365935433619f1997445839de802",
+      "bytes": 18784
+    },
+    {
+      "name": "p01",
+      "sha256": "ad065bdfbaec30407fcee26022f1c39d2586b1dc856888cf195473cddfba689a",
+      "bytes": 14002
+    },
+    {
+      "name": "p02",
+      "sha256": "8977c692f7d5e024077c322b89de245c586821ceca121a9f382f53fec1c58ac5",
+      "bytes": 13474
+    },
+    {
+      "name": "p03",
+      "sha256": "861a96ed596d04972629a59410eb48992cf85026996222ccdcd618c211feb9b3",
+      "bytes": 13600
+    },
+    {
+      "name": "p04",
+      "sha256": "3d8c4177071ce1aa1d626837057cb32eafa058afb8f3c45cc9318f693e9f3405",
+      "bytes": 13568
+    },
+    {
+      "name": "p05",
+      "sha256": "7933dac692697beb9b9c4700f22e7a426b21a851227e131de9f3a7020f6ca2fd",
+      "bytes": 15064
+    },
+    {
+      "name": "p06",
+      "sha256": "4d9d8c670df63dac639fb6a8feb7a94036b05bb001f59e438d0f41d3f56c3671",
+      "bytes": 14376
+    },
+    {
+      "name": "p07",
+      "sha256": "6c9b8ab7e3bdffbc9abbf035bdcbd2944411d53eb243fe44c6dbad79d129ea7e",
+      "bytes": 15474
+    },
+    {
+      "name": "p08",
+      "sha256": "6523ee8a2cb7b0ecc2a2098c77a3a1ec73e8e87a4c1e13fccbc042ca0bd24cd5",
+      "bytes": 15528
+    },
+    {
+      "name": "p09",
+      "sha256": "34881797be0f0005d8ec04e65108e4d0f9202fd994de158ba30bec0a10d51922",
+      "bytes": 15526
+    },
+    {
+      "name": "p10",
+      "sha256": "608d27479465e7ac25ff8b85be9515dd1941f210d0e3b5a8324a5cbebb7b6616",
+      "bytes": 13148
+    },
+    {
+      "name": "p11",
+      "sha256": "fbb676b730fc96791d58d890357115744c694fe2d45864c6b904d6bcd94c93a0",
+      "bytes": 12738
+    },
+    {
+      "name": "p12",
+      "sha256": "7c5fe1b4effceac8ba565ac7740d9eabd8281d6b98bd8fa712452312db355eca",
+      "bytes": 12520
+    },
+    {
+      "name": "p13",
+      "sha256": "12f93cac29e1ff20f98669e35601c4bc315c9f3ccb6edeeafb0c5ed823fe8957",
+      "bytes": 17018
+    },
+    {
+      "name": "p14",
+      "sha256": "30d1565f4d1927209940a9ad0a5b5ad9b798fb86f734673e9267a9eb03ef47cc",
+      "bytes": 13936
+    },
+    {
+      "name": "p15",
+      "sha256": "2f341331593279cdd39d7d8e5cfbed0815aa2bdc870fc9bdea69f89b7f1830ce",
+      "bytes": 12528
+    },
+    {
+      "name": "p16",
+      "sha256": "fdf5e5bc00782b9bc38fbd4082abadd7d4f86add7119f8016c9b30104b1972d0",
+      "bytes": 13206
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

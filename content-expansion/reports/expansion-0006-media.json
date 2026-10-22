@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0006",
+  "title": "松鼠闻到的花香",
+  "version": 1,
+  "bodyCharacters": 580,
+  "pages": 8,
+  "duration": 173.986,
+  "bodySha256": "4df2d6611b2283936fc999a029e1df7c99affd8fee08295e2db5f01ead6b81f8",
+  "audioSha256": "074cec7f980be90c3c67360b03897d25efbab64b8cbcfd52c4bd3c0ddc320b2a",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8da9f02d549dac7b109d5b686d4fddd6825f69b415fac061566863dc2b11484e",
+      "bytes": 19476
+    },
+    {
+      "name": "p01",
+      "sha256": "dad25a5b634e78a6cd4488ea344756860783422df2bc1462d0e828c59942e3e4",
+      "bytes": 10782
+    },
+    {
+      "name": "p02",
+      "sha256": "f3ff04d49e0468b3d3c23e5956976da26c7d1185f63495878ef532e780993bf1",
+      "bytes": 14654
+    },
+    {
+      "name": "p03",
+      "sha256": "5782d4d2db8191e23c2cf722168b4674da6e651332d2c5714d68bb0d1bfee97e",
+      "bytes": 16536
+    },
+    {
+      "name": "p04",
+      "sha256": "9060f3a49a6239221029cb34792afd11cf22203b468aeb7d41e3646fca1be356",
+      "bytes": 15228
+    },
+    {
+      "name": "p05",
+      "sha256": "abc6541da5a4c6b1f4cbe96b80c9fb3eff719a7ee7f7ba6d91dac6a0b984aa75",
+      "bytes": 14548
+    },
+    {
+      "name": "p06",
+      "sha256": "35f1b0500950387310ea460e09e62e208de507c1fc0a9ed1d961cb187158cbe7",
+      "bytes": 15102
+    },
+    {
+      "name": "p07",
+      "sha256": "ca0cd41e2c9c1e383da4237030337545d9bb85b809037b1b201f090828e2cdd5",
+      "bytes": 11658
+    },
+    {
+      "name": "p08",
+      "sha256": "4379317d0611370b3128d27d5c333d6ae3a1402df3a605b7882b2ccd665cddf3",
+      "bytes": 17000
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

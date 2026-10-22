@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0034",
+  "title": "会搬家的棋盘",
+  "version": 1,
+  "bodyCharacters": 1586,
+  "pages": 16,
+  "duration": 465.818,
+  "bodySha256": "1cfff1860c3d64d2a66be5e3f5708b0eb304b394a8edc8843f0bad5de0e0bd17",
+  "audioSha256": "8a8472eaa5165118b063b87a708864af252f40baaa12d7507f7ab7293b037471",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "14a133405dfb952db2208fc8dac897db035446fb6104e23541ee341b3b8efdb6",
+      "bytes": 19848
+    },
+    {
+      "name": "p01",
+      "sha256": "d7985260882173d134dc412282673cea1b85ac59512bd060117eab17fadc3967",
+      "bytes": 14876
+    },
+    {
+      "name": "p02",
+      "sha256": "777c01240200be8408f37087acd3ba9f78c2f2bf413f4a4987e76148d086e965",
+      "bytes": 14632
+    },
+    {
+      "name": "p03",
+      "sha256": "855c5bd96797a3ba641ee949284aefa29de8d541a9b1f3f0971876532e4d91a0",
+      "bytes": 14892
+    },
+    {
+      "name": "p04",
+      "sha256": "c8353c1793f062ff5dda89764a72406d7881505470ef2a1889a5bfe98de4e5d7",
+      "bytes": 13522
+    },
+    {
+      "name": "p05",
+      "sha256": "1e59d9999887dd0858974379fd8b41428da5509066fb77a00dfc349692f43177",
+      "bytes": 15180
+    },
+    {
+      "name": "p06",
+      "sha256": "b472ccbc610d423fcc4532ebf490bd51debe7ac71366b9657c1da720ef0d28a6",
+      "bytes": 14150
+    },
+    {
+      "name": "p07",
+      "sha256": "fde792ae049496601adfa486aa035476364c49adaed8306c3764b6670e1f2a41",
+      "bytes": 17104
+    },
+    {
+      "name": "p08",
+      "sha256": "d7d4ec618c747e1139b39e867129f0c557ed3548c4b5c1a385c291d1d5093703",
+      "bytes": 13772
+    },
+    {
+      "name": "p09",
+      "sha256": "7248915f7c01a80b8cd2b291085a0c74f88c4703a68cff4dcbb940f500a9d468",
+      "bytes": 12384
+    },
+    {
+      "name": "p10",
+      "sha256": "4067745faec26dd32fcb013898fbd11b29ce575685c4e14d140027dcfab92c41",
+      "bytes": 15898
+    },
+    {
+      "name": "p11",
+      "sha256": "269cae13e794f323119f5f2022c0c2172f82d908e29e0af480b70480eef455d9",
+      "bytes": 14922
+    },
+    {
+      "name": "p12",
+      "sha256": "ff68fd6edce555407b78ee52f64badd8e92e6d15c8e2c179cc2b0cc58dfb7001",
+      "bytes": 14838
+    },
+    {
+      "name": "p13",
+      "sha256": "07f7a47be612bbb13072db6dbd08e28ba388edb216f6e208d498f2eea22db13f",
+      "bytes": 14506
+    },
+    {
+      "name": "p14",
+      "sha256": "8b6c053870c500dc41d035b5219ea3dc0ca84630c3c6e2f82697ae713061fc09",
+      "bytes": 14494
+    },
+    {
+      "name": "p15",
+      "sha256": "41b2d45767a16b251aaa3d6b6db32cd1bf9636475cb71b66894fa2a8a54cf78d",
+      "bytes": 15334
+    },
+    {
+      "name": "p16",
+      "sha256": "08d8841e53f572a2afdd07d8a42632f572f77ed1345e7802769e01b0dff4de1e",
+      "bytes": 14398
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

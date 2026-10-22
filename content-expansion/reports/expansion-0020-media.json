@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0020",
+  "title": "会唱两首歌的水缸",
+  "version": 1,
+  "bodyCharacters": 1097,
+  "pages": 12,
+  "duration": 330.162,
+  "bodySha256": "b3d8c081d139012f7aa83bfc1173d2dc9a8e64d0aeea31d491e26b0cfba7b6c5",
+  "audioSha256": "f614f2b84f6d311f9c1bd3868e904459f0fbfd691269491813ed47b4997c3a2a",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "38c303af879060c37a57aaf322715aebd86900202fd640512f82509437113690",
+      "bytes": 20312
+    },
+    {
+      "name": "p01",
+      "sha256": "0acdab21419e94efe56b8e68a2f225a9ec003a03c58fe812f27a5453d6206e50",
+      "bytes": 15110
+    },
+    {
+      "name": "p02",
+      "sha256": "6238076f090c9e34497e19a32734abe00ad4a7c9f1b23f5ac706cc9265903b4c",
+      "bytes": 17686
+    },
+    {
+      "name": "p03",
+      "sha256": "6f428d1b4c3d59632a592ffbe23143b3b78d4edfe95e396553e5fc7435e4cc2d",
+      "bytes": 15950
+    },
+    {
+      "name": "p04",
+      "sha256": "234a5a06d1836d62842aed3542eca82a74dd84ec29566cb1a4c37c5fd22b1aad",
+      "bytes": 12478
+    },
+    {
+      "name": "p05",
+      "sha256": "81b2eeadf18f9d085dd498210ef4a4a939c19580acbaf6f1e2a2ed710881acdf",
+      "bytes": 12052
+    },
+    {
+      "name": "p06",
+      "sha256": "60b252d71ec4c8d5cd9fa857a75167c94da7f5be33584de0c82d9fada9e4b303",
+      "bytes": 15994
+    },
+    {
+      "name": "p07",
+      "sha256": "71d11f48578f6ca7c9fa96ff7f4c4b079d6c9cf8dd103ec152270c8eff0d0e98",
+      "bytes": 15758
+    },
+    {
+      "name": "p08",
+      "sha256": "f1a5bdbd03211f2bcc4c149ba96805f2a257ab278a7e5d6a7271af842d994c49",
+      "bytes": 16400
+    },
+    {
+      "name": "p09",
+      "sha256": "fde10dcb6b6a3a1543a48c9c84339a2b82bb06c680e0f53a9b78c42155d76e29",
+      "bytes": 13454
+    },
+    {
+      "name": "p10",
+      "sha256": "58dc8003493f87be76653808b8751f3395294b00b4e8e26aeec2c77e94e1dfe9",
+      "bytes": 16618
+    },
+    {
+      "name": "p11",
+      "sha256": "427571d6b986998497a7beebcfc340f822efccb51bf6f5b49dc1de73f290d388",
+      "bytes": 19846
+    },
+    {
+      "name": "p12",
+      "sha256": "1bf9eea17a50aa7ef79c47caf678e393654ffb9870cafccc566ecdbb286f5afe",
+      "bytes": 19120
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

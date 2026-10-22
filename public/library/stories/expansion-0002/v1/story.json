@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0002",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小熊的雨点碗",
+  "subtitle": "给雨声换一个小座位",
+  "description": "小熊想把叮叮咚咚的雨声送给妈妈，却发现妈妈正在休息。他试着给雨点换几个落脚的地方。",
+  "ageBand": "3-5",
+  "theme": "体察需要与声音探索",
+  "color": "#7298AB",
+  "character": "小熊豆豆：蜂蜜色绒毛，穿红格子雨衣；熊妈妈：深棕色绒毛，穿浅蓝围裙；雨点碗是蓝边的金属小碗。",
+  "cover": "/library/stories/expansion-0002/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 167.986,
+  "detailUrl": "/library/stories/expansion-0002/v1/story.json",
+  "audio": "/library/stories/expansion-0002/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "下雨了，小熊豆豆把一只蓝边小碗放在屋檐下。雨点落进去，叮，叮，咚，咚，像一支小小的乐队。豆豆蹲在门口听，越听越喜欢。他还拿出一张矮凳，请布熊也来听音乐。",
+      "image": "/library/stories/expansion-0002/v1/p01.webp",
+      "start": 0,
+      "end": 21.038
+    },
+    {
+      "id": "p02",
+      "text": "熊妈妈从菜园回来，脱下湿鞋，揉了揉额头。她今天起得很早，想躺一会儿。豆豆抱起小碗，搬到妈妈窗外：这首雨点歌送给你！叮叮咚咚，雨水从屋檐滴下来，比刚才还响呢。",
+      "image": "/library/stories/expansion-0002/v1/p02.webp",
+      "start": 21.038,
+      "end": 42.652
+    },
+    {
+      "id": "p03",
+      "text": "妈妈睁开眼睛，轻轻说：这首歌真热闹，可是我现在想安安静静睡一觉。豆豆低头看看小碗，心里有点失望。他喜欢这首歌，妈妈怎么不喜欢呢？妈妈拉拉他的爪子：等我睡醒，我们一起听。",
+      "image": "/library/stories/expansion-0002/v1/p03.webp",
+      "start": 42.652,
+      "end": 64.626
+    },
+    {
+      "id": "p04",
+      "text": "豆豆把碗搬回门口，叮咚声还是会飘进屋。他找来一片宽叶子，盖在碗上。雨点先碰到叶子，再滑进碗里，声音变成了轻轻的啪啪。可是叶子一歪，叮咚声又从旁边跑了出来。",
+      "image": "/library/stories/expansion-0002/v1/p04.webp",
+      "start": 64.626,
+      "end": 86.144
+    },
+    {
+      "id": "p05",
+      "text": "豆豆又拿来一块洗干净的小布，铺进空碗。嗒，嗒，雨点像穿上了软鞋，走得轻轻的。豆豆把耳朵凑过去，才能听见。他回头看看，妈妈的窗户静静的，窗帘也没有再掀起来。",
+      "image": "/library/stories/expansion-0002/v1/p05.webp",
+      "start": 86.144,
+      "end": 106.63
+    },
+    {
+      "id": "p06",
+      "text": "雨渐渐小了，碗里的布吸饱了水。豆豆请布熊继续坐在凳子上，自己拿起画纸，画一个大碗，几滴雨，还有一双小鞋。他把画留在桌上，没有叫醒妈妈，只轻轻地去洗手吃点心。",
+      "image": "/library/stories/expansion-0002/v1/p06.webp",
+      "start": 106.63,
+      "end": 126.924
+    },
+    {
+      "id": "p07",
+      "text": "妈妈醒来时，屋檐还在滴水。她看见画，笑着问：雨点也有鞋子吗？豆豆带她到门口，先让她听铺着布的碗，又把布拿开。嗒嗒变成叮咚，妈妈听明白了，原来小熊给雨声换了座位。",
+      "image": "/library/stories/expansion-0002/v1/p07.webp",
+      "start": 126.924,
+      "end": 148.322
+    },
+    {
+      "id": "p08",
+      "text": "这次，妈妈坐在矮凳上，和豆豆一起听。最后一滴雨落下来，叮，音乐停了。豆豆倒掉碗里的水，把小布晾好。妈妈抱抱他：谢谢你的雨点歌，也谢谢你让我睡了一个好觉。",
+      "image": "/library/stories/expansion-0002/v1/p08.webp",
+      "start": 148.322,
+      "end": 167.986
+    }
+  ],
+  "buildHash": "b7a8c0842f98ce0854a8b97831e4f5f563eff647c3e548621e4439f56217062c"
+}
