@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0251",
+  "title": "伞婆婆的抱抱还没干",
+  "version": 1,
+  "bodyCharacters": 520,
+  "pages": 8,
+  "duration": 167.962,
+  "bodySha256": "fa33f8eec35cdc1fde5aadcb74b106fc04a90db934fb1e38a483e70f94834710",
+  "audioSha256": "8c9dfbe1c6bf5a87c9348cddb938decf452414cb687c466d6f2a0bdf9a58f931",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "89f72171bf259447e5cbdd0eb9eee7e12c2461063fefb0beecbcd9810e3a2e3d",
+      "bytes": 19104
+    },
+    {
+      "name": "p01",
+      "sha256": "7f74b9daa7e783d0df0bca91f1917dccbf4197d9b1cfd260f4df786ccb4efb15",
+      "bytes": 13018
+    },
+    {
+      "name": "p02",
+      "sha256": "810b7fecfa429b06212058ff106c732c982f0aa0c5a916013af18434e72ad9bf",
+      "bytes": 13274
+    },
+    {
+      "name": "p03",
+      "sha256": "e95262194f1698054e1896937ee688bc2cd1860749855fdc57ac126010679f64",
+      "bytes": 13182
+    },
+    {
+      "name": "p04",
+      "sha256": "9d6658c821b204f4447d9e609ca408235f8318c2ac6e078b42e246ef40a487cd",
+      "bytes": 15772
+    },
+    {
+      "name": "p05",
+      "sha256": "78d38588eddb58e56b93c027d9953dd5134483d803bcd049462ccea724db4728",
+      "bytes": 15426
+    },
+    {
+      "name": "p06",
+      "sha256": "e86c9f8e1475a7fb10f18336e364e47e63d79e2c109e6f5d470bd50325a7c2f9",
+      "bytes": 16758
+    },
+    {
+      "name": "p07",
+      "sha256": "83f4c1d18eb95a941c0210ede1cd0e35de6d43bdeb3bf5cc02b7a6862be5edcf",
+      "bytes": 16504
+    },
+    {
+      "name": "p08",
+      "sha256": "8a4387cf312d008fd89108da42fcb128ab2f9022b652656110a9c650d4c05eb1",
+      "bytes": 14036
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

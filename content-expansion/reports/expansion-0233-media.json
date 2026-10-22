@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0233",
+  "title": "茴青把低窗画回来",
+  "version": 1,
+  "bodyCharacters": 1549,
+  "pages": 16,
+  "duration": 479.21,
+  "bodySha256": "a85810a37be6066f316fb2e9a162344d37dc067709d24215328d407c55e7207d",
+  "audioSha256": "0cdc24a8af1afd9f18dc639c60cb436b4942c4015dd839aab2c233f557c4bd06",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0dc8b741457c1660e31702e7ef06b1296f364231eab9bd77c02034323576b49a",
+      "bytes": 13232
+    },
+    {
+      "name": "p01",
+      "sha256": "da38e684c1fb67db65da793097afe77a5ff3ef3f32624e42dbe7f3d3399504a8",
+      "bytes": 10650
+    },
+    {
+      "name": "p02",
+      "sha256": "d7fc336ad438bf0ef5f40f42656acc9bf0129414be08cdd00d20ec85f916ee5a",
+      "bytes": 14360
+    },
+    {
+      "name": "p03",
+      "sha256": "986be84dd1d9833547355b08683b42ba766ccc65fcb8f9c55fde12f09bcdf1c9",
+      "bytes": 13408
+    },
+    {
+      "name": "p04",
+      "sha256": "f0fc7597be31bb03d1d440856d297821531a48227422192007c73819d01c8856",
+      "bytes": 14914
+    },
+    {
+      "name": "p05",
+      "sha256": "4df9938c3a0c0df4026f395810c618863e88a36e9d04d33e68ebfe1ad4b6c864",
+      "bytes": 14962
+    },
+    {
+      "name": "p06",
+      "sha256": "d117dc9923a20a350c6bba95c3601f541f1a1f4999802b839cd4a2973ef35339",
+      "bytes": 11136
+    },
+    {
+      "name": "p07",
+      "sha256": "92a62f5dced00262756ea77ad3e32874c638f98fae2732b892cd05efde578aeb",
+      "bytes": 12312
+    },
+    {
+      "name": "p08",
+      "sha256": "d1b9b0f3456bb07cb961480c70593f4c9e60039219eb2041159a107b76bae0cd",
+      "bytes": 12598
+    },
+    {
+      "name": "p09",
+      "sha256": "a0262bb4f4220baefba969ee403a2cd887888640c0b082eace415314848f8f07",
+      "bytes": 11392
+    },
+    {
+      "name": "p10",
+      "sha256": "81b1a3b6a67a098818af00afc575b421c30034c035cc4275c32dec718dfd000f",
+      "bytes": 12994
+    },
+    {
+      "name": "p11",
+      "sha256": "296d68c7c5db544f5c0bcb11299804db57c84dd41850a1bd7117d0b7857deb7b",
+      "bytes": 11434
+    },
+    {
+      "name": "p12",
+      "sha256": "905f9f056df96ea84bc24d527ed90d6355fa664df2e8cc6519324852b26cf1c4",
+      "bytes": 12066
+    },
+    {
+      "name": "p13",
+      "sha256": "f1b559bfe3855d0bf14b6f6abefaee5407a42d7d714035bf5c4c036d074e8e01",
+      "bytes": 14228
+    },
+    {
+      "name": "p14",
+      "sha256": "49c5802be54a0ed3b565ee91eea622ba65a8317353e324239228fa497c003f89",
+      "bytes": 13860
+    },
+    {
+      "name": "p15",
+      "sha256": "bb101a7058a345ad0ceb36e24fbd05fad7107fa4a4bf28c1303541f0c8607a57",
+      "bytes": 15106
+    },
+    {
+      "name": "p16",
+      "sha256": "e0b1e9eea27b1c15e53609159df3568e958e103d4aa8dc88c07a5774f8b0f25e",
+      "bytes": 10920
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

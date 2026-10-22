@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0254",
+  "title": "陶豆的下午还有梨",
+  "version": 1,
+  "bodyCharacters": 517,
+  "pages": 8,
+  "duration": 164.41,
+  "bodySha256": "02b20e96cd5d72c2078af9a94dd822afebc2a764fc6946074c16dcce09490707",
+  "audioSha256": "d0c8914ab72823b22fcb42d7fe475f26548aa26e821b2b873712b51530087a39",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "177bfd6f240e4714af603011b4f4601e98e1afbf9f11497d551490e944b4b8a2",
+      "bytes": 12324
+    },
+    {
+      "name": "p01",
+      "sha256": "f74f6a8deb4057a86ef2684ae684e263d51b1768d76649637b5794c97b5cc81b",
+      "bytes": 8642
+    },
+    {
+      "name": "p02",
+      "sha256": "91c27698b388d61dd4d013c2e884bf58e3f8c7e6ba7461fbc3c6eef9f10dffbf",
+      "bytes": 9036
+    },
+    {
+      "name": "p03",
+      "sha256": "f325b6a194d2c87e386a225d62ac6440f1e171e0c2649536fc0adc80d4d7b55b",
+      "bytes": 11430
+    },
+    {
+      "name": "p04",
+      "sha256": "6d9c50675a0212a013e810d876edf509db7314c8fab669cfd52a0a281468b083",
+      "bytes": 8996
+    },
+    {
+      "name": "p05",
+      "sha256": "fc59079e0b593cc47c32b58320f135fc883150415668170862d9043b4774ba6f",
+      "bytes": 8828
+    },
+    {
+      "name": "p06",
+      "sha256": "c4675ea659ff0ceb6e004b3b4f6997174f753b18c0ff846ccb7d2e43daaf7346",
+      "bytes": 8552
+    },
+    {
+      "name": "p07",
+      "sha256": "08c402aacd9d726a464bc9b35eca276bd493221aa6772019bcd0efe43e1621b9",
+      "bytes": 8882
+    },
+    {
+      "name": "p08",
+      "sha256": "c1d0f449cbbb191690f2a1713d9313c4df8ee8b6b256a4a40092e7484eccfc61",
+      "bytes": 10036
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

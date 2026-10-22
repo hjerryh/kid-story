@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0243",
+  "title": "阿扣把箱盖打开了",
+  "version": 1,
+  "bodyCharacters": 506,
+  "pages": 8,
+  "duration": 160.69,
+  "bodySha256": "55f756cca81a40c0b9d51731c9cb093a6c0d496426fe121c3392a758e2595076",
+  "audioSha256": "2aed2d2d1a2eff718126c6715b7ea160a4fde8eb8855a6a1b959d95b308de640",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b93b7a64d14f71bf857cf366c5f90a00580bded37e17827466fdd0e1d753997b",
+      "bytes": 14450
+    },
+    {
+      "name": "p01",
+      "sha256": "89d253f170af4fd68387dff8778344b3f03f95f552fcb9a7080566e076ae1c49",
+      "bytes": 12174
+    },
+    {
+      "name": "p02",
+      "sha256": "24130ae283cc2e6720a9849417caf6ba5b607a933908166f062c568a48a918e7",
+      "bytes": 12076
+    },
+    {
+      "name": "p03",
+      "sha256": "3c3fa55344b9289220840644cba722e7957328583036b760609f3382c24b2ce5",
+      "bytes": 11996
+    },
+    {
+      "name": "p04",
+      "sha256": "6e4f0386361e59e05ef51bb3bb4937ea886be78d2012961681b4ad96245813b5",
+      "bytes": 12236
+    },
+    {
+      "name": "p05",
+      "sha256": "4b5cea8737701a38c8605a7791c7b5e6d51b595595c0e226e4cde84b932bc91a",
+      "bytes": 10856
+    },
+    {
+      "name": "p06",
+      "sha256": "4bfcb766df03812755426a4d376d5be6c46ce694159e3d4497c89778b308e459",
+      "bytes": 9960
+    },
+    {
+      "name": "p07",
+      "sha256": "5cec961053d7d8c63e38d8080ff33d27ff4c754819ffc751af6d8520266ac580",
+      "bytes": 13264
+    },
+    {
+      "name": "p08",
+      "sha256": "5538accf4d00ce28bcda7022db41af32440817e488e3d6aada13984b2ca2b92d",
+      "bytes": 13376
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

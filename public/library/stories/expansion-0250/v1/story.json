@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0250",
+  "version": 1,
+  "status": "media-ready",
+  "title": "紫外套转起圈来",
+  "subtitle": "口袋里的好日子",
+  "description": "苓芽把和奶奶出游时的小宝贝都装进口袋，想带着它们跳转圈舞。可是，满满的口袋让外套变得沉甸甸。她舍不得放下任何一样，该怎么办呢？",
+  "ageBand": "3-5",
+  "theme": "珍藏回忆",
+  "color": "#A596BC",
+  "character": "小花精苓芽：浅绿色短发，头顶两片圆叶，穿有许多口袋的紫色外套、白色短裤和绿色软鞋。奶奶：银白色卷发，头顶两片圆叶，穿淡蓝色长裙。",
+  "cover": "/library/stories/expansion-0250/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 171.946,
+  "detailUrl": "/library/stories/expansion-0250/v1/story.json",
+  "audio": "/library/stories/expansion-0250/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨停了，庭院里的花叶亮晶晶。小花精苓芽拉起紫外套的两角，请奶奶跳转圈舞。她们以前常常这样跳，衣角飞起来，像两朵慢慢转动的花。今天，她还带着满口袋的宝贝。",
+      "image": "/library/stories/expansion-0250/v1/p01.webp",
+      "start": 0,
+      "end": 20.99
+    },
+    {
+      "id": "p02",
+      "text": "白石子是和奶奶看溪水时捡的，橡果帽是一起散步时找到的，还有一颗歪歪的松果。每次出门，苓芽都留下一点东西。她摸摸鼓鼓的口袋：这些好日子，我要一直带在身边。",
+      "image": "/library/stories/expansion-0250/v1/p02.webp",
+      "start": 20.99,
+      "end": 41.188
+    },
+    {
+      "id": "p03",
+      "text": "奶奶伸出手，苓芽转呀转。才转半圈，沉沉的衣角就碰到了膝盖。她停下来，把左边的石子挪到右边，又把右边的果壳挪到左边。再转，外套还是往下坠，花朵怎么也飞不起来。",
+      "image": "/library/stories/expansion-0250/v1/p03.webp",
+      "start": 41.188,
+      "end": 63.042
+    },
+    {
+      "id": "p04",
+      "text": "苓芽用两只手托住口袋，这回轻了一点，却没法牵奶奶的手了。她低头看看那些宝贝，小声说：“要是拿出来，我会不会忘了？”奶奶坐在旁边的矮凳上，给她留着一个牵手的位置。",
+      "image": "/library/stories/expansion-0250/v1/p04.webp",
+      "start": 63.042,
+      "end": 83.168
+    },
+    {
+      "id": "p05",
+      "text": "一颗松果隔着衣袋顶着腿，怪不舒服。苓芽把它拿出来，放上窗台。她忽然笑了：“那天，奶奶把松果叫成了胖菠萝！”松果已经不在口袋里，奶奶当时笑眯眯的样子，她还是记得清清楚楚。",
+      "image": "/library/stories/expansion-0250/v1/p05.webp",
+      "start": 83.168,
+      "end": 105.406
+    },
+    {
+      "id": "p06",
+      "text": "她又取出白石子、橡果帽，一样一样摆在窗台上，再走开三步，闭上眼睛。溪水凉凉的，林子里有湿叶子的香气。还有奶奶把橡果帽放在指尖，假装那是一只小茶杯。嗯，她都记得。",
+      "image": "/library/stories/expansion-0250/v1/p06.webp",
+      "start": 105.406,
+      "end": 127.596
+    },
+    {
+      "id": "p07",
+      "text": "最后一个口袋也空了。苓芽抖抖外套，衣角轻轻翘起来。她跑回奶奶身边，牵住那只暖暖的手。一步，两步，转一圈！紫色的小花终于开了，旁边还有一朵蓝色的大花，转得慢悠悠。",
+      "image": "/library/stories/expansion-0250/v1/p07.webp",
+      "start": 127.596,
+      "end": 149.69
+    },
+    {
+      "id": "p08",
+      "text": "跳累了，她们一起靠着窗台坐下。苓芽拿起橡果帽，递到奶奶手边：“请喝茶，今天是转圈茶。”奶奶假装轻轻抿了一口。阳光落在歪松果上，苓芽把它推近一点：“胖菠萝，你也来一杯吧。”",
+      "image": "/library/stories/expansion-0250/v1/p08.webp",
+      "start": 149.69,
+      "end": 171.946
+    }
+  ],
+  "buildHash": "c4c9c6289b80e541b8ab1516cb37cf653c855c188f84e0db3733843a2fbadfbe"
+}

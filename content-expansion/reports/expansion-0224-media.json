@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0224",
+  "title": "柏门还没有演完",
+  "version": 1,
+  "bodyCharacters": 961,
+  "pages": 12,
+  "duration": 289.506,
+  "bodySha256": "9816ad5cd78f9835efcdc485c57e3b46a146aeca270ba2ec8225f87638d7ff89",
+  "audioSha256": "819d3579f5b91621082ff6b735af12a1aa60aa23eaeb203b1a07f3aa789aa5a5",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "15c5225c0b764e569c251eacff462b9f361b490610f177b66c95b793e4677a26",
+      "bytes": 17328
+    },
+    {
+      "name": "p01",
+      "sha256": "e131eeaf72d9e1278335d25e2b10227e9e3d735975778f4ab9e06b42a658dc0a",
+      "bytes": 11650
+    },
+    {
+      "name": "p02",
+      "sha256": "c8fee1818809cf5b19957cab919f35f8378c4848af69fd3696d64ee7a0a4ab61",
+      "bytes": 11646
+    },
+    {
+      "name": "p03",
+      "sha256": "8a59b9a05d72269f232786326f5fe9ef93adaee54094b0552c29c146d3d94034",
+      "bytes": 12014
+    },
+    {
+      "name": "p04",
+      "sha256": "51c01c3a3300af4e3ad50902efff8c770dfbb2e4574881991673574fa1805aac",
+      "bytes": 10256
+    },
+    {
+      "name": "p05",
+      "sha256": "8cf6eea3355e9a149e8abaf48a48fce018ebc0be3397f14b57487ee2b5b99459",
+      "bytes": 11672
+    },
+    {
+      "name": "p06",
+      "sha256": "de818ca43dca844de2ff9a52f7a7a8f7376d2aa45c8a6feaa7412d2d366f9150",
+      "bytes": 12688
+    },
+    {
+      "name": "p07",
+      "sha256": "8021bf67fa548fa444d5a349dfa3c4307673084ba364c960092e3daa8356669f",
+      "bytes": 13646
+    },
+    {
+      "name": "p08",
+      "sha256": "1209762d97dd44e91729c206ae98f130234634c6f153cac58d61b87c7d902076",
+      "bytes": 11258
+    },
+    {
+      "name": "p09",
+      "sha256": "7e26d0eda313abba291a09c25e5b1553b6eeb23e13815d46904dcfaadf8899b6",
+      "bytes": 11552
+    },
+    {
+      "name": "p10",
+      "sha256": "f754721140eac5dfc9d86672a73a879075c83ebdb72729520c5f35727cf13aed",
+      "bytes": 12808
+    },
+    {
+      "name": "p11",
+      "sha256": "f2748cfb2ce647cf96a8064c2154cb3dae47c28f29317ffa61754dd3546a2bcf",
+      "bytes": 15748
+    },
+    {
+      "name": "p12",
+      "sha256": "ac22dca40263d1f7858fb25a7b62a726cec0b8c0979c39555dbdc4ebd36dee1a",
+      "bytes": 15098
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

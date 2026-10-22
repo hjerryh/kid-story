@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0245",
+  "title": "阿拂吹出一颗小岛",
+  "version": 1,
+  "bodyCharacters": 509,
+  "pages": 8,
+  "duration": 166.594,
+  "bodySha256": "5cef4bed783d95543f04a0d916f0ac9ee7b252e2b614e08c789b03f99ca94e68",
+  "audioSha256": "d5e2a9da32c7411fea4a1db5dbfc7790ed86bf30aeb3a0ca9d5526020621238a",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3531d815ca6ba637537db69b3207514224693a0b55d0a8e168c1bb65b42887f0",
+      "bytes": 15824
+    },
+    {
+      "name": "p01",
+      "sha256": "4784c6eebc981a0365bde613f5468e8c8931dd7104076de495295cd1e7286663",
+      "bytes": 13072
+    },
+    {
+      "name": "p02",
+      "sha256": "e08591aa3aea6ab9c269cc354ae00aca3717df38e712d09151bc5d315b7c0d78",
+      "bytes": 12928
+    },
+    {
+      "name": "p03",
+      "sha256": "041a2aaddd53003580fe87f8331482d26144ea208a3e23d2e71a082a31c8c463",
+      "bytes": 13772
+    },
+    {
+      "name": "p04",
+      "sha256": "d72b5393de84b51c21926e76dc3e107ca737b3048040469321049169d331477c",
+      "bytes": 13260
+    },
+    {
+      "name": "p05",
+      "sha256": "330aeb0346de5c9080d1c9f9a609655b95a8dded011b3799f5fe96d34b5788bc",
+      "bytes": 13118
+    },
+    {
+      "name": "p06",
+      "sha256": "0a195ec3f9702fabdc5c4b5eae0b5c7dc4b7db59e8aae4c0510814654e57043f",
+      "bytes": 13660
+    },
+    {
+      "name": "p07",
+      "sha256": "3cc5ed757b79b9b1f2802d471c69f5dc0ee79e5928bdac43a2993469a25f29bd",
+      "bytes": 14222
+    },
+    {
+      "name": "p08",
+      "sha256": "3abcbc3bac75352207070dd90e475b91a179f474edc8c9160d6074e21937abc1",
+      "bytes": 12900
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

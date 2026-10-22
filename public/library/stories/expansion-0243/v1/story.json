@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0243",
+  "version": 1,
+  "status": "media-ready",
+  "title": "阿扣把箱盖打开了",
+  "subtitle": "皮箱还没说再见",
+  "description": "苓苓搬进了蘑菇森林的新家，皮箱阿扣却紧紧闭着，连睡衣也不肯交出来。原来，搬家的早晨，他漏掉了一件很小、很重要的事。",
+  "ageBand": "3-5",
+  "theme": "搬家与告别",
+  "color": "#A897BC",
+  "character": "小花精苓苓：浅棕色齐耳短发，穿淡紫色连衣裙、绿色软鞋，头戴一片圆叶。皮箱阿扣：栗棕色方皮箱，两枚黄铜搭扣像眼睛，箱盖能自己开合，没有手脚。",
+  "cover": "/library/stories/expansion-0243/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 160.69,
+  "detailUrl": "/library/stories/expansion-0243/v1/story.json",
+  "audio": "/library/stories/expansion-0243/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "苓苓搬家了，从蘑菇森林东边的小屋，搬到西边的树根屋。新窗圆圆的，新床香香的。她放下皮箱阿扣，拍拍箱盖说：“把蓝格睡衣给我吧，我要铺好今晚的小床啦。”",
+      "image": "/library/stories/expansion-0243/v1/p01.webp",
+      "start": 0,
+      "end": 19.31
+    },
+    {
+      "id": "p02",
+      "text": "阿扣把两枚搭扣抿得紧紧的。“还不能拿。”他闷闷地说。苓苓以为箱底硌疼了他，找来软布垫好。阿扣舒服了一点，箱盖却仍然闭着，里面的衣服也一件没有出来。",
+      "image": "/library/stories/expansion-0243/v1/p02.webp",
+      "start": 19.31,
+      "end": 39.292
+    },
+    {
+      "id": "p03",
+      "text": "苓苓又把阿扣转向圆窗。“你看，这里能看见三顶红蘑菇帽！”阿扣看了一眼，小声说：“旧窗外只有一顶。”苓苓不再搬动他，蹲下来问：“你想跟我说说旧家吗？”",
+      "image": "/library/stories/expansion-0243/v1/p03.webp",
+      "start": 39.292,
+      "end": 58.05
+    },
+    {
+      "id": "p04",
+      "text": "“走的时候，围裙盖住了我。”阿扣说，“等围裙拿开，我们已经到这里了。我还没看一眼旧柜子，没跟门槛说再见。”苓苓摸摸他的提手：“原来，你还没准备好离开呀。”",
+      "image": "/library/stories/expansion-0243/v1/p04.webp",
+      "start": 58.05,
+      "end": 76.904
+    },
+    {
+      "id": "p05",
+      "text": "旧家并不远。苓苓提起阿扣，沿着软软的林间路走回去。这回，她让箱子朝着前面，什么也不盖。小蕨叶擦过箱角，阿扣认出了那个弯：“再走一小段，就是我们的旧门啦。”",
+      "image": "/library/stories/expansion-0243/v1/p05.webp",
+      "start": 76.904,
+      "end": 97.246
+    },
+    {
+      "id": "p06",
+      "text": "屋里空空的，旧柜子还靠着墙。苓苓把阿扣放在柜前，让他慢慢看。“谢谢你，让我睡过那么多个晚上。”阿扣说。他又看看门槛，箱盖轻轻张开一条缝，像吐出一口长气。",
+      "image": "/library/stories/expansion-0243/v1/p06.webp",
+      "start": 97.246,
+      "end": 117.9
+    },
+    {
+      "id": "p07",
+      "text": "“现在，我们回新家吧。”阿扣说。苓苓提起他，转身时又一起看了看旧屋。到了树根屋，阿扣咔嗒一声打开搭扣。蓝格睡衣躺在最上面，底下的小枕头仍有熟悉的皂角香。",
+      "image": "/library/stories/expansion-0243/v1/p07.webp",
+      "start": 117.9,
+      "end": 139.37
+    },
+    {
+      "id": "p08",
+      "text": "苓苓穿好睡衣，把阿扣安放在床脚。“今晚想关上盖子吗？”“留一道小缝吧。”阿扣说，“我想看看新窗外的蘑菇。”苓苓也侧过脸。三顶小帽子静静站着，陪他们睡了第一个晚上。",
+      "image": "/library/stories/expansion-0243/v1/p08.webp",
+      "start": 139.37,
+      "end": 160.69
+    }
+  ],
+  "buildHash": "6daa6c6f6641f86565d833a246427464edc23ef25a8cae93845b281cfa144327"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0255",
+  "version": 1,
+  "status": "media-ready",
+  "title": "沙堡肚皮上的小山",
+  "subtitle": "一座小山的约定",
+  "description": "小蟹团钳借沙堡的院子堆小山，答应玩完把地面铺平。可小山越漂亮，旁边的坑就越深。收拾的时候，他发现自己最舍不得拆掉的小山，正装着填坑需要的沙。",
+  "ageBand": "3-5",
+  "theme": "承诺与责任",
+  "color": "#E8C58D",
+  "character": "小蟹团钳：橘红色甲壳，圆眼睛，穿湖蓝色短背心，戴白色软布帽。沙堡：浅金色沙墙，两扇圆窗像眼睛，拱门像嘴巴，宽宽的院子是他的肚皮。",
+  "cover": "/library/stories/expansion-0255/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 168.442,
+  "detailUrl": "/library/stories/expansion-0255/v1/story.json",
+  "audio": "/library/stories/expansion-0255/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "浅滩旁边，住着一座会说话的沙堡。小蟹团钳问：“能在你的院子里堆小山吗？”“能呀，玩完把我的肚皮铺平就好。”团钳举起小铲：“我记住啦！”他提着桶，横着走进了门。",
+      "image": "/library/stories/expansion-0255/v1/p01.webp",
+      "start": 0,
+      "end": 20.414
+    },
+    {
+      "id": "p02",
+      "text": "团钳铲一铲，倒一倒，堆出一座胖胖的小山。他用钳尖绕着山画小路，一圈，又一圈。沙堡眯起圆窗，看得很开心。小山越长越高，旁边的圆坑也越来越深，像一只空空的大碗。",
+      "image": "/library/stories/expansion-0255/v1/p02.webp",
+      "start": 20.414,
+      "end": 42.076
+    },
+    {
+      "id": "p03",
+      "text": "玩够了，团钳拍拍背心，想回家吃点心。走到门边，他回头看看：“还有肚皮没铺平呢。”沙堡轻轻应了一声。团钳又放下桶。他摸摸山顶，真舍不得碰坏那条弯弯的小路呀。",
+      "image": "/library/stories/expansion-0255/v1/p03.webp",
+      "start": 42.076,
+      "end": 63.282
+    },
+    {
+      "id": "p04",
+      "text": "他先把坑边的沙刮进去。沙粒沙沙落下，坑底高了一点，坑口却宽了一圈。他换个方向再刮，旁边又低下去一块。“咦，怎么越铺越不平？”团钳停住小铲，蹲下来瞧了好一会儿。",
+      "image": "/library/stories/expansion-0255/v1/p04.webp",
+      "start": 63.282,
+      "end": 84.2
+    },
+    {
+      "id": "p05",
+      "text": "团钳把空桶放进坑里，比一比，又望望小山。坑有多大，小山也差不多大。原来，肚皮上的沙都搬到山上去了。他的小钳子停在山顶：“可是，我的小路还没让你仔细看呢。”",
+      "image": "/library/stories/expansion-0255/v1/p05.webp",
+      "start": 84.2,
+      "end": 104.662
+    },
+    {
+      "id": "p06",
+      "text": "“那就再看一遍。”沙堡说。团钳沿着小路，慢慢走到山后，又走回来。“这一圈最好看。”他说完，轻轻铲下山顶，把沙送回坑里。一铲，一铲，小山矮下去，圆坑也浅下去。",
+      "image": "/library/stories/expansion-0255/v1/p06.webp",
+      "start": 104.662,
+      "end": 126.948
+    },
+    {
+      "id": "p07",
+      "text": "最后一点沙填进去了，地上还有几个小鼓包。团钳用平平的桶底轻轻压一压，再用铲背抹一抹。他倒退着往门口走，把自己的脚印也抹平。走到门边，院子像一块软软的黄饼。",
+      "image": "/library/stories/expansion-0255/v1/p07.webp",
+      "start": 126.948,
+      "end": 147.938
+    },
+    {
+      "id": "p08",
+      "text": "沙堡舒舒服服地打了个呵欠：“肚皮平啦。”团钳提起小桶，站在门外问：“下回还能来吗？”“能呀，我记得你的小山。”海风轻轻吹过圆窗。团钳也轻声说：“我记得你的肚皮。”",
+      "image": "/library/stories/expansion-0255/v1/p08.webp",
+      "start": 147.938,
+      "end": 168.442
+    }
+  ],
+  "buildHash": "fd9dbf34e56905a16fb53872d82180652e842f70dcb6634385d7a1460ee2856d"
+}

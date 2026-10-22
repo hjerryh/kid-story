@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0244",
+  "title": "越找越热的小桃子",
+  "version": 1,
+  "bodyCharacters": 519,
+  "pages": 8,
+  "duration": 172.33,
+  "bodySha256": "3a78e6b40d91adeaef0e488bcdfb5888b6e49fbdd4e6841efb153d055d4fb0e3",
+  "audioSha256": "344645de5d5fbcc459410bf279b815f4ec80e966e64bd12bc08682f6066b5970",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "a41eebf7060e1ccbaa4e22a939b8f96fb5ba166da4746916e48ada12cf8cd95f",
+      "bytes": 13920
+    },
+    {
+      "name": "p01",
+      "sha256": "b02515a6948c517a7793a8940c7d418640f6a8e056e9afb84ec7113b8d3cd663",
+      "bytes": 12196
+    },
+    {
+      "name": "p02",
+      "sha256": "4a7c64f37442c117952eec6418d8bc389192a8cb48ee081c6632736586fb90c1",
+      "bytes": 12948
+    },
+    {
+      "name": "p03",
+      "sha256": "1a6e2690603d4020aa6962028329d027c591ce458c965305108d6bdc77fbcfa6",
+      "bytes": 13126
+    },
+    {
+      "name": "p04",
+      "sha256": "4a32917d8db4687ec7850dc8492ad6d0d4855c8daf999d2cc88bf33102763e81",
+      "bytes": 13188
+    },
+    {
+      "name": "p05",
+      "sha256": "9aa5da58cb467d3682090cb94c5901e0f1b29a5c470638c10e76001a55cd9540",
+      "bytes": 13116
+    },
+    {
+      "name": "p06",
+      "sha256": "5d5dd107e015ced9b5b20faacebe01e225ec36f9679344c538cc6f2054670782",
+      "bytes": 13072
+    },
+    {
+      "name": "p07",
+      "sha256": "fa90dee31345a3501fc62014573c456060e1989eb26f5905b846d14f258fa753",
+      "bytes": 13888
+    },
+    {
+      "name": "p08",
+      "sha256": "0559be7ee9e2696abaf0cedae288b7ee1f2b6255ef2f2ed6cfc4ec36b4c4fd01",
+      "bytes": 13142
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

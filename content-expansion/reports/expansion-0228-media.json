@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0228",
+  "title": "露珠兜旁边的名字",
+  "version": 1,
+  "bodyCharacters": 905,
+  "pages": 12,
+  "duration": 273.018,
+  "bodySha256": "536accdb6b125e1927cef71f09303bfdd560370a24198f6ecaaeeb8f88fd8687",
+  "audioSha256": "798c77e49e76b64adc0f8dbfd9951e0e61c6a3b78aa97ec44a5dfb235e661b81",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6c12dda418b564afadf1b89efeac729c1a3ab5075330a2f6764e11cf95b97455",
+      "bytes": 20900
+    },
+    {
+      "name": "p01",
+      "sha256": "250964861294d828401fd643f8e6862ce8550880b944a19b556d7ad91cb3f5c5",
+      "bytes": 14216
+    },
+    {
+      "name": "p02",
+      "sha256": "964b7422aede0de63551713935066d9d0cc791b90d0e734ab8c27ea079c2d0aa",
+      "bytes": 14820
+    },
+    {
+      "name": "p03",
+      "sha256": "26cf90e34a908f4fef38308a422b73a39ae4a448605ff1c202e22071d08be021",
+      "bytes": 14736
+    },
+    {
+      "name": "p04",
+      "sha256": "3cff57e7bd9977d28468804eb16f9a88923315044b3201d151d0ccd3fd9e6b7b",
+      "bytes": 17120
+    },
+    {
+      "name": "p05",
+      "sha256": "035f10b7b8043f73fd510d667dc00775294e38d84684d96741463e10694164b3",
+      "bytes": 13526
+    },
+    {
+      "name": "p06",
+      "sha256": "fdf97f420f7025835484d0751580e6ab3010f17de42a9e87666cc9cfe7d8a37a",
+      "bytes": 12716
+    },
+    {
+      "name": "p07",
+      "sha256": "3c1ecb7a7f4518f8cc8a820dcf1c9c05d133355e0cf0b9af5bbc39e06a818ba9",
+      "bytes": 15012
+    },
+    {
+      "name": "p08",
+      "sha256": "db2ea961a1b606fe2f511feb28b52cf5f5b5855c547559e6107af25fe8788514",
+      "bytes": 15926
+    },
+    {
+      "name": "p09",
+      "sha256": "9833fb1637d6756f58186d7a4765d3a6dc1a861e70921268f9228eb6d219bb2e",
+      "bytes": 15300
+    },
+    {
+      "name": "p10",
+      "sha256": "d0e5246e162f6a16363874896fb62400e10bc71895abe35da0748f741f566e4d",
+      "bytes": 15918
+    },
+    {
+      "name": "p11",
+      "sha256": "0b9abb6789a8524c6a424e5945ef8efcd81fc1f214bd99ac9d67c09a2f54f467",
+      "bytes": 15870
+    },
+    {
+      "name": "p12",
+      "sha256": "d576fd7d69ec60034ed31e0a23fa19f2a6746953c743e03e56e90d557248ae17",
+      "bytes": 15458
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

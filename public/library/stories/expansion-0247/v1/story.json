@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0247",
+  "version": 1,
+  "status": "media-ready",
+  "title": "灯豆歇一会儿",
+  "subtitle": "给黄花留一点夜色",
+  "description": "麦铃带着会说话的小提灯，去雨伞山坡看飞蛾喝花蜜。可飞蛾围着灯转个不停，怎么也不到花边。想把花照得更亮的她，要怎样等来盼望中的相遇？",
+  "ageBand": "3-5",
+  "theme": "夜间花园",
+  "color": "#687B98",
+  "character": "小女孩麦铃：黑色齐耳短发，圆脸，穿浅紫色长袖裙、白袜和棕色布鞋。灯豆：一盏圆肚子的黄色小提灯，灯罩上有两只圆眼睛和一张小嘴，不会自己走动。",
+  "cover": "/library/stories/expansion-0247/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 154.594,
+  "detailUrl": "/library/stories/expansion-0247/v1/story.json",
+  "audio": "/library/stories/expansion-0247/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨伞山坡上，月见草开出了黄黄的花。麦铃提着小灯豆，沿石板路走来。她想看看，飞蛾怎样把细长的嘴伸进花里喝蜜。灯豆挺起圆肚子说：“我来照亮！”",
+      "image": "/library/stories/expansion-0247/v1/p01.webp",
+      "start": 0,
+      "end": 18.734
+    },
+    {
+      "id": "p02",
+      "text": "麦铃坐上花旁的小长凳，把灯豆放在身边。嗡，一只灰褐色的飞蛾来了。它绕着灯罩转了一圈，又转一圈。黄花就在旁边，像一只只小杯子，它却没有停下。",
+      "image": "/library/stories/expansion-0247/v1/p02.webp",
+      "start": 18.734,
+      "end": 37.9
+    },
+    {
+      "id": "p03",
+      "text": "“是不是花不够亮？”麦铃把灯豆调亮一点。花瓣亮了，叶子也亮了，飞蛾还是围着灯转。灯豆轻轻叫：“花在那边呀！”可飞蛾贴着灯罩飞，翅膀一闪一闪。",
+      "image": "/library/stories/expansion-0247/v1/p03.webp",
+      "start": 37.9,
+      "end": 57.138
+    },
+    {
+      "id": "p04",
+      "text": "麦铃提起灯豆，往左挪，飞蛾也往左飞。她换到右手，飞蛾又跟过来。她停住了：“原来，你一直跟着灯光呀。”灯豆看看花，又看看自己：“是我把它引过来啦。”",
+      "image": "/library/stories/expansion-0247/v1/p04.webp",
+      "start": 57.138,
+      "end": 76.52
+    },
+    {
+      "id": "p05",
+      "text": "“那我先歇一歇。”灯豆说。麦铃却有点舍不得关灯，暗下来，还怎么看花呢？她摸摸长凳，稳稳坐好：“我们不走动，就在这里等。”说完，她轻轻转动了小旋钮。",
+      "image": "/library/stories/expansion-0247/v1/p05.webp",
+      "start": 76.52,
+      "end": 96.166
+    },
+    {
+      "id": "p06",
+      "text": "灯光没了。起初，麦铃只看见黑黑的一团树。她坐着等了一会儿，月光下的黄花渐渐看得清了。风带来淡淡的花香。那只飞蛾离开灯豆，在花丛上方轻轻绕行。",
+      "image": "/library/stories/expansion-0247/v1/p06.webp",
+      "start": 96.166,
+      "end": 116.148
+    },
+    {
+      "id": "p07",
+      "text": "终于，飞蛾落在一朵黄花上，伸出细长的嘴。麦铃看见了，开心得差点叫起来，又把声音放得小小的：“它喝到蜜啦。”灯豆没有发亮，只用圆眼睛望着那朵花。",
+      "image": "/library/stories/expansion-0247/v1/p07.webp",
+      "start": 116.148,
+      "end": 134.834
+    },
+    {
+      "id": "p08",
+      "text": "飞蛾换了一朵花，麦铃也该回家了。她提起灯豆，走离花丛，才把灯调出一点微光，照着脚下的路。“今晚我歇得真舒服。”灯豆说。身后的黄花，静静盛着月光。",
+      "image": "/library/stories/expansion-0247/v1/p08.webp",
+      "start": 134.834,
+      "end": 154.594
+    }
+  ],
+  "buildHash": "7866e3a84b45e4af9074ad4f4cd12c167d3887a11ec4ce164725ee7c833246be"
+}

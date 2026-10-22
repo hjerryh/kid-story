@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0248",
+  "version": 1,
+  "status": "media-ready",
+  "title": "蓬花转了半个圈",
+  "subtitle": "花毯下面藏着什么",
+  "description": "栗莓想在树林音乐屋里和花毯跳舞，却把扫来的灰尘藏到了花毯下面。花毯打起了喷嚏，一支舞怎么也跳不成。栗莓得把藏起来的灰尘，还有那句话，一起拿出来。",
+  "ageBand": "3-5",
+  "theme": "诚实与补救",
+  "color": "#91B9A3",
+  "character": "小浣熊栗莓：灰褐色绒毛，黑眼圈，蓬松的环纹尾巴，穿紫色围裙。花毯蓬花：长方形浅绿色地毯，四角有短流苏，中央有一朵粉红色大花，花心是会说话的小嘴。",
+  "cover": "/library/stories/expansion-0248/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 165.322,
+  "detailUrl": "/library/stories/expansion-0248/v1/story.json",
+  "audio": "/library/stories/expansion-0248/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "树林音乐屋里，住着一张会跳舞的花毯，叫蓬花。小浣熊栗莓最爱跟她转圈。今天，地板上落了许多灰。栗莓抱来小扫帚，说：“我先扫干净，我们再跳一支圆圆的舞！”",
+      "image": "/library/stories/expansion-0248/v1/p01.webp",
+      "start": 0,
+      "end": 20.342
+    },
+    {
+      "id": "p02",
+      "text": "栗莓扫过窗边，又扫过椅脚，灰尘聚成一小堆。她还想快点跳舞，便掀起蓬花的一角，把灰全扫了进去。“扫好了吗？”蓬花问。“好啦，干干净净！”栗莓把扫帚藏到背后。",
+      "image": "/library/stories/expansion-0248/v1/p02.webp",
+      "start": 20.342,
+      "end": 41.668
+    },
+    {
+      "id": "p03",
+      "text": "蓬花抬起四角的流苏，轻轻一转。灰尘从身下扑起来，钻进花心里的小嘴。“阿嚏！”她打了一个大喷嚏，趴回地上。栗莓也停住了脚。刚刚开始的圆圈，才画了半个。",
+      "image": "/library/stories/expansion-0248/v1/p03.webp",
+      "start": 41.668,
+      "end": 62.586
+    },
+    {
+      "id": "p04",
+      "text": "栗莓赶紧把毯角压平：“我们慢慢转吧。”可是，蓬花刚一动，又打了喷嚏。栗莓拍拍毯面，想让她舒服些，灰却从另一边冒出来。蓬花皱起花心：“我下面是不是有灰呀？”",
+      "image": "/library/stories/expansion-0248/v1/p04.webp",
+      "start": 62.586,
+      "end": 82.568
+    },
+    {
+      "id": "p05",
+      "text": "栗莓摸着围裙边，小声说：“有。是我扫进去的。我想早点跳舞，还说已经扫干净了。对不起。”蓬花的流苏垂下来：“怪不得痒痒的。请把灰拿走吧，我想舒舒服服地转圈。”",
+      "image": "/library/stories/expansion-0248/v1/p05.webp",
+      "start": 82.568,
+      "end": 103.726
+    },
+    {
+      "id": "p06",
+      "text": "“这回我把下面也扫好。”栗莓慢慢卷起蓬花，让花心朝外，露出那堆灰。她不再挥着扫帚跑，而是贴着地板，一点一点往中间拢。扫过的地方，露出了黄黄的木头纹路。",
+      "image": "/library/stories/expansion-0248/v1/p06.webp",
+      "start": 103.726,
+      "end": 123.9
+    },
+    {
+      "id": "p07",
+      "text": "栗莓拿来簸箕，把灰扫进去，倒进垃圾桶，盖好盖子。她又看了看毯子原来躺着的地方，连椅脚旁也检查了。最后，她把蓬花轻轻展开。蓬花扭扭身子：“嗯，这下面不痒啦。”",
+      "image": "/library/stories/expansion-0248/v1/p07.webp",
+      "start": 123.9,
+      "end": 144.962
+    },
+    {
+      "id": "p08",
+      "text": "蓬花先转了一个小圈，又转了一个大圈。栗莓跟在旁边，尾巴也弯成圆圆的。她们跳过一块暖暖的阳光，谁也没有打喷嚏。跳累了，栗莓坐下来，蓬花用流苏轻轻碰了碰她的脚。",
+      "image": "/library/stories/expansion-0248/v1/p08.webp",
+      "start": 144.962,
+      "end": 165.322
+    }
+  ],
+  "buildHash": "c57066fbe65965afcaa58a1d937ebaf96731048fb9f949548f68704ed97ea87f"
+}

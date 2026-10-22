@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0246",
+  "version": 1,
+  "status": "media-ready",
+  "title": "雏菊旁边空一点",
+  "subtitle": "空墙上的两朵花",
+  "description": "花籽仓库有一面空墙，麦粒想画一朵最漂亮的花挂上去。他喜欢大大的向日葵，乌圆却喜欢小小的雏菊。一张画纸上，谁的花能留下来？",
+  "ageBand": "3-5",
+  "theme": "不同喜好",
+  "color": "#A8BC83",
+  "character": "小田鼠麦粒：浅棕毛，圆耳朵，穿蓝色短背心，尾巴细长。小鼹鼠乌圆：灰黑绒毛，粉鼻头，穿绿色围裙，戴圆框眼镜。两人的外观与衣着各页保持一致。",
+  "cover": "/library/stories/expansion-0246/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 159.826,
+  "detailUrl": "/library/stories/expansion-0246/v1/story.json",
+  "audio": "/library/stories/expansion-0246/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "花籽仓库里，纸袋沙沙响。小田鼠麦粒望着空墙说：“这里该开一朵花！”他抱来画纸，想画一朵最漂亮的花，让自己和小鼹鼠乌圆每天进门，都能看见它。",
+      "image": "/library/stories/expansion-0246/v1/p01.webp",
+      "start": 0,
+      "end": 18.134
+    },
+    {
+      "id": "p02",
+      "text": "麦粒翻出花朵图卡，指着向日葵：“画它！黄黄的，大大的，像太阳。”乌圆却摸摸另一张图卡：“我喜欢小雏菊，白白的，花瓣细细的。”麦粒把两张图卡并排看了好一会儿。",
+      "image": "/library/stories/expansion-0246/v1/p02.webp",
+      "start": 18.134,
+      "end": 38.668
+    },
+    {
+      "id": "p03",
+      "text": "“那就画一朵大雏菊吧！”麦粒挥起画笔，白花瓣从纸这头伸到那头。乌圆张开两只胳膊，说：“它好大呀。可是，我喜欢的那朵，小小的，像落在草里的一个轻轻的吻。”",
+      "image": "/library/stories/expansion-0246/v1/p03.webp",
+      "start": 38.668,
+      "end": 58.554
+    },
+    {
+      "id": "p04",
+      "text": "麦粒翻过纸，画了好多向日葵，又在下面添一朵小雏菊。“这回都有啦！”乌圆凑近找，鼻尖快碰到纸了，才找到那一点白。麦粒自己看了看，也觉得雏菊像被挤到了门外。",
+      "image": "/library/stories/expansion-0246/v1/p04.webp",
+      "start": 58.554,
+      "end": 78.68
+    },
+    {
+      "id": "p05",
+      "text": "乌圆用两只手遮住旁边的黄花，只露出小雏菊。“我想这样看它。”麦粒低下头，看见一片白花瓣微微弯着，像在伸懒腰。原来，小小的一朵，也有好多可以慢慢看的地方。",
+      "image": "/library/stories/expansion-0246/v1/p05.webp",
+      "start": 78.68,
+      "end": 98.974
+    },
+    {
+      "id": "p06",
+      "text": "不过，麦粒还是想画大大的向日葵。他看看画纸，又看看宽宽的空墙，忽然把旧稿收到桌角，拿来两张新纸。“墙上坐得下两朵花！”他把一支画笔递给乌圆，自己也拿起一支。",
+      "image": "/library/stories/expansion-0246/v1/p06.webp",
+      "start": 98.974,
+      "end": 119.748
+    },
+    {
+      "id": "p07",
+      "text": "麦粒画了一朵胖胖的向日葵，黄花瓣快碰到纸边。乌圆画了一朵小雏菊，四周留下软软的绿草。他们把画摆在墙边，中间空出一点距离。谁的花瓣也没有盖住谁。",
+      "image": "/library/stories/expansion-0246/v1/p07.webp",
+      "start": 119.748,
+      "end": 139.274
+    },
+    {
+      "id": "p08",
+      "text": "画干了，两人把它们挂好，又搬来两把小椅子。麦粒坐在向日葵下面，乌圆坐在雏菊下面。他们捧着温水，脚尖轻轻晃。杯子碰了一下，叮，像两朵不一样的花打了招呼。",
+      "image": "/library/stories/expansion-0246/v1/p08.webp",
+      "start": 139.274,
+      "end": 159.826
+    }
+  ],
+  "buildHash": "7683fc449a1e423b64c94d7142b69431c35c8a4cf9ca746e0f9f2287f5a30e76"
+}

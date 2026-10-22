@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0230",
+  "title": "卷耳记得两只盒子",
+  "version": 1,
+  "bodyCharacters": 1064,
+  "pages": 12,
+  "duration": 316.29,
+  "bodySha256": "4693d7796677906a6efd90957c00e34e56832d201191e7f3aab9e5504dfb6f8f",
+  "audioSha256": "89200faa83b18fcac0152eee9e064dfda24112ae8e673282ef917356f40ed978",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "19a951b7a7ab9e68526481f17e3845ad8b70ccaed36537c7fca8128cf2a5aa5b",
+      "bytes": 16914
+    },
+    {
+      "name": "p01",
+      "sha256": "c8361dd4d05f3c562025e9ba687b18cdecc012b88c44d2239f61679f0b19fe9c",
+      "bytes": 12706
+    },
+    {
+      "name": "p02",
+      "sha256": "aa2f2fc8fcdadb8d43eb9f7842e7cfac02a05f6afc1427fafebeb90481483a57",
+      "bytes": 12380
+    },
+    {
+      "name": "p03",
+      "sha256": "2975f430dfead96d8cf947a07bf624354b226451e0086c132aac9aded6b8c6b5",
+      "bytes": 14158
+    },
+    {
+      "name": "p04",
+      "sha256": "1b80d4481d234f0cad191a9b4426e227d6b0d296c57b559e521bcfca1f1bd321",
+      "bytes": 14100
+    },
+    {
+      "name": "p05",
+      "sha256": "d30c5d56bc96b0aaa846eec9b368c1c9a098a5086aae2058d589cea4a79f1efb",
+      "bytes": 13902
+    },
+    {
+      "name": "p06",
+      "sha256": "19dc17922d4974a15d12fea5ae321645c041e1b44547f7f4930b271a54355ae9",
+      "bytes": 13532
+    },
+    {
+      "name": "p07",
+      "sha256": "c34c799ad663bf2e3efbdc04297ee84a92c3602d6c3bb6d2cd38b8da08648068",
+      "bytes": 13606
+    },
+    {
+      "name": "p08",
+      "sha256": "b5cdbb2313c3e22dfb124213bc00bde3fc77bc55be016d0641b0b8408d46e4d9",
+      "bytes": 13338
+    },
+    {
+      "name": "p09",
+      "sha256": "a7aab63bddfca60f94719805ccf39bc566cfc336c5fce25102dc8267cd45e2f1",
+      "bytes": 14132
+    },
+    {
+      "name": "p10",
+      "sha256": "d3600071fe4e6793325a5c97e65190d4788e1a22032b1ebe52e263bcade2466a",
+      "bytes": 14496
+    },
+    {
+      "name": "p11",
+      "sha256": "b50b24d8740d89d6c5ea9946a77f3b35a25b0bcebd6f3a6bc01942a34ecb4696",
+      "bytes": 14040
+    },
+    {
+      "name": "p12",
+      "sha256": "5875bea169b7f487ddbeaf587ff4630bc6a53bbf90836b4b248cbb0ba8b63f61",
+      "bytes": 14192
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

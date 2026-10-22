@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0249",
+  "title": "穗穗还没藏进去",
+  "version": 1,
+  "bodyCharacters": 477,
+  "pages": 8,
+  "duration": 160.066,
+  "bodySha256": "0afaee32b801067fc9451a70a74b56f8da93dacadd3f3a1bdd7910eecc829ec9",
+  "audioSha256": "2c230341f547d0aaafb829babe33064476593c9ae4c325fb851fbe36324cc2a6",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6ed0e987190c0cd6edbd446ccd3be6f072c5ba6b990746c316c0612bbe44e5dc",
+      "bytes": 15210
+    },
+    {
+      "name": "p01",
+      "sha256": "e7080126b41c819b813df1515c2b60bb0a818dd21272a2f0fe59045a35774143",
+      "bytes": 14202
+    },
+    {
+      "name": "p02",
+      "sha256": "fc8624cf9d220a1ab0bb96a493ed31053970f81db3719ec491fa67e184794ec2",
+      "bytes": 11308
+    },
+    {
+      "name": "p03",
+      "sha256": "0b8430e5d9f710b992bff259a26fa80ea512dea6a4da0425d2e3d8cfca642b3a",
+      "bytes": 14120
+    },
+    {
+      "name": "p04",
+      "sha256": "75870b75a609c68c81221173eaef26bd1bb42e3da67ae10deab7aad9263d9684",
+      "bytes": 13710
+    },
+    {
+      "name": "p05",
+      "sha256": "bbac539dd8f910ae6aa1956cc726b616c23076d10a9d1bf9ce30ffa66943d5d9",
+      "bytes": 14440
+    },
+    {
+      "name": "p06",
+      "sha256": "3647022da631e3564cf2c582d2a1d277fe310f85c2736e71ae0f95153ead1ca0",
+      "bytes": 13546
+    },
+    {
+      "name": "p07",
+      "sha256": "fc1f8e22ab7f155dc3dfdad495a2842077937a7b0b7caee5c43018749ef8e477",
+      "bytes": 14674
+    },
+    {
+      "name": "p08",
+      "sha256": "69cbd9f3fafcfb03ee1b618ddaf838bf97bd76d73cd82767140a386ba4573319",
+      "bytes": 14108
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

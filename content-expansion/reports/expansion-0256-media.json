@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0256",
+  "title": "慢条的早晨有星星",
+  "version": 1,
+  "bodyCharacters": 499,
+  "pages": 8,
+  "duration": 160.618,
+  "bodySha256": "fdb8f950865f6c40ff95a2c1ac5e9d841fc16d36e68ce3e6205f2fd1c8805dfe",
+  "audioSha256": "6f14d8ac0097678bba57c5189a06b08c3d1c2f57510666116385ecf9b45cf29f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "c7a1da73799c3919030fc33351dcc4d43c711c53db9b0eacb1e1e3b1639e4769",
+      "bytes": 14310
+    },
+    {
+      "name": "p01",
+      "sha256": "2bd6bda2bbdc38a72c138221b4cfadfdf5e7a1ef9e11d2a87d6601b8eb2d014f",
+      "bytes": 11648
+    },
+    {
+      "name": "p02",
+      "sha256": "f3802540bf5ce752fd98b7c6b15ccfd7f1693c3dd59ecf42ff74a86cae038e70",
+      "bytes": 12194
+    },
+    {
+      "name": "p03",
+      "sha256": "fcea3e74adb9863ef81854f7dd4869f1c3e0dea395b00b72000474763ce0b1f4",
+      "bytes": 11782
+    },
+    {
+      "name": "p04",
+      "sha256": "689ae5718226dd3855dfee582f7571d73620faba4d176ba557aed37f52c4ea18",
+      "bytes": 14044
+    },
+    {
+      "name": "p05",
+      "sha256": "c3d8c86ebe7b1218343090bd749e421eef3b1072e98ea4e5e7fb6169de771893",
+      "bytes": 14570
+    },
+    {
+      "name": "p06",
+      "sha256": "b07c0be15f1bf4e47af64e74cab69e6d9060e87cab69c02d2ce06f20c98a2c9c",
+      "bytes": 14574
+    },
+    {
+      "name": "p07",
+      "sha256": "477f80742d3829a003dfd4a0acf86235d616e1ad2fd8df1f7d81b3daf3fcfddc",
+      "bytes": 14846
+    },
+    {
+      "name": "p08",
+      "sha256": "36cdb4bc219991b4de67ecd5cf85722f063c69c51d2b26ead320eb2055d9dbea",
+      "bytes": 14522
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

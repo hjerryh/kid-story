@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0225",
+  "title": "跑跑篮的下一格",
+  "version": 1,
+  "bodyCharacters": 1048,
+  "pages": 12,
+  "duration": 313.506,
+  "bodySha256": "7cdd60b65fc7df4a810005fb84c25b42735ae3267e4c72d938d56c668bba00a3",
+  "audioSha256": "a081b0bec49bb1d56c3ea31a619796e03f0745add1b8a643b35e1a040e2e0881",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "96ba3267f7e2e553e49eb6d3ff09e0016dc49e081368208a7ca0cee9d0f4c304",
+      "bytes": 18960
+    },
+    {
+      "name": "p01",
+      "sha256": "77d88b38575e15089db911a2ad523af66526979e8e98634d49d8ce3636f01cd0",
+      "bytes": 16254
+    },
+    {
+      "name": "p02",
+      "sha256": "cc16e7d2ae14f3dae519f37755f224c1eda3a82ed8ea88e600c70010d1e4e90a",
+      "bytes": 15568
+    },
+    {
+      "name": "p03",
+      "sha256": "d668539e5b1bf993fa55ec781fc161fc3cc51976c58a40fc6390c1e1cc25a2cb",
+      "bytes": 15674
+    },
+    {
+      "name": "p04",
+      "sha256": "dbc020dba3453537b268dea0f7917ae61c9739529bb27dfb9cccdc20746ec0e8",
+      "bytes": 16326
+    },
+    {
+      "name": "p05",
+      "sha256": "342ac4add1346eaec88912c30f66b9f4316cbb482c50381c594a860dc3ae7a7b",
+      "bytes": 15494
+    },
+    {
+      "name": "p06",
+      "sha256": "e2c44223587fab4a89cae2e89987ac1903208695fc748aff000a9f618f4d2546",
+      "bytes": 15610
+    },
+    {
+      "name": "p07",
+      "sha256": "50fe90e30308f8907011a23d2629d61c09f472a3c8396da4e13aba72485f19ce",
+      "bytes": 15898
+    },
+    {
+      "name": "p08",
+      "sha256": "76bc3d4ed6063ba3cd610c06e2507e16f326f81e205891c417d2620d9706b0a3",
+      "bytes": 15626
+    },
+    {
+      "name": "p09",
+      "sha256": "d1def1220e09889a4fec399dddc9e322fa64f83e01c7e4d1e86a98949442330d",
+      "bytes": 14748
+    },
+    {
+      "name": "p10",
+      "sha256": "77d08dfa6c6cfe9cac2877342dbe3209161cdcc63ca78f195322c34da3a292d6",
+      "bytes": 15734
+    },
+    {
+      "name": "p11",
+      "sha256": "51f96960ddecc92b13f7795c0b7271756b2d85ef121f5e73593abecbd76d92f5",
+      "bytes": 16696
+    },
+    {
+      "name": "p12",
+      "sha256": "52f800c63230d5c8e0750d5a9d3176a1b1e9c1305eda18b857281db20adb6056",
+      "bytes": 15394
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

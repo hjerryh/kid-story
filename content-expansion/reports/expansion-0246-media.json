@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0246",
+  "title": "雏菊旁边空一点",
+  "version": 1,
+  "bodyCharacters": 510,
+  "pages": 8,
+  "duration": 159.826,
+  "bodySha256": "3e87179d624303c7f5db19a9649e92db75c83d7ccd20dd5a2b630adac37618db",
+  "audioSha256": "85ed90aa85a6c6b84337fda7d479b1b0376b35591e8e8498c32771ba5a5bbab7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ad69af792b30905387b9187dcef747558745ffabc1cea046ad2d5b246e5733a4",
+      "bytes": 14928
+    },
+    {
+      "name": "p01",
+      "sha256": "0f4883adf126eb05ac1d8dd8cc8c6b0e7f7d3e7eeb61c28709b90eda2f73508b",
+      "bytes": 9720
+    },
+    {
+      "name": "p02",
+      "sha256": "8c999bb8b39440c547becec1983bfe35021b21c3f827295397c573001611aae3",
+      "bytes": 11810
+    },
+    {
+      "name": "p03",
+      "sha256": "8b0decae547d03711340e1a6de1f01551961e5459ef566c67086a7407a837c99",
+      "bytes": 11306
+    },
+    {
+      "name": "p04",
+      "sha256": "9f751dab45cef8471f471bd0cc1a502a7a707b57a771b769890788fdc6919e3c",
+      "bytes": 13240
+    },
+    {
+      "name": "p05",
+      "sha256": "f951929f525d1358116975afe07b2c4a0b927fd35d468ef4671a1dd1399c33a4",
+      "bytes": 11320
+    },
+    {
+      "name": "p06",
+      "sha256": "253858f0aa8040070643b66adee49beb533e592179e171f15a8fa03eb7eb9fb8",
+      "bytes": 11060
+    },
+    {
+      "name": "p07",
+      "sha256": "6cb235120ee3f1eaf6c93b99567e3f6e83d81da12e88060ac04620c40c8125dc",
+      "bytes": 12622
+    },
+    {
+      "name": "p08",
+      "sha256": "903f5e2b8dec6017a0ca0a63a3fa31adfb9b039aa705d08d50ccb7a9f1cdcc1c",
+      "bytes": 11862
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

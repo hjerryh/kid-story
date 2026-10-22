@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0242",
+  "version": 1,
+  "status": "media-ready",
+  "title": "箱箱留着最胖的那一段",
+  "subtitle": "安静也可以一起",
+  "description": "逛完集市，芦团和会走路的小木箱一起过长桥。箱箱有说不完的话，芦团却累得只想安静一会儿。怎样才能让朋友知道，想安静，也想和他待在一起？",
+  "ageBand": "3-5",
+  "theme": "表达需要",
+  "color": "#91B8AB",
+  "character": "小水獭芦团：棕色绒毛，圆耳朵，穿浅绿色短外套，背米白色小布包。箱箱：栗色小木箱，黄铜圆扣像鼻子，四只短木脚，箱盖内侧有一张会说话的小嘴。",
+  "cover": "/library/stories/expansion-0242/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 155.962,
+  "detailUrl": "/library/stories/expansion-0242/v1/story.json",
+  "audio": "/library/stories/expansion-0242/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "逛完东岸的集市，芦团和小木箱箱箱一起回家。箱箱长着四只短脚，一掀箱盖就会说话。他说起糖果摊，又说起花布摊。芦团走上长桥，打了一个圆圆的哈欠。",
+      "image": "/library/stories/expansion-0242/v1/p01.webp",
+      "start": 0,
+      "end": 19.43
+    },
+    {
+      "id": "p02",
+      "text": "“还有那个大萝卜，比我的肚子还胖！”箱箱咯咯笑。芦团也喜欢大萝卜，可他听了一天叫卖声，脑袋已经满满的。他只轻轻点头，希望嘴巴歇着，耳朵也能歇一歇。",
+      "image": "/library/stories/expansion-0242/v1/p02.webp",
+      "start": 19.43,
+      "end": 38.356
+    },
+    {
+      "id": "p03",
+      "text": "箱箱看见他点头，讲得更起劲了。芦团想说一句话，又抿住嘴。箱箱今天陪他挑了好久的花布，还替他装了东西。要是请他别说了，他会不会以为自己不喜欢他呢？",
+      "image": "/library/stories/expansion-0242/v1/p03.webp",
+      "start": 38.356,
+      "end": 57.834
+    },
+    {
+      "id": "p04",
+      "text": "芦团坐到桥边的长凳上，终于说：“箱箱，我累了，想安静一会儿。”箱箱的盖子慢慢落下来。“哦，那我先走，你一个人坐坐。”四只小木脚朝西岸转了过去。",
+      "image": "/library/stories/expansion-0242/v1/p04.webp",
+      "start": 57.834,
+      "end": 76.688
+    },
+    {
+      "id": "p05",
+      "text": "“等等，我想和你一起！”芦团赶紧说，“我只是暂时不想聊天。你能陪我坐着，再陪我慢慢走吗？”箱箱转回来：“不说话，也陪着？”“嗯，你在旁边就很好。”",
+      "image": "/library/stories/expansion-0242/v1/p05.webp",
+      "start": 76.688,
+      "end": 95.374
+    },
+    {
+      "id": "p06",
+      "text": "箱箱把四只脚并拢，停在长凳旁，轻轻合好盖子。风从桥栏间穿过，凉凉地碰了碰芦团的脸。一片叶子翻了个跟头。这回，他不用赶着回答什么，肩膀慢慢松了下来。",
+      "image": "/library/stories/expansion-0242/v1/p06.webp",
+      "start": 95.374,
+      "end": 115.668
+    },
+    {
+      "id": "p07",
+      "text": "歇够了，他们并排往西岸走。箱箱忽然掀开一点盖子，想起什么，又自己合上了。芦团看见，弯了弯眼睛。他走慢一点，小木脚也慢一点，咚，咚，像两颗轻轻的小豆子。",
+      "image": "/library/stories/expansion-0242/v1/p07.webp",
+      "start": 115.668,
+      "end": 136.514
+    },
+    {
+      "id": "p08",
+      "text": "到了家，芦团靠上门边的软垫。“等我睡醒，再讲那个大萝卜吧。”箱箱把盖子掀开一条缝，小声说：“好，我把最胖的那一段留着。”芦团笑了，箱箱的圆扣暖暖地亮着。",
+      "image": "/library/stories/expansion-0242/v1/p08.webp",
+      "start": 136.514,
+      "end": 155.962
+    }
+  ],
+  "buildHash": "907ca9752d164d53da3e606628c3be652b872ddf6ed2b0cd78dc49945c4f887a"
+}

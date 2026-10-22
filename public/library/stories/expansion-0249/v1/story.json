@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0249",
+  "version": 1,
+  "status": "media-ready",
+  "title": "穗穗还没藏进去",
+  "subtitle": "等一声好了",
+  "description": "屋檐雨廊里，榛圆想和小扫帚玩捉迷藏。可穗穗还没藏好，就被找到了。两位朋友得先商量好，究竟什么时候才能开始找。",
+  "ageBand": "3-5",
+  "theme": "游戏里的商量",
+  "color": "#8CAFA2",
+  "character": "小刺猬榛圆，浅棕色软刺、奶白色脸颊，穿蓝色短背心。小扫帚穗穗，金黄色草穗、浅木色短柄，柄上系绿色蝴蝶结，有圆眼睛和小嘴，靠草穗一蹦一蹦地走。",
+  "cover": "/library/stories/expansion-0249/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 160.066,
+  "detailUrl": "/library/stories/expansion-0249/v1/story.json",
+  "audio": "/library/stories/expansion-0249/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨点敲着屋檐，榛圆想玩捉迷藏。雨廊里的小扫帚穗穗翘起草穗：“我陪你！”他不会迈步，只能一蹦一蹦地走。榛圆望望长凳和大花盆，觉得这里能藏好多秘密。",
+      "image": "/library/stories/expansion-0249/v1/p01.webp",
+      "start": 0,
+      "end": 19.814
+    },
+    {
+      "id": "p02",
+      "text": "头一回，榛圆藏，穗穗找。榛圆缩在长凳后，连鼻尖也收好了。穗穗找过木柱，找过门边，终于看见一小撮棕色软刺。“找到啦！”两位朋友笑得肚皮一颤一颤。",
+      "image": "/library/stories/expansion-0249/v1/p02.webp",
+      "start": 19.814,
+      "end": 40.156
+    },
+    {
+      "id": "p03",
+      "text": "轮到穗穗藏了。榛圆抱住木柱，飞快地数：“一二三四五！”他转过头，穗穗才蹦到花盆前。“找到啦！”榛圆喊。穗穗垂下草穗：“可是，我还没藏进去呢。”",
+      "image": "/library/stories/expansion-0249/v1/p03.webp",
+      "start": 40.156,
+      "end": 60.306
+    },
+    {
+      "id": "p04",
+      "text": "“那我数两遍！”榛圆说。他闭上眼，把一到五连着数了两遍。穗穗使劲蹦，草穗擦得地板沙沙响，可绿色蝴蝶结还露在外面。榛圆刚要喊，穗穗说：“等等，我想让你找一找。”",
+      "image": "/library/stories/expansion-0249/v1/p04.webp",
+      "start": 60.306,
+      "end": 82.352
+    },
+    {
+      "id": "p05",
+      "text": "榛圆挨着穗穗蹲下来：“我跟你走一回。”穗穗蹦一下，他挪一下。数到五，他们还在半路上。榛圆摸摸鼻尖：“原来我的嘴巴跑得这么快，你还没走到呢。”",
+      "image": "/library/stories/expansion-0249/v1/p05.webp",
+      "start": 82.352,
+      "end": 100.054
+    },
+    {
+      "id": "p06",
+      "text": "“这回你喊好了，我再找，行吗？”榛圆问。穗穗点点头，又说：“你藏的时候，也由你喊好了。”榛圆答应了。他把脸转向木柱，听着身后的沙沙声一点点远去。",
+      "image": "/library/stories/expansion-0249/v1/p06.webp",
+      "start": 100.054,
+      "end": 119.916
+    },
+    {
+      "id": "p07",
+      "text": "“好了！”榛圆转过身。长凳下没有，门边也没有。他绕到花盆后，才看见一双圆眼睛。“你藏得真好！”穗穗高兴得草穗蓬起来。这一次，榛圆真的找了好一会儿。",
+      "image": "/library/stories/expansion-0249/v1/p07.webp",
+      "start": 119.916,
+      "end": 140.33
+    },
+    {
+      "id": "p08",
+      "text": "再轮到榛圆，他选了门帘后面，收好脚尖才喊：“好了！”穗穗慢慢蹦来，找到一只忍不住笑的小刺猬。雨还在下，两位朋友的笑声挤在门帘边，暖暖的，谁也没有急着跑开。",
+      "image": "/library/stories/expansion-0249/v1/p08.webp",
+      "start": 140.33,
+      "end": 160.066
+    }
+  ],
+  "buildHash": "c5408ee0a41f4869355199bb58c1aa62466277af3a62e505e5391add0378aa75"
+}

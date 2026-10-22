@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0234",
+  "title": "砾温带着难过揉面包",
+  "version": 1,
+  "bodyCharacters": 1538,
+  "pages": 16,
+  "duration": 473.978,
+  "bodySha256": "51eefc2d1a3542b6c4844cf9f2c15c4246bb81df12838f9efae77e3351585c14",
+  "audioSha256": "acb30aac2765c344fae9c4e4a01d5e643473cc2f008bdf6216d693ba1ae44b85",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "74eead1bf2bb153f901645464cb3b298ddb56fd292e73baa54b31c2c89e8cb0c",
+      "bytes": 17258
+    },
+    {
+      "name": "p01",
+      "sha256": "8696d86ff616fd6fbf69b7051e348294c6a028ab0c087cc13000e5e2cc1b5d4a",
+      "bytes": 8988
+    },
+    {
+      "name": "p02",
+      "sha256": "b954581e6adf3239245fb81ed678253637e71eb3863f0cdef07fc6cd93ebb326",
+      "bytes": 13318
+    },
+    {
+      "name": "p03",
+      "sha256": "7de0e97b070045f0ef19287ef121f3cac861955596ffbd25b980bdc0487d6bc3",
+      "bytes": 9736
+    },
+    {
+      "name": "p04",
+      "sha256": "b3bef7a52b3af8373e7effa1de56cd2a4a9fe72a185b33ae96481260c43954b9",
+      "bytes": 11442
+    },
+    {
+      "name": "p05",
+      "sha256": "95c256438132aa98ba84359b42145354967dd76426b78dea3bfe2b71b69272fc",
+      "bytes": 8560
+    },
+    {
+      "name": "p06",
+      "sha256": "6b1ca856377a49978b228a3ff89947fa68285895885242ddfe069ad1e585ce3d",
+      "bytes": 12264
+    },
+    {
+      "name": "p07",
+      "sha256": "5ffb96587af891626ecf6090e729f51c2138e4321ea4cdbb507c8c66c3c76377",
+      "bytes": 12204
+    },
+    {
+      "name": "p08",
+      "sha256": "a840ba63f4e1ae9ac89fd6be037a0e255589ba3cab2a2e8e2f5e69a341393092",
+      "bytes": 11180
+    },
+    {
+      "name": "p09",
+      "sha256": "8bb48c1c56f8fb97c7c7c8104b311541f134c9d15b0a8cd7be52857b993d3a60",
+      "bytes": 12770
+    },
+    {
+      "name": "p10",
+      "sha256": "1f5194e6722bab9a766681e39e5e9c49f552e85827638f6d1dc884ba68885c5c",
+      "bytes": 12576
+    },
+    {
+      "name": "p11",
+      "sha256": "0e93bcfaf98262ac34f27551eed3de85fd16e425cff5cfbb59b2e144dff2dbcf",
+      "bytes": 13938
+    },
+    {
+      "name": "p12",
+      "sha256": "2602e255703bb8fed6fe87267e12c30f455a90465ba97823761f8f1c9f0d0c5f",
+      "bytes": 12126
+    },
+    {
+      "name": "p13",
+      "sha256": "777dd5ec20de26fd84e270b6c0252c767df50b67f65696e5f33945a573460764",
+      "bytes": 13412
+    },
+    {
+      "name": "p14",
+      "sha256": "6fe44f0273d7cf30d9a507fb06cf127cc98aab78ed48904bd548228c926c449b",
+      "bytes": 11070
+    },
+    {
+      "name": "p15",
+      "sha256": "ea06c83530fea225f793b89c6e95dd5196afda63992a05a99eefdcc800a050d5",
+      "bytes": 11658
+    },
+    {
+      "name": "p16",
+      "sha256": "fc0e50bc4a3702cd217b241f7b58a09b2bdb00d37bc86ae963f9f1f98bff9b68",
+      "bytes": 13958
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

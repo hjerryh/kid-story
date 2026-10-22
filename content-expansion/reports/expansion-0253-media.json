@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0253",
+  "title": "叶转转今天当客人",
+  "version": 1,
+  "bodyCharacters": 514,
+  "pages": 8,
+  "duration": 162.514,
+  "bodySha256": "be99b62870b2649b05670703485e38096cc47d5ab3d21730e8d6251b7c9452c5",
+  "audioSha256": "b3eabecbbc42933d38d840abbe66de912cec82d2ae868dafe313a69a50e13ffd",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2e351fcfa5c9975c8fd6d5b52caf623e0e3f6275ca4b14427cfa4e42d258b1a0",
+      "bytes": 17376
+    },
+    {
+      "name": "p01",
+      "sha256": "fed9ab5fa1299cf4ba6677f0dda988d5825b998c60a8c080f63ccb59bc6e65c0",
+      "bytes": 16624
+    },
+    {
+      "name": "p02",
+      "sha256": "05e689df32a68806f0ea0bc4f5e567348212e7df37b368539171e62d909a6f35",
+      "bytes": 17032
+    },
+    {
+      "name": "p03",
+      "sha256": "6bfc503c42fb739caa83a4de23083801dda6c70ce6074c9b58990074c4b7eba2",
+      "bytes": 16966
+    },
+    {
+      "name": "p04",
+      "sha256": "c7c8bbcb0afba18cd81390196907466167117703af51058d21e8fcfb9c5adbc9",
+      "bytes": 16646
+    },
+    {
+      "name": "p05",
+      "sha256": "da19bd552ac36b010f29aa2fdbda314770a94a46777877b8fdfffabdd35f294a",
+      "bytes": 17240
+    },
+    {
+      "name": "p06",
+      "sha256": "7c4e5af233d1a81aaf42145e131fb4d7d3cd861c319ad4f51b89aca3fe26b75f",
+      "bytes": 16822
+    },
+    {
+      "name": "p07",
+      "sha256": "8eb37f4375bc3d7a96ad7280579ad0d9a4c7bd021b11725db1529d2d0e7c433d",
+      "bytes": 17540
+    },
+    {
+      "name": "p08",
+      "sha256": "5712299fc2662904770b7ff803e2ce20b1c7c2ccb9f232c19f860b76d2232957",
+      "bytes": 17570
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

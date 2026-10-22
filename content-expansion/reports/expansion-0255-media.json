@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0255",
+  "title": "沙堡肚皮上的小山",
+  "version": 1,
+  "bodyCharacters": 520,
+  "pages": 8,
+  "duration": 168.442,
+  "bodySha256": "b4474292abd872dbe7bbb5ff647194e7ad3878cd2336a17a32bbedf35b6028d6",
+  "audioSha256": "95bc0617928e7680eb59371aa17224d71418a302de453a0fdcb599f8009251c2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9be815050c496d6d8b51ebace7a6b3193110a0f9cbf67040dfe3cd02d42cb05a",
+      "bytes": 13940
+    },
+    {
+      "name": "p01",
+      "sha256": "6a94848db098a1150045a2d0d4e48c81adf45bac9b85772de67e5088682b776c",
+      "bytes": 11250
+    },
+    {
+      "name": "p02",
+      "sha256": "04cab2a8c4cf60e17c92455230a573d5950f7fabb62dae60c0f4d97c03ea982b",
+      "bytes": 12308
+    },
+    {
+      "name": "p03",
+      "sha256": "323b8c476afa48cc5b50f5d5f7f900cc730985fb456f57b5900905abab2e888e",
+      "bytes": 12356
+    },
+    {
+      "name": "p04",
+      "sha256": "a50ce61949f67257de6e170f08b8de6dff0ff5fad081438bd67c30997631b204",
+      "bytes": 12570
+    },
+    {
+      "name": "p05",
+      "sha256": "c1f1c2ceccb41c649e29bc98542d7448c6c161561ebaf6890b027f1864515fd2",
+      "bytes": 13104
+    },
+    {
+      "name": "p06",
+      "sha256": "f265635bfe4378019eb7bba2254bccc119265cb2369ea352b76ce41ebba1bad4",
+      "bytes": 12046
+    },
+    {
+      "name": "p07",
+      "sha256": "85deecc2d87cdaf6b16f179fb871ce1db41cc57e9d89652770a7a61022908f5f",
+      "bytes": 11122
+    },
+    {
+      "name": "p08",
+      "sha256": "31564eece37c822ad498f2c999ca6996c69ad89a62afb91725b4da4b598989fa",
+      "bytes": 10940
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

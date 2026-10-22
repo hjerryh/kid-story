@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0241",
+  "version": 1,
+  "status": "media-ready",
+  "title": "红豆睡罐子，布鹅睡小床",
+  "subtitle": "一场金黄的小雨",
+  "description": "穗团想给布鹅做一张软软的小米床，可小米里混着好多硬豆子。挑一颗，又冒出一颗。小石磨坊里的一只旧筛子，藏着什么好办法？",
+  "ageBand": "3-5",
+  "theme": "大小的发现",
+  "color": "#D9BE79",
+  "character": "穗团是一只浅灰色小田鼠，圆耳朵，白胡须，穿砖红色小马甲。布鹅有乳白色布身子、橙色软嘴和蓝色翅膀，只有穗团的手掌那么大，能走路、说话。",
+  "cover": "/library/stories/expansion-0241/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 165.298,
+  "detailUrl": "/library/stories/expansion-0241/v1/story.json",
+  "audio": "/library/stories/expansion-0241/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "小石磨坊里，穗团要给布鹅做一张小米床。布鹅摸摸空布套，说：“我要躺得软软的，翻身也软软的。”穗团把布套铺平。窗外的麦子黄了，屋里也像装着一小口太阳。",
+      "image": "/library/stories/expansion-0241/v1/p01.webp",
+      "start": 0,
+      "end": 20.198
+    },
+    {
+      "id": "p02",
+      "text": "穗团从罐里舀出小米，却发现里面混着好多红豆。原来，两种粮食装到一起了。他捏起一颗豆子，圆圆的，硬硬的。布鹅用软嘴碰了碰：“这颗放进床里，会顶我的肚皮呀。”",
+      "image": "/library/stories/expansion-0241/v1/p02.webp",
+      "start": 20.198,
+      "end": 41.236
+    },
+    {
+      "id": "p03",
+      "text": "穗团坐下来，一颗一颗挑豆子。挑走上面的，下面还有；拨开左边的，右边又冒出一颗。他以为挑完了，用勺子轻轻翻翻，咯哒，又碰到一颗。布鹅的小床还是空空的。",
+      "image": "/library/stories/expansion-0241/v1/p03.webp",
+      "start": 41.236,
+      "end": 61.506
+    },
+    {
+      "id": "p04",
+      "text": "他想找个宽些的盘子，把粮食摊开。墙上挂着一只旧筛子，像个圆圆的浅篮。穗团取下来，放到碗上。筛子边沿藏着几粒小米，他轻轻一晃，小米竟从小孔里落下去了。",
+      "image": "/library/stories/expansion-0241/v1/p04.webp",
+      "start": 61.506,
+      "end": 82.16
+    },
+    {
+      "id": "p05",
+      "text": "“米粒能过去，豆子呢？”穗团放上一颗红豆。豆子在筛面滚来滚去，就是掉不下去。他又撒上几粒小米，小米漏进碗里，红豆仍留在上面。布鹅低头看：“它比小孔大！”",
+      "image": "/library/stories/expansion-0241/v1/p05.webp",
+      "start": 82.16,
+      "end": 102.478
+    },
+    {
+      "id": "p06",
+      "text": "穗团搬来大盆，把筛子放稳，只倒进薄薄一层粮食。他握着筛边，轻轻摇呀摇。细细的小米落下去，像一阵金黄的小雨。红豆滚到一起，筛子里渐渐露出了一个个小孔。",
+      "image": "/library/stories/expansion-0241/v1/p06.webp",
+      "start": 102.478,
+      "end": 122.988
+    },
+    {
+      "id": "p07",
+      "text": "一层筛完，再倒一层。最后，红豆回了罐子，小米装进布套。穗团缝好开口，把针收进针线盒，再将小床拍平。他从这头摸到那头，细细软软的，没有一颗硬豆子。",
+      "image": "/library/stories/expansion-0241/v1/p07.webp",
+      "start": 122.988,
+      "end": 143.474
+    },
+    {
+      "id": "p08",
+      "text": "布鹅躺上去，左边翻一翻，右边翻一翻，肚皮舒服极了。穗团把红豆罐摆在床旁。布鹅打个小哈欠：“豆子睡罐子，我睡小米床。”窗外麦穗轻轻摇，屋里响起细细的布翅膀声。",
+      "image": "/library/stories/expansion-0241/v1/p08.webp",
+      "start": 143.474,
+      "end": 165.298
+    }
+  ],
+  "buildHash": "710ab1df95cc37d2814f3a09a658c0b8cef3846b300ddf207231bc1f62864aa2"
+}

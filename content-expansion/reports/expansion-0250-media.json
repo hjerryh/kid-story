@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0250",
+  "title": "紫外套转起圈来",
+  "version": 1,
+  "bodyCharacters": 552,
+  "pages": 8,
+  "duration": 171.946,
+  "bodySha256": "794743315c8f5e904e30aa1cc55eb6d1c025611a5cd6f84ddcefa54d1ae70d6a",
+  "audioSha256": "32182cb16fd832c0aa17a67bcbb3e5f11f8ce299ea9e4cf9c4f3ec2aa3f6d39e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6b3e161379644b7fbf860530d5e3b861d929a9368bab1c9e0eb7ffc09fc95ea0",
+      "bytes": 15918
+    },
+    {
+      "name": "p01",
+      "sha256": "9d747f007efca79ca4b7549f4d8285212d77380cf17da90ff0e171b1c6fcbe81",
+      "bytes": 14586
+    },
+    {
+      "name": "p02",
+      "sha256": "02f156172f1c3762d2f28fb502306c6ee7629f69576864ce9df4c462e5e73d93",
+      "bytes": 14908
+    },
+    {
+      "name": "p03",
+      "sha256": "c65b3338b00823ab2170178bbe306dd820fbbb639f8427434ad48fbc79a8e510",
+      "bytes": 14144
+    },
+    {
+      "name": "p04",
+      "sha256": "04b376dd2dd6585ad4e277bce10601b328157ac58179e8e02e5601d457c3e849",
+      "bytes": 14206
+    },
+    {
+      "name": "p05",
+      "sha256": "96d7392a06d46f39451fa6c3a1cfb46607721a2b209269e45ab63f901d5bdf8c",
+      "bytes": 14468
+    },
+    {
+      "name": "p06",
+      "sha256": "40cb1385a08f66c6ea48bcc84cc57b29373867157b82753b3f45a5e80d942984",
+      "bytes": 14414
+    },
+    {
+      "name": "p07",
+      "sha256": "9f233d56b1eb268fee1f59300f0f5050eb945cff806dd5891403e1deeee63b2e",
+      "bytes": 14712
+    },
+    {
+      "name": "p08",
+      "sha256": "357c338daeec2387fba51e70c188971d7ea846a370891e9d20c0f99bde96cbc4",
+      "bytes": 14766
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

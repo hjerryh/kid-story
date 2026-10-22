@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0251",
+  "version": 1,
+  "status": "media-ready",
+  "title": "伞婆婆的抱抱还没干",
+  "subtitle": "藏在伞褶里的水",
+  "description": "布兔绒芽想抱抱陪她走过雨天的伞婆婆，可擦过的伞总会滴出水来。水究竟藏在哪里？绒芽蹲下来，仔细看起了那些挤在一起的伞褶。",
+  "ageBand": "3-5",
+  "theme": "耐心观察",
+  "color": "#ADA2CF",
+  "character": "绒芽是一只奶白色布兔，长耳朵，黑色圆纽扣眼睛，穿湖蓝色小背心。伞婆婆是一把淡紫色圆头布伞，伞面有白色小圆点，弯木柄上长着温柔的脸，能够说话。",
+  "cover": "/library/stories/expansion-0251/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 167.962,
+  "detailUrl": "/library/stories/expansion-0251/v1/story.json",
+  "audio": "/library/stories/expansion-0251/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "风铃街的雨停了，屋檐滴答滴答。布兔绒芽举着伞婆婆回到家。一路上，雨点敲着紫色伞顶，绒芽连耳朵尖都没湿。她收起伞，笑着说：“谢谢你，我想好好抱抱你！”",
+      "image": "/library/stories/expansion-0251/v1/p01.webp",
+      "start": 0,
+      "end": 20.03
+    },
+    {
+      "id": "p02",
+      "text": "“等等呀，我还湿着呢。”伞婆婆说。一滴水落在绒芽脚边。绒芽摸摸自己的布肚皮，湿了可不舒服。她便找来一块干毛巾：“我先把你擦干，我们再抱。”伞婆婆弯着嘴笑了。",
+      "image": "/library/stories/expansion-0251/v1/p02.webp",
+      "start": 20.03,
+      "end": 41.164
+    },
+    {
+      "id": "p03",
+      "text": "绒芽从上往下擦，白圆点擦过了，紫布边也擦过了。伞婆婆外面不亮晶晶了。绒芽刚伸出胳膊，啪嗒，又落下一滴水。“咦，你把水藏在哪里啦？”她蹲下来，盯着伞尖看。",
+      "image": "/library/stories/expansion-0251/v1/p03.webp",
+      "start": 41.164,
+      "end": 62.25
+    },
+    {
+      "id": "p04",
+      "text": "她把伞婆婆放进宽宽的浅盆，自己坐在旁边吃梨。吃完一小块，再看，还是湿的。吃完第二块，盆底多了一点水。伞婆婆说：“我里面凉凉的。”绒芽放下梨，轻轻掀开一层伞褶。",
+      "image": "/library/stories/expansion-0251/v1/p04.webp",
+      "start": 62.25,
+      "end": 84.2
+    },
+    {
+      "id": "p05",
+      "text": "原来，外面擦干了，里面的布还贴在一起。小水珠夹在褶子里，慢慢往下跑。绒芽又看了一层，也是湿的。“你的紫裙子挤得太紧啦。”她说，“我们把每一片都展开看看。”",
+      "image": "/library/stories/expansion-0251/v1/p05.webp",
+      "start": 84.2,
+      "end": 104.662
+    },
+    {
+      "id": "p06",
+      "text": "绒芽慢慢撑开伞，把伞婆婆放在通风的门廊里。紫裙子展开了，藏着的水珠露出来，一颗颗滴进盆。风从伞下钻过去，带来青草味。绒芽坐远一点，让风也能摸到每一块布。",
+      "image": "/library/stories/expansion-0251/v1/p06.webp",
+      "start": 104.662,
+      "end": 126.132
+    },
+    {
+      "id": "p07",
+      "text": "这回，绒芽没有忙着收伞。她翻开图画书，给伞婆婆看一只胖南瓜。过了好一会儿，她摸摸布边，又摸摸原先藏在里面的地方，都干了。她再等一小会儿，盆里也没有新水滴。",
+      "image": "/library/stories/expansion-0251/v1/p07.webp",
+      "start": 126.132,
+      "end": 146.594
+    },
+    {
+      "id": "p08",
+      "text": "绒芽轻轻收好伞婆婆，把她抱在怀里。这一次，布肚皮干干的，紫裙子也干干的。“这个抱抱真舒服。”伞婆婆说。门外风铃叮了一声，绒芽把长耳朵贴过去，抱抱又多了一小会儿。",
+      "image": "/library/stories/expansion-0251/v1/p08.webp",
+      "start": 146.594,
+      "end": 167.962
+    }
+  ],
+  "buildHash": "b17514cc108719b026968af49e08bbd24365e5cd995a25878f607bc7b751c95a"
+}

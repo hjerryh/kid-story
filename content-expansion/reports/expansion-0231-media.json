@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0231",
+  "title": "蓝纽扣住在羽毛隔壁",
+  "version": 1,
+  "bodyCharacters": 1540,
+  "pages": 16,
+  "duration": 470.234,
+  "bodySha256": "690aa9cdc9288130d8b8e75c673373b80a646af45db55924d35463108afeb2c6",
+  "audioSha256": "e726c522a81f3a252de4aa28e146b707d7032b0fe1aa18567a351e5918cf5ca8",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e084dfcd6dba7059eca1db63025034c7c817792483fe487f26616da7bbf5a3bd",
+      "bytes": 15916
+    },
+    {
+      "name": "p01",
+      "sha256": "3f2fdd20a67e1abf5274dac25087064bc1708dd686d7eff565ae697299ef7156",
+      "bytes": 11746
+    },
+    {
+      "name": "p02",
+      "sha256": "8e71728672b4bd2feb82d8853c14ea457663b21b53e1d9f4d4649962eadb11cd",
+      "bytes": 11792
+    },
+    {
+      "name": "p03",
+      "sha256": "e9dcd0a37441538400fb7868db76f45284d716a64c678fdd04634b0da1c98ef2",
+      "bytes": 12794
+    },
+    {
+      "name": "p04",
+      "sha256": "e75e80f0b2c82b24cf9ac4db12e58669944918ea78160bd356534015b298fa05",
+      "bytes": 13416
+    },
+    {
+      "name": "p05",
+      "sha256": "8996b98f670470a70d79a0fb3c15b1bd246f1650e0a2679ab285d1f4e803f51d",
+      "bytes": 12574
+    },
+    {
+      "name": "p06",
+      "sha256": "4ad606341535e3e00f65afe0fb8e57dc1dcd048de2a50302e83f4da17a48f54d",
+      "bytes": 12154
+    },
+    {
+      "name": "p07",
+      "sha256": "7f0f4afc702c961a6e9e9729eea6c1aedd64afb43351583bdac8707895ea3e38",
+      "bytes": 11912
+    },
+    {
+      "name": "p08",
+      "sha256": "4f5d3240b6026e419416dda481e7e4b882d7516842ef9685150759184c71d315",
+      "bytes": 13510
+    },
+    {
+      "name": "p09",
+      "sha256": "a0ec90b7231ba0f96031d5f8c2e55af733dac2d034565aad65e34beac5c6f652",
+      "bytes": 11966
+    },
+    {
+      "name": "p10",
+      "sha256": "eb14177c26c740075167dba8cd2028e7e213858d62f17ab15eb0c22e4a9ba66b",
+      "bytes": 11688
+    },
+    {
+      "name": "p11",
+      "sha256": "d13ba2ec60bfb9e04898eaa94375b3a2106231f30e62e81dc88088dc6e649eaf",
+      "bytes": 11882
+    },
+    {
+      "name": "p12",
+      "sha256": "064698ddc4517c73a6a877d770919a9e1e009f9f17ea6a9df4a9d3ff714b0a95",
+      "bytes": 14710
+    },
+    {
+      "name": "p13",
+      "sha256": "9cc8e569c525a35716c0f8181cf59ef0622eecca127079c4a9f6d485843d67fc",
+      "bytes": 12358
+    },
+    {
+      "name": "p14",
+      "sha256": "d1ce7b3f0786be9e8816b063c128eecf9aed470a31e0b8d7dd2d2bfaaa8849f4",
+      "bytes": 13116
+    },
+    {
+      "name": "p15",
+      "sha256": "d96025ccb1550428c17f4df725fd71c3281c6659aed7e9dcaa9e40d8516d1a15",
+      "bytes": 13298
+    },
+    {
+      "name": "p16",
+      "sha256": "c64515367ff03c1caca367b847c37ab2fca265ca45710f8585156c6482a9328e",
+      "bytes": 16218
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

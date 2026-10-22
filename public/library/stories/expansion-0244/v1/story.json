@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0244",
+  "version": 1,
+  "status": "media-ready",
+  "title": "越找越热的小桃子",
+  "subtitle": "沙盘里的寻宝游戏",
+  "description": "小沙精浅浅在贝壳海湾找一颗藏起来的木桃子。朋友一喊“热啦”，她就忙着找太阳、拿扇子。宝贝到底藏在哪种热乎乎的地方呢？",
+  "ageBand": "3-5",
+  "theme": "听懂彼此",
+  "color": "#EDC88F",
+  "character": "小沙精浅浅：身体由浅金色细沙组成，圆脸，头顶一撮翘沙发，穿薄荷绿短背心。小蟹红夹：珊瑚红甲壳，圆眼睛，戴蓝白条纹小帽。两位角色外观各页保持一致。",
+  "cover": "/library/stories/expansion-0244/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 172.33,
+  "detailUrl": "/library/stories/expansion-0244/v1/story.json",
+  "audio": "/library/stories/expansion-0244/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "贝壳海湾的小棚下，摆着一只大沙盘。小蟹红夹把木桃子藏进沙里，请小沙精浅浅来找。浅浅闭着眼睛，听见沙子沙沙响，心里痒痒的，好想马上找到那颗粉红的小桃子。",
+      "image": "/library/stories/expansion-0244/v1/p01.webp",
+      "start": 0,
+      "end": 20.558
+    },
+    {
+      "id": "p02",
+      "text": "浅浅睁开眼，从白贝壳旁边找起。她的小手往前挪，红夹喊：“热啦，热啦！”浅浅看看自己的手，又看看棚外的太阳。“哦，要找热乎乎的地方！”她赶紧转到晒着太阳的那一边。",
+      "image": "/library/stories/expansion-0244/v1/p02.webp",
+      "start": 20.558,
+      "end": 41.908
+    },
+    {
+      "id": "p03",
+      "text": "阳光把沙子晒得暖暖的，像刚洗好的小毛巾。浅浅挖开一个浅坑，没有桃子。红夹却喊：“冷啦，冷啦！”浅浅把手掌贴在沙面上。明明暖暖的呀，难道红夹的小钳子特别怕冷？",
+      "image": "/library/stories/expansion-0244/v1/p03.webp",
+      "start": 41.908,
+      "end": 63.426
+    },
+    {
+      "id": "p04",
+      "text": "她换到阴影里，红夹又喊：“热啦！更热啦！”浅浅连忙拿来桌边的小扇子，轻轻扇着沙盘。“别急，我给它凉一凉。”红夹的两只圆眼睛瞪得大大的：“你怎么不找桃子了呀？”",
+      "image": "/library/stories/expansion-0244/v1/p04.webp",
+      "start": 63.426,
+      "end": 84.224
+    },
+    {
+      "id": "p05",
+      "text": "浅浅放下扇子，又伸手摸沙。红夹喊：“烫啦！”这回她没有缩手。“沙子凉凉的。你说哪里烫？”红夹指着她的小手说：“我是说，你快碰到桃子了！离它越近，我就说越热。”",
+      "image": "/library/stories/expansion-0244/v1/p05.webp",
+      "start": 84.224,
+      "end": 106.246
+    },
+    {
+      "id": "p06",
+      "text": "浅浅看看太阳，再看看扇子，扑哧笑了。“原来，你的热不用扇风！我还不会这样找。你能说近一点、远一点吗？”红夹点点头。浅浅重新伸出手，这一次，她知道该听什么啦。",
+      "image": "/library/stories/expansion-0244/v1/p06.webp",
+      "start": 106.246,
+      "end": 127.692
+    },
+    {
+      "id": "p07",
+      "text": "“近一点。”浅浅的手慢慢往前走。“远一点啦。”她退回来一点。“就在手指下面！”浅浅拨开细沙，粉红的桃尖露出来了。她把木桃子捧在手里，凉凉的，光光的，一点也不烫。",
+      "image": "/library/stories/expansion-0244/v1/p07.webp",
+      "start": 127.692,
+      "end": 149.834
+    },
+    {
+      "id": "p08",
+      "text": "现在轮到浅浅藏桃子。红夹转身背对沙盘，认真地说：“也请告诉我近一点、远一点。”浅浅答应了，把桃子轻轻埋好。小扇子躺在桌边歇着，海风吹进棚里，给两个寻宝的朋友扇着风。",
+      "image": "/library/stories/expansion-0244/v1/p08.webp",
+      "start": 149.834,
+      "end": 172.33
+    }
+  ],
+  "buildHash": "061b1c7e2c69bfa17f786da44652ca5f0bfcc975a0c705d3f3e244d550e04259"
+}

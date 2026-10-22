@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0227",
+  "title": "银带松开，海藻躺好",
+  "version": 1,
+  "bodyCharacters": 993,
+  "pages": 12,
+  "duration": 294.042,
+  "bodySha256": "2f6ece1649f37c1e172baec8e495aa49597ac304e9f9476722aa14f9eaf07259",
+  "audioSha256": "b1776e3a6bc1f28ad74c4b1064c7d943e1f25248274628af59462786b7f53e7e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "19b82a5131c6d88764c7e5348c4beb9896c49f956bb090c7092ddc1adc387577",
+      "bytes": 17136
+    },
+    {
+      "name": "p01",
+      "sha256": "00b5a48a7e57fa77239e37e77dcc8c5c5d9d64ac1b448dabe4c873cd78202ab0",
+      "bytes": 15790
+    },
+    {
+      "name": "p02",
+      "sha256": "585164740601cd47580071b852f4accba94b7e3902cc92bccda33b1ca8018762",
+      "bytes": 15758
+    },
+    {
+      "name": "p03",
+      "sha256": "b96a13a18c81fb04bd927a40b179f317142f9740db7bcdeef09bc8b74c03dcc0",
+      "bytes": 16004
+    },
+    {
+      "name": "p04",
+      "sha256": "e37ef01182b2e62bee8cbfb8fac18542caeb6e2835e9f32cb9223ce58d410a08",
+      "bytes": 12596
+    },
+    {
+      "name": "p05",
+      "sha256": "ea4fcf7ff5d18edae5a90e75ab9da15aa13e1a0a4c3a002466841381a82a214c",
+      "bytes": 16408
+    },
+    {
+      "name": "p06",
+      "sha256": "42024bb864b1cfbcb149144fa069db26104fa8c55aad57348df174b55958f080",
+      "bytes": 15594
+    },
+    {
+      "name": "p07",
+      "sha256": "6ae2d5aa1197022c8a23f243fd4629c74299a3930de9adcbbae06c1eb9c35898",
+      "bytes": 15376
+    },
+    {
+      "name": "p08",
+      "sha256": "4f9d28b64f392b3cce51810373b34a4ddf8cda541abb960e0e6af7a3019dbbd7",
+      "bytes": 14580
+    },
+    {
+      "name": "p09",
+      "sha256": "982687a69229980f7707f1e7c1dee1b36359cc94f8d8ce319e00b9e15fe54863",
+      "bytes": 12264
+    },
+    {
+      "name": "p10",
+      "sha256": "440c13816f6fab244eddc74280104552161d492c7c22fa60f2d62b1c93429cd5",
+      "bytes": 14126
+    },
+    {
+      "name": "p11",
+      "sha256": "5bec08e23454aa5e42635579863215341765d326dbc6f161bbf535019234aecb",
+      "bytes": 14150
+    },
+    {
+      "name": "p12",
+      "sha256": "b2b475aa9bfb5ea994c59e02728793c2226df245df4cfedb98ba4687ccbfce69",
+      "bytes": 13380
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0252",
+  "version": 1,
+  "status": "media-ready",
+  "title": "卷毛一晃，风就来了",
+  "subtitle": "画一位看不见的朋友",
+  "description": "小猪绯绯想在窗边挂一张风的画像，可风没有看得见的鼻子和耳朵。画了一次又一次，她还是找不到风，直到自己的卷毛轻轻动了起来。",
+  "ageBand": "3-5",
+  "theme": "想象与观察",
+  "color": "#91BCA3",
+  "character": "小猪绯绯：浅粉色皮肤，圆鼻子，头顶一撮卷毛，穿湖绿色短袖裙，戴白色雏菊发夹。风：没有可见身体，通过草叶、头发、花瓣和纸张的摆动表现，说话轻轻的。",
+  "cover": "/library/stories/expansion-0252/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 165.946,
+  "detailUrl": "/library/stories/expansion-0252/v1/story.json",
+  "audio": "/library/stories/expansion-0252/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "萤火坡地上，小猪绯绯正给朋友画画。风从窗口进来，轻轻翻了翻画纸。“有我的画像吗？”风问。“还没有呢！我想画一张挂在窗边，你每次经过，都能看见自己。”",
+      "image": "/library/stories/expansion-0252/v1/p01.webp",
+      "start": 0,
+      "end": 20.798
+    },
+    {
+      "id": "p02",
+      "text": "绯绯举起画笔，看看左边，看看右边。风在哪里呢？没有鼻子，没有耳朵，连一根尾巴也看不见。“请你站好。”她说。“我就在这里呀。”风回答。可窗前还是空空的。",
+      "image": "/library/stories/expansion-0252/v1/p02.webp",
+      "start": 20.798,
+      "end": 43.108
+    },
+    {
+      "id": "p03",
+      "text": "绯绯先画了一个大圆圈。“你是不是圆圆的？”风笑了：“我可没有圆肚皮。”她又在圈里添上眼睛。越画，越像一只没长耳朵的小猪。绯绯摸摸自己的鼻子，也笑了。",
+      "image": "/library/stories/expansion-0252/v1/p03.webp",
+      "start": 43.108,
+      "end": 62.97
+    },
+    {
+      "id": "p04",
+      "text": "她换了一张纸，把风画成蓝蓝的长条。“这样呢？”风轻声说：“我也没有蓝衣裳。”绯绯看看画，那倒像一条长袜子。她放下笔，耳朵垂下来：“我怎么才能画到你呀？”",
+      "image": "/library/stories/expansion-0252/v1/p04.webp",
+      "start": 62.97,
+      "end": 82.28
+    },
+    {
+      "id": "p05",
+      "text": "风没有催她，只轻轻吹过她的额头。那撮卷毛晃呀晃，挠得她痒痒的。裙角也鼓起来了。绯绯忽然望向窗外：一排草叶正朝同一边弯腰。“等一等，我看见你来过啦！”",
+      "image": "/library/stories/expansion-0252/v1/p05.webp",
+      "start": 82.28,
+      "end": 102.766
+    },
+    {
+      "id": "p06",
+      "text": "绯绯用小石头压住新画纸。她画弯腰的草，画离开地面、打着转儿的落花瓣，再画一个卷毛翘起来的小猪。画里的裙角鼓鼓的，像装着一颗小气球。她一边画，一边咯咯笑。",
+      "image": "/library/stories/expansion-0252/v1/p06.webp",
+      "start": 102.766,
+      "end": 123.444
+    },
+    {
+      "id": "p07",
+      "text": "“画好啦！”绯绯把画举到窗前。风看了好一会儿：“咦，我藏在哪里？”绯绯指指草叶，又指指花瓣：“你刚刚从这里跑过去。”风轻轻掀起纸角：“还有这里，我挠过你的卷毛！”",
+      "image": "/library/stories/expansion-0252/v1/p07.webp",
+      "start": 123.444,
+      "end": 143.954
+    },
+    {
+      "id": "p08",
+      "text": "绯绯用木夹子把画挂在窗边。风绕着画走了一圈，又去草坡上散步。窗外的草弯了，画里的草也弯着。绯绯趴在窗台上，小声说：“这张是你来玩的样子。”她的卷毛又轻轻晃了一下。",
+      "image": "/library/stories/expansion-0252/v1/p08.webp",
+      "start": 143.954,
+      "end": 165.946
+    }
+  ],
+  "buildHash": "039d788ca0c8bce1cf28c11ebd5bef7bfe50be812706cfcc8bfc885b2c7ba4fa"
+}

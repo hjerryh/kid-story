@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0241",
+  "title": "红豆睡罐子，布鹅睡小床",
+  "version": 1,
+  "bodyCharacters": 510,
+  "pages": 8,
+  "duration": 165.298,
+  "bodySha256": "aae9218b2cbdeb09ec39e1727157327b1ac25bef9145ea810db90398f44ac1e2",
+  "audioSha256": "b9a3ddfcda1829c5c33ef82fed3734d31ab50fb3bab342d983a258d56f462086",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "071caeed872b26330b84e8df59c21c48e06271f38325be1b182ed852fe6a2906",
+      "bytes": 15096
+    },
+    {
+      "name": "p01",
+      "sha256": "773f329a2165ae32928fa4923e87fc2ae57099a8f70ba7f4abf14ade376790cc",
+      "bytes": 10826
+    },
+    {
+      "name": "p02",
+      "sha256": "9235b86c70aa3808d2413696439c01d0d76ae8eb3a681047914a89f41b4a3474",
+      "bytes": 12402
+    },
+    {
+      "name": "p03",
+      "sha256": "c51013501a2799e6c11382083905f1bcb11cabd02f71ecdb82608fcecf632719",
+      "bytes": 12120
+    },
+    {
+      "name": "p04",
+      "sha256": "be8c4cfd9b23a6948d40896b569cf257d6f6fdab9230a344111bee467a9b91f3",
+      "bytes": 11376
+    },
+    {
+      "name": "p05",
+      "sha256": "5b79afe52329c0e5a2b1438fd36615a9de875e553310d53bed697d74d7bbf577",
+      "bytes": 11772
+    },
+    {
+      "name": "p06",
+      "sha256": "e2e6aafaa5703318707c6a0f0eec9df2366df7f43b11f9e5f57a85be004179c0",
+      "bytes": 14224
+    },
+    {
+      "name": "p07",
+      "sha256": "a7d113378f82df06f407431c6368fbbdd91c2305a474b1d57a434dbd1be616d7",
+      "bytes": 10848
+    },
+    {
+      "name": "p08",
+      "sha256": "e569ead49076c343658f71ca5bca3245d7139169dedea82e5982b03305b49769",
+      "bytes": 11648
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

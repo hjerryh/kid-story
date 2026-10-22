@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0242",
+  "title": "箱箱留着最胖的那一段",
+  "version": 1,
+  "bodyCharacters": 488,
+  "pages": 8,
+  "duration": 155.962,
+  "bodySha256": "6b6d6b2efd989e864f11c477a29a91d888c0880b44c88fad997ea4ad823191a6",
+  "audioSha256": "b130078b6236a66d9cd9109ef36fe7c8af4fb9873bd976b6481bd3845cd21056",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "dd98b400dd54fd7d64dd65a815534a6a79d9ac49bc5232b4e18391cd0d021c8e",
+      "bytes": 15752
+    },
+    {
+      "name": "p01",
+      "sha256": "7d26de356d798f8896951358f9bee2832d119ddcb56f7162b74e414ff2dee17e",
+      "bytes": 15358
+    },
+    {
+      "name": "p02",
+      "sha256": "802ed8217aa0275343fec716b75a1a21837a44f9c06fa1e8aa1c1f031429f3ad",
+      "bytes": 15882
+    },
+    {
+      "name": "p03",
+      "sha256": "762f9fc06434fbac0bd0167a7184c6475e95eed458783f65ecb52eca3d5c20d2",
+      "bytes": 14506
+    },
+    {
+      "name": "p04",
+      "sha256": "4c310f8f6d5ecf4b648c0389fedeadb559a8bf03c2d598ea9466741f3e248dd2",
+      "bytes": 14606
+    },
+    {
+      "name": "p05",
+      "sha256": "93c2492723f4738a21790926ca8163812e83d3aa4bb4bc8cf47eeab3e680746e",
+      "bytes": 14708
+    },
+    {
+      "name": "p06",
+      "sha256": "1fcd3406e0fe815f56b3c8bc19868859e76dfb44f4a436b6a4b91b172d5aa7c1",
+      "bytes": 14712
+    },
+    {
+      "name": "p07",
+      "sha256": "40dfcf896c74c2d99e681a52c3d1737508f65b1ad563545109c871f3cd7311d5",
+      "bytes": 14540
+    },
+    {
+      "name": "p08",
+      "sha256": "ba14ff43085da6e4fb35e8b17842aaad9cb7d8685027d553e5217ef4af318013",
+      "bytes": 13034
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0252",
+  "title": "卷毛一晃，风就来了",
+  "version": 1,
+  "bodyCharacters": 502,
+  "pages": 8,
+  "duration": 165.946,
+  "bodySha256": "46712646474884d3c1b10564a35a0e28da08b0bcb756e06f9323d94e517aa3a5",
+  "audioSha256": "12c127ad3c0b7976c2b81e63e80ed68713346673ed02fe469b71f21aa1e2159d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f08906f76f2ec5eaa9aad3a28f248041c43282b664a19de0e9e46d72b2ca0c90",
+      "bytes": 12720
+    },
+    {
+      "name": "p01",
+      "sha256": "46483212ca044f37554b948043feddf126b0cbd231a97725121b132b7e40f68c",
+      "bytes": 8456
+    },
+    {
+      "name": "p02",
+      "sha256": "6705720f96106b3734c90a43b75a65082f36ff7b8581bacb3c401d77af1c3e52",
+      "bytes": 8704
+    },
+    {
+      "name": "p03",
+      "sha256": "fb71377f65d18292e878d108846306ebd36549f958ea39e6ad4e1f60ad8b105e",
+      "bytes": 9258
+    },
+    {
+      "name": "p04",
+      "sha256": "51a5735373b23422bc1fffbaa38d52316119fc0ac5c7b0f06bc8046612027f2d",
+      "bytes": 9218
+    },
+    {
+      "name": "p05",
+      "sha256": "f2aee4d0ca71c3694aebc7028364cb052d05bb5d4515a21c6642ed22ab6cd275",
+      "bytes": 9276
+    },
+    {
+      "name": "p06",
+      "sha256": "e731a9f0b26e438993b32ff52a8de2a141de355e327449a876094f1841c8ac4b",
+      "bytes": 10612
+    },
+    {
+      "name": "p07",
+      "sha256": "0516bdfb70fd275b1f4386ab3493a8af9e1964a9335cf3686ab175ee363904de",
+      "bytes": 10558
+    },
+    {
+      "name": "p08",
+      "sha256": "4022d1a7a9abf018f10a7bcb92193acd31f77b152dc568e99e43fcf1deccb657",
+      "bytes": 10122
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

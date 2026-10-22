@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0248",
+  "title": "蓬花转了半个圈",
+  "version": 1,
+  "bodyCharacters": 511,
+  "pages": 8,
+  "duration": 165.322,
+  "bodySha256": "095ff6e8451663dea7a5f8d4d43c88e5291106a508485866cb053fa5c3b592e4",
+  "audioSha256": "9e43b543fd8fd54f71bef77872f80ddda6a6083591820d9ee2e87735688eed1b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "70faa873a6307b44c6eb0e00f69fd39dacb144a46300c11e34c85a1ebb958c04",
+      "bytes": 17166
+    },
+    {
+      "name": "p01",
+      "sha256": "8bfe6181baadf20e485b0c11a6f55df903d04b1d1a7a8737e76ea8a082e4415c",
+      "bytes": 13000
+    },
+    {
+      "name": "p02",
+      "sha256": "9e3f41f1bb4b2d67eb952410a93be20f2200f832fb9db24b166e243f3ac485d6",
+      "bytes": 12198
+    },
+    {
+      "name": "p03",
+      "sha256": "0253b945141e195cb136e59f64344e37082996b5411f1a159f5c5d80dcce1894",
+      "bytes": 13158
+    },
+    {
+      "name": "p04",
+      "sha256": "f3bcf749c0ccd8177daf647f53a75379131f697dd1b264c4a4d939e7ea167e5f",
+      "bytes": 11768
+    },
+    {
+      "name": "p05",
+      "sha256": "9830a424852521971fd4b1f7c3b73cc28060878de107b8e314390829f1c645db",
+      "bytes": 10244
+    },
+    {
+      "name": "p06",
+      "sha256": "6adb39adfd729e0829311a9050c31a965973ce0ec7c191a8b11206fa2d5042af",
+      "bytes": 11768
+    },
+    {
+      "name": "p07",
+      "sha256": "b433d69433619603eb9099fd9ae3c21814c9aeffd41509350a0010fc49a9a30a",
+      "bytes": 12666
+    },
+    {
+      "name": "p08",
+      "sha256": "18668c7e14655564b10ae1c5f5f3a71a98a3d929497429c3493a6f3467ae228e",
+      "bytes": 13084
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

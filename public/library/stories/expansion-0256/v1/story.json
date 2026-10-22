@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0256",
+  "version": 1,
+  "status": "media-ready",
+  "title": "慢条的早晨有星星",
+  "subtitle": "一顿星星下面的早餐",
+  "description": "绿苔花圃里的落梨，每晚都会少掉一点。花精莓灯想请那位没见过面的客人吃早餐，可她既不知道客人是谁，也不知道客人什么时候来。",
+  "ageBand": "3-5",
+  "theme": "未知的小客人",
+  "color": "#72966B",
+  "character": "花精莓灯：浅粉色短发，头顶两片小绿叶，穿紫色花瓣裙和绿布鞋，背有透明小翅膀。蛞蝓慢条：灰褐色身体，背上有深色细纹，两对触角，没有壳。",
+  "cover": "/library/stories/expansion-0256/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 160.618,
+  "detailUrl": "/library/stories/expansion-0256/v1/story.json",
+  "audio": "/library/stories/expansion-0256/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "绿苔花圃里，落着一只黄梨。每天早晨，梨上都会多一个小缺口。花精莓灯蹲下来闻闻，甜甜的。她想：有位客人来吃饭啦！我也想和他坐在一起，吃一顿香香的早餐。",
+      "image": "/library/stories/expansion-0256/v1/p01.webp",
+      "start": 0,
+      "end": 20.51
+    },
+    {
+      "id": "p02",
+      "text": "客人会不会是小兔呢？莓灯找来一根胡萝卜，摆在梨旁。第二天，她早早坐好，等到花瓣上的露珠都干了，还是没有客人。胡萝卜好端端的，黄梨却又少了一点点。",
+      "image": "/library/stories/expansion-0256/v1/p02.webp",
+      "start": 20.51,
+      "end": 40.06
+    },
+    {
+      "id": "p03",
+      "text": "也许该准备一把坚果？莓灯刚站起来，又坐下了。她摸摸自己的小绿鞋，轻声说：“我不知道他是谁，也不知道他什么时候起床。”说完，她决定先看看，不忙着换点心。",
+      "image": "/library/stories/expansion-0256/v1/p03.webp",
+      "start": 40.06,
+      "end": 59.922
+    },
+    {
+      "id": "p04",
+      "text": "她把胡萝卜和面包收回家，留下黄梨。傍晚，莓灯抱着一片花瓣披肩，又坐到梨旁。天慢慢暗了，苔地凉凉的。她没有喊客人，只听着草叶沙沙，睁大眼睛静静等着。",
+      "image": "/library/stories/expansion-0256/v1/p04.webp",
+      "start": 59.922,
+      "end": 80.384
+    },
+    {
+      "id": "p05",
+      "text": "一片叶子底下，慢慢伸出两根长触角。接着，一个灰褐色、软软的身子爬了出来，身后留着湿亮的细线。莓灯轻轻问：“你好，是你来吃梨吗？我还不知道你叫什么呢。”",
+      "image": "/library/stories/expansion-0256/v1/p05.webp",
+      "start": 80.384,
+      "end": 100.606
+    },
+    {
+      "id": "p06",
+      "text": "“我是蛞蝓慢条。这个熟梨真香呀。”小客人说。莓灯笑了：“我早晨一直等你。”“那时候我在湿叶底下休息呢。天黑出来，才是我的早餐。”原来，他们的早晨不一样！",
+      "image": "/library/stories/expansion-0256/v1/p06.webp",
+      "start": 100.606,
+      "end": 121.644
+    },
+    {
+      "id": "p07",
+      "text": "“那我可以陪你吃早餐吗？”莓灯问。慢条摆摆触角：“好呀。”她回家拿来小面包，在梨边坐下。慢条一点点吃梨，她一小口一小口吃面包，谁也不催谁，星星亮了起来。",
+      "image": "/library/stories/expansion-0256/v1/p07.webp",
+      "start": 121.644,
+      "end": 141.362
+    },
+    {
+      "id": "p08",
+      "text": "吃完面包，莓灯打了个小呵欠。“我的早饭还没吃完，你就困啦？”慢条问。莓灯把花瓣披到肩上，笑得翅膀轻轻颤。梨树下面，一个朋友说早安，一个朋友说晚安。",
+      "image": "/library/stories/expansion-0256/v1/p08.webp",
+      "start": 141.362,
+      "end": 160.618
+    }
+  ],
+  "buildHash": "007bdfe028d36932f65ea79d0bf9eecdf4d986086bf4c62c66e33d012637fe16"
+}

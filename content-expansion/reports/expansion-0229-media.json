@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0229",
+  "title": "路团背上的十二盆香草",
+  "version": 1,
+  "bodyCharacters": 1027,
+  "pages": 12,
+  "duration": 306.378,
+  "bodySha256": "a45cf21f073a9fcbd49a89ab2c123befa05aab5c2ba4ee3e26821f93dd48a64d",
+  "audioSha256": "6ac38ede74cf54fd11e55979a8858782a6c90cb8a8c542a6d14f9d6dfa3d45d1",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "23f0156fb5ecf74acb76f78e46132bab3471da4dec8f4f5595e603bb75e136df",
+      "bytes": 17066
+    },
+    {
+      "name": "p01",
+      "sha256": "1cdf6426078ce5648b6a18d49d1cb5100d909e516d8e443f87a17eb36af75527",
+      "bytes": 13002
+    },
+    {
+      "name": "p02",
+      "sha256": "be0f6d0362daaa0195d054254eec25b29e0935973b7bcb783bf1035f41c1fa38",
+      "bytes": 11766
+    },
+    {
+      "name": "p03",
+      "sha256": "28d9f284bc6566a244f5b7364bb71be7cfd9908119a9c3fe1f871c43f9a639c2",
+      "bytes": 13278
+    },
+    {
+      "name": "p04",
+      "sha256": "00fe3bf6719c47803a1d8323eb4d7cceeb2bc4637334b3ddd1cb141a6fa7790d",
+      "bytes": 13446
+    },
+    {
+      "name": "p05",
+      "sha256": "4576ef7b57a1cb7f99e99e287e7998546dea7c2274985e23221afb2f6510997c",
+      "bytes": 13154
+    },
+    {
+      "name": "p06",
+      "sha256": "ae5ff89f36c708e1869e08cd17621e4345ad00c2f07b8b6247d3d1ab27f5d025",
+      "bytes": 13722
+    },
+    {
+      "name": "p07",
+      "sha256": "62c5c813e908d16cbb6d2b29429d86729c7f1763fd0d10888df3ae12889f8efe",
+      "bytes": 13394
+    },
+    {
+      "name": "p08",
+      "sha256": "bf2a85f1458333762ba96ecf0d926e262fd90e3a9cefb5c91859c70a19220354",
+      "bytes": 13632
+    },
+    {
+      "name": "p09",
+      "sha256": "9a7d8b268219e5ad697ee1ac1af64b1e5a869d8a214842c0dad38b1c30c7ae49",
+      "bytes": 13656
+    },
+    {
+      "name": "p10",
+      "sha256": "c8f1d511afa7c732eef88fd6ec93ecc8551d54e301177bb7a31219d98e369d58",
+      "bytes": 13790
+    },
+    {
+      "name": "p11",
+      "sha256": "a65d26786c5d11c69a34f7377c45cf06c6dbd7c40bb1a83c48d52c1ea2b0414d",
+      "bytes": 12930
+    },
+    {
+      "name": "p12",
+      "sha256": "b1fd87d1bf357be9e25b7361f5263ecfdf78f616122d2156b88fe200b9def004",
+      "bytes": 12450
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

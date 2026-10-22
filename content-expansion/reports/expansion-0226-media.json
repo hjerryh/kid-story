@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0226",
+  "title": "灰披风里装着土豆蜗牛",
+  "version": 1,
+  "bodyCharacters": 992,
+  "pages": 12,
+  "duration": 293.826,
+  "bodySha256": "f923eb65e7b108e4b3a289f6537e23a4ab38021ad3d66e212093606877e7e5a3",
+  "audioSha256": "c57cb3dfcf8c0921fece6233c580f5ea63e372b6e705539190702cc5ce135e64",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f4f0c89a11c54bd12e69870c4e2c26c37aaf556ecb5503ae30318b4aec1f8a51",
+      "bytes": 15752
+    },
+    {
+      "name": "p01",
+      "sha256": "7798d362bd1db5d786ea733eed782d415ce190afc45f8d41f9ae7b5c3ea7db82",
+      "bytes": 13574
+    },
+    {
+      "name": "p02",
+      "sha256": "1f6eb67e2d205e526be1767cc5118fe8c8aefe4c8137ffb64de0406bff832157",
+      "bytes": 12978
+    },
+    {
+      "name": "p03",
+      "sha256": "3ba98e2217b273c5a8346a4a35b3b06e111c99ede85842aad7ca077f5af52d2c",
+      "bytes": 15634
+    },
+    {
+      "name": "p04",
+      "sha256": "f6f2931efdda18abf7b97ad43d788e6c538727efbd71ea213f5cfdcc8d412c0b",
+      "bytes": 13584
+    },
+    {
+      "name": "p05",
+      "sha256": "d06264f85b7ac9c9792442ae86c8dd276f44843abb68bc265fcbf4e3fccd3a7d",
+      "bytes": 13764
+    },
+    {
+      "name": "p06",
+      "sha256": "26f74db937d3d34381289924605e38cf0bee482968ae4205c0d698b99dc22658",
+      "bytes": 15150
+    },
+    {
+      "name": "p07",
+      "sha256": "eb5006f746dd0045de41e7177c4169b9c189ad4a3962cf44c483d0e83e852bc4",
+      "bytes": 15314
+    },
+    {
+      "name": "p08",
+      "sha256": "0d8bf438e85d9c0b9713566f381142371b197f86b06ad4c88131365a35a3668e",
+      "bytes": 14356
+    },
+    {
+      "name": "p09",
+      "sha256": "bb910f6f756bac42b8496ea729df880da33cb20b8d0663f7a5a1fb7847d43e75",
+      "bytes": 14506
+    },
+    {
+      "name": "p10",
+      "sha256": "0e4f2e472439988d170ed4023decb605774b8a8d77a5a76e345b647d04c61752",
+      "bytes": 13256
+    },
+    {
+      "name": "p11",
+      "sha256": "311158452da3a9baf166ff17c66b530ae8c8bf39eaa46f119cb7ccfa6f3a59f8",
+      "bytes": 13510
+    },
+    {
+      "name": "p12",
+      "sha256": "04feccd8655e965fd303429450b36f5ebbbe06cf2c2999078446e028a196d96a",
+      "bytes": 17106
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
