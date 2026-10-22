@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0146",
+  "title": "椅背上长出灰羽毛",
+  "version": 1,
+  "bodyCharacters": 992,
+  "pages": 12,
+  "duration": 299.658,
+  "bodySha256": "37da6794904d093ec85c277f35b0312310597533afc70e487a2dd45fd61c1a30",
+  "audioSha256": "64c10a87898251836b29c3750c879a9a6aa14191b43a8c23585b254430126d01",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "685a4757494d522ad1a577e586f93014f2101d2fc5ed775c5193dd906afe69f3",
+      "bytes": 14690
+    },
+    {
+      "name": "p01",
+      "sha256": "6cb878db2e5ab85160665466c79aa917f180a67142a6ad35de2ca65490c4bab5",
+      "bytes": 13138
+    },
+    {
+      "name": "p02",
+      "sha256": "88ab89a2ebad7e1c7ca4bd05b5346fcd93d167d1070a7048172979a003352654",
+      "bytes": 12564
+    },
+    {
+      "name": "p03",
+      "sha256": "96e330003a2155118987c445585b614d7e06e9e8ad69be7a7bf9125314ba2fed",
+      "bytes": 12810
+    },
+    {
+      "name": "p04",
+      "sha256": "573a1457eb7279b8f6579690185e143e1adc3149df9679a6e0337ccf79ac1213",
+      "bytes": 11484
+    },
+    {
+      "name": "p05",
+      "sha256": "d9cfd9bbc99dd13a77d74480639bce06c1a61ef0413a6df62d3a14d3a8989bc8",
+      "bytes": 12096
+    },
+    {
+      "name": "p06",
+      "sha256": "4395ac26dec30af460a75fe4e8a691427d038a42dc4c815babe0cb88e885b19b",
+      "bytes": 9566
+    },
+    {
+      "name": "p07",
+      "sha256": "df8d1b74eaffbe1039c4ce5ca69aa85a63686d68329f6510bf1101c5a286a63f",
+      "bytes": 11276
+    },
+    {
+      "name": "p08",
+      "sha256": "89b329bc36e2ec2b81d1152e622066dbf0f9633e1e8a64fb9d8d7a3bc6e6ff7e",
+      "bytes": 11498
+    },
+    {
+      "name": "p09",
+      "sha256": "e6abdbe8bd4a006b0661f12b48cb039b3b7870b34ab393229ca35e0acc3d6747",
+      "bytes": 14052
+    },
+    {
+      "name": "p10",
+      "sha256": "7ae36549f9705890139f00c8cf07afa73c27cdf267cc93446949c9756b2dd7a3",
+      "bytes": 11194
+    },
+    {
+      "name": "p11",
+      "sha256": "434fa7a89f77668275e2ef1c0c1f83f7c5affb5621d57644885fd3f3f4f68243",
+      "bytes": 11024
+    },
+    {
+      "name": "p12",
+      "sha256": "b997bc5d5e16438dd702804ac2c3164c7ce494caaadf050fe37f8ec3c4b2400f",
+      "bytes": 15376
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

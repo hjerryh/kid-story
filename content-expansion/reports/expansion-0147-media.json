@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0147",
+  "title": "圆圆想看松树的帽子",
+  "version": 1,
+  "bodyCharacters": 1045,
+  "pages": 12,
+  "duration": 314.706,
+  "bodySha256": "6b2360246827cfa6ca019cdb4cf2ce816df30c732c991bb3ca8b72a2f2e3e786",
+  "audioSha256": "12b46f996f5f7aec021d0b58694ea7ff2f8fdfa42894781f396a8f7ecdc32bda",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d2232eb73cc3bf9fbdf789ad383475592c1894e9d0bd051e3400e1fcdcd4dd03",
+      "bytes": 21094
+    },
+    {
+      "name": "p01",
+      "sha256": "f64d020ee548062dcb918fbd8c121d8edf5790dced4b53ae2eca646f53455ae5",
+      "bytes": 13834
+    },
+    {
+      "name": "p02",
+      "sha256": "32ceb4cffc651e43ed561145f88321738628c09f073f0827e63434b428410127",
+      "bytes": 13298
+    },
+    {
+      "name": "p03",
+      "sha256": "4fbdda70c733728914faaf10044869b5720f91314e40497ff6378c077225b52c",
+      "bytes": 14122
+    },
+    {
+      "name": "p04",
+      "sha256": "17240c93c644ef448429c45cda16ed75fa91790d49a884778f2ab09cc6fff2c3",
+      "bytes": 13264
+    },
+    {
+      "name": "p05",
+      "sha256": "9aa7256117cc0a1d2a693a7d7e1420f5a9cc36ec1cb51eef891c139fc0fcbc58",
+      "bytes": 19938
+    },
+    {
+      "name": "p06",
+      "sha256": "82e37316c1cdad858eccc19374124fed1adf6785f8b186675bd1492743992d41",
+      "bytes": 16926
+    },
+    {
+      "name": "p07",
+      "sha256": "d6e06192f14755ee74f73f71d319f8c9cd7c1db5c744e2fbecfcb4d442d01f3b",
+      "bytes": 19902
+    },
+    {
+      "name": "p08",
+      "sha256": "8172e2da83e8813e6cae7020d2860adc68063bbc35623230a21caf884ff86e8e",
+      "bytes": 16730
+    },
+    {
+      "name": "p09",
+      "sha256": "0313fdf00e660e7bf080e52ad46fd61a47ad22ded130da795fc06a5daf3ddc91",
+      "bytes": 18226
+    },
+    {
+      "name": "p10",
+      "sha256": "48653090b8bb8af973e03f89ee3745b24461912c35f2f3eceeab0357b57001ae",
+      "bytes": 16438
+    },
+    {
+      "name": "p11",
+      "sha256": "18a3e17bc3a5b4e3e0026cf880df0ed99f070a36e92dc7f303750dd00b16c3b4",
+      "bytes": 20256
+    },
+    {
+      "name": "p12",
+      "sha256": "697ef2f7963634b50de83bb4e87d1926e433e74676987607b137ede83abf7573",
+      "bytes": 20070
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

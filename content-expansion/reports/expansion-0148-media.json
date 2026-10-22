@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0148",
+  "title": "荷塘怎么到了沙鼠家",
+  "version": 1,
+  "bodyCharacters": 965,
+  "pages": 12,
+  "duration": 287.442,
+  "bodySha256": "4f489b52ed51ed927a37e1d59f26eac9c10f20300c4487a6b28582ccf089ee32",
+  "audioSha256": "31002614688b234d9f2b38ca6a36de23de824f0922b4d3d4f3c7197313c259ad",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "a84d66bec453415f5ade9d6a119227c13cf3d485e0c086090da1eda616d50fe1",
+      "bytes": 17410
+    },
+    {
+      "name": "p01",
+      "sha256": "aceab6404a4136db87eca400984f0d4b2d9e8e4d2dc69aabab3a9d38baa5a9aa",
+      "bytes": 16440
+    },
+    {
+      "name": "p02",
+      "sha256": "f9f44ab62e424af284968f7a2d4f3c18216413901c14bcf0934a5fff5e3cb49c",
+      "bytes": 15554
+    },
+    {
+      "name": "p03",
+      "sha256": "719551e72eb4b6fa49602f7d5a3a53b7443afeec56e7b26259f915a8b48e2fc7",
+      "bytes": 14450
+    },
+    {
+      "name": "p04",
+      "sha256": "55a7e6de2b5195d3dcf3ac19d23d9b2e93794ee16c9e75a53d2e2a3f5a57029c",
+      "bytes": 13896
+    },
+    {
+      "name": "p05",
+      "sha256": "52056baf06f007669dacf141563b74847be8aa98cb2d02522d80746cef776403",
+      "bytes": 15590
+    },
+    {
+      "name": "p06",
+      "sha256": "648b10410b660e41c83d5b3f031cd5ecaf1e8b61d7ebe5303267ae725c332cae",
+      "bytes": 13562
+    },
+    {
+      "name": "p07",
+      "sha256": "03b9dcec6f7191ac8d5c89060da369b93aa0fd6b3c065ad6e75cebef21358674",
+      "bytes": 14624
+    },
+    {
+      "name": "p08",
+      "sha256": "4bab0940c84fe481be287a0473667815ee2c4e38e05955483c894ed52fed21c2",
+      "bytes": 14956
+    },
+    {
+      "name": "p09",
+      "sha256": "7f51bc24faca39fdaeec9cbae3499026fb7418033f0a2e63dca5dea064813be1",
+      "bytes": 13288
+    },
+    {
+      "name": "p10",
+      "sha256": "0bc64dfe0e43ca250eef0720b7ad39439e0dbd284a3b02e442c4cc3458624cad",
+      "bytes": 14224
+    },
+    {
+      "name": "p11",
+      "sha256": "de43e0e5743541cf0821e328c117b5ba72b4f32860109c5f4dd4919b84469470",
+      "bytes": 14480
+    },
+    {
+      "name": "p12",
+      "sha256": "e942b5e5318b93f048c94f261f81a0010765adbf1a79c5f3754aba21b29530dd",
+      "bytes": 15052
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

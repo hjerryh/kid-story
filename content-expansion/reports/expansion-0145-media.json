@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0145",
+  "title": "山肚子里等一盏灯",
+  "version": 1,
+  "bodyCharacters": 1081,
+  "pages": 12,
+  "duration": 321.282,
+  "bodySha256": "d81783786522f6855bb80a341560dc8774f8ab5c28b8d830cb173088dc726a3c",
+  "audioSha256": "f7255765efb9244be83ec3973c86ad56c8a5d48192c6ba7f0c0369b7201e86fc",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "55186a7c7e26325b858ff585cd5529f97686567ddada1a054aef019908b7d692",
+      "bytes": 15482
+    },
+    {
+      "name": "p01",
+      "sha256": "2c7ce8e2d5b695434097bb55944c32908a58dec2986a69c2b2243c7414f41b06",
+      "bytes": 12182
+    },
+    {
+      "name": "p02",
+      "sha256": "7aa125694571ff0461c2226db8c0b369fdcdc48503e52964e1f966f599ec28e6",
+      "bytes": 12620
+    },
+    {
+      "name": "p03",
+      "sha256": "23a3244fe3b4280f6277785ac9781da49dcbf48a3bfce9e1e2b2983eccd5a0d4",
+      "bytes": 14008
+    },
+    {
+      "name": "p04",
+      "sha256": "aff9c975be3379f89d2e4be387b0a8ee784a53e62fb892790e0bfa77b157e0b4",
+      "bytes": 13474
+    },
+    {
+      "name": "p05",
+      "sha256": "37f99b1a85c90cf31da50951be2c36c4f231126dd1f114955ea8023f04081aae",
+      "bytes": 13062
+    },
+    {
+      "name": "p06",
+      "sha256": "dda1388653f6b902383f569c2a3cff587380265a2edcef1938e1835291eece15",
+      "bytes": 12770
+    },
+    {
+      "name": "p07",
+      "sha256": "294a43b740f32fd7d69cb511950e8c28fb6697525f1d58f6d0ebd34efcf783e4",
+      "bytes": 11722
+    },
+    {
+      "name": "p08",
+      "sha256": "8242281d95c4a9ca2a4cc0f75fe51f7373a1d1436f23c1b0fd7fdcae46be665d",
+      "bytes": 13964
+    },
+    {
+      "name": "p09",
+      "sha256": "434a78523cb73f6c461a68ebab9c4a8a880fcddf84b4c4b9ac69c206e44644bb",
+      "bytes": 13862
+    },
+    {
+      "name": "p10",
+      "sha256": "c4407565d138dfab27a4a6ae95d424e1af18a11f6dfc89ded8f764cb1da1b3dd",
+      "bytes": 11046
+    },
+    {
+      "name": "p11",
+      "sha256": "20a2bcdb608623609e516b4fdd9f3e5eeedc969b744614d96d51153c49d6ea69",
+      "bytes": 12374
+    },
+    {
+      "name": "p12",
+      "sha256": "a4645787a1026883e0961f23401a0c5770f9160e57ed8a07ceb7f2b8d1d774be",
+      "bytes": 13206
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

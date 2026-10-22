@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0144",
+  "title": "石露一路看着鞋跟",
+  "version": 1,
+  "bodyCharacters": 1031,
+  "pages": 12,
+  "duration": 304.17,
+  "bodySha256": "6f5b03e58591da4d2cc93b0ea33cd0233f0b0e5f1e63cf0cae28eae1a5810e29",
+  "audioSha256": "3329385ebbb92988f0f46824c0cf2a26bb6b44ab666cf4de79d14e74cf1c4c0e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b019806907849390dc9a6175729bb8d3393a46021b34a85eaf5fd98ab9e8ffd3",
+      "bytes": 18346
+    },
+    {
+      "name": "p01",
+      "sha256": "a2f5f58bde8b9f7deac206e13db9da9518fe47738f0adee7e59e19a3c789f72b",
+      "bytes": 15248
+    },
+    {
+      "name": "p02",
+      "sha256": "dd30375c526ee3dca2ede5b12cfabc5bf2ce911b4d809f21acc3429d3bd2f4c8",
+      "bytes": 13118
+    },
+    {
+      "name": "p03",
+      "sha256": "0fdbe3f3932d6b8a5bdca0cb14c02645303eab1efb7bb1c3cfc7a0dd6d4b05d9",
+      "bytes": 13258
+    },
+    {
+      "name": "p04",
+      "sha256": "1b9417605c74cf0dab1a784b089849bd9f8fb4825bfaf76932ebe82a5d9e8c11",
+      "bytes": 14044
+    },
+    {
+      "name": "p05",
+      "sha256": "5a5090922c91b47351159e774e4f1c0ba75563015f4bfb231d4907c9babb2995",
+      "bytes": 13720
+    },
+    {
+      "name": "p06",
+      "sha256": "bf3adbe745110a91807229f98392883626a7a93434415136e6186ed482657895",
+      "bytes": 12758
+    },
+    {
+      "name": "p07",
+      "sha256": "e6c928e3095b18e677b50ef5d9b66470695cc3c115513be75b10f63da8b99e36",
+      "bytes": 12614
+    },
+    {
+      "name": "p08",
+      "sha256": "769b3d10e56a28a6bf0beb7ab1775736a8715e7cd7e5c85117201353771c8470",
+      "bytes": 11920
+    },
+    {
+      "name": "p09",
+      "sha256": "168f0c82849b3cf75cf5fa0597831af8aeda994b17daa682bedb4a3d70f08c4a",
+      "bytes": 13274
+    },
+    {
+      "name": "p10",
+      "sha256": "158db728ca49801437ae192d681f9fdb667169d2c1debf847d80104ac2d7b5e5",
+      "bytes": 15316
+    },
+    {
+      "name": "p11",
+      "sha256": "73447b0c06070c3c29c4e600a8eb4aaaa1b55e39d595f729aee172cb58ddaf1e",
+      "bytes": 16544
+    },
+    {
+      "name": "p12",
+      "sha256": "46d60dfcffc69d227369c34a421f0885d519270a926658b42fd82ca237e8d06c",
+      "bytes": 15130
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
