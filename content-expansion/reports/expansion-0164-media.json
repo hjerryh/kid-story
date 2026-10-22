@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0164",
+  "title": "松松怎么又趴下了",
+  "version": 1,
+  "bodyCharacters": 490,
+  "pages": 8,
+  "duration": 161.434,
+  "bodySha256": "5628197cce240a3e382d3f51b92d01e1dcb9b6436fb6790a889aa1bac53bbb49",
+  "audioSha256": "d5b9c84114c68a4462f9d87ef82691976f3a713e2e50e51df714717f424b36cb",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5f5d9ae71a7c92ef8c74fad055d51e178efa94f1e8c3429f053559ac27aaf42c",
+      "bytes": 14706
+    },
+    {
+      "name": "p01",
+      "sha256": "7e3c71c060215d7b0fbe7c769fe951bf172eb07a0922e523cf79f4cf2b2bfdfb",
+      "bytes": 14376
+    },
+    {
+      "name": "p02",
+      "sha256": "f68a6560980305fb90ad740e592354f4d87b84eab6bdb8898e65807d907f1ae6",
+      "bytes": 13904
+    },
+    {
+      "name": "p03",
+      "sha256": "77534dce637c7f8b09e755101602ec82d9d1fb870d56b70e11f623bcd106d8c7",
+      "bytes": 13388
+    },
+    {
+      "name": "p04",
+      "sha256": "729e0a06c63341d141627af043fae14598321f5df61b59120ee1a7d49d1a3e96",
+      "bytes": 14602
+    },
+    {
+      "name": "p05",
+      "sha256": "2e06f391acb8a5a5fd8713112496cf1b89fbb75c497d0c4088f537526ca436f5",
+      "bytes": 14390
+    },
+    {
+      "name": "p06",
+      "sha256": "b8a83c1cb72c3317c0b84d574bdd9798b64e78b2b71d58d32148ddd97dcbd520",
+      "bytes": 14058
+    },
+    {
+      "name": "p07",
+      "sha256": "ee231b4a93b3684570d47ad38aa13c924027b82028ce07bfb958d46ee914491d",
+      "bytes": 10808
+    },
+    {
+      "name": "p08",
+      "sha256": "964def0c6bfec71f25ccc81f3cbf2661e7d07750df564ef4d019d38b23cc95f6",
+      "bytes": 15138
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0168",
+  "version": 1,
+  "status": "media-ready",
+  "title": "袋婆婆今天不漏啦",
+  "subtitle": "花籽搬家的一天",
+  "description": "豆芽想送袋婆婆去花圃，却为了偷看花籽拆开了她的袋底。花籽漏出来了，豆芽藏起的那句话，也让补救变得越来越难。",
+  "ageBand": "3-5",
+  "theme": "诚实与补救",
+  "color": "#A6BC79",
+  "character": "豆芽是一位小花精，浅绿色短发，头顶两片圆叶，穿白色短褂和栗色短裤，背着小藤篮。袋婆婆是一只米黄色厚纸袋，袋口有两道折纹，正面长着弯弯的眼睛。",
+  "cover": "/library/stories/expansion-0168/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 166.666,
+  "detailUrl": "/library/stories/expansion-0168/v1/story.json",
+  "audio": "/library/stories/expansion-0168/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "花籽仓库里，袋婆婆装着一肚子花籽，沙沙地打着小呼噜。豆芽要送她去花圃。她笑着说：“这回，我也要看看小花籽怎样住进泥土。”豆芽把藤篮摆好，心里痒痒的。",
+      "image": "/library/stories/expansion-0168/v1/p01.webp",
+      "start": 0,
+      "end": 20.582
+    },
+    {
+      "id": "p02",
+      "text": "花籽究竟长什么样？袋口折得紧紧的，袋底却翘着一个小纸角。豆芽轻轻一拉，哗啦，几粒花籽滚了出来。“呀，哪里开了？”袋婆婆问。豆芽忙捂住纸角：“是风吹的。”",
+      "image": "/library/stories/expansion-0168/v1/p02.webp",
+      "start": 20.582,
+      "end": 41.74
+    },
+    {
+      "id": "p03",
+      "text": "豆芽捡回花籽，把纸角折上去，压呀压。可他一松手，沉沉的花籽就把纸角顶开了。他又折一次，还是漏。窗外的风已经停了，一粒花籽却滴溜溜地滚到他的脚边。",
+      "image": "/library/stories/expansion-0168/v1/p03.webp",
+      "start": 41.74,
+      "end": 61.914
+    },
+    {
+      "id": "p04",
+      "text": "“那我躲进柜子吧，那里没有风。”袋婆婆说。豆芽看看黑黑的柜子，又看看门外松软的花圃。他低下头：“不是风。是我想看花籽，把你的底拆开了。刚才，我没说真话。”",
+      "image": "/library/stories/expansion-0168/v1/p04.webp",
+      "start": 61.914,
+      "end": 82.736
+    },
+    {
+      "id": "p05",
+      "text": "袋婆婆轻轻叹了口气：“原来我的底松了呀。”豆芽摸摸鼓鼓的袋肚子：“先请花籽出来，我就能折好了。”他展开袋口的折边，拿来一只宽木碗，慢慢倒出花籽。袋婆婆一下变得轻飘飘的。",
+      "image": "/library/stories/expansion-0168/v1/p05.webp",
+      "start": 82.736,
+      "end": 103.918
+    },
+    {
+      "id": "p06",
+      "text": "豆芽沿着旧折痕，把袋底合拢，抹上一层纸胶，再压上一块平木板。这次，底下没有花籽顶着了。他坐在旁边等胶干。袋婆婆扁扁地躺着，说：“我好像一张正在午睡的饼。”",
+      "image": "/library/stories/expansion-0168/v1/p06.webp",
+      "start": 103.918,
+      "end": 124.236
+    },
+    {
+      "id": "p07",
+      "text": "胶干透了，豆芽轻轻摸摸袋底，纸边牢牢贴在一起。他先装进一小把花籽，没有漏，再把剩下的装回去。袋婆婆坐进藤篮，肚子又圆了。豆芽提起篮子，一步一步走向花圃。",
+      "image": "/library/stories/expansion-0168/v1/p07.webp",
+      "start": 124.236,
+      "end": 145.01
+    },
+    {
+      "id": "p08",
+      "text": "到了花圃，豆芽从袋口取出花籽，播进浅沟，盖好细土，轻轻浇水。袋婆婆一直看着。回去时，她空着肚子躺在篮里：“这回不是漏光的，是种好了。”豆芽笑了，篮子轻轻摇。",
+      "image": "/library/stories/expansion-0168/v1/p08.webp",
+      "start": 145.01,
+      "end": 166.666
+    }
+  ],
+  "buildHash": "04bb55ab09012afcc542d90407b4a43b530de9fc6e3530835f10b95f97a1f0ce"
+}

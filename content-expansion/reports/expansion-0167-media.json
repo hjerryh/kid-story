@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0167",
+  "title": "三位纸乘客坐稳啦",
+  "version": 1,
+  "bodyCharacters": 526,
+  "pages": 8,
+  "duration": 171.658,
+  "bodySha256": "76789c21cca7f2b9c7bb86cd1980d61b7a2d2a8468dc261726402d65d7f1365e",
+  "audioSha256": "48bffa636229fa0522d78b14e6413964ad557acc46669284391ebe7bf7ed977f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "893cbddd99ffd9d70e13b90c067b661f8544fc3509fc48f9e2d3b0b57e4a7745",
+      "bytes": 16430
+    },
+    {
+      "name": "p01",
+      "sha256": "da7425ea94403569af80d1104b04b51aa08c5debf5ad738a49e1aa05bf2e7f69",
+      "bytes": 17548
+    },
+    {
+      "name": "p02",
+      "sha256": "3e299d73726377e6d66c4ddd2f7525a87125a23a6b6f2e5b5960d6caba0ff0d5",
+      "bytes": 16476
+    },
+    {
+      "name": "p03",
+      "sha256": "cef6d5f6467064e282ed0ca8facd0de74de8008b16a85b7e3bbf9a4de40a1647",
+      "bytes": 17052
+    },
+    {
+      "name": "p04",
+      "sha256": "7cbc2d0e1edb0da722b8bfe0640d9a562feb87ec8671fc85251bd5ec1df13c08",
+      "bytes": 17562
+    },
+    {
+      "name": "p05",
+      "sha256": "f9cb6690cfec213b308180532bd024735e34ae00521931313fcfe2eb3d795d99",
+      "bytes": 16530
+    },
+    {
+      "name": "p06",
+      "sha256": "7674572d9c1c641edeb03ec2720bac3da4b46a5bf5f52bc6c69d039e0f67adf9",
+      "bytes": 17178
+    },
+    {
+      "name": "p07",
+      "sha256": "acd744a664947dcb108cbedbc960f492cc25a2507d7aa3254374f85498d019bd",
+      "bytes": 16772
+    },
+    {
+      "name": "p08",
+      "sha256": "4518454e7b45776f4a0b391db1fe32091a98757895fae96849aa6a3be32c0be4",
+      "bytes": 15786
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

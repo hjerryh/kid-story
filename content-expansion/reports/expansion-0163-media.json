@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0163",
+  "title": "袋袋把自己折矮了",
+  "version": 1,
+  "bodyCharacters": 513,
+  "pages": 8,
+  "duration": 162.178,
+  "bodySha256": "b4291e4b1ccd41fefdfd16813adaeb23a15ecea4222d1462c6bfe2e98d07856f",
+  "audioSha256": "8ad2384d65dfb6612954e6b61a20e790c266a93a1feb8de3def524501d284848",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0621b5e70cb2e6d31e48a3ec38f4f7777c70630ffef9096b3ec4836a50b2de27",
+      "bytes": 14594
+    },
+    {
+      "name": "p01",
+      "sha256": "c2ac09312a02659389df806ab78551be93de63abd9df7a041d6c1b027ff973a0",
+      "bytes": 12778
+    },
+    {
+      "name": "p02",
+      "sha256": "673a98e21b181b6c510ad2208f731835c9a73f718843121921824063bbc044e4",
+      "bytes": 12884
+    },
+    {
+      "name": "p03",
+      "sha256": "00cc0a36c582f4d07bb81b10a4321cf931e27a842fbcf4bb910232bc4a8e9280",
+      "bytes": 14014
+    },
+    {
+      "name": "p04",
+      "sha256": "3d04defd3f688caaad0932c6f213222a8a7f504f5aa8e6a02945bc4de7f8a8fd",
+      "bytes": 14754
+    },
+    {
+      "name": "p05",
+      "sha256": "e71d5f39f8c2c2f0690cd5743b277b2ba29e0e41619210cb5ffee57f2f7cef62",
+      "bytes": 14256
+    },
+    {
+      "name": "p06",
+      "sha256": "1ac9dd56f7e18ea33d664de75364b29cb25dab862548158a691eb2009573b195",
+      "bytes": 12724
+    },
+    {
+      "name": "p07",
+      "sha256": "afc412bfab8894b19a6ed98ffe6d918ab3da131df94f2e09cc8cf01a0592132a",
+      "bytes": 12610
+    },
+    {
+      "name": "p08",
+      "sha256": "148ffa5b757aecddf6194f307e3eb86b362e3c2b32f7f6f6dd1167810333330c",
+      "bytes": 14502
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0161",
+  "title": "条条的盐毛衣",
+  "version": 1,
+  "bodyCharacters": 506,
+  "pages": 8,
+  "duration": 163.738,
+  "bodySha256": "159a0833690f60e2d1150dd61fa2276e4064b67ec34250e3f8a896c276403748",
+  "audioSha256": "fa35375db01335c1368d1910a5db963a18ef0b53d77d97fdf96bdd923aad4547",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8842addd10e89d92cc681e73f387453583561c83d3b43b624cdd6bc8eca5ad94",
+      "bytes": 14066
+    },
+    {
+      "name": "p01",
+      "sha256": "1cdf7b2dbf74c65c61fe0f3811d3099546cb79bb6c7dadb899e154380500a5b9",
+      "bytes": 9614
+    },
+    {
+      "name": "p02",
+      "sha256": "d925f08c82351dbe0212f74839c46b1f579bdd01d4178117d9a1bc8c78999e67",
+      "bytes": 9760
+    },
+    {
+      "name": "p03",
+      "sha256": "44c05ab5acae40ce1fb0d18c1f36dfa6a1aa0536fb80161d34ecf400015820c4",
+      "bytes": 10866
+    },
+    {
+      "name": "p04",
+      "sha256": "006653550a8fa038e4cf2a69c171e5f271eee62dd59857607b04c6d26ea1caa7",
+      "bytes": 11108
+    },
+    {
+      "name": "p05",
+      "sha256": "088500e7ef058996d93d06001ed19ae22063e9e925e3b6fbed4a80e15f16eb23",
+      "bytes": 10938
+    },
+    {
+      "name": "p06",
+      "sha256": "0e81d19ebe09cda1d069526a9f16f578c9bb8832bdcfaec1b1ec715f3368e41d",
+      "bytes": 10896
+    },
+    {
+      "name": "p07",
+      "sha256": "6df5ac8ad32e156ccf1d88f5042a9e3feebb45a826435586ab6bcdf5ac873eda",
+      "bytes": 11270
+    },
+    {
+      "name": "p08",
+      "sha256": "eee7868ba7f2c5499fa85b858503a82fa6499eab9fcfd06f40027d9fea3a5e40",
+      "bytes": 9892
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

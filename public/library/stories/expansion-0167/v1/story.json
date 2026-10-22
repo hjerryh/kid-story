@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0167",
+  "version": 1,
+  "status": "media-ready",
+  "title": "三位纸乘客坐稳啦",
+  "subtitle": "点心纸坐车回家",
+  "description": "野餐结束，小田鼠豆绒想把花地里的点心纸收干净，可风总把收好的纸吹出去。一只吃空的点心盒，让这场追纸游戏有了新的玩法。",
+  "ageBand": "3-5",
+  "theme": "爱护花地",
+  "color": "#83BFA4",
+  "character": "小田鼠豆绒：浅棕色绒毛，圆耳朵，穿蓝色短背心，挎绿色小布包。纸风车折折：四片红白相间的纸叶，中央有一张圆圆的笑脸，固定在矮木杆上。",
+  "cover": "/library/stories/expansion-0167/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 171.658,
+  "detailUrl": "/library/stories/expansion-0167/v1/story.json",
+  "audio": "/library/stories/expansion-0167/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "纸风车小岛上，豆绒坐在花地旁吃点心。纸风车折折转着红白叶子，替她数天上的云。忽然，呼的一阵风，三张点心纸飞进了花丛。“等等，我要带你们回家！”豆绒赶紧站起来。",
+      "image": "/library/stories/expansion-0167/v1/p01.webp",
+      "start": 0,
+      "end": 22.214
+    },
+    {
+      "id": "p02",
+      "text": "一张纸躺在草上，一张搭着花瓣，还有一张贴在豆绒的鞋尖。她沿着花地边，轻轻把纸捡起来，放进小篮子。被挡住的小白花露出脸来，上面还有一颗亮晶晶的小水珠。",
+      "image": "/library/stories/expansion-0167/v1/p02.webp",
+      "start": 22.214,
+      "end": 41.932
+    },
+    {
+      "id": "p03",
+      "text": "豆绒刚提起篮子，风又来了。扑啦啦，纸片跳出篮口，一张追着一张跑。“哎呀，白捡啦！”豆绒追了两步。折折在木杆上喊：“慢一点，你的小脚快碰到花啦！”豆绒立刻停住。",
+      "image": "/library/stories/expansion-0167/v1/p03.webp",
+      "start": 41.932,
+      "end": 63.762
+    },
+    {
+      "id": "p04",
+      "text": "这回，豆绒蹲下来，伸手去够纸。捡一张，放一张，再把小手帕盖在篮口。她刚松开手，手帕就鼓起一个圆肚子。风掀开它的一角，里面的纸又沙沙响，像在偷偷商量逃跑。",
+      "image": "/library/stories/expansion-0167/v1/p04.webp",
+      "start": 63.762,
+      "end": 85.112
+    },
+    {
+      "id": "p05",
+      "text": "豆绒只好一直按着手帕。她望着野餐垫，肚子咕噜叫了一声。点心已经吃光，小盒子却还在。她摸摸盒盖，咔哒，盖紧了！“折折，纸片也可以坐有盖的小车呀！”她笑着说。",
+      "image": "/library/stories/expansion-0167/v1/p05.webp",
+      "start": 85.112,
+      "end": 106.15
+    },
+    {
+      "id": "p06",
+      "text": "她把盒子放在腿上，只揭开一点手帕。拿出一张纸，放进盒子，咔哒，盖好。第二张也坐进去。第三张最会卷，豆绒用手掌轻轻拢住它，再关上盖子。这回，三位纸乘客都坐稳了。",
+      "image": "/library/stories/expansion-0167/v1/p06.webp",
+      "start": 106.15,
+      "end": 128.724
+    },
+    {
+      "id": "p07",
+      "text": "风呼呼吹，盒盖纹丝不动。豆绒绕着花地看了一圈，草上、花间、鞋尖旁，都没有点心纸了。她收好手帕和垫子，抱着小盒子回家。折折转了一大圈：“你的纸乘客没有掉队！”",
+      "image": "/library/stories/expansion-0167/v1/p07.webp",
+      "start": 128.724,
+      "end": 149.786
+    },
+    {
+      "id": "p08",
+      "text": "回到家，豆绒把用过的纸放进垃圾桶，洗净小盒子。第二天，她又带着空盒来到花地。小白花轻轻摇，折折慢慢转。豆绒坐下来，让风摸摸自己的圆耳朵：“今天，我们不用追着跑啦。”",
+      "image": "/library/stories/expansion-0167/v1/p08.webp",
+      "start": 149.786,
+      "end": 171.658
+    }
+  ],
+  "buildHash": "0c737f54acad5fc82896f173142d9286404cf831bece3d4719b4119692293548"
+}

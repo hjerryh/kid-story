@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0168",
+  "title": "袋婆婆今天不漏啦",
+  "version": 1,
+  "bodyCharacters": 515,
+  "pages": 8,
+  "duration": 166.666,
+  "bodySha256": "fa7d46c6b39204f232a600afa1bdcd44d88c125924945c449b022e0b540d620f",
+  "audioSha256": "a847e991ba0c76de574dd592023455cab689bbe708b742cd3c62c849f732ba63",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3a02ca683079d67ccad787c6eb79736f765d86a586572af6af86701f71e46833",
+      "bytes": 13248
+    },
+    {
+      "name": "p01",
+      "sha256": "224ad9dc971408a1918f1189202472fa1bd177bcc5baaf75cf89633eefb2925b",
+      "bytes": 10490
+    },
+    {
+      "name": "p02",
+      "sha256": "9ee35718f67f680c04d5936d33e983f7601e4c05a73586ad3b82d0e3861f7d32",
+      "bytes": 10296
+    },
+    {
+      "name": "p03",
+      "sha256": "adf406a948c856fcc1855b441a82f66d54fb3a4295b32ef1df7a9d99423a99ed",
+      "bytes": 10384
+    },
+    {
+      "name": "p04",
+      "sha256": "960bcfe44e7a44a5f38f5daeed30bf2a61646f77a227ecc38bdbaf1f0ccb6ae0",
+      "bytes": 10292
+    },
+    {
+      "name": "p05",
+      "sha256": "d6d288a41b6cd4204c79105f2542c3562a47f823ea97e3ba849f40a25e7ec738",
+      "bytes": 10596
+    },
+    {
+      "name": "p06",
+      "sha256": "247e60c56e865723023d9c9766d31b9de49d9bd0f83d61ea2d355e62b80c498b",
+      "bytes": 9748
+    },
+    {
+      "name": "p07",
+      "sha256": "b7dd0b2786b99d63719846d6ceabd19d7567b54cd203347a5e25b897e3593ee7",
+      "bytes": 10772
+    },
+    {
+      "name": "p08",
+      "sha256": "204254ccc8b2e80665acd94464923dc06820825a67365c76e9b8641ba223b2ff",
+      "bytes": 14576
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

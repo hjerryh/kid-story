@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0162",
+  "title": "团绵信箱里的小月亮",
+  "version": 1,
+  "bodyCharacters": 502,
+  "pages": 8,
+  "duration": 155.698,
+  "bodySha256": "ac4bbb291e34e2667740ec4d53e81e371d2765147ad0360ae1972966b2e14507",
+  "audioSha256": "300d61916fb9e923eba4af70a5115ad70f342773c3c7567fd48c9a738eefacfd",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9b2fa71fd3596ed4974615057458518601b1c0a07fa42b8f5f3b1812d5ffde07",
+      "bytes": 11896
+    },
+    {
+      "name": "p01",
+      "sha256": "41cf000691e4979062b467335d4d068f7a069c8bcdd8c33b38c4f9680f3776d5",
+      "bytes": 10328
+    },
+    {
+      "name": "p02",
+      "sha256": "a5908e5386ffd214c8f55dc013761e7bcdcf459bfb5022088af8801c1f6b0aef",
+      "bytes": 12154
+    },
+    {
+      "name": "p03",
+      "sha256": "95555c528ca7a0c09f10d2a7fbaec2165adbc891fad00c5942bdd42c6cc0b886",
+      "bytes": 10980
+    },
+    {
+      "name": "p04",
+      "sha256": "26e70a10215aa89ace3555eab40c980eae61ddda5571d17b49013b05907eb49a",
+      "bytes": 11976
+    },
+    {
+      "name": "p05",
+      "sha256": "3b5085de6652ecec26a244abd9554e546f796841db6a427ca9090161f9924c97",
+      "bytes": 13458
+    },
+    {
+      "name": "p06",
+      "sha256": "0a74387fe39e7a2df47f6463566d893dc340d94f6282acbafdb19f3e6a40f2b7",
+      "bytes": 14410
+    },
+    {
+      "name": "p07",
+      "sha256": "50330729558f8a690e6cb2338b8ccc3f7cdcb78c2ad5db27582d39edb37f5bf7",
+      "bytes": 11760
+    },
+    {
+      "name": "p08",
+      "sha256": "af5f11a3d8c7cd9954fe9714a903e2fa985f9e28dc9233d867f97b27a32b7239",
+      "bytes": 9944
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0163",
+  "version": 1,
+  "status": "media-ready",
+  "title": "袋袋把自己折矮了",
+  "subtitle": "轻轻的早餐出门了",
+  "description": "从前总装着满满麦粒的布袋，第一次只带两只面包出门。风一吹，空空的袋肚子就鼓了起来。袋袋要怎样带着这份轻轻的早餐，走到院里的梨树下？",
+  "ageBand": "3-5",
+  "theme": "新的模样",
+  "color": "#D9BC87",
+  "character": "袋袋是一只会走路的米白色布袋，袋口有两颗棕色纽扣，袋底伸出两只短短的布脚，正面绣着蓝色小麦和细线勾出的小眼睛、小嘴，腰边有两个扣眼。小田鼠麦桃有浅棕毛、圆耳朵，穿绿色连衣裙。",
+  "cover": "/library/stories/expansion-0163/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 162.178,
+  "detailUrl": "/library/stories/expansion-0163/v1/story.json",
+  "audio": "/library/stories/expansion-0163/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "小石磨坊里，住着一只会走路的布袋，名叫袋袋。他每天挺着圆肚子，把麦粒送到石磨旁。笃，笃，布脚踩得很稳。小田鼠麦桃总拍拍他绣着蓝麦穗的肚皮，说早上好。",
+      "image": "/library/stories/expansion-0163/v1/p01.webp",
+      "start": 0,
+      "end": 21.158
+    },
+    {
+      "id": "p02",
+      "text": "这天，麦粒全磨完了。麦桃烤好两只面包，说：“去梨树下吃早餐吧！”袋袋抢着说：“我来带！”可面包装进去，只占了肚底一点点。他低头看看，自己怎么瘪成这样啦？",
+      "image": "/library/stories/expansion-0163/v1/p02.webp",
+      "start": 21.158,
+      "end": 41.452
+    },
+    {
+      "id": "p03",
+      "text": "刚出门，一阵风钻进敞开的袋口。呼！袋袋的肚子鼓得老大，脚步却歪了。“以前我不是这样走的。”他想把脚踩得重些，可脚还是轻轻的，连地上的梨叶都没踩响。",
+      "image": "/library/stories/expansion-0163/v1/p03.webp",
+      "start": 41.452,
+      "end": 61.002
+    },
+    {
+      "id": "p04",
+      "text": "袋袋退回门里，请麦桃塞些干净麦秆进来。肚子又圆了，他高兴地走出去。可是麦秆也轻，风一吹，他仍旧摇摇摆摆。一根麦秆还挠着他的下巴，痒得他直打小喷嚏。",
+      "image": "/library/stories/expansion-0163/v1/p04.webp",
+      "start": 61.002,
+      "end": 81.128
+    },
+    {
+      "id": "p05",
+      "text": "麦桃拿出麦秆，陪他坐在门边。袋袋垂下空空的上半截，布软软地叠在腿上。风又来了，这回肚皮没鼓起来。他看着那层布，忽然说：“我想把空着的地方折起来试试。”",
+      "image": "/library/stories/expansion-0163/v1/p05.webp",
+      "start": 81.128,
+      "end": 101.278
+    },
+    {
+      "id": "p06",
+      "text": "麦桃帮他把袋口往下折，袋口的两颗纽扣，正好扣进腰边的扣眼。长长的袋袋变矮了，面包仍稳稳躺在肚底。“我的脚还在外面呢！”他伸伸左脚，又伸伸右脚，站了起来。",
+      "image": "/library/stories/expansion-0163/v1/p06.webp",
+      "start": 101.278,
+      "end": 122.196
+    },
+    {
+      "id": "p07",
+      "text": "他们重新走上小路。风摸摸袋袋折好的头顶，没有钻进去。袋袋一步一步走到梨树下，两只面包一只也没掉。他转了个小圈：“今天不用挺着大肚子，我也能带早餐来啦！”",
+      "image": "/library/stories/expansion-0163/v1/p07.webp",
+      "start": 122.196,
+      "end": 141.77
+    },
+    {
+      "id": "p08",
+      "text": "麦桃解开一颗纽扣，取出面包，两人挨着坐好。袋袋咬了一小口，香香的碎屑落在蓝麦穗上。他没有急着抖掉。阳光暖暖地照着折痕，那小小的地方，刚好接住一份早餐香。",
+      "image": "/library/stories/expansion-0163/v1/p08.webp",
+      "start": 141.77,
+      "end": 162.178
+    }
+  ],
+  "buildHash": "86fe24c9dd682c37d956573a5dfe1e2df89a1a195f1cc6f49ced303135cc0c63"
+}

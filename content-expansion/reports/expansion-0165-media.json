@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0165",
+  "title": "圆圆的两头都在门外",
+  "version": 1,
+  "bodyCharacters": 543,
+  "pages": 8,
+  "duration": 177.49,
+  "bodySha256": "ef018d2adb2263a53a06324566a4cb76739c7a4bd1701b04ef527246256d4c04",
+  "audioSha256": "b2853ed14fab798acb4498c4a499f6dc1bef32c732f74ae9c574aecab0365916",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6f21a657a2a3dfed374f79aaa3c8d0156aa4fc0fa5aea969959dd8f82fa9d33d",
+      "bytes": 18096
+    },
+    {
+      "name": "p01",
+      "sha256": "f6196be3b0cf26d9f455f91340ca26e683c63b816b64ac8374b29242bc9ecfbe",
+      "bytes": 13596
+    },
+    {
+      "name": "p02",
+      "sha256": "22eb050827d3bfcd212fb05b0147282250710214928da4253bd95c81ba13cb82",
+      "bytes": 15312
+    },
+    {
+      "name": "p03",
+      "sha256": "4817d854d8405a252fa8273bacab2ca0687909456b74ccb78955c0918638eac9",
+      "bytes": 15462
+    },
+    {
+      "name": "p04",
+      "sha256": "0a821883763ff06ebbefd36115c7cd8977d3defff59a6bd4bdbdcb72862940df",
+      "bytes": 15006
+    },
+    {
+      "name": "p05",
+      "sha256": "cc0165f34aeba2d590a0d1a19e902a3a318dbcb90c0a3860f665d3ff8151149f",
+      "bytes": 15208
+    },
+    {
+      "name": "p06",
+      "sha256": "bf0c2471855a97dcd0639850c736fae537f2cc9ac108b752f4117cea8a40a2a4",
+      "bytes": 16848
+    },
+    {
+      "name": "p07",
+      "sha256": "98cecf59261738a7c6f8533f900224887737887f67ebad0b4cd4b4b544a26d24",
+      "bytes": 13426
+    },
+    {
+      "name": "p08",
+      "sha256": "dacbd831c31d199ca9bd9961563675c51a207bca983c67e6fed3a2f3bd42a591",
+      "bytes": 13770
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

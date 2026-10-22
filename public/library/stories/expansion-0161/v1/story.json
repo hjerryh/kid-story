@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0161",
+  "version": 1,
+  "status": "media-ready",
+  "title": "条条的盐毛衣",
+  "subtitle": "藏在盐衣裳里的条纹",
+  "description": "圆梨在冰晶小港捡到一颗穿着“白毛衣”的小石头。石头说自己有三道条纹，可圆梨怎么也看不见。她想替石头脱掉白衣裳，却发现擦一擦、刷一刷都不管用。",
+  "ageBand": "3-5",
+  "theme": "好奇与发现",
+  "color": "#91C9D5",
+  "character": "小海豹圆梨有银灰色绒毛、圆圆的黑眼睛，穿湖蓝色短外套，戴白色绒线帽。条条是一颗扁圆的灰色小石头，身上有三道弯弯的深灰条纹，起初被白色盐壳盖住。",
+  "cover": "/library/stories/expansion-0161/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 163.738,
+  "detailUrl": "/library/stories/expansion-0161/v1/story.json",
+  "audio": "/library/stories/expansion-0161/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "冰晶小港的长椅下，有颗小白石头。圆梨经过时，它细声说：“我的名字叫条条。”“可是，你一条纹也没有呀。”圆梨蹲下来。石头叹了口气：“我穿的白毛衣太厚啦。”",
+      "image": "/library/stories/expansion-0161/v1/p01.webp",
+      "start": 0,
+      "end": 19.814
+    },
+    {
+      "id": "p02",
+      "text": "圆梨把条条捧起来。白衣裳硬硬的，没有袖子，也没有领口。“我想看看你的条纹。”她说。“我有三条，都是弯弯的。”条条高兴起来，“像三条挤在一起的小鱼呢！”",
+      "image": "/library/stories/expansion-0161/v1/p02.webp",
+      "start": 19.814,
+      "end": 39.34
+    },
+    {
+      "id": "p03",
+      "text": "回到家，圆梨拿来软布，擦左边，擦右边。条条在布里滚了半圈，白衣裳还是紧紧贴着。“这件毛衣真不肯下来。”圆梨又换了软刷，刷呀刷，只落下几粒白白的小碎屑。",
+      "image": "/library/stories/expansion-0161/v1/p03.webp",
+      "start": 39.34,
+      "end": 59.874
+    },
+    {
+      "id": "p04",
+      "text": "圆梨想把碎屑收拾干净。她往布上倒了些清水，一滴水落到条条身上。咦，白衣裳上出现了一个灰色小圆点！圆梨停下手：“别动，让我瞧瞧。这里好像露出你的肚皮了。”",
+      "image": "/library/stories/expansion-0161/v1/p04.webp",
+      "start": 59.874,
+      "end": 80.696
+    },
+    {
+      "id": "p05",
+      "text": "“海水常常溅到我身上，”条条说，“湿了又干，干了又湿，白衣裳就越来越厚。”圆梨想起窗台上装过海水的小碟子，水干后也留下白白的盐。“原来，你穿的是一件盐毛衣！”",
+      "image": "/library/stories/expansion-0161/v1/p05.webp",
+      "start": 80.696,
+      "end": 100.75
+    },
+    {
+      "id": "p06",
+      "text": "圆梨端来一只浅碗，装上清水，轻轻放入条条。她没有再刷，只坐在旁边看。白衣裳慢慢变薄，先露出一小段黑弯弯，再露出长长的一条。“有一条小鱼游出来啦！”圆梨说。",
+      "image": "/library/stories/expansion-0161/v1/p06.webp",
+      "start": 100.75,
+      "end": 122.148
+    },
+    {
+      "id": "p07",
+      "text": "又过了一会儿，三条弯纹全露出来了。圆梨把条条捞起，用干布轻轻吸去水。“一条，两条，三条，真的挤在一起！”她笑了。条条舒舒服服地说：“啊，我又认得自己的肚皮了。”",
+      "image": "/library/stories/expansion-0161/v1/p07.webp",
+      "start": 122.148,
+      "end": 142.514
+    },
+    {
+      "id": "p08",
+      "text": "条条想住在看得见小船的地方。圆梨就在窗台放了一只小碟子，请它躺进去。外面，海风轻轻吹着。圆梨问：“要盖被子吗？”条条笑了：“今天先不盖，让我的三条小鱼透透气。”",
+      "image": "/library/stories/expansion-0161/v1/p08.webp",
+      "start": 142.514,
+      "end": 163.738
+    }
+  ],
+  "buildHash": "2d36452a57af036869424b9269c44fe16e80b77c0bc2ee8508d3d461aa0cb6a4"
+}

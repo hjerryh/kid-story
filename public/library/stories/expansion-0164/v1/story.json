@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0164",
+  "version": 1,
+  "status": "media-ready",
+  "title": "松松怎么又趴下了",
+  "subtitle": "等你坐好再出发",
+  "description": "豆叶想和云马松松去长桥那头看睡莲。可她刚爬上马背，松松就趴下了。一个忙着照顾朋友，一个等着朋友坐好，他们还能一起出发吗？",
+  "ageBand": "3-5",
+  "theme": "小小误会",
+  "color": "#A8D6CF",
+  "character": "小女孩豆叶：黑色齐耳短发，穿绿色圆领裙、白袜和棕色布鞋，背小黄布包。云马松松：身体像柔软的白云，浅灰色鬃毛，圆耳朵，四只短腿，没有翅膀。",
+  "cover": "/library/stories/expansion-0164/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 161.434,
+  "detailUrl": "/library/stories/expansion-0164/v1/story.json",
+  "audio": "/library/stories/expansion-0164/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "长桥那头，池塘里的白睡莲开了。豆叶想和云马松松一起去看。松松走到她面前，弯下四条短腿，说：“上来吧，我带你过桥！”他的背软软的，像一床晒过太阳的被子。",
+      "image": "/library/stories/expansion-0164/v1/p01.webp",
+      "start": 0,
+      "end": 20.462
+    },
+    {
+      "id": "p02",
+      "text": "豆叶刚爬上去，身子还歪着，松松就把肚皮贴到了草地上。豆叶赶紧滑下来：“你累啦？那就歇一歇。”松松抬起头，刚想说话，她已经从布包里拿出了自己的小手帕。",
+      "image": "/library/stories/expansion-0164/v1/p02.webp",
+      "start": 20.462,
+      "end": 40.42
+    },
+    {
+      "id": "p03",
+      "text": "她替松松擦擦额头，又扇了两下风。“凉快些了吗？”松松眨眨眼：“我不热呀。上来吧！”豆叶收好手帕，再次爬上他的背。她的一条腿还没放好，松松又慢慢趴低了。",
+      "image": "/library/stories/expansion-0164/v1/p03.webp",
+      "start": 40.42,
+      "end": 61.05
+    },
+    {
+      "id": "p04",
+      "text": "豆叶又下来了。她摸摸自己的裙子，小声问：“是不是我太重？”松松摇头，站起来，绕着她轻快地走了一圈。浅灰色的鬃毛一颤一颤。他看起来一点也不累，真奇怪。",
+      "image": "/library/stories/expansion-0164/v1/p04.webp",
+      "start": 61.05,
+      "end": 81.296
+    },
+    {
+      "id": "p05",
+      "text": "这回，豆叶没有急着往上爬。她问：“那你为什么总趴下呀？”松松说：“你还没坐稳呢。我趴低一点，你就容易坐好了。可是每回我一趴，你就下去了。”豆叶张圆了嘴巴。",
+      "image": "/library/stories/expansion-0164/v1/p05.webp",
+      "start": 81.296,
+      "end": 101.35
+    },
+    {
+      "id": "p06",
+      "text": "“原来你在等我呀！”豆叶笑了，“我坐好了，就告诉你。”松松又趴下来。这一次，豆叶慢慢挪到背中间，放好两条腿，轻轻拍拍软云背：“坐好啦，可以起来啦！”",
+      "image": "/library/stories/expansion-0164/v1/p06.webp",
+      "start": 101.35,
+      "end": 120.132
+    },
+    {
+      "id": "p07",
+      "text": "松松稳稳站起，沿着宽宽的桥面往前走。河水在石栏杆外闪光，风把豆叶的短发吹得翘起来。“这样舒服吗？”松松问。“舒服！”豆叶说，“你慢慢走，我想多看看河。”",
+      "image": "/library/stories/expansion-0164/v1/p07.webp",
+      "start": 120.132,
+      "end": 141.554
+    },
+    {
+      "id": "p08",
+      "text": "到了池塘边，松松说：“我要趴下，让你下来啦。”豆叶点点头，等他趴稳才落地。他们并排看着睡莲。一朵白花轻轻晃了晃，豆叶笑着说：“瞧，它也坐在软软的水上呢。”",
+      "image": "/library/stories/expansion-0164/v1/p08.webp",
+      "start": 141.554,
+      "end": 161.434
+    }
+  ],
+  "buildHash": "68c56be17a23a82258ac9b03d7581bac0579727dd7cdebb9736ced672c4582b0"
+}

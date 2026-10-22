@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0166",
+  "title": "白梨不用再撒粉",
+  "version": 1,
+  "bodyCharacters": 463,
+  "pages": 8,
+  "duration": 147.154,
+  "bodySha256": "43ad89e11bce02c18f228a311ef0be0ab4170c301984dc51229a919392ceb236",
+  "audioSha256": "9d8b6f3860493584715f76be2feee20b64d964282dd271e2eb01cf30b8bb2836",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "29b4794e13230b2e7c86cd813760d4084adf530d16533330f45ccf1f5ff40ecf",
+      "bytes": 23716
+    },
+    {
+      "name": "p01",
+      "sha256": "35fc6774a4cc42cc5649d452c51fef156b4683bc579487f4aa1274d3121e3c21",
+      "bytes": 17026
+    },
+    {
+      "name": "p02",
+      "sha256": "718f55067b65c9877eb4579ca58f9c49fc325cd267fec5cbb24c46f5047b12a3",
+      "bytes": 20750
+    },
+    {
+      "name": "p03",
+      "sha256": "3d69dbe167795008a4213ed0a99fca967dea4eb9eb8b6d54fdfebbe3c6901186",
+      "bytes": 20218
+    },
+    {
+      "name": "p04",
+      "sha256": "c27dfcece9fe587545e5cf6dd0f904a3dcef7f56313c24f1a49872a6f59ece6a",
+      "bytes": 20370
+    },
+    {
+      "name": "p05",
+      "sha256": "6e62610ef6dacf86aa93c94e57f901e2cf97f97f890aa8f244ffde4889414efc",
+      "bytes": 20816
+    },
+    {
+      "name": "p06",
+      "sha256": "f8f56bc02751efed9e2072f99c00d8360bb80ee153d5ef620e4f54b71af26d84",
+      "bytes": 20614
+    },
+    {
+      "name": "p07",
+      "sha256": "e7d7d5e5078bec14937b1341e4dddb57415b8cc3047bfebc996f24e005ac9d85",
+      "bytes": 20834
+    },
+    {
+      "name": "p08",
+      "sha256": "04691beb7b1e2636e42125cad717df05b70feecc46a505a70417cfd0a56949f0",
+      "bytes": 21138
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

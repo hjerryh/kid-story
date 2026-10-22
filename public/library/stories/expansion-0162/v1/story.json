@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0162",
+  "version": 1,
+  "status": "media-ready",
+  "title": "团绵信箱里的小月亮",
+  "subtitle": "小云也想收到信",
+  "description": "住在蒲公英驿站的团绵常给朋友寄信，自己的信箱却一直空着。他试着给自己写了一封信，可那不是他盼望的惊喜。怎样才能收到朋友寄来的信呢？",
+  "ageBand": "3-5",
+  "theme": "说出愿望",
+  "color": "#A9D6CF",
+  "character": "团绵是一朵小云精灵，身体雪白柔软，有短短的云手和云脚，穿浅蓝色小马甲，挎绿色邮包。甲虫豆壳有栗色背壳，戴一顶红色软帽。",
+  "cover": "/library/stories/expansion-0162/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 155.698,
+  "detailUrl": "/library/stories/expansion-0162/v1/story.json",
+  "audio": "/library/stories/expansion-0162/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "团绵住在蒲公英驿站，是一朵穿蓝马甲的小云。他喜欢给朋友写信：今天的晚霞像桃子，窗边的小花开了。信一封封寄出去，他自己的小信箱，却总是空空的。",
+      "image": "/library/stories/expansion-0162/v1/p01.webp",
+      "start": 0,
+      "end": 18.806
+    },
+    {
+      "id": "p02",
+      "text": "每天早上，团绵都把信箱打开一点点，再打开大一点。里面没有信，只有一片风送来的黄叶。他摸摸叶子，小声说：“要是也有人告诉我，他今天看见了什么，多好呀。”",
+      "image": "/library/stories/expansion-0162/v1/p02.webp",
+      "start": 18.806,
+      "end": 38.068
+    },
+    {
+      "id": "p03",
+      "text": "团绵拿出纸，给自己写信：“亲爱的团绵，今天好呀！”他折好信，放进信箱，又绕着驿站走了一圈。回来时，他特意踮起云脚，想让开信箱的时候，变得惊喜一点。",
+      "image": "/library/stories/expansion-0162/v1/p03.webp",
+      "start": 38.068,
+      "end": 57.234
+    },
+    {
+      "id": "p04",
+      "text": "可是，信才露出一个角，团绵就知道里面写了什么。他读完，把纸铺在膝头。纸很白，字很圆，可他还是想知道，豆壳的菜园怎样了，那根黄瓜有没有长过小篱笆。",
+      "image": "/library/stories/expansion-0162/v1/p04.webp",
+      "start": 57.234,
+      "end": 76.904
+    },
+    {
+      "id": "p05",
+      "text": "下午，甲虫豆壳来送一根黄瓜。他笑着说：“你写的桃子晚霞，我看了三遍！”团绵也笑了。他抱起自己的小信箱，原想把它放回去，却又叫住豆壳：“我有句话想告诉你。”",
+      "image": "/library/stories/expansion-0162/v1/p05.webp",
+      "start": 76.904,
+      "end": 96.934
+    },
+    {
+      "id": "p06",
+      "text": "“我也想收到你的信，”团绵说，“写一点菜园里的事就好。”豆壳摸摸红帽子：“原来你在等这个呀！我总想着，见面讲给你听就行。你的信箱住在哪里？我要把地址记下来。”",
+      "image": "/library/stories/expansion-0162/v1/p06.webp",
+      "start": 96.934,
+      "end": 116.556
+    },
+    {
+      "id": "p07",
+      "text": "团绵写下驿站的地址，交给豆壳。几天后，小信箱里真的躺着一个绿信封！团绵没有急着拆。他先摸了摸信封上的字，又看见角落画着一根黄瓜，弯得像个小月亮。",
+      "image": "/library/stories/expansion-0162/v1/p07.webp",
+      "start": 116.556,
+      "end": 135.914
+    },
+    {
+      "id": "p08",
+      "text": "信里说：“黄瓜越过篱笆啦，我得抬起头才能找到它。”团绵笑得云肚子一颤一颤。他把信读了两遍，放在枕边，又摊开一张纸。窗外的晚霞，今天像一根红红的大萝卜。",
+      "image": "/library/stories/expansion-0162/v1/p08.webp",
+      "start": 135.914,
+      "end": 155.698
+    }
+  ],
+  "buildHash": "75aaf20fb3b25fe4d156e6ad8d92d01b7a302e2b0ddaff2e19a5409c1cc884c5"
+}
