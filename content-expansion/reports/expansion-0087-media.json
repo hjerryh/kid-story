@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0087",
+  "title": "秋风长了绿鞋",
+  "version": 1,
+  "bodyCharacters": 517,
+  "pages": 8,
+  "duration": 167.338,
+  "bodySha256": "fc107e473846cd743ed0404bba623fd4f914c6aa4fff4263a79e3d6c1f052c5d",
+  "audioSha256": "18ad8bd4e4c67480b640c21d507bd92b1be74620ea692b2f07635a30a0f0ab35",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d5cf8673d999bfa92af7be4f4acab468a9510c10e08cccb76f07588d226568f3",
+      "bytes": 20718
+    },
+    {
+      "name": "p01",
+      "sha256": "835c254d525db70bbecc1249835ac10224925839d4ca35ffdd2d983ad429510c",
+      "bytes": 15556
+    },
+    {
+      "name": "p02",
+      "sha256": "ab5be83878599dabc99a87d7ef03f65be710eb839c709c77546c46e34419c294",
+      "bytes": 16298
+    },
+    {
+      "name": "p03",
+      "sha256": "7d7dfb2cf9825acae181e54cdc183bc43ebd9d05a42d4e99ebb45cc2e44bb35f",
+      "bytes": 15760
+    },
+    {
+      "name": "p04",
+      "sha256": "bbe31a5ab0a26daa40ae7f913df658687e6a05fb82fa58f983e05f65c8e1fa22",
+      "bytes": 14610
+    },
+    {
+      "name": "p05",
+      "sha256": "ef3ed9e8069aa87a08381c03ab800dd6222d0d229a03411106171daddec0a688",
+      "bytes": 14992
+    },
+    {
+      "name": "p06",
+      "sha256": "4187667069dbccc9ee5fdaa5119216c7511e72c1eb69975da7691273cfc2370a",
+      "bytes": 16502
+    },
+    {
+      "name": "p07",
+      "sha256": "956faae39a6429a794a8d1638800782a364cade0a890e0167dd772ead8fc769b",
+      "bytes": 18698
+    },
+    {
+      "name": "p08",
+      "sha256": "f0e371c0ca2eac6b38b0f9af9f3e1d05bd4807911a54814fabaade5b2b12f35f",
+      "bytes": 19466
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

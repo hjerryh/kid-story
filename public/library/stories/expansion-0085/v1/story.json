@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0085",
+  "version": 1,
+  "status": "media-ready",
+  "title": "石磨爷爷的白胡子",
+  "subtitle": "小颗粒再走一圈",
+  "description": "麦团想磨出细细的米粉，请奶奶做软米饼。可是石磨吐出的米粉里，总夹着硬硬的小颗粒。转得快一点有用吗？一只筛子让麦团有了新的主意。",
+  "ageBand": "3-5",
+  "theme": "尝试与修正",
+  "color": "#D9BE87",
+  "character": "小睡鼠麦团：浅棕色绒毛，圆耳朵，穿杏黄色背带裤，系绿色小围裙。石磨爷爷：灰白色圆石磨，磨盘边沿有弯弯的眉毛和一张嘴，木柄光滑，底座稳稳落地。奶奶：银灰色绒毛，穿蓝色布裙。",
+  "cover": "/library/stories/expansion-0085/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 170.842,
+  "detailUrl": "/library/stories/expansion-0085/v1/story.json",
+  "audio": "/library/stories/expansion-0085/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "小石磨坊里，石磨爷爷正晒着太阳。小睡鼠麦团抱来一碗米：“今天，我要磨细细的米粉，请奶奶做软米饼！”石磨爷爷笑起来，嘴边的一点白粉扑簌簌落下，像掉了一撮胡子。",
+      "image": "/library/stories/expansion-0085/v1/p01.webp",
+      "start": 0,
+      "end": 20.894
+    },
+    {
+      "id": "p02",
+      "text": "麦团舀进一点米，握住木柄，绕着石磨走。咕噜，咕噜，白白的米粉落进碗里。她停下来，用小勺轻轻拨了拨。呀，粉里夹着好多小颗粒，像白沙子，一点也不够细。",
+      "image": "/library/stories/expansion-0085/v1/p02.webp",
+      "start": 20.894,
+      "end": 41.212
+    },
+    {
+      "id": "p03",
+      "text": "“也许走快一点就好了。”麦团又添了一勺米，加快脚步。咕噜咕噜，咕噜咕噜！她的围裙都摆起来了。可是停下一看，小颗粒还在。麦团揉揉酸酸的胳膊，坐到了小凳上。",
+      "image": "/library/stories/expansion-0085/v1/p03.webp",
+      "start": 41.212,
+      "end": 61.698
+    },
+    {
+      "id": "p04",
+      "text": "石磨爷爷轻声说：“别急，我的肚子里，还可以再磨一回。”麦团看看满碗米粉，又看看墙上的筛子。筛子有许多小小的眼睛。她想，细粉已经够细了，能不能先请它们出来呢？",
+      "image": "/library/stories/expansion-0085/v1/p04.webp",
+      "start": 61.698,
+      "end": 82.112
+    },
+    {
+      "id": "p05",
+      "text": "麦团把筛子放在大盆上，倒进米粉，轻轻摇。沙沙沙，细粉穿过小眼睛，落成一座白白的小山。粗颗粒留在筛子里，滚来滚去。“找到啦！要再磨一回的是你们。”麦团笑了。",
+      "image": "/library/stories/expansion-0085/v1/p05.webp",
+      "start": 82.112,
+      "end": 104.182
+    },
+    {
+      "id": "p06",
+      "text": "她把粗颗粒一点点舀回磨眼，这回不赶了，一步一步推着木柄。咕噜，咕噜，石磨爷爷慢慢转。磨好的粉又过了一遍筛，剩下的小颗粒只有几粒。麦团把它们送回去，再走一小圈。",
+      "image": "/library/stories/expansion-0085/v1/p06.webp",
+      "start": 104.182,
+      "end": 126.132
+    },
+    {
+      "id": "p07",
+      "text": "这一次，筛子里空空的，盆里的米粉细细的。麦团盖好碗，抱着它回家。奶奶加水调匀，在锅里做起米饼。麦团坐在桌边等，鼻子一动一动。米香从厨房飘出来，钻进她的小肚皮。",
+      "image": "/library/stories/expansion-0085/v1/p07.webp",
+      "start": 126.132,
+      "end": 148.394
+    },
+    {
+      "id": "p08",
+      "text": "米饼凉到温温的，麦团带了一块回磨坊，坐在小凳上咬一口。软软的，真好吃。“你的白胡子变成我的点心啦！”她说。石磨爷爷乐得眉毛弯弯。窗外的风轻轻吹着，谁也不着急。",
+      "image": "/library/stories/expansion-0085/v1/p08.webp",
+      "start": 148.394,
+      "end": 170.842
+    }
+  ],
+  "buildHash": "438855cc3cbbda7efd9bfba98106226aee94362bca414b1c37ba99ca9149ca36"
+}

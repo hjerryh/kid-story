@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0088",
+  "version": 1,
+  "status": "media-ready",
+  "title": "第三篮沙里的小勺",
+  "subtitle": "沙汤里藏着一把勺",
+  "description": "圆点偷偷拿贝贝的贝壳勺玩沙汤，勺子却不见了。点心时间快到了，他还说自己没拿过。要找回那把小勺，他得先带贝贝去看看自己藏起来的沙汤锅。",
+  "ageBand": "3-5",
+  "theme": "诚实与补救",
+  "color": "#80C9CD",
+  "character": "小海豹圆点：银灰色绒毛，脸颊有两块深灰斑，穿黄色背带短裤。小海豹贝贝：乳白色绒毛，戴蓝色软帽，穿蓝白条纹上衣。",
+  "cover": "/library/stories/expansion-0088/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 153.418,
+  "detailUrl": "/library/stories/expansion-0088/v1/story.json",
+  "audio": "/library/stories/expansion-0088/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "贝壳海湾的午后，沙子暖暖的。贝贝摆好点心桌，回屋拿梨子。桌上那把白白的贝壳勺真好看！圆点偷偷拿起来，想用它搅一锅沙汤，等贝贝回来就放好。",
+      "image": "/library/stories/expansion-0088/v1/p01.webp",
+      "start": 0,
+      "end": 18.782
+    },
+    {
+      "id": "p02",
+      "text": "圆点把沙装进小木桶，加上三片落叶，搅呀搅。沙汤做好啦！他把整桶沙倒进小坑，拍拍桶底，忽然愣住：勺子呢？点心就快来了，他得赶紧找回来。",
+      "image": "/library/stories/expansion-0088/v1/p02.webp",
+      "start": 18.782,
+      "end": 37.78
+    },
+    {
+      "id": "p03",
+      "text": "贝贝端着梨子出来，问：“你看见我的勺子了吗？”圆点的胡须抖了一下。“我没拿。”话刚出口，他就低下头。贝贝去桌下找，他赶紧用身子挡住沙汤锅。",
+      "image": "/library/stories/expansion-0088/v1/p03.webp",
+      "start": 37.78,
+      "end": 56.322
+    },
+    {
+      "id": "p04",
+      "text": "圆点先拨开落叶，又用两只小鳍翻沙。沙子滑下来，刚挖的小洞又满了。他摸到一块硬硬的东西，掏出来，却是小石子。那边，贝贝连干净桌布都翻乱了。",
+      "image": "/library/stories/expansion-0088/v1/p04.webp",
+      "start": 56.322,
+      "end": 75.2
+    },
+    {
+      "id": "p05",
+      "text": "圆点慢慢挪过去：“是我拿去搅沙汤了。我怕你生气，才说没拿。勺子掉进沙里了。”贝贝放下桌布：“我还以为弄丢在屋里呢。下次拿之前，要先问我。”",
+      "image": "/library/stories/expansion-0088/v1/p05.webp",
+      "start": 75.2,
+      "end": 93.886
+    },
+    {
+      "id": "p06",
+      "text": "贝贝来到坑边，捧起一把沙。细沙从鳍边漏下去，落叶留在上面。圆点眼睛亮了：“盛梨子的漏篮，能借我筛沙吗？勺子比篮眼大，一定不会漏下去！”贝贝点点头。",
+      "image": "/library/stories/expansion-0088/v1/p06.webp",
+      "start": 93.886,
+      "end": 113.82
+    },
+    {
+      "id": "p07",
+      "text": "圆点坐下来，一捧一捧装沙，轻轻摇篮子。沙粒沙沙落下，先留下落叶，又留下石子。摇到第三篮，白白的小勺露出来了！他把它捧在胸前，长长松了一口气。",
+      "image": "/library/stories/expansion-0088/v1/p07.webp",
+      "start": 113.82,
+      "end": 133.418
+    },
+    {
+      "id": "p08",
+      "text": "圆点用清水洗净小勺和漏篮，递给贝贝：“对不起，让你找了那么久。”贝贝接过小勺，挪出身边的位置。圆点取来自己的木勺。梨子凉凉甜甜，沙汤锅留给晚风慢慢搅。",
+      "image": "/library/stories/expansion-0088/v1/p08.webp",
+      "start": 133.418,
+      "end": 153.418
+    }
+  ],
+  "buildHash": "695672c8cc5c628148959eed7cf663b6a1c2b3d8db976e7e70e38625b24048ca"
+}

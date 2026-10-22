@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0088",
+  "title": "第三篮沙里的小勺",
+  "version": 1,
+  "bodyCharacters": 472,
+  "pages": 8,
+  "duration": 153.418,
+  "bodySha256": "e979ac89434ef898b09088cf2218966e4a95f03a5dd2854ee344b6fdf0c65610",
+  "audioSha256": "8220be353ea4e0ea4eadbb728cde4f3efcb8e83cf35838c89089238ac49ba184",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5313edad5995ade0bd2032b49860f189f3cf27dc5e1fe4445d9f08cbc834e3c5",
+      "bytes": 17546
+    },
+    {
+      "name": "p01",
+      "sha256": "0a4f9fac6402dd52680e7ab25965f0c92c5b16b2865195d529d5fc2572d22060",
+      "bytes": 12106
+    },
+    {
+      "name": "p02",
+      "sha256": "e8aa31096c3e4f85dba85dcf6bdefbaee114b59a147d0a2767ec28c86636bdc1",
+      "bytes": 13090
+    },
+    {
+      "name": "p03",
+      "sha256": "8751bd4a26b64373823fd636215394148d80d9ebbfd49957d4042f42233380aa",
+      "bytes": 14006
+    },
+    {
+      "name": "p04",
+      "sha256": "28a1f463623b1186a8f541aa1d9ca2bd477e19b61aee44b5ed590983bd8d4531",
+      "bytes": 14362
+    },
+    {
+      "name": "p05",
+      "sha256": "845f4464a72e571fe3c26996ca0dab2b94b01f8431aaeb276084f03bbfc64462",
+      "bytes": 14806
+    },
+    {
+      "name": "p06",
+      "sha256": "75f0bcb5a41a494cc328ee0865504e524efdf364b5b9c85de5995495a612a264",
+      "bytes": 14954
+    },
+    {
+      "name": "p07",
+      "sha256": "bc13147a0336f7f8799776127dd47275760c0b95f6ec88bc4e9e6a3527014373",
+      "bytes": 15192
+    },
+    {
+      "name": "p08",
+      "sha256": "aa1774c88f6da8493409bd5645efae7adbc9b18967cbf74e2161b1c5ddc7e304",
+      "bytes": 14902
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

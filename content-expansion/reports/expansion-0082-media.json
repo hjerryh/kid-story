@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0082",
+  "title": "等刷子唱完这一声",
+  "version": 1,
+  "bodyCharacters": 529,
+  "pages": 8,
+  "duration": 177.01,
+  "bodySha256": "7ceaf77ac7cfaf9697c46b43f67248e44246ad11d168d4ad1b4848423d451749",
+  "audioSha256": "4fe05ae6db81e0a073bfcfd317130895b36f6682ce72ba156d049c0e8de33be7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e361d7a8fe643d81c2a238eae40b98245eb023cfe1f17c31c47516fe1e316ede",
+      "bytes": 15698
+    },
+    {
+      "name": "p01",
+      "sha256": "005722bb6a1ac31b987dea4c98bad525d428e777ae6f79e62a488d983bee04f5",
+      "bytes": 12582
+    },
+    {
+      "name": "p02",
+      "sha256": "fd5fd60dcc6f9226a18d55be77c9ed40473405c00047d4f1f7b8ea9fc4e44d6e",
+      "bytes": 14884
+    },
+    {
+      "name": "p03",
+      "sha256": "420810c422b4413be659b1357a7aff3ac77a4bbfc7cf3bf89e103ead4233e448",
+      "bytes": 15162
+    },
+    {
+      "name": "p04",
+      "sha256": "714ce1306771b175f1eecffbf066fbda1977811e8608b1026a5fefd996d9c749",
+      "bytes": 16058
+    },
+    {
+      "name": "p05",
+      "sha256": "8afd9eab1df8be7f1c3ed40ee3d1464cb9efd12d91d5a3c676dc0ec58e3e7989",
+      "bytes": 15122
+    },
+    {
+      "name": "p06",
+      "sha256": "acaa89f4485eaefdd5d1ff91068889ba56e504eaec0f2cc66e0254d0193d1459",
+      "bytes": 15092
+    },
+    {
+      "name": "p07",
+      "sha256": "d336e3a00267e1d689e2eb24682bc69d66afed7822f09203ac7b87979bb3a034",
+      "bytes": 15276
+    },
+    {
+      "name": "p08",
+      "sha256": "d4654adb57072c932e3419c5125fbe8010c0b8b2b0cc849233eef34709ff52ed",
+      "bytes": 10208
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

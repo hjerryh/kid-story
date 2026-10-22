@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0083",
+  "title": "闪闪今天不是黄色",
+  "version": 1,
+  "bodyCharacters": 470,
+  "pages": 8,
+  "duration": 156.562,
+  "bodySha256": "7eeffc696cbb788dcd4c930e2b2b01e8846286823ea6bd4424a575bddf23824b",
+  "audioSha256": "28f7b83ce170a40ad8e9f422712c071be7072d7178df58cd1b62805368698381",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d23365c96c25c069478c938293c8dc0211d89fff6229863e0c19edc4c0ac97f4",
+      "bytes": 16374
+    },
+    {
+      "name": "p01",
+      "sha256": "ceea24ec5ee90c00257fcd3a384e363b49ff60f63ee7559276cf266034c2acd1",
+      "bytes": 12288
+    },
+    {
+      "name": "p02",
+      "sha256": "240bb99539fc43496df2afab814738c7cf35cf427eeb57fe2c2ec48d69df4e75",
+      "bytes": 12602
+    },
+    {
+      "name": "p03",
+      "sha256": "9d4755cb5fd3688c170f7820783a1d85ff1d93135c6c3cf780999e3bbaaa5389",
+      "bytes": 13134
+    },
+    {
+      "name": "p04",
+      "sha256": "99733a4404c053bb82783e6e097a934048261dd59ccee9957e58ead6deb2eb85",
+      "bytes": 12352
+    },
+    {
+      "name": "p05",
+      "sha256": "8c5c01f5b59dfcae5f05b84f7c96d8e2513af31a244f42352fd6cade8657311d",
+      "bytes": 13294
+    },
+    {
+      "name": "p06",
+      "sha256": "4b99f490a0033258b9e2fa7d89391a4f0c1b2d213249cd886749df4053c1bf68",
+      "bytes": 13922
+    },
+    {
+      "name": "p07",
+      "sha256": "9c8909735b5b1b8735253c251d4353ea7983fe6edfea7fbbaf4f2f6dfdba8dd2",
+      "bytes": 13354
+    },
+    {
+      "name": "p08",
+      "sha256": "3bf1f0c4b70e4f3e26f1ed064ad35517c9a0c6479541a42160dea0688369ff0b",
+      "bytes": 13270
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

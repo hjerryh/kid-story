@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0081",
+  "version": 1,
+  "status": "media-ready",
+  "title": "圆叶梦见一顶雪帽子",
+  "subtitle": "叶子背面的午睡",
+  "description": "浮叶池塘的叶子会把午睡的梦画在背面。小叶精芽铃想看看一片圆叶的梦，可她站在叶上，怎么也掀不起叶边。一次小小的晃动，让她发现了自己没注意到的事。",
+  "ageBand": "3-5",
+  "theme": "池塘探秘",
+  "color": "#79B8A2",
+  "character": "小叶精芽铃只有拇指那么高，浅绿色短发向上翘，穿鹅黄色连衣裙，腰间系一根细草带，赤着脚。她住在浮叶池塘边的花苞屋里。",
+  "cover": "/library/stories/expansion-0081/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 168.994,
+  "detailUrl": "/library/stories/expansion-0081/v1/story.json",
+  "audio": "/library/stories/expansion-0081/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "浮叶池塘有个小秘密：叶子午睡时，会把梦画在背面。太阳暖暖的，小叶精芽铃走出花苞屋。今天，她想看看门前那片圆叶的梦。它睡得多香呀，连叶尖都不动一下。",
+      "image": "/library/stories/expansion-0081/v1/p01.webp",
+      "start": 0,
+      "end": 20.798
+    },
+    {
+      "id": "p02",
+      "text": "芽铃踩上圆叶，脚底凉丝丝。她弯下腰，捏住叶边往上拉。叶边只翘起一点点，水珠就滚到她脚旁。她伸长脖子，还是看不见下面。“你的梦，藏得可真好！”她轻声说。",
+      "image": "/library/stories/expansion-0081/v1/p02.webp",
+      "start": 20.798,
+      "end": 42.676
+    },
+    {
+      "id": "p03",
+      "text": "她蹲下来，换两只手拉。圆叶弯成一只浅浅的小碗，把她兜在中间。芽铃的鼻尖碰到了叶面，闻见一股清清的草香。可是，梦呢？眼前除了绿，还是绿，连一点梦的颜色也没有。",
+      "image": "/library/stories/expansion-0081/v1/p03.webp",
+      "start": 42.676,
+      "end": 64.986
+    },
+    {
+      "id": "p04",
+      "text": "芽铃松开手，圆叶又平平地躺好了。她坐着歇一会儿。旁边，一只蜻蜓飞离尖叶，尖叶轻轻一晃，露出背面的一小道金黄。呀，那片叶子正在梦见什么亮闪闪的东西呢！",
+      "image": "/library/stories/expansion-0081/v1/p04.webp",
+      "start": 64.986,
+      "end": 85.448
+    },
+    {
+      "id": "p05",
+      "text": "芽铃也想让圆叶晃一晃。她拉着叶边，往后挪了一步，脚下跟着往下沉。她往左挪，左边也沉。“哦，我还站在你身上呢！”她看看自己的小脚，又看看旁边那片空空的叶子。",
+      "image": "/library/stories/expansion-0081/v1/p05.webp",
+      "start": 85.448,
+      "end": 106.414
+    },
+    {
+      "id": "p06",
+      "text": "两片叶子紧挨着，芽铃轻轻跨了过去。这回，她站在旁边，只抬起圆叶的一小截边。圆叶轻多了，慢慢翘起来。她低下头，终于看见叶背上铺着一层银白，像细细软软的糖。",
+      "image": "/library/stories/expansion-0081/v1/p06.webp",
+      "start": 106.414,
+      "end": 127.596
+    },
+    {
+      "id": "p07",
+      "text": "不是糖，是梦里的雪！雪花慢慢落在一座小山上，山顶戴着一顶绿帽子，模样正像这片圆叶。芽铃忍不住笑了。池塘明明暖得像一碗温汤，它却梦见自己跑到冬天去了。",
+      "image": "/library/stories/expansion-0081/v1/p07.webp",
+      "start": 127.596,
+      "end": 148.058
+    },
+    {
+      "id": "p08",
+      "text": "芽铃慢慢放下叶边，让圆叶继续睡。她坐在旁边，晒着暖暖的太阳，想起那顶落满雪的绿帽子。“等你醒来，我要问问，雪凉不凉。”她轻轻晃着脚，仿佛脚尖也沾了一点冬天。",
+      "image": "/library/stories/expansion-0081/v1/p08.webp",
+      "start": 148.058,
+      "end": 168.994
+    }
+  ],
+  "buildHash": "a7a3591d2262ed86e8547b3f20c49d3c18d3a85d94fe85982519bb358ca8aac8"
+}

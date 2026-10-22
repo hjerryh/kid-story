@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0086",
+  "version": 1,
+  "status": "media-ready",
+  "title": "太阳背后的蓝月亮",
+  "subtitle": "长桥上的两面旗",
+  "description": "云朵裁缝绵丁要给长桥做一面新旗。住在两岸的朋友，一个喜欢黄太阳，一个喜欢蓝月亮，可旗上到底该放哪一幅画呢？",
+  "ageBand": "3-5",
+  "theme": "不同的喜好",
+  "color": "#85BDBB",
+  "character": "云朵裁缝绵丁：身体像一团白棉花，圆脸，穿黄色小背心，背绿色布包。小狐狸杏杏：橙红毛，白嘴巴，穿米色连衣裙。小水獭蓝蓝：棕色毛，圆耳朵，穿蓝色短背带裤。",
+  "cover": "/library/stories/expansion-0086/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 157.282,
+  "detailUrl": "/library/stories/expansion-0086/v1/story.json",
+  "audio": "/library/stories/expansion-0086/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "长桥这头住着小狐狸杏杏，那头住着小水獭蓝蓝。春天到了，他们请云朵裁缝绵丁做一面新旗，挂在桥头的横杆下。绵丁拍拍绿色布包：“好呀，走过桥就能看见！”",
+      "image": "/library/stories/expansion-0086/v1/p01.webp",
+      "start": 0,
+      "end": 19.886
+    },
+    {
+      "id": "p02",
+      "text": "杏杏想要一个大大的黄太阳，看着就暖洋洋。蓝蓝想要一弯蓝月亮，像安静的小摇床。绵丁摊开两块白布：“我来试试。”杏杏拿来黄颜料，蓝蓝拿来蓝颜料。",
+      "image": "/library/stories/expansion-0086/v1/p02.webp",
+      "start": 19.886,
+      "end": 38.764
+    },
+    {
+      "id": "p03",
+      "text": "绵丁先在纸上画太阳，再添月亮。为了挤进同一个方框，两个都画得小小的。杏杏说：“太阳像颗黄豆了。”蓝蓝说：“我的摇床也变成细线啦。”绵丁挠挠软脑袋。",
+      "image": "/library/stories/expansion-0086/v1/p03.webp",
+      "start": 38.764,
+      "end": 58.578
+    },
+    {
+      "id": "p04",
+      "text": "他把太阳和月亮各画在一块布上，等颜料干了，举起太阳布：“今天挂这个，明天换月亮？”蓝蓝摸摸月亮布：“可我今天就想看它。”杏杏也舍不得收起自己的太阳。",
+      "image": "/library/stories/expansion-0086/v1/p04.webp",
+      "start": 58.578,
+      "end": 77.504
+    },
+    {
+      "id": "p05",
+      "text": "绵丁一手举一块布，左右看看。风轻轻一推，两块布背靠背贴在一起。他这边是黄太阳，站在另一边的蓝蓝却喊：“月亮还在！”绵丁的眼睛亮了：“它们有地方住啦！”",
+      "image": "/library/stories/expansion-0086/v1/p05.webp",
+      "start": 77.504,
+      "end": 96.982
+    },
+    {
+      "id": "p06",
+      "text": "绵丁把两块布的背面贴好，沿着四边慢慢缝起来。黄太阳朝外，蓝月亮也朝外，谁都没有变小。他又在四个角缝上布带。一面旗做好了，翻过来，翻过去，都有好看的画。",
+      "image": "/library/stories/expansion-0086/v1/p06.webp",
+      "start": 96.982,
+      "end": 117.108
+    },
+    {
+      "id": "p07",
+      "text": "桥头的横杆很低，绵丁伸手就够到。他把旗的四角系稳，又走到两岸各看一次。杏杏从这头走来，看见圆太阳；蓝蓝从那头走来，看见弯月亮。两个人都笑眯眯的。",
+      "image": "/library/stories/expansion-0086/v1/p07.webp",
+      "start": 117.108,
+      "end": 136.706
+    },
+    {
+      "id": "p08",
+      "text": "傍晚，他们走过桥，回头看看，还能看见朋友喜欢的那一面。杏杏说：“你的月亮真弯呀。”蓝蓝说：“你的太阳真圆呀。”绵丁坐在草地上，听小旗轻轻扑扑，像在拍软软的手。",
+      "image": "/library/stories/expansion-0086/v1/p08.webp",
+      "start": 136.706,
+      "end": 157.282
+    }
+  ],
+  "buildHash": "4c656493e444213fb6713585a50a4a9ab517c78798b046eb0aa88cd674f6dd61"
+}

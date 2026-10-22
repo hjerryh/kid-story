@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0084",
+  "title": "谁在挠信封的脚丫",
+  "version": 1,
+  "bodyCharacters": 527,
+  "pages": 8,
+  "duration": 171.37,
+  "bodySha256": "4ae19aca56a9315134e0c4c3c5c588561d8355e68752b2129027b35ffad622ea",
+  "audioSha256": "8c462a11de41abbc81fc524790755c9443b33840fc40e427f055c629c3053b8c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2ecf5d4b3304f0376f8b0fe2af450b6f29cc68b8be7d65c42dc41f300b436673",
+      "bytes": 16908
+    },
+    {
+      "name": "p01",
+      "sha256": "16b803cb898b3f6ee1e4926640ddebe309473cdbea6bd9b43d27513a4b20adb4",
+      "bytes": 12964
+    },
+    {
+      "name": "p02",
+      "sha256": "acf5096629ec0f79933278f2fb8d92195f2e8c127839eef3fa0e8f8266deaa0a",
+      "bytes": 13698
+    },
+    {
+      "name": "p03",
+      "sha256": "cbeb063f10b6a5577c215e7687a97e6c8a081974abf11eb52ca3088ac2625fbf",
+      "bytes": 13122
+    },
+    {
+      "name": "p04",
+      "sha256": "6f06b8a471f663a18e87c60720069475ebc927439035475c3264279c66310e92",
+      "bytes": 13546
+    },
+    {
+      "name": "p05",
+      "sha256": "2843226852900de05c87efc536b961769a6e38d9c6143ce9b9df4b42b7b1683f",
+      "bytes": 13072
+    },
+    {
+      "name": "p06",
+      "sha256": "53fe18d95396698a8f11607d531020b42c8b408dd4245370d6639a6587e07272",
+      "bytes": 13760
+    },
+    {
+      "name": "p07",
+      "sha256": "169764440ca9046e66e6fa1737212586278101f8b5a2e1be031ffc9b6884d39a",
+      "bytes": 13564
+    },
+    {
+      "name": "p08",
+      "sha256": "45bcd7bb00ce6041d804f76c45d714f6f240c0138801a598d6abfff2710b51a6",
+      "bytes": 13886
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

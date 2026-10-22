@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0081",
+  "title": "圆叶梦见一顶雪帽子",
+  "version": 1,
+  "bodyCharacters": 521,
+  "pages": 8,
+  "duration": 168.994,
+  "bodySha256": "a198eab9819e6e66d899de993e9cf0d5a004d12a283546b9a5aa985f7cfddb9c",
+  "audioSha256": "0ee5ca1573eed3b5c5c9b8b7863253b8bc8d844a366e82c71f8151804c2d1bb0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "caf2a7a7f805ed8f43149df4255a967149f8e3f84b52ca02c97f5a414cba1aa9",
+      "bytes": 16168
+    },
+    {
+      "name": "p01",
+      "sha256": "bc22d06610eefadcfc87af5b6e609577a3996ff19acd37316e298a6db8b89e5e",
+      "bytes": 10694
+    },
+    {
+      "name": "p02",
+      "sha256": "0437da5034d68623875cae752bfb9f34cd2cb2878ac1520cdb7f6e54f9813916",
+      "bytes": 11870
+    },
+    {
+      "name": "p03",
+      "sha256": "5d886ea35da10890fcb012b24b3bab82eaee9e478d17430749ef355fcd7214ad",
+      "bytes": 12780
+    },
+    {
+      "name": "p04",
+      "sha256": "c25895f6166c94cf157e2cd0f6c75db1cc95739d20ed2f2ed8932e70970d7fc5",
+      "bytes": 12028
+    },
+    {
+      "name": "p05",
+      "sha256": "680b6c11f9980ebefefaf13a6f9f7599eb5d05b856500e001e05e6bb11cfa952",
+      "bytes": 12440
+    },
+    {
+      "name": "p06",
+      "sha256": "2fd7b9fc894cd1fdab67067db776e698d57d4802ebf4f8480d6aeedeb069933d",
+      "bytes": 13052
+    },
+    {
+      "name": "p07",
+      "sha256": "b25e3626a7e050bf21804916ba67683e7b2f51f0818f9432d0b927ac103f8bfb",
+      "bytes": 13424
+    },
+    {
+      "name": "p08",
+      "sha256": "219b88addbc4c4216cfd124dcf52e93679c18ff52d13e669c42c407f965cad1c",
+      "bytes": 12620
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

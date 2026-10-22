@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0086",
+  "title": "太阳背后的蓝月亮",
+  "version": 1,
+  "bodyCharacters": 499,
+  "pages": 8,
+  "duration": 157.282,
+  "bodySha256": "c7e1c33835b96e1499e8ad4a8d61e79148476afe823d9cb100df8772533e17ce",
+  "audioSha256": "771571de7b65993c9d842877746fbc5327373a74ea311b9da8b5c2783f595cd2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4af1d94ce40e6342d6199f693514a8e9520a996caee2fdf3605982168531d6b1",
+      "bytes": 20216
+    },
+    {
+      "name": "p01",
+      "sha256": "27edc5309d7590f60fbf65e3801441875431f93584201353ebccaa169f5e6204",
+      "bytes": 17418
+    },
+    {
+      "name": "p02",
+      "sha256": "ca354bc39deb432c8c627ce89c265baef39e34cb2ab116c4682b29e50e485c53",
+      "bytes": 17448
+    },
+    {
+      "name": "p03",
+      "sha256": "9808cc91924cfcb90a6caee391a8cac96acb7bd0887f1cd1bfe37fb8b2cf5206",
+      "bytes": 16180
+    },
+    {
+      "name": "p04",
+      "sha256": "fbabaa85b311eb8d3e7c1a0ac62a68884db00a9b13bab49d31d4fc286b910fe3",
+      "bytes": 16356
+    },
+    {
+      "name": "p05",
+      "sha256": "360b615c0d205c2a3085960d52735b9da815b817960df2572793250744035cff",
+      "bytes": 15450
+    },
+    {
+      "name": "p06",
+      "sha256": "83d311ecc69a23abd44611d5d51565b16009caba44fed56a41f9c9941b13bd2a",
+      "bytes": 11566
+    },
+    {
+      "name": "p07",
+      "sha256": "0a7f115561a650731fb2f9b5fe9dc7b9a4078b3fd165aa136732cca4b20ed023",
+      "bytes": 15312
+    },
+    {
+      "name": "p08",
+      "sha256": "712f2ae598beb0e2006af229556c464b30af9380845026ce5055a4d1a43d7593",
+      "bytes": 16902
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

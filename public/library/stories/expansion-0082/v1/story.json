@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0082",
+  "version": 1,
+  "status": "media-ready",
+  "title": "等刷子唱完这一声",
+  "subtitle": "一步一步的小曲",
+  "description": "茸米想学一首睡前听的彩石小曲，可石头朋友一口气说了太多步骤。刷子在手里打转，曲子也乱了，她该怎样让这堂小小的音乐课慢下来？",
+  "ageBand": "3-5",
+  "theme": "表达需要",
+  "color": "#82B6B0",
+  "character": "小鼹鼠茸米：灰褐色短毛，圆鼻头，穿鹅黄色背心，背浅绿布包。咚咚：圆圆的蓝色石头，脸颊有两点白斑。另有一块扁扁的红石头和一块椭圆的黄石头。",
+  "cover": "/library/stories/expansion-0082/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 177.01,
+  "detailUrl": "/library/stories/expansion-0082/v1/story.json",
+  "audio": "/library/stories/expansion-0082/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "彩石溪谷里，石头们都会说话。用软软的东西轻轻刷过，它们还会唱歌。小鼹鼠茸米听见草叶刷出的叮咚声，真喜欢。她想学一首小曲，晚上躺在被窝里，轻轻唱给自己听。",
+      "image": "/library/stories/expansion-0082/v1/p01.webp",
+      "start": 0,
+      "end": 21.182
+    },
+    {
+      "id": "p02",
+      "text": "蓝石头咚咚说：“我来教你！”他请来红石头和黄石头，排在平平的石台上。茸米从布包里取出软刷。咚咚挺起圆肚皮：“红的唱叮，黄的唱铃，我唱咚。我们三个都准备好啦！”",
+      "image": "/library/stories/expansion-0082/v1/p02.webp",
+      "start": 21.182,
+      "end": 42.196
+    },
+    {
+      "id": "p03",
+      "text": "“先刷红的两下，再刷黄的一下，停一停，最后刷我！”咚咚一口气说完。茸米刚记住红的，黄的就挤了进来。她举着刷子转来转去。咦，谁两下？停在哪里？小曲还没开头，她就忘啦。",
+      "image": "/library/stories/expansion-0082/v1/p03.webp",
+      "start": 42.196,
+      "end": 65.61
+    },
+    {
+      "id": "p04",
+      "text": "茸米赶紧跟着念，又怕念着念着忘了，索性把三块石头都刷一遍。“叮铃咚！”声音挤成一小团，像打了个喷嚏。咚咚重新讲起来，比刚才还快。茸米的耳朵垂下去，刷子也停在半空。",
+      "image": "/library/stories/expansion-0082/v1/p04.webp",
+      "start": 65.61,
+      "end": 87.464
+    },
+    {
+      "id": "p05",
+      "text": "她轻轻刷了一下红石头。“叮。”这一声，她刷得很好呀。茸米抬起头：“咚咚，我记不住那么多。请你一次只说一步，等我做完，再说下一步，好吗？”咚咚眨眨眼，把正要说的话收了回去。",
+      "image": "/library/stories/expansion-0082/v1/p05.webp",
+      "start": 87.464,
+      "end": 109.75
+    },
+    {
+      "id": "p06",
+      "text": "“先刷红的两下。”咚咚说。茸米慢慢刷：“叮，叮。”咚咚安静等着。茸米点点头：“这一步做好啦！”他才接着说：“再刷黄的一下。”软刷落下，响起一声清亮的铃。茸米的耳朵又竖起来了。",
+      "image": "/library/stories/expansion-0082/v1/p06.webp",
+      "start": 109.75,
+      "end": 133.62
+    },
+    {
+      "id": "p07",
+      "text": "“现在停一停。”茸米让刷子歇在手心，听溪水哗啦一下。“最后刷我。”咚！小曲有了圆圆的尾巴。茸米又从头试了一遍。这次咚咚没有提醒，她也唱全了：叮，叮，铃——咚。",
+      "image": "/library/stories/expansion-0082/v1/p07.webp",
+      "start": 133.62,
+      "end": 156.218
+    },
+    {
+      "id": "p08",
+      "text": "天晚了，茸米收好刷子，向三位石头朋友道别。她一路轻轻哼，把小曲带回家。被窝里，她唱过叮叮铃，特意停了一停。最后那声咚还没唱完，就软软地变成了一个小哈欠。",
+      "image": "/library/stories/expansion-0082/v1/p08.webp",
+      "start": 156.218,
+      "end": 177.01
+    }
+  ],
+  "buildHash": "86001d2265b1accc0af56b46507e888f9b42490ddd011c78f3c89d0464ed5bfe"
+}

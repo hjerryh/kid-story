@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0087",
+  "version": 1,
+  "status": "media-ready",
+  "title": "秋风长了绿鞋",
+  "subtitle": "沙沙响的秋天裙",
+  "description": "小穗想穿一条沙沙响的落叶裙参加秋夜舞会，可她挑中的卷叶里，藏着小小的住客。舞会快开始了，她还能做出自己的秋天裙子吗？",
+  "ageBand": "3-5",
+  "theme": "落叶小住客",
+  "color": "#B88B53",
+  "character": "叶精灵小穗，浅绿色短发，圆脸，穿米白色小衣和棕色短裙，腰间系一条橙色布带，脚穿软软的绿鞋。",
+  "cover": "/library/stories/expansion-0087/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 167.338,
+  "detailUrl": "/library/stories/expansion-0087/v1/story.json",
+  "audio": "/library/stories/expansion-0087/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "蘑菇森林今晚有舞会。叶精灵小穗想做一条落叶裙，转起圈来，沙沙，沙沙，像秋风走过树梢。她解下腰间的橙布带，来到大树下，挑那些金黄的、卷着边的小叶子。",
+      "image": "/library/stories/expansion-0087/v1/p01.webp",
+      "start": 0,
+      "end": 20.63
+    },
+    {
+      "id": "p02",
+      "text": "第一片叶子像小喇叭。小穗刚把它托起来，里面就伸出两根细触角。一只小甲虫嘟囔：谁把我的被窝举高啦？小穗赶紧蹲下，把叶子轻轻放回原处，还替它挡住了风。",
+      "image": "/library/stories/expansion-0087/v1/p02.webp",
+      "start": 20.63,
+      "end": 40.732
+    },
+    {
+      "id": "p03",
+      "text": "她又找到一片弯弯的叶子，像只小月亮。刚碰一下，叶肚子里露出一条熟睡的小虫。小穗松开手。原来这些漂亮的卷叶，有的已经住了客人。她的橙布带还是空空的。",
+      "image": "/library/stories/expansion-0087/v1/p03.webp",
+      "start": 40.732,
+      "end": 61.026
+    },
+    {
+      "id": "p04",
+      "text": "小穗坐在树根上，肚子咕噜叫了。她打开带来的小饼，包饼的黄纸沙沙响。咦，这声音真像落叶！她吃完饼，抖掉纸上的碎屑，把干净的黄纸举到脸边，又轻轻摇了摇。",
+      "image": "/library/stories/expansion-0087/v1/p04.webp",
+      "start": 61.026,
+      "end": 81.248
+    },
+    {
+      "id": "p05",
+      "text": "她把黄纸慢慢撕成长叶子，尖尖头，圆肚子。边缘有些歪，她就顺着歪处撕出小小的锯齿。剩下的纸角全收进口袋。六片纸叶排在膝上，像六条挤着晒太阳的小黄鱼。",
+      "image": "/library/stories/expansion-0087/v1/p05.webp",
+      "start": 81.248,
+      "end": 103.126
+    },
+    {
+      "id": "p06",
+      "text": "小穗把每片纸叶的顶端折过来，让橙布带从折口里穿过去，再仔细压一压。系到腰间，纸叶垂成一圈。她试着迈步，沙沙！再转半圈，沙沙沙！裙子没有掉，声音也有啦。",
+      "image": "/library/stories/expansion-0087/v1/p06.webp",
+      "start": 103.126,
+      "end": 125.124
+    },
+    {
+      "id": "p07",
+      "text": "天色暗下来，小穗沿着小路去舞会。经过那片卷叶时，她踮起脚，没有碰到甲虫的被窝。小甲虫探头听了听，说：秋风怎么长了绿鞋？小穗笑得弯下腰，纸裙又响了一阵。",
+      "image": "/library/stories/expansion-0087/v1/p07.webp",
+      "start": 125.124,
+      "end": 145.946
+    },
+    {
+      "id": "p08",
+      "text": "月亮爬上树梢，空地上的小鼓咚咚响。小穗转呀转，六片纸叶轻轻张开，像一朵金黄的花。树根下面，小甲虫缩回暖暖的卷叶里。远远传来的沙沙声，正好陪它慢慢睡着。",
+      "image": "/library/stories/expansion-0087/v1/p08.webp",
+      "start": 145.946,
+      "end": 167.338
+    }
+  ],
+  "buildHash": "4434b6e7d061211b02116d4d1d73978ac0643c778f7c6f1b91525793c8118622"
+}

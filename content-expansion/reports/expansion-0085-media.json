@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0085",
+  "title": "石磨爷爷的白胡子",
+  "version": 1,
+  "bodyCharacters": 526,
+  "pages": 8,
+  "duration": 170.842,
+  "bodySha256": "9bc6eb4fa3239bf7f80d375f6ff45a067f93c8a92c532f80b04d8abe1dc890a8",
+  "audioSha256": "5a51cf8d33a43e33b99554614500edd5cef518b5fa69246d8b634d589c1655d0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "342891e162eba7fc2db2a4f0ff5a0f2f1d226e61d9a1258490c7fdc8dbfd868a",
+      "bytes": 17664
+    },
+    {
+      "name": "p01",
+      "sha256": "7e3108291181309eefc3a2fc1e1f58fd4e5748e4439a2f8a846c9ef3fcb2fd44",
+      "bytes": 13256
+    },
+    {
+      "name": "p02",
+      "sha256": "e92afe2f2bd59d8b93abe3643f4e15a427aeba27232c39759c16737b8eeda6d1",
+      "bytes": 14040
+    },
+    {
+      "name": "p03",
+      "sha256": "c2b4b5adc873c7f4d567507b1838dfcbe4da0ec1add1619e9cf517cbfbd59615",
+      "bytes": 13164
+    },
+    {
+      "name": "p04",
+      "sha256": "56921dbaba5ac0f3b27fa38ae68a8b3d629d92244ed19f9e4dd9205d3ae8bd82",
+      "bytes": 14090
+    },
+    {
+      "name": "p05",
+      "sha256": "451da45ef4c451dc0b806d68e565c27947cf8d471d885d157ba66cc6e9dc2737",
+      "bytes": 14002
+    },
+    {
+      "name": "p06",
+      "sha256": "213fab581569e3222b4beda1aebbd379241b4da7cfc9f6534b2c04c44f346960",
+      "bytes": 15196
+    },
+    {
+      "name": "p07",
+      "sha256": "b3723557168075ef0ba61433533dd53f468533b1ca257355b8277c1c6cc09d2c",
+      "bytes": 13116
+    },
+    {
+      "name": "p08",
+      "sha256": "293f02e735d86dee5bed64f62c9557bd1cc37bee2ac8b75bf37041f43036e110",
+      "bytes": 12884
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
