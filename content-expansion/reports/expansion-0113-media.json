@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0113",
+  "title": "栀禾续写的那条路",
+  "version": 1,
+  "bodyCharacters": 1514,
+  "pages": 16,
+  "duration": 457.226,
+  "bodySha256": "28e4aebb7827bc0d06c1497a6a73b3da8b0ddebfeadd606fd34a55958545cb78",
+  "audioSha256": "69a57793d40c5db503ca4e2e80764188b80028d4bc25617d22fffcb23e06645e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d2a3a48cd6e70dce19bb358c412bc154ae5c9b0af8e47b64f60a5720c5be2cd6",
+      "bytes": 22360
+    },
+    {
+      "name": "p01",
+      "sha256": "1cd55be545f23ec1c1ade075aef66d6c1c6cb39b3dd42a430ab064f10a3654b7",
+      "bytes": 12326
+    },
+    {
+      "name": "p02",
+      "sha256": "3d475a06510a4f206305a3240ae5903a6039341259c736819f7250caea239196",
+      "bytes": 16764
+    },
+    {
+      "name": "p03",
+      "sha256": "f556f82ad3703c889362145b49c09d0562fee11c779278f1503affdd027fdafd",
+      "bytes": 14340
+    },
+    {
+      "name": "p04",
+      "sha256": "5b8634234883e3db96f5a7c390e4a4765b653ff40e8f3b178761d9cd651ef250",
+      "bytes": 13094
+    },
+    {
+      "name": "p05",
+      "sha256": "7a1956c9743f7aae909e91545731bc5ff034eac7d3fcb0453da1490d57a122c5",
+      "bytes": 13582
+    },
+    {
+      "name": "p06",
+      "sha256": "8b0a75c8d1b3c986b60047e5710cb9cdadecacd6d8fbd16c14ec0785c26ca849",
+      "bytes": 12846
+    },
+    {
+      "name": "p07",
+      "sha256": "5a506d32c15517e8b825d9c8bbb368b4ee5a9a6fd2b807227d311a38757141a4",
+      "bytes": 12432
+    },
+    {
+      "name": "p08",
+      "sha256": "e7cb22736d8f4c1f7469a036188050bd596357efd57e812dd871e75b2fdaa40c",
+      "bytes": 16522
+    },
+    {
+      "name": "p09",
+      "sha256": "4a8d068ec93cc70f94360ac50af77fd6a8e68f5b7aa5511e80b168c374f81b27",
+      "bytes": 15090
+    },
+    {
+      "name": "p10",
+      "sha256": "568230852aec06946021f583d9da49be55a6c62e578d676dbc5337ed7644a547",
+      "bytes": 15942
+    },
+    {
+      "name": "p11",
+      "sha256": "02d33bcfbb80972b6fd87775ae9cd4ff8b2a9f8aa1a5dfe6967a3e2fe3a3b036",
+      "bytes": 12594
+    },
+    {
+      "name": "p12",
+      "sha256": "963ac5fe64cc20e0114e4a9da9bf83818fbc224714123d5d7baf80fbbd0d3b77",
+      "bytes": 12976
+    },
+    {
+      "name": "p13",
+      "sha256": "327e9cf274fe029e9a81471ba5062ec40c912b35de6976bf93e7ea0fdc0552e3",
+      "bytes": 15034
+    },
+    {
+      "name": "p14",
+      "sha256": "fa4fd96aa44f8ecf73e6e3800e50b930c90a9dd9ac6668701402b6aa97b29fd5",
+      "bytes": 18224
+    },
+    {
+      "name": "p15",
+      "sha256": "90547d94a3cb2476532e0ce4deff44d5812261511341a332e1b6ff4c8aea9e2c",
+      "bytes": 13506
+    },
+    {
+      "name": "p16",
+      "sha256": "6ca9ea558ac3a4afd206b2f6a0e83e3ceab887d7261fab71dfcc04d6c5b2a8b8",
+      "bytes": 14824
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

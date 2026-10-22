@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0111",
+  "title": "蓝桥那头的两碗汤",
+  "version": 1,
+  "bodyCharacters": 1499,
+  "pages": 16,
+  "duration": 461.618,
+  "bodySha256": "bfcfb694bdaf33a827e37cff14155032c01ff5dcf25da489a37c30c5ba74d90a",
+  "audioSha256": "ec7ed82fa34cc85a80dcd63df8155b8ec646e7649e13e3fb16b2b0763f54994c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8a93f0c4153cfc690580deac9d9ec3641b337e45a2b641796ec4d0e90c95fc9b",
+      "bytes": 20866
+    },
+    {
+      "name": "p01",
+      "sha256": "22a5f89ef6da5a24568d866e871e7fbb092d044d1a0380c4630a88e156d51704",
+      "bytes": 14196
+    },
+    {
+      "name": "p02",
+      "sha256": "907e8c9c26113aeaf5bb5bf90a1a5f000b084c4f42a6f234d0683a24de18ae5d",
+      "bytes": 16000
+    },
+    {
+      "name": "p03",
+      "sha256": "706666e41c4e29dc7c880cdd669c153865e1349e42fab0293f0874fb384abee3",
+      "bytes": 19484
+    },
+    {
+      "name": "p04",
+      "sha256": "92a8b3b2b517df5b6d845ee05a5b306ea1243d3a8ed16b3007f6a23c83738260",
+      "bytes": 16524
+    },
+    {
+      "name": "p05",
+      "sha256": "aa384faec0b3c3fd00e72b79aee8d8ae04fd0080b6f3ceb4beee8e65099b5f24",
+      "bytes": 21010
+    },
+    {
+      "name": "p06",
+      "sha256": "15ffebb54286c5db3f81586196c2de16378c673246c0839fabaac10b42fe5ef7",
+      "bytes": 16856
+    },
+    {
+      "name": "p07",
+      "sha256": "68f76da9c0aa0645bb61b48535fcd6b4f5559b49c33d2c044969cb6f8516cf1b",
+      "bytes": 16704
+    },
+    {
+      "name": "p08",
+      "sha256": "1b47fde61c92085c746d0ee854a2fcccab8a4ab1964445b6baf9c2614a9637a9",
+      "bytes": 18666
+    },
+    {
+      "name": "p09",
+      "sha256": "8edb0591e8b1b0e2114d1a13f47255d00c58d1a8fbae369f785648143827d0fb",
+      "bytes": 19026
+    },
+    {
+      "name": "p10",
+      "sha256": "961bb65c91358cca02e6fb18f8c074017f8de0c7b7697cf348a82c6d3341cc9b",
+      "bytes": 16780
+    },
+    {
+      "name": "p11",
+      "sha256": "24ba4adb3ddb96fe34eafa69acc0b60d025855b1adc623f8eb8be3eb752f16f6",
+      "bytes": 18824
+    },
+    {
+      "name": "p12",
+      "sha256": "7876a01b167fd6e7b78e4222b411a21381a2742c036b4c7f936f728420df2c3b",
+      "bytes": 19442
+    },
+    {
+      "name": "p13",
+      "sha256": "910aa089a320d14c7033281d176e6d3e8b38ba378a6c3a42ffa5d1c638276816",
+      "bytes": 19186
+    },
+    {
+      "name": "p14",
+      "sha256": "bce1062087dd473f87f5c74a123a88e8fad5ddf08aed1b0fdf406706b20db4e0",
+      "bytes": 19174
+    },
+    {
+      "name": "p15",
+      "sha256": "1f7e93621b93c9b1732b9ab179f0528b1526855b871c412c692f17284d63dc88",
+      "bytes": 12424
+    },
+    {
+      "name": "p16",
+      "sha256": "02dd23828b3a82a7aca6fc7dd327eb5c6a063e25a992455f0bbe349ae5ee47f6",
+      "bytes": 16506
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

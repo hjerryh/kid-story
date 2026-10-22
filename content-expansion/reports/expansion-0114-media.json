@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0114",
+  "title": "沙沙今天不用挺胸",
+  "version": 1,
+  "bodyCharacters": 1612,
+  "pages": 16,
+  "duration": 500.138,
+  "bodySha256": "cc810a797137ede8387d791fcbfecd081fb54321c991684f6ad0d6274bf5841c",
+  "audioSha256": "82d4e1c21836f894b626ae54fed8d5b0b243d138cc5395553320dbd96691d16f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "bd22229eb42c7712524128f768f21d575f2dd404e6c53ebe94a74f1b326d23f8",
+      "bytes": 17604
+    },
+    {
+      "name": "p01",
+      "sha256": "712d29ad1f6bd40bd21291548e7048fd3ca22618b51d6270a85dfaf07ec1a9bd",
+      "bytes": 17736
+    },
+    {
+      "name": "p02",
+      "sha256": "6416a22a3fc0782c217ed17de8f09d6edcd804a5eacf98443269979d2be7c12a",
+      "bytes": 17162
+    },
+    {
+      "name": "p03",
+      "sha256": "997adf772a48da313e6488048958e22bb5fc3987ce52a1681f384d794aa5b4d7",
+      "bytes": 17270
+    },
+    {
+      "name": "p04",
+      "sha256": "2c38b051b9412546717b26c83d9cc5c4d9bc0621055bdc66744ea859e10ec85e",
+      "bytes": 18134
+    },
+    {
+      "name": "p05",
+      "sha256": "e4a445844881296440395a10c65ddf2438bd70b51d4c57fc49de6b9917af1dff",
+      "bytes": 17710
+    },
+    {
+      "name": "p06",
+      "sha256": "974e1a0ca78f85403750aca33a53e6397ae5e92f2042b896a1636c70bd7a92ff",
+      "bytes": 17540
+    },
+    {
+      "name": "p07",
+      "sha256": "8ea598af303f2c6d736caaa4d362a2dbe64f2b294ba9633802bea717e6e0f43e",
+      "bytes": 18204
+    },
+    {
+      "name": "p08",
+      "sha256": "d71ca7318ab17ec4074f41cdd2e80ef6ce5ed2ade60b529064f587942effc608",
+      "bytes": 17766
+    },
+    {
+      "name": "p09",
+      "sha256": "94349855094ff351ad18038d9e530d96990049f6f89956fddee0d6adaf531443",
+      "bytes": 17166
+    },
+    {
+      "name": "p10",
+      "sha256": "063ef5c0007b9d5a07c7565d50fbfc714ece819014268758b1e6888c0bc350b6",
+      "bytes": 17988
+    },
+    {
+      "name": "p11",
+      "sha256": "dc07edf4ac2902cf9f59f27c843f6c0a4e357da43b8ca6f4cae01071c18b668d",
+      "bytes": 16964
+    },
+    {
+      "name": "p12",
+      "sha256": "cff9b4d95907fdeede3fde3e9e06b7a9bd0463f53689fe9358d9d3bdd3830a25",
+      "bytes": 15452
+    },
+    {
+      "name": "p13",
+      "sha256": "9115f7ec4fc4eb171c7f02af0d6c5e5daafe8d3143da40584b9a2415f78665fe",
+      "bytes": 12654
+    },
+    {
+      "name": "p14",
+      "sha256": "c224075bc21d1f9277907ee563e563c95e2eb895320fa57236631d44b34350b4",
+      "bytes": 14632
+    },
+    {
+      "name": "p15",
+      "sha256": "4670445e7b9ff383093c05a4771382037f25d263a3e7069bc4a5a35d84432d15",
+      "bytes": 13902
+    },
+    {
+      "name": "p16",
+      "sha256": "d39c02ede56b882e5765887afe4701a3c149ee429356dd0b409298814f743ebf",
+      "bytes": 14562
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

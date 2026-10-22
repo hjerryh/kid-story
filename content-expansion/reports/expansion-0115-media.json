@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0115",
+  "title": "寄存柜里的一场小雨",
+  "version": 1,
+  "bodyCharacters": 1480,
+  "pages": 16,
+  "duration": 452.786,
+  "bodySha256": "0c66791dac18702748c64c814291ed3dc179a9feaa22552ec17ee53747972408",
+  "audioSha256": "4bf47354040d937d1078f6b73d0e601ee0b11c24437f7230746f71d86329e63d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "fc1382b9ed74723b2f2a33c5ee7bb114cecd4e1d7e78e990749e596d46c1a488",
+      "bytes": 19270
+    },
+    {
+      "name": "p01",
+      "sha256": "b0a4098e3ebdffd429fa0a9f0223d03e7d28fa72f1c06cb721ba74c6a18eda4e",
+      "bytes": 11734
+    },
+    {
+      "name": "p02",
+      "sha256": "0d045ecfc53f505b3ecbb51d79ac061ffac35633ddd814c89762c0d7656fbfee",
+      "bytes": 14000
+    },
+    {
+      "name": "p03",
+      "sha256": "6840f452ed1a65250059ea3afbde3a5657beeac95e15d2136d1b6717233c5670",
+      "bytes": 11786
+    },
+    {
+      "name": "p04",
+      "sha256": "4e85b47ef64c98f0348e873b1aa6cbd07904467a52975d37c2c219743952932c",
+      "bytes": 13560
+    },
+    {
+      "name": "p05",
+      "sha256": "187a73466d405ae667ddd036cf52a1b537e67648d34e1034800dfc11e3faa43f",
+      "bytes": 12732
+    },
+    {
+      "name": "p06",
+      "sha256": "249293e84acc9acb7fd2bf0a1889aef1402b940eb43e6bdb68b302859eb51ad2",
+      "bytes": 13824
+    },
+    {
+      "name": "p07",
+      "sha256": "ad3f458e09a6c5480529ca2ed9767bc64c8b75a3d7dbb47c9059c10d30b861cb",
+      "bytes": 12414
+    },
+    {
+      "name": "p08",
+      "sha256": "1fec34c6cc6c1c46b75f5df33078845ecb94d7f72b1938b116482825d7c9ff6e",
+      "bytes": 10428
+    },
+    {
+      "name": "p09",
+      "sha256": "09328a6566957ce74ae3d1ad1dabdc97c1209a6fb555d5d19ba64918d4f50114",
+      "bytes": 11072
+    },
+    {
+      "name": "p10",
+      "sha256": "a20fa4a2cee677190bd80d41ec2cba9065aa4912c17f102b6ec99e92c074e207",
+      "bytes": 15166
+    },
+    {
+      "name": "p11",
+      "sha256": "6764c93645f96a7f2175818c30dcba727c606e2802ce3d954bc31425e825f78e",
+      "bytes": 16468
+    },
+    {
+      "name": "p12",
+      "sha256": "91045b1141d3c4f315f3dda1ea168a1d1cba037cd158c38a786761abd3fa3cb6",
+      "bytes": 15608
+    },
+    {
+      "name": "p13",
+      "sha256": "64276ad8e36b89cb677a79f34b7e3981c1c360baea3da756417fde0b0f7b47cd",
+      "bytes": 13672
+    },
+    {
+      "name": "p14",
+      "sha256": "62d2574b9129b585c6b54f036b6adf4435e57a1a89a9fd8d08213614d67fde95",
+      "bytes": 15240
+    },
+    {
+      "name": "p15",
+      "sha256": "dc3c47c71bc9957de5d893e7ba55d1298f325f7e16cecf03580d9873f3bed5e4",
+      "bytes": 14658
+    },
+    {
+      "name": "p16",
+      "sha256": "a677d13e17b7170a9b1bf821575f395e9991a614bce60f19ad072a017a223eca",
+      "bytes": 14522
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
