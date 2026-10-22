@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0071",
+  "title": "月亮借一小块黑暗",
+  "version": 1,
+  "bodyCharacters": 1670,
+  "pages": 16,
+  "duration": 516.098,
+  "bodySha256": "457355739816d528cfad908d30e2f4a154cec44440a3fc70be14429427b8454c",
+  "audioSha256": "3d62ff12d753c9fcd6a566a8c30583d708029073f346e74ad8250a6a63fb0302",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5ac97567e71e278e26b9702091f643547357c5e9d5a65a68542d0862f44765e0",
+      "bytes": 16406
+    },
+    {
+      "name": "p01",
+      "sha256": "2617253d39be19d258e818c955bf9d9a14fcfd6adc7b9887770044a48467e019",
+      "bytes": 15108
+    },
+    {
+      "name": "p02",
+      "sha256": "215bce946b4895c2eaeac1132db429f7cc3c560ff1002ed95045552a6330888d",
+      "bytes": 16970
+    },
+    {
+      "name": "p03",
+      "sha256": "83ffad983fde10ee2bac133dce39a46eb0c8c0ca87269d2725a7c0dd066a620e",
+      "bytes": 16112
+    },
+    {
+      "name": "p04",
+      "sha256": "18d954124666cb60adc1c1f5b18e59c7d449cc1a450129f74f28b4e559cddba1",
+      "bytes": 15894
+    },
+    {
+      "name": "p05",
+      "sha256": "e22d79daf4f442a07693bbf4952b7f723634c06e8ab9559817ca9e5cf94a9ae9",
+      "bytes": 16682
+    },
+    {
+      "name": "p06",
+      "sha256": "9f7449590f6d103d6cc6db7c9c194cb7f8240288b1032320f4b3daa5a3f2b00d",
+      "bytes": 17736
+    },
+    {
+      "name": "p07",
+      "sha256": "19ba85f61ec52c6424081368de80bcf7f38f060e568ebdf898adfb39ba5effbf",
+      "bytes": 15896
+    },
+    {
+      "name": "p08",
+      "sha256": "5f70e9dca9e71721b05ba5964b3fdda7db4287f749297cc4257b408d8ecf8acc",
+      "bytes": 13010
+    },
+    {
+      "name": "p09",
+      "sha256": "e9a0cbd9aad8ea7b536c9557a53b24877126f2e9738eeb584419642ada8e6b53",
+      "bytes": 13948
+    },
+    {
+      "name": "p10",
+      "sha256": "c4212dc4c4c5414fd586d663f942de8d0cd2e80f7730a9fee7bbdb85b8b88154",
+      "bytes": 15240
+    },
+    {
+      "name": "p11",
+      "sha256": "8e68c1d094a5775f550d1334c4fb20d4cb8ff57016bf8d10ad65f2035480bfe6",
+      "bytes": 13570
+    },
+    {
+      "name": "p12",
+      "sha256": "1f3570f0a742e8a3173f84b185488249e61e8e486cac8b3be1c012ac893d5632",
+      "bytes": 13886
+    },
+    {
+      "name": "p13",
+      "sha256": "1d2012279b22d0240cd59e5af3db8306ec02bcf7df813e19ff7216236bca82f9",
+      "bytes": 14390
+    },
+    {
+      "name": "p14",
+      "sha256": "950cd98b71c5a61cb5bee8605b78f0a4461ccb9bcf2b082f207f5369dcd218a4",
+      "bytes": 14026
+    },
+    {
+      "name": "p15",
+      "sha256": "f4c23de22d25dd4fd3a560adc2edbda96898aea811afeb9f9d6b4eda386c21d1",
+      "bytes": 15188
+    },
+    {
+      "name": "p16",
+      "sha256": "af0676f9aee01879301f46d7201b4c8e2e64db64ae8d48f5fd3563030e5a6d78",
+      "bytes": 14324
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

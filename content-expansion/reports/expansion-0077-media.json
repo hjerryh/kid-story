@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0077",
+  "title": "请替我接住那只白鸟",
+  "version": 1,
+  "bodyCharacters": 1449,
+  "pages": 16,
+  "duration": 448.754,
+  "bodySha256": "d664f02a22f41ed192bf0f4c50c071394e6d6a898e184c7dff95cdd80ea7de53",
+  "audioSha256": "04f91a94fc1e3c3866a984660c8132f25a9f1ec1d6db5435af9366c13155184f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0ee5516b4deed0ea54cff2ec4693fd1a13357ba2511b93112b5add4ad81a0005",
+      "bytes": 20192
+    },
+    {
+      "name": "p01",
+      "sha256": "85593fe2535a77063f252077af35edd6d7edb32bbf52426460bb4eb5d96eb9f6",
+      "bytes": 15094
+    },
+    {
+      "name": "p02",
+      "sha256": "a19db406396800504a6a5dbbb51d7ae7c73f1e58e2bf10c491281f83a6010f8d",
+      "bytes": 12358
+    },
+    {
+      "name": "p03",
+      "sha256": "7acbd437ce9bd4cf3e4ba769c19f62e8756838b6e1121ab698bbc767c974dde2",
+      "bytes": 14628
+    },
+    {
+      "name": "p04",
+      "sha256": "3cd2481e613e463a5595ea28f633819f76d740560b961b13ec83f382da0d9d00",
+      "bytes": 12202
+    },
+    {
+      "name": "p05",
+      "sha256": "74d1b7c5c794b7f0092204093b1b982db7de633da7f291ff0e69606475320b13",
+      "bytes": 15730
+    },
+    {
+      "name": "p06",
+      "sha256": "860f1663a8ec29bd7be1f2f7ea2c38ac7f6592bedfaa01a7390e99c3fa19819d",
+      "bytes": 13216
+    },
+    {
+      "name": "p07",
+      "sha256": "d159b2b2bc059493fc461fd30cfd70f196d78afe4de8231d5e19fac609a896fc",
+      "bytes": 13520
+    },
+    {
+      "name": "p08",
+      "sha256": "ef5561d0f4c2df37538c698c7f5439dd219a226b76b59accba91366b69fc5952",
+      "bytes": 15198
+    },
+    {
+      "name": "p09",
+      "sha256": "bdbc9bf1b043b68efa3197d4d768f87874084b9ea4e4beaa23ba11c827549ae5",
+      "bytes": 12616
+    },
+    {
+      "name": "p10",
+      "sha256": "9e79ef78bfd1a5433abb9b6c9f7380597be139136c936032c207f85958f580f0",
+      "bytes": 15322
+    },
+    {
+      "name": "p11",
+      "sha256": "dfb24ed251b3b222ef8d4480ac1d12e72cfa7a5f10fdadb9cb25ef84c804f3d8",
+      "bytes": 15302
+    },
+    {
+      "name": "p12",
+      "sha256": "966a0fa8a863e4c853f4dbd5f5af9f906fe40bb3d38940106be720cb92cd0b2d",
+      "bytes": 14124
+    },
+    {
+      "name": "p13",
+      "sha256": "6eb0ef0e4351a482dbb3d669f829040fd1d02d5fd7c5df7deb83d4feeba3d3c6",
+      "bytes": 15678
+    },
+    {
+      "name": "p14",
+      "sha256": "aabac6451bfa1b41916a051dd74284697b95335553ae57d9384e0e00c9f34fa1",
+      "bytes": 12540
+    },
+    {
+      "name": "p15",
+      "sha256": "5870aaf165d302ddc7941175bc10645d2820267f5599ef137d57aff2413d8a9b",
+      "bytes": 13098
+    },
+    {
+      "name": "p16",
+      "sha256": "5196d109a325e10017394f30007b73c2db3ad90a4bb566c6fce7768c9f8b94a4",
+      "bytes": 14942
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

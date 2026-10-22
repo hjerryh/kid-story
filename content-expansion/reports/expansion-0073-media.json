@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0073",
+  "title": "河上漂来的第三间房",
+  "version": 1,
+  "bodyCharacters": 1589,
+  "pages": 16,
+  "duration": 481.034,
+  "bodySha256": "f8c057f1bbae646093104a26d4498faeeb69e5c8291b93a3a4b115b836f254b8",
+  "audioSha256": "b30c516719d1f08b0a95014974229c9ea3adba815fd93673e23274e70ed9a812",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b6e5fb6f89f45c523e470be332d42eb43658cb7214a0d5653e9b47a74aba4511",
+      "bytes": 15842
+    },
+    {
+      "name": "p01",
+      "sha256": "d971ae2027c35195644226ebf4f3143cf914a58114b329e9a4a7b3e23c4ee679",
+      "bytes": 11272
+    },
+    {
+      "name": "p02",
+      "sha256": "f78efcd71007ae1adb56c2672d37bbbf90a9e42c9b9ed567bc241e2d5c4ecc56",
+      "bytes": 16102
+    },
+    {
+      "name": "p03",
+      "sha256": "50e4367943de967d213011d141060573181860f319400cfbcabe5b0ffbffe008",
+      "bytes": 13886
+    },
+    {
+      "name": "p04",
+      "sha256": "dbbb92513226a1d52162ac8e1fadf78efa5984dcd633e8801d2bf985ba888f21",
+      "bytes": 15438
+    },
+    {
+      "name": "p05",
+      "sha256": "f7bd021a6607f1c1f7dc94775c940da933d9a64b5d9fb9affac12675f37e7978",
+      "bytes": 10912
+    },
+    {
+      "name": "p06",
+      "sha256": "46f06d56df51218ce7be3b9f1c4ddf786fff375206f83e212b64a84848398ea2",
+      "bytes": 13548
+    },
+    {
+      "name": "p07",
+      "sha256": "d0f30891cb5ca7224681c9bf6b75de726d4e33ee8411cc667285c8b713f11494",
+      "bytes": 11530
+    },
+    {
+      "name": "p08",
+      "sha256": "2d1fd0d118e09384aa1f03fd661dd3b2177aa8360f25834d04fe302d02d3eee7",
+      "bytes": 16624
+    },
+    {
+      "name": "p09",
+      "sha256": "0a7079ce45297424a9f18cba4325eccf4812dfdfbacbfb2c51e839735a01368b",
+      "bytes": 10164
+    },
+    {
+      "name": "p10",
+      "sha256": "a5d154d170ed50dc48f5d3ea1e1afaa56ea82d2204f4683403cfc0e03bca3734",
+      "bytes": 13000
+    },
+    {
+      "name": "p11",
+      "sha256": "20769d4361acbe43d72c9b7b5298b36a0abea1267d8297dec73a917016d283b4",
+      "bytes": 12882
+    },
+    {
+      "name": "p12",
+      "sha256": "d43baea4b2e15707e000e04fe7152ae729644bb6ccac97e365389a737fce8a89",
+      "bytes": 15168
+    },
+    {
+      "name": "p13",
+      "sha256": "456a25ad92c54a6bb8f1ba53cabd789df4fb96f9a1f310d9945d592ae56e12eb",
+      "bytes": 16150
+    },
+    {
+      "name": "p14",
+      "sha256": "574dd5092532c7a215f1b0f66c1dcd4610162a13cdb009de600c7a44d312106d",
+      "bytes": 13340
+    },
+    {
+      "name": "p15",
+      "sha256": "e134990c2ae40ae849158545dbe8a09202136510866f42871f14a5a3295a47b2",
+      "bytes": 15250
+    },
+    {
+      "name": "p16",
+      "sha256": "c1b8a51e7ab30f8b50247350b56b76caa61b8d467121bc8850a9c0fda4b4bdee",
+      "bytes": 13348
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

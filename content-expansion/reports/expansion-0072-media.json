@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0072",
+  "title": "作者也不知道的珍珠案",
+  "version": 1,
+  "bodyCharacters": 1470,
+  "pages": 16,
+  "duration": 458.906,
+  "bodySha256": "19e6cfd3d28aa904f708abf3ed74ed714837ab438d29d63a1957035b4917800e",
+  "audioSha256": "4433e3c5825fb255b5285e2e9f28c595c511f4490e03f16fbf6aa2b97f65110b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2ffdffc1ce8162b83914ec3b1eb8655781cec693fa6574e34c179a74cecdda8f",
+      "bytes": 16946
+    },
+    {
+      "name": "p01",
+      "sha256": "1a284794ab02ea23206ba60bc056bbdb41f0ad4d1681b8964b55d8723bf2a8cf",
+      "bytes": 14308
+    },
+    {
+      "name": "p02",
+      "sha256": "7a93c6e030680554b27d82e4b7f521b7efe2caec676851cc5a8a52628116e1e5",
+      "bytes": 12002
+    },
+    {
+      "name": "p03",
+      "sha256": "6b8f78c00801004d112b6c4b9300fb98961887f6f1070038d6596ec7f9a36262",
+      "bytes": 16898
+    },
+    {
+      "name": "p04",
+      "sha256": "6974a2742469894b8f87915a8a6d29e00965e4e7819f4d0e19064b97e96b6c95",
+      "bytes": 16212
+    },
+    {
+      "name": "p05",
+      "sha256": "5224049fef21eb16d3784736187f791f3044ab46eb95ef1d08fde0025df3419b",
+      "bytes": 11874
+    },
+    {
+      "name": "p06",
+      "sha256": "f41aa6c52c93131450ab10c7741d99e629adcfb3ec2f95ab689608d038852d17",
+      "bytes": 15924
+    },
+    {
+      "name": "p07",
+      "sha256": "589521e28b8dba4cd62eeabe7d303dc40d9d488c00d9de6ce502fbccd653f704",
+      "bytes": 16470
+    },
+    {
+      "name": "p08",
+      "sha256": "2790266316d4202a42bcfe868cc84e03a5c9750dbb4e7ac3ab59f395df2d109d",
+      "bytes": 16500
+    },
+    {
+      "name": "p09",
+      "sha256": "5fbc1c1d3df5a07e5492e87cedeffd121b021c26c532be4d31c60d3307a32a3a",
+      "bytes": 16336
+    },
+    {
+      "name": "p10",
+      "sha256": "8c96cb79bd1fca690d4cdec48c6eb6e0d9535366fd7c3b1c28e65997388bef27",
+      "bytes": 13512
+    },
+    {
+      "name": "p11",
+      "sha256": "e2697c115f4263eff084744fbf588774391a4d58bae14c48021b605b28672744",
+      "bytes": 15648
+    },
+    {
+      "name": "p12",
+      "sha256": "f4e8f78c25a1622a8b1388d52bb52f33b93afa5a5a4f1fccfc79df3f237ab40f",
+      "bytes": 15560
+    },
+    {
+      "name": "p13",
+      "sha256": "6d58e6b25323415d7187ad731774a44776b1baa038233677d3bfafda4d4523a8",
+      "bytes": 13208
+    },
+    {
+      "name": "p14",
+      "sha256": "c19340b594828ae967f110dac7b16e1b5c82bc1eb0d6c1d70e22698521ad198e",
+      "bytes": 13116
+    },
+    {
+      "name": "p15",
+      "sha256": "a8de2bf40a933ef274daf0f08baaf469597172ec70828d4887646bba95aec4d7",
+      "bytes": 14674
+    },
+    {
+      "name": "p16",
+      "sha256": "329123b57c5cb0302497cbb585a60a5a2639b543056a26d05ff085d5b8d5bec1",
+      "bytes": 13546
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

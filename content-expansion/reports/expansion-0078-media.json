@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0078",
+  "title": "石磨肚子里的那阵浪",
+  "version": 1,
+  "bodyCharacters": 1486,
+  "pages": 16,
+  "duration": 461.714,
+  "bodySha256": "437a648667141a512c72260c7bbc0316713dd697d094a1a48f7710ff940b4760",
+  "audioSha256": "dea06147afd13e2cbe4419a881dc9f472deb98a1ca99acb354be480f42b78e51",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b6fa3fb89c0a58e708845e8c93ef3c9d6d9d626ef18815c8cb916a8c770eb488",
+      "bytes": 18958
+    },
+    {
+      "name": "p01",
+      "sha256": "aa8e7e085a0989c4dbc730212976a89b898bf95bd56dcd01edd000cbd3ab764b",
+      "bytes": 13770
+    },
+    {
+      "name": "p02",
+      "sha256": "9ce43d535e59c7e8d346a959093cb2ae5acde55bd9bc1c198e6447f9a1de9754",
+      "bytes": 13944
+    },
+    {
+      "name": "p03",
+      "sha256": "3f2b2a210b32f19146484b61c89a3130d90d65db4a49776896b0db61d4913bc5",
+      "bytes": 12334
+    },
+    {
+      "name": "p04",
+      "sha256": "aa2dece295f285c37678a9410f652b6311e5b2cbe3dcc80e2fe41ca4ce781855",
+      "bytes": 17360
+    },
+    {
+      "name": "p05",
+      "sha256": "d145a844ffbfc6903cea8834e130dc686ccd103a0acbb5b1214e82b675ebed5e",
+      "bytes": 16446
+    },
+    {
+      "name": "p06",
+      "sha256": "12da0e606695226ee7243bef345e32c7bee9b52d819789a42fe3f4ae078836c1",
+      "bytes": 16648
+    },
+    {
+      "name": "p07",
+      "sha256": "5881ed1991a76395289f083124df00d4672e57c46bc2ba6d6a95bc39ce76321c",
+      "bytes": 17100
+    },
+    {
+      "name": "p08",
+      "sha256": "ca6f04cde83f4388293ab7d43916f03507cf14f39fe060972f943e089cb33774",
+      "bytes": 17560
+    },
+    {
+      "name": "p09",
+      "sha256": "043091e432bdafb0ee95cccb6fb8eda2a086b5b74caac1c3170e5451e140f5db",
+      "bytes": 17900
+    },
+    {
+      "name": "p10",
+      "sha256": "7e1fdbd1feeb3a6e478a0c56e275d1b0ce752a625e407dfe281db2022307460c",
+      "bytes": 16782
+    },
+    {
+      "name": "p11",
+      "sha256": "e2dfa50a2861f69fb0654468417a7864c4e0900ba30a8c14daa956285bf0c717",
+      "bytes": 16306
+    },
+    {
+      "name": "p12",
+      "sha256": "64ffcc36748ea11e214032ee93f6c5d0e4c8fdc8b49b21db5edf0e400614286b",
+      "bytes": 15096
+    },
+    {
+      "name": "p13",
+      "sha256": "50a3aa7a6792f6b5a834248763a14446c99636f89905641877f6ba55498ad9e9",
+      "bytes": 16616
+    },
+    {
+      "name": "p14",
+      "sha256": "a2b8695f11c92e97da1220e76c18c0ac40aca0438525b88b5c0d324ea246c042",
+      "bytes": 16440
+    },
+    {
+      "name": "p15",
+      "sha256": "ae2e702332ba1f9fc5e833e51f7e1102875916698ada778bf0859e8af529df88",
+      "bytes": 16248
+    },
+    {
+      "name": "p16",
+      "sha256": "040323a64d9384301fe506c66b4fd11d8f049193fa1f6d3ba33a420ff055d963",
+      "bytes": 12038
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

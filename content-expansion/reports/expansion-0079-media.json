@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0079",
+  "title": "墨团的红屋顶",
+  "version": 1,
+  "bodyCharacters": 1470,
+  "pages": 16,
+  "duration": 447.002,
+  "bodySha256": "33d340dcaf70aa060630f8fd94e8abbfdd1eab0698c1a09262446947bde2a11c",
+  "audioSha256": "42e66bc78d66975f1db88f5da5ef9c2c5701606ea60c458e69782719230c3635",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "032096695376de07826bc0e142853dbfeafca251d4a9466b7e68950eab8dba2e",
+      "bytes": 16086
+    },
+    {
+      "name": "p01",
+      "sha256": "a7624904530d400260dfdf9d8749933b6690a327dd47b32939e3acc115b4e8d3",
+      "bytes": 12966
+    },
+    {
+      "name": "p02",
+      "sha256": "f6cee4b9c0fc39d9f3490fa358dc83d584204d88b97f162cd269e11ee06053b2",
+      "bytes": 13802
+    },
+    {
+      "name": "p03",
+      "sha256": "22f0ae595212339388ea0101b6ff0ab6113e5dd5e0b80787aff70175a99d2de2",
+      "bytes": 13876
+    },
+    {
+      "name": "p04",
+      "sha256": "4bb1450f6120245d70c68ab408ab890ab769f9fb87fc9d529e8a1903b309cc89",
+      "bytes": 14460
+    },
+    {
+      "name": "p05",
+      "sha256": "fb63058cfa42e167bfefd3db8c4bfc8673258e11d81a7a02ace1164532db13a3",
+      "bytes": 14542
+    },
+    {
+      "name": "p06",
+      "sha256": "f14c3c22c1a4b18c1896345be3c0a6370ef9ee592c2176a5f6a41af7f87ed971",
+      "bytes": 14134
+    },
+    {
+      "name": "p07",
+      "sha256": "f9923d3d5206f3825e0162a2f4c3662900ec28875f5c5d1db50a6c5862820389",
+      "bytes": 17846
+    },
+    {
+      "name": "p08",
+      "sha256": "d28788ad64f73b4cfd1ba109a0dcc61e2b4ac07b7bcf30f5cf7424ce2b2bb3f6",
+      "bytes": 16682
+    },
+    {
+      "name": "p09",
+      "sha256": "8d2b7b4cc36199e47a33593c1725282f93b4d7888e2de0efeab4c9d68449d043",
+      "bytes": 15160
+    },
+    {
+      "name": "p10",
+      "sha256": "95e6539b32ae53f36d8af51cc17072d84ee6f65b9021f9811cbfd4d1f20448b3",
+      "bytes": 13770
+    },
+    {
+      "name": "p11",
+      "sha256": "aaac7e92bbafb6bd5d83e0ea52e1c52f5fae1dac8913972530ac36f3842bd02d",
+      "bytes": 16286
+    },
+    {
+      "name": "p12",
+      "sha256": "c38fadb9cea393a8da37904682662f5a830ef7d07837d293255fcf9653d129ff",
+      "bytes": 17156
+    },
+    {
+      "name": "p13",
+      "sha256": "ca233b58311ef09b3f625134c1088c4d4cd8a13f7b1833ff8cfd79e546b57685",
+      "bytes": 15394
+    },
+    {
+      "name": "p14",
+      "sha256": "095cd977b72178f94755fbaa408a2b5624340cf2eeaff2eeb31632095f40e26d",
+      "bytes": 15620
+    },
+    {
+      "name": "p15",
+      "sha256": "8dfb0ff6c0a360ad48fbec81687d5e12fe758f28d8aadb48a8aa1d278bcde4bd",
+      "bytes": 16246
+    },
+    {
+      "name": "p16",
+      "sha256": "e7308b0cadafc191a4ba05add9a7cbd9972ab4709a99599b2eea36cef0b5b5d4",
+      "bytes": 16132
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

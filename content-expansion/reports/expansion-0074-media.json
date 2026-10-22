@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0074",
+  "title": "苇舟慢慢划过黄昏",
+  "version": 1,
+  "bodyCharacters": 1464,
+  "pages": 16,
+  "duration": 451.634,
+  "bodySha256": "4c364efb6f8bdbada90da549be18354b30f264123e399a2fefe4ccd8453b947e",
+  "audioSha256": "53134f267c36a35ffed126518e2c95014345c2065b3b78de9d76217b30607254",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "54a76dcad9b4734ee14d8c57a83dca1c70e89593ebc386eeaeec78b46b977704",
+      "bytes": 28434
+    },
+    {
+      "name": "p01",
+      "sha256": "2dde8078e7ca5658c14d0795b57ce375aac6ebb9d4a4cbe3024faa0cc5a4654d",
+      "bytes": 18694
+    },
+    {
+      "name": "p02",
+      "sha256": "7ce81cc550c2528c429d933069e842a05cb3e291d97f0ca6fedb99ce6a9b2cdb",
+      "bytes": 20058
+    },
+    {
+      "name": "p03",
+      "sha256": "1c2a52c4b9ead3a255e2a4f284fb09a6f2d06bab4e9b02d6ae5609eb5447dc2a",
+      "bytes": 21098
+    },
+    {
+      "name": "p04",
+      "sha256": "1a8ff4a2117a7472772bcfb2fc9254ae590f68826b583024a66850a8df38c5e1",
+      "bytes": 20130
+    },
+    {
+      "name": "p05",
+      "sha256": "0083a2ec53eae55616516b95a9ba43232910b96245b2618ea8bfbb1c11d15a98",
+      "bytes": 23636
+    },
+    {
+      "name": "p06",
+      "sha256": "acba63ee4d110ebe32d84c8e77f6c21ebf0d295f91089a07e901316f1053d04a",
+      "bytes": 24928
+    },
+    {
+      "name": "p07",
+      "sha256": "5bd08b950f53d3720bff87482025506a9be94341c7b07b489f9351cbe511ac72",
+      "bytes": 22210
+    },
+    {
+      "name": "p08",
+      "sha256": "e7238be088be16fe5ae3ac305e9dd3725a5713015f4b14acd0a0fc499b1e3fb0",
+      "bytes": 23818
+    },
+    {
+      "name": "p09",
+      "sha256": "a414461f2c5a32f47947e8d576a27330210b4a4a8e4bc4fc3b1a046de33ef2e5",
+      "bytes": 24896
+    },
+    {
+      "name": "p10",
+      "sha256": "3ad5a20f7cb6427b4d4b3f086dab61ae53622ab0cb65e912f8fda63b169c8a8f",
+      "bytes": 24642
+    },
+    {
+      "name": "p11",
+      "sha256": "cd21d27eff9109b2dc7b389f2635fbf58cdf757f1d7f0d62417bf4b21500a0fd",
+      "bytes": 22018
+    },
+    {
+      "name": "p12",
+      "sha256": "a4168f01afb31735c530803a2ae1407f5b0d53a34b4847ea92e4246a50e49b99",
+      "bytes": 26258
+    },
+    {
+      "name": "p13",
+      "sha256": "48bbe1f67ce0f0a4f3a054fbee770ce17fef2ced3d092bcc3189031b81b2a902",
+      "bytes": 23012
+    },
+    {
+      "name": "p14",
+      "sha256": "e202abd0b10e00e491aefea6eb3acabeaf1dcbf7a8c41fda14577ead5fe4f5b7",
+      "bytes": 22600
+    },
+    {
+      "name": "p15",
+      "sha256": "22fe0a93dea1078af69f06a684a59edc8afe6e492a970bcf699e56428d0c4b71",
+      "bytes": 21372
+    },
+    {
+      "name": "p16",
+      "sha256": "39cff3c0f43b7c88c7b7c26df27fa429c4e2da653f0446ec863d87c85db276f8",
+      "bytes": 21490
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

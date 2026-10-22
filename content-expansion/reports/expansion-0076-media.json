@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0076",
+  "title": "霜穗的回旋香包",
+  "version": 1,
+  "bodyCharacters": 1476,
+  "pages": 16,
+  "duration": 461.522,
+  "bodySha256": "64838864ad1a8ca79f666098897134592dc0985d711deb7beb9e576ff17af786",
+  "audioSha256": "00b84e907928f4bb4072d872ce51d570061197655dc8d7866ff1ec997e2669d0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0a17c91c1dea19767eeb56fafeba5a785c65d92bae66f8297f0c6c40c7f8a65b",
+      "bytes": 17608
+    },
+    {
+      "name": "p01",
+      "sha256": "8edea01706ccd73fccc059d207ad3f89591b9460c8d1b0ac0ef468c6e18973df",
+      "bytes": 12318
+    },
+    {
+      "name": "p02",
+      "sha256": "1d7417d112581c96f88e55b63711481cdbfbd410922eb879c0bf9c9b9d74a4f3",
+      "bytes": 12770
+    },
+    {
+      "name": "p03",
+      "sha256": "7c5ea864eae7b5ed8c9d2bd0dfe51116058af73eea83906a214c7fa59ae46d6a",
+      "bytes": 13664
+    },
+    {
+      "name": "p04",
+      "sha256": "b36178d7d23d8952bbdf800f0e768231cb7aa926dfb4d69dff76a4ae4120e2f8",
+      "bytes": 13458
+    },
+    {
+      "name": "p05",
+      "sha256": "72cbee9fc5c75307206cea2e1e5bac2a9f88798bf4ce6a89fa53b53db77acb87",
+      "bytes": 13046
+    },
+    {
+      "name": "p06",
+      "sha256": "6940db93eceaf935438175eea0c8012267b06397dc4cc7ab9330ef7dc7581aca",
+      "bytes": 12500
+    },
+    {
+      "name": "p07",
+      "sha256": "589813840a3e9650d760002d0342e8fd14136224d83d4403e74e4c58e74cf054",
+      "bytes": 11986
+    },
+    {
+      "name": "p08",
+      "sha256": "5e9404f9357e179270c0ea005dec74c49fde27296cfdf5ca49ebd6146188a141",
+      "bytes": 14770
+    },
+    {
+      "name": "p09",
+      "sha256": "ce76865d93889ebe06c7420c7bccb50a57a0bb98ef3c0a0f4941c222a3676942",
+      "bytes": 12842
+    },
+    {
+      "name": "p10",
+      "sha256": "2c0e05ae3bbca90b63782718e4aa5130ad09f879df4f365520b7b8e4206dd672",
+      "bytes": 12970
+    },
+    {
+      "name": "p11",
+      "sha256": "3cc9974ffbfd820ce5b54bc1cb71f38c56fb9e34701f82a33c8bf649a72832ef",
+      "bytes": 13380
+    },
+    {
+      "name": "p12",
+      "sha256": "6f154a7ee137247d694493f01755c7b45e488ac1d1111ce49d5e37cbe9995147",
+      "bytes": 12792
+    },
+    {
+      "name": "p13",
+      "sha256": "6db2d0e628e3e19a5ee8e0d9647f117db96dadec03b029bc3ab760066ffcc113",
+      "bytes": 14252
+    },
+    {
+      "name": "p14",
+      "sha256": "2f095ef5067e25d9c03a93b65788beb7d5bdec66a7bb58ae5a40ce17acb97950",
+      "bytes": 14152
+    },
+    {
+      "name": "p15",
+      "sha256": "a830a62923b928fbeab83c37bdb5c1f06974f0fe7f2ced785333acbafd4cd60c",
+      "bytes": 8976
+    },
+    {
+      "name": "p16",
+      "sha256": "73eb8c0019bf60321dcda6fbbca1d0fa3617bd78c056704a2ea8fddec12808aa",
+      "bytes": 12844
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

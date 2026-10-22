@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0080",
+  "title": "伞先生下面不下雨",
+  "version": 1,
+  "bodyCharacters": 1482,
+  "pages": 16,
+  "duration": 457.25,
+  "bodySha256": "fab7cc84cfa6c2cc694ac36a0b510fcad30b7c56104113dec52787db4a43952d",
+  "audioSha256": "e26cb0beff5a1c49163a6da4dab465cf0e38f9032f3e3ff96b5dd61d9ccd5d4a",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "79bea13e4f468bd81ad1dc9120ce8e39b4e05f1a80315732b0c422bf97dcedfb",
+      "bytes": 25124
+    },
+    {
+      "name": "p01",
+      "sha256": "d205b0ee1cb96a0e4e2c62f189fb8e745264cacc7b1da02d881ca0bc7ce9c4e4",
+      "bytes": 22920
+    },
+    {
+      "name": "p02",
+      "sha256": "2f68acd6c320a484f26f2072b4462afb0a9038ca23ee6dca6483e05bbbffa600",
+      "bytes": 21780
+    },
+    {
+      "name": "p03",
+      "sha256": "fbbf778b526db198eb594ac6693ecbfd260fa61c3d8c56594af4312caca20599",
+      "bytes": 24540
+    },
+    {
+      "name": "p04",
+      "sha256": "631fb956021661ec3bb3f463dccfa1875460dad7a58e5c442fb3140c9e169183",
+      "bytes": 24160
+    },
+    {
+      "name": "p05",
+      "sha256": "84701f73778800c4c3b758dfc45da4b247cd397225e3914741e834b00094d2c8",
+      "bytes": 24860
+    },
+    {
+      "name": "p06",
+      "sha256": "5d082e5b0913125830824b46f985de2c22656b782e31ef805bcb8c045cf7d45b",
+      "bytes": 24222
+    },
+    {
+      "name": "p07",
+      "sha256": "6f00fa43187b672ead4dda8dd17360510d6160a88d560e10671e723e019fa3c5",
+      "bytes": 20934
+    },
+    {
+      "name": "p08",
+      "sha256": "05c472ef0bd6f01016139e4017440bc72766d54c4d7a55a02a9f599268d52b3f",
+      "bytes": 21066
+    },
+    {
+      "name": "p09",
+      "sha256": "23b46a60b2b79ca0ae87bf8e691d63337f98ea3605da66595bf0af364de30f4c",
+      "bytes": 22374
+    },
+    {
+      "name": "p10",
+      "sha256": "ea62c5a8bcd45594930e94b5cf74c610740dc3b9f922d3292fc72d04294f22fe",
+      "bytes": 23670
+    },
+    {
+      "name": "p11",
+      "sha256": "b2afbf765bffdc6dc5b1b477dc5f89e80f504467af53c1efd682852937ff5add",
+      "bytes": 21972
+    },
+    {
+      "name": "p12",
+      "sha256": "93d25865f47d85c042185a62c5aa9f9a9cb6d2cb767f2cf74b1b0f8b6333f09f",
+      "bytes": 21068
+    },
+    {
+      "name": "p13",
+      "sha256": "357a2311d8d17265026f2fd1cc33d40940f4df06d51b3ba5a2b31dddea6a5903",
+      "bytes": 23446
+    },
+    {
+      "name": "p14",
+      "sha256": "6ad9ec4b6a915286da0c344326c9471baecf1f01819b3ce193171b2fbb143ead",
+      "bytes": 24288
+    },
+    {
+      "name": "p15",
+      "sha256": "e935ae5e3b0f5fe0063fe99878fcba63be54987d3bc0b6f9f00b7a563d0eb9cb",
+      "bytes": 25462
+    },
+    {
+      "name": "p16",
+      "sha256": "5c233b9264f1be98e09e9f97ecf168b441c86bb06640c92a00aea84056fffe45",
+      "bytes": 23230
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

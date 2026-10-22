@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0075",
+  "title": "小城底下的冬眠客",
+  "version": 1,
+  "bodyCharacters": 1447,
+  "pages": 16,
+  "duration": 446.402,
+  "bodySha256": "12864967b8655914f9e1afba44059de6017ff6d7871ed774bee64668956cf99d",
+  "audioSha256": "247b886656261acd296332b2c0713c85b9842275c08bc4ba16025fcf4176a105",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "34ba7c510e0ebc0ed11a7ba4b9196272fd5b2c5876996b43b8936988bf3ccf68",
+      "bytes": 19462
+    },
+    {
+      "name": "p01",
+      "sha256": "e28ee00fc48419f261e6ad03be8f26a961c6d1752a318f1d1e98bfe991eaffc5",
+      "bytes": 16288
+    },
+    {
+      "name": "p02",
+      "sha256": "dd98669f201c2e40e4124316caefefd7de7f99dc395d9161cc221552e9e86e6c",
+      "bytes": 16578
+    },
+    {
+      "name": "p03",
+      "sha256": "aa2bc239f8aab4f9a3e2609ac4362274e28e85416c1f1198108768432e8bece2",
+      "bytes": 15860
+    },
+    {
+      "name": "p04",
+      "sha256": "c0d6d26579ddaaa46721e1a4c05fa7be738d5ec68d07c491e145f1fcdb03f926",
+      "bytes": 15806
+    },
+    {
+      "name": "p05",
+      "sha256": "1eb190855fc40fa92f845c2f66424449c61f5ad1b60ec513905525187ac21df4",
+      "bytes": 16752
+    },
+    {
+      "name": "p06",
+      "sha256": "6f4462259ad8f0e9e9241f33d322db60a4923d6288f52b1cba61fa61f6e60f4a",
+      "bytes": 17104
+    },
+    {
+      "name": "p07",
+      "sha256": "dd068734e68faf2e09eb7e81f9e074e15897a258950b7fc9e0cb0b54e76f665b",
+      "bytes": 17236
+    },
+    {
+      "name": "p08",
+      "sha256": "ccbadd8952e46de3060c571e635d01796b4fbefae512dc50ec5521732fb4ebeb",
+      "bytes": 17924
+    },
+    {
+      "name": "p09",
+      "sha256": "ddbf278c20b7ed64cd72b6430b3d6b1841409e057688c459ce4584c513d1ee2f",
+      "bytes": 16926
+    },
+    {
+      "name": "p10",
+      "sha256": "c1276df7b5f59ca3f633f767e323cf84ae5eeb184cb5c5361e5f89e75c0e5f9c",
+      "bytes": 19068
+    },
+    {
+      "name": "p11",
+      "sha256": "a4436b3dd98268eea6ac83a67c299d9021c0c7d879605825164e4da93b4f8dfa",
+      "bytes": 17878
+    },
+    {
+      "name": "p12",
+      "sha256": "ff7490e498dd4bc0ecce66a4e5b8a9aaaaca3305c8bbb77b965e6618e463c689",
+      "bytes": 16966
+    },
+    {
+      "name": "p13",
+      "sha256": "c5a069926d670ba04beae7d3daf2b5e7eae075a65f7924a900e09a46ebacfea8",
+      "bytes": 19720
+    },
+    {
+      "name": "p14",
+      "sha256": "e12b9d3b166b80d97d3deea75ad926a6e1467eee9cd99f229d73410763ed51a7",
+      "bytes": 20880
+    },
+    {
+      "name": "p15",
+      "sha256": "ad9f3d64ebeb43b92a3d7f65ca307b01ee90719489cf1f72c65e35e3df3c0819",
+      "bytes": 22066
+    },
+    {
+      "name": "p16",
+      "sha256": "b2598704dfb2195fbc062df026df4a33b9de6645becd476ce72bb854341582bf",
+      "bytes": 15030
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
