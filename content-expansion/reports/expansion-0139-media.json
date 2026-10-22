@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0139",
+  "title": "桃栗忘了那个漂亮词",
+  "version": 1,
+  "bodyCharacters": 952,
+  "pages": 12,
+  "duration": 282.042,
+  "bodySha256": "59fb8c8ed87fe95b3e4500a066565934e3a299d17601c99fa2cbd390b388998b",
+  "audioSha256": "3b693b8f6c6c4bde386afd2893ee442ecb2608ae3719da1f686f5edc0b6961a0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "636a566cf51e2b83203dd47499194934742c13a3e40338c8b31b358edeebb7b9",
+      "bytes": 15354
+    },
+    {
+      "name": "p01",
+      "sha256": "34a4dc6b00ddd74b4f0eeb36ba3b03c0612ea8b996faefb0ded95c41a041aa61",
+      "bytes": 9392
+    },
+    {
+      "name": "p02",
+      "sha256": "f2ec64729a32921a13d86dfde932de1c3f61d43ae5824bd59f35c7f2cb90e1eb",
+      "bytes": 12570
+    },
+    {
+      "name": "p03",
+      "sha256": "2154c47f6e3a5e06a3141fa4fb78ecd4bcd40dc647023ecd034213c81eb6a664",
+      "bytes": 12322
+    },
+    {
+      "name": "p04",
+      "sha256": "6f4772beaf6a2b75aafaddcfea453797406b54091eb57943bce42d90e8f80751",
+      "bytes": 9924
+    },
+    {
+      "name": "p05",
+      "sha256": "b73592c7098ea8a4e75cd3528c8033db53dd78ccbbdc35fbf62bf03a496e85eb",
+      "bytes": 7898
+    },
+    {
+      "name": "p06",
+      "sha256": "8ecc2e82c8f3b032aa5f97ddba1abd2ad58a2ae5ffde3a31f407430c1fc31ff0",
+      "bytes": 8390
+    },
+    {
+      "name": "p07",
+      "sha256": "eab7ade52395c2fb59549e5d7e80fb5302dc165d27ac37459590dbb285193386",
+      "bytes": 9960
+    },
+    {
+      "name": "p08",
+      "sha256": "8b6fbc038bcc7b43fa4022e8255433901b19825d97ee16e851cf621174791c84",
+      "bytes": 10568
+    },
+    {
+      "name": "p09",
+      "sha256": "7576d0d5e3448ca9081fa788d6d72fffc7fbf1a294c39196649d3b0eccc3560a",
+      "bytes": 10454
+    },
+    {
+      "name": "p10",
+      "sha256": "b3947cb2cd7c916bc49b6c99fe30a59774e4b3785ff2a744c457a59167c14d3f",
+      "bytes": 11624
+    },
+    {
+      "name": "p11",
+      "sha256": "a969404350e96f14cbf484458bb5ab0c7ab3192da4b24379fad2a16afdab1264",
+      "bytes": 12334
+    },
+    {
+      "name": "p12",
+      "sha256": "8f09b864d854a68f409550c55750d80fa0a3e87b2a36a64526a4eebc01461f5d",
+      "bytes": 11420
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0130",
+  "version": 1,
+  "status": "media-ready",
+  "title": "长车票弯弯站",
+  "subtitle": "枕边的六扇小窗",
+  "description": "雾桃从云朵车站带回一张长长的车票，六扇小窗里藏着她和奶奶的旅行。可是，床头的小架子放不下它。怎样才能让整段旅行都陪在枕边呢？",
+  "ageBand": "3-5",
+  "theme": "旅行回忆",
+  "color": "#A8CADA",
+  "character": "小熊雾桃：浅棕色绒毛，圆耳朵，穿杏黄色背带裤，背淡蓝色小布包。云朵车站的车票：奶白色长纸条，上面有六扇金边小窗，窗里的旅行景色会轻轻活动。",
+  "cover": "/library/stories/expansion-0130/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 166.714,
+  "detailUrl": "/library/stories/expansion-0130/v1/story.json",
+  "audio": "/library/stories/expansion-0130/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "云朵车站送给雾桃一张长车票。票上有六扇小窗，记着她和奶奶的旅行。第一扇里，白云还在慢慢游。最后一扇里，奶奶正笑着，把一块桃子递给她。雾桃也跟着笑了。",
+      "image": "/library/stories/expansion-0130/v1/p01.webp",
+      "start": 0,
+      "end": 21.014
+    },
+    {
+      "id": "p02",
+      "text": "雾桃想把车票摆在床头，醒来就能看看这一天。可是，小木架只有这么宽，车票却有那么长。她刚放好，车票两头就垂了下来，像两条软软的面条，轻轻碰着她的枕头。",
+      "image": "/library/stories/expansion-0130/v1/p02.webp",
+      "start": 21.014,
+      "end": 40.684
+    },
+    {
+      "id": "p03",
+      "text": "她把一头压在枕头下面，另一头垂在架子边。咦，小河那一窗看不见了！雾桃趴下去找，才看见小船藏在下面。这样躺在床上，就没法看完整段旅行。她又把车票拿起来。",
+      "image": "/library/stories/expansion-0130/v1/p03.webp",
+      "start": 40.684,
+      "end": 61.242
+    },
+    {
+      "id": "p04",
+      "text": "雾桃把车票卷成一个松松的圆筒。这回放得下了，可外面只剩奶奶的笑脸。小河呢？花田呢？她拉出一点，又拉出一点，圆筒越变越小，长车票又铺满了床，还是放不下。",
+      "image": "/library/stories/expansion-0130/v1/p04.webp",
+      "start": 61.242,
+      "end": 82.784
+    },
+    {
+      "id": "p05",
+      "text": "她舍不得少看任何一扇窗。白云后面是花田，花田后面是小河，每一格都想留下。雾桃慢慢摸过车票，发现窗和窗之间，有一段空白。她把那里轻轻折了一下，再打开看看。",
+      "image": "/library/stories/expansion-0130/v1/p05.webp",
+      "start": 82.784,
+      "end": 103.342
+    },
+    {
+      "id": "p06",
+      "text": "小船还在游，奶奶还在笑，六扇窗一扇也没少！雾桃放心了。她沿着空白，朝前折一下，朝后折一下。长车票变成弯弯的小屏风，六扇小窗挨着站，像在一起排队看风景。",
+      "image": "/library/stories/expansion-0130/v1/p06.webp",
+      "start": 103.342,
+      "end": 124.596
+    },
+    {
+      "id": "p07",
+      "text": "雾桃把小屏风立在架上，再把几个弯弯收拢一点。这下，六扇窗全都摆下了，也没有谁藏到后面。她躺下来试试，白云、花田、小河，还有奶奶的笑脸，全在枕头旁边呢。",
+      "image": "/library/stories/expansion-0130/v1/p07.webp",
+      "start": 124.596,
+      "end": 145.466
+    },
+    {
+      "id": "p08",
+      "text": "晚上，雾桃盖好被子。窗里的小船慢慢游过去，奶奶又递来那块桃子。雾桃舔舔嘴唇，仿佛还尝得到甜味。她轻声说：“明天再看你们。”然后，把自己的笑脸也放进了梦里。",
+      "image": "/library/stories/expansion-0130/v1/p08.webp",
+      "start": 145.466,
+      "end": 166.714
+    }
+  ],
+  "buildHash": "9d5e7d88d5038cd94ef05724a33e2328d9c223df6473dfb4ea26e32aff2088ac"
+}

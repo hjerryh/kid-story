@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0141",
+  "title": "雨梨要从哪边看",
+  "version": 1,
+  "bodyCharacters": 955,
+  "pages": 12,
+  "duration": 287.034,
+  "bodySha256": "faa0f1bf111b5f35df26b0e28db8946d3665f0809e8925d87f808e6158e80b4b",
+  "audioSha256": "483531e4f66eaed4aaaea848256a92b241ca3c173e71b6ec58a1139900050cba",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "560e1729ed822471f08e15ce300351329ee32a99bd120a9331284d900f6125f5",
+      "bytes": 14822
+    },
+    {
+      "name": "p01",
+      "sha256": "1915ee4255cc44db6761e0d3ee4c6aec9ef86646423f517994968562688106cb",
+      "bytes": 17502
+    },
+    {
+      "name": "p02",
+      "sha256": "f159d6ab32e6bcfa8a58699233c3bed43ac58652ccb8574d98ed4e9144a2ca2b",
+      "bytes": 17332
+    },
+    {
+      "name": "p03",
+      "sha256": "70e06385dce846470d6b378797d7c2d89ed5cfadbf19b245640db3d3fa9ae631",
+      "bytes": 14882
+    },
+    {
+      "name": "p04",
+      "sha256": "b0739f9a9454c7da9736b7b88f5f39c0a83d129470bfccd82e6b8317087b26cd",
+      "bytes": 15776
+    },
+    {
+      "name": "p05",
+      "sha256": "7f3ae1f1c2f03969a6ecaa7ec1cbef189fde191b41ca52edf4f5aac50825640c",
+      "bytes": 15378
+    },
+    {
+      "name": "p06",
+      "sha256": "aa7aedd4f5ac553bc389ec47d778a412b05b0971f36b864a0b023ae6e2a8df56",
+      "bytes": 14924
+    },
+    {
+      "name": "p07",
+      "sha256": "3ffc9b33a7c845f386b9273e83b6a4781fd88e2070c34d9a13af33cee8fbdb36",
+      "bytes": 12746
+    },
+    {
+      "name": "p08",
+      "sha256": "58143872bf940a4a1cea247b7be798f15749fc55026baf9586328eada89609cc",
+      "bytes": 13564
+    },
+    {
+      "name": "p09",
+      "sha256": "28ad1e5f7edf32518694d33431acd6bf650498c3486549b9402c3061312fcfaf",
+      "bytes": 13624
+    },
+    {
+      "name": "p10",
+      "sha256": "0be97a8a2691abb3216c2cf7ac3a970252487cb088a089baebc0f3c3e64e8d3c",
+      "bytes": 13508
+    },
+    {
+      "name": "p11",
+      "sha256": "4040a80e08772043f3f9dfce02d687f30ed52e044845676b33346ad67591a0c5",
+      "bytes": 14644
+    },
+    {
+      "name": "p12",
+      "sha256": "268de632c05b0f091d1956ba82cd6955e836fc4ccd787661b0e520004ee9c0bc",
+      "bytes": 12120
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0136",
+  "version": 1,
+  "status": "media-ready",
+  "title": "泡泡要过黄色的门",
+  "subtitle": "先吹一口轻轻的气",
+  "description": "梨泡邀请一位泡泡客人玩游戏，却不知道泡泡能玩什么。球拿不动，积木也坐不稳，两位朋友决定从一口轻轻的气开始试试。",
+  "ageBand": "3-5",
+  "theme": "一起探索",
+  "color": "#83CBCD",
+  "character": "小海獭梨泡：浅棕色绒毛，奶白色脸颊，穿蓝色背带裤。泡泡客人：苹果大小的透明圆泡泡，泛着淡粉色光，有两只小眼睛，能说话，随风飘动。",
+  "cover": "/library/stories/expansion-0136/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 174.898,
+  "detailUrl": "/library/stories/expansion-0136/v1/story.json",
+  "audio": "/library/stories/expansion-0136/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "海边小镇的风软软的。一个泡泡飘到梨泡窗前，眨了眨小眼睛。“我想找个朋友玩。”梨泡赶紧搬来小凳：“来我家吧！我有好多游戏。”泡泡轻轻飘进来，身上闪着粉红的光。",
+      "image": "/library/stories/expansion-0136/v1/p01.webp",
+      "start": 0,
+      "end": 21.35
+    },
+    {
+      "id": "p02",
+      "text": "梨泡抱出黄布球，刚要递过去，又停住了。泡泡没有手呀。“你能用头顶吗？”他问。泡泡绕着球转了一圈：“这么大的球，我可顶不起来。”梨泡把球放回篮子，摸了摸自己的脑袋。",
+      "image": "/library/stories/expansion-0136/v1/p02.webp",
+      "start": 21.35,
+      "end": 42.748
+    },
+    {
+      "id": "p03",
+      "text": "他又推来积木小车：“你坐车，我来推。”泡泡往车顶落了落，一阵风从窗边钻进来，它又飘走了。小车往前，泡泡往后。“哎呀，乘客没跟上！”梨泡停下车，嘴角也垂了下来。",
+      "image": "/library/stories/expansion-0136/v1/p03.webp",
+      "start": 42.748,
+      "end": 64.386
+    },
+    {
+      "id": "p04",
+      "text": "“其实，我不知道怎样跟泡泡玩。”梨泡小声说。泡泡贴近他的鼻尖：“我也不知道。我今天才第一次找朋友呢。”梨泡抬起头。原来，泡泡也没有藏着一个他猜不到的好办法呀。",
+      "image": "/library/stories/expansion-0136/v1/p04.webp",
+      "start": 64.386,
+      "end": 85.592
+    },
+    {
+      "id": "p05",
+      "text": "“你先轻轻吹一口气，好吗？”泡泡说。梨泡嘟起嘴，呼——泡泡往后飘了一小段。“像坐风车！”它笑起来。梨泡绕到另一边，又吹一口。泡泡飘回来了，粉红的光也跟着转了个圈。",
+      "image": "/library/stories/expansion-0136/v1/p05.webp",
+      "start": 85.592,
+      "end": 108.382
+    },
+    {
+      "id": "p06",
+      "text": "梨泡想到一个游戏。他在桌上搭起一扇宽宽的积木门，请泡泡从中间穿过去。呼！这一口气太大，泡泡歪到门边了。梨泡没有追着乱吹。他挪了挪位置，等泡泡慢慢停在自己面前。",
+      "image": "/library/stories/expansion-0136/v1/p06.webp",
+      "start": 108.382,
+      "end": 130.932
+    },
+    {
+      "id": "p07",
+      "text": "这回，他只吹了一小口。泡泡晃悠悠地穿过门，笑得圆肚皮一颤一颤。梨泡又搭了蓝门和黄门。“下一站你来选！”泡泡看看左边，又看看右边：“黄门！我要去晒一晒黄色的太阳。”",
+      "image": "/library/stories/expansion-0136/v1/p07.webp",
+      "start": 130.932,
+      "end": 153.05
+    },
+    {
+      "id": "p08",
+      "text": "梨泡绕到蓝门旁，轻轻送它一程。阳光正落在黄门上，泡泡穿过去，真的亮成了金黄色。“明天还玩这个吗？”梨泡问。“不知道呀，也许会有新游戏。”他们笑了，这回梨泡捂住了嘴。",
+      "image": "/library/stories/expansion-0136/v1/p08.webp",
+      "start": 153.05,
+      "end": 174.898
+    }
+  ],
+  "buildHash": "24652b37fdf0316004efa1af57889c57473c84fe3db6f8bd118667597a0b4ce0"
+}

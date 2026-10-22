@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0133",
+  "title": "栗芽在圆叶湖下车",
+  "version": 1,
+  "bodyCharacters": 504,
+  "pages": 8,
+  "duration": 158.146,
+  "bodySha256": "f8fb1f21e942d831a2b1ab8fe97b39d5b7d0cf0e29f3c1d61603638b323b62e6",
+  "audioSha256": "96c58ac77d57c40e7b28bde9b28b3f4b2a346ec0dd2b4a5c3f0aaa7c004da6fc",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "008e1f5a7370acfb2d28176ba010290979612ead8faa43d818b9986aff846133",
+      "bytes": 13238
+    },
+    {
+      "name": "p01",
+      "sha256": "f959cbcb639cb4f7c602f6c18c953d6f2102530073c60b07b3e881fec3db6944",
+      "bytes": 13656
+    },
+    {
+      "name": "p02",
+      "sha256": "129c810089ac98ad9fde1846388436d113b5406dea6441e61b3eb9fdd369b7a6",
+      "bytes": 12344
+    },
+    {
+      "name": "p03",
+      "sha256": "3bbdc65d6000f8840362c2edd9018421396ad13d60023187c8342607c3d00bad",
+      "bytes": 13496
+    },
+    {
+      "name": "p04",
+      "sha256": "ee277e1518d149d7f9e9c8b9ccfc9a8417d1541af3ee02ada7037f57abf5fcb4",
+      "bytes": 9172
+    },
+    {
+      "name": "p05",
+      "sha256": "31974eb9416d99fa07c0e46675ebd0138f367e9da30a1ec231743fd240c6565f",
+      "bytes": 9622
+    },
+    {
+      "name": "p06",
+      "sha256": "97965ecc9524c12686aedb6e1aba62bbb53e6817cbec7e1237eae691809491b5",
+      "bytes": 14058
+    },
+    {
+      "name": "p07",
+      "sha256": "29b8298c96e0e21e9425ea637dd9202cc78614140e8e2bbc62e7022b37d774c3",
+      "bytes": 11200
+    },
+    {
+      "name": "p08",
+      "sha256": "ceea6727ad337d071485732be5a85ca6ccf14da81c2afa8757529c44deeaa0be",
+      "bytes": 10060
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0135",
+  "version": 1,
+  "status": "media-ready",
+  "title": "圆嘴和水分开走",
+  "subtitle": "水和水壶分开走",
+  "description": "橘栗答应把浇水壶送回橘子温室的小木台。可是，装满水的圆嘴实在太重了。水要留着明天用，他又该怎样把朋友送回去呢？",
+  "ageBand": "3-5",
+  "theme": "小小约定",
+  "color": "#E8AC55",
+  "character": "小獾橘栗：灰褐色毛，脸上两道黑纹，穿杏黄色背带裤，圆耳朵，短尾巴。水壶圆嘴：浅绿色圆肚子浇水壶，弯弯的壶嘴，壶身有一朵白花，会说话，不能自己走动。",
+  "cover": "/library/stories/expansion-0135/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 169.882,
+  "detailUrl": "/library/stories/expansion-0135/v1/story.json",
+  "audio": "/library/stories/expansion-0135/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "橘子温室里，水壶圆嘴住在矮矮的小木台上。小獾橘栗帮他装好了明天用的水。“请送我回家吧，我喜欢挨着橘子睡觉。”“好呀！”橘栗说着，抱住了圆嘴的大肚子。",
+      "image": "/library/stories/expansion-0135/v1/p01.webp",
+      "start": 0,
+      "end": 19.694
+    },
+    {
+      "id": "p02",
+      "text": "一抱，没起来。再抱，圆嘴还是稳稳坐着，橘栗的耳朵却憋得往两边翘。“我喝得太饱啦。”圆嘴不好意思地说。橘栗松开手，甩甩爪子。原来，空壶和满壶差这么多呀！",
+      "image": "/library/stories/expansion-0135/v1/p02.webp",
+      "start": 19.694,
+      "end": 41.212
+    },
+    {
+      "id": "p03",
+      "text": "小木台就在几步远的地方。橘栗蹲下来，轻轻推圆嘴。壶底擦着地面，咯吱，咯吱，壶口晃出几滴水。“这样走，我肚子摇得难受。”圆嘴说。橘栗赶紧停下，拿抹布擦干地面。",
+      "image": "/library/stories/expansion-0135/v1/p03.webp",
+      "start": 41.212,
+      "end": 64.242
+    },
+    {
+      "id": "p04",
+      "text": "把水倒掉，圆嘴就轻了。橘栗望望水槽，又摇摇头：这些水还要留着明天浇橘树呢。“要不，我今晚就睡这里？”圆嘴小声问。“我想再试试。”橘栗坐在他身边，没有走开。",
+      "image": "/library/stories/expansion-0135/v1/p04.webp",
+      "start": 64.242,
+      "end": 85.808
+    },
+    {
+      "id": "p05",
+      "text": "旁边有只小杯子。橘栗舀出一杯水，轻轻就拿起来了。杯里的水亮晶晶，壶里的水少了一点点。橘栗忽然笑了：“你和水，可以分开走呀！”他找来两只干净的小桶，摆在壶边。",
+      "image": "/library/stories/expansion-0135/v1/p05.webp",
+      "start": 85.808,
+      "end": 106.486
+    },
+    {
+      "id": "p06",
+      "text": "橘栗一杯一杯舀，把水分装进两只小桶，每只都只装半桶。圆嘴终于空了。橘栗抱起他，走到小木台前，稳稳放好。“到家啦！”圆嘴高兴地说，随后低头看看自己空空的肚子。",
+      "image": "/library/stories/expansion-0135/v1/p06.webp",
+      "start": 106.486,
+      "end": 128.46
+    },
+    {
+      "id": "p07",
+      "text": "“水也会到家的。”橘栗提来一只小桶，用杯子把水舀回壶里。歇一歇，再去提另一桶。最后一杯水落下，咕咚！圆嘴又有了圆鼓鼓的肚子，明天浇树的水，也跟着到了家。",
+      "image": "/library/stories/expansion-0135/v1/p07.webp",
+      "start": 128.46,
+      "end": 149.234
+    },
+    {
+      "id": "p08",
+      "text": "橘栗洗好杯子，靠着木台歇脚。橘子香一阵阵飘下来。“谢谢你，连我的水也送回来了。”圆嘴轻声说。橘栗摸摸他的白花：“今天，你坐了我的怀抱，水坐了好多趟小杯子呢。”",
+      "image": "/library/stories/expansion-0135/v1/p08.webp",
+      "start": 149.234,
+      "end": 169.882
+    }
+  ],
+  "buildHash": "7cbf95e69a62e3defc8efe3a7e8ab241cf862f95ec624c8faa4a3c92fc673b4a"
+}

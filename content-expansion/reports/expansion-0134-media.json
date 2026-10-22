@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0134",
+  "title": "团墩的嘴角不用举",
+  "version": 1,
+  "bodyCharacters": 502,
+  "pages": 8,
+  "duration": 161.434,
+  "bodySha256": "3cc511416fbe33b79f331f22a478616449c25e1d31e4897e2fbadda6eca9f998",
+  "audioSha256": "641319dcb5248ccd89d983f94ddc02518853b3ce4ad8d64f115f44cfeb3ced3e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "1421dee1ff84d327615627ef8e5b992564301a48a94b65999c977c1d96aa0704",
+      "bytes": 14774
+    },
+    {
+      "name": "p01",
+      "sha256": "b4d4a9fa29a70e8843ab516052990e440874c2e157cc2828e08ee8bc9d3d79d2",
+      "bytes": 12894
+    },
+    {
+      "name": "p02",
+      "sha256": "e6f02ffd10ba9318cbc9c46e6851e3ffb917605bd765f3401966cd8b05e877bc",
+      "bytes": 10516
+    },
+    {
+      "name": "p03",
+      "sha256": "202e6dad6d0ff95abf1452513818002cd666e896b17342bab2f0455345b0149f",
+      "bytes": 12210
+    },
+    {
+      "name": "p04",
+      "sha256": "a77b294273d4f4a27c740dce5c4823337e59ddbfa867c8bf2bd751c79d8da724",
+      "bytes": 12294
+    },
+    {
+      "name": "p05",
+      "sha256": "97afcba87a4aa317def4cc62a7efa12f537722fffc4630eebf0e48f14295a0fb",
+      "bytes": 12012
+    },
+    {
+      "name": "p06",
+      "sha256": "17c56c0432f8ae61b85fec03dd0bcd4d2a5bdf115291f26e67c3e5c0e94b701a",
+      "bytes": 12286
+    },
+    {
+      "name": "p07",
+      "sha256": "322784f5c0c3bb0cf6ad733d67b9e182ddf46a24334069d28135a750fef0012d",
+      "bytes": 12306
+    },
+    {
+      "name": "p08",
+      "sha256": "24d39c87db97a64082223a919c5e8eb2a9603646bc76d488eae4ee5e90222475",
+      "bytes": 11898
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

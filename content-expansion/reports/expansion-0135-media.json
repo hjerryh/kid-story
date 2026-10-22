@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0135",
+  "title": "圆嘴和水分开走",
+  "version": 1,
+  "bodyCharacters": 511,
+  "pages": 8,
+  "duration": 169.882,
+  "bodySha256": "2f3b3528fe02b486a96ada36065901171261299fdba686154c362a345b199313",
+  "audioSha256": "6e33c86758f6a572d68eb24464cd97634a329f0cb4a8c6bc4bd9ff06d0b5a64e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "de827461dd0ca71c38b77c37ef6ffd3b2de5d5976e9e0f6d8844cb17572ae90a",
+      "bytes": 17328
+    },
+    {
+      "name": "p01",
+      "sha256": "9535bac8f497819ed9aadf759e365ce51464ba51675f72dc456a55a0ae737a51",
+      "bytes": 14688
+    },
+    {
+      "name": "p02",
+      "sha256": "e8eb9c5c667624d160ac83565493544c12adf9dbbef6cc5a40c4e3557f087c62",
+      "bytes": 14872
+    },
+    {
+      "name": "p03",
+      "sha256": "6e23efdaf344d166a35f35d93bdc1b1e5755f51523fc6e94252b8dd932d08538",
+      "bytes": 14574
+    },
+    {
+      "name": "p04",
+      "sha256": "0499c602d1012b40e5a6c07e7d4e3fe76981f0588eaeb67645f00f82d55a26ca",
+      "bytes": 14184
+    },
+    {
+      "name": "p05",
+      "sha256": "c3241a6ce095046f03b1c9e667853aeb54cb899825121415c85e1f4bd55c149b",
+      "bytes": 15722
+    },
+    {
+      "name": "p06",
+      "sha256": "ac94ed03b024b4154c3211ea3e9394e450afcec5cbd5b21b88bcbe411ea38d29",
+      "bytes": 15444
+    },
+    {
+      "name": "p07",
+      "sha256": "27eed0c458e7936cc93ee6d851f60be37714c17c4c17e1908b247d143ca1bc00",
+      "bytes": 15288
+    },
+    {
+      "name": "p08",
+      "sha256": "718df1e4faf1fe420882725a18edfb4ff634c162eb9453ea523bffd5786cc302",
+      "bytes": 14934
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

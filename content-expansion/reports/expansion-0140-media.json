@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0140",
+  "title": "回声蛋空着的第四拍",
+  "version": 1,
+  "bodyCharacters": 957,
+  "pages": 12,
+  "duration": 289.29,
+  "bodySha256": "40d1e327644eab0ed900677587e551afceaec0ab9b27d16822f7ab91c7451bee",
+  "audioSha256": "da7cb92ed6289c9f47b40f4290655c01011f0716d32593638097c806cab07ea4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "909c97eb0e3b71fa36e8eb7304070956412c53f285d81012caddd8284927d37e",
+      "bytes": 24218
+    },
+    {
+      "name": "p01",
+      "sha256": "9659e2972cd5d09f7578e824a0cb08d3a3e796d25192bccd489544c3ab2a3518",
+      "bytes": 21728
+    },
+    {
+      "name": "p02",
+      "sha256": "b29a048634607226c857c81c1c9794b698865f27c527a38f409047edc14119ec",
+      "bytes": 21774
+    },
+    {
+      "name": "p03",
+      "sha256": "5cd14bb09df2001a49bba7bf98f4e84ea0715206ccc0f4089d0cd37084f60997",
+      "bytes": 22024
+    },
+    {
+      "name": "p04",
+      "sha256": "32a3307e726c9393454ee86d28ecfda000a0c805f0c55c75e73e3ba623ff6f59",
+      "bytes": 22550
+    },
+    {
+      "name": "p05",
+      "sha256": "7b70a520e947e478d14bbbeb426a8569cda3fc259c01f54d4aec0d0b57d557fc",
+      "bytes": 21638
+    },
+    {
+      "name": "p06",
+      "sha256": "a59d14461bdc7e7109f3439153ac59a538c21ff77ef1bf3a18c019ea15e855f1",
+      "bytes": 22146
+    },
+    {
+      "name": "p07",
+      "sha256": "3749a301a0efaab10a3b60979e9efa208f4d34a58fb66e0f69f24ee8ccf0d558",
+      "bytes": 21462
+    },
+    {
+      "name": "p08",
+      "sha256": "6973d7172df1e4fd6d72b386fe1d4404c54ac501ae1cf3e28fba78c8f702e9f1",
+      "bytes": 21554
+    },
+    {
+      "name": "p09",
+      "sha256": "274cc81745595a41bd95d6a08e20ca442826e361ec2d0292a95e02ac1e64b03a",
+      "bytes": 22118
+    },
+    {
+      "name": "p10",
+      "sha256": "2c1438d3f8bdb3163bcf29a4d85ec61d6e906024fc944f1c242beec18c94e85b",
+      "bytes": 22624
+    },
+    {
+      "name": "p11",
+      "sha256": "f00f6baf6f43bc3b298d8c5a2971594a9fdc916ab811bfb8d17a43ad7b77c366",
+      "bytes": 21484
+    },
+    {
+      "name": "p12",
+      "sha256": "64bfcea5c26149de948dabbdeda07632687c4c79e2e8179e8c623a237a882270",
+      "bytes": 21876
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

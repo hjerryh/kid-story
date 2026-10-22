@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0143",
+  "title": "小屋转身，早餐搬家",
+  "version": 1,
+  "bodyCharacters": 943,
+  "pages": 12,
+  "duration": 285.114,
+  "bodySha256": "bf60e198f80d1b1ce6b6bd3d92e40b87423f2c9eda3ff41b708c592e8c93ae9b",
+  "audioSha256": "162eb5d7a95f481cc539647064f8ead38323c7d4c20ab63b26bca0380343bb41",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "22a9333884146baa2294887f13bd6cbad4af8a9c5ae75d3852e6dec63cf409b3",
+      "bytes": 17668
+    },
+    {
+      "name": "p01",
+      "sha256": "9af3f75a7af3f33a9cba91eb5f4be798619640d7204c01d6fe1f616c9de4f7d8",
+      "bytes": 10846
+    },
+    {
+      "name": "p02",
+      "sha256": "f64239cd41aa12f842704d6bc1a5e0a832ef3494a97b63b9dfa24904d2379797",
+      "bytes": 12724
+    },
+    {
+      "name": "p03",
+      "sha256": "79f60bc7fe5c63958df207aa849098bdd496a58aaee7314333c76c77741506c4",
+      "bytes": 10202
+    },
+    {
+      "name": "p04",
+      "sha256": "d4492366662aa1243f59bb7c292e2ce1d117daa3ebde9fa3057dc0ca155f70df",
+      "bytes": 10346
+    },
+    {
+      "name": "p05",
+      "sha256": "e1c5a57077c53be487d1f01adcc63fb7aabd941b3c0be4ba318fd46df50655ca",
+      "bytes": 15188
+    },
+    {
+      "name": "p06",
+      "sha256": "3433aed8c08fba8aebeef2515ed716ddc0232e6d10608b81def85fedb27fd65c",
+      "bytes": 10962
+    },
+    {
+      "name": "p07",
+      "sha256": "759183d54c1de0a0830b58c6b39c0ea0c8b0c79780e9545a8f1ce4a48322bb55",
+      "bytes": 14286
+    },
+    {
+      "name": "p08",
+      "sha256": "7781b13cb960627b9747d39792020d868a6b01a8946503e135cd4fc0f41ee14e",
+      "bytes": 16714
+    },
+    {
+      "name": "p09",
+      "sha256": "4fe220a520e0d7f9db7d491c03bb79ab356512c18ae5e40c388152d591f822b0",
+      "bytes": 14710
+    },
+    {
+      "name": "p10",
+      "sha256": "23674b01ad08d7def5c67c9a712d47cd119d3bba50c04049eea59e492279818c",
+      "bytes": 15214
+    },
+    {
+      "name": "p11",
+      "sha256": "2bae8da3a631e001f8e43c933a696c13b94038e36383e66e8f29f95b9958669f",
+      "bytes": 14394
+    },
+    {
+      "name": "p12",
+      "sha256": "4d52030de7cb48502eee73b99d72222af16486557be410f31ba4402d598951c9",
+      "bytes": 14990
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

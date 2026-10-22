@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0129",
+  "title": "蓝旗和小扶手",
+  "version": 1,
+  "bodyCharacters": 531,
+  "pages": 8,
+  "duration": 173.506,
+  "bodySha256": "ab2b96fc2ef61a3881d937eb3fc155dc59baa0100e60364a3954027a041c48e4",
+  "audioSha256": "737c9b22bf0571c1ccaefccd16f286fa8060801144a130df745dda8756faec03",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "330cf39b743a0b34021c2eba2559c33bd56db61fb67e7bd858c7685360a6bb49",
+      "bytes": 12710
+    },
+    {
+      "name": "p01",
+      "sha256": "6a84f811eeba615d108205adb27fc77312a18f3f1a111187211c435e081a60f8",
+      "bytes": 12530
+    },
+    {
+      "name": "p02",
+      "sha256": "b7aa929a684dff7db2fd94bf67be2dfe0162210ead98f8c0b5f3712bc418afaf",
+      "bytes": 13214
+    },
+    {
+      "name": "p03",
+      "sha256": "2baddb6e70f38a9901c71bf0de069c8d64d1562a590aeb91e48bfcd3b14f9623",
+      "bytes": 13840
+    },
+    {
+      "name": "p04",
+      "sha256": "83003a99b7216d92d8691341b8fd00489244f84976b119546d47ec511f7a0ce2",
+      "bytes": 14078
+    },
+    {
+      "name": "p05",
+      "sha256": "28ec539f7e67e660e4db506ba524c95bff8a2081994775cecc5c60031ed67898",
+      "bytes": 13742
+    },
+    {
+      "name": "p06",
+      "sha256": "b2cf26610ca9bb1d8df3a54730139031769a9feb9d33be9c30401360d788733b",
+      "bytes": 14254
+    },
+    {
+      "name": "p07",
+      "sha256": "7c55fa8793fbd5e9a617f5d02f8af909371f8b6b0197b825debdddfda2085d7e",
+      "bytes": 13848
+    },
+    {
+      "name": "p08",
+      "sha256": "1f22c445a70ea98826c932692fbdd579c2c4f26d2d8f2777822223c349dd4375",
+      "bytes": 13434
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

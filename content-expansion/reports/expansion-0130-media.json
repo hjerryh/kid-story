@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0130",
+  "title": "长车票弯弯站",
+  "version": 1,
+  "bodyCharacters": 522,
+  "pages": 8,
+  "duration": 166.714,
+  "bodySha256": "0f8aa2f96c6be939b97864e007573335f9eb2e78b5d374ca14e7743ce2d2e137",
+  "audioSha256": "2dd6c04e29fe7b23f4e3656acff3204dcd8a645f375e2697990eb24f8c5318d4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d72bacb5de2e4bd4fbed8bc6f08cf077a404ab4e6d514e548e4b3310d5b1016f",
+      "bytes": 16524
+    },
+    {
+      "name": "p01",
+      "sha256": "f8dce79c3f9fc6113710edf8b735e4fbe0321286ece469fe7adfe6d52943b0c7",
+      "bytes": 9578
+    },
+    {
+      "name": "p02",
+      "sha256": "277e895b45f0c4abfabbbca89c63eea383e02f35b5518948c7af3387866bdb4c",
+      "bytes": 14120
+    },
+    {
+      "name": "p03",
+      "sha256": "41c9273c1eb70fcb75d07baca768cfe7fc0dda90c5707d3083fb00efafdec00a",
+      "bytes": 12794
+    },
+    {
+      "name": "p04",
+      "sha256": "6755d33ecdaf29870bff3e2bd0ab39d737ddd80685f35850d715321fbf70be57",
+      "bytes": 10102
+    },
+    {
+      "name": "p05",
+      "sha256": "d5f99d40dcb18ddd6152b58d5fc1cf4b69cedb902bdce86a721532b987a08e2a",
+      "bytes": 11858
+    },
+    {
+      "name": "p06",
+      "sha256": "85d2cb24ebf3a8322f5505cf4a2ab256282c75a8195830805fba3c329fe8169c",
+      "bytes": 11776
+    },
+    {
+      "name": "p07",
+      "sha256": "2668eb6234c837b66f824a4ba666c3d42f713115f2c9ca118921a8a8bb176fdc",
+      "bytes": 12572
+    },
+    {
+      "name": "p08",
+      "sha256": "d98db6cd79071165204db45548baee77682dc7e53d452fc66b941d462ab8cf6c",
+      "bytes": 11348
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

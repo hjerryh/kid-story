@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0138",
+  "title": "听听罐漏掉的小河歌",
+  "version": 1,
+  "bodyCharacters": 960,
+  "pages": 12,
+  "duration": 289.938,
+  "bodySha256": "c5fc0789cf0022b5630b87505c1081c201dbeecc87db911e2ea8eb57361a0806",
+  "audioSha256": "18271d428e9624d4104aaf105279cdddbfc5a40e532cc063620435c31fb25176",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e71f9e8447597a13cc4f9da3fd15ce8f936fc9d957c9cd8a23ee313c64005085",
+      "bytes": 16996
+    },
+    {
+      "name": "p01",
+      "sha256": "44ab296fce398a5950a76645b7a7207d141424b977c43305dc1fc2453086b4d4",
+      "bytes": 13222
+    },
+    {
+      "name": "p02",
+      "sha256": "fd16f0335d2cb1d91851c2e0c54ae1c520707fbbe5f1d343d8cc173db3585bd4",
+      "bytes": 15436
+    },
+    {
+      "name": "p03",
+      "sha256": "621c999ad38340240cdd93ec9b66994e8bda55d6dcf97d1ef0dd1da70bda8253",
+      "bytes": 10570
+    },
+    {
+      "name": "p04",
+      "sha256": "69d8139f6395e6234850623fc159269574ed52cfbc26b61c2905f38e51426dc2",
+      "bytes": 13296
+    },
+    {
+      "name": "p05",
+      "sha256": "a6a352d7983e975a346c7041b8c15fee42be61cd47e91aaa0f51257feccc3023",
+      "bytes": 13976
+    },
+    {
+      "name": "p06",
+      "sha256": "ac670c7f9c4894de2290cecc5cae290c37c2eb90545df092da33f22565a6c34b",
+      "bytes": 13928
+    },
+    {
+      "name": "p07",
+      "sha256": "5d0fb2c9d174b8ba2589aeb79db8730d814ef304ac0a6a5bda17005a15ee8a9f",
+      "bytes": 12300
+    },
+    {
+      "name": "p08",
+      "sha256": "07e4ec15ad8935777404d447cf83d2952e58be04a27ff0a67db08ee3579f934c",
+      "bytes": 14578
+    },
+    {
+      "name": "p09",
+      "sha256": "62f14c7332c3f3571027f28ac9862e03fe111f81f04fe1a91c3bd19635f8ad65",
+      "bytes": 14760
+    },
+    {
+      "name": "p10",
+      "sha256": "158e0294e97ca2929c54051ce5e1d36d3ce7bfe270a4cd7f275b8e12863f8287",
+      "bytes": 13144
+    },
+    {
+      "name": "p11",
+      "sha256": "bf6dd847ad7ca2c65fcf90203b6145f83d00fd86a462cc7a73d81a3169601f6f",
+      "bytes": 15876
+    },
+    {
+      "name": "p12",
+      "sha256": "7e04ef091a264e01c45dbbaa8a3534af9a390394b30a46395f0bf538a537ffb0",
+      "bytes": 13530
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

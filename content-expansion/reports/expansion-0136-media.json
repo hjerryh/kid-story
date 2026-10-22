@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0136",
+  "title": "泡泡要过黄色的门",
+  "version": 1,
+  "bodyCharacters": 528,
+  "pages": 8,
+  "duration": 174.898,
+  "bodySha256": "cc5b71b9d0ddda6d52fc1c77f4e47c7d6e68ecdfe740edf94e437fde84a28b8b",
+  "audioSha256": "8a66b9d7946e68729b89e873b61244388def1c07b2014d5c73b661d3c65b2a92",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0e45fac39a687766e32fd6960e665715f4e40b577f59275802161b4147424ff7",
+      "bytes": 15328
+    },
+    {
+      "name": "p01",
+      "sha256": "e7ec1415b18486f56882d3371fec27fdaf991a61bb4583c2b8c4ac585054c01c",
+      "bytes": 11548
+    },
+    {
+      "name": "p02",
+      "sha256": "43140971d652f751ca11449e61c5b777fbf58e0beffb3ddc1e4e65083f6c1f87",
+      "bytes": 11092
+    },
+    {
+      "name": "p03",
+      "sha256": "720d62ebc1c83ba401aa08e1cf909adc8187b05f97e443f23940645399aa06f9",
+      "bytes": 11424
+    },
+    {
+      "name": "p04",
+      "sha256": "08716bfbef919777d4e878a02640f45ede414c4ffed8bc935218243f637aaa04",
+      "bytes": 10946
+    },
+    {
+      "name": "p05",
+      "sha256": "71223e61922dab2bf6410fefe882af4cfa3dea533d10a110d6e83e6607bfa5fb",
+      "bytes": 11562
+    },
+    {
+      "name": "p06",
+      "sha256": "b652d906d059f9d47ad655d54045fcf0f43679939298e21b69b195ae11e18f63",
+      "bytes": 11818
+    },
+    {
+      "name": "p07",
+      "sha256": "f656af4998549392dd0b754d57f856982f78b121ee0edf8e545164fb01581dbe",
+      "bytes": 12918
+    },
+    {
+      "name": "p08",
+      "sha256": "77ac7388c8599e2368f89ace0879386a2c0154c3a049d35e71a393d98bf4fd82",
+      "bytes": 12600
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

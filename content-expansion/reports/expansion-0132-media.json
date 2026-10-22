@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0132",
+  "title": "大象只卷一个角",
+  "version": 1,
+  "bodyCharacters": 529,
+  "pages": 8,
+  "duration": 168.226,
+  "bodySha256": "b59e769d8827aa7d16cf42e751accfebb802d9df84089387d7271236bcc1748a",
+  "audioSha256": "4135af3ee77c671c5b3a1bfaec809e90ade58b64131fbc1de8ee7a192a1ad0c2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f1f61d62f82d8cbc64fe31f905c8b44b5ff03690968b7d6c830280819adb9c22",
+      "bytes": 16286
+    },
+    {
+      "name": "p01",
+      "sha256": "e7d5a834ed49fc30ad4d7c913bc708eceefeef9080ecbf3b66baa43cb1249f50",
+      "bytes": 11790
+    },
+    {
+      "name": "p02",
+      "sha256": "ab8c3ae41af26380fa325e198376e216f255afae281fd2d65dd09b5d79a08184",
+      "bytes": 11314
+    },
+    {
+      "name": "p03",
+      "sha256": "f469e17743c69b172e013e88e75f4b89020a81a2c42c84fa23e65dbd3360f11f",
+      "bytes": 12242
+    },
+    {
+      "name": "p04",
+      "sha256": "64167dc8671fc30a35ffe79b6fc1171279edc8ac3c74d8ffc173b48f198010f3",
+      "bytes": 11176
+    },
+    {
+      "name": "p05",
+      "sha256": "0e80166c3b143b234abbe2967899230125b63046429f3ba633ad1994112ba1d1",
+      "bytes": 11700
+    },
+    {
+      "name": "p06",
+      "sha256": "d88820c87deb27e81452762d8aeeedb7119e06bb184d60042070b6d2a302fb40",
+      "bytes": 13040
+    },
+    {
+      "name": "p07",
+      "sha256": "52c8207cea00bea28e6259561ef98963ed95359a4db8844d42c2ac529657042d",
+      "bytes": 13156
+    },
+    {
+      "name": "p08",
+      "sha256": "686cdfc4fad6c278e01e45c4af03cb3c8f37053c66b7111a2a7cb9a057d113ab",
+      "bytes": 11434
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

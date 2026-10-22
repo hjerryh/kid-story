@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0132",
+  "version": 1,
+  "status": "media-ready",
+  "title": "大象只卷一个角",
+  "subtitle": "小毯子的大象游戏",
+  "description": "暖灯旅店的小毯子想扮成大象，拥有一根长鼻子。杏绒卷呀卷，鼻子做好了，大象的肚子却不见了。一条方方的毯子里，究竟藏着怎样的大象？",
+  "ageBand": "3-5",
+  "theme": "想象游戏",
+  "color": "#E9BD69",
+  "character": "小狐狸杏绒：橘红色绒毛，白嘴巴、白尾尖，穿浅绿色背带裤。小毯子：方形鹅黄色绒毯，四角缀着橙色布边，会说话，不能自己折叠；变换造型后仍保留原有颜色。",
+  "cover": "/library/stories/expansion-0132/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 168.226,
+  "detailUrl": "/library/stories/expansion-0132/v1/story.json",
+  "audio": "/library/stories/expansion-0132/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "暖灯旅店的窗外，雨滴答滴答。小狐狸杏绒正在看图画书，椅背上的小毯子忽然说：“我也想当大象，有一根长鼻子！”杏绒摸摸它软软的绒毛：“好呀，我来给你变一变。”",
+      "image": "/library/stories/expansion-0132/v1/p01.webp",
+      "start": 0,
+      "end": 19.094
+    },
+    {
+      "id": "p02",
+      "text": "小毯子会说话，却不能自己折叠。杏绒把它铺在地毯上，看看书里的大象：鼻子长长，肚子圆圆，耳朵宽宽。她先从毯子的一边卷起来，卷呀卷，卷出一根粗粗的长鼻子。",
+      "image": "/library/stories/expansion-0132/v1/p02.webp",
+      "start": 19.094,
+      "end": 39.316
+    },
+    {
+      "id": "p03",
+      "text": "“鼻子来啦！”杏绒把长卷举起来。小毯子乐了一会儿，又轻轻问：“我的肚子呢？”杏绒往左看，往右看，整条毯子都卷进去了。现在，这头大象只有鼻子，连一点小肚皮也没有。",
+      "image": "/library/stories/expansion-0132/v1/p03.webp",
+      "start": 39.316,
+      "end": 60.042
+    },
+    {
+      "id": "p04",
+      "text": "杏绒把长卷松开一些，肚子宽了，鼻子却散了。再松开一些，小毯子又变得平平的。“现在我像一张大饼。”它说。杏绒扑哧笑了，在大饼上拍拍：“可是，大饼也想要鼻子呀。”",
+      "image": "/library/stories/expansion-0132/v1/p04.webp",
+      "start": 60.042,
+      "end": 81.44
+    },
+    {
+      "id": "p05",
+      "text": "她把小毯子搭在膝上，歇一歇。一个毯角垂下来，轻轻碰着她的脚背。杏绒捏住那个角，又摸摸还盖着膝盖的一大片毯子。咦，只卷这一个角，别的地方不就能留下来了吗？",
+      "image": "/library/stories/expansion-0132/v1/p05.webp",
+      "start": 81.44,
+      "end": 101.614
+    },
+    {
+      "id": "p06",
+      "text": "这回，杏绒只把一个角卷成细细的鼻子，握在手里。剩下的毯子盖住她的前臂，鼓起圆肚子；两边垂下来，成了大耳朵。她轻轻抬手，小毯子叫起来：“我的肚子跟着鼻子走啦！”",
+      "image": "/library/stories/expansion-0132/v1/p06.webp",
+      "start": 101.614,
+      "end": 122.412
+    },
+    {
+      "id": "p07",
+      "text": "杏绒让大象走过坐垫山，停在地毯草原上。她弯弯手指，长鼻子的尖尖便碰到了圆肚子。“痒呀，痒呀！”小毯子笑得声音打颤。杏绒也笑起来，两只垂着的大耳朵跟着一晃一晃。",
+      "image": "/library/stories/expansion-0132/v1/p07.webp",
+      "start": 122.412,
+      "end": 144.314
+    },
+    {
+      "id": "p08",
+      "text": "玩累了，杏绒松开手，把小毯子重新盖在腿上。窗外的雨变轻了，屋里暖暖的。那个做过鼻子的毯角还微微卷着。“明天还当大象吗？”杏绒问。“当。”小毯子说，“今天，大象先盖住你的脚。”",
+      "image": "/library/stories/expansion-0132/v1/p08.webp",
+      "start": 144.314,
+      "end": 168.226
+    }
+  ],
+  "buildHash": "3f34fc7f102a6ecd638f2631bf32fb0abfda3ee08d250c1782bf6e0008926db9"
+}

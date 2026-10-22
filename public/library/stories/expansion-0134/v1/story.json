@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0134",
+  "version": 1,
+  "status": "media-ready",
+  "title": "团墩的嘴角不用举",
+  "subtitle": "湖心果摊的午后",
+  "description": "团墩带着小碟子来到湖心果摊，想和朋友一起吃草莓，可草莓已经卖完了。面前的梨子很香，他的心里却还装着那颗没吃到的草莓。",
+  "ageBand": "3-5",
+  "theme": "失望与陪伴",
+  "color": "#A8C9B4",
+  "character": "小石头团墩：圆圆的浅灰色身体，短手短脚，头顶三点白斑，穿黄色背带裤，背绿色小布包。小水獭梨芽：棕色绒毛，奶白色嘴边，穿浅蓝色连衣裙。河狸摊主：深棕色毛，戴米色布帽，系绿围裙。",
+  "cover": "/library/stories/expansion-0134/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 161.434,
+  "detailUrl": "/library/stories/expansion-0134/v1/story.json",
+  "audio": "/library/stories/expansion-0134/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "小石头团墩背着两只小碟子，走过木桥，来到湖心果摊。他和梨芽约好一起吃草莓。一路上，他都在想：红红的草莓尖，咬起来会不会先酸一下，再甜一下呢？",
+      "image": "/library/stories/expansion-0134/v1/p01.webp",
+      "start": 0,
+      "end": 18.974
+    },
+    {
+      "id": "p02",
+      "text": "可是，草莓篮空了，只剩一片小叶子。河狸摊主说：“今天的草莓卖完啦。”团墩捧着碟子，嘴角垂下来。他的两只石头脚忽然很沉，连旁边的小凳子都不想走过去。",
+      "image": "/library/stories/expansion-0134/v1/p02.webp",
+      "start": 18.974,
+      "end": 38.932
+    },
+    {
+      "id": "p03",
+      "text": "梨芽买来一只梨，请摊主切好，放在两只碟子里。“这个闻着很香。”团墩坐下来，努力把嘴角往上翘。可是笑脸刚摆好，又掉了下去。他说：“我的嘴巴不听话。”",
+      "image": "/library/stories/expansion-0134/v1/p03.webp",
+      "start": 38.932,
+      "end": 58.194
+    },
+    {
+      "id": "p04",
+      "text": "团墩闭上眼睛，把一块梨举到鼻尖。“假装你是草莓。”他小声说。可梨还是清清的梨香，摸着也滑滑的。他把梨放回去，鼻子一酸：“我今天就是很想吃草莓呀。”",
+      "image": "/library/stories/expansion-0134/v1/p04.webp",
+      "start": 58.194,
+      "end": 77.576
+    },
+    {
+      "id": "p05",
+      "text": "梨芽没有再把碟子推过来。她挪近小凳子，说：“那我陪你坐一会儿。”团墩点点头，不用把嘴角举起来了。一滴眼泪沿着石头脸滚下去，落在裤子上，留下一个深色小圆点。",
+      "image": "/library/stories/expansion-0134/v1/p05.webp",
+      "start": 77.576,
+      "end": 97.51
+    },
+    {
+      "id": "p06",
+      "text": "湖水轻轻拍着小岛，布棚慢慢晃。团墩坐了一会儿，看见梨上亮着一小滴汁水。他凑近闻闻，这回没有叫它变成草莓。“我想尝一小口。”他说，伸手拿起了那块梨。",
+      "image": "/library/stories/expansion-0134/v1/p06.webp",
+      "start": 97.51,
+      "end": 117.228
+    },
+    {
+      "id": "p07",
+      "text": "咔嚓，梨在嘴里响了一声。凉凉的汁水碰到舌尖，团墩又咬了一口。他把碟里较大的一块递给梨芽：“这块也会咔嚓。”梨芽接过去。两声咔嚓挨在一起，像小小的脚步声。",
+      "image": "/library/stories/expansion-0134/v1/p07.webp",
+      "start": 117.228,
+      "end": 137.882
+    },
+    {
+      "id": "p08",
+      "text": "两只碟子慢慢空了。“我还是想吃草莓。”团墩说。“嗯。”梨芽说。“不过，今天的梨，我也吃得很舒服。”团墩低头看看，裤子上的小圆点已经淡了。他的嘴角轻轻翘起来，这回不用使劲。",
+      "image": "/library/stories/expansion-0134/v1/p08.webp",
+      "start": 137.882,
+      "end": 161.434
+    }
+  ],
+  "buildHash": "d18bf28419cb1912c130256183566e64aba097e5740251f81ae5659d39cadd1b"
+}

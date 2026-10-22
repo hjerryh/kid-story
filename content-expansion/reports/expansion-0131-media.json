@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0131",
+  "title": "绿火车等一把小伞",
+  "version": 1,
+  "bodyCharacters": 587,
+  "pages": 8,
+  "duration": 188.338,
+  "bodySha256": "ddccbd95bd005cd8dbebfaca21145d37c50e18892c9f7f5be2c5402a51bee7d5",
+  "audioSha256": "dcdae4bdd2803f4dd23f1ea982b800350a8e852f13a39ff6abf0747dd5a2ac13",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "c1fb0be073b6b25569f95fe1db6d40b65a93ae8d1b28798260b38dd4163dbb51",
+      "bytes": 12810
+    },
+    {
+      "name": "p01",
+      "sha256": "cc2f9cd9d8820ae322317c36673fe9885524396d14e00c38883ad4ba469e5f72",
+      "bytes": 13836
+    },
+    {
+      "name": "p02",
+      "sha256": "60614696973f85087d959be9e12b61febe6daddd93f6403c687374bc5e16ec75",
+      "bytes": 14226
+    },
+    {
+      "name": "p03",
+      "sha256": "2ae742d9000bed82d3e46084447174282f8d672e1ae939d2ed99a67c00bda5c4",
+      "bytes": 14072
+    },
+    {
+      "name": "p04",
+      "sha256": "04837429bb0988bf573cae1036874e9024aaf5e55c053beec41668a795b6f194",
+      "bytes": 13374
+    },
+    {
+      "name": "p05",
+      "sha256": "02c472b7caa0a1ac73240349e97a4e561cc0643e4f0525d59e46157b031eac88",
+      "bytes": 13220
+    },
+    {
+      "name": "p06",
+      "sha256": "6333a605db612f85ffaa337f7d62e07b33130bf79ec0c8c2ee9854861b3a0917",
+      "bytes": 10896
+    },
+    {
+      "name": "p07",
+      "sha256": "d8309faecfb66d416747a68e256b069247bd506185d176eace0f08e2b0c5271c",
+      "bytes": 11360
+    },
+    {
+      "name": "p08",
+      "sha256": "cb6b82e5dbffded26e557afe07bff8a700ac8bbf22dbb7b2d952100b41f5fb8a",
+      "bytes": 10724
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

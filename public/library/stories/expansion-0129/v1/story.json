@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0129",
+  "version": 1,
+  "status": "media-ready",
+  "title": "蓝旗和小扶手",
+  "subtitle": "一场暖暖的交换",
+  "description": "小絮想用蓝丝带装饰雪城堡，可丝带也是手套阿掌收紧腕口的腰带。一把不合身的雪椅，让他们开始商量一场彼此都喜欢的交换。",
+  "ageBand": "3-5",
+  "theme": "协商与交换",
+  "color": "#B8CFDF",
+  "character": "雪精灵小絮：银白短发，圆脸，穿浅紫棉袄、白色绒靴，戴蓝色尖帽。手套阿掌：一只会说话、会用指头走路的鹅黄色毛线手套，腕口穿着一根由两截打结接成的长蓝丝带。",
+  "cover": "/library/stories/expansion-0129/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 173.506,
+  "detailUrl": "/library/stories/expansion-0129/v1/story.json",
+  "audio": "/library/stories/expansion-0129/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雪地花园里，小絮搭好一座小城堡。圆圆的窗，胖胖的塔，只缺一面飘飘的小旗。长椅上，手套阿掌正甩着蓝丝带，那蓝色像晴天刚洗过一样。小絮看得眼睛亮了。",
+      "image": "/library/stories/expansion-0129/v1/p01.webp",
+      "start": 0,
+      "end": 20.222
+    },
+    {
+      "id": "p02",
+      "text": "“能把丝带给我做旗子吗？”小絮问。阿掌拢住腕口：“这是我的腰带呀，两截接着才这么长。没有它，风就钻进肚子里。”小絮摸摸口袋，里面空空的。他想了想：“我做把雪椅，和你换，好吗？”",
+      "image": "/library/stories/expansion-0129/v1/p02.webp",
+      "start": 20.222,
+      "end": 43.612
+    },
+    {
+      "id": "p03",
+      "text": "阿掌说：“我倒想有把自己的椅子，先让我看看吧。”小絮抱来一团团雪，堆出高高的椅背，把座面拍得光溜溜。“请坐！”可是阿掌伸直五根指头，连椅面也够不着。",
+      "image": "/library/stories/expansion-0129/v1/p03.webp",
+      "start": 43.612,
+      "end": 62.97
+    },
+    {
+      "id": "p04",
+      "text": "小絮没有再往上堆雪。他蹲下来，看看阿掌短短的指头：“你想坐多高？”“我自己能爬上去就好。”小絮把座面一点点削低。阿掌爬上去试了试：“这里再宽一点，我想躺着。”",
+      "image": "/library/stories/expansion-0129/v1/p04.webp",
+      "start": 62.97,
+      "end": 83.168
+    },
+    {
+      "id": "p05",
+      "text": "小絮把座面加宽。阿掌躺下来，五根指头松松地摊开。“真舒服！可我还是得留着腰带。”小絮有点失望，低头看看城堡：“我的旗子很小。你扎好腰带以后，能分我剩下的那一截吗？”",
+      "image": "/library/stories/expansion-0129/v1/p05.webp",
+      "start": 83.168,
+      "end": 105.214
+    },
+    {
+      "id": "p06",
+      "text": "阿掌坐起来，把腕口扎得暖暖的，又留出一个小蝴蝶结。余下的丝带拖在雪上，足够做一面小旗。“这么多行吗？”他问。“行！”小絮比了比，“椅子也归你，你还想改哪里吗？”",
+      "image": "/library/stories/expansion-0129/v1/p06.webp",
+      "start": 105.214,
+      "end": 126.396
+    },
+    {
+      "id": "p07",
+      "text": "“加个小扶手吧，我的拇指喜欢搭着。”小絮堆起一个小雪包。阿掌靠好，满意地晃晃拇指，解开两截之间的接头，把多余的一截取下来，再用留下的一截扎好腰带。“给，你的蓝旗！”“给，你的雪椅！”",
+      "image": "/library/stories/expansion-0129/v1/p07.webp",
+      "start": 126.396,
+      "end": 149.906
+    },
+    {
+      "id": "p08",
+      "text": "小絮把蓝丝带系在细树枝上，插进塔顶。风轻轻吹，小旗朝雪椅摆摆手。阿掌的拇指搭着扶手，也摆了摆。小絮坐在城堡旁。雪白的花园里，两小片蓝色，一片飘着，一片暖暖地系着。",
+      "image": "/library/stories/expansion-0129/v1/p08.webp",
+      "start": 149.906,
+      "end": 173.506
+    }
+  ],
+  "buildHash": "e59deca1654719d87a7ccd867c2c904ae79d8d0b0d9ad91ac2e2dd8c28ca6d03"
+}

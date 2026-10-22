@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0137",
+  "title": "铃声怎么跟着我",
+  "version": 1,
+  "bodyCharacters": 1047,
+  "pages": 12,
+  "duration": 312.978,
+  "bodySha256": "7f7dce6f2df4a946b12232ac44a31d8ab8cb12ca248e91f08d6372582842b4d1",
+  "audioSha256": "1d274cd11b35e3a0fef90008198257e8f3dc1c279c1b1774ed682d540506ae24",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "441e28b3aff05d9ec4ca86a46c7467733dfc64bbd5cbf6c370bc5fd000fe108b",
+      "bytes": 21796
+    },
+    {
+      "name": "p01",
+      "sha256": "98ea7ca6d15177651091a1117fb81a8de2beac17732e671bbd294bc37baaea82",
+      "bytes": 13046
+    },
+    {
+      "name": "p02",
+      "sha256": "78999fa6dc755d714b74bd8ca983a2efb171bfccaa954ecde56093f4f44cb088",
+      "bytes": 19912
+    },
+    {
+      "name": "p03",
+      "sha256": "108e4784ef2f785cbd0593071fa9d81a376e4cea9a1bb530d60991857932f4e6",
+      "bytes": 19616
+    },
+    {
+      "name": "p04",
+      "sha256": "f8ca698cb2df40d7b8be17bb0f7de679006ffb9b4dbb3f5c61c1b197fe498df1",
+      "bytes": 21852
+    },
+    {
+      "name": "p05",
+      "sha256": "43d67e07455b559a7efd76eeb502c9014eab5a91b5fb17137fe29d5c8f4626f8",
+      "bytes": 21648
+    },
+    {
+      "name": "p06",
+      "sha256": "23dc4fc6c147a862b6d4c1555c1297897db0655e283f0fd929194a789c5b97d3",
+      "bytes": 21348
+    },
+    {
+      "name": "p07",
+      "sha256": "5fc9e7415db36769fd56aa26e5703f56233ad418e26b84fba88c7e91f657445d",
+      "bytes": 21612
+    },
+    {
+      "name": "p08",
+      "sha256": "d8a6a237f91541cc00f84e80a8fb7446700809217ad93523b84f110168415ef3",
+      "bytes": 18138
+    },
+    {
+      "name": "p09",
+      "sha256": "58da1cab35d1603e33f684f64592ddf1ff07b49628a632601765dbbbec8547df",
+      "bytes": 18994
+    },
+    {
+      "name": "p10",
+      "sha256": "5e5d204a308f740b194cae1f2a481780812e7261346c44d288e3b32a0b055d15",
+      "bytes": 18540
+    },
+    {
+      "name": "p11",
+      "sha256": "ae464d062f98b5d799e1402d6524322bb8323a57bee2889397b083010cae25b6",
+      "bytes": 13524
+    },
+    {
+      "name": "p12",
+      "sha256": "22918061c049c291e954ccd54f439c4a140839b93ab7bb7109f0fe2145f0bf58",
+      "bytes": 11364
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
