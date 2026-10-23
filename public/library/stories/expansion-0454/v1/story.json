@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0454",
+  "version": 1,
+  "status": "media-ready",
+  "title": "粒芽的两只手值夜班",
+  "subtitle": "两只小手的晚安",
+  "description": "第一次独自睡在贝壳小屋，粒芽很想奶奶。他翻枕头、抱被子，还是睡不着，直到自己的两只小手找到了熟悉的晚安。",
+  "ageBand": "3-5",
+  "theme": "想念与安慰",
+  "color": "#E8C994",
+  "character": "小沙人粒芽：浅金色细沙身体，圆脑袋，头顶三撮短短的沙毛，穿海蓝色短背心，胸前一颗白纽扣，赤脚。奶奶：浅金色沙人，戴圆眼镜，穿淡紫色长裙。",
+  "cover": "/library/stories/expansion-0454/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 169.354,
+  "detailUrl": "/library/stories/expansion-0454/v1/story.json",
+  "audio": "/library/stories/expansion-0454/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "星砂海滩上，小沙人粒芽有了自己的贝壳小屋。小床软软的，圆窗正对着奶奶家。奶奶说：“明早一起吃早饭。想找我，叫一声就好。”粒芽挥挥手，觉得自己长大了一点。",
+      "image": "/library/stories/expansion-0454/v1/p01.webp",
+      "start": 0,
+      "end": 21.398
+    },
+    {
+      "id": "p02",
+      "text": "可是，灯一暗，粒芽就想奶奶了。以前睡觉，奶奶总在他胳膊上轻轻拍两下，再停一停。现在，窗外有沙沙的海声，床边却没有那两下。粒芽睁着眼睛，被角一直拉到了鼻尖。",
+      "image": "/library/stories/expansion-0454/v1/p02.webp",
+      "start": 21.398,
+      "end": 43.108
+    },
+    {
+      "id": "p03",
+      "text": "他把枕头翻过来，凉凉的，睡不着。又把被子卷成一大团，紧紧抱住，还是睡不着。被子不会轻轻拍他。粒芽的嘴角往下弯，胸口像塞着一团湿沙，连叹气都慢吞吞的。",
+      "image": "/library/stories/expansion-0454/v1/p03.webp",
+      "start": 43.108,
+      "end": 63.522
+    },
+    {
+      "id": "p04",
+      "text": "粒芽下了床，把门打开一点。奶奶家的窗里还亮着暖黄的灯。他可以过去，也可以叫奶奶。看见那点灯光，胸口的湿沙松了一些。“我想再试一小会儿。”他对自己的脚趾说。",
+      "image": "/library/stories/expansion-0454/v1/p04.webp",
+      "start": 63.522,
+      "end": 84.008
+    },
+    {
+      "id": "p05",
+      "text": "回到床边，粒芽摸摸左胳膊。奶奶平常就拍这里。他抬起右手，啪，啪，拍得太响啦！他把手放轻，轻得像怕碰醒一粒沙。一下，两下，停一停。咦，这个停顿，他也记得。",
+      "image": "/library/stories/expansion-0454/v1/p05.webp",
+      "start": 84.008,
+      "end": 106.486
+    },
+    {
+      "id": "p06",
+      "text": "粒芽把两只胳膊交叉，给自己一个小小的拥抱。右手拍左边，左手拍右边，慢慢来。他小声说：“粒芽，今天的小屋很漂亮。”说到这里，他又想奶奶了，便抱着自己多停了一会儿。",
+      "image": "/library/stories/expansion-0454/v1/p06.webp",
+      "start": 106.486,
+      "end": 127.668
+    },
+    {
+      "id": "p07",
+      "text": "想念没有马上走开，可胸口不再堵堵的。粒芽躺下来，把被子重新盖好。一只手轻轻拍着另一只胳膊，一下，两下，停一停。海声沙沙，他的眼皮慢慢合上，小手也歇在了被面上。",
+      "image": "/library/stories/expansion-0454/v1/p07.webp",
+      "start": 127.668,
+      "end": 149.69
+    },
+    {
+      "id": "p08",
+      "text": "早晨，奶奶带着早餐来了。粒芽给她看自己的晚安办法，还认真地停了一停。奶奶笑着伸开胳膊。粒芽扑进那个熟悉的拥抱里：“昨晚我的两只手值班啦，现在轮到它们吃早饭！”",
+      "image": "/library/stories/expansion-0454/v1/p08.webp",
+      "start": 149.69,
+      "end": 169.354
+    }
+  ],
+  "buildHash": "4035dbbb6f4b6d1e441a5c35cb05e180cd4b107531169dc51e3c9f00e58ee8a5"
+}

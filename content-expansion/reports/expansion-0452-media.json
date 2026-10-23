@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0452",
+  "title": "露珠龙不用大声吼",
+  "version": 1,
+  "bodyCharacters": 489,
+  "pages": 8,
+  "duration": 161.026,
+  "bodySha256": "dbaed6e207dec8c271b4035bd576c3611b2733a4fd02cf30bcf0976b94344ec8",
+  "audioSha256": "64fe0713284cacb3e49d871f47376bcd54a7e4d3f2b7e70dd03d760c89549d5e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "550528bb6abe58c3a192e399740bdcfedf118616f35671271df3d9fb2d826abc",
+      "bytes": 14272
+    },
+    {
+      "name": "p01",
+      "sha256": "57c4781a5f296fa7c7174fb421e38b29f861b2522bd22aa1e64503a78c971dd2",
+      "bytes": 11562
+    },
+    {
+      "name": "p02",
+      "sha256": "ab867f3e53e63dfe3e5fa460366fe8197495df08af72898a5395893664044d0a",
+      "bytes": 11276
+    },
+    {
+      "name": "p03",
+      "sha256": "bbad6d2a3e66bde8b1945eef1b505f0ae1e74781975bf158481deb5a15a573d4",
+      "bytes": 11344
+    },
+    {
+      "name": "p04",
+      "sha256": "c113fa221574733de9a9002bc7f69333f5544332245ef0d5f5abb7e31d237e69",
+      "bytes": 11548
+    },
+    {
+      "name": "p05",
+      "sha256": "cf75fff42b08e71216aa05354cbf19d542e1a223f740d9d0f3349f4650f84da1",
+      "bytes": 12212
+    },
+    {
+      "name": "p06",
+      "sha256": "835827ee9d3e3f5b88905e3b45809bb19a20b9fdf4bfb360dad658e0750a7069",
+      "bytes": 12296
+    },
+    {
+      "name": "p07",
+      "sha256": "65c8c2723c5ee55cfae2a688248690c827a63bf0ca816d2002430716a004e38e",
+      "bytes": 12256
+    },
+    {
+      "name": "p08",
+      "sha256": "7787462c398596457b3b34cef5765822fb1e41aaa575f7e40e78cdbec944b932",
+      "bytes": 12084
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0453",
+  "version": 1,
+  "status": "media-ready",
+  "title": "柚绵的窗帘只织半扇",
+  "subtitle": "半扇窗里的薄荷香",
+  "description": "柚绵想给织布小屋挂一幅窗帘，挡住晃眼的阳光。可是，漂亮的大窗帘也挡住了常来陪她的小风。窗帘究竟该织多长？她决定坐回自己的小凳子上，找一找答案。",
+  "ageBand": "3-5",
+  "theme": "自己的决定",
+  "color": "#B5A9CE",
+  "character": "柚绵：浅灰毛的小女鼠，圆耳朵，穿紫色背心和米白裙子，尾巴细长。呼呼：会说话的小风，画面中用柔软的淡蓝曲线表现，没有固定身体。",
+  "cover": "/library/stories/expansion-0453/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 166.882,
+  "detailUrl": "/library/stories/expansion-0453/v1/story.json",
+  "audio": "/library/stories/expansion-0453/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "午后，阳光斜斜照进织布小屋。小鼠柚绵坐在织机前，眼睛眯成两条线。她往左挪，光也落在左边的线头上。“我要织一幅窗帘。”她说，“让眼睛舒服一点，再织我的小花布。”",
+      "image": "/library/stories/expansion-0453/v1/p01.webp",
+      "start": 0,
+      "end": 21.35
+    },
+    {
+      "id": "p02",
+      "text": "她找出一块备用长布，先挂在窗钩上试试。屋里一下柔和了。窗外的小风呼呼送来薄荷香：“今天织什么呀？”柚绵刚要回答，长布鼓起一个大肚子，把呼呼挡在了外面。",
+      "image": "/library/stories/expansion-0453/v1/p02.webp",
+      "start": 21.35,
+      "end": 40.828
+    },
+    {
+      "id": "p03",
+      "text": "“我还想进来陪你呢。”呼呼隔着布说。柚绵把长布拉得平平的，布却又鼓起来，轻轻碰她的鼻尖。她松开手，长布垂了下去。小屋不晃眼了，可薄荷香也变得淡淡的。",
+      "image": "/library/stories/expansion-0453/v1/p03.webp",
+      "start": 40.828,
+      "end": 61.098
+    },
+    {
+      "id": "p04",
+      "text": "柚绵把布拉到一旁。呼呼溜了进来，吹得线尾轻轻跳舞。可她刚坐好，阳光又落进眼睛里。她用手遮了遮额头，小声嘀咕：“拉开也不行，关上也不行。这可怎么织呀？”",
+      "image": "/library/stories/expansion-0453/v1/p04.webp",
+      "start": 61.098,
+      "end": 81.536
+    },
+    {
+      "id": "p05",
+      "text": "她站起来，想把长布卷好收走。刚卷到一半，呼呼便从下面钻进来，拂了拂她的裙摆。“这里能过！”柚绵停住手。上半扇窗还遮着布，下半扇窗里，薄荷叶正在轻轻点头。",
+      "image": "/library/stories/expansion-0453/v1/p05.webp",
+      "start": 81.536,
+      "end": 103.054
+    },
+    {
+      "id": "p06",
+      "text": "柚绵用布带扎住卷起的部分，坐回小凳子。她抬头看看，又左右转转脸。眼睛没有被阳光照到，呼呼还能吹凉她的耳朵。“我决定啦，织一幅短短的！”她把长布的下摆又摸了一遍。",
+      "image": "/library/stories/expansion-0453/v1/p06.webp",
+      "start": 103.054,
+      "end": 124.74
+    },
+    {
+      "id": "p07",
+      "text": "她挑来奶白色棉线，一行一行织。织到够长，她拿到窗前，比着留下的半幅布看了看。“就是这么长。”她收好布边，没有再添一行。短帘躺在膝头，像一块软软的小方糕。",
+      "image": "/library/stories/expansion-0453/v1/p07.webp",
+      "start": 124.74,
+      "end": 145.106
+    },
+    {
+      "id": "p08",
+      "text": "短帘挂好了，只遮住上半扇窗。柚绵坐下，眼前的棉线清清楚楚。呼呼从下面送来薄荷香，陪她织起小花布。帘边轻轻晃着。柚绵摸摸凉凉的耳朵，笑了：“你今天坐得真近呀。”",
+      "image": "/library/stories/expansion-0453/v1/p08.webp",
+      "start": 145.106,
+      "end": 166.882
+    }
+  ],
+  "buildHash": "0eed2f293922da08d265fc7dc61f6f9a8a45e50fd07d0edc429accea9a6a33b5"
+}

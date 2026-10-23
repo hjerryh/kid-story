@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0439",
+  "title": "鲸鱼梦结在苹果枝上",
+  "version": 1,
+  "bodyCharacters": 1421,
+  "pages": 16,
+  "duration": 438.122,
+  "bodySha256": "d48337220d405f86b374aca0b7a08308017731848aa2d2f5fcf866723afdd8b7",
+  "audioSha256": "522ca612c0984eb313b82d5a979ca8ee54a7733079ebb5c649b3187cd49d8917",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "dd5a4867e895a3d85925e5b89e18970f7d6bc1c303df1c901df5bf7dfef07f1c",
+      "bytes": 13362
+    },
+    {
+      "name": "p01",
+      "sha256": "b6acab90832ee0669f0b76bad9808aa403068f79e97591f5a284569e62349cc2",
+      "bytes": 10812
+    },
+    {
+      "name": "p02",
+      "sha256": "affb9b88cab9653bb5213afc0a2999ab5ab390c388d98b9343a2948f211da6df",
+      "bytes": 14106
+    },
+    {
+      "name": "p03",
+      "sha256": "a2599c6a13bddd478ce599bbc52f4fdea4b38e70f51c7594509de6237f1e2036",
+      "bytes": 14130
+    },
+    {
+      "name": "p04",
+      "sha256": "11408745ec9ba696130f7d20e5a17ff55cb1210c55813c52a3a5af5427e79356",
+      "bytes": 11228
+    },
+    {
+      "name": "p05",
+      "sha256": "81393ec88ce1ea505984181f5abc30e1eb9a383e0a2fc0d4870a4930ce68f4ff",
+      "bytes": 10870
+    },
+    {
+      "name": "p06",
+      "sha256": "14fabc48236c148fb476353469c9b57a18fcb101df3bca1fe8b7c9e840b499ac",
+      "bytes": 15066
+    },
+    {
+      "name": "p07",
+      "sha256": "2587fd3d9015e3ca6433a197bc51cf7c1c3fcd431a9115e8bd8d034add5cd6c4",
+      "bytes": 11114
+    },
+    {
+      "name": "p08",
+      "sha256": "7dfb00ff1e895e8550b88adf8b6fa139d40e93ed58e4171a5a43472880541b06",
+      "bytes": 11892
+    },
+    {
+      "name": "p09",
+      "sha256": "1a51edf91553aaa72cfc56a6c1d227b3faaecba7ab705571584f907fa6447789",
+      "bytes": 11936
+    },
+    {
+      "name": "p10",
+      "sha256": "8f8b83f04199c22a41d611dd0fca26ed1b26d5ea82a5adef06256fc53a963abf",
+      "bytes": 10554
+    },
+    {
+      "name": "p11",
+      "sha256": "d90c38aa116e20994e3554601b21af855605ff564b93f80ca8937fc1a71bf906",
+      "bytes": 11618
+    },
+    {
+      "name": "p12",
+      "sha256": "caf84c06f10560f24489e7475c62ee4d22f13e9bf17220c0fdcd35cb9c05782b",
+      "bytes": 12670
+    },
+    {
+      "name": "p13",
+      "sha256": "f634ba7b3fc90e6d71efd9342099e579fa2a26a23e1c390d39e9ad0d1eabead9",
+      "bytes": 14642
+    },
+    {
+      "name": "p14",
+      "sha256": "ac01abd8221cc2f2e6b2ee9ab2143ed2d0bbc817ada0c02888a3cbee138a7bd6",
+      "bytes": 13076
+    },
+    {
+      "name": "p15",
+      "sha256": "3de0ce0cbc88415ea8b989e752f50d8406c42683503c362ae870b1c2e0f921d3",
+      "bytes": 11098
+    },
+    {
+      "name": "p16",
+      "sha256": "225382432ee7f2b5abb1d3b74ab8e0132058a23655bd93fbaadcf277b880b841",
+      "bytes": 11478
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

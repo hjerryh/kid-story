@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0459",
+  "title": "照片里的小缺牙",
+  "version": 1,
+  "bodyCharacters": 980,
+  "pages": 12,
+  "duration": 296.586,
+  "bodySha256": "c7ba42ad7d0b3e8bc3016ad9b9266b452e57d9e987f9e979752ef8fdfbc31480",
+  "audioSha256": "a79621e026c219c1dceb0939ddf3a99832a5ffe6d383bcefff44c7bca05f3d39",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "43aec6735db8f9c84d5d5faa033c7224b3bf4dd19e0f1594c1c6fad1613fe8dd",
+      "bytes": 19494
+    },
+    {
+      "name": "p01",
+      "sha256": "0c97caa7c336d714a86ecccfd2efdc62f34b22c3faef15089325ac7773b6476b",
+      "bytes": 13380
+    },
+    {
+      "name": "p02",
+      "sha256": "5ca6d912cd118d254d89dfb29344f780774fdacab16c7ad75a91d6566054394d",
+      "bytes": 10494
+    },
+    {
+      "name": "p03",
+      "sha256": "68ef4fc8484eed7daee16ed6c44cac3b5d0eed8923e4e6a03af15f5bb23fb28c",
+      "bytes": 13968
+    },
+    {
+      "name": "p04",
+      "sha256": "0b00a8d53a814915f465e4fc875419c199c8f97528bd416f6f10c4aa04310451",
+      "bytes": 13806
+    },
+    {
+      "name": "p05",
+      "sha256": "7e105e0166acec457fcde21e770ef39b93591a60b6054741b6967c8789b03a7d",
+      "bytes": 14366
+    },
+    {
+      "name": "p06",
+      "sha256": "a9027afbe17e8fc3b97725debb5ded541ff1b37c52b29067cfcffb80b50ad1d4",
+      "bytes": 15492
+    },
+    {
+      "name": "p07",
+      "sha256": "00866c804f3a43c466a6d96e22a796f10a755d3e4cda9df124df8eecc86e5ac2",
+      "bytes": 15774
+    },
+    {
+      "name": "p08",
+      "sha256": "5874aa49ee9d974848721bdda7fcf6b50951445af7f4ddb6b26eac06de3d2bc2",
+      "bytes": 16574
+    },
+    {
+      "name": "p09",
+      "sha256": "b7df3e422c7219bb6ed6f025ddfaa8b5ca8cf9c18ca166e33a3f94371ebcb7eb",
+      "bytes": 14744
+    },
+    {
+      "name": "p10",
+      "sha256": "8337e42bddd639c99df817bc2edc9038d6908c8ae59de00ce44da9a96d6f6375",
+      "bytes": 15316
+    },
+    {
+      "name": "p11",
+      "sha256": "3f08f4c8c0e1b5187aedcb64994fb0f0e0f6b450b4e83979fc772aaec688e088",
+      "bytes": 15950
+    },
+    {
+      "name": "p12",
+      "sha256": "6b129f4a8164a2849dc890b0123226f79f3470329227f4f5d23c627f64427b97",
+      "bytes": 9822
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

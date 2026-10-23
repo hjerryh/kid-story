@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0449",
+  "version": 1,
+  "status": "media-ready",
+  "title": "长云绒换来小山包",
+  "subtitle": "一篮云绒的交换",
+  "description": "星星牧场送来一份云绒，蒲蒲想做长围脖，杏点想做小枕头。两份分得一样多，却谁也做不成想要的东西。他们把材料重新摆开，商量了一次特别的交换。",
+  "ageBand": "3-5",
+  "theme": "公平协商",
+  "color": "#B8ADDE",
+  "character": "小绵羊蒲蒲：奶白色卷毛，穿浅紫色背心，戴一枚圆木扣。小星星杏点：金黄色五角身体，有短短的手脚，穿蓝色小马甲。两者外观与服饰全篇保持一致。",
+  "cover": "/library/stories/expansion-0449/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 162.802,
+  "detailUrl": "/library/stories/expansion-0449/v1/story.json",
+  "audio": "/library/stories/expansion-0449/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "星星牧场的云绒熟了，轻轻一碰，就从栅栏上飘下来。蒲蒲和杏点接满一篮：一条长长的云绒，六团圆圆的小云绒。它们软得像呵欠，摸过以后，手心还留着一点暖。",
+      "image": "/library/stories/expansion-0449/v1/p01.webp",
+      "start": 0,
+      "end": 19.502
+    },
+    {
+      "id": "p02",
+      "text": "蒲蒲想做长围脖，绕过脖子，还能盖住胸口。杏点想做小枕头，把自己的尖角舒服地搁上去。“我们分得一样多吧！”蒲蒲说。杏点点点头，把带来的蓝布枕套铺在草上。",
+      "image": "/library/stories/expansion-0449/v1/p02.webp",
+      "start": 19.502,
+      "end": 40.324
+    },
+    {
+      "id": "p03",
+      "text": "他们各拿三团小云绒，再从长云绒的两头往中间卷，卷出一样大的两卷。中间还连着，谁也没有扯断。“这一半归你，这一半归我。”两只小脑袋凑过去，认真看了又看。",
+      "image": "/library/stories/expansion-0449/v1/p03.webp",
+      "start": 40.324,
+      "end": 60.546
+    },
+    {
+      "id": "p04",
+      "text": "蒲蒲展开自己的半条，搭上脖子，胸口却露着一大块。他添上小绒团，绒团咕噜噜滚下来。杏点把三团塞进枕套，轻轻一躺，尖角便碰到了草地。“我的枕头还扁扁的。”",
+      "image": "/library/stories/expansion-0449/v1/p04.webp",
+      "start": 60.546,
+      "end": 81.104
+    },
+    {
+      "id": "p05",
+      "text": "杏点把自己的半条长绒也盘进枕套，可盘得紧了，里面硬硬的；松开，又从口子探出来。蒲蒲摸摸长绒，再捧起小绒团：“我想要连着的。”“我想要蓬蓬的。”杏点说。",
+      "image": "/library/stories/expansion-0449/v1/p05.webp",
+      "start": 81.104,
+      "end": 101.254
+    },
+    {
+      "id": "p06",
+      "text": "蒲蒲捧着三团小云绒问：“这些都给你，换你的半条长绒，好吗？”杏点看看枕套，又看看蒲蒲露着的胸口：“好呀！不过，先让我试试六团够不够。”蒲蒲把手伸了过去。",
+      "image": "/library/stories/expansion-0449/v1/p06.webp",
+      "start": 101.254,
+      "end": 121.38
+    },
+    {
+      "id": "p07",
+      "text": "六团云绒住进枕套，鼓起一个软软的小山包。杏点躺下试了试，尖角稳稳陷进去。“够啦，换吧！”他系好枕口。蒲蒲把整条长绒展开，松松围上，胸口终于也暖起来了。",
+      "image": "/library/stories/expansion-0449/v1/p07.webp",
+      "start": 121.38,
+      "end": 142.37
+    },
+    {
+      "id": "p08",
+      "text": "空篮子放在一旁，蒲蒲挨着杏点坐下来。风吹过草尖，围脖轻轻晃，枕头轻轻鼓。杏点打了个小呵欠，蒲蒲也跟着打了一个。两声呵欠一长一短，都舒服得不想收回去。",
+      "image": "/library/stories/expansion-0449/v1/p08.webp",
+      "start": 142.37,
+      "end": 162.802
+    }
+  ],
+  "buildHash": "39581e97284ff03c5c0e91cd05f50715975754089c17d554ad82fcf9fbb602a2"
+}

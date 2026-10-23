@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0455",
+  "title": "篮婆婆今天只装阳光",
+  "version": 1,
+  "bodyCharacters": 532,
+  "pages": 8,
+  "duration": 171.25,
+  "bodySha256": "261d124706447144dae2b11760c181c23c9018c9064b1625a8cad553e8a267dc",
+  "audioSha256": "2a730608d9c9ee84b7b9b8e13e57b8dc0f2b2103ae4f6701702920701aba87f6",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "74872b0e38ff2e8d6f2d782e10e8a7054f39feca3c9a74fc0fb2d41a1b9c76b1",
+      "bytes": 17440
+    },
+    {
+      "name": "p01",
+      "sha256": "639c12a97e21b8472f66599b3111f12632aeff560703a8ff234912de0763c40a",
+      "bytes": 16322
+    },
+    {
+      "name": "p02",
+      "sha256": "92347da67b23aaf19c8e3194de4beefe7febb95fb36f30479a9b0b4a7665eab2",
+      "bytes": 16352
+    },
+    {
+      "name": "p03",
+      "sha256": "54f38b901be04daebe07795dd969a8da2bfcef3c47071a6623f35822c4c16edb",
+      "bytes": 15182
+    },
+    {
+      "name": "p04",
+      "sha256": "8cdfafc0c867de4ecfe7986b06c2fc402a672b6a9e12c5161e6fcfcdb4e15a99",
+      "bytes": 15934
+    },
+    {
+      "name": "p05",
+      "sha256": "3fa9b30c4b8a00f61d31ed674663e65a43fe53eb4e2e06580219939254ab6768",
+      "bytes": 15086
+    },
+    {
+      "name": "p06",
+      "sha256": "b10632de16cd1a038dcefae8c5e8695ec82394b7928af9665333058cb12747e3",
+      "bytes": 6638
+    },
+    {
+      "name": "p07",
+      "sha256": "0df2a6c7804857c040679ef9e441c2219071f11cadec1b76199ef973e8fe125d",
+      "bytes": 15584
+    },
+    {
+      "name": "p08",
+      "sha256": "f8e4deca0b3fc05080ee56fcabad30c56795fc9e4cadc9675d4bd41468d02e49",
+      "bytes": 14564
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

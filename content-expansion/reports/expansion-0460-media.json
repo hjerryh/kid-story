@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0460",
+  "title": "六对信翅不用一起飞",
+  "version": 1,
+  "bodyCharacters": 1005,
+  "pages": 12,
+  "duration": 306.474,
+  "bodySha256": "f4bcd574eab65f45318bbb1e7f579b2983e7b4cb3b6922ec594764150cc786a4",
+  "audioSha256": "e7de4165d8e3db2f1fbd4c16fbf987abc632dffb9cf10bb721cafdc44be06915",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "59c6f7994ccd4eeee8a3b33e576deeecebfe768ecf7e3fc49c58bfe7d6df2405",
+      "bytes": 24058
+    },
+    {
+      "name": "p01",
+      "sha256": "3236fc0e84e462e7e7d4270a147f9bbc4d8c3e9fd8d26ce15c61a020dbcfce3b",
+      "bytes": 18650
+    },
+    {
+      "name": "p02",
+      "sha256": "0b77a35f4aa76f6e20e39e1dffd306bf93562f00cc3fe9a5c87ef1bf29824b8b",
+      "bytes": 20692
+    },
+    {
+      "name": "p03",
+      "sha256": "d8223f4cb30cf08bc23735e8802af9f5f121ebdb07ea34284656764bc5dd7865",
+      "bytes": 19978
+    },
+    {
+      "name": "p04",
+      "sha256": "1bded71b4fd4e10b4cd783c7ec63ebedf2d271b24b0a1aa3989cec10ec0d89fa",
+      "bytes": 19194
+    },
+    {
+      "name": "p05",
+      "sha256": "50b6c3e6c0aa6de92ba206a602c60309f3f7ec245f35705e58eaa2f4c37e90c8",
+      "bytes": 18906
+    },
+    {
+      "name": "p06",
+      "sha256": "e22e774fbb2b88c6473c99ab5d92c54c59770301fdb679872100724efed964ae",
+      "bytes": 19136
+    },
+    {
+      "name": "p07",
+      "sha256": "1fa9d55d03093dfdef9a493786644ba284492dfbde07931899d702ab6c00e42a",
+      "bytes": 19502
+    },
+    {
+      "name": "p08",
+      "sha256": "fc49fbf93c11f9efc3bd9724705582e32beb7eec13d9ba1287db29bd926d6e1d",
+      "bytes": 19630
+    },
+    {
+      "name": "p09",
+      "sha256": "906a93da83d8bb243024db1995233f3d29d530ef9baca73eaab96bc1b49cd912",
+      "bytes": 19984
+    },
+    {
+      "name": "p10",
+      "sha256": "b64edfe2dee063bf280484311a78ead7ca3eb78dfae540de10c6d1bd229b7c1d",
+      "bytes": 19830
+    },
+    {
+      "name": "p11",
+      "sha256": "aaf2e0e853f1dc37b3bf8d2f4c8877b4c022ee71feb6648dda56bde7f00e353c",
+      "bytes": 17600
+    },
+    {
+      "name": "p12",
+      "sha256": "8e859be087972f8d899f59005cf6140fa19fe86d90509d27e9cdc65570d7567c",
+      "bytes": 20328
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

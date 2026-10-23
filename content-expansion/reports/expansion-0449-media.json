@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0449",
+  "title": "长云绒换来小山包",
+  "version": 1,
+  "bodyCharacters": 507,
+  "pages": 8,
+  "duration": 162.802,
+  "bodySha256": "f845c45f7f094b03fe56285d7f3e5bf4c95acb22ed364668c65dc79bbd97503a",
+  "audioSha256": "1001bcbdc709b8a78224226e18887364ef0afebf2f1d12b6c9d4df56cc39c2e1",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "52c5715e2fc13f83d0a44d4d4e9eb8cbe753ee66622b23f3a62c63d841a59b0f",
+      "bytes": 15172
+    },
+    {
+      "name": "p01",
+      "sha256": "d476f8db776fdbfea7e38372b2c3a7efca32cc23f4ae70a4334fcc839aef874e",
+      "bytes": 14962
+    },
+    {
+      "name": "p02",
+      "sha256": "56db9150a621828cf438dfa3daed4989e553643e014984331dc1e443bdbaeac4",
+      "bytes": 14564
+    },
+    {
+      "name": "p03",
+      "sha256": "e5365f1ac1ff439e17519b64715d0640c84f4bff7a397b06a4e4fdccd4bbcf33",
+      "bytes": 13014
+    },
+    {
+      "name": "p04",
+      "sha256": "8f7de00de453f030d69566263a81fe3ba8333b1a377e23da9d16cd7c33026fb9",
+      "bytes": 12324
+    },
+    {
+      "name": "p05",
+      "sha256": "4ad9c8c02bbc418ccb4e79538a8e31756c802bc09a892b2742aff6e8aec6ed99",
+      "bytes": 12804
+    },
+    {
+      "name": "p06",
+      "sha256": "8a4d8d2216f6b99aafde1a7ee385f522429f7a3559a0cfe4150aa8c8a44cb211",
+      "bytes": 12864
+    },
+    {
+      "name": "p07",
+      "sha256": "76d169a5b8927a939d2336379a2e824a9cc3a34925dad2fbe25e6112a82e3056",
+      "bytes": 13062
+    },
+    {
+      "name": "p08",
+      "sha256": "243759b77e03b1c445da81338e9dbf930c3dc257f06bc8baf632705de41c9634",
+      "bytes": 13256
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0454",
+  "title": "粒芽的两只手值夜班",
+  "version": 1,
+  "bodyCharacters": 525,
+  "pages": 8,
+  "duration": 169.354,
+  "bodySha256": "5dbd49ceaf9dd0bdc5d813d51ede816df434d68b82b01f8c909c49a1ffe4d15d",
+  "audioSha256": "341d1a502e445cb255bf95f21405680e928fb50173e3c20888ab566f284e6cef",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "799c627596fd3d8316f1cf667c678f6ddad0525e87a76dcc3661a387f36e2f0e",
+      "bytes": 14444
+    },
+    {
+      "name": "p01",
+      "sha256": "eef57a497c3cacf249c3c524d767662cc7015768a3dc930bac689c99bb31eaa2",
+      "bytes": 13126
+    },
+    {
+      "name": "p02",
+      "sha256": "6dc1f190e54804cac679bbdcd4bf34bfe72358526ade17c97b8a9a955795e799",
+      "bytes": 10728
+    },
+    {
+      "name": "p03",
+      "sha256": "1032d7022b8d4d137c924eeb15d04ba0454de7f1c600bb228e3d002b9c5ae4fb",
+      "bytes": 10824
+    },
+    {
+      "name": "p04",
+      "sha256": "97771b904f01b7b74004a00017a3e7c879c855094216650b9e6917f74af93cf3",
+      "bytes": 11088
+    },
+    {
+      "name": "p05",
+      "sha256": "06723ced8b781d7ec51d54cea045e850dbff9168f3f37a01a1b4f8aecae1fe3f",
+      "bytes": 11912
+    },
+    {
+      "name": "p06",
+      "sha256": "6bf0fdec095ff80706fcc246d90c6ce7be12c0dc12e491dd202f0366c5a68d57",
+      "bytes": 11792
+    },
+    {
+      "name": "p07",
+      "sha256": "3bd1d1d93d1084daddf074c2418aecd9995a7f318fe964ef2ebf7e1bb48d451c",
+      "bytes": 11322
+    },
+    {
+      "name": "p08",
+      "sha256": "ace8e6b67e0bf9e4510529790934d961498a1732ff5c51ad590ba139dc2c0102",
+      "bytes": 15574
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0463",
+  "title": "转转屋换了一面风景",
+  "version": 1,
+  "bodyCharacters": 1016,
+  "pages": 12,
+  "duration": 304.362,
+  "bodySha256": "07eb91592640757afb22f80e0df671087da0facf61923d302a1afd20d9acb555",
+  "audioSha256": "f0d0e1b7aa92bc41dcdea1ceeff9d47869a2e971ec7e9b1eef5df74de10d3944",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "15d21a18057307ce91ad96ec0feff0fd8aae92ee4fbd4a3bd35090fb6d11e5dd",
+      "bytes": 19312
+    },
+    {
+      "name": "p01",
+      "sha256": "4a4dfe65bd3c29003f6ad155d4c1a93eafdc4544463b3d71d4e7030a2aef241d",
+      "bytes": 14996
+    },
+    {
+      "name": "p02",
+      "sha256": "42211bb30732cf180d7ff5eb5ed5649ae887091cf597f3005c4b24256c499142",
+      "bytes": 15444
+    },
+    {
+      "name": "p03",
+      "sha256": "356220f97be09ee6161a11bc6a9963db6a6345d1f331f4897b5b6b59151d9157",
+      "bytes": 15084
+    },
+    {
+      "name": "p04",
+      "sha256": "5d8290276bfd537784f31ad6bcfc087f6aae4607bd370d08bc96809767ac21fa",
+      "bytes": 14190
+    },
+    {
+      "name": "p05",
+      "sha256": "ba0d958c95d6f0c95c2a5a69eb8be3e9b46158e8e60f67b1e0efbef68d0c152c",
+      "bytes": 16526
+    },
+    {
+      "name": "p06",
+      "sha256": "b43022ce4b5501325d972c795f646daefc2521d046352b969fbab64e2b949d08",
+      "bytes": 13772
+    },
+    {
+      "name": "p07",
+      "sha256": "c76e95553775e4979e0467c657f969002b7e66084fafda18c3498eb91e39c551",
+      "bytes": 15146
+    },
+    {
+      "name": "p08",
+      "sha256": "75d305310beed61cde194d23884ab7e36b00224a0d70be7cbf6659060e0342c4",
+      "bytes": 15932
+    },
+    {
+      "name": "p09",
+      "sha256": "55232bcbf904ec50add37ddc61dd506051d122f67d05fec6d2cad57db167ca20",
+      "bytes": 15562
+    },
+    {
+      "name": "p10",
+      "sha256": "18b6c5c31e8caa177b54ebd8d1abefd35a3a217ff1d8e3953a10da1a20d3c318",
+      "bytes": 15804
+    },
+    {
+      "name": "p11",
+      "sha256": "38d531e9786c7a112daeff23e2d855f7fff08ef3fa498abea0237c0700af6460",
+      "bytes": 15090
+    },
+    {
+      "name": "p12",
+      "sha256": "e59ae644600dfc61789e1b99eb6957a421a456a46246d3510a3f19c859eba9fd",
+      "bytes": 15042
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

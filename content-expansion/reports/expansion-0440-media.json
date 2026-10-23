@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0440",
+  "title": "草帽每天走同一条路",
+  "version": 1,
+  "bodyCharacters": 1677,
+  "pages": 16,
+  "duration": 505.13,
+  "bodySha256": "93953d2d945c4aead49f1d8e7f2455b706152883eacac7e1ddb6808f5bfdf907",
+  "audioSha256": "8d2175fde2452e73f98c68e12137e2ac3c375585a5742fcc52a4c462d1da074b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ca2119abf84f8853c669123cabe34eb71765ab051642fe7aacc61823d88fe094",
+      "bytes": 21220
+    },
+    {
+      "name": "p01",
+      "sha256": "3ac4ff4fa615ee9bb5b0b8c50044b0c9ef7db5d75a6a93cf09dd997317848f09",
+      "bytes": 15954
+    },
+    {
+      "name": "p02",
+      "sha256": "5cabad7e6af910aa4e8a0f0364a30bcd9184c7c56e1fb00af8c199ccd873c676",
+      "bytes": 15712
+    },
+    {
+      "name": "p03",
+      "sha256": "2c485987933544a9380f22639d3c16034e460e8ac730166b052fa1ddcb75d5a2",
+      "bytes": 17198
+    },
+    {
+      "name": "p04",
+      "sha256": "6fd9a9be98239c17c374b31340a3047d0fc854affb65513c656e8d4ae5ac8320",
+      "bytes": 18146
+    },
+    {
+      "name": "p05",
+      "sha256": "4200209d6e2ba9216653931e8e9ed7236563505249af1ba14f573886d598f7ab",
+      "bytes": 20148
+    },
+    {
+      "name": "p06",
+      "sha256": "6bb001a16d749961b38ee88f7ed992cbbe373d6d9f207f9f246efd3ddf32a7d1",
+      "bytes": 17220
+    },
+    {
+      "name": "p07",
+      "sha256": "0769f5861ef9878b763a8b6c1fd1031c95bea2fc6d22947442765e183def650b",
+      "bytes": 17188
+    },
+    {
+      "name": "p08",
+      "sha256": "4872582ed97cd359305893ce448449a4a08cb7301878709d240bc99e9ea5ba54",
+      "bytes": 16728
+    },
+    {
+      "name": "p09",
+      "sha256": "c9249cbc18fde44b4859d600ad88c0bbfcaea1cf6b4cf5a7039057b0a6c56085",
+      "bytes": 14918
+    },
+    {
+      "name": "p10",
+      "sha256": "71cef7347055d07f499ec970a7f736f743d3d54476810febff8e76c5e9aed6de",
+      "bytes": 15336
+    },
+    {
+      "name": "p11",
+      "sha256": "9aea6fc6935b8954740587e37c69be0cfbf5b94bdb219d8f0fd0125cf1aad337",
+      "bytes": 16624
+    },
+    {
+      "name": "p12",
+      "sha256": "efec289dfe191c736b56fba777d14356446a670e51c21b1dc9004b386ab577e4",
+      "bytes": 17438
+    },
+    {
+      "name": "p13",
+      "sha256": "1346f888da28b451fe619a19a59d6faf7dc075c88318624f1ae129c4df622713",
+      "bytes": 17950
+    },
+    {
+      "name": "p14",
+      "sha256": "510685945d4c7a64c7a130909fe045215d0a7b4ef65a33d7743086e1335ce0ae",
+      "bytes": 17620
+    },
+    {
+      "name": "p15",
+      "sha256": "93511b9a213ba5fcb11bed604eb824a1c51d7c2c5f08e75d56fe6e33bd6fb415",
+      "bytes": 11316
+    },
+    {
+      "name": "p16",
+      "sha256": "f6a2d0c1b6ca3bac2a8091f5eed3928c839023fd6dcf6dc1209280b309c0e4e8",
+      "bytes": 15850
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

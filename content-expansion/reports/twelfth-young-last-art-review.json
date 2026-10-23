@@ -1,0 +1,1882 @@
+{
+  "createdAt": "2026-10-23T01:22:05.157Z",
+  "scope": "0449–0456: 64 page illustrations and eight independent covers",
+  "sourceSnapshots": {
+    "manifestPath": ".cache/twelfth-young-last-art-review/source-snapshot/manifest.json",
+    "manifestSha256": "90fe7bab2b651da3ea4698124175aa202bb976f8d458799517f367277811ece8",
+    "createdAt": "2026-10-23T00:46:18.748530+00:00",
+    "phase": "before full reading and artwork authoring",
+    "completeSourceAndEditorialFiles": 9,
+    "allCurrentBytesEqualInitialSnapshots": true,
+    "files": [
+      {
+        "sourcePath": "content-expansion/manuscripts/expansion-0449.json",
+        "snapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0449.json",
+        "sourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+        "currentSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+        "snapshotSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+        "bytes": 6645,
+        "exactBytesMatch": true
+      },
+      {
+        "sourcePath": "content-expansion/manuscripts/expansion-0450.json",
+        "snapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0450.json",
+        "sourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+        "currentSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+        "snapshotSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+        "bytes": 6056,
+        "exactBytesMatch": true
+      },
+      {
+        "sourcePath": "content-expansion/manuscripts/expansion-0451.json",
+        "snapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0451.json",
+        "sourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+        "currentSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+        "snapshotSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+        "bytes": 6409,
+        "exactBytesMatch": true
+      },
+      {
+        "sourcePath": "content-expansion/manuscripts/expansion-0452.json",
+        "snapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0452.json",
+        "sourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+        "currentSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+        "snapshotSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+        "bytes": 6183,
+        "exactBytesMatch": true
+      },
+      {
+        "sourcePath": "content-expansion/manuscripts/expansion-0453.json",
+        "snapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0453.json",
+        "sourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+        "currentSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+        "snapshotSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+        "bytes": 6417,
+        "exactBytesMatch": true
+      },
+      {
+        "sourcePath": "content-expansion/manuscripts/expansion-0454.json",
+        "snapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0454.json",
+        "sourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+        "currentSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+        "snapshotSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+        "bytes": 6141,
+        "exactBytesMatch": true
+      },
+      {
+        "sourcePath": "content-expansion/manuscripts/expansion-0455.json",
+        "snapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0455.json",
+        "sourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+        "currentSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+        "snapshotSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+        "bytes": 6616,
+        "exactBytesMatch": true
+      },
+      {
+        "sourcePath": "content-expansion/manuscripts/expansion-0456.json",
+        "snapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0456.json",
+        "sourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+        "currentSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+        "snapshotSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+        "bytes": 6302,
+        "exactBytesMatch": true
+      },
+      {
+        "sourcePath": "content-expansion/reports/editorial-012-young.md",
+        "snapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/editorial-012-young.md",
+        "sourceSha256": "c7ca5c83d31250f1a93c994df3e2bb64fe571bd057d6ae9934bb951b0a6f9fd2",
+        "currentSha256": "c7ca5c83d31250f1a93c994df3e2bb64fe571bd057d6ae9934bb951b0a6f9fd2",
+        "snapshotSha256": "c7ca5c83d31250f1a93c994df3e2bb64fe571bd057d6ae9934bb951b0a6f9fd2",
+        "bytes": 4912,
+        "exactBytesMatch": true
+      }
+    ]
+  },
+  "renderer": {
+    "path": "scripts/expansion-art/twelfth-young-last.mjs",
+    "sha256": "24b4911c2e2dfe0acfb87c4f948823845086cb12d94e85ca79e74c1cca2b9677",
+    "export": "twelfthYoungLastArtwork(story,index,cover=false)",
+    "dependencies": [
+      {
+        "path": "scripts/render-illustrations.mjs",
+        "sha256": "b87ce359a5e7772db51cd310d2f357e1edd45f1298cc9d9d8199d78301f58bb3"
+      }
+    ],
+    "dependencyMethod": "Recursive local static and literal dynamic imports; builtins and external packages excluded.",
+    "runtimeData": [
+      {
+        "path": "src/content/stories.json",
+        "sha256": "4efc1a33f4f9b9f0c5645b25337daff55922390956f39abcd751a936e18e255e",
+        "note": "Read at dependency module initialization; these pure SVG primitives do not depend on the story contents."
+      }
+    ]
+  },
+  "editorial": {
+    "path": "content-expansion/reports/editorial-012-young.md",
+    "sha256": "c7ca5c83d31250f1a93c994df3e2bb64fe571bd057d6ae9934bb951b0a6f9fd2",
+    "initialSnapshotSha256": "c7ca5c83d31250f1a93c994df3e2bb64fe571bd057d6ae9934bb951b0a6f9fd2"
+  },
+  "runtime": {
+    "node": "v26.11.1",
+    "sharp": "0.34.5",
+    "vips": "8.17.3"
+  },
+  "checks": {
+    "count": 72,
+    "uniqueSvgHashes": 72,
+    "uniquePngHashes": 72,
+    "uniqueRawPixelHashes": 72,
+    "decodedPngs": 72,
+    "dimensions": "1000×800 pages; 1000×1000 covers",
+    "coverViewBox": "100 0 800 800",
+    "nonblank": true,
+    "sourceEqualsInitialSnapshotAndRenderSource": true,
+    "sourceAndReviewedBodyHashesMatch": true,
+    "frozenBodyHashesMatch": true,
+    "regeneratedSvgMatches": true,
+    "regeneratedPngAndPixelsMatch": true,
+    "invalidInputRejections": [
+      "null story",
+      "unknown story",
+      "noncanonical ID",
+      "draft status",
+      "wrong age band",
+      "unreviewed story",
+      "missing provenance",
+      "empty pages",
+      "nonarray pages",
+      "wrong page ID",
+      "missing text",
+      "blank text",
+      "missing action",
+      "blank action",
+      "negative index",
+      "out-of-range index",
+      "fractional index",
+      "NaN index",
+      "string index",
+      "nonboolean cover"
+    ]
+  },
+  "visualReview": {
+    "coverage": "All 64 pages and eight covers viewed in eight 3×3 contact sheets; all eight final sheets re-inspected. Thirty-eight distinct key images enlarged at full size; final revisions re-inspected as listed.",
+    "enlarged": {
+      "expansion-0449": [
+        "p01",
+        "p03",
+        "p06",
+        "p08",
+        "cover"
+      ],
+      "expansion-0450": [
+        "p02",
+        "p05",
+        "p06",
+        "p08",
+        "cover"
+      ],
+      "expansion-0451": [
+        "p01",
+        "p04",
+        "p05",
+        "p06",
+        "p07",
+        "p08"
+      ],
+      "expansion-0452": [
+        "p03",
+        "p05",
+        "p07",
+        "p08"
+      ],
+      "expansion-0453": [
+        "p01",
+        "p03",
+        "p05",
+        "p08"
+      ],
+      "expansion-0454": [
+        "p02",
+        "p05",
+        "p06",
+        "p08"
+      ],
+      "expansion-0455": [
+        "p01",
+        "p03",
+        "p05",
+        "p06",
+        "p08"
+      ],
+      "expansion-0456": [
+        "p04",
+        "p05",
+        "p07",
+        "p08",
+        "cover"
+      ]
+    },
+    "revisionRechecks": {
+      "expansion-0449": [
+        "p08",
+        "cover"
+      ],
+      "expansion-0450": [
+        "p02",
+        "p05",
+        "p06",
+        "p08",
+        "cover"
+      ],
+      "expansion-0451": [
+        "p06",
+        "p07",
+        "p08"
+      ],
+      "expansion-0452": [
+        "p03",
+        "p05"
+      ],
+      "expansion-0453": [
+        "p08"
+      ],
+      "expansion-0454": [
+        "p05",
+        "p06"
+      ]
+    },
+    "notes": [
+      "0449：蒲蒲的奶白卷毛、紫背心木扣与杏点的金色五角和蓝马甲保持一致。最初六小团、各三小团和连接的长绒、试用各自不够、用三小团交换另一半长绒、先试枕头再同意、最终整条围脖与鼓起蓝枕顺序对应正文。修复第六页长绒与卷的连接，末页和封面围脖下移露出嘴；杏点自然侧躺在枕上。",
+      "0450：苔苔黑短发、紫裙白鞋和卷卷浅绿布身、深绿角、短翼、紫印连续。高护栏屋顶、先摸硬印、干刷无效、盆边讲帽的回忆、托入温水、紫水与印子变淡、清水漂净轻压、隔日干透后抱指尖依次呈现。帽子不误画成当前物件。调整女孩手部接触与图层、托抱姿势、短翼与指尖接触，保持清洗前后变化清楚。",
+      "0451：银灰狐狸白耳尖白尾尖蓝马甲、乳白羽椅四木腿与椅背眼保持一致。换椅和手帕没有解决发笑，离开座位后尾尖碰椅背才发现原因，移开并抱尾验证，再坐回把尾巴放腿上。修成羽枝清楚的椅背，第一页幕布下露船底；尾巴移至腿上不挡脸。开幕后木偶船圆窗内布鼠浇花，末页手拍椅腿。",
+      "0452：棕松鼠绿背带裤与栗壳蜗牛蓝帽固定，龙只出现在书中与角色扮演。叶喇叭仍轻声、帽沿露珠启发、落叶小山和松果花、轻摇松果并假装浇花、末页合书休息依正文顺序。叶喇叭窄端调整至嘴前，手托住宽端；指松果手臂缩短，未画成真倒水，也未把蜗牛变成真实大龙。",
+      "0453：浅灰女鼠的紫背心、米白裙与无实体淡蓝风线保持一致。长布遮全窗、拉侧后晃眼、卷下半让风通过、回凳体验、织奶白短帘、成帘只遮上半后继续织花布依次可辨。第五页补上宽脚凳并确认踩稳，抬手确实够到布卷；织机右移使人物的脸与摸耳朵的手清楚。",
+      "0454：金沙男孩三撮毛、海蓝背心白扣赤脚与圆眼镜紫裙奶奶保持一致，两间相邻贝壳屋位置清楚。被角盖近鼻、抱卷被、开门望暖窗、主动再试、右手拍左臂、双臂自抱、手放被面入睡与晨间奶奶带早餐前来对应正文。修正坐姿自抱高度，使手臂落在上臂和胸前。封面独立安排站立自抱与床。",
+      "0455：灰褐浣熊黑眼圈环尾浅绿背带裤、柳篮四木脚和蓝结固定。满篮到衣物全移地毯、一次抱太高遮眼时在楼下停住、请篮继续休息、衬衫袜子床单三组与第三趟宽平台歇脚、送完后空地毯与空篮依序呈现。降低首图衣物位置使堆叠确实在篮内；长凳坐稳、手抱床单和末页扶篮休息已放大核对。",
+      "0456：灰褐水鼠浅绿睡衣和圆头木勺柄末两小脚固定，木勺没有手臂。讲海卡住、坦承未知、勺头靠枕、明确的想象泡泡、汤海中朝上的小碗和过大土豆、靠岛盛汤、末页回现实拉好布巾依序呈现。小木勺始终留在现实卧室；汤海只包含想象的碗船与土豆，没有把现实勺带入。独立封面展示汤海，方形裁剪保留碗船和土豆。"
+    ],
+    "limits": "Simplified original vector picture-book style. Contact sheets check all compositions and continuity; selected key pages enlarged. No bitmap painting, audio QA, browser layout QA or child-user testing is included."
+  },
+  "stories": [
+    {
+      "id": "expansion-0449",
+      "title": "长云绒换来小山包",
+      "sourcePath": "content-expansion/manuscripts/expansion-0449.json",
+      "sourceSnapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0449.json",
+      "status": "text-ready",
+      "ageBand": "3-5",
+      "pages": 8,
+      "artworks": 9,
+      "sourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+      "initialSourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+      "bodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "reviewedBodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0450",
+      "title": "紫印子游进水里",
+      "sourcePath": "content-expansion/manuscripts/expansion-0450.json",
+      "sourceSnapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0450.json",
+      "status": "text-ready",
+      "ageBand": "3-5",
+      "pages": 8,
+      "artworks": 9,
+      "sourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+      "initialSourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+      "bodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "reviewedBodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0451",
+      "title": "羽毛椅的痒痒藏在哪",
+      "sourcePath": "content-expansion/manuscripts/expansion-0451.json",
+      "sourceSnapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0451.json",
+      "status": "text-ready",
+      "ageBand": "3-5",
+      "pages": 8,
+      "artworks": 9,
+      "sourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+      "initialSourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+      "bodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "reviewedBodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0452",
+      "title": "露珠龙不用大声吼",
+      "sourcePath": "content-expansion/manuscripts/expansion-0452.json",
+      "sourceSnapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0452.json",
+      "status": "text-ready",
+      "ageBand": "3-5",
+      "pages": 8,
+      "artworks": 9,
+      "sourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+      "initialSourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+      "bodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "reviewedBodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0453",
+      "title": "柚绵的窗帘只织半扇",
+      "sourcePath": "content-expansion/manuscripts/expansion-0453.json",
+      "sourceSnapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0453.json",
+      "status": "text-ready",
+      "ageBand": "3-5",
+      "pages": 8,
+      "artworks": 9,
+      "sourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+      "initialSourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+      "bodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "reviewedBodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0454",
+      "title": "粒芽的两只手值夜班",
+      "sourcePath": "content-expansion/manuscripts/expansion-0454.json",
+      "sourceSnapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0454.json",
+      "status": "text-ready",
+      "ageBand": "3-5",
+      "pages": 8,
+      "artworks": 9,
+      "sourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+      "initialSourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+      "bodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "reviewedBodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0455",
+      "title": "篮婆婆今天只装阳光",
+      "sourcePath": "content-expansion/manuscripts/expansion-0455.json",
+      "sourceSnapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0455.json",
+      "status": "text-ready",
+      "ageBand": "3-5",
+      "pages": 8,
+      "artworks": 9,
+      "sourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+      "initialSourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+      "bodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "reviewedBodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "review": "full-text-reviewed"
+    },
+    {
+      "id": "expansion-0456",
+      "title": "汤海里的小碗船",
+      "sourcePath": "content-expansion/manuscripts/expansion-0456.json",
+      "sourceSnapshotPath": ".cache/twelfth-young-last-art-review/source-snapshot/expansion-0456.json",
+      "status": "text-ready",
+      "ageBand": "3-5",
+      "pages": 8,
+      "artworks": 9,
+      "sourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+      "initialSourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+      "bodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "reviewedBodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "review": "full-text-reviewed"
+    }
+  ],
+  "sheets": [
+    {
+      "id": "expansion-0449",
+      "path": ".cache/twelfth-young-last-art-review/expansion-0449-sheet.png",
+      "sha256": "5a62ec30d6247a22069da928938fcc669e9781cb46a43b6217177d6f6916ef6e",
+      "width": 1020,
+      "height": 846
+    },
+    {
+      "id": "expansion-0450",
+      "path": ".cache/twelfth-young-last-art-review/expansion-0450-sheet.png",
+      "sha256": "86900f57949ea164ff0c2afa81391bc25b35c4205c787a16903b05b4528e7640",
+      "width": 1020,
+      "height": 846
+    },
+    {
+      "id": "expansion-0451",
+      "path": ".cache/twelfth-young-last-art-review/expansion-0451-sheet.png",
+      "sha256": "1fdd3c9623ce5f01ce436c12b6b867cbd182406f78d333348c5f9f02fe22bbfd",
+      "width": 1020,
+      "height": 846
+    },
+    {
+      "id": "expansion-0452",
+      "path": ".cache/twelfth-young-last-art-review/expansion-0452-sheet.png",
+      "sha256": "85c661eba1b843ef4644e67f5690a03861ce2f386f4a879b1d45970ec24998c1",
+      "width": 1020,
+      "height": 846
+    },
+    {
+      "id": "expansion-0453",
+      "path": ".cache/twelfth-young-last-art-review/expansion-0453-sheet.png",
+      "sha256": "dea5ef2854370d8232cfb91b429d65b58a79d951a736e66df6006aad3ad65da9",
+      "width": 1020,
+      "height": 846
+    },
+    {
+      "id": "expansion-0454",
+      "path": ".cache/twelfth-young-last-art-review/expansion-0454-sheet.png",
+      "sha256": "5a8ca059e0e7a9a496ec290733ab6d10af8cd6bdb8a0516d7404f4b71fa57478",
+      "width": 1020,
+      "height": 846
+    },
+    {
+      "id": "expansion-0455",
+      "path": ".cache/twelfth-young-last-art-review/expansion-0455-sheet.png",
+      "sha256": "1e54ff781db494e141ce174c4920b2a4fc2d4874b6964804e4d7a41ad1968287",
+      "width": 1020,
+      "height": 846
+    },
+    {
+      "id": "expansion-0456",
+      "path": ".cache/twelfth-young-last-art-review/expansion-0456-sheet.png",
+      "sha256": "eec53e7fb098ee3582232044060980fd180bce29dc21c43ce4e7241cbcde52a9",
+      "width": 1020,
+      "height": 846
+    }
+  ],
+  "images": [
+    {
+      "id": "expansion-0449",
+      "page": "p01",
+      "sourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+      "bodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "reviewedBodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "svgSha256": "64732256e62891e31ec2bbb044e04020120aacde7f56d6edee54457fce16ba2c",
+      "pngSha256": "4ea295294183eb6449e65497580876ef5b7a5270853c9d3867cda60b69c9cf65",
+      "pixelSha256": "49592e103dfa25eb9d4f191d1a236b61e1d57f246ba5f2779a7f31c89da2a8fa",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.475409642438915,
+        17.988907270924425,
+        27.288253727605657,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0449/p01.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0449-p01.png"
+    },
+    {
+      "id": "expansion-0449",
+      "page": "p02",
+      "sourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+      "bodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "reviewedBodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "svgSha256": "b3ed3f7a9c6fa0d5e311b9a9c795be1dde27f75e7e6ec801f91e2dd3cfeb1a5f",
+      "pngSha256": "6151faab8485c76c129f37ded7df930cef0a4b6bded2f3568fdda5dccdbebc81",
+      "pixelSha256": "8390a4fdd1f4e573557d5287cedab70ee250934e69bf2aad77dc78c6954dbe6a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.893894925130155,
+        17.45181233786007,
+        26.345649138534906,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0449/p02.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0449-p02.png"
+    },
+    {
+      "id": "expansion-0449",
+      "page": "p03",
+      "sourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+      "bodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "reviewedBodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "svgSha256": "4e9bf0517b435218bbe89f8a7635eab0a89f35ab2bc7ba4f7daac8b7fa0360c0",
+      "pngSha256": "f56284a2b3fb44c30d4162d2752f92f9114121d898f8e692cd3f1227213e4736",
+      "pixelSha256": "2ff77862a2970d4d4149932e57ee7fe0f046d6cdff9586713b8c3fa196277f24",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.824210653037586,
+        16.147384967220297,
+        25.594267386107234,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0449/p03.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0449-p03.png"
+    },
+    {
+      "id": "expansion-0449",
+      "page": "p04",
+      "sourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+      "bodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "reviewedBodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "svgSha256": "b2afd2ffb973f5344c6263a4e0a6b75c5d2b2a2d0290cba3173e84c6f7977f3e",
+      "pngSha256": "0861cb1130bf129e9ea2a64e3f0af257ea883eb75024be04e54098a23c7ed9ff",
+      "pixelSha256": "9be658cc7e1bc69e312da7d4964d914344f7ebaaa60bee467c6b17777a46a1a6",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.228922784157422,
+        16.265606401453354,
+        25.379298721187123,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0449/p04.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0449-p04.png"
+    },
+    {
+      "id": "expansion-0449",
+      "page": "p05",
+      "sourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+      "bodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "reviewedBodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "svgSha256": "fb8aae2e7c8893cd33dbd79a4424437081b1e44f7c1e8c69bc03b84cbd8667a7",
+      "pngSha256": "e3ae9ac7881d4b65af5214fed2f72ba5c2dd483cdc3caeb0a1cdb8223eb4f952",
+      "pixelSha256": "8633a6ecda580377e38148592b5254e5a3e7da14031c79bb956324ae0bc15b9d",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.245120507727197,
+        16.302611208450887,
+        25.367476934979027,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0449/p05.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0449-p05.png"
+    },
+    {
+      "id": "expansion-0449",
+      "page": "p06",
+      "sourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+      "bodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "reviewedBodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "svgSha256": "a7b2b03aab4124610a91a442f6f4068dd614ef2ed19c9d076a7f722f06898cad",
+      "pngSha256": "3c151399b6f02081ae78e307e636e6cadc7437b76d625ae9ac336869a724cca7",
+      "pixelSha256": "2c628f1c6145f518bc4e63ba24f90df82441c2c61921b3e8862abb868a0b5de9",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.347367565744623,
+        16.00185251793378,
+        25.074569300018563,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0449/p06.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0449-p06.png"
+    },
+    {
+      "id": "expansion-0449",
+      "page": "p07",
+      "sourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+      "bodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "reviewedBodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "svgSha256": "ef2c4fffa991ea2ae1508a0a77baad7612cd72e8c98bde1f27d8e6d4e672fe5a",
+      "pngSha256": "919903df361860700f7b844e7ae7520792d3bd7d192387a6ea87becdca60629a",
+      "pixelSha256": "7624a6de88f8c420903ebf9a774873766ceb52f8ffc2960a9c026e329d5dbbbc",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.01110419455877,
+        17.359295730672233,
+        25.756032878435164,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0449/p07.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0449-p07.png"
+    },
+    {
+      "id": "expansion-0449",
+      "page": "p08",
+      "sourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+      "bodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "reviewedBodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "svgSha256": "8ee3180f366c3c8a3c9cdec86d16d6811354dfc777e6bce03d52f8a781948d91",
+      "pngSha256": "f88dae34bc278e899058beb9a2e02d9f6cab7dfa15e187390433dc651af9975e",
+      "pixelSha256": "56877ca4501631fbaabefb8824024622e1df83997ad94b167013a4db00b3e090",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.90074115741334,
+        17.0340390364589,
+        25.357712485768854,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0449/p08.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0449-p08.png"
+    },
+    {
+      "id": "expansion-0449",
+      "page": "cover",
+      "sourceSha256": "6f2e4d631e6c95ba19baf8fa0263c52809eecbeb2f05f93b4fc955353d8bd2b4",
+      "bodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "reviewedBodySha256": "eabfbf362ad0c768e20478580aa23f5eb88e3327be67e33c81bac03d17010a80",
+      "svgSha256": "5fe67a8fab363ea2cc667aa577c3b314562673d0ce4b94f2ec935e922d1b79f9",
+      "pngSha256": "aa85bf7df1dfdc8066bfd567b9b59fadfb86918088767d4fb23a326cfac8369a",
+      "pixelSha256": "5c9d681620315f206606b548c0c52fc2e97c6d428549809afe1fff738fca76f3",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        20.89028540762476,
+        17.848999544528056,
+        25.737955085242604,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0449/cover.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0449-cover.png"
+    },
+    {
+      "id": "expansion-0450",
+      "page": "p01",
+      "sourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+      "bodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "reviewedBodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "svgSha256": "7ea6f1c0d9fb7fc3b7f28ab96d9b4d8ea589677e3fbc6a7a99284398bf03a660",
+      "pngSha256": "52cb3fe9fb75fe5611ed96e155c8f9f2f2f505047903ab685cfe01d9f98d578b",
+      "pixelSha256": "346d13e91c91d54fe65917bb6af766df3bffb819ec826994fae7a8368a2ccfa0",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.663740637390884,
+        16.2083837489593,
+        24.143593890689917,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0450/p01.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0450-p01.png"
+    },
+    {
+      "id": "expansion-0450",
+      "page": "p02",
+      "sourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+      "bodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "reviewedBodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "svgSha256": "d9ef6ae11e3b5005f5c2e87b2cb27e4349a5def41697810fec2b8610d69f4caa",
+      "pngSha256": "446685a2d1e91b77b356050eca1fe7dc13ed92654716982c2031c7950ed95eb8",
+      "pixelSha256": "1918a14d45b2ac21b7b7d53f3765405a4cfa89e068c0e4af9313d5b946fc1199",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.699847851103373,
+        16.137916918005438,
+        24.423861123997195,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0450/p02.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0450-p02.png"
+    },
+    {
+      "id": "expansion-0450",
+      "page": "p03",
+      "sourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+      "bodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "reviewedBodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "svgSha256": "67d6bfc9ddc3f152d9b9fa0c9ea600e31ae455948a0bb73b8791e3233b138158",
+      "pngSha256": "34898332348c90b7b324e930d4c2f4616a836a0b7bf1cf79500805587a64b53e",
+      "pixelSha256": "e25b444dec7dd56c59239d09136458833724d191db68fc30edb1796a195c6785",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.626743871370502,
+        16.19503264484604,
+        24.596467092455395,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0450/p03.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0450-p03.png"
+    },
+    {
+      "id": "expansion-0450",
+      "page": "p04",
+      "sourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+      "bodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "reviewedBodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "svgSha256": "7b4550147ba91a1a1a25508edcaee08f0620d0237d688020a23b45e0c2310e60",
+      "pngSha256": "476ef4712dae02ce11e58350a7cb2c072ced9a3fdc0d1af436a6a970047daff3",
+      "pixelSha256": "8ccbabf252760c82433b734f7974c6d283cd5469c7fb2080aa5ba46b136fe5aa",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.439861586609457,
+        15.845724425834215,
+        23.65223326718682,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0450/p04.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0450-p04.png"
+    },
+    {
+      "id": "expansion-0450",
+      "page": "p05",
+      "sourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+      "bodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "reviewedBodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "svgSha256": "4b7931e2188041cb98855518e98fb593f51099f0808e5fad425b74d3a9883285",
+      "pngSha256": "ed2f68499cec3381dc96becae33facfd9b26eb8c01fd452f8ffa9e7ca70e57cd",
+      "pixelSha256": "76e427f39cf0e09681127e80be52c717f8c2a113ca70047b30ce985f0e815c43",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.551939157902291,
+        16.245011623556604,
+        24.15067304794007,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0450/p05.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0450-p05.png"
+    },
+    {
+      "id": "expansion-0450",
+      "page": "p06",
+      "sourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+      "bodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "reviewedBodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "svgSha256": "c54847e25faf8dea1f8af5704f87e070fad7cc9a61d8e43e16a05b252e92adb1",
+      "pngSha256": "1a707211a92bf2c3109eae4b8441d3adf6899026149aebdd001f0f4d92d80c1c",
+      "pixelSha256": "171b2e18b1bef90d18071fbc53b04d896995587dd250f3526be67904ab5f37e9",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.615934860091524,
+        16.320830352158623,
+        24.05211664729674,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0450/p06.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0450-p06.png"
+    },
+    {
+      "id": "expansion-0450",
+      "page": "p07",
+      "sourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+      "bodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "reviewedBodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "svgSha256": "185839270068549566b740c9d78331734105798672eedb0afc9e16467ff188dc",
+      "pngSha256": "130d220b6418f2c74bb5056841d4717aa9e67848380748881bc81a2100137f66",
+      "pixelSha256": "5a829b3e9d0d4be46f0c87130a14620309af52a91c9db805c44d2b731f50091f",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.203999590497396,
+        16.032422326999473,
+        24.283289153847353,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0450/p07.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0450-p07.png"
+    },
+    {
+      "id": "expansion-0450",
+      "page": "p08",
+      "sourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+      "bodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "reviewedBodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "svgSha256": "09fb4ea9c4b4f13639353952ac24f55e03bb3981d285d2e04247def2e303acc0",
+      "pngSha256": "395bf35cce83582a41d0fd0fa581a10aa6b93764c385b0c7f22827f6cbea1de5",
+      "pixelSha256": "cafb825b3146d8f9e92149b57bd5a0a40d8f43b0b867166753faf4e172b49c82",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.937644772253588,
+        16.225835555766118,
+        24.18092902089066,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0450/p08.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0450-p08.png"
+    },
+    {
+      "id": "expansion-0450",
+      "page": "cover",
+      "sourceSha256": "dab18960bdc92139bde975408017ad936a0e08d8899e641d2365c0301fe10050",
+      "bodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "reviewedBodySha256": "dde2ad3221a36fef7dd2e423fb033e0f87efe23db612cb11c322beb631126d23",
+      "svgSha256": "95abd40c94b1c8e72753d536d17e25b9b41f32c3abafc2948825e4bcae1fc75e",
+      "pngSha256": "d1bdb7fe1b1650501818bf2fe3301c013c2025d81846ab71e735b38f0ddbffb3",
+      "pixelSha256": "5457c1ce2961775ed014842ee48032da29a4b8b9d6fd0db4d0b1924412b57572",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        15.022113514197946,
+        16.88247963417343,
+        24.77867530822835,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0450/cover.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0450-cover.png"
+    },
+    {
+      "id": "expansion-0451",
+      "page": "p01",
+      "sourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+      "bodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "reviewedBodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "svgSha256": "3046e39b4e8881fc551da68e228410364309b505e3fea9f325c7fcbef8033a7d",
+      "pngSha256": "ed608e917b7e840896e3b72eebb6b895681ead0b69a9744f379a5c55384b6c92",
+      "pixelSha256": "690056e550e28b344c5f72671ff5b143144d2e402e699859fe8882bfb8e4745f",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        32.868058133594836,
+        22.58077106980908,
+        21.771979381691523,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0451/p01.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0451-p01.png"
+    },
+    {
+      "id": "expansion-0451",
+      "page": "p02",
+      "sourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+      "bodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "reviewedBodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "svgSha256": "30811c32cfc40a9408e2d9fcdc8bbc67bd8b18f6a0da06c242e01350dc4106de",
+      "pngSha256": "b148cfbfcab57c86bde521e5e8385db6e966a73828fc981199ce8ae3e4a4649b",
+      "pixelSha256": "06c5fb8e5ee74bcf0178a715e7fca1a3316887551c38902fd7dfd8d26879e4eb",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        34.09875880139139,
+        22.665235189736784,
+        20.485946618817366,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0451/p02.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0451-p02.png"
+    },
+    {
+      "id": "expansion-0451",
+      "page": "p03",
+      "sourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+      "bodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "reviewedBodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "svgSha256": "23c04706f1306380533da735f7cbad5b5f3b66ced53bfd7bd2e481028a333c6a",
+      "pngSha256": "8308456d4e23fdba417e587eda7d9ffe69c4195fd42603f28d43c4a22e123467",
+      "pixelSha256": "3b7b5e6bb33344b80d6a562781fde3a5a3411dcde4667f02e9ce79d33ea4382e",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.522919347005555,
+        22.18354445104363,
+        20.28980465569046,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0451/p03.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0451-p03.png"
+    },
+    {
+      "id": "expansion-0451",
+      "page": "p04",
+      "sourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+      "bodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "reviewedBodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "svgSha256": "f3c0770569c8eb529c43cd3b137ec834b4c34264c72ca371caf62f606b4a9c36",
+      "pngSha256": "3666d1dcc181e3552b9d2074bf0e0e0c96db829c46e5dc91d497f5ea737e99cb",
+      "pixelSha256": "cc57bffcd90214af128376ef6c6461efbe0d6f3c939766a15163a95c6ae3625d",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        32.9219774683326,
+        21.550606946784523,
+        19.70913026275542,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0451/p04.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0451-p04.png"
+    },
+    {
+      "id": "expansion-0451",
+      "page": "p05",
+      "sourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+      "bodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "reviewedBodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "svgSha256": "5852b2967d7b9ebb04f6625c49e4542e826bf6fabdc1057f6edb6f0c7b968ee2",
+      "pngSha256": "49d33496c2eab2169f6c58f01f7213fdfc489aff549ae58ba90c968079c61ebe",
+      "pixelSha256": "12404f44c0f042b72faf26e01255d6c78e51ef899e360262b499328e9c8401d7",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        32.03530938395449,
+        20.682764843056983,
+        18.89528935216901,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0451/p05.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0451-p05.png"
+    },
+    {
+      "id": "expansion-0451",
+      "page": "p06",
+      "sourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+      "bodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "reviewedBodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "svgSha256": "4032c56ce0db45d15007b85335018f58fb8f3903419d25e44093ce1026b6e3c2",
+      "pngSha256": "eae860bf6216e8c3a5654ff09c26c93c8f96e6f3733c16f51019fdb2d6ca3020",
+      "pixelSha256": "2c6d3c9c8c916024de65401674b321b60d2e915ca5cdf19bf66fcd65e4427a8b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        32.18309327746117,
+        20.912470800147922,
+        19.275702372200467,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0451/p06.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0451-p06.png"
+    },
+    {
+      "id": "expansion-0451",
+      "page": "p07",
+      "sourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+      "bodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "reviewedBodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "svgSha256": "ea98771b68ef179856283376f6ec61f445cafbf3ac5566fe5411f781bdd55b57",
+      "pngSha256": "92e17a82e751a32da6f2b6430cac407ba787fb4790c5c90397e08740501c5221",
+      "pixelSha256": "53a1b1d1067dbadda4b4d97c101cb65a24098ea0170a6ee352eacb4ecb6e1e6d",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        24.75529967427588,
+        19.982036363358887,
+        23.27699061972907,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0451/p07.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0451-p07.png"
+    },
+    {
+      "id": "expansion-0451",
+      "page": "p08",
+      "sourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+      "bodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "reviewedBodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "svgSha256": "678e4bbedc15fd5e844d8a76a4cae4d5bdc2d876f1687f97d90f44aa43dfffb1",
+      "pngSha256": "1f0ab544610ddcce7073c227cb2dcadabef858afbf8a4a80efce30608acaeafb",
+      "pixelSha256": "1965ad426ea807a93314e30b60506242b553ded675dfb07e7c4a19df83fbb22a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        24.732534737878044,
+        20.090949379777584,
+        23.404392525896263,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0451/p08.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0451-p08.png"
+    },
+    {
+      "id": "expansion-0451",
+      "page": "cover",
+      "sourceSha256": "69d366fd878ade1473b4f0915eede11fc0aea9bf868010eb4a61755bdb85a0c0",
+      "bodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "reviewedBodySha256": "92f9a0d0c31171a76c77f2d61d6b1769a98a7aec432e1e8c9fcb718c38c9bf4e",
+      "svgSha256": "5c974d250ca1deef652e14886d1752a64f07ecde1698945bb1969545caf08061",
+      "pngSha256": "bf3163d6f0c8a846e0e99c2028d80b5e0b34986c3e6d4df43b5752696fba5613",
+      "pixelSha256": "f00e866a53162c6f0741b17920dbdd9e9c26ecbce2a6cb16f6458845c3062d98",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        26.224000835545546,
+        21.026860496960474,
+        24.312533565825827,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0451/cover.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0451-cover.png"
+    },
+    {
+      "id": "expansion-0452",
+      "page": "p01",
+      "sourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+      "bodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "reviewedBodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "svgSha256": "d44f362ce635ec5e3af5cc0797f953ed29a919e6bb76433101a87a669e084c5d",
+      "pngSha256": "3ec45a73c249f838cb061eacbfec8a71c9c99c22f93f0eda122de15780e095fc",
+      "pixelSha256": "f67693818682f08e6637275f287938ae298d73f99c751c97d1856da40b1a0c46",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.603460427469091,
+        20.501445797413712,
+        25.83827909243052,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0452/p01.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0452-p01.png"
+    },
+    {
+      "id": "expansion-0452",
+      "page": "p02",
+      "sourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+      "bodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "reviewedBodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "svgSha256": "6c11946e4f04c5a57952fb6fbc125531446b41ebc25af47c812033d3015d1030",
+      "pngSha256": "38bc9f355c3fffe4c51b71b4b2597f88ca1c0acff1aab5d7f89c5d98ed4b6695",
+      "pixelSha256": "9b7f3682dea4db7c28436e3381ddf014c03acfc34d4400bcc99a634136ae028f",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.505519388960593,
+        20.205440225729266,
+        25.56919499908352,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0452/p02.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0452-p02.png"
+    },
+    {
+      "id": "expansion-0452",
+      "page": "p03",
+      "sourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+      "bodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "reviewedBodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "svgSha256": "9b75f4253eaaf6c9f8644fbc99c5d208743bbe0a524d549f3925b646692873cb",
+      "pngSha256": "b463096b9982171e4fc99e23c1e6b2700ec8c311d38a682a693f8048c37531bf",
+      "pixelSha256": "3ece9c509e326546ce6cac5b82568d21d0f9e383120847090b96315132c08dd8",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.762588172834425,
+        19.81611370467801,
+        25.254585143182908,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0452/p03.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0452-p03.png"
+    },
+    {
+      "id": "expansion-0452",
+      "page": "p04",
+      "sourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+      "bodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "reviewedBodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "svgSha256": "0b8f34510707a8750c95cf99346cbffd5dd2f7ad42811daf27ec39145f8ab5f9",
+      "pngSha256": "344dde99d9b9214583a826ae9c2faf0a3ddee90f40855a3421dfd539e5c99484",
+      "pixelSha256": "2d38f291dfed36030da2578323667586ff129cc0708df5ba7fe4b4d5986f68d3",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.662573474848292,
+        20.151712068287072,
+        25.57577965540729,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0452/p04.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0452-p04.png"
+    },
+    {
+      "id": "expansion-0452",
+      "page": "p05",
+      "sourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+      "bodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "reviewedBodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "svgSha256": "bed5ff66ee4f541ce20c4b58fab5a4a1b9055fef6a84e29b393b47531d5a1048",
+      "pngSha256": "4789b4761e9d7026e567bd0f1615bfdab9a682b009055141c40f3b1ba1068447",
+      "pixelSha256": "f329073f13e6a078bf359a367e7a74487539638055180102d23115776e016862",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.692623636506978,
+        20.773119453616182,
+        26.1249201100858,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0452/p05.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0452-p05.png"
+    },
+    {
+      "id": "expansion-0452",
+      "page": "p06",
+      "sourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+      "bodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "reviewedBodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "svgSha256": "128a5c246a9c295fa74e8e15c973fa386b91997614e00eb57cda227d3dc4a481",
+      "pngSha256": "a81c2b5a9b68d3951e242719c7e2b35c084842680b974681f4ff0462dafafd39",
+      "pixelSha256": "9152b613209e299002a89575928c81074555b26cc25cd0fc7ae7d31c2ecd7317",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.382136099360345,
+        19.620557306121874,
+        25.271817657644508,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0452/p06.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0452-p06.png"
+    },
+    {
+      "id": "expansion-0452",
+      "page": "p07",
+      "sourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+      "bodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "reviewedBodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "svgSha256": "503e690e720b13354a27ac9ac6f5dddff35cc0a169b925aa03097d94577a7147",
+      "pngSha256": "522fccbc1e35cd1e927b9e9d9ed9f34d0e8726ad3ca03a61189a82b7f08579c7",
+      "pixelSha256": "1b2aa5256086f9a33d15f3d14d29ecacfd08791023b138b0f9021dcf7be25e34",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.28266696790581,
+        19.67277123899867,
+        25.321648817215195,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0452/p07.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0452-p07.png"
+    },
+    {
+      "id": "expansion-0452",
+      "page": "p08",
+      "sourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+      "bodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "reviewedBodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "svgSha256": "235a270eef9efb2bd7d1597ab25a0a0f1d1eefc532db877c712c0bba5a3a5bce",
+      "pngSha256": "2cfe14bcd22af4dcf990e2ad94f7fb1049f055f9b9d2e4d58a8a8bb901a8f4a7",
+      "pixelSha256": "28cf7ca9eab10291da12ee855a4d3828aa5b5180a00b9a664034b6ff0d5a2cf4",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.244843168487497,
+        19.93259754487399,
+        25.47245128942237,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0452/p08.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0452-p08.png"
+    },
+    {
+      "id": "expansion-0452",
+      "page": "cover",
+      "sourceSha256": "fb9837eab672a4e25239669e9a56922d17bba3616a7021e780cf11ae4ee2ff35",
+      "bodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "reviewedBodySha256": "0dade6e008e8f0a35551e6db3cb609baa1db54a0be76116f099b5e7774a98bd0",
+      "svgSha256": "3edc704bc2ec87fff9a042d728b33ea4da2520402a141a5cf33e92cbdc684c40",
+      "pngSha256": "589caeebe33589f42de942d93d8a9323af9e703b4bb1541b565cf7946e6cc099",
+      "pixelSha256": "be10bcd0fad9b561308f6b89686e61c5b16b62f8d503dba7dd13386456eae693",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        13.323139032227953,
+        21.903166516478873,
+        27.257075286256846,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0452/cover.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0452-cover.png"
+    },
+    {
+      "id": "expansion-0453",
+      "page": "p01",
+      "sourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+      "bodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "reviewedBodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "svgSha256": "8d9477c14f95c3aeb147932b0f2244f0c397a2c2c80aa187fd13d95e1b215fe6",
+      "pngSha256": "9264fa40eccf2aaab7de65e5bfbfb6f6a5b005bbb862e0850f7e7f17365c0451",
+      "pixelSha256": "747b4e3194c0e1498976505d9219549c0e7948722b0b074c1470b19994e3fbd3",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        12.967563039344176,
+        16.162801270330835,
+        21.434349170041692,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0453/p01.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0453-p01.png"
+    },
+    {
+      "id": "expansion-0453",
+      "page": "p02",
+      "sourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+      "bodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "reviewedBodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "svgSha256": "5d21d852d8c1a34f29ed117a6c9a151d99fcacf8f3c51fa54530adce5c1505ed",
+      "pngSha256": "1a57b65f2acce41d46416b5394950970fdf9389c9c574932a2cc2e34fcac4d7e",
+      "pixelSha256": "b38bcf3b9a6406800ba0300268b3275e5de5a40dddd1d55fd2d8acc2c796335e",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.892537461330802,
+        17.553305016666947,
+        20.62924879400779,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0453/p02.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0453-p02.png"
+    },
+    {
+      "id": "expansion-0453",
+      "page": "p03",
+      "sourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+      "bodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "reviewedBodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "svgSha256": "63db8586fa9579c999a6a716a0cb9205ac4732c6f4f62733cb4f30854c6635d9",
+      "pngSha256": "8bf4b2b0077c59a04f1d51347d42f3079ca7ff213923fabe9efd5fc95530689f",
+      "pixelSha256": "f4abd43308e478be8ce35b1bc9073a7eb8ff9d1f5e8fae30b6547c4c2f7ee609",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.97785520495119,
+        17.62480792980256,
+        20.68146304576984,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0453/p03.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0453-p03.png"
+    },
+    {
+      "id": "expansion-0453",
+      "page": "p04",
+      "sourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+      "bodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "reviewedBodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "svgSha256": "c7a4078a73fea1c13dab316ffb0be442f1f3b7938bd3601d574dd190fee5ae3c",
+      "pngSha256": "a3311ff7348bee071145e25682f4d4107604731b03fe492d81ed8720488d660b",
+      "pixelSha256": "1ba492c85c81c7866d6f87b201738299c8837d001ff55eb3fc32abdf95013ce4",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.505907546134539,
+        16.34412305218276,
+        21.501373742387432,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0453/p04.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0453-p04.png"
+    },
+    {
+      "id": "expansion-0453",
+      "page": "p05",
+      "sourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+      "bodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "reviewedBodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "svgSha256": "fe469f6d85cab1a0561e2b725f036ad65dff3bcc709be7af4af24c421301b76b",
+      "pngSha256": "4fda2897d9c887312b0d1f52241f10fd72ca93b69d4c283d79715c14a01951cf",
+      "pixelSha256": "6c1069b283bae06d2a0ef74e62acf2d8e586d5cf5b54f5e249112309efe1f8a3",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.128153535291416,
+        17.00554294164777,
+        21.564906581761655,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0453/p05.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0453-p05.png"
+    },
+    {
+      "id": "expansion-0453",
+      "page": "p06",
+      "sourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+      "bodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "reviewedBodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "svgSha256": "99b85352bc92ed68a4ad120dac97d669b85185e27c6b9c596fa598fc8740b923",
+      "pngSha256": "69676e1cfc94f15a4709a892e7b16011f2ef4fae2ea79371e95aae6456bb539d",
+      "pixelSha256": "0566a4a7a65585ef52e572ee2ffeb6c6be0c360901f28995260b95be99380642",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.550573440211295,
+        17.325459448707477,
+        21.850420724166845,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0453/p06.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0453-p06.png"
+    },
+    {
+      "id": "expansion-0453",
+      "page": "p07",
+      "sourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+      "bodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "reviewedBodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "svgSha256": "3e582f3b021199e31408950274aa45dd0ecfd9a7eb118ed2f48017eb02109e8a",
+      "pngSha256": "634aa5f84214cd666a5477b86d6960b2fe750a015095015d7727f1fc884f5965",
+      "pixelSha256": "3b9b5c2cb428fd612c458e4316b54e07244f2e245d107554556414b55fb47bb9",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.608002658805825,
+        17.047674688521,
+        21.19251736661946,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0453/p07.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0453-p07.png"
+    },
+    {
+      "id": "expansion-0453",
+      "page": "p08",
+      "sourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+      "bodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "reviewedBodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "svgSha256": "862a0c3a2a026c93bd021653f76bdf988246899fcab4b2bc2bc7d1bb27df1722",
+      "pngSha256": "7b50f876b1d6ea00b7da3d1d0c66dd78b8e19b33cfa43c6796028cc0b2074fff",
+      "pixelSha256": "94e64fd30c21520c1ffa64950068f1ff278fc7a44b627dca755d8bbe210930e6",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.693155224678815,
+        17.073710524756507,
+        22.578219304674644,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0453/p08.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0453-p08.png"
+    },
+    {
+      "id": "expansion-0453",
+      "page": "cover",
+      "sourceSha256": "cd7ad35c855d0a8b7db9d25a18867b9903c66d93ba997012bc8905a0204d054f",
+      "bodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "reviewedBodySha256": "d57693cbf8ee91b876a44e373a104fc2c7be1a94c1398d8c5e77d27987dbf0b7",
+      "svgSha256": "e3a199e492a814766c371134bcedd8aaa729d69122db2c8ac864ade3d440cc73",
+      "pngSha256": "8770bd2958a42b33af877a73aafa240d7090c642031e55f165a349caa09ecaa4",
+      "pixelSha256": "ef6207d1953b2c62db3fdfed03be255843d67a8ee43535a043b970aff9a74bbe",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        15.633892431370938,
+        17.58082433206777,
+        23.10810816720915,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0453/cover.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0453-cover.png"
+    },
+    {
+      "id": "expansion-0454",
+      "page": "p01",
+      "sourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+      "bodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "reviewedBodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "svgSha256": "a0ded3807475c7d6c87994d2e1750789908d6e134c1be743cd75600bfd808fc2",
+      "pngSha256": "143efa7f2c57c62bd85ed76db80a77447120025eb6410c5d9661b70a24aec6d2",
+      "pixelSha256": "b8e7398e62cee373072a7084c02b37144427e11c2485798aa4b54ce07ce44b8b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        17.367673713790992,
+        13.625424213316975,
+        21.83707600219826,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0454/p01.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0454-p01.png"
+    },
+    {
+      "id": "expansion-0454",
+      "page": "p02",
+      "sourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+      "bodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "reviewedBodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "svgSha256": "bcd7f70a4c085b5499dba3c2779e51f42c329057c403f69f970827618add5f37",
+      "pngSha256": "9b025730cec9b0f72de1440db16b29c0a3049951677b980d45893d453375d523",
+      "pixelSha256": "80aceb7447180a51edf161e91033916fb5a72523e2b13ec347cc5b707d1ac554",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.227780027307242,
+        9.485865498927858,
+        13.670608764312846,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0454/p02.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0454-p02.png"
+    },
+    {
+      "id": "expansion-0454",
+      "page": "p03",
+      "sourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+      "bodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "reviewedBodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "svgSha256": "82c4c14ef9ecfaa98217fbc4bbe2e768fe504e6750f9d830773500ae4015d0d9",
+      "pngSha256": "f2b7c03b052ba968de143ff25b60b4bf9d6ba96203f37bdf5ed27327d24fb4b2",
+      "pixelSha256": "6f6a09a62f2385ce88657a9de0401df659db56a78b58cd4c24b162b52863f3c7",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.249662520620898,
+        10.592221767265224,
+        14.214697895789781,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0454/p03.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0454-p03.png"
+    },
+    {
+      "id": "expansion-0454",
+      "page": "p04",
+      "sourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+      "bodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "reviewedBodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "svgSha256": "1e6037fdc4011561709b9259d7ea780e8b9a57d5fbcebb8e63385162df61b8f4",
+      "pngSha256": "3bef747cb2f834042b42e304809d2dd18f08cf45c56b34a653388c911f660cb3",
+      "pixelSha256": "ce3fc7b5f9257ee68b79cadeec34fc442fc13f9fe3dc14feaeaa86203353a473",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        32.51128590987349,
+        14.158442539835173,
+        9.935435006523882,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0454/p04.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0454-p04.png"
+    },
+    {
+      "id": "expansion-0454",
+      "page": "p05",
+      "sourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+      "bodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "reviewedBodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "svgSha256": "bfe64f7b065d83ab87af257536b1897154f6f3f73e28eb5358754cf206a64ccb",
+      "pngSha256": "ab75e19404952938335751a99f0ad75267bbb6fd22196a45c2b53f129b430049",
+      "pixelSha256": "963f4f4997ff7654e088ab91e684cba4f21d51aab325bc1aceef302403769056",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.076525665932488,
+        10.07184196172055,
+        13.55174025311224,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0454/p05.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0454-p05.png"
+    },
+    {
+      "id": "expansion-0454",
+      "page": "p06",
+      "sourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+      "bodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "reviewedBodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "svgSha256": "bfc976ed5e69f30463f2a625ab86ebd2b29151507e1cfb79c47f6142ec9c7c0a",
+      "pngSha256": "8205aa38f86752754536c6935c9bfe66328ceb46d56a5cafc3ea596f6db939bb",
+      "pixelSha256": "1a79faa42fbc1d31bcfe439a0dffa998e81c049628780f3c6724f209ff1598d6",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.0946992806794,
+        10.107491581262122,
+        13.534219713452433,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0454/p06.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0454-p06.png"
+    },
+    {
+      "id": "expansion-0454",
+      "page": "p07",
+      "sourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+      "bodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "reviewedBodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "svgSha256": "3f43afac0e3f0913f238aa3b8f173025cd9d7c00901971fc0cb95d5f6d90b4d4",
+      "pngSha256": "dfbba41c62f0708262678c5e925e4316a71e63000c49cbb5634f21643c6b2e24",
+      "pixelSha256": "9fc137f132762ab0d1180bf74f3caf3713a51d2a32b75cddefbee3eda04bdc4c",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.053969044590568,
+        9.64599489517369,
+        13.470380514960969,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0454/p07.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0454-p07.png"
+    },
+    {
+      "id": "expansion-0454",
+      "page": "p08",
+      "sourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+      "bodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "reviewedBodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "svgSha256": "a5c6da5b71a2ccc4855fe9c3771553d3e463e42a6394fc7529c32ba9ed259c42",
+      "pngSha256": "834626c56b6f503b5dc3e4bad01968faba9ff92dc4b4721752676484a5d1e772",
+      "pixelSha256": "b5c073947abb19497f6449ad3b19bb18022eb865ad955225ac97b8631e0de66b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.818943519473802,
+        15.025626449259093,
+        18.381355449757674,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0454/p08.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0454-p08.png"
+    },
+    {
+      "id": "expansion-0454",
+      "page": "cover",
+      "sourceSha256": "bdd25f942750f3210185b9ce4e3c0841eda013719a3d9fd8d3326fe92364b2d3",
+      "bodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "reviewedBodySha256": "dd2e1365fd863dd68b7dd0337f470f7d84b1bad202a448581c0ac351460e46d5",
+      "svgSha256": "5d48b425676b44da9bc1b78b27252c0b7aa66cd348f6cbe002f1e7d9152fab9a",
+      "pngSha256": "1d8aa8a2fc92cdb8d23fc655eb5e460bf53ed9d5599b8034adcd98b4b7a0d783",
+      "pixelSha256": "5fbb8fc1f9f88317fd03aab7f4c3abdf7b637fe6134335e2ac67d358e8051a56",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        15.915181502358097,
+        10.201229788418848,
+        13.364926565049764,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0454/cover.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0454-cover.png"
+    },
+    {
+      "id": "expansion-0455",
+      "page": "p01",
+      "sourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+      "bodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "reviewedBodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "svgSha256": "03f78b67db974da4696c6340c55f46b11ed854357d023618b907391663f4ac7e",
+      "pngSha256": "e17b5f32f6295c056ba5177ede215fbbd7b162e23f51f35c9293a7d49e2e57fd",
+      "pixelSha256": "baf6f61c688a470771d43151bf8d337d982527b0e1c87f7d44c7c9d0376391f7",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.635511393280762,
+        13.767318597745202,
+        14.456459553410848,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0455/p01.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0455-p01.png"
+    },
+    {
+      "id": "expansion-0455",
+      "page": "p02",
+      "sourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+      "bodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "reviewedBodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "svgSha256": "7c20bdbc3a0f2c0c1594679928ebb853ec939c64d3c23d1fd8cf13e0651c7168",
+      "pngSha256": "9bb0c812a8c1c8e80ec3e570ec1cacc174abcbf29ddc25c0ab7ee41162ff8539",
+      "pixelSha256": "42151cf5668fd66ebb3115ca55214bdff9a933ef28b30f90c1be0c1155a82cbc",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.60132764628468,
+        13.282157069570179,
+        14.947016579018966,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0455/p02.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0455-p02.png"
+    },
+    {
+      "id": "expansion-0455",
+      "page": "p03",
+      "sourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+      "bodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "reviewedBodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "svgSha256": "8d337f68df0fe933a25192505f29286c96fd5708990de6f6bbac2a3e27f2b4ac",
+      "pngSha256": "899d54182c7645a9e4b01f62a6403c1497b192eb97bbdc069dd67e676ddf7804",
+      "pixelSha256": "72ba8247d30dbd067383381425a894a9ab35cd97833372dbc0b45b6ca821c2aa",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        12.962241077615325,
+        12.66128430529515,
+        15.154904305861017,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0455/p03.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0455-p03.png"
+    },
+    {
+      "id": "expansion-0455",
+      "page": "p04",
+      "sourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+      "bodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "reviewedBodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "svgSha256": "1b93b89bc5b4ddf3a663d13d1bed9e0095f29888a70979ecc175eff02951db8b",
+      "pngSha256": "9cb10297d007d7eb3c1969b4dcbf93c578172c7a64d8cbb2cfffad4887020cbb",
+      "pixelSha256": "209fe723eeab81f3969910c214c9bb664fbb1e5ce3f48b97566ff39bac8ba556",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.496229727340753,
+        13.037951325554669,
+        14.433335507739258,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0455/p04.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0455-p04.png"
+    },
+    {
+      "id": "expansion-0455",
+      "page": "p05",
+      "sourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+      "bodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "reviewedBodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "svgSha256": "e06f4623cfa2de1b2f57ee0d60ed67441bd642fa83c97966bfa23071471ef234",
+      "pngSha256": "d3efcd159a55af4dc70196bb2c1ead6d465872245b47b941cf76784c42c5ab0f",
+      "pixelSha256": "d1152b7a5810822cf05805af4a7fcd48ac226ab585d85a42c9e4d6714f44ca9d",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.724133109545619,
+        12.62639847614208,
+        14.369317931338914,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0455/p05.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0455-p05.png"
+    },
+    {
+      "id": "expansion-0455",
+      "page": "p06",
+      "sourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+      "bodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "reviewedBodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "svgSha256": "b0038fa63a0d068a3169c0bee86d89fa74c2d3358453594f7dcb69fa4144ebb8",
+      "pngSha256": "bdb5aeec3ce329725a58c6f64284d5bda777acf618d89b220ae602d041032679",
+      "pixelSha256": "5a8bf7a8bbbd03afef681513a54f84ff74a7ab5eeeecc3288346301848020756",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.54754871542667,
+        13.955463493882124,
+        14.746081867277075,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0455/p06.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0455-p06.png"
+    },
+    {
+      "id": "expansion-0455",
+      "page": "p07",
+      "sourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+      "bodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "reviewedBodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "svgSha256": "44256bfecc779ddfb6b55fb8d4fdd19dbda99bdd29b71773dd650b961a66522d",
+      "pngSha256": "48209f75897b55e3b709154c368f7cf31cf14cc313ee808f5f754a678ff962fd",
+      "pixelSha256": "e29b824f489a0f27b9f9b6d9e799ff6e0e250c858029896927ee1b8496399eba",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.216759444376015,
+        12.588909249147001,
+        13.491478572224496,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0455/p07.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0455-p07.png"
+    },
+    {
+      "id": "expansion-0455",
+      "page": "p08",
+      "sourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+      "bodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "reviewedBodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "svgSha256": "87fffb414d57f589185d6feb799103041bb542440361914dbcd9d608fa0bf15d",
+      "pngSha256": "f60856d3fd5822fd3caa254c5b751aecc7ea205eb8d34336ceb8e559b05f8eed",
+      "pixelSha256": "c1224ee5533df6c4ec9f4ef3061cad66c15dbc18ac7fdecab2716b0a13e83aa9",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        13.682566503660547,
+        12.214163071467475,
+        13.173470242415148,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0455/p08.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0455-p08.png"
+    },
+    {
+      "id": "expansion-0455",
+      "page": "cover",
+      "sourceSha256": "10f1004d29937d8df5dab16f41aae44e9bea93d2b0268115860cbcaf3004e0fd",
+      "bodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "reviewedBodySha256": "43c1ff698aba94e982b3e6ea47130694bd68395be5bbde215a0788f5cc33dcfd",
+      "svgSha256": "95300a0ca4a1d0f9f99c528e81fe4e60069dd40dfa511120920b762be42bb60d",
+      "pngSha256": "dce594aba1974172aca87abe610fa8f7b0eb625273eb1e7702d710a2dc0ee947",
+      "pixelSha256": "87323c7bcc0e4cfb9a62b89b553d48a9e00fea3162a3676e5bfed1819b1af4b1",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        14.93407897400874,
+        12.513810910510585,
+        12.713722245360136,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0455/cover.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0455-cover.png"
+    },
+    {
+      "id": "expansion-0456",
+      "page": "p01",
+      "sourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+      "bodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "reviewedBodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "svgSha256": "e6e6ea8400f67e62a1f7ec7ba397ba1ee54562bb5c527e67d7d60521e6616aaf",
+      "pngSha256": "5c37df8a0e07d927f0538de2972499eaf116ae353536400a7f6e0626ec3b8b61",
+      "pixelSha256": "104eb48ae77ee21f064d28edf4c01527488a7d56b357b7d227fbe6d41eac9250",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.815736405164312,
+        14.456100112191844,
+        17.941193122298433,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0456/p01.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0456-p01.png"
+    },
+    {
+      "id": "expansion-0456",
+      "page": "p02",
+      "sourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+      "bodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "reviewedBodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "svgSha256": "0a87d7e4059ba28dc3aa07b2bbfe034e3a6d2fef3eb4b3c4a05c49388bec2f23",
+      "pngSha256": "6a9c5445f7643597b1f7d48a111d93624c1d5e23b9c5a3c250f07d73602c289f",
+      "pixelSha256": "94070a102a8aa262876612e97c19231a3d6cf61b95bcc7e4b721d4cbc2ac6adc",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.868172929745477,
+        14.466258948826596,
+        17.9068692250594,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0456/p02.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0456-p02.png"
+    },
+    {
+      "id": "expansion-0456",
+      "page": "p03",
+      "sourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+      "bodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "reviewedBodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "svgSha256": "dee98e5de27b4261dd0e4354126bee12e862d68b1506139202c295d30a6b10e7",
+      "pngSha256": "4918b68c5c6861149f5f5d4497ca792670142bec5051ada8acf544141b99092d",
+      "pixelSha256": "04475546f4ec350d4739b9648efca77d9155ee1ec993efcd4b086c305ce27fca",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.85160451479586,
+        14.4490573601625,
+        17.890801349423363,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0456/p03.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0456-p03.png"
+    },
+    {
+      "id": "expansion-0456",
+      "page": "p04",
+      "sourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+      "bodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "reviewedBodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "svgSha256": "461452371a0e2dda03f4085c14911919abd0903b5fc1b3ea881f250ceae9e8ac",
+      "pngSha256": "186c19046ef7b41270865251d9e5ff6b5d0695453fa6f8ac62bcbb9ba0bd8408",
+      "pixelSha256": "b54a3d3be5f6b59f7a487a53ac81db81bf69511f162440e6919aa84cff9612b3",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.84413991618836,
+        14.437041946936434,
+        17.86487585329839,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0456/p04.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0456-p04.png"
+    },
+    {
+      "id": "expansion-0456",
+      "page": "p05",
+      "sourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+      "bodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "reviewedBodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "svgSha256": "de09905baf97590d0e2c6b4361cb7e9438846b6ed747e897f787fcbefb5b2935",
+      "pngSha256": "645d0f9e4428e0276f8172f630164ece45bbf8a525f09ce55bd9823e6c8b4834",
+      "pixelSha256": "859aaf568b083336cea507780b20e589e6e865fed1b5abc8833e561b6a4a869e",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        22.751280358578928,
+        17.600706633447754,
+        20.503705883634026,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0456/p05.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0456-p05.png"
+    },
+    {
+      "id": "expansion-0456",
+      "page": "p06",
+      "sourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+      "bodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "reviewedBodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "svgSha256": "5607491a3cef30f7092564e850335245e63ac4e0915e8c7a0ca18d6ba2c69a5e",
+      "pngSha256": "8b7b776288fb143b3ed70e11be3e50e65e15af362bf813e79b6c0ff88a2de75f",
+      "pixelSha256": "f588c2fd6f00b79f922245048d02d025b7daf133cd572a68f44d4111a4cf147d",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        12.884095898156886,
+        15.827843764800894,
+        26.822904586427754,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0456/p06.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0456-p06.png"
+    },
+    {
+      "id": "expansion-0456",
+      "page": "p07",
+      "sourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+      "bodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "reviewedBodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "svgSha256": "c378f50b46cc6c68f38d58df09dd35fd97ac918301dd68a5d4b4b0557aac9a67",
+      "pngSha256": "3f487e2252a77677d6eb0108c251b7a587042a8fa6219252d304188666a3afb3",
+      "pixelSha256": "829f841437a0bf2adb153d69a3da7ed465a91e52815ea10d4b93e8aaee4b2249",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        11.273527833412603,
+        15.633416182131404,
+        26.96595571852749,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0456/p07.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0456-p07.png"
+    },
+    {
+      "id": "expansion-0456",
+      "page": "p08",
+      "sourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+      "bodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "reviewedBodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "svgSha256": "b4a7c33b9cfacb3c2ae986007ef19129a293546a70a76257be5c672a47c068b5",
+      "pngSha256": "5088dbf4adcd0ca65cbec62cf1ede1658a3638a9079e14e8aacb4b7a28a70d7b",
+      "pixelSha256": "816003f266cf0f4500589351e7d2fdb11296e79189d3153fd54145b29743b2e7",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.75677642219667,
+        14.380689339587455,
+        17.85813090481507,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0456/p08.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0456-p08.png"
+    },
+    {
+      "id": "expansion-0456",
+      "page": "cover",
+      "sourceSha256": "130af2c27ae3ec83baa28891643a3474b139765a5c5f0fb8c6bf8abb103e4912",
+      "bodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "reviewedBodySha256": "202da1cd924289598b747fd87e9f5534b9d521d6f898b8cb4bbf1cb04f3f1f7b",
+      "svgSha256": "af432855b0d61450b28ab541aa59bc6840f3e707d2efc4936b77a9829f38221f",
+      "pngSha256": "168d8a61aa7be21cac1bec12dbd9d937dbb875503dcf46d05952974ee968b614",
+      "pixelSha256": "fc06c86c9aea98ab74f8085cb19571bca265cab2de76efe8200f10b0a465093b",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        12.494417274333012,
+        15.98335839442962,
+        27.50779711162323,
+        0
+      ],
+      "svgPath": "content-expansion/artwork/expansion-0456/cover.svg",
+      "pngPath": ".cache/twelfth-young-last-art-review/expansion-0456-cover.png"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0452",
+  "version": 1,
+  "status": "media-ready",
+  "title": "露珠龙不用大声吼",
+  "subtitle": "一只轻声说话的龙",
+  "description": "松果游乐场里，慢卷想当一回龙，可他的声音小得连松鼠尾巴都震不动。豆翘翻开图画书，想找出做龙的办法，却在朋友的小帽子上发现了一个新故事。",
+  "ageBand": "3-5",
+  "theme": "想象游戏",
+  "color": "#89B9A1",
+  "character": "豆翘：棕色绒毛的小松鼠，耳尖蓬松，穿浅绿色短背带裤。慢卷：淡褐色身体、栗色螺旋壳的小蜗牛，戴一顶柔软的蓝色小帽。",
+  "cover": "/library/stories/expansion-0452/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 161.026,
+  "detailUrl": "/library/stories/expansion-0452/v1/story.json",
+  "audio": "/library/stories/expansion-0452/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "松果游乐场里，豆翘摊开一本图画书。书上的龙张着大嘴，站在山顶。小蜗牛慢卷伸长触角，说：“今天，我想当一回龙。”豆翘拍拍树桩：“好呀，这里就是你的山！”",
+      "image": "/library/stories/expansion-0452/v1/p01.webp",
+      "start": 0,
+      "end": 20.342
+    },
+    {
+      "id": "p02",
+      "text": "慢卷仰起头，学着书里的样子叫：“嗷——”声音轻轻的，连豆翘尾巴上的毛都没动。豆翘把耳朵凑过去：“我听见啦，可是，书上说龙一叫，整座山都会抖呢。”",
+      "image": "/library/stories/expansion-0452/v1/p02.webp",
+      "start": 20.342,
+      "end": 38.212
+    },
+    {
+      "id": "p03",
+      "text": "慢卷又叫了一次，还是小小的一声。豆翘捡起一片大落叶，卷成喇叭，让他对着叶口叫。嗷，沙沙沙。叶子响了，龙的声音还是很轻。慢卷轻轻碰了碰那个叶喇叭。",
+      "image": "/library/stories/expansion-0452/v1/p03.webp",
+      "start": 38.212,
+      "end": 58.698
+    },
+    {
+      "id": "p04",
+      "text": "“要不，你当山下的小蜗牛？”豆翘问。慢卷垂下触角：“可我今天想当龙呀。”豆翘没有合上书。她看看那张大嘴，又看看朋友。难道声音小，就只能站在故事的山脚下吗？",
+      "image": "/library/stories/expansion-0452/v1/p04.webp",
+      "start": 58.698,
+      "end": 79.592
+    },
+    {
+      "id": "p05",
+      "text": "一滴露水从草叶上滑下来，挂在慢卷的蓝帽边，亮晶晶的。豆翘忽然笑了：“我们编一只露珠龙吧！他说话很轻，专门给小花送水。”慢卷抬起触角：“我要住在叶子山上！”",
+      "image": "/library/stories/expansion-0452/v1/p05.webp",
+      "start": 79.592,
+      "end": 99.91
+    },
+    {
+      "id": "p06",
+      "text": "豆翘把落叶堆成矮矮的小山，又把几颗松果竖在沙里，当作等水喝的花。慢卷爬到山脚，问：“露珠龙怎么走？”豆翘想了想：“你来编！”“他慢慢走，不把露珠晃掉。”",
+      "image": "/library/stories/expansion-0452/v1/p06.webp",
+      "start": 99.91,
+      "end": 119.628
+    },
+    {
+      "id": "p07",
+      "text": "慢卷绕过一颗松果，轻声说：“小花，张开嘴，滴答！”豆翘就摇摇松果：“喝到啦！”他们没有真的倒水，可沙坑已经成了花园。露珠龙走过一朵又一朵花，忙得触角直点头。",
+      "image": "/library/stories/expansion-0452/v1/p07.webp",
+      "start": 119.628,
+      "end": 140.186
+    },
+    {
+      "id": "p08",
+      "text": "花园浇完了，慢卷伏在落叶边休息。豆翘合上图画书，说：“这只龙，书里还没有呢。”慢卷轻轻打了个哈欠：“明天，他还要来。”风吹过松果花，沙沙，好像都在答应。",
+      "image": "/library/stories/expansion-0452/v1/p08.webp",
+      "start": 140.186,
+      "end": 161.026
+    }
+  ],
+  "buildHash": "72a4c5283a52986deb3d123db596d6184bf107dc695e597bc5f0c0a471f297c6"
+}

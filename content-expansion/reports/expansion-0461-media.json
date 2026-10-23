@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0461",
+  "title": "画家睡在自己的尾巴旁",
+  "version": 1,
+  "bodyCharacters": 969,
+  "pages": 12,
+  "duration": 289.218,
+  "bodySha256": "09af99e5eebfc658ef4ef78c874213e3f0cd89ee2747890ba6221939dd3424ec",
+  "audioSha256": "caf83fb99ea4c1182352c8072ec0eacfba50bc4be8cf94de09f8bac811da7d4c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3d04a0ad82d7eaa5503f421ac09a4ea22c0f57cf4b98083ffb73fdebd23b60cb",
+      "bytes": 15002
+    },
+    {
+      "name": "p01",
+      "sha256": "5b20f2a8a5049b8b6f6efd4ed6880da27e0259e51f5e14a26f044184c8e6ac55",
+      "bytes": 12026
+    },
+    {
+      "name": "p02",
+      "sha256": "3072081ee65344d86e79ebbf827e5883a6ff740ffc69a2e5bee46af74f118e4b",
+      "bytes": 12958
+    },
+    {
+      "name": "p03",
+      "sha256": "22480235da1464c5fd8c8f1bbfa4e7c8d66a760dd1261f390c8d1f93106f95cd",
+      "bytes": 12736
+    },
+    {
+      "name": "p04",
+      "sha256": "6de3ac29ac242c37ddc401e2d5f701d603d1b498f15a87e9f680c685b65e787d",
+      "bytes": 14700
+    },
+    {
+      "name": "p05",
+      "sha256": "6059911f794898224b27113dcdddedc5482ce99da8f21bcff0b51389df40c38d",
+      "bytes": 11966
+    },
+    {
+      "name": "p06",
+      "sha256": "f58b96510e1699140c59cf40a9b5b6b267233284c660144e302d6b00c5852e85",
+      "bytes": 12516
+    },
+    {
+      "name": "p07",
+      "sha256": "863a77f9d79d8b150c4033b56d8672254208540e442bfdcc5cd80aed29f6fcd4",
+      "bytes": 12110
+    },
+    {
+      "name": "p08",
+      "sha256": "8a5720e4c5656d1bc1326e6090233ff8097b4da07001a4b43994bf798818ad03",
+      "bytes": 12756
+    },
+    {
+      "name": "p09",
+      "sha256": "e7602abe1d3d83e5ea44daf0355c8ed94adcf4b84c8d1e9a7884a927d3d40808",
+      "bytes": 13164
+    },
+    {
+      "name": "p10",
+      "sha256": "4d43ba779f05388a1ada250746d1cd8e8c46ad31c20b90ee6f9c57fd2090a708",
+      "bytes": 12820
+    },
+    {
+      "name": "p11",
+      "sha256": "fa7d69623941ef758b8c695af20fb7fedc809f5834e813ce5dc069f6135961fe",
+      "bytes": 13544
+    },
+    {
+      "name": "p12",
+      "sha256": "67b3f257314fce27b2cf1aef1d23e022496c60cc4a9bd1492e9903a112cc2602",
+      "bytes": 13372
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

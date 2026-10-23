@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0465",
+  "title": "蓝纹船的肚子宽一点",
+  "version": 1,
+  "bodyCharacters": 1034,
+  "pages": 12,
+  "duration": 312.354,
+  "bodySha256": "6200f9f5f4fb8680b1132a14ae0691a99925dec51d703ef63c71e90843b3063a",
+  "audioSha256": "eb0e2ee43826695fca4cd23f0b3bb6a64954907e582e59303abc19d25cc6e735",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "7e01ac31796108babc45cf613ca85d9a32799ee482ba92b209ca88f0100d52b3",
+      "bytes": 18200
+    },
+    {
+      "name": "p01",
+      "sha256": "328327afe9b7072f0ce65fd5713032592f40d431c3ecea5f3312ca026fa36699",
+      "bytes": 14702
+    },
+    {
+      "name": "p02",
+      "sha256": "2ae5d72b0b2922e24d792ad769f69649633ece4920e3dd3ca2e608c13f7589bc",
+      "bytes": 12812
+    },
+    {
+      "name": "p03",
+      "sha256": "94cb121f4eab3bb2e5f07ab82d2366b09569d12ec2e0e522ba149d0763f9ddbd",
+      "bytes": 12792
+    },
+    {
+      "name": "p04",
+      "sha256": "43024fa0426b4d5e79161d7f1f008d402982d00154324c99b39df66ecc92e4cf",
+      "bytes": 15480
+    },
+    {
+      "name": "p05",
+      "sha256": "eca96c8354e7a5a07c4d2db4e1e4446e390688890c18416704abf9af037e4981",
+      "bytes": 12716
+    },
+    {
+      "name": "p06",
+      "sha256": "b59bced26648c7773d119ae59df540d5fc216a590878733d94b2ab2f155e17c3",
+      "bytes": 15166
+    },
+    {
+      "name": "p07",
+      "sha256": "9e62da37588937356afa74dd4ea9b51215740f348cf946cb7d8881c652005a8c",
+      "bytes": 15762
+    },
+    {
+      "name": "p08",
+      "sha256": "f5e606c93fcefc79fb051daa86cc3883d3d2dc2dc5257b6f8476cbf1fc3a8b9f",
+      "bytes": 13424
+    },
+    {
+      "name": "p09",
+      "sha256": "e5d33824fa50273f823fb12286614341faa6d5b6c5e5ef710c6c1fb0e7495adc",
+      "bytes": 16890
+    },
+    {
+      "name": "p10",
+      "sha256": "0c9a4d174da607b85eb83c46adfce93cedb96cceeca8898cbd13a7ef807917ee",
+      "bytes": 15928
+    },
+    {
+      "name": "p11",
+      "sha256": "ad36cbef86f4acf2ba8da9668dd6d76163a55f5790b0884d539f2a3d32aa9357",
+      "bytes": 15480
+    },
+    {
+      "name": "p12",
+      "sha256": "241091b9bf503c4a9fa9bcfb617a5d0a3633fed01f677fc46c7cfb0188c0a45a",
+      "bytes": 15304
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

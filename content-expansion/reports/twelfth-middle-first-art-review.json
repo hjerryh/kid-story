@@ -1,0 +1,2425 @@
+{
+  "scope": "0457–0463, reviewed age 6–8 manuscripts; 84 pages + 7 covers",
+  "reviewedAt": "2026-10-23T01:25:42.442Z",
+  "modulePath": "scripts/expansion-art/twelfth-middle-first.mjs",
+  "moduleSha256": "5302a0e5fd15718b460ce93fee66a29773193c913299d3aa773c9dd57336e6c5",
+  "exportName": "twelfthMiddleFirstArtwork(story,index,cover=false)",
+  "recursiveLocalDependencies": {
+    "scripts/expansion-art/twelfth-middle-first.mjs": "5302a0e5fd15718b460ce93fee66a29773193c913299d3aa773c9dd57336e6c5",
+    "scripts/render-illustrations.mjs": "b87ce359a5e7772db51cd310d2f357e1edd45f1298cc9d9d8199d78301f58bb3"
+  },
+  "reviewSource": "content-expansion/reports/editorial-012-middle.md",
+  "reviewSourceSha256": "32b829807aa633b6c4010dddc1490eb7b4bcba04350d3b3fc445d57ede72e21e",
+  "sourceSnapshotRoot": ".cache/twelfth-middle-first-art-review/source",
+  "visualReview": {
+    "method": "The agent actually opened rendered images with view_image and visually inspected them; not inferred from assertions.",
+    "firstPass": "All 7 complete contact sheets actually viewed.",
+    "finalPass": "All 7 revised complete contact sheets actually viewed. After the final 0458/0461 changes, their updated sheets and changed key pages were reopened.",
+    "closeups": [
+      "expansion-0457-p01.png",
+      "expansion-0457-p05.png",
+      "expansion-0457-p08.png",
+      "expansion-0457-p09.png",
+      "expansion-0457-p11.png",
+      "expansion-0457-p12.png",
+      "expansion-0458-p04.png",
+      "expansion-0458-p07.png",
+      "expansion-0458-p09.png",
+      "expansion-0458-p11.png",
+      "expansion-0458-p12.png",
+      "expansion-0459-p04.png",
+      "expansion-0459-p06.png",
+      "expansion-0459-p07.png",
+      "expansion-0459-p08.png",
+      "expansion-0459-p09.png",
+      "expansion-0459-p10.png",
+      "expansion-0459-p11.png",
+      "expansion-0460-p03.png",
+      "expansion-0460-p05.png",
+      "expansion-0460-p06.png",
+      "expansion-0460-p09.png",
+      "expansion-0460-p10.png",
+      "expansion-0460-p11.png",
+      "expansion-0460-p12.png",
+      "expansion-0461-p04.png",
+      "expansion-0461-p05.png",
+      "expansion-0461-p06.png",
+      "expansion-0461-p10.png",
+      "expansion-0461-p12.png",
+      "expansion-0462-p01.png",
+      "expansion-0462-p03.png",
+      "expansion-0462-p05.png",
+      "expansion-0462-p09.png",
+      "expansion-0462-p10.png",
+      "expansion-0462-p12.png",
+      "expansion-0463-p01.png",
+      "expansion-0463-p03.png",
+      "expansion-0463-p05.png",
+      "expansion-0463-p06.png",
+      "expansion-0463-p09.png",
+      "expansion-0463-p10.png",
+      "expansion-0463-p11.png",
+      "expansion-0463-p12.png"
+    ],
+    "corrections": [
+      "0457：固定棋盘路线，右转错误、入花坛、原地半转回路与最后入浴分开；右翅仅在解释页展开。圆布包放在盘边，螃蟹摘帽后帽留桌角；沐浴采用坐姿而非旋转棋子，白领结留盆旁，末页才移动木花与出现梦饼干泡泡。",
+      "0458：城堡始终为干燥草地上的低平石墙，没有实体大鸟或锁。花冠摘下、留塔、给圆石戴上、再收回；入口保持宽敞。草叶与手接触，三块白石完整可见，黄石由两手托住，末页两位朋友坐下、两块饼干分开。",
+      "0459：白蜡笔为白色，镜中采用脸部反射，白牙点仅留镜面并偏到脸颊，后来擦掉；真正上门牙缺口一直保留。失败照片分别为遮嘴与紧抿嘴，照片下移避免遮住本人面孔；回忆外婆限定于虚线框内且坐椅子，两只蟹钳接近相机控制处。",
+      "0460：每帧六只信蛾可点数，一纸连成一对翅膀；第一只到窗边时桌上五只，试飞一只时桌上五只，最后慢干一只时窗沿五只，离开时六只飞蛾与六张旧纸分开。湿墨、粘角、湿布与分开座位分别出现；工作纸有实物搁板，递过干纸的双手接到两侧纸边。",
+      "0461：今日面条、次日六肚脐鱼、半圈、圈弧、细波纹、裙萝卜和拖鞋鲸分开；六个肚脐移开遮挡。女孩用专门的俯卧姿势查看台阶下，短裤与白凉鞋保留；兽有四短足，睡时闭眼且身体在木阶上，长尾末端软扇接沙，醒时尾巴卷背。",
+      "0462：六枚松果钱、八条蜘蛛腿、低睡网及软垫均保留。睡网抱膝与伸腿侧卧采用不同身体造型；旧叶床缩短使脚趾伸出，放宽后的脚趾全部在网边内。抱被子离网朝旧床，修网先松开活结，头端花保留、脚端花拆开，最终重新打结。",
+      "0463：转身时水獭在屋外；回屋后旧窗变草坡、另一窗看河。早餐只保留一只碗，移动前桌位固定，抱桌腿时手接腿。中央坐位窗中只有天；拆下的长积木从广场消失并进入浅篮，蓝桥与面包铺保留。最后八木鸭排队，新河窗等小船，旧窗小凳仍在，碗里留最后一口。"
+    ],
+    "limitations": "Original simplified SVG storybook illustrations. Actual agent image inspection; not a human or child usability study. No listening, audio generation, or deployment review is claimed."
+  },
+  "checks": {
+    "artworks": 91,
+    "uniqueSVG": 91,
+    "uniquePNG": 91,
+    "uniquePixels": 91,
+    "nonblank": 91,
+    "currentModuleRerenderMatches": 91,
+    "canonicalSVGMatches": 91,
+    "pageDimensions": [
+      1000,
+      800
+    ],
+    "coverDimensions": [
+      1000,
+      1000
+    ],
+    "preArtRawSourceSnapshotsMatch": true,
+    "rawSourceHashesMatch": true,
+    "bodyAndReviewedBodyHashesMatch": true,
+    "reviewReportContainsAllBodyHashes": true,
+    "rejectedInvalidInputs": [
+      "unknown story",
+      "prototype-inherited id",
+      "null story",
+      "wrong age",
+      "draft status",
+      "unreviewed manuscript",
+      "wrong page count",
+      "nonarray pages",
+      "missing page action",
+      "empty page text",
+      "wrong page id",
+      "empty title",
+      "negative index",
+      "out-of-bounds index",
+      "noninteger index",
+      "invalid cover type"
+    ],
+    "recursiveLocalDependencyHashes": true,
+    "syntaxCheckPassed": true
+  },
+  "stories": [
+    {
+      "sourceSnapshotPath": ".cache/twelfth-middle-first-art-review/source/expansion-0457.json",
+      "id": "expansion-0457",
+      "title": "木鸭把右翅张开了",
+      "sourcePath": "content-expansion/manuscripts/expansion-0457.json",
+      "fullSourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "reviewedBodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "reviewReport": "content-expansion/reports/editorial-012-middle.md",
+      "reviewReportSha256": "32b829807aa633b6c4010dddc1490eb7b4bcba04350d3b3fc445d57ede72e21e",
+      "pages": 12,
+      "artworks": 13,
+      "pageCoverage": [
+        {
+          "page": "p01",
+          "manuscriptAction": "蒲栗蹲在矮桌旁，看棋盘里的木鸭仰起头。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p02",
+          "manuscriptAction": "横横指着石子格介绍规则，木鸭站在起点。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p03",
+          "manuscriptAction": "蒲栗认真发令，木鸭转身面对棋盘外的池塘。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p04",
+          "manuscriptAction": "横横解释，蒲栗捏着布包带点头。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p05",
+          "manuscriptAction": "蒲栗朝木鸭指路，木鸭低头看脚边的木花。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p06",
+          "manuscriptAction": "蒲栗低声练习左右，木鸭停在花丛里等待。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p07",
+          "manuscriptAction": "蒲栗抬头提出具体请求，横横把草帽放在桌角。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p08",
+          "manuscriptAction": "横横请木鸭张开右翅，蒲栗比较翅膀与自己手指的方向。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p09",
+          "manuscriptAction": "蒲栗在木鸭身后指挥它退出花坛，横横安静观察。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p10",
+          "manuscriptAction": "蒲栗坐回座位，用身体朝向比照木鸭，慢慢发出指令。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p11",
+          "manuscriptAction": "木鸭抵达浴盆边，温水冒出，蒲栗与横横探头看。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p12",
+          "manuscriptAction": "木鸭泡着脚，蒲栗和横横一起挪动棋盘上的木花。",
+          "contactSheetViewed": true
+        }
+      ]
+    },
+    {
+      "sourceSnapshotPath": ".cache/twelfth-middle-first-art-review/source/expansion-0458.json",
+      "id": "expansion-0458",
+      "title": "塔门外来了一位邮差",
+      "sourcePath": "content-expansion/manuscripts/expansion-0458.json",
+      "fullSourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "reviewedBodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "reviewReport": "content-expansion/reports/editorial-012-middle.md",
+      "reviewReportSha256": "32b829807aa633b6c4010dddc1490eb7b4bcba04350d3b3fc445d57ede72e21e",
+      "pages": 12,
+      "artworks": 13,
+      "pageCoverage": [
+        {
+          "page": "p01",
+          "manuscriptAction": "杏苇与砾角在宽阔平地上用扁石摆出城堡轮廓。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p02",
+          "manuscriptAction": "砾角把花冠放在塔内，杏苇坐下等待。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p03",
+          "manuscriptAction": "杏苇提议一起寻宝，砾角张开前爪描述自己的故事。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p04",
+          "manuscriptAction": "杏苇把草叶当作剑跨出塔门，砾角将一块石头移到门口。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p05",
+          "manuscriptAction": "杏苇放下花冠，跨过低低的石墙。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p06",
+          "manuscriptAction": "两位朋友隔着低石墙交谈，杏苇指向整座城堡。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p07",
+          "manuscriptAction": "砾角对着戴花冠的圆石演故事，杏苇在附近折树叶。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p08",
+          "manuscriptAction": "砾角坐到树荫边询问，杏苇举起叶信封。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p09",
+          "manuscriptAction": "杏苇把信封装进布包，砾角将花冠收进塔内。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p10",
+          "manuscriptAction": "杏苇在厨房门边递信，砾角坐在厨房轮廓内捂嘴笑。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p11",
+          "manuscriptAction": "杏苇凭叶信封上的线索找到黄色石头，砾角在一旁期待地看。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p12",
+          "manuscriptAction": "两位朋友坐在塔里分享饼干，布包靠在敞开的门边。",
+          "contactSheetViewed": true
+        }
+      ]
+    },
+    {
+      "sourceSnapshotPath": ".cache/twelfth-middle-first-art-review/source/expansion-0459.json",
+      "id": "expansion-0459",
+      "title": "照片里的小缺牙",
+      "sourcePath": "content-expansion/manuscripts/expansion-0459.json",
+      "fullSourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "reviewedBodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "reviewReport": "content-expansion/reports/editorial-012-middle.md",
+      "reviewReportSha256": "32b829807aa633b6c4010dddc1490eb7b4bcba04350d3b3fc445d57ede72e21e",
+      "pages": 12,
+      "artworks": 13,
+      "pageCoverage": [
+        {
+          "page": "p01",
+          "manuscriptAction": "汀雪踮脚望着橱窗里循环跳舞的小照片。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p02",
+          "manuscriptAction": "汀雪对镜练舞，忽然用手捂住嘴巴。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p03",
+          "manuscriptAction": "蟹伯伯打开相机侧门，汀雪拿起桌上的手帕。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p04",
+          "manuscriptAction": "汀雪弯腰观察第一张照片，照片里的她举着手帕。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p05",
+          "manuscriptAction": "汀雪抿着嘴跳舞，双手努力摆动。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p06",
+          "manuscriptAction": "汀雪用白蜡笔在小镜子上画一颗牙，对齐镜中门牙的缺口。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p07",
+          "manuscriptAction": "汀雪示意暂停，喝水后坐在两张照片旁。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p08",
+          "manuscriptAction": "汀雪望着窗外的小船，想起与外婆一起练舞的情景。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p09",
+          "manuscriptAction": "汀雪将镜子放回桌上，站上木台，双手自然垂下。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p10",
+          "manuscriptAction": "汀雪迎着相机摆动双手，张嘴笑着完成鱼尾舞。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p11",
+          "manuscriptAction": "汀雪把第三张照片和写好的短信放进信封。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p12",
+          "manuscriptAction": "汀雪在家读外婆的回信，随后对着空椅子轻轻摆手。",
+          "contactSheetViewed": true
+        }
+      ]
+    },
+    {
+      "sourceSnapshotPath": ".cache/twelfth-middle-first-art-review/source/expansion-0460.json",
+      "id": "expansion-0460",
+      "title": "六对信翅不用一起飞",
+      "sourcePath": "content-expansion/manuscripts/expansion-0460.json",
+      "fullSourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "reviewedBodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "reviewReport": "content-expansion/reports/editorial-012-middle.md",
+      "reviewReportSha256": "32b829807aa633b6c4010dddc1490eb7b4bcba04350d3b3fc445d57ede72e21e",
+      "pages": 12,
+      "artworks": 13,
+      "pageCoverage": [
+        {
+          "page": "p01",
+          "manuscriptAction": "荻桃打开驿站窗户，木笛把六只收拢翅膀的信蛾领到长桌旁。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p02",
+          "manuscriptAction": "荻桃逐项摆放材料，木笛凑近观察信蛾翅根。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p03",
+          "manuscriptAction": "荻桃依次抄写地址，木笛将第一张尚未干透的信翅移到信蛾身旁。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p04",
+          "manuscriptAction": "木笛重新抄好地址，并将干透的第一张信翅粘好，让信蛾留在窗边。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p05",
+          "manuscriptAction": "荻桃将窗边的信蛾移回队列，它的新翅碰到了邻座的旧翅。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p06",
+          "manuscriptAction": "两人用湿布慢慢松开粘连的纸角，随后坐在散乱的桌边。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p07",
+          "manuscriptAction": "荻桃观察同一张翅膀干湿不同的两端，木笛检查桌上各张信纸。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p08",
+          "manuscriptAction": "两人重新安排桌面，荻桃负责地址，木笛负责粘翅，信蛾分散坐好。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p09",
+          "manuscriptAction": "木笛检查一只信蛾较厚的浆糊边，转去照顾另一只已准备好的信蛾。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p10",
+          "manuscriptAction": "第一只信蛾试飞，荻桃核对地址，木笛仰头观察翅膀。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p11",
+          "manuscriptAction": "最后一只信蛾安静等待，荻桃端来茶杯，木笛清洗浆糊刷。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p12",
+          "manuscriptAction": "六只信蛾从窗口出发，两位朋友并肩收拾桌面。",
+          "contactSheetViewed": true
+        }
+      ]
+    },
+    {
+      "sourceSnapshotPath": ".cache/twelfth-middle-first-art-review/source/expansion-0461.json",
+      "id": "expansion-0461",
+      "title": "画家睡在自己的尾巴旁",
+      "sourcePath": "content-expansion/manuscripts/expansion-0461.json",
+      "fullSourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "reviewedBodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "reviewReport": "content-expansion/reports/editorial-012-middle.md",
+      "reviewReportSha256": "32b829807aa633b6c4010dddc1490eb7b4bcba04350d3b3fc445d57ede72e21e",
+      "pages": 12,
+      "artworks": 13,
+      "pageCoverage": [
+        {
+          "page": "p01",
+          "manuscriptAction": "栎芽蹲在沙画外侧，沿着弯弯的线条寻找脚印。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p02",
+          "manuscriptAction": "团蒲坐在台阶上看画，栎芽在他身边坐下。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p03",
+          "manuscriptAction": "栎芽和团蒲坐在阴影里等待，团蒲用短脚戳出一排圆点。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p04",
+          "manuscriptAction": "栎芽沿着沙画外围慢慢移动，团蒲在台阶边望着她。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p05",
+          "manuscriptAction": "栎芽蹲看木台阶下面的线条，团蒲低头检查自己卷起的尾巴。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p06",
+          "manuscriptAction": "团蒲坐着打瞌睡，尾巴从背上垂下，栎芽停住翻书的手。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p07",
+          "manuscriptAction": "团蒲醒来，尾巴重新卷起，两人一起看着半圈弯线。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p08",
+          "manuscriptAction": "栎芽用小木板抹平干沙，团蒲在台阶上找舒服的位置。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p09",
+          "manuscriptAction": "栎芽低头读书，熟睡的团蒲伸展尾巴，在沙地上慢慢扫画。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p10",
+          "manuscriptAction": "栎芽安静观察，团蒲在睡梦中抽动鼻尖，尾尖添出一串细波纹。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p11",
+          "manuscriptAction": "醒来的团蒲绕到沙画旁，低头看自己的尾尖，栎芽比画他睡着时的动作。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p12",
+          "manuscriptAction": "团蒲用短脚给沙画添上两个眼睛，栎芽坐在旁边笑。",
+          "contactSheetViewed": true
+        }
+      ]
+    },
+    {
+      "sourceSnapshotPath": ".cache/twelfth-middle-first-art-review/source/expansion-0462.json",
+      "id": "expansion-0462",
+      "title": "睡网记住了圆豆子",
+      "sourcePath": "content-expansion/manuscripts/expansion-0462.json",
+      "fullSourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "reviewedBodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "reviewReport": "content-expansion/reports/editorial-012-middle.md",
+      "reviewReportSha256": "32b829807aa633b6c4010dddc1490eb7b4bcba04350d3b3fc445d57ede72e21e",
+      "pages": 12,
+      "artworks": 13,
+      "pageCoverage": [
+        {
+          "page": "p01",
+          "manuscriptAction": "蒲榆抱着枕头站在旧叶床旁，一只脚试着伸到床沿外。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p02",
+          "manuscriptAction": "织婆婆展开银色网线，蒲榆仰头看悬挂的睡网。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p03",
+          "manuscriptAction": "蒲榆蜷在初织好的睡网中央，双手避开细致的花边。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p04",
+          "manuscriptAction": "蒲榆躺在装好的睡网里，试着伸直弯曲的腿。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p05",
+          "manuscriptAction": "蒲榆起身揉揉膝盖，抱着被子从睡网旁走回旧叶床。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p06",
+          "manuscriptAction": "蒲榆用枕头垫在膝下试睡，起身后观察网边回缩。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p07",
+          "manuscriptAction": "蒲榆坐在织坊门边，把带来的枕头抱在怀里。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p08",
+          "manuscriptAction": "蒲榆放下枕头，张开双手，认真向织婆婆描述睡姿。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p09",
+          "manuscriptAction": "织婆婆指着网边的花结，蒲榆触摸其中一朵后点头。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p10",
+          "manuscriptAction": "蒲榆在松开的睡网中伸腿翻身，织婆婆在一旁调整网边。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p11",
+          "manuscriptAction": "织婆婆系好活结，蒲榆侧躺着把一只手放到脸边。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p12",
+          "manuscriptAction": "蒲榆舒展身体睡在网中，头边几朵藤花映着月光。",
+          "contactSheetViewed": true
+        }
+      ]
+    },
+    {
+      "sourceSnapshotPath": ".cache/twelfth-middle-first-art-review/source/expansion-0463.json",
+      "id": "expansion-0463",
+      "title": "转转屋换了一面风景",
+      "sourcePath": "content-expansion/manuscripts/expansion-0463.json",
+      "fullSourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "reviewedBodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "reviewReport": "content-expansion/reports/editorial-012-middle.md",
+      "reviewReportSha256": "32b829807aa633b6c4010dddc1490eb7b4bcba04350d3b3fc445d57ede72e21e",
+      "pages": 12,
+      "artworks": 13,
+      "pageCoverage": [
+        {
+          "page": "p01",
+          "manuscriptAction": "汀果坐在圆窗前吃早餐，望着河上的运菜船。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p02",
+          "manuscriptAction": "木墙上的眼睛睁开，汀果捧着碗听房屋说话。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p03",
+          "manuscriptAction": "汀果抱住早餐桌腿，望着屋子的木节眼睛，询问窗户将转向哪里。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p04",
+          "manuscriptAction": "汀果站在院里看房屋转动，随后推门走进屋内。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p05",
+          "manuscriptAction": "汀果扭身在旧早餐窗前左右探看，轻抖的窗框碰到她的小鼻尖。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p06",
+          "manuscriptAction": "汀果推动轻便的小桌，试着从屋子中央寻找河景。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p07",
+          "manuscriptAction": "汀果蹲在积木城旁，手指依次轻触城里的建筑。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p08",
+          "manuscriptAction": "汀果将玩具木鸭放上蓝桥，再用双手比量桌子的宽度。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p09",
+          "manuscriptAction": "汀果移开广场的一排积木，把散开的城墙收进浅篮。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p10",
+          "manuscriptAction": "汀果沿墙重搭街道，将早餐桌推入空出的窗边位置。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p11",
+          "manuscriptAction": "汀果在新的早餐位置落座，看见运菜船经过。",
+          "contactSheetViewed": true
+        },
+        {
+          "page": "p12",
+          "manuscriptAction": "汀果坐回新窗边吃最后一口饭，屋墙上的眼睛渐渐合拢。",
+          "contactSheetViewed": true
+        }
+      ]
+    }
+  ],
+  "contactSheets": [
+    {
+      "id": "expansion-0457",
+      "path": ".cache/twelfth-middle-first-art-review/expansion-0457-contact.png",
+      "sha256": "1a6be8d08089363cc46a036b89e194006fd6d362665f8d2219ba436b2584752b",
+      "width": 1020,
+      "height": 1510
+    },
+    {
+      "id": "expansion-0458",
+      "path": ".cache/twelfth-middle-first-art-review/expansion-0458-contact.png",
+      "sha256": "1c9ed5f9b2706beaa62a22c741fce9fc3d5ffa55ac136a8c4b4a919ab03f8719",
+      "width": 1020,
+      "height": 1510
+    },
+    {
+      "id": "expansion-0459",
+      "path": ".cache/twelfth-middle-first-art-review/expansion-0459-contact.png",
+      "sha256": "4b7bce5ef812faee89aafe5b1b69eccf6752152d95bf7a7822cd844233e1b439",
+      "width": 1020,
+      "height": 1510
+    },
+    {
+      "id": "expansion-0460",
+      "path": ".cache/twelfth-middle-first-art-review/expansion-0460-contact.png",
+      "sha256": "464cc115015d7340d52ac706ff12011989e2a23784d523de68c6b4c15f369bd0",
+      "width": 1020,
+      "height": 1510
+    },
+    {
+      "id": "expansion-0461",
+      "path": ".cache/twelfth-middle-first-art-review/expansion-0461-contact.png",
+      "sha256": "7ee033512691ecf0f0f2da4b6393c1553328ba08d3602bb2e67ff631f8575384",
+      "width": 1020,
+      "height": 1510
+    },
+    {
+      "id": "expansion-0462",
+      "path": ".cache/twelfth-middle-first-art-review/expansion-0462-contact.png",
+      "sha256": "2ba4647474d862e7c8072e1acedb531703f6111a207aa5fccafa5910665a83f7",
+      "width": 1020,
+      "height": 1510
+    },
+    {
+      "id": "expansion-0463",
+      "path": ".cache/twelfth-middle-first-art-review/expansion-0463-contact.png",
+      "sha256": "88d17acfb605300ce20e0ee2d9012ec467d033de26feaa3c6512a38ba01d5bb3",
+      "width": 1020,
+      "height": 1510
+    }
+  ],
+  "images": [
+    {
+      "id": "expansion-0457",
+      "page": "cover",
+      "svgSha256": "9f1bb393b46be5d6c3d5c7e801db6df437275da64892bf84a1cf524229d8817d",
+      "pngSha256": "38c3694b0bec2b3da86d18cb3e47e594a7fcd6f4fda107f7f472699b84709474",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        20.53439826442075,
+        21.435636131144264,
+        26.636613674604856,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/cover.svg",
+      "pixelSha256": "6d42c4dbf1eedab14af5007cd9837b8f468fb7fc612ef9907741f0f964a53a0d",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p01",
+      "svgSha256": "556157e56146bed53355ab29e92244fcb9839c78f2e7fb12f3374e728f9c96b5",
+      "pngSha256": "730b624397a38a2c8a89cea0bd183e312da4d7d0505ac924a5e22eea4be5d7a2",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.253299981096863,
+        20.207903378066277,
+        25.330842872550388,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p01.svg",
+      "pixelSha256": "c54a3836277f489acb9f83909e6edcbe43c26c2f628649908bc10fc94af29d61",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p02",
+      "svgSha256": "e3f1d7c7685a2c217cb87fa09cff9874c04c614dc43ffadab488e0b30b07158d",
+      "pngSha256": "f97418aeaa3dac2a2529c460f83949a9421e155784159bf1378d02c5099a9a32",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.56730511284605,
+        20.069713855405627,
+        25.375592083623225,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p02.svg",
+      "pixelSha256": "e692bdded533e59f4c0dd3fd2c6ba370e9c017e8c240a744bc04b4749e7e073c",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p03",
+      "svgSha256": "65e183bf7da4498fe76c25e7eb98dc5d605d66fe3d49bb68c8c01227b32e51f8",
+      "pngSha256": "4729040cc6cfdb6fb098433875465103d97fdd2ebc46fef29df0638d5582c5c5",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.981748182587037,
+        20.329262671933076,
+        25.525356575692093,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p03.svg",
+      "pixelSha256": "0e615fd45fbf0f0bca6b437f4b9b98187acf12f1565dc142f5c08c8c302587a3",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p04",
+      "svgSha256": "1d12718a0fe4bfdd676dec37c8cc692c503385429e090b35c0f683753c4dfdd4",
+      "pngSha256": "9c0afc3b2d0c2fbcbd8744cddd71350fa50596cf469163136558048530bacb7a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.656123649607224,
+        20.26182489418829,
+        25.543929379130297,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p04.svg",
+      "pixelSha256": "ff8086ab16f5a54c48033ff67f98ae61f261fbb9821b8e7148778d447c1103b8",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p05",
+      "svgSha256": "25147664f0fbad4f7b63a48835589edfea70d9e42dc9daa6579ac81b81308fd5",
+      "pngSha256": "0ab4e93a2ce5c4204943ad9bca5006ab83e9d2eb6d589fe9e79ced7c5904df37",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.851412879435102,
+        20.216402351038052,
+        25.42592557680281,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p05.svg",
+      "pixelSha256": "4cfd10c6280bf918e996c868417e44cd96f498004b862deee0e478733980befa",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p06",
+      "svgSha256": "9b35fba930cf5ed8adc8c21a3d53664c9c539e43cbf80ec93dc53117e39d7b20",
+      "pngSha256": "1d77cb5562adedf6ae86044ab7ac0db9a0462e50025450b09142931b947086c9",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.430771590214004,
+        20.173095787802172,
+        25.547814487598874,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p06.svg",
+      "pixelSha256": "7cda70a3fead49f6dd3cac86aeaa95d6c278cf7fbf36a5df3a662633d48bda40",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p07",
+      "svgSha256": "74848fcc4767086d3d316de1ec0750a646b0d9c054c495a3ab6d6317f3bd771d",
+      "pngSha256": "7ed150ee76bcbaf4360c6683567d74fabf9a2bed465cdf9eb6f367636d8ec470",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.09808046420909,
+        20.306302776291346,
+        25.45824285225833,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p07.svg",
+      "pixelSha256": "cd9f1aa82410ee924f456ccd270c0683c6733753e4c7ab416efefd70e333fae8",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p08",
+      "svgSha256": "54e7ab3f90901040f397d0f27f2f1a2a80e371f347a21b397076756ea28bfbc1",
+      "pngSha256": "fe4660b58097b217318456eb86db952448032c54a97cb528e58f7a93ae5ea880",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.850351756499517,
+        18.35582512563644,
+        23.95482372547271,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p08.svg",
+      "pixelSha256": "2146c8cb55942747a65229611f07452224f55a6097f30e9013c2d86cde73460b",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p09",
+      "svgSha256": "a647f4e93540a7997f7a969f8f95fdc4a756e790b0338dfdc9a5a240dafb328c",
+      "pngSha256": "ab5150c17182bbfa0782bf7e3de47fc0df103397081f77b329777b881029549d",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.992118652005217,
+        20.324446289175327,
+        25.49629719832055,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p09.svg",
+      "pixelSha256": "821c547b5c229d5ebe65f1f3d51242d355ffc4da1ceb290b6128ce3221b3a47b",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p10",
+      "svgSha256": "ab2c7869ea06166f8a7140d8cd5507822ce39ab00ec3dcec1435333e46ca168d",
+      "pngSha256": "b59eec02e019917b171d64c875cdf3d0936b696c7f783cdbecf5591cf1ed314a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.98880219160103,
+        20.29358022965007,
+        25.480198937346728,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p10.svg",
+      "pixelSha256": "d442410a44a53b9d82ece2ecdda7468955f9b0155295e162fec0cbfe6c8162fd",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p11",
+      "svgSha256": "4f0e177634b80c00dccbbc658407119452f699cf4738927d024c5b1df8222fbf",
+      "pngSha256": "e0bcd205430a6881f5d52d87401c2aba1e01a202380d8a342592ba14ef311fec",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.038489526812416,
+        20.328964802554804,
+        25.494057414579935,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p11.svg",
+      "pixelSha256": "9f41c4bb9820131ac1335010951793949833f90ff3d8f34052d324e91d3b1710",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0457",
+      "page": "p12",
+      "svgSha256": "a52d6aedb36fc36db10712f5b647242840a4ed567964deb533f99e2b2ff56493",
+      "pngSha256": "7f6e8afeed7b529be72e467bc21f2b0113007496426eea078657e52a767c574b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.100353866573318,
+        20.17447497688728,
+        25.267106607056732,
+        0
+      ],
+      "sourceSha256": "1dce5ab0c410cdf8173763e6aee4c56e45c749b3f326cb8a5e159871fcf31952",
+      "bodySha256": "426ed0563d1ad74bbe309d67fb6cc5178ed13308f75b3a5429014fed8c415db3",
+      "canonicalPath": "content-expansion/artwork/expansion-0457/p12.svg",
+      "pixelSha256": "31d834395951cfe4c7189696942ccb233fe2ab7da76e48d3cb3e270e27f01367",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "cover",
+      "svgSha256": "df087c818f21453e65f86f6f6d80b88ecc3124bf9cbb2f367f748b8c0950bc6e",
+      "pngSha256": "7c5839b055b000c5824c2d118cfc225d21e879c1a1b8006686123f27bc0b5bb0",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        32.517359590058895,
+        27.631813698942945,
+        28.920919768396004,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/cover.svg",
+      "pixelSha256": "877a667ccbe24031cb90b381e7f142abd6afd290d0e91613a00519a2b4aeb696",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p01",
+      "svgSha256": "0e7f7b2dac0e871896d2c194110de3fe61f6c66e0f6e89c4db25e3a2d7c5f907",
+      "pngSha256": "b8c4f3c911d2e62e40ea727ed7c707bfd58632451d4b38c2a1f646e2491eb93d",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.65195465369495,
+        28.035591132842875,
+        29.278015945095568,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p01.svg",
+      "pixelSha256": "145519abddb9740c1cb0c7cc9f213abc6e6704fb8c190cd883ed0a839c5a597d",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p02",
+      "svgSha256": "c205ca422e1f195654edb38c19d2d0454ff74d6d5f9995e95b71ab74df7f282f",
+      "pngSha256": "2a4a4919c12525ea9846baec5dfbc874bc3d10d9ea0cc8baa482a322b699d31c",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.12300253138238,
+        27.3648926270493,
+        28.8216757030815,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p02.svg",
+      "pixelSha256": "a027d23d0be9953a435f27e89d737fb6327ac2585acdee68ce2891bdc9fe936a",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p03",
+      "svgSha256": "fbae8e8925b22d3bb26b5389c789e826e23006a4384d99b1e41d1c8c5b5d37ea",
+      "pngSha256": "777081b0331a2ad402e60f62a7a186e5c073b72ed5621a6fccbdebb2eb01dc29",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.34057252566396,
+        27.614728130148457,
+        29.010763091241547,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p03.svg",
+      "pixelSha256": "eb03e6658612285470b7e55a1473b0c4608ce21a95a5d0c3d083bca3fabda1c9",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p04",
+      "svgSha256": "fd47e689be00583b7ffefd12a8aaabbe8f23ad97f5166ae14de98278af55aab1",
+      "pngSha256": "90060af4228d043fe68b8ca09108c995558417800ed7b02906b4823450d0e2be",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.35508151034566,
+        27.533934773893957,
+        29.03490504424511,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p04.svg",
+      "pixelSha256": "cb2e23081054769805bff9444829d6fbb76324981f260f037db21e45f1d603de",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p05",
+      "svgSha256": "f75ee15803cbe72206912c2f6550a1ee4e46d03ea5843f47c8811515d96f4b9b",
+      "pngSha256": "b0bb5cf109c973d61d52fd703c64c03b9268cc85c7a06ced7490d6aa2441dac7",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.74650901348614,
+        28.02247348184805,
+        29.41429087125971,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p05.svg",
+      "pixelSha256": "ce0a9e5a1649418a5b63bbb0cc25c85c24bacd50457374e777e0c794bc691b69",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p06",
+      "svgSha256": "9e98a983a4bab285fa30e6f066ec6a06079fa02d4fc9486c764e40e12e2ca5b7",
+      "pngSha256": "1b461717683951e0587c4c8bd8bf68543d8e8d63be5c86037f4c9cbf66b53643",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.71687227282566,
+        28.03412656818588,
+        29.41304036091268,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p06.svg",
+      "pixelSha256": "21f4f5be421660adb569475c9dd814e4ca279f4a133b4d92716647649ae0fc11",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p07",
+      "svgSha256": "656d07108a39998507c317414902cee4af7071db156d24b2be5fed9dd16cc39f",
+      "pngSha256": "6bc0dd791c1b6192a32d6c2feb8a9262526fbb9c691ec57a273320153a52854e",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.42216559382675,
+        27.903054614029443,
+        29.38171394086087,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p07.svg",
+      "pixelSha256": "d92144d90d4502bc38e33b92bf8cf90d0f5e3d61333f339005712aff9786c611",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p08",
+      "svgSha256": "49c6606656efffcca4bc20d3d13d4238fc9dc0816059a5e75a9a09c76c36cbc8",
+      "pngSha256": "c263e12cbbfed1968bad3599d00a5506975e4d454c72069c5823fbccb87d42e6",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.625218475113165,
+        28.00951561741307,
+        29.301786624227162,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p08.svg",
+      "pixelSha256": "c8b2b4d374d83177826071e1d6227a5344f9722950a81cd9ebf604e17c06e1c2",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p09",
+      "svgSha256": "d98cc9d871c38d875ada55913d365d39732620fa8a03dad0c3bc2ba8bfa475d4",
+      "pngSha256": "01403f1100fbd18bb328454bf51d46e74e04356e3a29acab613f00ea66eecb79",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.626887816698485,
+        28.076905437919955,
+        29.41262912374175,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p09.svg",
+      "pixelSha256": "3880cb1faf339e91dfd4faa0a468ff4bc690bfd8d37760ab3f2a993e36f78bfe",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p10",
+      "svgSha256": "19e20b2910e3123a05483d10df9c0977ee78acde420f330b71824de80ca1328b",
+      "pngSha256": "eab08f9a884a34c2a344718df7191afe5b29e16a17d74bcd018b1834faa31d38",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.58269856384011,
+        27.968566564180897,
+        29.335000977307452,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p10.svg",
+      "pixelSha256": "f0f52e6b0f3dd197f605dcc484acb896675b6fce5f033b0254facd9a5ea18e3e",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p11",
+      "svgSha256": "e12584f41f13b0cd9cb4781e9d56da1daa2289f4e196edf7704c77d624f1ef10",
+      "pngSha256": "98b900c530b522d336275dbaf0929396d9fe0f7774d153f9763e7e835bbc11d8",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.660291532327534,
+        28.06168754964636,
+        29.589276791912287,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p11.svg",
+      "pixelSha256": "c186bd0044faab7a45d2d1d2b1dddfe2bd3de6c107d81afd7633346c7db08f01",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0458",
+      "page": "p12",
+      "svgSha256": "6d1202e453c271e68dc984aa00c98f08d7fc708ce7586cb7bd74f8d74255363e",
+      "pngSha256": "2fce88d0c72650a4c7f7be2ffcd5355f31ada6872ed20483dbd0872561677a9c",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        33.235202591429406,
+        27.201202356810207,
+        28.950775098917862,
+        0
+      ],
+      "sourceSha256": "2c8a6283dae97c6d8bd2aa5ac0741cafb444e2840a3c2aa8687b774c75ebea5c",
+      "bodySha256": "7387eb620b591c8c6b489e009acda59a31a48c5157c3c7a4453100c088f18c3f",
+      "canonicalPath": "content-expansion/artwork/expansion-0458/p12.svg",
+      "pixelSha256": "56925bbee637797efee215c45dedad44d8ee9a63bbd24b691470ee5ef464a81b",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "cover",
+      "svgSha256": "5cbf95f5f7d4b863a85ec60a0cca1e830b5a10a929c3e04434c33741ecd129ca",
+      "pngSha256": "59121a25341b10f770663aa17052140d416734008bed49dfc07807cf2a320af8",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        24.94482371283923,
+        22.075493454503228,
+        21.515815484175633,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/cover.svg",
+      "pixelSha256": "4e5d14f085807d038bb13d90a9558bf32d52e0ab52b2cfb86c8f3f813cc28d8e",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p01",
+      "svgSha256": "b08af5379843ad7ae5199bfa0b30931e8dc5c86ae69aa06e5de7015368ed3cbc",
+      "pngSha256": "cfb7a5c8fa2a5580821c872d5a5839728274754dfd099d9e5379e6c27e465e4d",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        22.768115896168894,
+        18.286620451051135,
+        19.34954746706433,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p01.svg",
+      "pixelSha256": "94bace19c57180579fca36ce317838009c3fed5556ce31501e834025114a5b6f",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p02",
+      "svgSha256": "c42b6eb6fd67f47f318d8b3bcd0dca8b0b68d341d4330de516496c07f47a207f",
+      "pngSha256": "2ae7ed2e9613d32bc569b20c5bbc10c9159eb193505f72c586c1da5e9820d7ca",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        24.09419036150111,
+        21.853236253588815,
+        21.316387948477114,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p02.svg",
+      "pixelSha256": "c7c8bc24d43bc4bd76083e8fe3ead9a7f67ef468059b93cb8029485fb024218c",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p03",
+      "svgSha256": "c977cf32c11c0e0d1c8153fb05f2b11a526141a4c70f52b34de6c0e2bd2075fc",
+      "pngSha256": "03deb4b0f0d42503f7cb6e3101174c23b40b2e94e76d02553bb4cdb282147bd4",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.19812311085332,
+        20.31462677408053,
+        20.07537823795873,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p03.svg",
+      "pixelSha256": "12882764377723bacb6f574329c879ba633e5599c7f50272d4d84e530e1550db",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p04",
+      "svgSha256": "3ef5a55ccea5cf61171acea160867cd88c60a1ed9f791560f5690561e3d5bc23",
+      "pngSha256": "931f8693bc725f7af7a51e44407558a1dfb6b2f7d1e23d8d82128251cccfd8b8",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        19.3246288660507,
+        19.566268532609413,
+        19.55331465617802,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p04.svg",
+      "pixelSha256": "801a4e6901494cc0db155a4c8f9fe7948523b85c167e91181351dcebb59c7126",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p05",
+      "svgSha256": "9896b6c8bbaf6b692544532ce0b12aab94a0d68f8f162b08343a09e82e1dbe9d",
+      "pngSha256": "f664c697c70dc40862fd565284ad9757828ce3e4b6c12b5dcc344e941313208c",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        22.03097569060829,
+        20.485125448422504,
+        20.184345338205585,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p05.svg",
+      "pixelSha256": "1f75688bfc8a7fe2c580ea16611418c5d28660295ff563832f54a4c904bd5297",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p06",
+      "svgSha256": "1a839f3861e4945d3a7d771882f267a56c6b490698ab9ad1cd7df222d410186d",
+      "pngSha256": "bd0c7d3c6c17543e3f102c691974770eae1b97a2db8a8dc363bd526b89c9cac1",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.973137779408148,
+        20.820896918353096,
+        20.455265154189615,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p06.svg",
+      "pixelSha256": "2fe1b821b06321335ae1087e4da80e2c5ef484da5aaecb5dd1e5aa28aa8e0bb0",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p07",
+      "svgSha256": "590bf8d47605f0d1041bee1ea1c8700eadbd290500f674ab1c65b6c77fd66417",
+      "pngSha256": "a0583f35a251fe276f26b99e6cad756eff19535b7a35a3853971cc26de97574e",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.022926030012652,
+        19.853428275848007,
+        19.91664791373725,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p07.svg",
+      "pixelSha256": "4eddf6aebe6755b8beeee507386b979b658ed349d0847b605971f8f152de9aa1",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p08",
+      "svgSha256": "4941f52a0104b593ae66883d5454417bf957077d2278371b296fab17a654ca97",
+      "pngSha256": "906fa1771b8ab2f3ef313bad06999eb97dd1f273f887bdb7431b581b446b81db",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.369055437849813,
+        20.125576910719733,
+        19.74581758315118,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p08.svg",
+      "pixelSha256": "065c50742cc501caf87c1682190fd13148b951d41dfa898bfe51dfca7dde8e25",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p09",
+      "svgSha256": "35db935b1b1e322a6de6f071b13a49ad5154e8411234a799b98199c03b595321",
+      "pngSha256": "9166adb0ea42a60729be1a1b6638fc75619e64b7cc0d2854e5593b90cd8454ba",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.71607704136651,
+        20.495003060691378,
+        20.172340237712586,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p09.svg",
+      "pixelSha256": "801ca49f46bcccb07146146b9e4935a4ee72c49c2b4ec59800a4636c448c03e2",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p10",
+      "svgSha256": "79322c8b3393dbe3ba39235f3cd3b3872442ce62161d0858ef1fdcedeae540c1",
+      "pngSha256": "3e8a86e3b00fc5224ec9ecd5707f0e92f7c5cfb7086ce79a1318a99e573c48f3",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        23.007423784618354,
+        21.103626381936582,
+        20.540774582944163,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p10.svg",
+      "pixelSha256": "0f61491d3a2e3489000aab7e4ba65453202ccd6973de3fc5c56ed3244983f8f4",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p11",
+      "svgSha256": "f531c5884f15be566eb43877c3146fa07198570d1c79760169efae5de6ebaef9",
+      "pngSha256": "4d8bbceaf2a6d4073f358e4bcc195a1ef1e1cf7cc153c48878a08f3ed8cdcce4",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.28082752869645,
+        19.878942315560263,
+        19.539885434167633,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p11.svg",
+      "pixelSha256": "48edcd55bc8758ba1d1f6743f97a6122457f2091788c3d4a926d38298e9b0be2",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0459",
+      "page": "p12",
+      "svgSha256": "e616c5573d78f7cab1139a2741f60d7710313ceb558064d9f68b3f426ed3d919",
+      "pngSha256": "0ac6234616bb04c69bad59f064d6865e94482cb746e3d9f21170032e655abb8b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        23.24990076065063,
+        20.69346052174935,
+        20.247175503480467,
+        0
+      ],
+      "sourceSha256": "3c40195b9ce201f8a3c1a7ff9010d3817052603009996955b6b935eaaab507aa",
+      "bodySha256": "7a81dc9ff04c5aac487e052d23e35d7fb06694728c78903765cfa21bf2aeb85b",
+      "canonicalPath": "content-expansion/artwork/expansion-0459/p12.svg",
+      "pixelSha256": "6b40c4895620032315ca70c39b04b7e9395f2f81c40d52fd1c29ca53a9458f87",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "cover",
+      "svgSha256": "46117c2d2c0831e527f1e7ca57591be367ef532c00909ce0afef641e323493ac",
+      "pngSha256": "89c83ee563fb0ba635e5f1c4e8509462251ff530ddcfc9403f415e1d1e348a52",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        26.012975546266834,
+        23.9133035302165,
+        26.26654362133456,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/cover.svg",
+      "pixelSha256": "62d7cd966a004a474d68cb3ed155ed635c4fda1bd4fdfb8e5cac3e2a7338ed33",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p01",
+      "svgSha256": "e81ee5f9c3ea92100d32330e6457ae02b6a50db5112e832710a95e69ec1cf6ec",
+      "pngSha256": "a74566f9a741d8765c32717709c11331ea2fc4658ce4871b9ba76101a7ef7db5",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        23.760835245861823,
+        22.89765969858315,
+        25.025131549556594,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p01.svg",
+      "pixelSha256": "79ac12fad88fc6b7f847fde17f9d0390326a440fd1bf0ebe36f0724179898191",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p02",
+      "svgSha256": "16e089fdbe4df696412f942f9d1fcac5d4df036b058ae9259ba2dbb839ad3951",
+      "pngSha256": "33d52bd58133ee5f93c82a8364ce329dedcfe5329de9c10491277d0e6797b57b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        25.08536570461375,
+        23.614657210226014,
+        25.588370046538476,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p02.svg",
+      "pixelSha256": "b3dfd824ac57cbde6544d318181b0e25d052be1ee1b28083c30cfde31a7e5edc",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p03",
+      "svgSha256": "10cdb435d154699ee94bb16898f7ba109879e1478972d764c0669a6461bb4c73",
+      "pngSha256": "e3e9179fceeac31b29fd19a12c80ab573b84674dc156bf3851eebc7bffc78593",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        25.070832172660797,
+        23.727942637436986,
+        25.83051646541474,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p03.svg",
+      "pixelSha256": "f4ff46458aa7a8ef62c2fdca6670a8333cf4bc943e4d35c2ca44525a89541548",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p04",
+      "svgSha256": "351c578f05cdd5c1a81be57f43228ede2f564f8c00d514e35bb866fbea2e518c",
+      "pngSha256": "2a6a9341fb33c2146f60f2a3614bf156b5a6f323342d91d3d58c2f71a4fe406a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        24.620081556514393,
+        23.147742606892486,
+        25.136439363359152,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p04.svg",
+      "pixelSha256": "7b6f7d5c174e3ca3b595b680ea58bb3107541d1b0b35715e194aa63f5cd55cb3",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p05",
+      "svgSha256": "9a2d90ad959d3d22794811f20ea89fae66b35480ec497d53ff2ad1f97bc05310",
+      "pngSha256": "90152184cf21c5c9ee3d63fe336b8791562d7421fda0fa955548725960b812bb",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        24.361513737160806,
+        23.120323200062895,
+        25.142078243541597,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p05.svg",
+      "pixelSha256": "079f2fb67fbb024807e71d22b91a38e891e697bc64e24b86c7b4294717b846ab",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p06",
+      "svgSha256": "7487a36a5ad516893918a97409484a3e1ecfcd71fa06bb10a9e695108fab7bbc",
+      "pngSha256": "0fe78eba49fabf7c104c9d51456a8b402811d05f743a34820f2187836038a557",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        24.5838406108888,
+        23.13819664428988,
+        25.111526580030034,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p06.svg",
+      "pixelSha256": "0ec8ebb70cc92228c7985cee37b4e1a0f475c1dda427228706055c1cb4010ef2",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p07",
+      "svgSha256": "5e3c21e80423a167e46d833b0aee0186270544732b22d2aba80870a3ea35e81e",
+      "pngSha256": "643eb675cf6f7b8e236a3540a24524bbd7eaedffbe3413292f3022b947b9d9b3",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        23.979485374305295,
+        23.179902470873873,
+        25.360471973644096,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p07.svg",
+      "pixelSha256": "63bb0fbba4f0dc935cf0b5327fe1f82bff4f5ebde9865a7588aae1732aba4f8d",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p08",
+      "svgSha256": "0a9cc2af90a165b941f2b24e1814dbf4c098151ca0495ce389daaaf41ac3c385",
+      "pngSha256": "f25bbc9e7840527d081139a74db5796a2683f12c49627e6af3be7e50c7144f37",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        24.757717647945253,
+        23.267697805471723,
+        25.25632460750494,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p08.svg",
+      "pixelSha256": "0ddb4c34ff021bc1b1297f7b42a9213d23d41400030a9f47a992b20511bfb27a",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p09",
+      "svgSha256": "802e31ea75a774f25083b6a3888e2cc2789a97f7fa6b9138b4bd15de4afbf8ab",
+      "pngSha256": "c6d7912cb3009ea1b6b2738f0c3696271121b7a2ea33cf2a7cc3486035135dcd",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        25.52210820305253,
+        23.78431637528203,
+        25.5218561683985,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p09.svg",
+      "pixelSha256": "767e1e389ba6bbe88a365d47bbd78260f566cfbe75c5e83490c46c23534bf34d",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p10",
+      "svgSha256": "35535d0d5a15f3a4263746f5f41026283b12c835bffb1edec9ea27cff003b741",
+      "pngSha256": "8d2c0c603b3f9061f69a02293354c628a4cb9f936e9961e64855d76db54b598a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        24.597190485415936,
+        23.26045411924215,
+        25.259141427218456,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p10.svg",
+      "pixelSha256": "b2667df43b9a779fde8f273cfd330806e573f6e2f5fc7de0536fa9e290009831",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p11",
+      "svgSha256": "227fa1180cc9370009ba084a2a13c63981351996919268347ac1c7415aac4b4b",
+      "pngSha256": "454d3757f7c5b70b98fb2c9a4d6721b04f046761928a602882185daf5d32f869",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        23.902009322976607,
+        22.930660464789778,
+        25.06731245211712,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p11.svg",
+      "pixelSha256": "abd7ea6be920ac9cb1f119424d519f3a7bd087f98d71ed5f3ef4649cf0e7da42",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0460",
+      "page": "p12",
+      "svgSha256": "86be7aa0719cab00e523263e020cd80756b15422c0457feb00c11d2dfae47a7a",
+      "pngSha256": "0e4da4c3a51930bec0a2e5cbd21b107a3e376a01baa995c9427ea684ed574bf0",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        24.50188701516223,
+        23.302325659192782,
+        25.328534988792384,
+        0
+      ],
+      "sourceSha256": "96d80c12094ae0815cdf44d0eca92653c284e133103953228ecf813b0c104c9e",
+      "bodySha256": "07ae2a466bd583fd68454b230ac34f33ccc1d578584f402d728449bd1dd93b63",
+      "canonicalPath": "content-expansion/artwork/expansion-0460/p12.svg",
+      "pixelSha256": "99b96e8a6875531f1763fcde4ed16b845c6eaff0c0a040a8369a4313ba2e2b41",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "cover",
+      "svgSha256": "f35d0adaae623406de11de44786117f66d2226cf8a90b5caf453a8b3876b2354",
+      "pngSha256": "b2098f439868c2cac19679937dccc9ba9c1e09d4845c0b5e82651d3a23565b16",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        28.83155509921174,
+        26.799273223509594,
+        29.80148178640041,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/cover.svg",
+      "pixelSha256": "a3d1a5bffb0c61cbe4764ca0161580aa39401c472bd9d72bbefa3a1c6cafeaeb",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p01",
+      "svgSha256": "e54751bc1b8b89e855eb7f1d092716fabb25c658b3b89bf6c1e649d11429e272",
+      "pngSha256": "d325ee2c4b81493a4b9ff8bb0cef4371837cc723659171efc1168037ecd8f960",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        28.12480573432727,
+        25.640716847978325,
+        30.171918325885134,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p01.svg",
+      "pixelSha256": "8d1b7b1a22315f8dca7f04e5aaa68b8f28a20eea25b8fb813511b7f888e4372d",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p02",
+      "svgSha256": "f936c0f1b0d7ece659ed5d4d4c0e5915ad980ae76a20f7ec98c6375aeba2529e",
+      "pngSha256": "8bdebab2fceb93f7dfe5c79d341499696469c22d8683ad9d61ae0f3093956006",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        26.742784037687617,
+        25.4623973766041,
+        29.517944986188642,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p02.svg",
+      "pixelSha256": "b4366b49d9b3d434d63de49f3c6a3d26355497ec7330b7f0561870b15543fe44",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p03",
+      "svgSha256": "4fbf9a77ff832b1b9d711273f7bd85373a395d530c9ba4a3d9cbccd0f6f0dadc",
+      "pngSha256": "28c4921906646e627f98c09335292ae2ac1137637ac90c4aebf07ef6516abc00",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        28.236519120183882,
+        26.079488117489007,
+        30.05427643005921,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p03.svg",
+      "pixelSha256": "e0299e805abf89f1f7e742dfe77a41db58881ba6ea8d64a11302edb06d7195e8",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p04",
+      "svgSha256": "a5d8eea39979a2d2e82e4414f91b46b5839963988f25f409cab28d8c41343b6b",
+      "pngSha256": "dadb9a2da1b4d93a54643017f6228bf48052b3acb8ea2c7f18d737b452127884",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        26.561163596453696,
+        25.43931923021818,
+        29.599047773151096,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p04.svg",
+      "pixelSha256": "f9d45c14ae68fad05aadc785b122e93612bc2d7eaf0dd3b1f939ebd43f4f97fd",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p05",
+      "svgSha256": "153983cf2c4b55eb3539e606ca14dab4640882f8858210316d5661be3db18f4f",
+      "pngSha256": "bc9b3d5ecf91ee465e514316e25c34ffb4a3ca54c3eddcc79ee928f46d2625bc",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        26.344536612414743,
+        25.173465944803816,
+        29.239443055181265,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p05.svg",
+      "pixelSha256": "076c5f50b781e58ba472162f65bae4a993d8e0de4b6b512baaf22d4e47f6fa90",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p06",
+      "svgSha256": "c53e6d39d94b07605bf73140ea227be6fef250f9aa5e5ded9047c123bcee5601",
+      "pngSha256": "c4b2e218f22791915a050d5fb8c5d3ec2aa87e3c5a302f660d170ea8a46a062c",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        26.272188074433913,
+        25.05387193425648,
+        28.973153885824743,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p06.svg",
+      "pixelSha256": "e6ef8b746171041278085162f86ab37aa7e1c58d0f3c349f4057ac7e280aaab2",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p07",
+      "svgSha256": "ec8206f74fb27826154be38f380deb571d5c50ed6fe44ebacf107c93ca958735",
+      "pngSha256": "240d5285e972047e2deb620248e35cd654ed0c125db97deef692c093016775c4",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        26.14323743215932,
+        25.007905595476036,
+        28.985500376619996,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p07.svg",
+      "pixelSha256": "0f7347285432b104212f5bb79dcf800c9ffa433af50398029e330a097ba04a49",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p08",
+      "svgSha256": "9009e7c397d7e81482d0c25a72f2653728fa114a5c72c573dc7a9b7eea62fc82",
+      "pngSha256": "f13238ef9277f742412ff3aaa2b358b784978ea363194021970d2bcd72ab5d0a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        26.53117810273258,
+        25.4198905627509,
+        29.587722584060696,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p08.svg",
+      "pixelSha256": "c8a809f105c7180fd7bce5affaf242a1df64351197dc1e08a9247ba27f34fc82",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p09",
+      "svgSha256": "2bd13124d78668d9e6930b93e03bd991381abcfa37193efb4fee8ecdde574ae9",
+      "pngSha256": "ac837e8a8178590d056819acf81ba95729f730feebc84f04ce124fc1e73dec88",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        26.273744172659114,
+        25.086727305018357,
+        29.0223390290717,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p09.svg",
+      "pixelSha256": "717971432249f3e6a59d5c92806de12ea03d6c1f3d5eca51be022a4fa3f31016",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p10",
+      "svgSha256": "6aeac9bc0c92c823ea99bda924d13981b8ed3052bf7247d4e4b15ff773314961",
+      "pngSha256": "47e839313ff0ea0c1ed8724efbc3c01a6d1d440899e4543fa89539bba4e3eed9",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        26.25671811328329,
+        25.053249820109308,
+        28.983981349647994,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p10.svg",
+      "pixelSha256": "4bc041d8c2a4b81eb4f9455ee3a6bf8f667520d66dbe7555906811b26f29f4eb",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p11",
+      "svgSha256": "bc6d968587487fa91ea7917cf5e1b7f486340d33e03758167b59c1ee1eeb6216",
+      "pngSha256": "3e1821760642f6697ad35f21997b70b607e1587d5b26ae79412ab4afa03d01f8",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        28.398656530774748,
+        26.23773978078404,
+        30.157415262001557,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p11.svg",
+      "pixelSha256": "545efb2e5a5af753bf40edfc0f9a52a882b10b3dff8055d06826c5439e3f04ea",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0461",
+      "page": "p12",
+      "svgSha256": "58c753ca47e1eddf682d5c6f6ee59f88710fac9a2549d5bf035089b329d5a14e",
+      "pngSha256": "db4d125441172f40a92776181c00e08922a5083d8d3cc15b58a20b9b8a6d072e",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        28.39136778593359,
+        26.35403812174993,
+        30.290931455181436,
+        0
+      ],
+      "sourceSha256": "8cbf9a13d39b7cbe6fedc75d7ff161426b6142d14439682e381b0c3cc38eeca9",
+      "bodySha256": "cd5af235bff804df49a90e1bad10c4eaa57aec37f921ef196432870eba06a00b",
+      "canonicalPath": "content-expansion/artwork/expansion-0461/p12.svg",
+      "pixelSha256": "bd8ae058d1bdfbd6150a99f88c719b293f4b87d94d94fc6e96f18225773004b0",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "cover",
+      "svgSha256": "6f4f3c8904f38821ecd33ae34c85606cb71fd926b03fcb4ec5055a3eba2f9b3d",
+      "pngSha256": "c380bb0e5c8c8ed798920687172e9daf07a6c6fc8c664ce000bfffb1041b94a7",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        23.067175075734813,
+        20.00813383763022,
+        20.399717855824427,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/cover.svg",
+      "pixelSha256": "530a0720fd70b38298e07498079a72413dd7bfd23e530e29d9d818464aa11833",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p01",
+      "svgSha256": "4e2c10fea3b069e98f95bc26bff8558fd21852c469d7ed6e880a629edeb3b210",
+      "pngSha256": "d2ade0cda4518e5b921d7a26058bc9fb3d79eac9d2ae951cbcdf95d2c6ce6326",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.80136944438532,
+        18.646387545388638,
+        20.92733540046238,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p01.svg",
+      "pixelSha256": "7b92234eeee54a32014f79e048ab5783a65c9f95249d7943cb8b4a83f925684b",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p02",
+      "svgSha256": "e3302a359536e016dc8aa5bbf7bdb516f0d78f2e7b4bdb1639974023bc32ed0f",
+      "pngSha256": "e1a15be2cc69f55cddb47c101e434340c1f078d90abe9d640fdf4b5f6a0d238f",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        23.096643635005243,
+        23.861500180626518,
+        24.956567555086714,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p02.svg",
+      "pixelSha256": "0b790136fd871151af90c86ea1fa2950a99f2d48a108ae50f06cfaee17f2768b",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p03",
+      "svgSha256": "a70719a3531fa3487b939f18c61fedb9656f3c2ded29cf5f0f550a0932d057e4",
+      "pngSha256": "cbbe7ebe8d253a44fe89ba1f75264e0f7299d56a8f9e7596cefa171dcddbc59f",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        23.363500554647942,
+        22.3247292426923,
+        23.629469987756877,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p03.svg",
+      "pixelSha256": "b5f552d0f75f8a2668ac4e83892691e7d1c6ee0b0eb6e90cff95c068175b1c21",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p04",
+      "svgSha256": "7483848a75cb317fe167351e2c5ee7130c4eb7ec942a3dfce56e910ec4bff17a",
+      "pngSha256": "f5ca2756fd3fbfe1332a812e34efdc9ef8f6edbcaddef0108994fe391cb72d48",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        11.153106488035837,
+        11.09486674798657,
+        16.449327467280877,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p04.svg",
+      "pixelSha256": "34a13ca4da5cd474e4a8ee48a530738afbd56243098fffa27bdad01d60eafdae",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p05",
+      "svgSha256": "0ad8e10702ff63f479d7b339f4bb1e97509f4acf079b22cfb0e668cb4302cc96",
+      "pngSha256": "7e47443ecffe67c540252b768d9aaa2729d5807a92d4fb7f9ba0dee3a8a827a2",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        12.788629028573961,
+        12.30383044323607,
+        17.74642364519216,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p05.svg",
+      "pixelSha256": "715afb5af760a3cbbaa433a30e96880f9eac2ab2a4ac8b65382e7a0ac6fa1cb0",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p06",
+      "svgSha256": "39bd76643677795faaeb1d4ed7ca1c1c43698bfda6be0ea334596f849e9409ee",
+      "pngSha256": "19886bc3e9764c2cc46ce100312ab617aac38b7415e8995467f0b2cfda104b9e",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        20.367755225792333,
+        19.29684927281503,
+        21.236545220465313,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p06.svg",
+      "pixelSha256": "9385a7fc19b0bf5bcb095c159e823c9c02ee6968ecd4e4e215dcacbf80fa9c26",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p07",
+      "svgSha256": "f7083329f6bed8c11b47744f5465d8e57cc673d5edb02959753976855bfb85a2",
+      "pngSha256": "0a29aa8b58a9b907e4b8338df7279febbd31fca15e7b89d837794c569ecbdb11",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        23.02304380306108,
+        22.696338184426537,
+        23.73886465568055,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p07.svg",
+      "pixelSha256": "69652e69b9fdfdc5bd94803d07f8d46a29cde2c028dfd658a2d411bf5fd38a4a",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p08",
+      "svgSha256": "638ed63f8f27058ef9a0d83248d0fea6b36b0070e10e7bfbc3fb2b31e475e3b2",
+      "pngSha256": "aae4cde5fdf9ca654ff42f59aa0168a9e6e6bd00655ecbd822293e144024bade",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        22.97723455595576,
+        23.194307562332423,
+        24.037448090139236,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p08.svg",
+      "pixelSha256": "148e1a31beb21a664e9185d77c11aa8b354b2ffff1815aa035b1a4d7ca92c94c",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p09",
+      "svgSha256": "953e0eed17f1b98cbf55a6ecf9d4a3ec576e26990b842245ec199d70df9dcd5f",
+      "pngSha256": "9f6e962a2de3f498f22bd359f2bed6b37b76c9369644840fb289009c0c85be69",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        23.258651188252774,
+        22.005134244356565,
+        22.600142999315622,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p09.svg",
+      "pixelSha256": "301eb0e9e5647e8e78919f80b2966ab794ed66eb177fb3267a18d663df3337d0",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p10",
+      "svgSha256": "24d9fb3d04e9068b419ba9a4b26d62b780bafec3dddce41d6e9ef10c205ef740",
+      "pngSha256": "5e9f30d748a98c16f5f61dd86d06781b1b401eb5eb4123e92a10f39c6065e218",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        22.413583590421478,
+        20.84667081890004,
+        21.767253979792837,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p10.svg",
+      "pixelSha256": "24e1e0adc194015dff71abcc54775179c55112082a13471734a01199b1562f40",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p11",
+      "svgSha256": "09c0c3dece0cda76ba1239bb9c66a318821053db1be005044133346ee24dce23",
+      "pngSha256": "df6f47b271605bdf3268bd926f0fd8fa5f57a583b595b4bdd0b9e596adeb814a",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        22.45028366716084,
+        20.87283745095718,
+        21.78273231929315,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p11.svg",
+      "pixelSha256": "9fadfa1d297f3d84163c2ec31c24ca14af8b2097def5fa5842657e2c06106dfe",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0462",
+      "page": "p12",
+      "svgSha256": "219c63475bbb57fcef27b464f1d992a38f9bde49be1b4c0a3e7f67c2a24a7410",
+      "pngSha256": "0adf6f5ff3a5a48bb94cd188e1fa63dd2379696582145bfb6686b8b24f762cad",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        10.994146784506526,
+        10.906707216705732,
+        16.39175032628905,
+        0
+      ],
+      "sourceSha256": "be82612946aa2a22642dd7551ea5ef0bc9081bb141eb90ec42d033b5a7cf8665",
+      "bodySha256": "94641de038d3477c589e153fd38431ff42c621cc07412ff560c80ffbe472a60b",
+      "canonicalPath": "content-expansion/artwork/expansion-0462/p12.svg",
+      "pixelSha256": "dfebbd994406a1f94c9399615b34855ed27e453c77ad6f6fca4c1240c17b6ae7",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "cover",
+      "svgSha256": "bcb0c7cb196f64084213c4ceb463811f930da1fa6abb7172b7bd36f614ae6604",
+      "pngSha256": "178029491e784b7493f1432de5dc6398c18e378852e77486abd7a5fb1a8cd167",
+      "width": 1000,
+      "height": 1000,
+      "stddev": [
+        16.307419508989987,
+        16.021962621379682,
+        19.52134140111653,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/cover.svg",
+      "pixelSha256": "528d25b74cc935d989a43f9dacf95bdf10562156acc46a6fcfb60bd84ce79387",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p01",
+      "svgSha256": "ccfe082a8836f5bb3141a1e6d04dcce2656220722d56b34965905208c38209a9",
+      "pngSha256": "5c2e303b58550a1c400a5a099e0ab35abff9fd2069f6dda2ac07ca0738fbdfa8",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        15.18824978307368,
+        14.77792016830527,
+        17.81657967163176,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p01.svg",
+      "pixelSha256": "8d24d721f652530d82aedcf397de932a664852b3386a4ccb3def5031827106a0",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p02",
+      "svgSha256": "7009e257d6868d98122404c108b3543330d16bd6d7c764ab32fda9e3da628c3d",
+      "pngSha256": "ea1863c5842df796755e8cc166b9f7623a95edd8532adff813933b1608322026",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        15.682857025186086,
+        14.926503659503291,
+        17.916481581833086,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p02.svg",
+      "pixelSha256": "50ed7d535f4e62325d53d8acdc6ac781674a12deca21fec2912f454701cb209f",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p03",
+      "svgSha256": "0cfd8f35e2a2220b77afbde5e40ec57858c378196885dd792173545aafb4cca1",
+      "pngSha256": "186f1aeb2f0338d49d1eddfc1cf08e27f9b38da63986050f7d10c231435900e8",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        15.012377359218803,
+        14.4473016159223,
+        17.519703474163354,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p03.svg",
+      "pixelSha256": "8327a859fb75940a79346a9b57e29fdcab9cd90a1deb861d85c0f638370bef45",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p04",
+      "svgSha256": "634b7d34ac226b7eb2a089e08663758358ec31b0b5ed548b320f9d04c5879ec4",
+      "pngSha256": "c074b22b2fa397baff0d2528166956826ef1c5df0f9271cf10e5ac03190eed98",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        21.864975551498755,
+        29.80139358234464,
+        33.554353844871265,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p04.svg",
+      "pixelSha256": "d1ce96d38dadf3a1d21f0063c0e0ef9c27436031e193ead43520e218d1d6dbc7",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p05",
+      "svgSha256": "10a4a05557f36985868f7c2209de9949fded7d3af6f5ee134ba3f29469a66564",
+      "pngSha256": "241b2333fe8e99d226e871df835c80fbe0c45ab0b180b81b4cc75b6f8270cc49",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        18.94383931886687,
+        16.87415973031757,
+        19.22471491543773,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p05.svg",
+      "pixelSha256": "ce1505832e20e3aa6b3ad298d8a699e3b1f96164703e22d54a4afb770cc95f36",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p06",
+      "svgSha256": "a50390d7ce836cb30fe9462154ce2f258c5ccdd11ad8574bffd84999a74cce50",
+      "pngSha256": "901030beba6ff26765f45958291724f90e95d4f41bb20d6f04c5a9f95ff7b22b",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.321505227034791,
+        15.146091877141005,
+        18.269714938063593,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p06.svg",
+      "pixelSha256": "47769b4221bcb5a035d051f8149ea837d8f257c5bd32ada9eb9970ebe0a50719",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p07",
+      "svgSha256": "6e6ac961c9d4881cf932e5839af45d262a17f68df6fbacfd0e73fe110fec1ab1",
+      "pngSha256": "e74adac2c77d856a7b772e10b0cf808217a5fa9f4f5c28fd3d215450adef8513",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        15.241929395243213,
+        14.623682847074154,
+        17.652550261955085,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p07.svg",
+      "pixelSha256": "24945785a7098d1d532e521821317bd4909d9244395b0be16c8a2af973e46455",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p08",
+      "svgSha256": "66a087ae2211ae165e04f64a986f65aa11548845d608230e4d1a8fb530d9ab07",
+      "pngSha256": "8695f410b127c0c74417b19dff98d00466dac3addf967b9228077c3a7fe33df0",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        15.331000112342004,
+        14.631495033002224,
+        17.64945332522365,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p08.svg",
+      "pixelSha256": "9746714e4818dea34dbc073544748da87d43545e45db9f53122a1510f5533cf9",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p09",
+      "svgSha256": "836e7ed2517e41c1399eca5d99931dcfbab2bdbc4d93317fc54c1d551981d99a",
+      "pngSha256": "a665406344652773bb8c89f43122bca6258ec3eb16e8473dcf0f444667585d88",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        15.037458165456655,
+        14.635913682780666,
+        17.69023851421449,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p09.svg",
+      "pixelSha256": "984740828de312de1e9dacb6268193c71031f67fd9f0dc4a178cf0c1ad3b5917",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p10",
+      "svgSha256": "d82afd4349b078e3cc931068792442752cb17c2c10833848768a9830309e51ab",
+      "pngSha256": "d423e069496e2c2d94a53aac79c4633972f4aa205cf01538e8a3b26f831e7499",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        15.837437868957847,
+        14.892099888178459,
+        17.964124338867837,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p10.svg",
+      "pixelSha256": "3f86bd4464cd5078090266b818f565b71cde35339ac65eeb571b5a47486b3082",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p11",
+      "svgSha256": "b4eac0a3a0229260af4d89516a4842c6ec23dc73d121100ffedfc989d870fefe",
+      "pngSha256": "ee70dec2b9ab2209b464b20911acc954e7d716a2ed32768bad4ecbb33c047be5",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        15.180933508078594,
+        14.690368745549868,
+        17.81314544473236,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p11.svg",
+      "pixelSha256": "e14028391be71277e98609e4d6a3759eec2369bef8e6993b996dbebd11752d5a",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    },
+    {
+      "id": "expansion-0463",
+      "page": "p12",
+      "svgSha256": "3e7bfe76cd6b8b0cc008d87a3a2b2114c8052f3468a0f2907f82c15d5521fed6",
+      "pngSha256": "f99dfcb653de3e7d62ee70ae95c828981b205f1d74157fdbb2404b134456f3d4",
+      "width": 1000,
+      "height": 800,
+      "stddev": [
+        14.941545401905302,
+        14.654985646517405,
+        17.919693211633643,
+        0
+      ],
+      "sourceSha256": "74bca0ef8a5501e7484154adcf234732c1ac58bf0c83d56c8200d836660ce563",
+      "bodySha256": "4a4e901523ee11f6c34f8a9c2fdbeb3ac6470d62a5fb09f28d7e6ef47b3ed215",
+      "canonicalPath": "content-expansion/artwork/expansion-0463/p12.svg",
+      "pixelSha256": "b0fd99e41fdcbbecd5913262486097f72121e9ced972e5969ec614252feb75cc",
+      "pixelFormat": "raw RGBA, 8-bit channels"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0451",
+  "title": "羽毛椅的痒痒藏在哪",
+  "version": 1,
+  "bodyCharacters": 505,
+  "pages": 8,
+  "duration": 157.21,
+  "bodySha256": "550896eb36e5e2e18c23025939b4a66e2c1ad697dbe76dd5e8462d5a935dded5",
+  "audioSha256": "35c13e1a7d0814f09439b9b417d1200eea53637f540c6e9dcdb2aa6cb732fd6c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b0a37587a84bbed9ece04b695968c0feeada088b394937cfbc6b8e164ba1a8f7",
+      "bytes": 17080
+    },
+    {
+      "name": "p01",
+      "sha256": "0d142c0c0605a4c70dcce5e97885edb7c7f135b6759316d248816b76a55ed663",
+      "bytes": 14010
+    },
+    {
+      "name": "p02",
+      "sha256": "e8e5586256b46ce30f2a93bcc8aa8acf8c86d22c3f1b20d781bdc7ed80696b2b",
+      "bytes": 14496
+    },
+    {
+      "name": "p03",
+      "sha256": "db9f03f2fcec959a6ed9c61de07abb472249f6a4a4bfec8da3cd1cad488e3cf1",
+      "bytes": 14128
+    },
+    {
+      "name": "p04",
+      "sha256": "750c64430dacd734e99893e064320029aec8e7044d475de0aa6a11d19d61709d",
+      "bytes": 13766
+    },
+    {
+      "name": "p05",
+      "sha256": "ee1f4b2db0a4e5094a47334f3a7bc7dc00b3966d121196870bf217d128a92f08",
+      "bytes": 11762
+    },
+    {
+      "name": "p06",
+      "sha256": "0e8949e501623bd72cd77a28d377ab977de8347927f6523c2048d6525e390790",
+      "bytes": 11626
+    },
+    {
+      "name": "p07",
+      "sha256": "bccfbac76d9176755c5fa340581573342f5d3c2d10d3b775a58875d260c4c26a",
+      "bytes": 16354
+    },
+    {
+      "name": "p08",
+      "sha256": "b0db1aad106aca4e1d9bf70030f83d371183ae9faba0d4a1c5bd0718ff953c45",
+      "bytes": 16676
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0464",
+  "title": "墨尾的字留在水里",
+  "version": 1,
+  "bodyCharacters": 959,
+  "pages": 12,
+  "duration": 290.514,
+  "bodySha256": "062cf3385042e428c482ad1a0512764b29e6f91b4a9bf00b7ac7f09f7c57712d",
+  "audioSha256": "017e43cb16f6ed543ffaa00bc4c94c8dadbedf51523c09a5d5f6bc507318abf5",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2aed8b6464bcdd8e363fda4c4d29809ca25561fb4643e088da0dc9ff6def7d76",
+      "bytes": 17606
+    },
+    {
+      "name": "p01",
+      "sha256": "fe1dedf4f5396fbd808c172260783598f5992f7635257b479e21df55cf9503b9",
+      "bytes": 14386
+    },
+    {
+      "name": "p02",
+      "sha256": "189b99628cb84115b5da4e0c0d2a61301efd4908cbefc3456dff0018d36c836f",
+      "bytes": 14254
+    },
+    {
+      "name": "p03",
+      "sha256": "90cced8fe70d20cce83ba19f0eefc85339fcb8b4c707df821cbc09a3ff96ab1e",
+      "bytes": 13814
+    },
+    {
+      "name": "p04",
+      "sha256": "98de3f7992427c369bfca63fa33e749bd3a9207557f46c6b1f07c8e3ef642b6b",
+      "bytes": 13754
+    },
+    {
+      "name": "p05",
+      "sha256": "927795ae9764db1e6d3faff703c8135618eceabc0d1dfec976d152de17e0702e",
+      "bytes": 14512
+    },
+    {
+      "name": "p06",
+      "sha256": "abd044ed55ec2b8ad006f3c67fd6c5f5313f18f1947fef86585a8fcae165dc85",
+      "bytes": 14032
+    },
+    {
+      "name": "p07",
+      "sha256": "60c05c374fb8885785787ab0cfa50a700a143ec393c94da12164d3d69370d603",
+      "bytes": 14254
+    },
+    {
+      "name": "p08",
+      "sha256": "1f8fdf07414d3d49f5fad00905e8ac9077cd04ad0c835b4d8b026f8e8062b188",
+      "bytes": 15382
+    },
+    {
+      "name": "p09",
+      "sha256": "70284bc93fa2b6b80d623a7a069c100847c37a4eab219654dc68bb1d0cd04b3c",
+      "bytes": 15626
+    },
+    {
+      "name": "p10",
+      "sha256": "3dbbc1b91b412d65e588f40b9bd1d02d241cf435bf8cb17b53b37af8b3b91d69",
+      "bytes": 15014
+    },
+    {
+      "name": "p11",
+      "sha256": "8d568e03379030ecdec99197cdbc49afecbf8f48b82fc9ee67860b05ed7754cc",
+      "bytes": 15232
+    },
+    {
+      "name": "p12",
+      "sha256": "ef48251b835d54e081f140b0623f92ff0e59575af27e4c422668f92845ea5b92",
+      "bytes": 16414
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

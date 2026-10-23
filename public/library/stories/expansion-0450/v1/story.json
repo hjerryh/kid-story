@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0450",
+  "version": 1,
+  "status": "media-ready",
+  "title": "紫印子游进水里",
+  "subtitle": "洗个软软的澡",
+  "description": "屋顶花园里的布龙想洗个澡，苔苔却舍不得它肚皮上的果汁印。那是他们第一次野餐留下的。洗掉了印子，那个快乐的下午还会在吗？",
+  "ageBand": "3-5",
+  "theme": "旧日小事",
+  "color": "#94B7A1",
+  "character": "苔苔：短黑发的小女孩，穿浅紫色连衣裙、白色软鞋。布龙卷卷：浅绿色棉布身体，深绿色布角，圆圆的黑线眼睛，短翅膀，肚皮上有一块紫色果汁印。",
+  "cover": "/library/stories/expansion-0450/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 157.018,
+  "detailUrl": "/library/stories/expansion-0450/v1/story.json",
+  "audio": "/library/stories/expansion-0450/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "屋顶花园里，苔苔有个布龙朋友，叫卷卷。他的肚皮上，有一块紫紫的果汁印。那是他们第一次野餐时留下的。今天，卷卷揉揉肚皮说：“这里硬硬的，我想洗个澡。”",
+      "image": "/library/stories/expansion-0450/v1/p01.webp",
+      "start": 0,
+      "end": 19.55
+    },
+    {
+      "id": "p02",
+      "text": "苔苔摸摸那块印子，想起葡萄汁倒下来时，卷卷打了一个甜甜的嗝。她舍不得：“洗掉了，我们会不会把那天忘了？”卷卷低下头。他一弯腰，硬肚皮就折得不舒服。",
+      "image": "/library/stories/expansion-0450/v1/p02.webp",
+      "start": 19.55,
+      "end": 39.124
+    },
+    {
+      "id": "p03",
+      "text": "苔苔拿来软毛刷，想把肚皮刷软，又留下紫印子。她轻轻刷，刷了左边刷右边。印子没有走，肚皮也没变软。卷卷试着抱住自己，两只短翅膀还是碰不到一起。",
+      "image": "/library/stories/expansion-0450/v1/p03.webp",
+      "start": 39.124,
+      "end": 58.794
+    },
+    {
+      "id": "p04",
+      "text": "苔苔端来一盆温水，却迟迟没把卷卷放进去。卷卷坐在盆边说：“那天，你戴的帽子好大，把我的尾巴也遮住了。”苔苔笑了：“对呀！尾巴还以为天黑了呢。”",
+      "image": "/library/stories/expansion-0450/v1/p04.webp",
+      "start": 58.794,
+      "end": 77.264
+    },
+    {
+      "id": "p05",
+      "text": "苔苔看看卷卷的尾巴，上面一点印子也没有，可他记得帽子的事。她又想起，一只蚂蚁曾拖走半粒饼屑，走得摇摇摆摆。“我们边洗边讲吧。”她把卷卷轻轻放进水里。",
+      "image": "/library/stories/expansion-0450/v1/p05.webp",
+      "start": 77.264,
+      "end": 96.766
+    },
+    {
+      "id": "p06",
+      "text": "温水浸透了硬肚皮。苔苔轻轻揉，紫色一点点散进水里。“你把饼干叫成小月亮。”她说。“你咬掉半边，它就变成弯月亮啦！”卷卷接着说，布鼻子上挂了一滴水。",
+      "image": "/library/stories/expansion-0450/v1/p06.webp",
+      "start": 96.766,
+      "end": 117.108
+    },
+    {
+      "id": "p07",
+      "text": "换过清水，果汁印洗掉了。苔苔用毛巾轻轻压出水，又问：“那个甜甜的嗝呢？”卷卷眨眨眼：“还记得呀，是葡萄味的！”苔苔笑着亲了亲他干净的额头，那里凉凉的。",
+      "image": "/library/stories/expansion-0450/v1/p07.webp",
+      "start": 117.108,
+      "end": 136.826
+    },
+    {
+      "id": "p08",
+      "text": "第二天下午，卷卷里里外外都晒干了。他弯弯腰，软软的肚皮折成一道小沟，终于抱住了苔苔的手指。他们坐回花盆旁。天上飘过一朵白云，卷卷说：“好大一块饼干呀。”",
+      "image": "/library/stories/expansion-0450/v1/p08.webp",
+      "start": 136.826,
+      "end": 157.018
+    }
+  ],
+  "buildHash": "5a7f49a960be680578baefd298a4859b4118af8a8bec3a4fbce44c4855e58dc6"
+}

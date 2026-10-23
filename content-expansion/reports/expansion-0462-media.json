@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0462",
+  "title": "睡网记住了圆豆子",
+  "version": 1,
+  "bodyCharacters": 963,
+  "pages": 12,
+  "duration": 285.69,
+  "bodySha256": "9e09b8365d8c906284ae95906609379f27919ea1feab8f64d2e25406f0ac5382",
+  "audioSha256": "56f281ce4eebb1b9addf42964616f2421fe811c9857ad529a07767f1ad9e2c74",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f790f6b308db9500c2fa66631c1c90725f342412422a33f19b679abd54b79a19",
+      "bytes": 21614
+    },
+    {
+      "name": "p01",
+      "sha256": "0345d720241a27fca2f758d6e8aac3c4ed7a82890c05f780990ae150f7277d58",
+      "bytes": 12444
+    },
+    {
+      "name": "p02",
+      "sha256": "2e4201ea7db975d2feb07843c45457531400db32036f9d9477e9751bc23c0154",
+      "bytes": 17210
+    },
+    {
+      "name": "p03",
+      "sha256": "d90543592353d5859a6135dbd4a50f52eaf278f826b400edc1a23d1580c61e82",
+      "bytes": 22012
+    },
+    {
+      "name": "p04",
+      "sha256": "4f48a659bafee2df1390ac2960ce21a206adaa333e0508ed6e13d510d9cc8058",
+      "bytes": 15642
+    },
+    {
+      "name": "p05",
+      "sha256": "95f4d541185e474f6d4d9e9d765a268569a411f3f4ece30fc20fdfc159b97aec",
+      "bytes": 18510
+    },
+    {
+      "name": "p06",
+      "sha256": "62923ad01721bcb871b2d31e65887bfb42b280c8fa3b29e80be6fb7740333dd8",
+      "bytes": 18116
+    },
+    {
+      "name": "p07",
+      "sha256": "4ac3b9cc76321ffbeba0a919bf8c9b321a91c0b8f63cb760fb5245b21adcf6af",
+      "bytes": 16112
+    },
+    {
+      "name": "p08",
+      "sha256": "61c7e2cb42e3a854ecc325cf5a8cd4f70a4b342dbb89114f7c52d730d0933125",
+      "bytes": 16458
+    },
+    {
+      "name": "p09",
+      "sha256": "a8bb063911f27d5728e15691ed4f38c3ba4c47cb5eb2da7cf9a4aa884e57dc59",
+      "bytes": 22918
+    },
+    {
+      "name": "p10",
+      "sha256": "55562baa0321fdd61d55a031823ba7c04e7b96acb76d7d7bf90d7de43cc0dd79",
+      "bytes": 20142
+    },
+    {
+      "name": "p11",
+      "sha256": "6ce98d223fa51dbd77990d24384fdbca9bb023227bc3fc18ed4b1bec81db4307",
+      "bytes": 20038
+    },
+    {
+      "name": "p12",
+      "sha256": "d593b8e06d199a58f9073d1f599f6dbf8bc7ddc68daa81f3fe1f764bb315b4aa",
+      "bytes": 13964
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

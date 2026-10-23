@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0456",
+  "title": "汤海里的小碗船",
+  "version": 1,
+  "bodyCharacters": 523,
+  "pages": 8,
+  "duration": 170.194,
+  "bodySha256": "7e85ffb5224f1fdf02549a18fbfdf58cd7773e6c23570b46df968d195476f2ba",
+  "audioSha256": "8a48636fb3a0a119ed5965ee2943b3f918cc07ac3049ed39905b66bddd3d3f09",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "767e015aa79a962afeb8f9295617d917b4d4214720b01212f05f648a6a5297c3",
+      "bytes": 12370
+    },
+    {
+      "name": "p01",
+      "sha256": "71d5a13a1074388b9063a6a169e9c7735bb7920ecee85890a6c8d4c2c6c4164b",
+      "bytes": 10456
+    },
+    {
+      "name": "p02",
+      "sha256": "d5a02f8e65aebb8aa751acc24f60f12123e20e850782906ba149bc2320c837ea",
+      "bytes": 10072
+    },
+    {
+      "name": "p03",
+      "sha256": "939de1dcf38cb35c3859c10dbb02f418735348f7c30c1d8db2a2a45782243eae",
+      "bytes": 10122
+    },
+    {
+      "name": "p04",
+      "sha256": "4eb647bc2a728bd7908a54687a8df3542ddc37126d434a427e8136432e49e683",
+      "bytes": 10264
+    },
+    {
+      "name": "p05",
+      "sha256": "31f63449fd36a6623177dbd5c7bc5e35a9dec1dfbab0f7fb8c3708c24aeecb51",
+      "bytes": 12918
+    },
+    {
+      "name": "p06",
+      "sha256": "8c1ac6682317ce926fec43e15cde43c23177e9f3a5d4c536e54d36c171ad45f0",
+      "bytes": 11108
+    },
+    {
+      "name": "p07",
+      "sha256": "81350e4d97ac5b2b739539eb58a69ba5d21e790c7687a8dee46137302fafba79",
+      "bytes": 11298
+    },
+    {
+      "name": "p08",
+      "sha256": "51d6368fa31557854acebee3941f6e31a9a6bfaea6caf2ed48ff3a1bcbd73d18",
+      "bytes": 10234
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

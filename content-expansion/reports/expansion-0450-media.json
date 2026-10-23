@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0450",
+  "title": "紫印子游进水里",
+  "version": 1,
+  "bodyCharacters": 493,
+  "pages": 8,
+  "duration": 157.018,
+  "bodySha256": "a7d67759fc0748923c4d5f3a77acc387860fb028db62046b509e8a74bd0fde69",
+  "audioSha256": "6c4678082a39b1457bd811bfbf12c8f111cbcd9e4a3536b47eaf1317f3676663",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4dd69fb7c02159ec8a6179065a31a6efddb3e66a57c57c9aba376615bc6fdfac",
+      "bytes": 12228
+    },
+    {
+      "name": "p01",
+      "sha256": "413f173fd6c5c37b787efce231154441ebcf03ca4f1829cf0f58fbf59c864d26",
+      "bytes": 10992
+    },
+    {
+      "name": "p02",
+      "sha256": "d39cf26a1bc1283348de6d8e86be3264d44f797056feb98ebff466870720c9e7",
+      "bytes": 10812
+    },
+    {
+      "name": "p03",
+      "sha256": "f78b68cbc393300b2caabeec9cb60282781e6245632a785dcb3bd5fce041de8a",
+      "bytes": 11282
+    },
+    {
+      "name": "p04",
+      "sha256": "de83033ec2d37f0a36ad98859326ef645cc3d49703b1c15b06e92400fca81775",
+      "bytes": 11434
+    },
+    {
+      "name": "p05",
+      "sha256": "1e7b9909f684bd64f8af2b02a46055a7034ae1bacc8c0306df1b800b3f8b1b8c",
+      "bytes": 11880
+    },
+    {
+      "name": "p06",
+      "sha256": "017b27dd872e81e5324ca55c31cc6a655e4b1ed50bb500d7bacd5ab3a1580e3f",
+      "bytes": 11542
+    },
+    {
+      "name": "p07",
+      "sha256": "37462f5f13d11d3829fffa65e5707e1a3149e5a6aceb7aea31ad176dc03fd3af",
+      "bytes": 11392
+    },
+    {
+      "name": "p08",
+      "sha256": "03653be2962d41581fab67c3d05402393940e3a671bf9fa9fb68a012075fb625",
+      "bytes": 11590
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0438",
+  "title": "九弯棋路旁的空凳",
+  "version": 1,
+  "bodyCharacters": 1601,
+  "pages": 16,
+  "duration": 495.962,
+  "bodySha256": "5a3dce67c5c345503c3fa5a0b736f50a072c729ae075a435c5e1134bd0e5c08f",
+  "audioSha256": "51c0aceaf7a1cf1bb7e0c7f8dd78b413869bb98b8ffab30312006559a770fb54",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "324799cd42c379beb668f3de38bddac29304196f245f492b8c05a1050041afba",
+      "bytes": 23998
+    },
+    {
+      "name": "p01",
+      "sha256": "9cfa69717d8a2a82c1897bf1df194776f09a9c660f6b3374d719077bf9c45081",
+      "bytes": 20780
+    },
+    {
+      "name": "p02",
+      "sha256": "208fdd12df5be41dbd0755c5aff5a62fa81a418dc6b79b7f07cdb97bfcdffd2b",
+      "bytes": 24312
+    },
+    {
+      "name": "p03",
+      "sha256": "215ae983b834ef91809289f2beff3334eba592c04ad8e172d40afafff4bd436b",
+      "bytes": 23390
+    },
+    {
+      "name": "p04",
+      "sha256": "098f2bf5423a6e94b186d30bc9cb7739de3064d6aa5923935c21dc43405a0bed",
+      "bytes": 19342
+    },
+    {
+      "name": "p05",
+      "sha256": "11294cbf6f9581dcb43e982e34140e167827e4892a3d05f1edb79600dfe9caaa",
+      "bytes": 21212
+    },
+    {
+      "name": "p06",
+      "sha256": "d8ff960b91ac2a3bac01cdcc859c8fdc200d435a7d8dd77571da7ec0be4393a1",
+      "bytes": 11982
+    },
+    {
+      "name": "p07",
+      "sha256": "949fe1749951e716820abc97df59674678436aeefcc6c92dcee55e0fd8db4dd0",
+      "bytes": 19318
+    },
+    {
+      "name": "p08",
+      "sha256": "52b3a72fe7a01391f1be58564db4ab221181fdf0db04e4748b39952ef0623ccd",
+      "bytes": 19344
+    },
+    {
+      "name": "p09",
+      "sha256": "083bac2b80f10fef87a6ae94d2688ef51c6847b4dc1c16ad27bcfc188cc243e4",
+      "bytes": 18014
+    },
+    {
+      "name": "p10",
+      "sha256": "fdf2b9bf960fce172f15b79d890d458d0358953844d01a5ca480292931ebf044",
+      "bytes": 21520
+    },
+    {
+      "name": "p11",
+      "sha256": "30b9906f0623be7652b18260fc198617a2ef92f70cf558611bbb734291fabf42",
+      "bytes": 22010
+    },
+    {
+      "name": "p12",
+      "sha256": "92ca871e22eef4fda5626fd88a77f87e6b491337db718deee60941e8b7a9229d",
+      "bytes": 20888
+    },
+    {
+      "name": "p13",
+      "sha256": "1a8277fdf6e9377107855e7ba679207bf1b1083582e1c72b4562e514ece85c41",
+      "bytes": 23150
+    },
+    {
+      "name": "p14",
+      "sha256": "9005f769f316171954f64887eef6ce19b38ff68efb2bcffcdd870f84e161e600",
+      "bytes": 23456
+    },
+    {
+      "name": "p15",
+      "sha256": "8ddc8736c1ffc39df789ed36c5cea1d84dad1b9c519d705abe94245a5d1b6956",
+      "bytes": 23876
+    },
+    {
+      "name": "p16",
+      "sha256": "fd2d2759b7f972c43f86faae93d4258280bd11eaa4a593b22b83dfffe38ad351",
+      "bytes": 23984
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0451",
+  "version": 1,
+  "status": "media-ready",
+  "title": "羽毛椅的痒痒藏在哪",
+  "subtitle": "谁在偷偷挠痒痒",
+  "description": "灰穗想坐在羽毛剧场的第一排看木偶船，可她一坐下，椅子就笑得直晃。换一把、垫块布都没用，究竟是谁在偷偷挠痒痒？",
+  "ageBand": "3-5",
+  "theme": "耐心观察",
+  "color": "#A8C9CF",
+  "character": "灰穗是一只银灰色的小狐狸，耳尖和蓬松的尾巴尖都是白色，穿湖蓝色小马甲。羽毛椅由乳白色羽毛组成，长着四条短木腿，椅背上有一双弯弯的小眼睛。",
+  "cover": "/library/stories/expansion-0451/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 157.21,
+  "detailUrl": "/library/stories/expansion-0451/v1/story.json",
+  "audio": "/library/stories/expansion-0451/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "羽毛剧场里，每把椅子都披着软羽毛。它们有个小秘密：一被挠痒，就会笑着摇起来。小狐狸灰穗抱着节目单走进来，想坐第一排，看清木偶船上那扇小小的圆窗。",
+      "image": "/library/stories/expansion-0451/v1/p01.webp",
+      "start": 0,
+      "end": 19.046
+    },
+    {
+      "id": "p02",
+      "text": "灰穗刚刚坐好，椅子就咯咯笑了。左边歪一下，右边歪一下，节目单滑到了地上。灰穗捡起来，摸摸椅背：“你先坐稳呀，我还没看到小船呢。”椅子却笑得说不出话。",
+      "image": "/library/stories/expansion-0451/v1/p02.webp",
+      "start": 19.046,
+      "end": 38.548
+    },
+    {
+      "id": "p03",
+      "text": "她换到旁边一把椅子上，双脚并拢，爪子放好。这回总稳了吧？谁知新椅子也笑起来，白羽毛抖得像小波浪。灰穗皱皱鼻子：“奇怪，我明明没有挠你们的痒痒呀。”",
+      "image": "/library/stories/expansion-0451/v1/p03.webp",
+      "start": 38.548,
+      "end": 58.026
+    },
+    {
+      "id": "p04",
+      "text": "也许是小马甲的扣子碰着羽毛了？灰穗拿出手帕，铺在座面上，再轻轻坐下。椅子安静了一小会儿，又咯咯笑起来。她低头看看，扣子离羽毛远远的，根本没碰到。",
+      "image": "/library/stories/expansion-0451/v1/p04.webp",
+      "start": 58.026,
+      "end": 77.792
+    },
+    {
+      "id": "p05",
+      "text": "灰穗坐到旁边的软地毯上，决定看看椅子究竟怎么了。椅子不摇了。她等了一会儿，身后的尾巴轻轻一摆，白尾巴尖扫过椅背。咯！椅子忽然笑了一声，又抖起羽毛。",
+      "image": "/library/stories/expansion-0451/v1/p05.webp",
+      "start": 77.792,
+      "end": 97.63
+    },
+    {
+      "id": "p06",
+      "text": "灰穗把尾巴移开，椅子便不笑了。她又用尾巴尖轻轻扫了一下，椅子立刻咯咯笑。“原来是你呀！”她抱住自己的大尾巴。椅子喘口气说：“对呀，最痒的就是背后！”",
+      "image": "/library/stories/expansion-0451/v1/p06.webp",
+      "start": 97.63,
+      "end": 116.628
+    },
+    {
+      "id": "p07",
+      "text": "这次，灰穗收好手帕，坐下后把尾巴抱到腿上。尾巴尖像一团白棉花，安安稳稳地窝着。椅子没有摇，节目单也没有滑走。蓝幕布慢慢打开，小木偶船摇摇摆摆地来了。",
+      "image": "/library/stories/expansion-0451/v1/p07.webp",
+      "start": 116.628,
+      "end": 137.09
+    },
+    {
+      "id": "p08",
+      "text": "灰穗看见圆窗里有只布老鼠，正给一小盆花浇水。她一直看到小船回港，尾巴都乖乖待在腿上。散场时，她轻轻拍拍椅子的木腿：“谢谢你。”椅子眯起眼，软软地笑了。",
+      "image": "/library/stories/expansion-0451/v1/p08.webp",
+      "start": 137.09,
+      "end": 157.21
+    }
+  ],
+  "buildHash": "ac2fd8e32e9993690a9e5ac027ed458ece851b33f914fb018f6891701265f0e7"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0453",
+  "title": "柚绵的窗帘只织半扇",
+  "version": 1,
+  "bodyCharacters": 520,
+  "pages": 8,
+  "duration": 166.882,
+  "bodySha256": "b70ec105b1c40ca0083e0c1971cdbe7d4ed1f7e6ef328a5bf824588cdd89f6aa",
+  "audioSha256": "a7db44bebfd339df0037c0c883ffa868577f9f365e05d1ada71ddea4fae84800",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "7d86e0bfae8e687dd13cd41838db342ac8ad64623e627488ca579824859e27cc",
+      "bytes": 15270
+    },
+    {
+      "name": "p01",
+      "sha256": "0e5be24236fb37d3eaebde4e3edb5a80684c7de25a96de023615c0556308051b",
+      "bytes": 11186
+    },
+    {
+      "name": "p02",
+      "sha256": "652630d3c1150a7cb99855f92c112c47897e4062a0d43411ce4a4b7c8d730920",
+      "bytes": 11374
+    },
+    {
+      "name": "p03",
+      "sha256": "80c3501b91a0c67f61e0106f6240e03b29c0ba2a716862c20de70a5b9c8f7f4a",
+      "bytes": 11354
+    },
+    {
+      "name": "p04",
+      "sha256": "70bbac4542039f333cfba87e8b678cf92a8a2295a8db1c8acbc8029d436a5472",
+      "bytes": 14068
+    },
+    {
+      "name": "p05",
+      "sha256": "245d6898a51ab51204d3da0823a8bf4a77d1ffcd1540df258b1c834da8fdbd9d",
+      "bytes": 12422
+    },
+    {
+      "name": "p06",
+      "sha256": "795e07683d8852b073bfed0c90cb678937fc9f9549232acd000790e9da5788d0",
+      "bytes": 12582
+    },
+    {
+      "name": "p07",
+      "sha256": "b1a709865f675f8fec32981ea3421a48ffc2fa258a4a4b19636546a4585ba238",
+      "bytes": 11838
+    },
+    {
+      "name": "p08",
+      "sha256": "5d65ce1891f58b9f39837ba5a32208c74b34d749cb7238c9eea639980a82d4fd",
+      "bytes": 12900
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

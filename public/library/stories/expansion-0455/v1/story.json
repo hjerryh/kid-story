@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0455",
+  "version": 1,
+  "status": "media-ready",
+  "title": "篮婆婆今天只装阳光",
+  "subtitle": "衣服分三趟上楼",
+  "description": "树梢村庄的篮婆婆想歇歇脚，棉果答应替她把干净衣服送上楼。可衣服堆得像小山，棉果连路都看不见了。她得想个办法，让衣服到家，也让篮婆婆好好休息。",
+  "ageBand": "3-5",
+  "theme": "承诺与体贴",
+  "color": "#8BA995",
+  "character": "小浣熊棉果：灰褐色绒毛，黑眼圈，蓬松的环纹尾巴，穿淡绿色短背带裤。篮婆婆：棕色柳条洗衣篮，篮沿有两只圆眼睛，底部长着四只短木脚，提手系着蓝布结。",
+  "cover": "/library/stories/expansion-0455/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 171.25,
+  "detailUrl": "/library/stories/expansion-0455/v1/story.json",
+  "audio": "/library/stories/expansion-0455/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "树梢村庄里，篮婆婆每天用四只小木脚，把晒好的衣服送回树屋。今天，她跨过门槛，脚底咯吱响。“我的脚想歇歇啦。”棉果摸摸她的篮沿：“今天的衣服，我替你送上楼！”",
+      "image": "/library/stories/expansion-0455/v1/p01.webp",
+      "start": 0,
+      "end": 20.774
+    },
+    {
+      "id": "p02",
+      "text": "棉果把衣服一件件拿出来，请篮婆婆坐上软垫。空篮子轻轻摇，四只木脚伸得直直的。地毯上却堆起一座小山：衬衫、袜子，还有一条大床单。棉果张开双臂：“都跟我来吧！”",
+      "image": "/library/stories/expansion-0455/v1/p02.webp",
+      "start": 20.774,
+      "end": 41.596
+    },
+    {
+      "id": "p03",
+      "text": "她抱起衣服，床单盖住了鼻尖，袜子滑到脚边。棉果刚迈一步，就停下了。前面什么也看不见！她把衣服放回地毯，低头捡袜子。才捡起这一只，胳膊下面又溜出另一只。",
+      "image": "/library/stories/expansion-0455/v1/p03.webp",
+      "start": 41.596,
+      "end": 62.562
+    },
+    {
+      "id": "p04",
+      "text": "软垫上响起咯吱一声。篮婆婆收回木脚：“还是装进我肚子里吧，我走惯了。”棉果看看那四只磨得发亮的小脚，轻轻按住篮沿：“你还没歇够呢。我想让衣服分几次上楼。”",
+      "image": "/library/stories/expansion-0455/v1/p04.webp",
+      "start": 62.562,
+      "end": 82.208
+    },
+    {
+      "id": "p05",
+      "text": "棉果把小山分成三小堆。第一趟只抱衬衫，眼睛露在衣领上面，楼梯看得清清楚楚。她沿着宽宽的木楼梯慢慢走，把衬衫放进衣柜，再空着手下来。软垫上的篮婆婆已经睡着了。",
+      "image": "/library/stories/expansion-0455/v1/p05.webp",
+      "start": 82.208,
+      "end": 103.99
+    },
+    {
+      "id": "p06",
+      "text": "第二趟是袜子，软软的一小捧。第三趟，棉果把床单折了又折，抱在胸前。走到楼梯中间的小窗旁，她有点累，便坐在窗下的长凳上歇歇。窗外叶子沙沙响，床单闻起来暖暖的。",
+      "image": "/library/stories/expansion-0455/v1/p06.webp",
+      "start": 103.99,
+      "end": 125.436
+    },
+    {
+      "id": "p07",
+      "text": "歇好了，棉果继续往上走。床单进了衣柜，柜门轻轻合拢。她下楼时，地毯上的小山已经不见了。篮婆婆睁开眼：“都送到了？”“嗯，三趟！”棉果伸出三个指头，尾巴也跟着翘起来。",
+      "image": "/library/stories/expansion-0455/v1/p07.webp",
+      "start": 125.436,
+      "end": 148.346
+    },
+    {
+      "id": "p08",
+      "text": "篮婆婆伸伸木脚，这回没有咯吱响。棉果靠着她坐下来，把有点酸的胳膊搁在软垫上。“你也歇歇。”篮婆婆说。阳光穿过树叶，在空空的篮底晃呀晃。棉果笑了：“现在，你只装阳光。”",
+      "image": "/library/stories/expansion-0455/v1/p08.webp",
+      "start": 148.346,
+      "end": 171.25
+    }
+  ],
+  "buildHash": "3ef10ca91f24cdd1ecec47a6fee5fd29c3d13ed446c4590d80d0b9691b401e4b"
+}
