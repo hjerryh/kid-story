@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0493",
+  "version": 1,
+  "status": "media-ready",
+  "title": "绒粒吹出一只雾鸭",
+  "subtitle": "一团晨雾变成的朋友",
+  "description": "绒粒得到一团能变成玩伴的晨雾，却迟迟拿不定主意。长腿马、长耳兔，都不是她真正想要的模样。一个蹲下来休息的小动作，让她有了自己的决定。",
+  "ageBand": "3-5",
+  "theme": "自己的选择",
+  "color": "#B7CBC5",
+  "character": "绒粒是一只棕色小田鼠，圆耳朵，米白色肚皮，穿紫色小背心。雾鸭由白色雾团捏成，扁嘴、短翅膀、宽脚掌，身体圆滚滚。",
+  "cover": "/library/stories/expansion-0493/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 173.914,
+  "detailUrl": "/library/stories/expansion-0493/v1/story.json",
+  "audio": "/library/stories/expansion-0493/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "晨雾草原上，小田鼠绒粒接住一团白雾。这里的雾，捏成动物再吹一口气，就会陪你玩到晚上。不过，每团雾一天只能吹活一次。绒粒想给自己捏个玩伴，捧着它走到草地中央。",
+      "image": "/library/stories/expansion-0493/v1/p01.webp",
+      "start": 0,
+      "end": 21.47
+    },
+    {
+      "id": "p02",
+      "text": "捏什么呢？跑过的小鹿说：“马好，能陪你跑！”绒粒拉出四条长腿，又捏了尖尖的耳朵。她绕着雾马跑了一圈，脚底有点累。“可是，我今天不想一直跑。”她把长腿轻轻收了回去。",
+      "image": "/library/stories/expansion-0493/v1/p02.webp",
+      "start": 21.47,
+      "end": 43.108
+    },
+    {
+      "id": "p03",
+      "text": "草叶上的蟋蟀说：“兔子好，能陪你跳！”绒粒捏出两只长耳朵，还试着蹦了几下。蹦呀蹦，她的小背心翻起了边。“可是，我也不想一直跳。”她蹲下来，把雾兔重新揉成圆圆的一团。",
+      "image": "/library/stories/expansion-0493/v1/p03.webp",
+      "start": 43.108,
+      "end": 64.794
+    },
+    {
+      "id": "p04",
+      "text": "白雾软软的，贴在她的肚皮上。绒粒鼓起嘴，又把那口气咽回去。吹活以后，今天就不能换了呀。她想了又想，还是没有吹。她抱着雾团坐了一会儿，耳朵边只有草叶沙沙响。",
+      "image": "/library/stories/expansion-0493/v1/p04.webp",
+      "start": 64.794,
+      "end": 85.496
+    },
+    {
+      "id": "p05",
+      "text": "坐够了，绒粒抱着雾团，蹲着挪了两步。左摇一下，右摇一下，她忽然笑起来。这样走，正好能看见草底下亮亮的露珠。“我想慢慢走，还想摇摇摆摆！”她低头看着怀里的白雾。",
+      "image": "/library/stories/expansion-0493/v1/p05.webp",
+      "start": 85.496,
+      "end": 106.534
+    },
+    {
+      "id": "p06",
+      "text": "“那就捏一只鸭子。”这回，没有谁替她回答。绒粒压出扁嘴巴，捏出两只短翅膀，又在圆肚子下面添上宽脚掌。鸭子一点也不高，正好站在她身边。她看了看，轻轻点了点头。",
+      "image": "/library/stories/expansion-0493/v1/p06.webp",
+      "start": 106.534,
+      "end": 127.932
+    },
+    {
+      "id": "p07",
+      "text": "呼——绒粒吹出一口气。雾鸭抖抖翅膀，迈开脚掌，左摇一下，右摇一下。绒粒蹲着跟上去，笑得耳朵直颤。走到一颗大露珠旁，她停下来。雾鸭也停下来，扁嘴里轻轻冒出一声：“嘎？”",
+      "image": "/library/stories/expansion-0493/v1/p07.webp",
+      "start": 127.932,
+      "end": 150.458
+    },
+    {
+      "id": "p08",
+      "text": "他们看了露珠，又绕着一朵小花慢慢走。绒粒走累了，就躺在草上。雾鸭挨着她，把短翅膀收好。天上的云也圆滚滚的。绒粒摸摸身旁的小肚子：“这一朵，是我自己选的。”雾鸭轻轻嘎了一声。",
+      "image": "/library/stories/expansion-0493/v1/p08.webp",
+      "start": 150.458,
+      "end": 173.914
+    }
+  ],
+  "buildHash": "2137763004ccaff7cebecc4a0993be3595013df9536829ac4697eee882c6a7b8"
+}

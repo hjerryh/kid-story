@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0491",
+  "title": "花扣的小窗轮流开",
+  "version": 1,
+  "bodyCharacters": 506,
+  "pages": 8,
+  "duration": 164.17,
+  "bodySha256": "3d1ec7a7c8c1054a3601102b0dbe606f712f66b937ff0af435fdf5c214247588",
+  "audioSha256": "2a98e0358f4091c89500c497c06aae7e0c7cc26f4a3cda7317065895dd0200b1",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "26234670da5985f8184761b598cb1237b19558e65e6dc7dddc4973b0a38710d3",
+      "bytes": 11856
+    },
+    {
+      "name": "p01",
+      "sha256": "0148d8b8e0072a2318fec7e09610d37c656bd10255baadc7d5d394e1914675fe",
+      "bytes": 9072
+    },
+    {
+      "name": "p02",
+      "sha256": "a14419b41a8045481bd91b6c5b7c24cb92c74e425887a2a0ad889726d7be8901",
+      "bytes": 9820
+    },
+    {
+      "name": "p03",
+      "sha256": "e2b613cf681ca6ee6d585c6e88d89fe0a73fe75844f2383f6e0c2276795d0b29",
+      "bytes": 10054
+    },
+    {
+      "name": "p04",
+      "sha256": "083e4ec4811589b18a049054f0ba2fe2c1d21f2512d8b556d7c060bfa6f779df",
+      "bytes": 9212
+    },
+    {
+      "name": "p05",
+      "sha256": "2b4aa32bb73a2ff6580b51a31fd214e54c54b52816cde556ace26d133b4c58e6",
+      "bytes": 9968
+    },
+    {
+      "name": "p06",
+      "sha256": "722f551aef1543f836b6e57ee749aff8e68d1e15467d7d252e74ce38e3ddf806",
+      "bytes": 9982
+    },
+    {
+      "name": "p07",
+      "sha256": "74bf253d2ca207305a60239a420c64f42555fdd92bccc48fcdca9d0876830611",
+      "bytes": 9202
+    },
+    {
+      "name": "p08",
+      "sha256": "9c7248dd94ed636ce0f4cfc92e1c23f4161e10426c133eb3fcc1d47b64cbf65b",
+      "bytes": 9396
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

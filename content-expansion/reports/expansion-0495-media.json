@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0495",
+  "title": "围巾里睡着三只鸭",
+  "version": 1,
+  "bodyCharacters": 554,
+  "pages": 8,
+  "duration": 174.658,
+  "bodySha256": "87c4709785cbfad0d57b679e1ff4d674110e1f43f6a7275714d3da77975dd72c",
+  "audioSha256": "31c6d54b886a1df25bd8f92f9bf7a8f79b113f956b65c42b1ac81677db4a8d04",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "358416d77d5dbd1f084495deda3dc84f072dd01b869abeeeaed1bd300991faf2",
+      "bytes": 12794
+    },
+    {
+      "name": "p01",
+      "sha256": "6de39b285574afc2bc78ff8eb712dc52b2f093bcd06e6359cfdb8bd7720cabb5",
+      "bytes": 11614
+    },
+    {
+      "name": "p02",
+      "sha256": "5013bbc1648d47214dcc757597c8d111fbdd43e12595e20e0443524f31e1be91",
+      "bytes": 9940
+    },
+    {
+      "name": "p03",
+      "sha256": "8bc5b0b0242f21e4bb80f3b7ac0b0b2b0b64e1b8ed5e22b6cdbce1b388ff95a9",
+      "bytes": 9916
+    },
+    {
+      "name": "p04",
+      "sha256": "f5b3917d1ee1b93e2a1f77414527bbf2c33c1cb3a46956a954c69e9a154da960",
+      "bytes": 9622
+    },
+    {
+      "name": "p05",
+      "sha256": "81baf788814259a8d3a10babb6856df94d0a53bcc349c9ac5f664abeeb5b5b34",
+      "bytes": 9644
+    },
+    {
+      "name": "p06",
+      "sha256": "f896196027d7cd27ff591aaa5918987c3572ec0cfa79e97764682fcf62514d60",
+      "bytes": 10198
+    },
+    {
+      "name": "p07",
+      "sha256": "6815086f01c15df8acc86a87f8e5c44c8a0775945778961b1fac705a06344f9c",
+      "bytes": 10108
+    },
+    {
+      "name": "p08",
+      "sha256": "d8e98ff9bcbb875b5f6f36372315f7294e727bd0272f66b3fd9e4bef46e4aee6",
+      "bytes": 11156
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

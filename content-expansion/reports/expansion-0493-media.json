@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0493",
+  "title": "绒粒吹出一只雾鸭",
+  "version": 1,
+  "bodyCharacters": 541,
+  "pages": 8,
+  "duration": 173.914,
+  "bodySha256": "034f592a0f61fb0473337121524b6600170e5abe8b751c203ee9bbffe2729638",
+  "audioSha256": "f9020297e549726cd301f337f0aac2521efc316f798e27b68f58f3a9f5053314",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "018bfed41be9530424d769f841de2264942233789e77df1d574177f687e611bd",
+      "bytes": 7548
+    },
+    {
+      "name": "p01",
+      "sha256": "1b9d29e4ab3d59b0ce70f0b86f3314f59576e1b4d6c6dbc10212646710db1016",
+      "bytes": 6154
+    },
+    {
+      "name": "p02",
+      "sha256": "bb79624df8be075efd4f18229019f82050f37af628f1b5e2ccc559aaa98305a7",
+      "bytes": 8542
+    },
+    {
+      "name": "p03",
+      "sha256": "cd4a9d29b98929408e0556ec1418cdb61e8c6a4eb37f9d23cecdf5a8a805a4ad",
+      "bytes": 7480
+    },
+    {
+      "name": "p04",
+      "sha256": "66c803cbee15fde9a6f576e4613f18a7fe5489a9667945340f8a41d9c0e44b5a",
+      "bytes": 5858
+    },
+    {
+      "name": "p05",
+      "sha256": "ffd70e40c6ea71a0b692be0baf633664bf0dd12439ddacbd2d257a5d841bfb0a",
+      "bytes": 5974
+    },
+    {
+      "name": "p06",
+      "sha256": "c298b22d42c0b9afdd159b286f01a1c6eb2a604ad5355c6076988aced6c92c71",
+      "bytes": 6892
+    },
+    {
+      "name": "p07",
+      "sha256": "2515bef6303de3319be5a757286fd2569a097b8a0fea0d6806aac32d2cbeb313",
+      "bytes": 6978
+    },
+    {
+      "name": "p08",
+      "sha256": "95ef7ca5607abee3b81ca8ab6a57400abeca175221cf71ab124455d86159c89d",
+      "bytes": 6386
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

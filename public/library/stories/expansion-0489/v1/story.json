@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0489",
+  "version": 1,
+  "status": "media-ready",
+  "title": "花儿围着横步舞",
+  "subtitle": "贝壳花园里的横步舞",
+  "description": "细米和横横想在沙堡里一起玩，可一个要摆贝壳花园，一个要跳横步舞。院子分成一样大的两半，还是挤得难受。他们蹲下来，重新商量贝壳和脚步的位置。",
+  "ageBand": "3-5",
+  "theme": "共同的空间",
+  "color": "#E8BD79",
+  "character": "沙精灵细米：浅金色短发，圆脸，穿白色贝壳扣背心和棕色短裤，赤脚。小蟹横横：橙红色甲壳，穿紫色小马甲，两只圆眼睛，八条步足和两只螯。",
+  "cover": "/library/stories/expansion-0489/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 159.01,
+  "detailUrl": "/library/stories/expansion-0489/v1/story.json",
+  "audio": "/library/stories/expansion-0489/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "浅滩岸边，沙精灵细米搭好一座沙堡。她想在院子里摆满贝壳花，再请小蟹横横来玩。白贝壳是小雏菊，粉贝壳是桃花。她刚又摆好一朵，门口就响起嗒嗒的脚步声。",
+      "image": "/library/stories/expansion-0489/v1/p01.webp",
+      "start": 0,
+      "end": 20.222
+    },
+    {
+      "id": "p02",
+      "text": "横横穿着紫色小马甲，伸伸腿说：“这里真好，我想跳横步舞！”他往旁边走三步，一转身，碰散了粉色小花。细米赶紧护住贝壳：“等等，我的花还要住在这里呢。”",
+      "image": "/library/stories/expansion-0489/v1/p02.webp",
+      "start": 20.222,
+      "end": 39.316
+    },
+    {
+      "id": "p03",
+      "text": "细米用手指划了一条线：“一半给花，一半给你，一样大。”横横点点头，把脚收在线内。细米搬来一只宽扁贝壳，那是她的小凳子。她坐下，等朋友跳起第一支舞。",
+      "image": "/library/stories/expansion-0489/v1/p03.webp",
+      "start": 39.316,
+      "end": 59.034
+    },
+    {
+      "id": "p04",
+      "text": "嗒嗒，横横刚走两步，就碰到了线。他往回转，另一边的脚又顶住院墙。细米这边也挤得很，小雏菊压着桃花。“一样大，怎么还是不好玩？”她摸摸鼻尖的沙粒。",
+      "image": "/library/stories/expansion-0489/v1/p04.webp",
+      "start": 59.034,
+      "end": 78.752
+    },
+    {
+      "id": "p05",
+      "text": "细米问：“你的舞，要多大的地方呀？”横横慢慢张开脚：“要能横着走，还要转个身。”细米看着那些花。花儿不用转身，也不用挤成一团。她把一朵移到院墙脚边。",
+      "image": "/library/stories/expansion-0489/v1/p05.webp",
+      "start": 78.752,
+      "end": 98.11
+    },
+    {
+      "id": "p06",
+      "text": "“花园绕着院墙长，中间给你跳，好吗？”细米问。“好呀，可你的凳子还在中间。”横横说。细米有点舍不得，那是她最喜欢的位置。她想了想：“我坐花旁边试试。”",
+      "image": "/library/stories/expansion-0489/v1/p06.webp",
+      "start": 98.11,
+      "end": 118.332
+    },
+    {
+      "id": "p07",
+      "text": "她把凳子搬到墙边，再把贝壳花一朵朵摆过去。横横先慢慢走了一圈，没有碰到花，也转得过身。他们一起抹掉那条线。嗒嗒嗒，横步舞终于跳起来，细米拍着手笑了。",
+      "image": "/library/stories/expansion-0489/v1/p07.webp",
+      "start": 118.332,
+      "end": 138.002
+    },
+    {
+      "id": "p08",
+      "text": "坐在新地方，细米发现，脚边的粉贝壳亮得像一小片晚霞。横横跳完，朝她弯弯身，又朝贝壳花弯弯身。“这一圈都是观众呢！”细米晃着脚。海风轻轻吹进了小院子。",
+      "image": "/library/stories/expansion-0489/v1/p08.webp",
+      "start": 138.002,
+      "end": 159.01
+    }
+  ],
+  "buildHash": "f7fc015b45c47254f72394f7000c8f9a909b8c3c02aafa891043aedc6c0f6f25"
+}

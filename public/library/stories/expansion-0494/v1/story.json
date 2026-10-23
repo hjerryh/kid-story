@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0494",
+  "version": 1,
+  "status": "media-ready",
+  "title": "方方先不变蝴蝶",
+  "subtitle": "一块手帕陪着你",
+  "description": "茸茸捏的小泥熊摔扁了。手帕方方想让她重新笑起来，变帽子、扮蝴蝶，却都没有用。坐在树根隧道的小凳上，方方终于听见了茸茸真正想要的安慰。",
+  "ageBand": "3-5",
+  "theme": "难过时的陪伴",
+  "color": "#A9BED3",
+  "character": "茸茸：浅棕色小睡鼠，圆耳朵、奶白色脸颊，穿紫色短外套。方方：会说话、能自己折叠的浅蓝色方手帕，四角绣着白色小圆点，没有手脚。",
+  "cover": "/library/stories/expansion-0494/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 159.85,
+  "detailUrl": "/library/stories/expansion-0494/v1/story.json",
+  "audio": "/library/stories/expansion-0494/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "树根隧道口，茸茸捏的小泥熊掉在地上，圆耳朵摔扁了。她蹲下来，眼泪一滴一滴落。口袋里的手帕方方探出一角。它会说话，也会自己折叠，最想看见茸茸笑。",
+      "image": "/library/stories/expansion-0494/v1/p01.webp",
+      "start": 0,
+      "end": 19.814
+    },
+    {
+      "id": "p02",
+      "text": "方方折成一顶尖帽子，歪歪地立在她膝上：“看，我是蘑菇大王！”茸茸摇摇头。方方又折成蝴蝶，扑动两个布角。茸茸抱起泥熊，哭得打了个小嗝，还是没有笑。",
+      "image": "/library/stories/expansion-0494/v1/p02.webp",
+      "start": 19.814,
+      "end": 39.436
+    },
+    {
+      "id": "p03",
+      "text": "“那就擦干吧。”方方把软软的布角送到她脸边。擦掉一滴，又来一滴。茸茸坐到隧道的小凳上，鼻尖红红的。方方着急地说：“怎么擦不完呀？我的四个角都快湿啦。”",
+      "image": "/library/stories/expansion-0494/v1/p03.webp",
+      "start": 39.436,
+      "end": 59.37
+    },
+    {
+      "id": "p04",
+      "text": "茸茸轻轻按住它的一角：“先别擦。我想讲讲我的熊。”方方不动了。茸茸摸着扁耳朵说：“这一只耳朵，我捏了好久。另一只总比它大，我改了好多次，才一样圆。”",
+      "image": "/library/stories/expansion-0494/v1/p04.webp",
+      "start": 59.37,
+      "end": 79.232
+    },
+    {
+      "id": "p05",
+      "text": "方方慢慢摊平，铺在她的膝上。“我听着呢。”茸茸讲泥熊的小肚子，讲给它留的窗边座位。讲着讲着，她又哭了一会儿。方方没有变帽子，也没有催她把眼泪收回去。",
+      "image": "/library/stories/expansion-0494/v1/p05.webp",
+      "start": 79.232,
+      "end": 98.758
+    },
+    {
+      "id": "p06",
+      "text": "过了一会儿，茸茸的肩膀不再一抖一抖了。她拿起方方，擦擦脸，又翻到干爽的一面，贴住脸颊。“现在想擦啦。”她小声说。方方轻轻答：“嗯，这一面还软软的。”",
+      "image": "/library/stories/expansion-0494/v1/p06.webp",
+      "start": 98.758,
+      "end": 118.764
+    },
+    {
+      "id": "p07",
+      "text": "泥熊的耳朵还是扁的。茸茸找来一片宽叶子，把它放进去。“今天先带你回家。明天，我再慢慢捏。”她捧起叶子，请方方搭在肩头，一起走出了闻着像湿泥土的隧道。",
+      "image": "/library/stories/expansion-0494/v1/p07.webp",
+      "start": 118.764,
+      "end": 139.514
+    },
+    {
+      "id": "p08",
+      "text": "回到家，泥熊坐上窗边的位置，方方晾在椅背上。茸茸凑过来：“明天捏耳朵，你也来好吗？”“我就坐旁边。”方方说。茸茸点点头，轻轻笑了，脸颊上还有一点凉凉的。",
+      "image": "/library/stories/expansion-0494/v1/p08.webp",
+      "start": 139.514,
+      "end": 159.85
+    }
+  ],
+  "buildHash": "55323b3a3e22021764d11ab67c4648b377f2297697b38a2aa2669e13ff946f80"
+}

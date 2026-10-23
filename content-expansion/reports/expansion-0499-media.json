@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0499",
+  "title": "月亮坐在皱水上",
+  "version": 1,
+  "bodyCharacters": 1007,
+  "pages": 12,
+  "duration": 298.29,
+  "bodySha256": "db0815cfc8caff250c11b6bc4a42a46fa6d816164a61988f80c03fa4e4486857",
+  "audioSha256": "2fd3b33c0edc77e82ba02eb2d7798f9ad26a0b0aa39f0f5096e30b80963e676d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8487138dae82443adb5422b2b29cd61eb721655ae1f34a02e364bcdb1e339d95",
+      "bytes": 18474
+    },
+    {
+      "name": "p01",
+      "sha256": "cd66577a9fca76fc57420cd4ce5af795444f40d7cd3e1071fa59b5e829d36cc9",
+      "bytes": 15502
+    },
+    {
+      "name": "p02",
+      "sha256": "1e4ba858089a12ea3463220e52b3682dcda94d46b41ecdb01a5e05592613f393",
+      "bytes": 15272
+    },
+    {
+      "name": "p03",
+      "sha256": "1d6554ffd538f83e176f7967b7caca81f4a0fe6d4bf5b90bb0b44fa56f17c415",
+      "bytes": 15380
+    },
+    {
+      "name": "p04",
+      "sha256": "eee2a8d01bcbc4416e6985b7613252049fb58c586a0b52ab9cd596fbf146eba8",
+      "bytes": 15548
+    },
+    {
+      "name": "p05",
+      "sha256": "ee8809a3c9d43733bae884cf699232d3f443ffe9f3e4758b2a74e3fc600e08e5",
+      "bytes": 15718
+    },
+    {
+      "name": "p06",
+      "sha256": "6a7f26bef914c165cca3a9718c697ed47e4935c272ca78042dcfadaa0ceb8f4c",
+      "bytes": 12706
+    },
+    {
+      "name": "p07",
+      "sha256": "7e15c563a98c516896be3d20cc34176dec0d151df1dfb37c16be8def448c96bd",
+      "bytes": 12606
+    },
+    {
+      "name": "p08",
+      "sha256": "2a06abd09eba7d2de26210998f10223255d5855c422d61f6c94e1b392e0eef0a",
+      "bytes": 12652
+    },
+    {
+      "name": "p09",
+      "sha256": "df18586d2dfcb1d1bc9f39be8cdc0ea5cf305f1b1cf6e4d3547ecdd61377c0d7",
+      "bytes": 15448
+    },
+    {
+      "name": "p10",
+      "sha256": "fa8c169a8f4cd2632f4fdffab4af5a84f484fd841364f38d257c69016b1f9e6e",
+      "bytes": 15316
+    },
+    {
+      "name": "p11",
+      "sha256": "ced2878d26b4243ff1a4dc7488b09606f49bd865d3c5542531d307864f2aebf9",
+      "bytes": 15504
+    },
+    {
+      "name": "p12",
+      "sha256": "2412c21b5abfa20bc6ffa66d33ac9a7601a2ba80e968d933fa226e7778c7e016",
+      "bytes": 15630
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

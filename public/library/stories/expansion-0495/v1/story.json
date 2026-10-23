@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0495",
+  "version": 1,
+  "status": "media-ready",
+  "title": "围巾里睡着三只鸭",
+  "subtitle": "三个软软的小窝",
+  "description": "绒麦答应把三只困倦的小陶鸭送回家，可小车一走，陶鸭就碰得叮叮响。怎样才能让这趟回家的路安安静静？",
+  "ageBand": "3-5",
+  "theme": "温柔的托付",
+  "color": "#D8BC69",
+  "character": "小灰鼠绒麦，圆耳朵、细尾巴，穿紫色小背心，戴浅绿色长围巾。三只小陶鸭都是奶黄色，橙色扁嘴，背上各有一朵蓝花。鸭奶奶是灰白羽毛，穿深蓝围裙。",
+  "cover": "/library/stories/expansion-0495/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 174.658,
+  "detailUrl": "/library/stories/expansion-0495/v1/story.json",
+  "audio": "/library/stories/expansion-0495/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "银杏集市飘着烤饼香。三只小陶鸭挤在木头小车里，哈欠一个接一个。鸭奶奶还要收起布摊。小灰鼠绒麦说：“我送他们回家，让他们好好睡觉。”他握住车把，点了点头。",
+      "image": "/library/stories/expansion-0495/v1/p01.webp",
+      "start": 0,
+      "end": 20.99
+    },
+    {
+      "id": "p02",
+      "text": "小车刚走过一条石板缝，车里的陶鸭就碰在一起。叮，叮，叮！三双眼睛全睁开了。“我们好困呀。”绒麦赶紧放慢脚步，可车轮轻轻一跳，硬硬的小肚皮还是碰得直响。",
+      "image": "/library/stories/expansion-0495/v1/p02.webp",
+      "start": 20.99,
+      "end": 42.34
+    },
+    {
+      "id": "p03",
+      "text": "绒麦唱起轻轻的歌：“小鸭睡，黄叶飞……”一只陶鸭闭上眼睛，另一只也歪了脑袋。偏偏又是叮的一声，三只鸭都醒了。最小的那只揉揉眼睛：“歌很好听，可我的肚皮还在响。”",
+      "image": "/library/stories/expansion-0495/v1/p03.webp",
+      "start": 42.34,
+      "end": 62.658
+    },
+    {
+      "id": "p04",
+      "text": "绒麦把小车停在平地上，抱起一只陶鸭。怀里倒是安静，可另外两只怎么办？他看看自己的两只小爪子，又看看车把。“别急，我答应送你们回家。”他蹲下来，把陶鸭轻轻放回车里。",
+      "image": "/library/stories/expansion-0495/v1/p04.webp",
+      "start": 62.658,
+      "end": 84.272
+    },
+    {
+      "id": "p05",
+      "text": "低头时，绒麦的长围巾垂进了车里。一只陶鸭靠上去，没有叮，只有轻轻的沙沙声。绒麦摸摸软围巾，又敲敲硬车板，耳朵一下竖起来：“你们需要的，原来是软软的小窝呀！”",
+      "image": "/library/stories/expansion-0495/v1/p05.webp",
+      "start": 84.272,
+      "end": 104.758
+    },
+    {
+      "id": "p06",
+      "text": "他先把陶鸭抱到旁边平地上，再摘下围巾，在车底铺好，再把长长的部分弯成三个小窝。每只陶鸭坐一个，肚皮之间隔着软布。他把围巾两头都塞进车里，轻轻推了一下。车轮动了，三个小脑袋也动了，却没有碰响。",
+      "image": "/library/stories/expansion-0495/v1/p06.webp",
+      "start": 104.758,
+      "end": 130.452
+    },
+    {
+      "id": "p07",
+      "text": "绒麦重新拉起小车。这回经过石板缝，只听见车轮咕噜噜。三只陶鸭眨眨眼，慢慢睡着了。他没有再唱歌，只把步子放得稳稳的。风吹过空空的脖子，有点凉，他便把背心领口拢了拢。",
+      "image": "/library/stories/expansion-0495/v1/p07.webp",
+      "start": 130.452,
+      "end": 153.002
+    },
+    {
+      "id": "p08",
+      "text": "到了家，绒麦把陶鸭一只一只抱进小床。鸭奶奶收摊回来时，屋里正响着细细的呼噜声。绒麦重新围好围巾，摸到三个圆圆的小凹窝。他没有抚平它们。围巾贴着脖子，还暖乎乎的。",
+      "image": "/library/stories/expansion-0495/v1/p08.webp",
+      "start": 153.002,
+      "end": 174.658
+    }
+  ],
+  "buildHash": "37639fd5dbf6e165b02240a77a864d1a6d05d7be2e8456798ba0aa61ba96796d"
+}

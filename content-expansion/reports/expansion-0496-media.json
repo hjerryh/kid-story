@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0496",
+  "title": "黄圆圈是哪一本月亮",
+  "version": 1,
+  "bodyCharacters": 500,
+  "pages": 8,
+  "duration": 163.618,
+  "bodySha256": "5698af5ef85ec8dd7bbb044036dd210a786eabec09e83ab5cad32cd7cbde8f58",
+  "audioSha256": "fd86b1629a38e11bbca9cb2dbc58d0d2da3f04db81705081561c0cdc0a73fe72",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0b597aebf3c6c4f4a96e3e7633fe24a0c72d9d95f43f3b148d72f92c933fd148",
+      "bytes": 15182
+    },
+    {
+      "name": "p01",
+      "sha256": "50ec230b340a082599d9089ca4a1ab173ed26a91b63a48dc59239d1d48df71ab",
+      "bytes": 12740
+    },
+    {
+      "name": "p02",
+      "sha256": "8e410abccc1e909e11f1b339bab06b721d35744e2e8bf76e8579d9063b2724e1",
+      "bytes": 12190
+    },
+    {
+      "name": "p03",
+      "sha256": "58613e0e1e69bab3da46f351c297cc48611866b5de51d1f16bf22a95a62d07ca",
+      "bytes": 11952
+    },
+    {
+      "name": "p04",
+      "sha256": "087d1765104f6214d7656ebc19f92227592c3115a8233f569142a0acb72f1945",
+      "bytes": 11374
+    },
+    {
+      "name": "p05",
+      "sha256": "1cc1593c96f4bfff8902ae07f740ec5d8e37112e48866a735f5be6c7d63e3e43",
+      "bytes": 12676
+    },
+    {
+      "name": "p06",
+      "sha256": "6b3f805d68381921ee6b72b5d275c04cde8b48130112bd82f1ad0ac832084a69",
+      "bytes": 13112
+    },
+    {
+      "name": "p07",
+      "sha256": "9d95f896ee57002d03406484d8fd1940ee5e89ad383c6c7089714045c77e6e23",
+      "bytes": 13026
+    },
+    {
+      "name": "p08",
+      "sha256": "4a82b1d18a920d2769fe92f7ba2987398d73c18f9a76f5d6542d67357b91a430",
+      "bytes": 10128
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

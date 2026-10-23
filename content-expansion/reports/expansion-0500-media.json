@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0500",
+  "title": "石鹿怎么长了卷尾巴",
+  "version": 1,
+  "bodyCharacters": 1018,
+  "pages": 12,
+  "duration": 308.61,
+  "bodySha256": "5e0c79ee05ee41be322aa92d41e07bb320b956119a690951515c295266f4def1",
+  "audioSha256": "4541979a145c7d85d638fdb3c4a2e1a69c11b1bb88965e0b10b2d2a5afb565a6",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3b801111d71d792090431b5d53f1434b2c39aa2097a0dc4a78883011a08ed20e",
+      "bytes": 15290
+    },
+    {
+      "name": "p01",
+      "sha256": "c5c68b6ce9b7c7f5f0725d4090890b865579afb0767fb7a009b467d949fcdd6b",
+      "bytes": 12376
+    },
+    {
+      "name": "p02",
+      "sha256": "e88d7f94766aa45aa280ed3d38db4262a7019fa8bffc34f6d41c0793bbf17490",
+      "bytes": 12102
+    },
+    {
+      "name": "p03",
+      "sha256": "2846c3bf1bd0b5d5d3e2414cc6013a6ac156cc9a36037982e8fceea19d7bca8d",
+      "bytes": 12328
+    },
+    {
+      "name": "p04",
+      "sha256": "8b798149b25a10174acd1436155a26f93bb1e78ddc53e8d65dcf2e67b8830488",
+      "bytes": 9788
+    },
+    {
+      "name": "p05",
+      "sha256": "178ea9a7887948945f661d77f3fc27702f764d75c4a00ec299ba4a36fcf56157",
+      "bytes": 9532
+    },
+    {
+      "name": "p06",
+      "sha256": "e4d5c4a62053ee5c12b431494da09f93d9fccd67a3ec8cacaf62b9b35a969562",
+      "bytes": 13038
+    },
+    {
+      "name": "p07",
+      "sha256": "b4cb2fabf836a5afc5ae4814086903aec113b1b32ec6db2b96fe2cbfe942e90f",
+      "bytes": 12180
+    },
+    {
+      "name": "p08",
+      "sha256": "7c1e065c878ccbee5a2f18877e45713addff3e9327fbfcae1d6c691e46b5781a",
+      "bytes": 12458
+    },
+    {
+      "name": "p09",
+      "sha256": "7239fcd95b7a8b985c2d554ecd12c03bcca53cc2f614678ce594b7c6a320456c",
+      "bytes": 11598
+    },
+    {
+      "name": "p10",
+      "sha256": "82d2616d34282d66a6da3ea1ef50a5d437eda5e7e1c61a0c12dd4d2dd4f6f412",
+      "bytes": 12216
+    },
+    {
+      "name": "p11",
+      "sha256": "d77d6d87bec078e778b80316c0ab331c860c4714d50c91679b09313b58e08276",
+      "bytes": 11680
+    },
+    {
+      "name": "p12",
+      "sha256": "8c48f42bddb7adab42a1b7960da8fd0568308e9b6252fa2677db6c9448b396a0",
+      "bytes": 11808
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0490",
+  "title": "爷爷鞋里的小房客",
+  "version": 1,
+  "bodyCharacters": 523,
+  "pages": 8,
+  "duration": 165.298,
+  "bodySha256": "b16827270d54a6b26a11ae97d9db6a02a556a3a3b59f5905b2706241042cc52e",
+  "audioSha256": "d5910a47e05b1b9be8199fd663ed765427c3ffa27764a9902c03bd39b2682945",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6f181e74827f7b0c3168e1a7efc7b2a7797dc80eaa7a53c429a9d795d90e7d0e",
+      "bytes": 11998
+    },
+    {
+      "name": "p01",
+      "sha256": "11bc19123abe5aebe52042570f4c968ef2a8e1dab033576b7ae7b8ee975c2f98",
+      "bytes": 10392
+    },
+    {
+      "name": "p02",
+      "sha256": "a8984d069bfab920ec89d463ad8a30e98b11e2aba0c24b544ac30980ac64cbd8",
+      "bytes": 10478
+    },
+    {
+      "name": "p03",
+      "sha256": "a3d7627b8f56ea796743b2db1d5079ca71b51d0460195f529681ae1bb966994d",
+      "bytes": 11208
+    },
+    {
+      "name": "p04",
+      "sha256": "8a9fe4eb70ee4b485f5256cf69da9b6d2e53f40490817e69c3809047d8fec17b",
+      "bytes": 10572
+    },
+    {
+      "name": "p05",
+      "sha256": "895cb9715054433e76174d5cb0fe262aa98eb41840cdb2989d5d7151cefdeafc",
+      "bytes": 10792
+    },
+    {
+      "name": "p06",
+      "sha256": "227310daaa908a171148b6bae56a098ab9da21b4e79c6d91849db32f578a7c47",
+      "bytes": 10656
+    },
+    {
+      "name": "p07",
+      "sha256": "163500a6ac76ae96836ca16a134fec562c71a7aa2abddb266c8ef54410e4ad6d",
+      "bytes": 10852
+    },
+    {
+      "name": "p08",
+      "sha256": "331b0410f4a8facbb8379d4a8fbc4b39d5c749ec4368784ae6a8c318a6eb5736",
+      "bytes": 10722
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

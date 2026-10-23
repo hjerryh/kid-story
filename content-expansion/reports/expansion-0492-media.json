@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0492",
+  "title": "墩墩的车窗开向海",
+  "version": 1,
+  "bodyCharacters": 499,
+  "pages": 8,
+  "duration": 162.49,
+  "bodySha256": "19763882c487a8bd833511806ffe1b8c81e57a9a25e76e09a79ec3c9bdf1c88c",
+  "audioSha256": "9143cddfb69009cc261ff7fd5679f8d8d1df4100761b1fe719c5d016d0c8bec3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "379fbb1eee4a5b5f678b542679dda091362934a21b071f99bad1d0d66696688d",
+      "bytes": 13714
+    },
+    {
+      "name": "p01",
+      "sha256": "4cf3a44c60c3e01c9a1826cb9c17bc9ff2d55cf0c2111232a21d104bfb1b0ad4",
+      "bytes": 12692
+    },
+    {
+      "name": "p02",
+      "sha256": "796a8e366360a9b64600372e5b517de38b1a9f3c18df1be784c2c0bf8122d873",
+      "bytes": 12038
+    },
+    {
+      "name": "p03",
+      "sha256": "c3752f4cbe9bc8315dd6bcd5ada9eb41f6b401864b1597202c3fddf411340bcc",
+      "bytes": 12628
+    },
+    {
+      "name": "p04",
+      "sha256": "778bf451ec8a4b787dabdfc528743b12d3f52802c37addb7f245c675d1d05aa0",
+      "bytes": 13822
+    },
+    {
+      "name": "p05",
+      "sha256": "6bdd68229528df4146c6ac2add0dd1f81cb62f4470df4b5e247d31633ad64111",
+      "bytes": 14354
+    },
+    {
+      "name": "p06",
+      "sha256": "c15a493578da501a8b5f28684cc1fafdb9665862bbffa4fd7ac6a109d3d2d305",
+      "bytes": 12780
+    },
+    {
+      "name": "p07",
+      "sha256": "e7061731a9f509f18f4e801e3849416b5c2f05271e9c2bbb5b5eb9097b506aef",
+      "bytes": 12570
+    },
+    {
+      "name": "p08",
+      "sha256": "f95565431404e5188cbc4f617219a3808f42caca04875ae95fd6142e31913148",
+      "bytes": 12198
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0489",
+  "title": "花儿围着横步舞",
+  "version": 1,
+  "bodyCharacters": 492,
+  "pages": 8,
+  "duration": 159.01,
+  "bodySha256": "4d112d41297f8fe9c33bc3833667a6d821e7a2137828b203d32b146192942f3b",
+  "audioSha256": "c5749449deaa16a4e903ac9badbe6c1c6648f050ddb03631138a0688cc199246",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "cba5f9f06ccc6ef83c0c4478ae8ac15581654a54ac953c1d1a97546d4730baec",
+      "bytes": 13956
+    },
+    {
+      "name": "p01",
+      "sha256": "26d24effe0803f5052b0cc6e62bf634a539cd822caabc3a7c197061d097bdf2b",
+      "bytes": 9982
+    },
+    {
+      "name": "p02",
+      "sha256": "fb322ff16bea43d02020f62392efe088f6d7c8eb7796654a969620228328ff09",
+      "bytes": 10490
+    },
+    {
+      "name": "p03",
+      "sha256": "4cc9134f0b6d9355730ee680cceeac1ac261b9c0d2b995265fbd3199b9fb9d27",
+      "bytes": 10186
+    },
+    {
+      "name": "p04",
+      "sha256": "8ae3855fce9a578cf044a35169c1c6f913e2da6a1bd01ec451d432b51a648ab4",
+      "bytes": 10392
+    },
+    {
+      "name": "p05",
+      "sha256": "6868244786df81d1a66e7945e027ab002e53d6f59e3a5859f9c3002d74dec326",
+      "bytes": 10420
+    },
+    {
+      "name": "p06",
+      "sha256": "d38a51306863fea93389d8b9999c4ec9630da4cb1e38864e0366c49efc248ab5",
+      "bytes": 10426
+    },
+    {
+      "name": "p07",
+      "sha256": "f7539e3331b1cf2b662fc3054a1890de304be523386eb64a8a9c8b4a641e8820",
+      "bytes": 11260
+    },
+    {
+      "name": "p08",
+      "sha256": "dc70ee989b3d80ec5d581963425f3c2e054cdd4dd2890afecfc547649ab10eb3",
+      "bytes": 11138
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

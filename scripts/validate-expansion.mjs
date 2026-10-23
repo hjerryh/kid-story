@@ -6,6 +6,8 @@ import {fileURLToPath} from 'node:url';
 
 const ROOT=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const directory=path.join(ROOT,'content-expansion');
+// User reduced the delivery scope on 2026-10-23. Keep earlier manuscripts as reserves.
+const TARGET=500;
 const hash=text=>crypto.createHash('sha256').update(text).digest('hex');
 async function files(dir){try{const result=[];for(const entry of await fs.readdir(dir,{withFileTypes:true})){const f=path.join(dir,entry.name);if(entry.isDirectory())result.push(...await files(f));else if(f.endsWith('.json'))result.push(f);}return result;}catch(e){if(e.code==='ENOENT')return [];throw e;}}
 const allFiles=[...await files(path.join(directory,'batches')),...await files(path.join(directory,'manuscripts'))].sort();
@@ -41,29 +43,36 @@ for(const file of allFiles){
   stories.set(story.id,{...story,bodyHash,characters,source:path.relative(ROOT,file)});
  }
 }
-const ordered=[...stories.values()].sort((a,b)=>a.id.localeCompare(b.id));
+const retained=[...stories.values()].sort((a,b)=>a.id.localeCompare(b.id));
+const ordered=retained.filter(s=>Number(s.id.slice(-4))<=TARGET);
+const outsideScope=retained.filter(s=>Number(s.id.slice(-4))>TARGET);
 let media=[];try{media=JSON.parse(await fs.readFile(path.join(ROOT,'public/library/index.json'),'utf8')).stories;}catch(e){if(e.code!=='ENOENT')throw e;}
+assert(media.every(s=>Number(s.id.slice(-4))<=TARGET),'Published catalog exceeds the agreed 500-story scope');
 const bands=Object.fromEntries(Object.keys(ranges).map(age=>[age,ordered.filter(s=>s.ageBand===age).length]));
-const counts={target:1000,manuscripts:ordered.length,textReady:ordered.filter(s=>s.status==='text-ready').length,
+const counts={target:TARGET,manuscripts:ordered.length,textReady:ordered.filter(s=>s.status==='text-ready').length,
  textDraft:ordered.filter(s=>s.status!=='text-ready').length,mediaReadyLocal:media.length,
- bodyCharacters:ordered.reduce((sum,s)=>sum+s.characters,0),pages:ordered.reduce((sum,s)=>sum+s.pages.length,0),ageBands:bands};
-const batches=Array.from({length:25},(_,i)=>{
+ bodyCharacters:ordered.reduce((sum,s)=>sum+s.characters,0),pages:ordered.reduce((sum,s)=>sum+s.pages.length,0),ageBands:bands,
+ retainedOutsideScope:{manuscripts:outsideScope.length,textReady:outsideScope.filter(s=>s.status==='text-ready').length,notForPublication:true}};
+const batches=Array.from({length:Math.ceil(TARGET/40)},(_,i)=>{
  const selected=ordered.filter(s=>Math.floor((Number(s.id.slice(-4))-1)/40)===i);
- return {batch:i+1,expected:40,manuscripts:selected.length,textReady:selected.filter(s=>s.status==='text-ready').length};
+ return {batch:i+1,expected:Math.min(40,TARGET-i*40),manuscripts:selected.length,textReady:selected.filter(s=>s.status==='text-ready').length};
 });
 await fs.mkdir(path.join(directory,'reports'),{recursive:true});
 const summary={counts,batches,stories:ordered.map(({id,title,ageBand,characters,pages,status,source,bodyHash})=>({id,title,ageBand,characters,pages:pages.length,status,source,bodyHash}))};
 await fs.writeFile(path.join(directory,'reports/inventory.json'),JSON.stringify(summary,null,2)+'\n');
 await fs.writeFile(path.join(directory,'CATALOG.md'),[
- '# 千篇故事创作目录','',
- `目标：新增1000篇。当前落盘${counts.manuscripts}篇完整正文，其中${counts.textReady}篇标记text-ready、${counts.textDraft}篇待编辑审阅；本地${counts.mediaReadyLocal}篇媒体完整。上线数量以部署记录为准。`,
+ '# 500篇故事交付目录','',
+ `用户于2026-10-23将目标调整为新增${TARGET}篇，保留原有6篇，最终网站506篇。范围内${counts.manuscripts}篇完整正文，其中${counts.textReady}篇标记text-ready、${counts.textDraft}篇待编辑审阅；本地${counts.mediaReadyLocal}篇媒体完整。上线数量以部署记录为准。`,
+ `另有${outsideScope.length}篇既有储备稿留存，未纳入本次交付和线上目录，后续制作已停止。`,
  '', '正文字符数仅统计汉字。自动校验覆盖结构、分龄篇幅和完全相同文本；不代表全网原创性排查或每篇都已独立审阅。',
  '', '| 编号 | 标题 | 年龄 | 汉字 | 页数 | 状态 |','| --- | --- | --- | ---: | ---: | --- |',
- ...ordered.map(s=>`| ${s.id} | [${s.title}](../${s.source}) | ${s.ageBand} | ${s.characters} | ${s.pages.length} | ${s.status} |`),'',
+ ...ordered.map(s=>`| ${s.id} | [${s.title}](${path.relative(directory,path.join(ROOT,s.source))}) | ${s.ageBand} | ${s.characters} | ${s.pages.length} | ${s.status} |`),'',
 ].join('\n'));
 console.log(JSON.stringify(counts,null,2));
 if(process.argv.includes('--require-all')){
- assert.equal(ordered.length,1000,'1000-story creation is not yet complete');
- assert.equal(counts.textReady,1000,'Unreviewed drafts remain');
- assert.deepEqual(bands,{'3-5':400,'6-8':350,'9-10':250});
+ const ids=Array.from({length:TARGET},(_,i)=>`expansion-${String(i+1).padStart(4,'0')}`);
+ assert.deepEqual(ordered.map(s=>s.id),ids,'The agreed 500 manuscripts are incomplete');
+ assert.equal(counts.textReady,TARGET,'Unreviewed manuscripts remain within the agreed scope');
+ assert.deepEqual(media.map(s=>s.id).sort(),ids,'The agreed 500-story media library is incomplete');
+ assert.deepEqual(bands,{'3-5':208,'6-8':172,'9-10':120});
 }

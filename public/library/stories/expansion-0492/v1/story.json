@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0492",
+  "version": 1,
+  "status": "media-ready",
+  "title": "墩墩的车窗开向海",
+  "subtitle": "一趟纸上的海边旅行",
+  "description": "果园里的树桩墩墩想坐一次去海边的火车，可它的根动不了。小浣熊莓扣搬来纸箱，画起风景，怎样才能让这趟假装的旅行真的有出发的感觉呢？",
+  "ageBand": "3-5",
+  "theme": "想象旅行",
+  "color": "#77A997",
+  "character": "小浣熊莓扣：灰褐色毛，黑眼圈，蓬松的环纹尾巴，穿湖蓝色小马甲。树桩墩墩：矮圆的棕色树桩，树皮上有眼睛和嘴巴，头顶长着一小簇青苔，树根牢牢扎在土里，没有手脚。",
+  "cover": "/library/stories/expansion-0492/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 162.49,
+  "detailUrl": "/library/stories/expansion-0492/v1/story.json",
+  "audio": "/library/stories/expansion-0492/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "苹果花开的时候，小浣熊莓扣给树桩墩墩看一本海边的书。蓝蓝的海，白白的浪，真好看。墩墩眨眨眼睛说：“我想坐火车去那里，哪怕是假装去一趟也好呀。”",
+      "image": "/library/stories/expansion-0492/v1/p01.webp",
+      "start": 0,
+      "end": 18.638
+    },
+    {
+      "id": "p02",
+      "text": "莓扣找来一个上下都敞口的大纸箱，轻轻套在墩墩周围。箱子侧面正好有个方孔，可以当车窗。“呜——开车！”莓扣喊。可墩墩的根扎在土里，窗外还是那丛草。",
+      "image": "/library/stories/expansion-0492/v1/p02.webp",
+      "start": 18.638,
+      "end": 39.196
+    },
+    {
+      "id": "p03",
+      "text": "“我给你画沿路的风景！”莓扣画了一片绿草地，举到车窗前。墩墩看了好久，小声问：“我们停站了吗？这根弯弯的草，一直在我的鼻子前面呢。”莓扣挠挠耳朵。",
+      "image": "/library/stories/expansion-0492/v1/p03.webp",
+      "start": 39.196,
+      "end": 58.338
+    },
+    {
+      "id": "p04",
+      "text": "一阵小风吹来，画纸歪向旁边。墩墩忽然叫起来：“草地走啦！”莓扣捏住纸角，慢慢往旁边挪。弯弯的草从窗边溜走了。她眼睛一亮：“原来，风景可以替我们跑！”",
+      "image": "/library/stories/expansion-0492/v1/p04.webp",
+      "start": 58.338,
+      "end": 78.824
+    },
+    {
+      "id": "p05",
+      "text": "莓扣又拿来几张纸，画上开花的果园、圆圆的小山，最后画一大片蓝海。她用纸胶带把画接成长条，再来看看顺序：草地后面是果园，翻过小山，就能看见大海了。",
+      "image": "/library/stories/expansion-0492/v1/p05.webp",
+      "start": 78.824,
+      "end": 98.518
+    },
+    {
+      "id": "p06",
+      "text": "莓扣坐在车窗外，把长纸条贴着窗孔，一点一点往旁边拉。“咔嗒，咔嗒。”她轻轻学着车轮响。草地过去了，花树过去了。墩墩高兴得直眨眼：“我们真的出发啦！”",
+      "image": "/library/stories/expansion-0492/v1/p06.webp",
+      "start": 98.518,
+      "end": 118.572
+    },
+    {
+      "id": "p07",
+      "text": "圆圆的小山也过去了。蓝海铺满车窗，白浪卷着小小的花边。莓扣停下纸条，用纸胶带把两端贴在窗边：“海边到啦！”她鼓起腮帮，吹来一口风。墩墩头顶的青苔轻轻摇：“这阵海风好暖呀。”",
+      "image": "/library/stories/expansion-0492/v1/p07.webp",
+      "start": 118.572,
+      "end": 141.77
+    },
+    {
+      "id": "p08",
+      "text": "莓扣也钻进宽宽的纸箱，挨着墩墩坐下。他们看着纸上的海，闻着果园里的花香。长纸条末尾还空着一小截。“下回画什么？”莓扣问。墩墩笑了：“先在海边坐一会儿。”",
+      "image": "/library/stories/expansion-0492/v1/p08.webp",
+      "start": 141.77,
+      "end": 162.49
+    }
+  ],
+  "buildHash": "716f44161bfcaffedabfeed1022788656c1ea87b58599e86829ac9c0b2cd37ab"
+}

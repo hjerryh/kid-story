@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0494",
+  "title": "方方先不变蝴蝶",
+  "version": 1,
+  "bodyCharacters": 490,
+  "pages": 8,
+  "duration": 159.85,
+  "bodySha256": "ce3f57139803f20cb304f2fdd83f165f313a8170e496ab5a494c4f9a713b30ec",
+  "audioSha256": "fb9356f4096bc70b28bba930a591931aee3c6e3ce431b85fb3199a99e15ade95",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ff3154c4e7952672ce21fd8b330b1f89561eab32eb96f7caa4ff8c0074a2b1b3",
+      "bytes": 12886
+    },
+    {
+      "name": "p01",
+      "sha256": "581c8397a0fc6cfe9301adbe6002e3c4463693fea40d1fcfa3d203e3e4f79cc2",
+      "bytes": 10092
+    },
+    {
+      "name": "p02",
+      "sha256": "247731a30b33d19e3e15abecc8a1f3235d9b09b4837db1e9d3619442a4615108",
+      "bytes": 10190
+    },
+    {
+      "name": "p03",
+      "sha256": "6f9b800662671b1324003bf55dc0ab3678263ce063e3e35fddfce182e86e1e3b",
+      "bytes": 10782
+    },
+    {
+      "name": "p04",
+      "sha256": "93a077bece60ff0bd044a65cf32df8755f44a90e6bf69db08f1b12c2e76a954c",
+      "bytes": 10488
+    },
+    {
+      "name": "p05",
+      "sha256": "1e72f2e28684562315bbcb2ca92356ae5bdee51fb99a2ef4edc70bc233459961",
+      "bytes": 10808
+    },
+    {
+      "name": "p06",
+      "sha256": "0513fa76603ed631ac4db78cfe31e3875c4a6823f7a63f94bd4b510edbb64cd1",
+      "bytes": 10348
+    },
+    {
+      "name": "p07",
+      "sha256": "2372501255ecec5075647ef6f537403ef397abfd48506ab4af4c5ba38591ca59",
+      "bytes": 10078
+    },
+    {
+      "name": "p08",
+      "sha256": "6161f076df7a3acee5eef57de1edd8aadf3c76e3e751d79c95c52ef91f62feb5",
+      "bytes": 8802
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

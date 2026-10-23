@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0496",
+  "version": 1,
+  "status": "media-ready",
+  "title": "黄圆圈是哪一本月亮",
+  "subtitle": "请把书名念给我听",
+  "description": "苏苏想在风帆书船借一本月亮故事，可她还不认识书名里的字。封面上的黄色圆圈接连让她认错，她该怎样找到真正想读的那一本？",
+  "ageBand": "3-5",
+  "theme": "坦然求知",
+  "color": "#73A9BA",
+  "character": "小刺猬苏苏：浅棕色软刺，奶白色脸颊，穿湖蓝色圆领上衣，背绿色小布包。书船上的书都有小嘴巴和细短的纸脚，封面图案各不相同。",
+  "cover": "/library/stories/expansion-0496/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 163.618,
+  "detailUrl": "/library/stories/expansion-0496/v1/story.json",
+  "audio": "/library/stories/expansion-0496/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "风帆书船停在芦苇边，船上的书都会说话。小刺猬苏苏背着绿布包，想借一本月亮故事，回家躺在被窝里听。她走进船舱，闻到了木头和旧纸暖暖的香气。",
+      "image": "/library/stories/expansion-0496/v1/p01.webp",
+      "start": 0,
+      "end": 18.83
+    },
+    {
+      "id": "p02",
+      "text": "矮架上，一本书画着黄黄的圆块。苏苏抱起它：“找到月亮啦！”书伸出小纸脚，说：“先取一块奶酪。”苏苏眨眨眼：“月亮还要吃奶酪？”书笑了：“我是食谱呀。”",
+      "image": "/library/stories/expansion-0496/v1/p02.webp",
+      "start": 18.83,
+      "end": 38.812
+    },
+    {
+      "id": "p03",
+      "text": "苏苏把食谱送回架上。旁边一本书也有金色圆圈，圆圈外面还围着细细的线。她摸摸封面上的字，一个也不认识。可这些小小的书，好像都知道自己叫什么。",
+      "image": "/library/stories/expansion-0496/v1/p03.webp",
+      "start": 38.812,
+      "end": 58.41
+    },
+    {
+      "id": "p04",
+      "text": "她小声说：“这回一定是。”书一打开，就讲起了太阳。苏苏听了一会儿，轻轻合上它。她喜欢太阳，可今天想听月亮。窗外的水亮闪闪，她把布包口捏了又捏。",
+      "image": "/library/stories/expansion-0496/v1/p04.webp",
+      "start": 58.41,
+      "end": 77.96
+    },
+    {
+      "id": "p05",
+      "text": "她把太阳书送回原位。最下面还有一本深蓝的书，封面也画着黄圆圈。苏苏没有马上拿起来。她蹲下说：“我不知道你的名字。我还不认识这些字。你能念给我听吗？”书把小嘴巴张圆了。",
+      "image": "/library/stories/expansion-0496/v1/p05.webp",
+      "start": 77.96,
+      "end": 100.966
+    },
+    {
+      "id": "p06",
+      "text": "“我叫《月亮洗澡》。”书清清嗓子。苏苏又问：“能讲一点开头吗？”书说：“小兔提来一桶水，月亮却只肯洗一只脚。”苏苏笑出了声：“就是你！我想知道另一只脚怎么办。”",
+      "image": "/library/stories/expansion-0496/v1/p06.webp",
+      "start": 100.966,
+      "end": 121.86
+    },
+    {
+      "id": "p07",
+      "text": "苏苏在借书卡上按好自己的小爪印，把书装进布包。书问：“你猜，月亮为什么只洗一只脚？”苏苏摇摇头：“不知道。你慢慢讲，我慢慢听。”布包里传来一声快活的翻页声。",
+      "image": "/library/stories/expansion-0496/v1/p07.webp",
+      "start": 121.86,
+      "end": 143.042
+    },
+    {
+      "id": "p08",
+      "text": "晚上，书靠着枕头，讲完了故事：原来月亮嫌水桶太小，只把脚尖伸进去，蘸了一点水。苏苏也从被窝里伸出一只脚，又缩回来。她轻轻说：“我的被窝够大，两只脚都住得下。”",
+      "image": "/library/stories/expansion-0496/v1/p08.webp",
+      "start": 143.042,
+      "end": 163.618
+    }
+  ],
+  "buildHash": "f3d9226afa80f20f11a4c7184089020ab6e4891453a9b43c26417187816c1d3b"
+}

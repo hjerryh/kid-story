@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0490",
+  "version": 1,
+  "status": "media-ready",
+  "title": "爷爷鞋里的小房客",
+  "subtitle": "花名可以等一等",
+  "description": "荠朵想给石头婆婆讲一次快乐的花圃散步，却忘了那些花的名字。故事卡住了，一只翘起来的鞋尖，能帮她找到接下来该讲的事吗？",
+  "ageBand": "3-5",
+  "theme": "快乐回忆",
+  "color": "#92AD87",
+  "character": "小花精荠朵：浅棕色短卷发，穿淡紫色花瓣裙、绿色软鞋，背后有两片透明小翅膀。石头婆婆：圆圆的灰白石头身体，额边长一撮绿苔，有弯弯的眼睛和嘴巴，不能移动。",
+  "cover": "/library/stories/expansion-0490/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 165.298,
+  "detailUrl": "/library/stories/expansion-0490/v1/story.json",
+  "audio": "/library/stories/expansion-0490/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "绿苔花圃里，石头婆婆最爱听散步的故事。她没有脚，去不了花圃另一头。今天，荠朵坐到她面前：“我和爷爷上回走到白篱笆那里啦！那一天，我笑得肚子都软了。”",
+      "image": "/library/stories/expansion-0490/v1/p01.webp",
+      "start": 0,
+      "end": 19.262
+    },
+    {
+      "id": "p02",
+      "text": "“我们先经过一种黄花，再经过一种紫花，还有……”荠朵伸出三根手指，忽然停住。花叫什么呢？她只记得黄花像小碟子。名字想不起来，后面的故事也挤在嘴边不肯走。",
+      "image": "/library/stories/expansion-0490/v1/p02.webp",
+      "start": 19.262,
+      "end": 39.484
+    },
+    {
+      "id": "p03",
+      "text": "荠朵跑去取来花图册，蹲在黄花旁边一页页找。这朵有点像，那朵也有点像。她捧着书走回来，眉毛皱成小毛虫：“我想讲得一点也不错，可是连第一种花都没找准。”",
+      "image": "/library/stories/expansion-0490/v1/p03.webp",
+      "start": 39.484,
+      "end": 58.746
+    },
+    {
+      "id": "p04",
+      "text": "石头婆婆安静地等着，额头的绿苔轻轻摇。荠朵合上书，低头摸摸鞋尖。鞋尖翘着，像爷爷那天的鞋。咦，她想起来了！爷爷走到篱笆边，忽然踮起一只脚，跳了一小步。",
+      "image": "/library/stories/expansion-0490/v1/p04.webp",
+      "start": 58.746,
+      "end": 80.024
+    },
+    {
+      "id": "p05",
+      "text": "“花名先放一放，我记得爷爷的脚！”荠朵站起来，翘翘左脚，又翘翘右脚。“他这样走，像一只找不到水坑的小鸭子。我问他是不是在跳舞，他说，他的鞋里住进了一颗圆果子。”",
+      "image": "/library/stories/expansion-0490/v1/p05.webp",
+      "start": 80.024,
+      "end": 100.486
+    },
+    {
+      "id": "p06",
+      "text": "荠朵坐下来，学爷爷脱鞋、倒鞋。她记得清清楚楚：圆果子骨碌碌滚出来，爷爷朝空鞋看了看，说：“小房客，你的房租还没交呢！”她当时笑得蹲下去，裙边沾了一圈湿湿的绿苔。",
+      "image": "/library/stories/expansion-0490/v1/p06.webp",
+      "start": 100.486,
+      "end": 121.548
+    },
+    {
+      "id": "p07",
+      "text": "石头婆婆笑了，嘴边的小白花也跟着颤。荠朵继续讲：“后来爷爷把果子放回草地，我们才慢慢走回家。我一路都在学小鸭子。”讲到这里，她拍拍裙边。这次，故事终于讲完啦。",
+      "image": "/library/stories/expansion-0490/v1/p07.webp",
+      "start": 121.548,
+      "end": 143.498
+    },
+    {
+      "id": "p08",
+      "text": "“再走一次小鸭步，好吗？”石头婆婆问。荠朵晃晃脚，鞋里空空的，可她还是翘起了鞋尖。晚风吹过，绿苔软软地贴着她的腿。她决定，下回爷爷来，也要给他讲讲婆婆今天的笑声。",
+      "image": "/library/stories/expansion-0490/v1/p08.webp",
+      "start": 143.498,
+      "end": 165.298
+    }
+  ],
+  "buildHash": "8ab2a166c897b44eee5d2dadf9b1ca54d3b0920dd42b851037a4c4d3dffccdc8"
+}

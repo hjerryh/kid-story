@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0498",
+  "title": "铜门里面开石花",
+  "version": 1,
+  "bodyCharacters": 1011,
+  "pages": 12,
+  "duration": 302.49,
+  "bodySha256": "2cccdf432529cbe8d6e976ebbb5666477e06a784f55427833c6f4cd0118b37b6",
+  "audioSha256": "101225288d08fc3d92c0b2329df83ca8ae9f4638b7284ae58b0a8651ea9b3be0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "96f74bad9a34e477ff9ba21c75d635086b30d1ac51ce6c7d214d25ca67e53370",
+      "bytes": 14534
+    },
+    {
+      "name": "p01",
+      "sha256": "c75fc347455bd5413737074348c92aabc7b97f7ea0808c58e058991c0e1f43c3",
+      "bytes": 12734
+    },
+    {
+      "name": "p02",
+      "sha256": "e3281ee72e420198dced82a6ff41c361015c77867fadcd0a8a841075df31701e",
+      "bytes": 10086
+    },
+    {
+      "name": "p03",
+      "sha256": "e8dd6f5c31fd65c0b5d1a6627dfcca0a8e6508897880a9bf4d8ccf305c516112",
+      "bytes": 12738
+    },
+    {
+      "name": "p04",
+      "sha256": "7efaed8431faee0c74526ca31af560642f4134a527fb8528db58dd1a395e98f1",
+      "bytes": 12292
+    },
+    {
+      "name": "p05",
+      "sha256": "f745cb8d591b6d80b0db64b0bb529933ae0574c950e42010fcb6a3fff5b19e31",
+      "bytes": 9334
+    },
+    {
+      "name": "p06",
+      "sha256": "db9234b6080b63421dcb663a604dcfd9c43cb15251b077471decb95a406898b4",
+      "bytes": 9726
+    },
+    {
+      "name": "p07",
+      "sha256": "54c1f43f778a993df739e991c19e71bcd5ee0159e6b5a3fdd057367ff54778e1",
+      "bytes": 12308
+    },
+    {
+      "name": "p08",
+      "sha256": "8c20d4f25689d81ed5419bd685182016e21150af4d1e9c005c969fee7b22caf1",
+      "bytes": 9372
+    },
+    {
+      "name": "p09",
+      "sha256": "9ab481725c46eb7361eec969ad58586f781c062bf7da72f9eb276291f6fc4ee0",
+      "bytes": 9784
+    },
+    {
+      "name": "p10",
+      "sha256": "e28238e6eed239096d2ba0770d497bfacd387d12e00fe6a581b358d5d1ef08f6",
+      "bytes": 10826
+    },
+    {
+      "name": "p11",
+      "sha256": "7efa509fca6857b92da04224f8995a09d2a34fc8e5dd6c5f301f996e21a4c1a1",
+      "bytes": 10684
+    },
+    {
+      "name": "p12",
+      "sha256": "80258196c52ce816d160151e1619e65f80215df777f9ce8e466243468c70d54f",
+      "bytes": 12562
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

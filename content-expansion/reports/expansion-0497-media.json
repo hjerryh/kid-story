@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0497",
+  "title": "薄荷门里有片纸森林",
+  "version": 1,
+  "bodyCharacters": 969,
+  "pages": 12,
+  "duration": 293.13,
+  "bodySha256": "d2880d3d6dbc62d961fb8c8e890eeaaa534bd904cdbd7335d3bf0e539f8b2a89",
+  "audioSha256": "aaaaeee19a69c688cc46d8a810f2e8271bab204a1db8e71fbfa923c850e30544",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "42555326c08705b4afd0730e5c9430b34be408df5edbbd8166177ab9feb4b016",
+      "bytes": 21886
+    },
+    {
+      "name": "p01",
+      "sha256": "e9e048c3b2c9322fc167c7577d07321ebb9d2e236585a3507ca554795cd0348e",
+      "bytes": 8610
+    },
+    {
+      "name": "p02",
+      "sha256": "d47ca9e22e2715ae5fbe26d4ac6f725a99bb0c84fa85bf915eea07592f397ec5",
+      "bytes": 7788
+    },
+    {
+      "name": "p03",
+      "sha256": "d900556f022196849d7e37313e903f923081af97f51617225ec63e059bded8a8",
+      "bytes": 9052
+    },
+    {
+      "name": "p04",
+      "sha256": "2912b20efa8592742a7c76ebd6f4aab8f8a284357d8b4f4e2af0ff8a92f51e63",
+      "bytes": 9544
+    },
+    {
+      "name": "p05",
+      "sha256": "52595649d8ddb3ee965a8512cb8945f097aa434de442bbfec367adfe41772168",
+      "bytes": 9210
+    },
+    {
+      "name": "p06",
+      "sha256": "bb488d132c5a9f14b0ccc181ac17a4213d3e4e57a92e6eaa84ec4b527b6de7b9",
+      "bytes": 7852
+    },
+    {
+      "name": "p07",
+      "sha256": "0adb144bc42d5d483ff4f76fc8c3c35d12f8cd471dc21ced17fd889e182af5dd",
+      "bytes": 9100
+    },
+    {
+      "name": "p08",
+      "sha256": "df5bd8a1d0e85f1482d2fe0df9830a2403a38a5f5fb2b1a0b4043737c7d616ea",
+      "bytes": 8416
+    },
+    {
+      "name": "p09",
+      "sha256": "7ca5f1dd2990fa52842f907c64becc5cc37a0b37445154ecb4b6fb95eb9c850f",
+      "bytes": 9440
+    },
+    {
+      "name": "p10",
+      "sha256": "7e2d7fef5e56f55b770c0299b1489d059affdd834f82af05d1f204bdde741d87",
+      "bytes": 10434
+    },
+    {
+      "name": "p11",
+      "sha256": "eefbf3ab33645962b99c3bebf0a7cf3595aa40606f6f854c1da05197cdfb41df",
+      "bytes": 18296
+    },
+    {
+      "name": "p12",
+      "sha256": "b00c423cd80ffc658d89ad9fc0d67dfba0a4176e5dcec92d5402936c33e9ff1c",
+      "bytes": 18108
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
