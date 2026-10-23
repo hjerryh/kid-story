@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0397",
+  "title": "沥沥坐在书的窗外",
+  "version": 1,
+  "bodyCharacters": 1418,
+  "pages": 16,
+  "duration": 427.298,
+  "bodySha256": "d6d9d0c835a3f663290cd5343e421276f4ce9fcfbdc48d559fd2a5cea07610ca",
+  "audioSha256": "8297465b29009fe30b9bd2ec994c221087d117c4830bef4a2c919c3c81a57fa0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "bd96e669dc7b52272258fcb5e04f10ad85a219401b61b21877d4e0c773b2d14c",
+      "bytes": 16134
+    },
+    {
+      "name": "p01",
+      "sha256": "d9b083bd8718b4ae8bde948072cda0f279c0f2dc7f861768636989d19cfd9195",
+      "bytes": 12864
+    },
+    {
+      "name": "p02",
+      "sha256": "acbfb1c35efdd304adc376cc89631d1dd40ab65fa5080bec971a5905185832dd",
+      "bytes": 7770
+    },
+    {
+      "name": "p03",
+      "sha256": "7e7a7b3decd89b13cd48b8ee18e50ef0d16534180d15cc6c39803de4fa50de3b",
+      "bytes": 8724
+    },
+    {
+      "name": "p04",
+      "sha256": "c4b436bec081a04ba0b414edccc993ade1912c02b0f8a10c354a4f97cd7885cb",
+      "bytes": 8328
+    },
+    {
+      "name": "p05",
+      "sha256": "d350878b54e51b39fef5753ed50484ddcb38ff87a9340ef139841e52e1e3bb50",
+      "bytes": 10934
+    },
+    {
+      "name": "p06",
+      "sha256": "3dc047c9faba994fcab86c50d2707321c6a57a70c0bf2a76103872063cdb49ac",
+      "bytes": 10218
+    },
+    {
+      "name": "p07",
+      "sha256": "40088883bb9b199af6e3023c770d72b505f8e7fc184ed61ca46ed37d6e5e1485",
+      "bytes": 13354
+    },
+    {
+      "name": "p08",
+      "sha256": "745e8a90a329cb680453623539c94c587c54cc8632acd8e28781d8dd7f5fcecf",
+      "bytes": 13022
+    },
+    {
+      "name": "p09",
+      "sha256": "754e782211b73df0017d08052aee359771b847d06e1c72d5b5b58cf20316c187",
+      "bytes": 12186
+    },
+    {
+      "name": "p10",
+      "sha256": "ec71dc0af14857542652854a081e716cc2efea3b4d37a917881269b3f540440d",
+      "bytes": 13326
+    },
+    {
+      "name": "p11",
+      "sha256": "1d9e5a0f9c68560662c6d700c2975bc2ec7ad012100323ecb54265f6d7395b42",
+      "bytes": 13164
+    },
+    {
+      "name": "p12",
+      "sha256": "b61cc126de9816800939261b88c9a4578c96a5c9aeabc992b59ff53a21fd1b2b",
+      "bytes": 13534
+    },
+    {
+      "name": "p13",
+      "sha256": "0b934913cc07f75e6c9def02c12bb53a5d30d23c2a572b25d04859cced3c98a1",
+      "bytes": 13676
+    },
+    {
+      "name": "p14",
+      "sha256": "2a6391f5b6908d292e5dd8770719ef9e8fbbcd38cadf0470a85c580b9d5115ec",
+      "bytes": 12352
+    },
+    {
+      "name": "p15",
+      "sha256": "cc06300aa6dc48a9ffa087c364a064f3290ed31e750fabf40b6fd83068f0e25a",
+      "bytes": 13396
+    },
+    {
+      "name": "p16",
+      "sha256": "2eb0a4f00ba158dcc0cb80e4974db980adc247125a3b5a09b4cd4ae48933d653",
+      "bytes": 12804
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0394",
+  "title": "蓝花留在我的窗边",
+  "version": 1,
+  "bodyCharacters": 1478,
+  "pages": 16,
+  "duration": 444.794,
+  "bodySha256": "d7f42e15b97c148509f1829517923ae527c6ea22d22f54171c557fd2c9165981",
+  "audioSha256": "ec23e5458b61df5a6297fa7e680796c6758fdd68e0d2e5c68b67660625796962",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e4e72aba98a49e0eae408ba194aa5a8be0430baaa58d8b5fc43a0ba3d76e5e68",
+      "bytes": 13330
+    },
+    {
+      "name": "p01",
+      "sha256": "b359403fe630a16f3dad90c24834ab886e417280ade6ac073ebd9434bcb40856",
+      "bytes": 15906
+    },
+    {
+      "name": "p02",
+      "sha256": "f9a922f2f2866e4f623d048db98ffc124be1b9a35c2f9070a9ed32a5dc8f784b",
+      "bytes": 15364
+    },
+    {
+      "name": "p03",
+      "sha256": "d1a92565f733b4bd5dd316af855838eea40da678ccfb37463a2dd3ac1424c445",
+      "bytes": 11664
+    },
+    {
+      "name": "p04",
+      "sha256": "7e4c85ab1ca1546d92a290172b76d250b92df2a5c8b98d7ce36ca6b5d44a1866",
+      "bytes": 10844
+    },
+    {
+      "name": "p05",
+      "sha256": "1c4381db0890a062087f1cd6678c50d56fbd1412963fd9b71caf19c81b2a24b2",
+      "bytes": 8974
+    },
+    {
+      "name": "p06",
+      "sha256": "3a6bc8d6d6d3467f317dba5461b6808ef68f675d3f4b15e65465d258335c859e",
+      "bytes": 9958
+    },
+    {
+      "name": "p07",
+      "sha256": "588c604aead5134efb23b63c58f7eed8f9b17fa696ce05ffde7f7297a720f0c7",
+      "bytes": 11356
+    },
+    {
+      "name": "p08",
+      "sha256": "89b31e98d6d9ec457340faebd40f355dfd5b83a6ce2feba35250851a19912cf2",
+      "bytes": 10368
+    },
+    {
+      "name": "p09",
+      "sha256": "415812ee3a2089b9d57801578c8622da049c83fb6f2f78a2b9bc47394d87e61b",
+      "bytes": 11748
+    },
+    {
+      "name": "p10",
+      "sha256": "bf5f7553d71995304d149d41eaba45c1b7f381a9b0a6b472a6b5a463a93a3911",
+      "bytes": 10078
+    },
+    {
+      "name": "p11",
+      "sha256": "d70bef7b736ee3aa71512d2f8fe42b9cf3f7decb1fc4f8524b6667b63049707f",
+      "bytes": 10546
+    },
+    {
+      "name": "p12",
+      "sha256": "0830d29eb7b78283163a6a0bbd0c6e0c62bef3969db6ec4c25eb0ac12524f439",
+      "bytes": 10842
+    },
+    {
+      "name": "p13",
+      "sha256": "c186dea08657382bc9faeba928680683ffb60a8f807d19ed697ec02f6c2a1e38",
+      "bytes": 17438
+    },
+    {
+      "name": "p14",
+      "sha256": "a9f0ae5a2418d30b46d1f2a4e9d835987f36946a3930deb3222341a917a388c6",
+      "bytes": 19298
+    },
+    {
+      "name": "p15",
+      "sha256": "77c970167c56fe49355b1b5ff186fae51ddccff75ad9caecb3e43a01a3224b68",
+      "bytes": 20896
+    },
+    {
+      "name": "p16",
+      "sha256": "ff27becd28a468531d95a462e37a0c3715a6a094e387491adaa21e7aa6751f7c",
+      "bytes": 9906
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

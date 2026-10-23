@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0385",
+  "title": "绒墨在暗处开饭",
+  "version": 1,
+  "bodyCharacters": 942,
+  "pages": 12,
+  "duration": 289.482,
+  "bodySha256": "9395ff88db35972c03b8202eef1f1b5521e555308147bcc76f9972373db33785",
+  "audioSha256": "070d9dc52c01bea9877b75ac8ce1091f4dac3ff27b115f062ddc0f49044194ce",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "930e5963c93a502b694d782e5226d0419bd4aa0e70ba48b062102ef78fb2a977",
+      "bytes": 15086
+    },
+    {
+      "name": "p01",
+      "sha256": "0856277aaaaca9f936ceb8d6bccc99cb39a80c4788832dbf873df6c49a9e81b6",
+      "bytes": 11300
+    },
+    {
+      "name": "p02",
+      "sha256": "e7cbdff37d11335805997381472a4eeb0205501026bd6ea8d6d1466642d6a6fc",
+      "bytes": 11904
+    },
+    {
+      "name": "p03",
+      "sha256": "884ed2a3d57b61c2d2043b19229f59a64f1b5c415626bd0fa696932b6265a239",
+      "bytes": 12108
+    },
+    {
+      "name": "p04",
+      "sha256": "7c180c03f639bb814113c22b1c7965245e8441a7644c92864266d242715115a8",
+      "bytes": 12052
+    },
+    {
+      "name": "p05",
+      "sha256": "b382e5e4e06e6715a0d20a12a411c72f8f79d873dfc6c88478ba20bd0efe363e",
+      "bytes": 12428
+    },
+    {
+      "name": "p06",
+      "sha256": "ed1ae4f5ea01cd9e56ef5818db7b99225b8be09d7d747d76568e0ffd7e5d1dd6",
+      "bytes": 12848
+    },
+    {
+      "name": "p07",
+      "sha256": "b4ad6caf66ae28b6711b2d4d25fa358fc2de93156fbdef4337498011bc1d6e39",
+      "bytes": 12462
+    },
+    {
+      "name": "p08",
+      "sha256": "88acc2f027e7c12caef47e5e81be9a02329d987ea14f5df6459ccb3e5e477bf4",
+      "bytes": 11008
+    },
+    {
+      "name": "p09",
+      "sha256": "79ddb0923ebfc4d90138226b4fc87cbbb74058be99e592d7248405d98728a9cd",
+      "bytes": 12366
+    },
+    {
+      "name": "p10",
+      "sha256": "b5ea4cffd29262807eae5207cf10ca4c805fe16a633cacb2fe8f68a5014dd467",
+      "bytes": 11750
+    },
+    {
+      "name": "p11",
+      "sha256": "1d5bcb6062829f43cd7577176ec7d21e0c55d494780691c5577f4a8a80e0dfd6",
+      "bytes": 12406
+    },
+    {
+      "name": "p12",
+      "sha256": "192d20b63d51838d89c51aaef26bd400d501d931be0f6cf176399331fb1fba27",
+      "bytes": 12790
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

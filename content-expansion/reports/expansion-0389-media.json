@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0389",
+  "title": "七封信排几次队",
+  "version": 1,
+  "bodyCharacters": 989,
+  "pages": 12,
+  "duration": 297.042,
+  "bodySha256": "2d99c80cae9aa1dd48ab0fc81b1d9a275fd4149b2aea6d8f1a2041b239ad53fd",
+  "audioSha256": "0048a6afe92f3c1fef5b7b8aad46c208a2902174acd81aeca9208b1c0cc68e8e",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "386e151252840e874de461d0935e4dc7de9ac81c029c664dee521bed29c6fc5a",
+      "bytes": 20230
+    },
+    {
+      "name": "p01",
+      "sha256": "620f5c1195e9ff2aca27c5f079d2269214d3303cacf4e4d791025294b62bd25b",
+      "bytes": 12910
+    },
+    {
+      "name": "p02",
+      "sha256": "48f703416cdfd1635c16b2a5d312be76d31904a5468c126153660a735ef24e42",
+      "bytes": 13584
+    },
+    {
+      "name": "p03",
+      "sha256": "ada613f512b3361bbdd51ffc76a8d695f8989ce595a50471fc0ab061bfde61c8",
+      "bytes": 15066
+    },
+    {
+      "name": "p04",
+      "sha256": "4b0fe4d22d096ea0dcda9ca76436092abbc4ac8d78d51a67b4ccc7d403a0aeb3",
+      "bytes": 14450
+    },
+    {
+      "name": "p05",
+      "sha256": "21f3828abe88a9245b31061b3a1b8e9057f58ed368a95d50df6a30c1ada4e13f",
+      "bytes": 14192
+    },
+    {
+      "name": "p06",
+      "sha256": "8ae75edee13dcc14e9956cb93a7e06b2c34d6e86e017ad2ec71ac6626f172f2d",
+      "bytes": 16118
+    },
+    {
+      "name": "p07",
+      "sha256": "cfbf187e6e80845a29c0720418d8226e16357671886e770e69ead84fed377da1",
+      "bytes": 15806
+    },
+    {
+      "name": "p08",
+      "sha256": "668e6ba6b46d0edde7b02625c2201c9363af678c4871142407e6df64261eb360",
+      "bytes": 15888
+    },
+    {
+      "name": "p09",
+      "sha256": "5da9bb11a324987d9c9c82a9f11bfc2d32fb9b25433c29b3c8869bc5e0463297",
+      "bytes": 15774
+    },
+    {
+      "name": "p10",
+      "sha256": "cc2f9950798f7fc17214a492d5ee4a772a3d5fca9eb7a2232e20df746c2710e1",
+      "bytes": 16260
+    },
+    {
+      "name": "p11",
+      "sha256": "fd119e24658ba5a2335d5fd77923b9b4898a51ec3fb8e8e0b29b3d847e2245db",
+      "bytes": 12976
+    },
+    {
+      "name": "p12",
+      "sha256": "49fa442687c78a3227c1dba97ae804bea7c0953c0922f8856871227db20c87fc",
+      "bytes": 11416
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

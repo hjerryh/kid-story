@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0390",
+  "title": "豆鼻睡过了好多下午",
+  "version": 1,
+  "bodyCharacters": 1027,
+  "pages": 12,
+  "duration": 302.298,
+  "bodySha256": "767d43af7fb87aef90bc0ec1996f2abe5e08e4d6b41a4486df1cc537c6c45ae9",
+  "audioSha256": "c36b743ff5142d8001b3e830a7a584cd6433f746b78338fbe5acb62b4762bc5c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9342aa6495dde6991131dc27baf8b4c44e4061313a417bb234fd921c1a8f30de",
+      "bytes": 14096
+    },
+    {
+      "name": "p01",
+      "sha256": "6f8d391e6e754eaa1afc8111c5afa0eaf73b72f21c6282eb311079b9eb93e219",
+      "bytes": 12128
+    },
+    {
+      "name": "p02",
+      "sha256": "a84dceb5ce7e474cfb632e09f71af2ba85fab471a9ffb091bd969dcd1f6239d2",
+      "bytes": 12622
+    },
+    {
+      "name": "p03",
+      "sha256": "57414ab852a428dedf1dc9882ebb208b66cbb44f3aac3f8039b8091532d5c523",
+      "bytes": 11456
+    },
+    {
+      "name": "p04",
+      "sha256": "e597d1b26a637501f640a13204c9707ec79c6175326416fc680baf3dedcba852",
+      "bytes": 12508
+    },
+    {
+      "name": "p05",
+      "sha256": "feff1ebac75b43aad0aa7fbe7f2b5aa514db3f701459aa2c4589d661544bc29f",
+      "bytes": 10990
+    },
+    {
+      "name": "p06",
+      "sha256": "4f425e97c24fba80c6593a05de4543d273bb5b2020c88010b11e2291d1f22405",
+      "bytes": 11126
+    },
+    {
+      "name": "p07",
+      "sha256": "a8534c2ea3df5b0196dbc6838f0514344a42bcf4592c4ecb3b306f86c588698d",
+      "bytes": 10840
+    },
+    {
+      "name": "p08",
+      "sha256": "057de063c4b1772c570365fbdd88599bf88567c1a311ec543ca662e3380c73fa",
+      "bytes": 11712
+    },
+    {
+      "name": "p09",
+      "sha256": "f1f631c74b97c1f9098d06fbf1cff2175495ad38686475c14ad21b98608f156d",
+      "bytes": 12550
+    },
+    {
+      "name": "p10",
+      "sha256": "85c88e9bac172d981acb4f1131e105a29fda98df904a5ff0b7d596612f5bedde",
+      "bytes": 12976
+    },
+    {
+      "name": "p11",
+      "sha256": "434cdcfb93e5484a89dcaecb18e5f4ab144fdfad26ba2a3af0b21d08a782c8be",
+      "bytes": 10668
+    },
+    {
+      "name": "p12",
+      "sha256": "95530f1e130c7144a96c51e50a65e77bf32dec9b075ae0191c53100ba98de529",
+      "bytes": 11762
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

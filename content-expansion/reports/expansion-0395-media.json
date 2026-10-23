@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0395",
+  "title": "抽屉外面也有花",
+  "version": 1,
+  "bodyCharacters": 1585,
+  "pages": 16,
+  "duration": 476.978,
+  "bodySha256": "f1830c2beaa84718a79fe22ab6ca6756775e6cc13790342893cc8c411bc089e0",
+  "audioSha256": "f2b6627ce75444c6979efb027a8e03c04acdf22f88f6c24f28478b257dfffa33",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "793c7dfad1b95131bcc5d83694bd9cf548243e0c94cd17f730b437d5bf5695d7",
+      "bytes": 21494
+    },
+    {
+      "name": "p01",
+      "sha256": "d3250e1311645fb778f2e0e42a73504fc97ba1f3baa5c9f37c35e7e9c2b94e67",
+      "bytes": 13542
+    },
+    {
+      "name": "p02",
+      "sha256": "2b09e894bf4b624bfad9417f629f4ad0087aeb974d1ffe50ccd7637e1835391d",
+      "bytes": 14134
+    },
+    {
+      "name": "p03",
+      "sha256": "10d17bb69f3dbbefcecdc6e9ac0a57dd0e090bacbc451fa6e2de549197b33238",
+      "bytes": 14624
+    },
+    {
+      "name": "p04",
+      "sha256": "19a49a4ca43060dfe8c6a5d1fc611231c272ed876af9275fbb93a759db796a0a",
+      "bytes": 11076
+    },
+    {
+      "name": "p05",
+      "sha256": "826b62ee378c0894ae941642f06460a5004f188d5040d1e4d63e78ad2ecda425",
+      "bytes": 10258
+    },
+    {
+      "name": "p06",
+      "sha256": "66c993265071f72c1fd03f1926eff05dc6cd5615be3524790384e642b7cbbae6",
+      "bytes": 9898
+    },
+    {
+      "name": "p07",
+      "sha256": "b47f47c7ff101d9aa65faada5a33f46b126cbf9aa51a686cc122b230123fd4fc",
+      "bytes": 9180
+    },
+    {
+      "name": "p08",
+      "sha256": "0b2bd423c96b6e62b19ad9683505cd9c271652b40b570ab5c4c7b006613f01cb",
+      "bytes": 12432
+    },
+    {
+      "name": "p09",
+      "sha256": "7996096bbd8db35f4dec1eefed63438c143baa5d0b44c5da7a5bae674dc108e5",
+      "bytes": 11272
+    },
+    {
+      "name": "p10",
+      "sha256": "95395e7bf3028202ed5335ff1fe7fabfa6c9aadd3074ddf2958874e6be84632e",
+      "bytes": 14958
+    },
+    {
+      "name": "p11",
+      "sha256": "e27c9b72f1eb830e649d74a0801e6dd52f5f6f430aed4af2614708efe0af6741",
+      "bytes": 11578
+    },
+    {
+      "name": "p12",
+      "sha256": "eb285eb1baf440c98e3e1edf06d75d557d8bb7b244d3462b55fe46a13ddb0409",
+      "bytes": 12008
+    },
+    {
+      "name": "p13",
+      "sha256": "74dd2b116d3cbb999dc49d9032370b54b71a90679d085eb1c86016b70f38327d",
+      "bytes": 11656
+    },
+    {
+      "name": "p14",
+      "sha256": "b350bf3d5ce26b0f243c3a61dc1faf32ee595844499d8b3db44d324bff28a6f7",
+      "bytes": 12054
+    },
+    {
+      "name": "p15",
+      "sha256": "2ecf1fcfe4f7840bea9e1cdc2eb60718c5f9c333a38185419f39e198dd4fd885",
+      "bytes": 17580
+    },
+    {
+      "name": "p16",
+      "sha256": "b3f497e5ac849c9d170b6a3a1c431d7cfcb7f66593fbb602a49af9fa1201b4f3",
+      "bytes": 11566
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

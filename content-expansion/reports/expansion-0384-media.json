@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0384",
+  "title": "盒盖下面不是小山谷",
+  "version": 1,
+  "bodyCharacters": 1013,
+  "pages": 12,
+  "duration": 307.53,
+  "bodySha256": "4e7a1174fc5e5d71131e2fa77884b66d35b6c79c309dd786fff140f828df82b7",
+  "audioSha256": "9ce54e720fac574b9fb3fbf4aef86865280a21d8d745d7d4e7176e377259f766",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9a17fc4070b92d7de5c72b75c3af636aa4508eb461737d082d435ffb75ce49a1",
+      "bytes": 16532
+    },
+    {
+      "name": "p01",
+      "sha256": "517c097ccdd9499ae591d1926e36099cfe77e93e4c732b923522b9a742939195",
+      "bytes": 11490
+    },
+    {
+      "name": "p02",
+      "sha256": "5ddf2691cde60769c5f1e48752642c47af40de2593373033e0cd7de060ddbf0f",
+      "bytes": 10026
+    },
+    {
+      "name": "p03",
+      "sha256": "7fe40812819606bc1ad37536834cf8a4ce293fd31fad1302130dac100e1cdf24",
+      "bytes": 9864
+    },
+    {
+      "name": "p04",
+      "sha256": "e85239f6e7af50416a6994fcc122be85a94c44a8d52c842b30a2aff8ff8f46dc",
+      "bytes": 11182
+    },
+    {
+      "name": "p05",
+      "sha256": "a0260e16cfe235182b9b4c834cd6cec34f1833c676764b84c8aa0f0a47f59bca",
+      "bytes": 10152
+    },
+    {
+      "name": "p06",
+      "sha256": "e1fce0545d2c5956bc5266c4e0a882abf7ff7eb8b14dc6bd378de9c9387c63fb",
+      "bytes": 10274
+    },
+    {
+      "name": "p07",
+      "sha256": "634cbeeca21cbdf4d63531583353f02b763027db76a18564caed1422a847b231",
+      "bytes": 11904
+    },
+    {
+      "name": "p08",
+      "sha256": "2f6479d09b9f0670618f36282afe4746174cc6bed853c42edcae3db235bf5888",
+      "bytes": 13390
+    },
+    {
+      "name": "p09",
+      "sha256": "f8f98c3081455770b4b3212c0429e57084da63175588abf1a7bd64a1ce2f07ba",
+      "bytes": 13434
+    },
+    {
+      "name": "p10",
+      "sha256": "37a09d475718e2304a12e2848e622e6cbdc93867058bf1888c522dc37cdc89a1",
+      "bytes": 13694
+    },
+    {
+      "name": "p11",
+      "sha256": "4ee907008a22e6aea3b8caeafc6af9c1605a79ae40188078e71f07515a95daf4",
+      "bytes": 10786
+    },
+    {
+      "name": "p12",
+      "sha256": "13df9164d3460dc3003fdd66740ded253e9c7070a53bbcac60e135ad4c9210be",
+      "bytes": 9140
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

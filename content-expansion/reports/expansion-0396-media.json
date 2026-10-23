@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0396",
+  "title": "折青换下了一身雨声",
+  "version": 1,
+  "bodyCharacters": 1495,
+  "pages": 16,
+  "duration": 462.578,
+  "bodySha256": "035860be65c6c2b3d3c76d601aa6e69877c8e5cf19f05e39dfedd299d0031eb4",
+  "audioSha256": "6ecd9ab880e51f226a85ea73ecd00c801a5cc8426f2b03b333eb98b1b4ab7125",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "04d597bbcb6ecf20d989c859984c1cedccceb10694fb68640e5e2a83c33b42e6",
+      "bytes": 15104
+    },
+    {
+      "name": "p01",
+      "sha256": "b619be5f7d2386c5166f104c992799d9004dfb1919914b85fe1fa68ccfe6b5f3",
+      "bytes": 14382
+    },
+    {
+      "name": "p02",
+      "sha256": "80a02bcb85202fd199f5dc9b37e74a547c9aa40f838339f71df9cecdbc3b1f27",
+      "bytes": 11726
+    },
+    {
+      "name": "p03",
+      "sha256": "d52450144614a68a15961ef39dfe2ba326e7b90fbd7df126a451ad3fafc03fae",
+      "bytes": 13356
+    },
+    {
+      "name": "p04",
+      "sha256": "9f1f70e48873d05400fab564f6a93c764b033865a8b440708058ed790842f8c8",
+      "bytes": 13010
+    },
+    {
+      "name": "p05",
+      "sha256": "b8a070c7003bb1ee3ff1278c30a20712a951db8d900cb4c58c0f5c4d876e353f",
+      "bytes": 11082
+    },
+    {
+      "name": "p06",
+      "sha256": "a777e963ae8d88867d7cfb0d693dcf58c184acdd7259b00d9e21f6720d72b6c7",
+      "bytes": 12178
+    },
+    {
+      "name": "p07",
+      "sha256": "33b845ef5adce6e453d9d7c85feeab705fe3e78eb79e8f33e55dee59996d13e3",
+      "bytes": 12326
+    },
+    {
+      "name": "p08",
+      "sha256": "127fd44cbff76db6a6cf79776ea5cf00e3452273422418ab90453fe6066016fc",
+      "bytes": 13172
+    },
+    {
+      "name": "p09",
+      "sha256": "e5b897063f99effe9c0f04bb1bdafd39cccfe655d9661abd9a86ffe012373fa8",
+      "bytes": 12052
+    },
+    {
+      "name": "p10",
+      "sha256": "69815292f0eadac2199bd99321007d1581c48ab605e7bfe817e23c6664c17a8a",
+      "bytes": 11346
+    },
+    {
+      "name": "p11",
+      "sha256": "d47ce43a861b9eb9c26c09e12dc25265b58d4e51198418d74d5cada8bc5b4adb",
+      "bytes": 11838
+    },
+    {
+      "name": "p12",
+      "sha256": "39253774d267e3e24b25a616045b02043e9578b574fbd53a14b03ba260555089",
+      "bytes": 11844
+    },
+    {
+      "name": "p13",
+      "sha256": "87e7c98912504fe9bb0114357d52e6225d35cdbe62232bb7341be6d66946609d",
+      "bytes": 12048
+    },
+    {
+      "name": "p14",
+      "sha256": "41863bf871c43b0e20a4f89e639c9fce89e0c54bf3d4cc2f94642d6b849220c0",
+      "bytes": 14782
+    },
+    {
+      "name": "p15",
+      "sha256": "c8a395b73fe5cdca27665d3bfd461b32e52ad90532506f2a968cb8682b47922d",
+      "bytes": 12590
+    },
+    {
+      "name": "p16",
+      "sha256": "ac398deb501ffdf628495c4f42f9d49e2a2a516d0f24c76de0eb8b1590d2702e",
+      "bytes": 12098
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0386",
+  "title": "灰石头的拇指窝",
+  "version": 1,
+  "bodyCharacters": 998,
+  "pages": 12,
+  "duration": 302.898,
+  "bodySha256": "d1280f08323002d333b5a2d6f561a2ff7f91913500bf85fc4d8bc4c7ca82f334",
+  "audioSha256": "33225be4d929ddba9648e499e6c329985e5c840ef0659cc18d94c732b7820f49",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "959c995b36fd26d8b0149f056d85c447fff0bb25ed41404492828a422ac9c284",
+      "bytes": 18186
+    },
+    {
+      "name": "p01",
+      "sha256": "896bf1378a34d3bbb9fe03dbb58ae6b07996314b4ef30617482e64365893e495",
+      "bytes": 14732
+    },
+    {
+      "name": "p02",
+      "sha256": "418f67b4cfe5506ae1e09ab74043536508f615e27ceb077ed482ab581f3fb282",
+      "bytes": 14486
+    },
+    {
+      "name": "p03",
+      "sha256": "c8bcc731b7be6f19681a135c4688b47caa4c57066ffa0bdf3a63a448b4b9000b",
+      "bytes": 14196
+    },
+    {
+      "name": "p04",
+      "sha256": "160567250ad8f8c015603e1ee944aaa7388dd6261ac1fe35bad4693e6b0e701b",
+      "bytes": 13448
+    },
+    {
+      "name": "p05",
+      "sha256": "63319b1b1aa31fa61aee9f47ab7c5e06dfde771620e5aa42484754f6f7c80ef1",
+      "bytes": 14490
+    },
+    {
+      "name": "p06",
+      "sha256": "7a5e5a389899896dc9f7fcb11d667e3dd8d891b99b580f4e4bb6fc0d1601ce7c",
+      "bytes": 16760
+    },
+    {
+      "name": "p07",
+      "sha256": "195c419e56c2279bd238386dbca6cfe539b5bf61ae7162d42de925e9a92dd50e",
+      "bytes": 16242
+    },
+    {
+      "name": "p08",
+      "sha256": "9e2bc3bc265ca383e1d889d71e223d612ac9dd2877832cffabc28abd593de975",
+      "bytes": 14412
+    },
+    {
+      "name": "p09",
+      "sha256": "31f597f0b8df7daa3c8de3f0b24f7ee009ad447d8f9d4594534fcaac51cd2ebb",
+      "bytes": 14782
+    },
+    {
+      "name": "p10",
+      "sha256": "4fdd6affba1a5a0a1e6c39d3d3ac392f41b1bf6a0084270dbbe0319154304f6b",
+      "bytes": 15974
+    },
+    {
+      "name": "p11",
+      "sha256": "a1e5ffe7f9712fc022747a23a9719a2e3d75524860eb92d98d9fc979f3966c12",
+      "bytes": 17616
+    },
+    {
+      "name": "p12",
+      "sha256": "888c104e9b69548b04a1197edb9efc25f1fe36d6bcc4cdf8ecd20a66c6464608",
+      "bytes": 17118
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

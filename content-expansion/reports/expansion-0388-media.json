@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0388",
+  "title": "白伞下面多张小凳",
+  "version": 1,
+  "bodyCharacters": 948,
+  "pages": 12,
+  "duration": 285.258,
+  "bodySha256": "c5417dfb024e7c0cce99325c2b57c4607e04ac596d9c490c87fcd9f889289de2",
+  "audioSha256": "84e0d3d6734f539f73028c460d6f3dd0d3ead8f28a5027f60068b918cd926663",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "bfb554ba36a69cf6ca3a190bc3404f6904788dcc0b4e16b58afe99f97167c705",
+      "bytes": 17852
+    },
+    {
+      "name": "p01",
+      "sha256": "44a0a1b4d263009daa3dcb631ce883a0a1252cffa7b0637a0f832165ec400460",
+      "bytes": 12534
+    },
+    {
+      "name": "p02",
+      "sha256": "4c71dcd94e3e2888ffe30b309801f054cec4c9124218adf1f36a2428a417fc70",
+      "bytes": 13570
+    },
+    {
+      "name": "p03",
+      "sha256": "593a1af1ac48dee16441243982ea15e108940abc476973e3e1d6b4ceab010642",
+      "bytes": 11236
+    },
+    {
+      "name": "p04",
+      "sha256": "9b9070880c6a8e603aac4442f64e4a9e8b60b703ce11f8522da5400a28ade3f9",
+      "bytes": 11908
+    },
+    {
+      "name": "p05",
+      "sha256": "cfb7316cbecd7a87e2a5fc1d11cd3ad36f96bca88c4d5b836e4a4c3783a6df35",
+      "bytes": 13486
+    },
+    {
+      "name": "p06",
+      "sha256": "f321f70256b229bf4343fdfb2e1fd2bc53241677e6ffdee3adcfc1f7a59059a9",
+      "bytes": 12364
+    },
+    {
+      "name": "p07",
+      "sha256": "8fb99589bf5175ea3f0010c35b536485878c8f2959522a2853c66adf9ffd8cc1",
+      "bytes": 12968
+    },
+    {
+      "name": "p08",
+      "sha256": "dc2424cbe25455bdd285c21de55d3ad95c62ee6963ac13c10fda0825989fed57",
+      "bytes": 12816
+    },
+    {
+      "name": "p09",
+      "sha256": "b9190d79f54eeb4edbf8b2fb78ef3b8cd798976d9141be3ec37bd439ad7ff7ff",
+      "bytes": 13430
+    },
+    {
+      "name": "p10",
+      "sha256": "767c250180f545703eb4f6d355fd05f427ede0bd31c665ef2a938e1a56340425",
+      "bytes": 12992
+    },
+    {
+      "name": "p11",
+      "sha256": "03a40215463a326bfe3b1ba42dd96f051b1c797f8f8563cb414c88d522e93052",
+      "bytes": 11468
+    },
+    {
+      "name": "p12",
+      "sha256": "cdb6de77cb1607dcf7b8b156ea7eb58c086551c4df884ab03bca2d9b8ae98287",
+      "bytes": 13138
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

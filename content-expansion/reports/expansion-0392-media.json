@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0392",
+  "title": "雨住在窗外",
+  "version": 1,
+  "bodyCharacters": 1498,
+  "pages": 16,
+  "duration": 458.234,
+  "bodySha256": "045cae80aa4f24cdd4554fec7b22876ab1e3f170d9a7821b2657350ed90b6f78",
+  "audioSha256": "3a12dab9f409096788f3b196eeb8989cfcc6892c77584615cae67f7a91bc60f3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2457c00acec73dbfed420f46c912eacdfbfabdeba949e3dc938ac46424c569ee",
+      "bytes": 12844
+    },
+    {
+      "name": "p01",
+      "sha256": "41bcc70c4c4d7f4f0c6078324c49ebe69ec9b092c5ba248e392d6bc7e5281d0a",
+      "bytes": 14290
+    },
+    {
+      "name": "p02",
+      "sha256": "066c7316e95d1cc5634c4265c13bfab143dcf0e76d105ac96457495c502c1152",
+      "bytes": 18448
+    },
+    {
+      "name": "p03",
+      "sha256": "4f36c9903daa3f8912c193ff3a6a76d33f36144619da67b312dc0da5c65347eb",
+      "bytes": 17144
+    },
+    {
+      "name": "p04",
+      "sha256": "3e7764d0c74651da939bb4642803f85122bd5fbea3eae75e5709667d6e05e442",
+      "bytes": 12172
+    },
+    {
+      "name": "p05",
+      "sha256": "73d128d152e140f34c9d2824deb5b2a435a5e4d79236ab9a5a7c5bc21d1e6c6c",
+      "bytes": 16378
+    },
+    {
+      "name": "p06",
+      "sha256": "7c1338f3ebb6bf8a30f166e9100d7f1b76147cde33a8cd19ecbdacbaa7d98c45",
+      "bytes": 10746
+    },
+    {
+      "name": "p07",
+      "sha256": "8cb62cc6b8f2dc0aba245e225551e4067b77f17925966cdc78a9563c79ed4830",
+      "bytes": 10640
+    },
+    {
+      "name": "p08",
+      "sha256": "d3b58dca6fc06049b78b77a3306cadf3b92b9044a7fe4467fe7525887a4c0523",
+      "bytes": 10448
+    },
+    {
+      "name": "p09",
+      "sha256": "6bb238fef2ddfea6a7e3f5d7afd79d097fb771d0cf10aebce02518300f5660d1",
+      "bytes": 10090
+    },
+    {
+      "name": "p10",
+      "sha256": "935aa3a83d33332d1a786b5597c711efe30962191bb18fd8d8bf9e25f6f3f145",
+      "bytes": 9948
+    },
+    {
+      "name": "p11",
+      "sha256": "4453b61e18d54a125636f603433c7df54ad3571af9c047fd967e4091fdf27c03",
+      "bytes": 11282
+    },
+    {
+      "name": "p12",
+      "sha256": "d361ca7676c7cc28ce2d8d264c559be66c15a035105e5f1ccc781886d8eb2be3",
+      "bytes": 11952
+    },
+    {
+      "name": "p13",
+      "sha256": "a39af8037c281d7e90c0a69d37b7058e9847b71dc714057d84625d910b51c8f2",
+      "bytes": 10968
+    },
+    {
+      "name": "p14",
+      "sha256": "30a44f923abfb449e5a206203237ae4c1ea3e5e73ebbf7bbc732956445fe3133",
+      "bytes": 10676
+    },
+    {
+      "name": "p15",
+      "sha256": "5005d8d2d060ff0239a47ef731dcd50ee93fa56beef35b267e5adc3c0878d3af",
+      "bytes": 11750
+    },
+    {
+      "name": "p16",
+      "sha256": "e68fcf1cc3ef9c42de35d76887687f0dc88eae347b8fd26e5626f81ba9f72702",
+      "bytes": 16470
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

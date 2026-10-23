@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0387",
+  "title": "麦须跟着脚印扫",
+  "version": 1,
+  "bodyCharacters": 941,
+  "pages": 12,
+  "duration": 277.602,
+  "bodySha256": "13973b4a0b009c862ed856d8378f831704d75c4297947672fc44fbf6e6e75b64",
+  "audioSha256": "cd99496629155fa05526d6d712596776dd5a05626adf82b1f120210b2e392d1a",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b1512c68b9c8fb62702373cad04c4df2760b1886bb66aaf88a99488a6ab3ea8f",
+      "bytes": 17320
+    },
+    {
+      "name": "p01",
+      "sha256": "cfa0febbe6316d21c7361ec52088b626d589e60d892f39f4e33e2507e202a2b4",
+      "bytes": 16386
+    },
+    {
+      "name": "p02",
+      "sha256": "64fec90bedfd43a771e23e6ff0f265d977c84a595205ea724585bbf5468faa7b",
+      "bytes": 11668
+    },
+    {
+      "name": "p03",
+      "sha256": "176df5898d7ab7bc1839877d452fef5a2a76cb7c4a10289d5c07bd2c58e570c8",
+      "bytes": 16910
+    },
+    {
+      "name": "p04",
+      "sha256": "576d58d90e4fc21df84849f8e95f1814dc75cef7c7f73101a40f7a739e980a46",
+      "bytes": 15294
+    },
+    {
+      "name": "p05",
+      "sha256": "94c9e24c970e0fbff37023284853dd3360c6cc1a0d917081972c18ca3bc03c9f",
+      "bytes": 15600
+    },
+    {
+      "name": "p06",
+      "sha256": "33377315a8422ad9314e4d0c0c8cd7d41f0562837f855e1091936bfd51329543",
+      "bytes": 15726
+    },
+    {
+      "name": "p07",
+      "sha256": "585b75edf8677e9e809a8595fbb557a6de91918991d15170a1ab213b3a02c806",
+      "bytes": 15598
+    },
+    {
+      "name": "p08",
+      "sha256": "13b34c003132e035b98404ceccd718b888eaa381dfd63e3c38919e4b4998f0fb",
+      "bytes": 16194
+    },
+    {
+      "name": "p09",
+      "sha256": "2a0e251a619a3214eaa8a70505831353897f5459986662aeb9a30b5505818f80",
+      "bytes": 17526
+    },
+    {
+      "name": "p10",
+      "sha256": "7536f4b2ca16621d64a6fceb70dde4047329c8e43cb28b8adec22572fafbbaa4",
+      "bytes": 14466
+    },
+    {
+      "name": "p11",
+      "sha256": "55c7f1d603cbcdbbfc675d35b96be6c94aeee306617b66042b16054b1e659b78",
+      "bytes": 14790
+    },
+    {
+      "name": "p12",
+      "sha256": "6675d664838211349077160f705a6c7bbf2cf472d708d999cdaae1369b4f35bd",
+      "bytes": 14324
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

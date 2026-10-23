@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0400",
+  "title": "团岚的外衣留着宽边",
+  "version": 1,
+  "bodyCharacters": 1437,
+  "pages": 16,
+  "duration": 444.338,
+  "bodySha256": "9cf5b5e76b3b253a6e2be6a5104426a4aa7857a4f36167d8f14a98216210c162",
+  "audioSha256": "d11edfac48363534fc1868ea29e2921704aa13a398361f87695e3d5bcf971949",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "1d76c2fbb3e87043a54aba7f728748f94d5e9acbfaf9792d3a332e2b32396bab",
+      "bytes": 15864
+    },
+    {
+      "name": "p01",
+      "sha256": "11de9feb999a3ce5dbd1ffb73f3ec2eba6c969ed97a2aef62e1bdb6e809eaaea",
+      "bytes": 10156
+    },
+    {
+      "name": "p02",
+      "sha256": "dd7b4c76f90579becf190698f3271ef19dc9e1c12277b046c33f19e6da7186e3",
+      "bytes": 12506
+    },
+    {
+      "name": "p03",
+      "sha256": "3ee59756a67629ab6e7f9f310c21842e4779b6861f3ba3ade379dcaaad11271a",
+      "bytes": 12740
+    },
+    {
+      "name": "p04",
+      "sha256": "d6e5a9594165f9722181535707bd27fdc5e0f72ac19a9cc7d5f9e47902f72b93",
+      "bytes": 11726
+    },
+    {
+      "name": "p05",
+      "sha256": "9870abc3325f0e02a2276127805ea4b68feec301b38c7f4e53aa94db4a1fbf9f",
+      "bytes": 12616
+    },
+    {
+      "name": "p06",
+      "sha256": "6bac797a0dc9b3e6815368589b059d536d12b003841c812ec0c948ef78d980c6",
+      "bytes": 12636
+    },
+    {
+      "name": "p07",
+      "sha256": "e8e42f329f22cef6c3847c337cc16c2edf692daf63a584615334322d618fa2be",
+      "bytes": 13372
+    },
+    {
+      "name": "p08",
+      "sha256": "1c8f450cf66655661cb1b087107cb160f3eb424583cc6bceb77406809bef2b3f",
+      "bytes": 11660
+    },
+    {
+      "name": "p09",
+      "sha256": "33a6c0cf117f1afa20ffaca8514df352d6430e768c063ce8dc204381f3c23220",
+      "bytes": 12714
+    },
+    {
+      "name": "p10",
+      "sha256": "39a9b1b64fe94df455202d3423dceefa81189d34f77f9897c3d314093e5ee17e",
+      "bytes": 12186
+    },
+    {
+      "name": "p11",
+      "sha256": "cdbb9450a867dc484b944f5ab21fcc6afd88d5f349123eeb369edba3cb39aa81",
+      "bytes": 12212
+    },
+    {
+      "name": "p12",
+      "sha256": "2d5900e9365356e4a4e44d80ed1c095a4279118fcf48fac62a19011e7231cc3b",
+      "bytes": 13194
+    },
+    {
+      "name": "p13",
+      "sha256": "5dd52b85b0344dffa7303f812f712c9ba395f7c37787931b26932dbcd8e402d6",
+      "bytes": 13864
+    },
+    {
+      "name": "p14",
+      "sha256": "28bdd1476f3922cc7a27ee89adea5f613e735bd3fa726b197d73b2ca91894046",
+      "bytes": 14160
+    },
+    {
+      "name": "p15",
+      "sha256": "09d5330e8713866583ac48556586c0128fb81a6d43dd1ba8c3b93501f875a616",
+      "bytes": 10588
+    },
+    {
+      "name": "p16",
+      "sha256": "f048c491a65aee5681c7e43be58ccc1723b8ee1e9f2c0599e0a6f867167c3d27",
+      "bytes": 13548
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

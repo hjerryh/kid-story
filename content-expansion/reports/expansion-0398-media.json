@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0398",
+  "title": "铜鞋绕过蓝瓷门",
+  "version": 1,
+  "bodyCharacters": 1484,
+  "pages": 16,
+  "duration": 451.13,
+  "bodySha256": "ce1b549813e8337238769fa100107f2937055e52ed83240cc7ac4c1f3ba82f50",
+  "audioSha256": "98a4a793affd480f51844527ac73333e988b5bbbc0f96f419652ae44c355fc12",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "955f54241a642dd7e0c0919d36d815aefb3c0c761c8605328aab26b0c25fce69",
+      "bytes": 12962
+    },
+    {
+      "name": "p01",
+      "sha256": "a49af6cf5065e2e426fad07b96a30983e222b387c361b289a44e7f77b3a9da05",
+      "bytes": 9818
+    },
+    {
+      "name": "p02",
+      "sha256": "7d642ad031737db87d95778695eef627cfb903b1b8ff2e8d45517066be5ed171",
+      "bytes": 11450
+    },
+    {
+      "name": "p03",
+      "sha256": "b09634726abeedc05274955bb2979496d76515ac078e7f1637ca48de4353abb5",
+      "bytes": 8836
+    },
+    {
+      "name": "p04",
+      "sha256": "90547cc1d69204dab414e39c144a7c0add9b21e40301ca5a2054109130c26384",
+      "bytes": 9638
+    },
+    {
+      "name": "p05",
+      "sha256": "c54831bbfa3168ba82db0bcd55dcca82d3872b02419b0d36bf4f1da864da89aa",
+      "bytes": 10910
+    },
+    {
+      "name": "p06",
+      "sha256": "4b06ff6d07da732a1dec72a18c05f95930545514ad224ec2fc053163ca6fb1dc",
+      "bytes": 9556
+    },
+    {
+      "name": "p07",
+      "sha256": "8be055388b2c5f84f2a952422a12edcba287badddea11a1085a97ccdce1a5884",
+      "bytes": 11652
+    },
+    {
+      "name": "p08",
+      "sha256": "ff10aab9678c8aae89cb9e1c59a009cd87f68b8ef77006761c5bc3f9e4652a38",
+      "bytes": 9792
+    },
+    {
+      "name": "p09",
+      "sha256": "bcf3aa777258757fded4ab2df660d6b38c7a58ac98fc69e992166eea1ba08a69",
+      "bytes": 9726
+    },
+    {
+      "name": "p10",
+      "sha256": "1d5cd6ace70386541bcbeb0d532aba00e87e1996dc0ca3552c9146cf77f30895",
+      "bytes": 12438
+    },
+    {
+      "name": "p11",
+      "sha256": "9f21bb4004c3247b5b4743e69f35d6872adf187ecf3a981989b554d4bcf66c81",
+      "bytes": 9068
+    },
+    {
+      "name": "p12",
+      "sha256": "603c7d759e3d4f94105ac4ebbf0cd5b02ae941b70dde7317e67c89571c0b386a",
+      "bytes": 8304
+    },
+    {
+      "name": "p13",
+      "sha256": "339d9b9882cb3d8b769a5c8a997c4085968c565550fd8f96d6057ee2c2a58f7e",
+      "bytes": 11622
+    },
+    {
+      "name": "p14",
+      "sha256": "9ecb23eef0035f778551a43edf2cb958fad8361ac4f141673e465377d1f14b04",
+      "bytes": 10388
+    },
+    {
+      "name": "p15",
+      "sha256": "221d21d92ae37ece7b2f740ab87ceb833b2d162d869be483cbee28d77db65375",
+      "bytes": 11538
+    },
+    {
+      "name": "p16",
+      "sha256": "5a7a3354c7147f0e8694c4be13db53b6ad21e253b1f5207919678da3d5ffb3e2",
+      "bytes": 8632
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

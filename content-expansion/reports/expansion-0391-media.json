@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0391",
+  "title": "长桥的第九条鱼",
+  "version": 1,
+  "bodyCharacters": 1551,
+  "pages": 16,
+  "duration": 471.53,
+  "bodySha256": "7bf4f78e693b9195a43a757ae27c510edf46e6a117e00eb2f87bf387308317b3",
+  "audioSha256": "4ec9671490e9479161a9ee0b6776aadeaff947bb4edee31506aba21f64d33756",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "86b4276d29fdd9c922156b5d1dd08bc61e1727ac0445df08585d711b9a09a6f0",
+      "bytes": 18684
+    },
+    {
+      "name": "p01",
+      "sha256": "74e87f16dd68de3006a026a537c50c1149f604977eb53e930ca5be35159ce89a",
+      "bytes": 14484
+    },
+    {
+      "name": "p02",
+      "sha256": "f856b4ee185129a78965b9ab3c20396747bd0d23a36ee23da072af9b8ad0586e",
+      "bytes": 17730
+    },
+    {
+      "name": "p03",
+      "sha256": "3c2bcf1bd33e72d1249a2106da5c45f85555f06d4d4539a464846464d9b39114",
+      "bytes": 14086
+    },
+    {
+      "name": "p04",
+      "sha256": "b19646ada01538e08c37c7b0aa46ac662c65fcc59744c1ba93801ab643907589",
+      "bytes": 14326
+    },
+    {
+      "name": "p05",
+      "sha256": "94e28927975e058a27139ad61b579129a81bc54d950eb5865e826a8a65be2c28",
+      "bytes": 14808
+    },
+    {
+      "name": "p06",
+      "sha256": "e8632e0c2359e0782c093a075bf3320042843a4e9b733c47f44d1875275ddafd",
+      "bytes": 15498
+    },
+    {
+      "name": "p07",
+      "sha256": "473934018114d22e2c1355aa189edb2ac41d2cc8e812c3867e1927e7d839e3c0",
+      "bytes": 14302
+    },
+    {
+      "name": "p08",
+      "sha256": "03c5ae33bb24bbbf5cbf477c501e51f16a6eca72efefcc7d96b580e9f98f6b4b",
+      "bytes": 9296
+    },
+    {
+      "name": "p09",
+      "sha256": "b5ad1adc8bbc59f416d1c82c7dd57e344a0d44a6f4b808b968e48f4e682ba3c9",
+      "bytes": 15804
+    },
+    {
+      "name": "p10",
+      "sha256": "85d1815c013db7a45772fef4a25e4d3ab390e0aefff03d20b6623f32128197c5",
+      "bytes": 15352
+    },
+    {
+      "name": "p11",
+      "sha256": "fae5650644ad02159285ad8015306893b280c04a6704aeb573409cde23356756",
+      "bytes": 16058
+    },
+    {
+      "name": "p12",
+      "sha256": "554472f720178096497048243747a06e52beee1655e95808b269faaa236ab21a",
+      "bytes": 15542
+    },
+    {
+      "name": "p13",
+      "sha256": "17ba29a715298a9d681d0eca674e8058c25d45b6ba2714f8f687e1f3d0381043",
+      "bytes": 18280
+    },
+    {
+      "name": "p14",
+      "sha256": "c49989431408caa2376243765e15f425529613a78f4b843792985efb9bd9c8a6",
+      "bytes": 19038
+    },
+    {
+      "name": "p15",
+      "sha256": "737f13f84597c045748a9cd30824bc2d4460a9fa22ca95826a4fcd51f9f17d37",
+      "bytes": 18290
+    },
+    {
+      "name": "p16",
+      "sha256": "911de31becd4091e5288a19a88ca0a56064f71f7ae00811ea69631330041bc5a",
+      "bytes": 14280
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
