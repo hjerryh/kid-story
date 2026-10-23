@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0407",
+  "version": 1,
+  "status": "media-ready",
+  "title": "灯灯歇一会儿",
+  "subtitle": "月光下的一顿晚饭",
+  "description": "棉枝想带一只飞蛾去风铃街道尽头的花园，可飞蛾总围着她的小提灯打转。花香引不走它，慢慢走也没有用，棉枝该怎样让这位小客人安心去吃晚饭？",
+  "ageBand": "3-5",
+  "theme": "夜间花园",
+  "color": "#728B83",
+  "character": "棉枝是一只白毛小兔，耳尖浅灰，穿湖绿色连衣裙，背米色小布包。灯灯是一盏会说话的铜色小提灯，有圆玻璃肚子和侧面旋钮。飞蛾有灰褐色翅膀，翅上各有一道浅色波纹。",
+  "cover": "/library/stories/expansion-0407/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 165.058,
+  "detailUrl": "/library/stories/expansion-0407/v1/story.json",
+  "audio": "/library/stories/expansion-0407/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "风铃街道的夜晚，叮铃，叮铃。小兔棉枝提着灯灯出门，看见一只飞蛾停在门边。“花园里有晚饭，我带你去。”她说。灯灯挺起亮肚子：“我来照路！”飞蛾轻轻动了动触角。",
+      "image": "/library/stories/expansion-0407/v1/p01.webp",
+      "start": 0,
+      "end": 22.238
+    },
+    {
+      "id": "p02",
+      "text": "街尾的花园里，白花已经张开，送来淡淡的甜香。棉枝走了几步，回头一看：飞蛾没有朝花园飞，却围着灯灯转圈。左一圈，右一圈，灰褐色的小翅膀一直忙个不停。",
+      "image": "/library/stories/expansion-0407/v1/p02.webp",
+      "start": 22.238,
+      "end": 42.292
+    },
+    {
+      "id": "p03",
+      "text": "“你还没闻到花香吗？”棉枝朝花园轻轻扇扇手，想把香味送过来。飞蛾飞开一点，又绕回亮肚子旁边。棉枝的手都扇酸了，小客人还是没有吃上一口晚饭。她停下来揉揉手。",
+      "image": "/library/stories/expansion-0407/v1/p03.webp",
+      "start": 42.292,
+      "end": 62.826
+    },
+    {
+      "id": "p04",
+      "text": "棉枝把灯提低，走得很慢很慢。“这回跟好呀。”飞蛾也跟着移动，可仍旧绕灯打转。灯灯小声问：“它是在找我吗？”棉枝蹲下来，看见飞蛾一靠近亮处，就又拐了弯。",
+      "image": "/library/stories/expansion-0407/v1/p04.webp",
+      "start": 62.826,
+      "end": 82.88
+    },
+    {
+      "id": "p05",
+      "text": "“也许是你的光，让它绕不出去了。”棉枝把旋钮转小，灯灯的肚子暗了一些。飞蛾还是绕着那点光飞。“再暗一点呢？”灯灯问。棉枝看看月光下的路：“我们试试关掉吧。”",
+      "image": "/library/stories/expansion-0407/v1/p05.webp",
+      "start": 82.88,
+      "end": 102.886
+    },
+    {
+      "id": "p06",
+      "text": "咔哒，灯灭了。棉枝站着没动，等眼睛慢慢看清。月亮把石板照得银白，花香还在。飞蛾终于离开提灯，在花丛上方飞了一会儿，落到一朵白花上。小翅膀停稳了。",
+      "image": "/library/stories/expansion-0407/v1/p06.webp",
+      "start": 102.886,
+      "end": 123.204
+    },
+    {
+      "id": "p07",
+      "text": "飞蛾伸出细细的长嘴，探进花里吸花蜜。棉枝抱着不亮的灯灯，坐在花园外。“它吃上了。”她轻声说。“那我就歇一会儿。”灯灯也轻声回答。花枝晃了晃，像一张小摇椅。",
+      "image": "/library/stories/expansion-0407/v1/p07.webp",
+      "start": 123.204,
+      "end": 144.434
+    },
+    {
+      "id": "p08",
+      "text": "回家时，棉枝把关着的灯灯放进布包，沿着月光照见的小路慢慢走。身后的白花轻轻摇，飞蛾还在吃晚饭。叮铃，叮铃，屋檐上的风铃响了。布包里传来一个小小的呵欠。",
+      "image": "/library/stories/expansion-0407/v1/p08.webp",
+      "start": 144.434,
+      "end": 165.058
+    }
+  ],
+  "buildHash": "4e1cabc21b8d11d0ffa006991287d58d4d1b0f28a5c8ac3db959c6e040c84aa0"
+}

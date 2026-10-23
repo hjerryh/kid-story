@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0414",
+  "title": "梦里的桃子坐下了",
+  "version": 1,
+  "bodyCharacters": 503,
+  "pages": 8,
+  "duration": 161.578,
+  "bodySha256": "41226ea356b5b2de55d7a9cf0529dbcaa23a7c25fae77d455a5e114a8ef4dcb3",
+  "audioSha256": "c1b522b144db5c8493367ea9a4287f6ea26570d014dfbcf4dd0da57b420d7b91",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f5250e43316231d19d8beeae6e8b70543fcf4ecf32c55545dc593dfef99d01f5",
+      "bytes": 15780
+    },
+    {
+      "name": "p01",
+      "sha256": "21fe1d7b062a72914f3712dee43455919a45a2368bd154b8efe517e2cb411e0b",
+      "bytes": 10204
+    },
+    {
+      "name": "p02",
+      "sha256": "d1c27937e06428e7ccffb333ba43a3e3ea26f6bb1f304600461b57a60bd7f557",
+      "bytes": 9038
+    },
+    {
+      "name": "p03",
+      "sha256": "36735e9fd6d7dfd23f843e16f2428a3d231157d55f0c8e4b9054993fe44b88c6",
+      "bytes": 10036
+    },
+    {
+      "name": "p04",
+      "sha256": "496f2e0ce4f278f5199cc4feb715084e56e764b4fae9adf271357455b30d120b",
+      "bytes": 10522
+    },
+    {
+      "name": "p05",
+      "sha256": "2ee248216276092d82c5b0963d9a1809d82c9d7c015b24ba8605a5a13c5150cb",
+      "bytes": 12064
+    },
+    {
+      "name": "p06",
+      "sha256": "6860c9f7160c19b4f61bc584a253d7187ee20f962422f124e5403ce55584a725",
+      "bytes": 12116
+    },
+    {
+      "name": "p07",
+      "sha256": "9be061fb00d6195ec03dbb11956e9e644ab84dfcbf1f8e20df74730fbd0907ac",
+      "bytes": 14864
+    },
+    {
+      "name": "p08",
+      "sha256": "d86c094cf059ae7a79b590e40ab804c66f64204a20aadd7c135fb634014dea39",
+      "bytes": 10370
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

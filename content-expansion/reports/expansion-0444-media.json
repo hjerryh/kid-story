@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0444",
+  "title": "红靴子等的是蓝凉鞋",
+  "version": 1,
+  "bodyCharacters": 500,
+  "pages": 8,
+  "duration": 158.53,
+  "bodySha256": "43ab070f344af549f8ef5e5a84305f340c6c6a8a8c95a74281280e91d47d3db4",
+  "audioSha256": "9e2f5e8ec52489b3177027e193f596a9b10855b9d1786ea3a698f39119e0501c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "fb052ff7c5f2cddebe4316e767bd58f4ee115e1563905f2ff2aa0fac033924d5",
+      "bytes": 11534
+    },
+    {
+      "name": "p01",
+      "sha256": "b5d96eaa2944306de0ad5c69ebff53fe99689075bb66d98e726f918a29a5d849",
+      "bytes": 8232
+    },
+    {
+      "name": "p02",
+      "sha256": "9b8253b1ea50284b828766efa63d6cce1087ec6fede1f40f951f325a7c77fd3e",
+      "bytes": 8564
+    },
+    {
+      "name": "p03",
+      "sha256": "1bb3fc71a14c0babf3375f975f0c00f71fd9c34f9ad8d03eec87a0ec469f67e2",
+      "bytes": 8790
+    },
+    {
+      "name": "p04",
+      "sha256": "fb0d7274364af586f65ca8c78abdf65cb2dcf6d117ee6ed9b4201e7b54a6dbf2",
+      "bytes": 10110
+    },
+    {
+      "name": "p05",
+      "sha256": "0e06bd11667c1f848497eb1a70d088cde192cfaae5e8dde65a2e60bf90f4ff42",
+      "bytes": 8724
+    },
+    {
+      "name": "p06",
+      "sha256": "21775b5a8bb916cee1d4640b12119f609824f32a1f933629c35ec7437e359b9f",
+      "bytes": 10150
+    },
+    {
+      "name": "p07",
+      "sha256": "2fc261f0968b6a67dad70719be3d1410d90843a27ea77c7500f26832d13634cb",
+      "bytes": 9888
+    },
+    {
+      "name": "p08",
+      "sha256": "3b1087a3002e6ce7982d98905e2cc412fda25cb4587e845a4df2b26c29b91345",
+      "bytes": 10696
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

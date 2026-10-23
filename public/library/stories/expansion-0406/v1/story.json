@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0406",
+  "version": 1,
+  "status": "media-ready",
+  "title": "圆豆想在泥里等一等",
+  "subtitle": "宝物店里的土豆",
+  "description": "雨后的庭院里，棠角准备开一家宝物店。她想让亮晶晶的石头朋友当宝石，圆豆却只想当一颗土豆。小小的宝物店，还能装下这个灰扑扑的愿望吗？",
+  "ageBand": "3-5",
+  "theme": "不同的喜欢",
+  "color": "#88B69A",
+  "character": "小鹿棠角：浅棕色毛，额头有一撮白毛，穿绿色背带裤。石头圆豆：灰色圆身体，长着短短的石头胳膊和腿，左脸有一粒白点。",
+  "cover": "/library/stories/expansion-0406/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 151.258,
+  "detailUrl": "/library/stories/expansion-0406/v1/story.json",
+  "audio": "/library/stories/expansion-0406/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨停了，庭院的石板亮亮的。小鹿棠角搬来一张矮桌，要和石头圆豆开一家假装的宝物店。她摆好落花和空蜗牛壳，又拍拍中间的位置：“这里留给最特别的宝物！”",
+      "image": "/library/stories/expansion-0406/v1/p01.webp",
+      "start": 0,
+      "end": 19.022
+    },
+    {
+      "id": "p02",
+      "text": "圆豆蹬蹬腿，爬进棠角手里。雨水洗过他的灰肚皮，上面闪着小亮点。“你来当宝石吧！”棠角说。圆豆摇摇头：“我想当土豆，一颗睡在泥里的大土豆。”",
+      "image": "/library/stories/expansion-0406/v1/p02.webp",
+      "start": 19.022,
+      "end": 38.284
+    },
+    {
+      "id": "p03",
+      "text": "“土豆灰扑扑的呀。”棠角挑了一片金色花瓣，给圆豆戴上。“这样多漂亮！”圆豆歪了歪身子，花瓣滑下来。他轻轻说：“可是，我不想当戴帽子的宝石。”",
+      "image": "/library/stories/expansion-0406/v1/p03.webp",
+      "start": 38.284,
+      "end": 56.898
+    },
+    {
+      "id": "p04",
+      "text": "棠角还在找银亮的小东西，圆豆已经从矮桌边滑进软泥里。他挪到一片落叶下面，只露出圆脑袋。“我长好了。”他小声说，“现在，等一个人来挖我。”",
+      "image": "/library/stories/expansion-0406/v1/p04.webp",
+      "start": 56.898,
+      "end": 74.888
+    },
+    {
+      "id": "p05",
+      "text": "棠角蹲下来：“挖出来以后呢？”“坐小车，去菜篮子里旅行！”圆豆笑得滚了一下，“不过我还是石头，不能吃哦。”棠角也笑了。原来，他连土豆的旅行都想好了。",
+      "image": "/library/stories/expansion-0406/v1/p05.webp",
+      "start": 74.888,
+      "end": 93.694
+    },
+    {
+      "id": "p06",
+      "text": "棠角把金色花瓣放回桌上，在桌旁拨松一点泥，给圆豆搭好叶子。“宝物店也卖你这样的土豆。”她说。圆豆舒舒服服地伸开小胳膊：“请把我挖得轻一点。”",
+      "image": "/library/stories/expansion-0406/v1/p06.webp",
+      "start": 93.694,
+      "end": 111.924
+    },
+    {
+      "id": "p07",
+      "text": "棠角仍然喜欢亮晶晶的东西。她用落花围成一顶冠，戴在自己头上，装作来买东西的鹿王。“我要这颗土豆！”她轻轻捧起圆豆，把他放进早就停在旁边的小木车。",
+      "image": "/library/stories/expansion-0406/v1/p07.webp",
+      "start": 111.924,
+      "end": 131.33
+    },
+    {
+      "id": "p08",
+      "text": "小木车咕噜噜，经过葡萄架。圆豆躺在车里看绿叶，棠角戴着花冠慢慢拉车。一滴雨水落在圆豆额头上。“哎呀，”他笑起来，“这颗土豆还没出院子，就又洗了一次澡。”",
+      "image": "/library/stories/expansion-0406/v1/p08.webp",
+      "start": 131.33,
+      "end": 151.258
+    }
+  ],
+  "buildHash": "8309a5e07d68d39a928edc75abe8201385256e95cd0f624b83bcfd6564043fcd"
+}

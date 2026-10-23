@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0427",
+  "title": "梳子坐起来，云就小了",
+  "version": 1,
+  "bodyCharacters": 1030,
+  "pages": 12,
+  "duration": 301.89,
+  "bodySha256": "9beaf132273410256abc9dbce52c5ebd592099446e702638192b322eacb09022",
+  "audioSha256": "b8234e5debf2bed0e5e265029114c33acf3503617652f2bdc5e46860f8a9efad",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "a51f6b022ba710fa8696b27c2b8932690512387591c32415d97a59958f9802e7",
+      "bytes": 13522
+    },
+    {
+      "name": "p01",
+      "sha256": "596f75daad4cc3217e016a0483c226bfac1d1618303a3e1911f6b9776d8550cf",
+      "bytes": 12938
+    },
+    {
+      "name": "p02",
+      "sha256": "6870aea4382aad57a5519dd7e0a3ce01e23ebc926f2a77cbc9ffca5db16321a7",
+      "bytes": 7722
+    },
+    {
+      "name": "p03",
+      "sha256": "4a40bf519c72a526c4e2beab337ed770b6c7d81d61d0c7bb66e2025285a62348",
+      "bytes": 7252
+    },
+    {
+      "name": "p04",
+      "sha256": "25f8be38c35ee7d3d74ff88620fa642884ad2adec54c849f619da99adbaca0a0",
+      "bytes": 7862
+    },
+    {
+      "name": "p05",
+      "sha256": "bfb5edbb3582fcb71dde60e6572390419c045962eb085eb110f4853a4f1d2505",
+      "bytes": 12016
+    },
+    {
+      "name": "p06",
+      "sha256": "4a36b67cdc7e11c2fbeef4d6eb12273cc8107660e8b7632a06bb1ed3ed5ccb71",
+      "bytes": 12418
+    },
+    {
+      "name": "p07",
+      "sha256": "c6b087d6882b8975ad1f7fcd99d58dddecbce8df307896b3a82ee145e67be622",
+      "bytes": 9992
+    },
+    {
+      "name": "p08",
+      "sha256": "e8dbcaa33ddcc8fb85db61221b18acdb2eb23bd3c74774b337e64600e8ee11bc",
+      "bytes": 9714
+    },
+    {
+      "name": "p09",
+      "sha256": "2b8030ca09be1cdfb303e8885af165009c1ba00aa94a9e530ae3241cfce7d861",
+      "bytes": 10682
+    },
+    {
+      "name": "p10",
+      "sha256": "333452002390a1efd9056921065fb66bf7603745f4886670d6985486f5366da1",
+      "bytes": 12822
+    },
+    {
+      "name": "p11",
+      "sha256": "dc2be5b9e9c4ea93426b368cfe7af7e1877edd075c558a62f159b47e68aa3d0b",
+      "bytes": 8182
+    },
+    {
+      "name": "p12",
+      "sha256": "cbcbfb9bfa6213fabb8916fe386816e7763c7a76aa4ff3f0fc207d9fd1811cb3",
+      "bytes": 10904
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

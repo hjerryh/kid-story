@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0431",
+  "title": "小缺睡在草叶尖",
+  "version": 1,
+  "bodyCharacters": 1473,
+  "pages": 16,
+  "duration": 451.322,
+  "bodySha256": "8f922835d9c5dcde307f6fcdd1e45602f3f38d2f8f188b84100373ab109cb60a",
+  "audioSha256": "0f127f466a6bc1c452c984382decd3dfbdd64ecfda9c1e86a40526adf75c7d40",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3359d054a6d4821a97251fdcc911603865d3e8ca9f350de1fd4ca62777c35fff",
+      "bytes": 10016
+    },
+    {
+      "name": "p01",
+      "sha256": "0ec5f8a3496ada5c407822319fd45de25502878f5a33e8f0d36811708dd6277e",
+      "bytes": 10584
+    },
+    {
+      "name": "p02",
+      "sha256": "a0563749234ce45cd18ba46af0cf87d87d02a5f64413ce3e56b0f44b72e6e70b",
+      "bytes": 11152
+    },
+    {
+      "name": "p03",
+      "sha256": "0ebfe826ac2afc84b5b2ac90ec7d19ddfffd2c01a17bf01a5ca38ae437cf289e",
+      "bytes": 7748
+    },
+    {
+      "name": "p04",
+      "sha256": "2f7b78e716076ab7090bca73b0cf4f3a8e4d65bc3f80ac82df5eec03e4ada783",
+      "bytes": 10030
+    },
+    {
+      "name": "p05",
+      "sha256": "1bf91f25e24f932a130ce52a03dcf0fd9945e24b3f25b58268bcccd96e21ea29",
+      "bytes": 12104
+    },
+    {
+      "name": "p06",
+      "sha256": "2e6978537458cb27a41acad53a2ded3fd2196ddd315214d7fffa77fa04c3d31d",
+      "bytes": 8472
+    },
+    {
+      "name": "p07",
+      "sha256": "a6669fb156731246baf57b51cae9d7ee8cad5f41846795e76988309e1e8ad13b",
+      "bytes": 9802
+    },
+    {
+      "name": "p08",
+      "sha256": "b6a2ca6f61c2bcd2ae2e5834e5cfca9c65f2bf141543cf8ad6639fa9766c5cd7",
+      "bytes": 8728
+    },
+    {
+      "name": "p09",
+      "sha256": "ed319c0fb170be410c121dbf9bb3a227f21bcad82e52df390cca9e927593bcd4",
+      "bytes": 8694
+    },
+    {
+      "name": "p10",
+      "sha256": "c7a4fda7caa5a6b995000cdb58125ab831d709f2cdcf3116649d61e741b58a22",
+      "bytes": 9508
+    },
+    {
+      "name": "p11",
+      "sha256": "5e7b261b7d6f0fac73bc140243c5c604eb62179f92d62cd48686d41088f789aa",
+      "bytes": 10348
+    },
+    {
+      "name": "p12",
+      "sha256": "aa9273d8c19787f0825a2c50a643e9ab471640bf86a36ee95b9073862e541bfa",
+      "bytes": 8950
+    },
+    {
+      "name": "p13",
+      "sha256": "5a9433e81f8ea775fca24fe889fa06a29fa9134e3741f3576bcf0f7043542099",
+      "bytes": 9506
+    },
+    {
+      "name": "p14",
+      "sha256": "234dd20236bc688b058320b61df114c3ac7cc8da27d4587095b20f18d1cdff87",
+      "bytes": 12288
+    },
+    {
+      "name": "p15",
+      "sha256": "5d4a781b7505b3ab72982abf0bea554d1191fee0d20238f5a744f64027cb423a",
+      "bytes": 11030
+    },
+    {
+      "name": "p16",
+      "sha256": "45d4b58bcf607075e36c9d12e29f5d3e1ab9a65eec6094be5c43dda8d7f002be",
+      "bytes": 9680
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

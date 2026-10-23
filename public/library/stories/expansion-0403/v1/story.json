@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0403",
+  "version": 1,
+  "status": "media-ready",
+  "title": "菇米的勺子舀起了米饼",
+  "subtitle": "绿伞下的新早餐",
+  "description": "雨伞山坡的早餐锅换了新厨师。菇米想吃熟悉的软米粥，新来的翻翻却只会烙米饼。一顿不一样的早餐，会从哪里开始呢？",
+  "ageBand": "3-5",
+  "theme": "熟悉与新鲜",
+  "color": "#91B5A0",
+  "character": "菇米：小蘑菇精，圆圆的栗色蘑菇帽，奶白色脸蛋，穿浅绿色短外套，背米色小布包。翻翻：会说话的小铁锅，深灰色圆肚子，两只短锅耳，戴白色厨师帽，锅底长着两只小脚。",
+  "cover": "/library/stories/expansion-0403/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 164.05,
+  "detailUrl": "/library/stories/expansion-0403/v1/story.json",
+  "audio": "/library/stories/expansion-0403/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨伞山坡有间早餐店，屋顶是一把绿伞。每天，菇米都坐在矮凳上，等老锅端来软米粥。粥里有三颗红豆，吃到最后一颗，肚子就暖了。今天，他也带着自己的小碗来了。",
+      "image": "/library/stories/expansion-0403/v1/p01.webp",
+      "start": 0,
+      "end": 20.942
+    },
+    {
+      "id": "p02",
+      "text": "柜台后却站着一口小铁锅，两只小脚踮得高高的。“我叫翻翻，今天卖米饼！”老锅搬去女儿家了，这事菇米早就知道。可没听见熟悉的招呼声，他还是把小碗抱紧了一点。",
+      "image": "/library/stories/expansion-0403/v1/p02.webp",
+      "start": 20.942,
+      "end": 40.612
+    },
+    {
+      "id": "p03",
+      "text": "翻翻挺起圆肚子，烙出一张金黄的米饼，轻轻盛进小碗。米饼边儿翘翘的，闻起来很香。菇米却没有咬。“能把它变成软米粥吗？”他问，“我的勺子，还等着舀红豆呢。”",
+      "image": "/library/stories/expansion-0403/v1/p03.webp",
+      "start": 40.612,
+      "end": 60.618
+    },
+    {
+      "id": "p04",
+      "text": "菇米要来一点温水，把一角米饼泡进去。他用勺子拨呀拨，米饼软了，却还是一块米饼，没有变成粥。尝一小口，淡淡的。他放下勺子，窗外的雨正滴答滴答地落在伞边。",
+      "image": "/library/stories/expansion-0403/v1/p04.webp",
+      "start": 60.618,
+      "end": 81.464
+    },
+    {
+      "id": "p05",
+      "text": "翻翻的两只锅耳垂下来。“我还不会煮粥。我练了好多天，才让米饼不糊。”菇米摸摸碗沿，小声说：“我想老锅了。”翻翻没有催他吃，只陪他听了一会儿雨，锅肚子也静静的。",
+      "image": "/library/stories/expansion-0403/v1/p05.webp",
+      "start": 81.464,
+      "end": 101.638
+    },
+    {
+      "id": "p06",
+      "text": "过了一会儿，菇米的肚子咕噜叫了。他掰下没泡水的饼边，咬了一口。咔嚓，好像踩到一片小秋叶。里面却软软的。“外面和里面不一样呀！”他说，又掰下一块，认真嚼了嚼。",
+      "image": "/library/stories/expansion-0403/v1/p06.webp",
+      "start": 101.638,
+      "end": 122.772
+    },
+    {
+      "id": "p07",
+      "text": "菇米把米饼掰成小块，装进自己的碗，再用勺子舀着吃。“这样也不会掉在衣服上。”翻翻的锅耳翘起来。菇米吃完最后一块，摸摸肚子：“明天，我想要一张边儿脆脆的。”",
+      "image": "/library/stories/expansion-0403/v1/p07.webp",
+      "start": 122.772,
+      "end": 142.586
+    },
+    {
+      "id": "p08",
+      "text": "第二天，菇米又带着小碗来了。他仍然坐在那张矮凳上，绿伞仍然滴着雨。翻翻端来米饼，特意把边儿烙得脆脆的。菇米举起勺子，先闻了一下香气。这回，肚子早早就咕噜了一声。",
+      "image": "/library/stories/expansion-0403/v1/p08.webp",
+      "start": 142.586,
+      "end": 164.05
+    }
+  ],
+  "buildHash": "0141af72b30fc132d8ab9ec31743387676d582b2c88aba0241ee570840b84a38"
+}

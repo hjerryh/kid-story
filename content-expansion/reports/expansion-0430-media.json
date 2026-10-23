@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0430",
+  "title": "南瓜冠军去歇脚",
+  "version": 1,
+  "bodyCharacters": 961,
+  "pages": 12,
+  "duration": 284.874,
+  "bodySha256": "9d436191ce122f5222e03d8e000c67858ce807033af9db77cb965a45cb02a89b",
+  "audioSha256": "5b999643b2bb34f95ace3db8b7a0a11aecc1800c6103633715158707cac7c1b6",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8d4e0e5af20c311a88ff98672e46ffa25e9a280070170bc144493c4b11f0c725",
+      "bytes": 14982
+    },
+    {
+      "name": "p01",
+      "sha256": "25502316e1cc758a9776398fcaa6e1972e1cfefc5478a15c9e2b1cf16121c8cf",
+      "bytes": 9476
+    },
+    {
+      "name": "p02",
+      "sha256": "b0671e046bf6df8358a4356e135eeb16ed4bba2e59b90fdc69753687960f95f5",
+      "bytes": 12990
+    },
+    {
+      "name": "p03",
+      "sha256": "687eebce3eefc862f135d581621dc91b364e1910be0529422c3cbdab219997c6",
+      "bytes": 13122
+    },
+    {
+      "name": "p04",
+      "sha256": "f47a3315d225dcecc946f127768394f99e0be05da0fa0781f9099bfb9539d985",
+      "bytes": 13134
+    },
+    {
+      "name": "p05",
+      "sha256": "8a2bd18ef18de9561c6cdedbd49d706fcc0e541b670f037c20f4829941b79591",
+      "bytes": 13256
+    },
+    {
+      "name": "p06",
+      "sha256": "e5265812e8ef99b2337d27639494160834c4b4d5ad185d40998cb284fbc3da67",
+      "bytes": 12976
+    },
+    {
+      "name": "p07",
+      "sha256": "95558133fe947c6580c9ea4e4ad725c97a3c89ef3c5e049499e4049b87757174",
+      "bytes": 11422
+    },
+    {
+      "name": "p08",
+      "sha256": "2a8c9abaab51e1e80ab0a3a2f4fb20d44de4ac32aa633d0b44deabd64f659015",
+      "bytes": 13546
+    },
+    {
+      "name": "p09",
+      "sha256": "c28a03487cbc723173eb16cdc683deb8f37e8154e722ab253035a4f15f1ef9c1",
+      "bytes": 13452
+    },
+    {
+      "name": "p10",
+      "sha256": "d3a0d73a1f049519bb91ec0286a59c86dea9740132b2d4151720b7cf68587cd2",
+      "bytes": 14252
+    },
+    {
+      "name": "p11",
+      "sha256": "3800a5058c55fbe5077cde3b750ea56696256f4f7396b8d612c2fbfbe1a71ea7",
+      "bytes": 10586
+    },
+    {
+      "name": "p12",
+      "sha256": "87468a7129e784e26372c287e67e4d7d2dc1670584472163a5fa5dd4085b0bf7",
+      "bytes": 10546
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0404",
+  "title": "笃笃摘下了蓝帽子",
+  "version": 1,
+  "bodyCharacters": 497,
+  "pages": 8,
+  "duration": 158.29,
+  "bodySha256": "00efef1de1e0e2c195660b5e384f530204c10ba6253896c831342f69d2e5f319",
+  "audioSha256": "d27cf3bc3e7fd7cf7b2342d664757f9604abb0fdf159100f405920aad84405e1",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "c1776b63ebfcc51b8c46077ed22c60e0095261a79d2bad6aad02f7347ff77720",
+      "bytes": 13428
+    },
+    {
+      "name": "p01",
+      "sha256": "39bbc791448ba34d1db0997b6d7579883989bb69b24de1fc9c26676b085092c0",
+      "bytes": 11324
+    },
+    {
+      "name": "p02",
+      "sha256": "f52a85be0b4f5e87e5ecf49d44dc99db1ab6e3a75eee43e9d65c66c49ad8fc57",
+      "bytes": 11484
+    },
+    {
+      "name": "p03",
+      "sha256": "8f9aae6214891615cd09a1be39e1d4e61be6095c9d8c4f76bfc1cfb2daf5a982",
+      "bytes": 11288
+    },
+    {
+      "name": "p04",
+      "sha256": "11f3929fc15b46c9c462dd8749f492c31b3403baf825b88414c4573ba46263e6",
+      "bytes": 11176
+    },
+    {
+      "name": "p05",
+      "sha256": "b266428582a34141a3c3b719116900fbdd3bd3ef2e8f1f55cc42588200d69949",
+      "bytes": 11432
+    },
+    {
+      "name": "p06",
+      "sha256": "27264277f372a1e86c6219b9f75ee07032e7680c78d8cff19918b8536ebf49cb",
+      "bytes": 11198
+    },
+    {
+      "name": "p07",
+      "sha256": "20a0d30be1cd5c5870b834131c9c531729c08d9bc16e6707d39a7bc5a966929f",
+      "bytes": 11236
+    },
+    {
+      "name": "p08",
+      "sha256": "88d235e0743dfc36716bab3ece3db1ebc6f9475955db3aaad9c2ab55c8e6112d",
+      "bytes": 11576
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

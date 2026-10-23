@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0412",
+  "version": 1,
+  "status": "media-ready",
+  "title": "阿方藏成一条船",
+  "subtitle": "藏进另一种模样",
+  "description": "红砖阿方想在绿苔花圃玩捉迷藏，可一高兴就忍不住说话。绵荠搬来叶子，又换了藏身处，最后想出一种能让阿方开开心心说话的新藏法。",
+  "ageBand": "3-5",
+  "theme": "假扮游戏",
+  "color": "#88A878",
+  "character": "花精灵绵荠：浅棕色短卷发，穿淡紫色花瓣裙，背着绿色小布包。红砖阿方：砖红色长方形身体，正面有圆眼睛和宽嘴巴，两侧长着短短的小手，没有脚。",
+  "cover": "/library/stories/expansion-0412/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 152.194,
+  "detailUrl": "/library/stories/expansion-0412/v1/story.json",
+  "audio": "/library/stories/expansion-0412/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "绿苔花圃里，红砖阿方天天望着小虫玩捉迷藏。他没有脚，不能自己找地方。花精灵绵荠蹲下来，说：“今天我陪你玩。我帮你藏好，再闭上眼睛，数一数。”",
+      "image": "/library/stories/expansion-0412/v1/p01.webp",
+      "start": 0,
+      "end": 19.454
+    },
+    {
+      "id": "p02",
+      "text": "绵荠把阿方轻轻放到三片大落叶后面。她转过身，刚数到三，叶子后就响起声音：“我藏好啦！”绵荠笑着回头。阿方也笑了，可他还想多藏一小会儿呢。",
+      "image": "/library/stories/expansion-0412/v1/p02.webp",
+      "start": 19.454,
+      "end": 37.612
+    },
+    {
+      "id": "p03",
+      "text": "这回，绵荠把他藏在空花盆后面。“阿方在哪里呀？”她故意望向另一边。“这里这里！”阿方马上回答。他把小手捂住嘴，眼睛却笑得弯弯的，又露出来了。",
+      "image": "/library/stories/expansion-0412/v1/p03.webp",
+      "start": 37.612,
+      "end": 56.61
+    },
+    {
+      "id": "p04",
+      "text": "“听见你找我，我就高兴得想说话。”阿方说。绵荠坐在他旁边，也不想让他一直捂着嘴。一片落叶飘下来，搭在砖头上，真像给一张小床盖好了被子。",
+      "image": "/library/stories/expansion-0412/v1/p04.webp",
+      "start": 56.61,
+      "end": 74.528
+    },
+    {
+      "id": "p05",
+      "text": "绵荠忽然说：“我们把阿方藏进别的模样里吧！”她铺平叶被，在一头放上花瓣枕头。“你不用搬地方，也能说话。不过先别告诉我，你现在变成了什么。”",
+      "image": "/library/stories/expansion-0412/v1/p05.webp",
+      "start": 74.528,
+      "end": 91.774
+    },
+    {
+      "id": "p06",
+      "text": "绵荠故意歪歪脑袋：“你是一张小桌子吗？”“不是，我能让困困的小脑袋躺下来。”阿方说。“啊，我找到小床啦！”绵荠把脸颊轻轻靠过去，阿方高兴得差点掀起叶被。",
+      "image": "/library/stories/expansion-0412/v1/p06.webp",
+      "start": 91.774,
+      "end": 111.564
+    },
+    {
+      "id": "p07",
+      "text": "下一回，绵荠收好被子和枕头，从布包里取出蓝布，铺在阿方身下，又在两边各放一片窄叶。“我正在水上摇呀摇。”阿方说。“找到你啦，小船！”叶桨轻轻晃。",
+      "image": "/library/stories/expansion-0412/v1/p07.webp",
+      "start": 111.564,
+      "end": 131.738
+    },
+    {
+      "id": "p08",
+      "text": "阿方喜欢这次的藏法。他能说好多话，还能把自己藏成许多东西。“小船还没靠岸呢。”他说。绵荠便用一根小手指当乘客，坐上砖头船，陪他慢慢摇过花香里的蓝海。",
+      "image": "/library/stories/expansion-0412/v1/p08.webp",
+      "start": 131.738,
+      "end": 152.194
+    }
+  ],
+  "buildHash": "77369920560c0e66c57a3bde21389a8f857413222126aaa8ce55cbec42ff6a73"
+}

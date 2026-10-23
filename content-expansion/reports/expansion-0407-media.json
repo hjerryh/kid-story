@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0407",
+  "title": "灯灯歇一会儿",
+  "version": 1,
+  "bodyCharacters": 508,
+  "pages": 8,
+  "duration": 165.058,
+  "bodySha256": "daebef963cf379b1132f8a13dbfbbd6dcda1c0e3f7130feae91cc230b520f1f2",
+  "audioSha256": "3ede0ff69a965e4e689923ea4d21e1282690c841cd074fcc71a1b57dda451ec0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "504288f3f7cba5a3ae47b8327be03a810dc3ad3e9942cb6ac58ec65cdf6aed70",
+      "bytes": 13912
+    },
+    {
+      "name": "p01",
+      "sha256": "d1d5586316630a115fe468081255ce019558e8138894e0ecf8f709d37773d003",
+      "bytes": 12474
+    },
+    {
+      "name": "p02",
+      "sha256": "da78c9da251b28c3af1e79739d529d02ae44f01553ded33de6535ad6f03b4163",
+      "bytes": 11724
+    },
+    {
+      "name": "p03",
+      "sha256": "c030be00430c252ae709730d69671d9a1843f72d3eb5cc0f1c29ccc6a0de539e",
+      "bytes": 11528
+    },
+    {
+      "name": "p04",
+      "sha256": "6ed76dbcafd10ffc86c3d515fd84078c369b0ac2bb46d0890ba33bfbea880ec5",
+      "bytes": 11622
+    },
+    {
+      "name": "p05",
+      "sha256": "90025ee64a561654abd02331931e9b667051200df7164eb58283855d0df571f9",
+      "bytes": 11558
+    },
+    {
+      "name": "p06",
+      "sha256": "4a13d9777764d758a00826ed357ec6e5d08570c5ef75508a9efcf7de14d5dbc7",
+      "bytes": 11210
+    },
+    {
+      "name": "p07",
+      "sha256": "98ed5b923dabee5e68781242338489a6d532a158d719abf724bc7787d1dfb990",
+      "bytes": 10950
+    },
+    {
+      "name": "p08",
+      "sha256": "8f85b123db5ffb42fd4aab32a834ec1f8f0544898a86523ecb04abbf98c10597",
+      "bytes": 11812
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

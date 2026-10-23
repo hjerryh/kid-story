@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0419",
+  "title": "砂栗把弯路装进书里",
+  "version": 1,
+  "bodyCharacters": 1025,
+  "pages": 12,
+  "duration": 299.562,
+  "bodySha256": "95f6582f6a1da594acef342ee647cf2715cb0cb177751302483d40d5e352c3db",
+  "audioSha256": "75523bfbbf45c6ae5dff93a497b28a812ee01ff079e5ee3fa431040ebf9f6e0d",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "cb72a08833bb47a98a0b9f84c946053b3befcfa198f6959e9c0265d392fa2ec2",
+      "bytes": 18856
+    },
+    {
+      "name": "p01",
+      "sha256": "c38c32a2f03e2e185d74ae0a3b648d613e9d644fdbc7414b5c349e4bd38e6d7f",
+      "bytes": 13570
+    },
+    {
+      "name": "p02",
+      "sha256": "4b96b1cb6b5f75e8e8091c9550a7c643bf54aa0e5ba2cc0f488c8d4a090e243d",
+      "bytes": 15010
+    },
+    {
+      "name": "p03",
+      "sha256": "5679e143928f46c200cdef0e7cacc122dad48c4754d7745b8f5fdb9d3ef0fae1",
+      "bytes": 14384
+    },
+    {
+      "name": "p04",
+      "sha256": "0e280fce0f9c90e289e9bcde549aabfb10d5c053ccaeaebe9be9340e88de3461",
+      "bytes": 15116
+    },
+    {
+      "name": "p05",
+      "sha256": "b22296228e75a5c8aba97eb6af0c4e3203f3f719f0188365050d993f285340ee",
+      "bytes": 14102
+    },
+    {
+      "name": "p06",
+      "sha256": "bd5bb074ff3ef1e1a837705ac7532923d8200a5420567e76f9b54833a15989ad",
+      "bytes": 16430
+    },
+    {
+      "name": "p07",
+      "sha256": "f86bcdf2e3a3a6d053a0ac01c1224644ae77dc9a30dbea27da8ce7870c552441",
+      "bytes": 16446
+    },
+    {
+      "name": "p08",
+      "sha256": "6214218c524b33d61d6fea9c41ebb69db16bd845e286c35b0d1b3eac8db966c9",
+      "bytes": 15774
+    },
+    {
+      "name": "p09",
+      "sha256": "0e50df88e188cbd7f8024ec44fadcb1b1f541d48f518881d72c09523d269ef23",
+      "bytes": 16840
+    },
+    {
+      "name": "p10",
+      "sha256": "baa2bb0acf2b47d845b2c541f17197f6696924d31010094b2dfae005f95f306c",
+      "bytes": 17008
+    },
+    {
+      "name": "p11",
+      "sha256": "7e2668c54aa5b9ae87033206021b2e8aca07149665510d15bb902fba7ae9773b",
+      "bytes": 12532
+    },
+    {
+      "name": "p12",
+      "sha256": "80bcae4109d31b88d4975811e727d35e2ae0be3b0a33f5cc301b1a9c71ba1d6b",
+      "bytes": 8852
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

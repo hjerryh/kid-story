@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0425",
+  "title": "山脊先生展开了山谷",
+  "version": 1,
+  "bodyCharacters": 1025,
+  "pages": 12,
+  "duration": 309.402,
+  "bodySha256": "662410942c6ee2da0887e5f36b358752a38d95f8f266fb5a42171be7b11d536a",
+  "audioSha256": "06d87e992936ddc9231a149832f52820663e9da4094d15631e87658e4e8a2e11",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "eb1b15a058a1d036387c6bde1d4ada471e4019c8d120ed0e235b7ddbc388fba0",
+      "bytes": 14388
+    },
+    {
+      "name": "p01",
+      "sha256": "29be9f1112ad81c275920b1927264fe62a45ffcabe7e9ad328762e2dd512aa9c",
+      "bytes": 10200
+    },
+    {
+      "name": "p02",
+      "sha256": "d6c5d8db60325e1b7e3d6f282107f52a1d55cc6de834e5311af5e7d0ede698fa",
+      "bytes": 12592
+    },
+    {
+      "name": "p03",
+      "sha256": "bcf83a8566054dd51275bf3080c24d24e275aec96a6f88434ebdaeda5d4f4c93",
+      "bytes": 12214
+    },
+    {
+      "name": "p04",
+      "sha256": "f886d41dffff2f4269ca25059dfb52c1665a01f9c2d72e5be3081ee0fbd52c23",
+      "bytes": 11990
+    },
+    {
+      "name": "p05",
+      "sha256": "df8d55c023c6534f8585f7a458a50f8ba760e7a680a184086c3c4106677379a7",
+      "bytes": 12074
+    },
+    {
+      "name": "p06",
+      "sha256": "45dd2e96af4333f901849866bb1a4b33158cf6e231b965278416a3c9355917fb",
+      "bytes": 11858
+    },
+    {
+      "name": "p07",
+      "sha256": "10f607139afb30c96efe9cb7f54b0e1050be1d6edf56b8e943c2b652c47a260e",
+      "bytes": 11970
+    },
+    {
+      "name": "p08",
+      "sha256": "ebf7dc18e94a8e2a8ebb9b75dec3c8a2b13b1aac80ad0ee31f79f0da102215cd",
+      "bytes": 11150
+    },
+    {
+      "name": "p09",
+      "sha256": "c1eabe0676f08587011f56c990d9b7090dd75f21f69cb4e7878822b4be8f5244",
+      "bytes": 12178
+    },
+    {
+      "name": "p10",
+      "sha256": "e8c56e5c9a90d4adc697683cd3fcaf910607d76740563043cbbc70aeab435eb6",
+      "bytes": 12380
+    },
+    {
+      "name": "p11",
+      "sha256": "08910514cda0a89e737590a8e0adcec89dfd9dc4ffebd1c45d05ce8b3be299c6",
+      "bytes": 11938
+    },
+    {
+      "name": "p12",
+      "sha256": "fb96c4426875d1719b0803904047516228fdaee500e15b9bdfafb3726493de32",
+      "bytes": 12304
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

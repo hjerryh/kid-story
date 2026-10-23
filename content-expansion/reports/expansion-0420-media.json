@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0420",
+  "title": "黄门这回没有搬走",
+  "version": 1,
+  "bodyCharacters": 993,
+  "pages": 12,
+  "duration": 304.026,
+  "bodySha256": "46a8c431e8251fd49be9f7175ef93e0fb871669f73434b09bc91678fb5f0f194",
+  "audioSha256": "73996b3aa8d2ab109eb71da12dd5e5c19c143e2d66d0a69dc3ba37e57d7d45aa",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "904d6cbc9588d5f605a16e8a136ba4dc83c8e622a222199ac0095a427748f3c1",
+      "bytes": 16870
+    },
+    {
+      "name": "p01",
+      "sha256": "1882dca45e8015c03e4af380599d11ca396f157bb36854b228ba3562ee347b40",
+      "bytes": 14738
+    },
+    {
+      "name": "p02",
+      "sha256": "d023f2653c4000280b40df9251db920e8fc17a1c4c8fb4f897a7bb37b44827b5",
+      "bytes": 15022
+    },
+    {
+      "name": "p03",
+      "sha256": "897ab1401c3b945c48e595b2312d6feea8233910abeb71a718c79a6140190671",
+      "bytes": 13640
+    },
+    {
+      "name": "p04",
+      "sha256": "9cad75be5b4636be54a6805bed7d42c0440a99aa9590d246c28b122ce77aa57f",
+      "bytes": 13986
+    },
+    {
+      "name": "p05",
+      "sha256": "707f40239839c5f40b96a961111fb4c10419352f1d4aa0b76bb437f8a6177e7e",
+      "bytes": 13058
+    },
+    {
+      "name": "p06",
+      "sha256": "ce2ac60acc8931c886f5fd275a68f05fbaa7e1a3011f83a1d991b92bbb03cabb",
+      "bytes": 14864
+    },
+    {
+      "name": "p07",
+      "sha256": "2134cccb082ee610c982c009c03af29cdfad4839247b4ac09ba734efbae1322d",
+      "bytes": 14528
+    },
+    {
+      "name": "p08",
+      "sha256": "187be37722a237601781498590e2500795bb038fc3000e7ca31f0f4b3a68a401",
+      "bytes": 13286
+    },
+    {
+      "name": "p09",
+      "sha256": "7ab77d66ae1bad35ce565687d51dd11be1a4499a0498777528e071389cf90f7d",
+      "bytes": 14690
+    },
+    {
+      "name": "p10",
+      "sha256": "072321f544362e7ff421543c1642b92460771904d32e629163796d3d9feeda57",
+      "bytes": 15194
+    },
+    {
+      "name": "p11",
+      "sha256": "edef5d642b72e8579a2e1119e8c26223f74493efe71b2ef0046646a01908834f",
+      "bytes": 14958
+    },
+    {
+      "name": "p12",
+      "sha256": "c8b13e7c023f3b14245670832088b0174db9c7cc6253b5095b01cde05fd5bf62",
+      "bytes": 13470
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

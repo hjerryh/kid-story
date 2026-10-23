@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0405",
+  "version": 1,
+  "status": "media-ready",
+  "title": "泡泡圈的小肚子",
+  "subtitle": "轻轻吹，再停一停",
+  "description": "雨天，芋圆想吹出一只大泡泡，让它飘过自己的鼻尖。可他越使劲，泡泡越不肯长大。一只会说话的泡泡圈，陪他重新试了起来。",
+  "ageBand": "3-5",
+  "theme": "尝试与修正",
+  "color": "#8BCBC5",
+  "character": "芋圆是一只粉红色小猪，圆鼻头，耳朵软软下垂，穿浅蓝色短袖衫和深蓝色短裤。泡泡圈有绿色木柄、圆圆的黄色圈口，会说话，没有手脚。",
+  "cover": "/library/stories/expansion-0405/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 177.778,
+  "detailUrl": "/library/stories/expansion-0405/v1/story.json",
+  "audio": "/library/stories/expansion-0405/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨线挂在屋檐外，芋圆坐在雨廊的小桌前。桌上有一碟泡泡水，还有一只会说话的泡泡圈。他想吹个大泡泡，让它慢慢飘过自己的圆鼻尖。“准备好啦！”泡泡圈说。",
+      "image": "/library/stories/expansion-0405/v1/p01.webp",
+      "start": 0,
+      "end": 19.982
+    },
+    {
+      "id": "p02",
+      "text": "芋圆把圈口蘸湿，鼓起两边脸颊，使劲一吹。噗！一串小水珠飞了出去，一个泡泡也没留下。他又吹了一次，鼻头都皱了。泡泡圈轻轻碰着他的鼻子：“我的肚子还没鼓起来呢。”",
+      "image": "/library/stories/expansion-0405/v1/p02.webp",
+      "start": 19.982,
+      "end": 41.692
+    },
+    {
+      "id": "p03",
+      "text": "芋圆重新蘸湿圈口，低头看。薄薄的一层水，闪着粉红和浅绿，像一扇小窗。他摸摸自己的脸颊，这回不把它鼓得那么圆，只轻轻送出一口气。小窗往外弯了，真的鼓出一个亮肚子。",
+      "image": "/library/stories/expansion-0405/v1/p03.webp",
+      "start": 41.692,
+      "end": 63.306
+    },
+    {
+      "id": "p04",
+      "text": "“长大啦！”芋圆高兴极了，还在不停地吹。亮肚子越拉越长，像一根透明的小黄瓜。芋圆伸长脖子追着吹，啪，小黄瓜破了。他的嘴还圆着，泡泡却已经不见了，只剩圈口空空的。",
+      "image": "/library/stories/expansion-0405/v1/p04.webp",
+      "start": 63.306,
+      "end": 85.208
+    },
+    {
+      "id": "p05",
+      "text": "芋圆放下圈口，闭上嘴巴歇一歇。雨在外面滴答滴答。他想，刚才小肚子明明好好的，是自己一直吹，它才变得那么长。这回，等肚子圆起来，我就停。他重新蘸了一层亮亮的水。",
+      "image": "/library/stories/expansion-0405/v1/p05.webp",
+      "start": 85.208,
+      "end": 106.87
+    },
+    {
+      "id": "p06",
+      "text": "轻轻吹，慢慢吹。亮肚子又鼓起来了，圆圆的，映着他的蓝衣裳。芋圆把嘴闭好，不再追着吹，又慢慢把圈口移向旁边。泡泡晃了一下，离开圈口，完整地浮在他面前，轻轻颤着。",
+      "image": "/library/stories/expansion-0405/v1/p06.webp",
+      "start": 106.87,
+      "end": 129.204
+    },
+    {
+      "id": "p07",
+      "text": "大泡泡慢悠悠地飘过圆鼻尖，里面有一小块蓝，还有一小块花的颜色。芋圆忍住了伸手戳它的念头，先把泡泡圈放回桌上，再把手放在膝盖上。“你好呀。”他小声说。泡泡轻轻往下落，像听见了这句问候。",
+      "image": "/library/stories/expansion-0405/v1/p07.webp",
+      "start": 129.204,
+      "end": 153.89
+    },
+    {
+      "id": "p08",
+      "text": "泡泡碰到地砖，轻轻不见了。芋圆没有着急去找。他记得，那一小块蓝刚刚从鼻尖前走过。他又拿起泡泡圈：“再来一个吧。”蘸一蘸水，圈口又闪起彩色的小窗。这一次，他的两边脸颊都软软的。",
+      "image": "/library/stories/expansion-0405/v1/p08.webp",
+      "start": 153.89,
+      "end": 177.778
+    }
+  ],
+  "buildHash": "3abb916feaf0b4cf2d4d2ab44916a45f1b3ee9468afbcfa67f684400e4a091eb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0441",
+  "version": 1,
+  "status": "media-ready",
+  "title": "雪花坐在紫围巾上",
+  "subtitle": "紫围巾上的小客人",
+  "description": "雪地花园落下了会说话的小雪花。墨团想看清雪花的小尖角，可雪花落在手心就化了，落在白手套上又找不着。她该把这位小客人请到哪里呢？",
+  "ageBand": "3-5",
+  "theme": "雪花的模样",
+  "color": "#AFCBD8",
+  "character": "小鼹鼠墨团：灰黑色绒毛，圆鼻头，戴圆框眼镜，穿湖蓝色棉袄，围深紫色羊毛围巾，戴白色羊毛手套。",
+  "cover": "/library/stories/expansion-0441/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 169.426,
+  "detailUrl": "/library/stories/expansion-0441/v1/story.json",
+  "audio": "/library/stories/expansion-0441/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雪地花园里，墨团听见一个细细的声音：“请让一让，我要落下来啦！”她抬起头，一朵小雪花飘过鼻尖。“你长什么样？”“我有小尖角呀。”墨团好想看清那些小尖角。",
+      "image": "/library/stories/expansion-0441/v1/p01.webp",
+      "start": 0,
+      "end": 19.286
+    },
+    {
+      "id": "p02",
+      "text": "墨团脱下一只手套，伸出手心。一朵雪花轻轻落下，还没等她凑近，就成了亮亮的小水珠。“咦，小尖角呢？”空中的雪花说：“你的手心暖暖的，我们一暖，就会化成水。”",
+      "image": "/library/stories/expansion-0441/v1/p02.webp",
+      "start": 19.286,
+      "end": 39.34
+    },
+    {
+      "id": "p03",
+      "text": "墨团赶紧戴好手套，让另一朵雪花落在上面。这回，雪花没有马上化掉。可白手套上白茫茫的，她找了左边，又找右边。“我在这里！”小声音响起来，她还是认不出那几个尖角。",
+      "image": "/library/stories/expansion-0441/v1/p03.webp",
+      "start": 39.34,
+      "end": 60.666
+    },
+    {
+      "id": "p04",
+      "text": "她把手举得高高的，又慢慢移到鼻尖前。鼻子痒痒，差一点打出喷嚏。墨团赶快把手放远：“不能把你吹跑呀。”她望望满地白雪，叹了口气：“怎么连你的床，也是白色的呢？”",
+      "image": "/library/stories/expansion-0441/v1/p04.webp",
+      "start": 60.666,
+      "end": 80.864
+    },
+    {
+      "id": "p05",
+      "text": "这时，手套上的一根白绒毛，粘到了她的深紫色围巾上。弯弯的一小根，看得清清楚楚。墨团低头瞧着，眼睛忽然亮了：“白绒毛在紫色上这么清楚，白雪花是不是也能看清呢？”",
+      "image": "/library/stories/expansion-0441/v1/p05.webp",
+      "start": 80.864,
+      "end": 101.374
+    },
+    {
+      "id": "p06",
+      "text": "墨团扫开长凳上的薄雪，把围巾长长的一端铺在凳面，自己弯腰站在旁边。“这里有张紫色小床。”她轻轻说。一朵雪花转了半个圈，落在羊毛上，稳稳停住，像一枚小小的银星。",
+      "image": "/library/stories/expansion-0441/v1/p06.webp",
+      "start": 101.374,
+      "end": 123.228
+    },
+    {
+      "id": "p07",
+      "text": "她不再凑得太近，隔着一点距离细细看。一、二、三……这朵雪花有六个尖角！每个尖角旁边，还伸着更细的小枝。“原来你带着一座小花园！”墨团说。雪花轻轻回答：“现在，你看见我啦。”",
+      "image": "/library/stories/expansion-0441/v1/p07.webp",
+      "start": 123.228,
+      "end": 146.882
+    },
+    {
+      "id": "p08",
+      "text": "又一朵雪花飘过来：“还有空位吗？”墨团把围巾铺得更平一些。“有呀，请坐旁边。”两朵雪花挨得近近的，小尖角却没有碰着。她弯腰陪着它们。紫色的小床上，安安静静地亮着两个冬天。",
+      "image": "/library/stories/expansion-0441/v1/p08.webp",
+      "start": 146.882,
+      "end": 169.426
+    }
+  ],
+  "buildHash": "b06017fef22a24ba01b86883c76b40ca1987319746cd8f1aa9d8e5343e30bf5d"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0437",
+  "title": "银线走到空白里",
+  "version": 1,
+  "bodyCharacters": 1650,
+  "pages": 16,
+  "duration": 505.082,
+  "bodySha256": "1ad20589f5752aa9c237c30a24a326d1fd7c96b935f91e72eab315bf1f3bf9ba",
+  "audioSha256": "8d9922f77625b2277fcdf10764509dc8fdbf82e77e3dd68450a64b3fed9d2151",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "01c2be6a0526d7e0e19f8934ac768df0a06d15e78890e844f5321bafb3e6d4e0",
+      "bytes": 20516
+    },
+    {
+      "name": "p01",
+      "sha256": "86633cb8af71a40db6a2c97f452f1f43a052c9a200e7a24517171bcd2b22fd3d",
+      "bytes": 14790
+    },
+    {
+      "name": "p02",
+      "sha256": "b6b51fb78035c376d92d44923caed7e0e230359c25c1acf076d2a4e48a45a946",
+      "bytes": 14638
+    },
+    {
+      "name": "p03",
+      "sha256": "2391230c5025497c7328466e8f722d16ecb5d367995bf0879917c0ccbf7938b0",
+      "bytes": 15644
+    },
+    {
+      "name": "p04",
+      "sha256": "4c5fa49606a79e483158dd5446e6873e5667acf842933ab1ee1fa7e95fa5b8e0",
+      "bytes": 16110
+    },
+    {
+      "name": "p05",
+      "sha256": "f2bb287f393c175911a6456c47e5e5ac9edb5c0b947218f68b7937b66fc5a10e",
+      "bytes": 15806
+    },
+    {
+      "name": "p06",
+      "sha256": "5ecba6c6c3461c79d91fc3f285b0e02dcb2be626e95d9fb14881464c5ae29835",
+      "bytes": 16074
+    },
+    {
+      "name": "p07",
+      "sha256": "438eddf6c5f4580d2e13a0057cc529b04fea8f119e739413c2a434635da47500",
+      "bytes": 16248
+    },
+    {
+      "name": "p08",
+      "sha256": "44652028b7fd3fc730c2d72857e124a40ec5eeede712605df17dd3ca7494a95e",
+      "bytes": 10884
+    },
+    {
+      "name": "p09",
+      "sha256": "63b8b742c0de266b0718c3732c94ce72e233b7b1094dd285a9fb540f88364f2a",
+      "bytes": 19722
+    },
+    {
+      "name": "p10",
+      "sha256": "12e06fbe9e41fef7bf565e0dad6ccd668aac0035f02c7cbf63f92e1d85ca3047",
+      "bytes": 18458
+    },
+    {
+      "name": "p11",
+      "sha256": "0a255fbbdb567016b9808824b12d4a4f4e360255fcb1e847c1acb4a29883d54b",
+      "bytes": 17808
+    },
+    {
+      "name": "p12",
+      "sha256": "c9947f3c994c3e1c3c5bd22f4c784456ea118b914831b35acd9836b07a2422a7",
+      "bytes": 15352
+    },
+    {
+      "name": "p13",
+      "sha256": "8e0278545658d2242d68d3714b0141899e9e3a0c0f24ec6981eada44b66754c1",
+      "bytes": 17856
+    },
+    {
+      "name": "p14",
+      "sha256": "be26cbb8480e53170843b6e32994c758001f1c1ddda9c459c0d0a94420d984a6",
+      "bytes": 18364
+    },
+    {
+      "name": "p15",
+      "sha256": "ce811cc404dd6540f846a26531083d3237b0a20ae58b80c10c4b7d5cf8101fa4",
+      "bytes": 16514
+    },
+    {
+      "name": "p16",
+      "sha256": "8710793b5e00f832df2d16fcc23f45e7f79844fb79c60803ebac4203603c69df",
+      "bytes": 17236
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

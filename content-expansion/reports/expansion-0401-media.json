@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0401",
+  "title": "小风的三张画像",
+  "version": 1,
+  "bodyCharacters": 488,
+  "pages": 8,
+  "duration": 158.89,
+  "bodySha256": "b8e59efbb877f8b409f599f72cce7504a3c724cba4c90d4764e066866a08b263",
+  "audioSha256": "3c521b8ad5e83322f2fb46445b5fb54595d9a5f3d8f629ec243a0599d4151da8",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "702b3193f03422f5c2b5aed1888ace4598e324fbb49d8ecaebb0e9ebf70e7bd9",
+      "bytes": 14980
+    },
+    {
+      "name": "p01",
+      "sha256": "3ee7b418a113ffac62a9026680e418da9ee7a81b6ffb68f37c9f61b3021b2d41",
+      "bytes": 9602
+    },
+    {
+      "name": "p02",
+      "sha256": "10fdef2eb0c7e1c3ab758e5334cda75aebac46a24d241c5fcb85d27d2f00f853",
+      "bytes": 9268
+    },
+    {
+      "name": "p03",
+      "sha256": "a55314402236e326153f84add2a6cb72cdc09110c7119cbdf2b4af5d00d5e8c9",
+      "bytes": 11042
+    },
+    {
+      "name": "p04",
+      "sha256": "be53d2d7dd94d303e76afb5cf601c20385fc41ab849cd0a17547930e8a7cd099",
+      "bytes": 10028
+    },
+    {
+      "name": "p05",
+      "sha256": "ae0ebdbbf51e19ee73c966f4ef2b08dfd6346f70b6825c778977e778323a3acf",
+      "bytes": 10096
+    },
+    {
+      "name": "p06",
+      "sha256": "1554f04e5a1d6560dcc3617f6ca7efaec6bbcc843c0b86dc079d93f365cb9cb6",
+      "bytes": 8024
+    },
+    {
+      "name": "p07",
+      "sha256": "f44c6a1d0b2c04bbe027bda435376d1fff72cf935f9740c694c814b7eda86e2a",
+      "bytes": 13276
+    },
+    {
+      "name": "p08",
+      "sha256": "ab27d4b9a46025f1312845dbc92a5d96623a732cc859d680b7eb0ed555b7aa5c",
+      "bytes": 11756
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

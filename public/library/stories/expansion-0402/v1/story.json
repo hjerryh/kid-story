@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0402",
+  "version": 1,
+  "status": "media-ready",
+  "title": "六只花籽袋等在地毯上",
+  "subtitle": "小队伍歇一会儿",
+  "description": "苓果带着六只会走路的花籽袋搬进新仓库，忽然想上厕所。小袋子们却寸步不离地跟着她，这支沙沙响的小队伍该在哪里停下来？",
+  "ageBand": "3-5",
+  "theme": "说出需要",
+  "color": "#B6C98F",
+  "character": "苓果是小小的花园精灵，栗色短发，圆耳朵，穿淡紫色上衣、绿色短裤和软布鞋。六只牛皮纸花籽袋各有一双棕色小靴子，袋口扎着白棉线，正面画着金盏花。",
+  "cover": "/library/stories/expansion-0402/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 156.898,
+  "detailUrl": "/library/stories/expansion-0402/v1/story.json",
+  "audio": "/library/stories/expansion-0402/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "苓果领着六只花籽袋，搬进了新仓库。小袋子都有一双靴子，走起来沙沙响。她要带它们找到靠墙的低木架。那里干燥又凉快，很适合花籽安安稳稳地住下来。",
+      "image": "/library/stories/expansion-0402/v1/p01.webp",
+      "start": 0,
+      "end": 19.046
+    },
+    {
+      "id": "p02",
+      "text": "走到半路，苓果忽然想尿尿。厕所就在旁边的小走廊里。她看了看身后的小队伍，心想：先把它们送到架子边吧。可是，低木架还要绕过好几个装空篮子的架子。",
+      "image": "/library/stories/expansion-0402/v1/p02.webp",
+      "start": 19.046,
+      "end": 38.212
+    },
+    {
+      "id": "p03",
+      "text": "苓果迈大步，小袋子也赶紧迈大步。沙沙沙，嗒嗒嗒，仓库里像下起了小小的雨。她走了几步就停下来。不行，她现在就需要上厕所，不能再带着队伍绕来绕去了。",
+      "image": "/library/stories/expansion-0402/v1/p03.webp",
+      "start": 38.212,
+      "end": 58.242
+    },
+    {
+      "id": "p04",
+      "text": "她转身往小走廊走，小袋子们也转了身。她停在圆地毯旁，它们又围过来。“我们的新家在这里吗？”最前面的袋子问。苓果这才发现，自己还没告诉它们要去哪里。",
+      "image": "/library/stories/expansion-0402/v1/p04.webp",
+      "start": 58.242,
+      "end": 77.48
+    },
+    {
+      "id": "p05",
+      "text": "“我需要上厕所，要自己去。”苓果说，“请你们在这块圆地毯上等我，别跟过来。我洗好手就回来带路。”小袋子们晃晃身子，一只挨着一只，在软软的地毯上坐下。",
+      "image": "/library/stories/expansion-0402/v1/p05.webp",
+      "start": 77.48,
+      "end": 96.67
+    },
+    {
+      "id": "p06",
+      "text": "苓果走进厕所，轻轻关上门。外面没有追来的脚步声。六只小袋子伸出靴尖，歇歇走累的脚。最小的一只悄悄说：“原来带路的人也要停一停，我正想坐一会儿呢。”",
+      "image": "/library/stories/expansion-0402/v1/p06.webp",
+      "start": 96.67,
+      "end": 115.812
+    },
+    {
+      "id": "p07",
+      "text": "上完厕所，苓果用肥皂洗净手，擦干，回到圆地毯旁。六只袋子一只也没少。“我回来啦，现在舒服多了！”她说。最小的袋子晃晃靴尖：“我也歇好了，我们走吧！”",
+      "image": "/library/stories/expansion-0402/v1/p07.webp",
+      "start": 115.812,
+      "end": 136.37
+    },
+    {
+      "id": "p08",
+      "text": "这一次，他们不紧不慢地走到了低木架。小袋子们坐上最底下一层，把靴子排得整整齐齐。苓果坐在旁边，也伸直了腿。十二只小靴子，加上两只布鞋，正好晒不到太阳。",
+      "image": "/library/stories/expansion-0402/v1/p08.webp",
+      "start": 136.37,
+      "end": 156.898
+    }
+  ],
+  "buildHash": "58e30b4cba025dcc25c2c3e36c8532ed6c6137c7c30d07d3a1d82848b82ed3c4"
+}

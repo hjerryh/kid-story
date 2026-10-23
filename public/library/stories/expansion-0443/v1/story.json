@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0443",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小门后面留给你",
+  "subtitle": "窗边的朋友长了翅膀",
+  "description": "麦绒每天都和毛毛虫青粒一起看书。青粒变成蛹以后，身旁的位置空了。麦绒留着书里的秘密，等朋友回来，却不知道朋友还会不会喜欢原来的小座位。",
+  "ageBand": "3-5",
+  "theme": "朋友的变化",
+  "color": "#A8C78C",
+  "character": "小田鼠麦绒：浅棕色绒毛，圆耳朵，穿蓝色小背心，背米白色布书包。毛毛虫青粒：嫩绿色身体，额前一小块黄色斑纹；化成绿色蛹后，羽化为黄色翅膀、带褐色圆斑的蝴蝶。",
+  "cover": "/library/stories/expansion-0443/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 170.818,
+  "detailUrl": "/library/stories/expansion-0443/v1/story.json",
+  "audio": "/library/stories/expansion-0443/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "橡果学校的窗边，麦绒和毛毛虫青粒共看一本书。麦绒翻页，青粒用脑袋指图画。他们看到一扇小门，还没打开，放学铃就响了。麦绒把书合好，留着明天一起猜门后藏着谁。",
+      "image": "/library/stories/expansion-0443/v1/p01.webp",
+      "start": 0,
+      "end": 21.302
+    },
+    {
+      "id": "p02",
+      "text": "第二天，青粒没有爬上窗台。他伏在窗外的细枝上，说：“我要变成蛹啦，会有好多天不能陪你看书。”麦绒摸摸书角：“那扇门还等着呢。”青粒轻轻点头：“也替我留着呀。”",
+      "image": "/library/stories/expansion-0443/v1/p02.webp",
+      "start": 21.302,
+      "end": 41.332
+    },
+    {
+      "id": "p03",
+      "text": "过了几天，枝上挂着一枚绿绿的蛹。麦绒举起书，把图画朝向窗外，又轻轻念了一句。没有熟悉的小脑袋点过来。他慢慢放下书。旁边那片卷成小座位的叶子，忽然显得好空。",
+      "image": "/library/stories/expansion-0443/v1/p03.webp",
+      "start": 41.332,
+      "end": 62.562
+    },
+    {
+      "id": "p04",
+      "text": "麦绒想知道朋友会变成什么样。他从书架上找来一本厚书，翻到毛毛虫那一页。图上，蛹后面是一只蝴蝶。麦绒看看窗外，又看看图：“原来，你正在里面长翅膀。”他的耳朵抬起来一点。",
+      "image": "/library/stories/expansion-0443/v1/p04.webp",
+      "start": 62.562,
+      "end": 84.824
+    },
+    {
+      "id": "p05",
+      "text": "往后的日子，麦绒仍来窗边坐坐。他没有碰那枚蛹，只轻声说说今天的事，再去看别的书。小门后面那一页，他一直留着。有时他也会想：长了翅膀，青粒还喜欢坐在我身边吗？",
+      "image": "/library/stories/expansion-0443/v1/p05.webp",
+      "start": 84.824,
+      "end": 105.934
+    },
+    {
+      "id": "p06",
+      "text": "一个早晨，蛹壳空了。枝上停着一只黄翅蝴蝶，翅膀正慢慢舒展开来。麦绒抱着书，在窗里等。等翅膀干了，蝴蝶才飞到窗前：“麦绒，小门打开了吗？”呀，是青粒的声音！",
+      "image": "/library/stories/expansion-0443/v1/p06.webp",
+      "start": 105.934,
+      "end": 127.668
+    },
+    {
+      "id": "p07",
+      "text": "麦绒赶紧指指叶子座位。青粒落下去，翅膀却碰着两边的叶沿。他又飞起来，有点为难。麦绒看了看，把书抱到窗下的草地上，平平展开：“来这里吧，这里有好大好大的地方！”",
+      "image": "/library/stories/expansion-0443/v1/p07.webp",
+      "start": 127.668,
+      "end": 148.562
+    },
+    {
+      "id": "p08",
+      "text": "青粒停在书旁，麦绒翻开小门后面的一页。里面是一只抱着枕头的小熊。“他刚睡醒！”两位朋友一起说。麦绒笑着趴下来。青粒的翅膀轻轻一合，给书里的小熊添了一片软软的影子。",
+      "image": "/library/stories/expansion-0443/v1/p08.webp",
+      "start": 148.562,
+      "end": 170.818
+    }
+  ],
+  "buildHash": "6b1e0b94097dd2bfc10dc5f5ca12ae9f53be1efe14fc926d4167740e38dfd429"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0414",
+  "version": 1,
+  "status": "media-ready",
+  "title": "梦里的桃子坐下了",
+  "subtitle": "给追累了的梦歇歇脚",
+  "description": "小睡鼠枣绒梦见一颗怎么也追不上的桃子，醒来又累又委屈。她想好好睡一觉，可一闭眼就想起那场追赶。会说话的枕头婆婆告诉她，梦还可以接着往下讲。",
+  "ageBand": "3-5",
+  "theme": "安慰与想象",
+  "color": "#DDA6B2",
+  "character": "小睡鼠枣绒：浅棕色绒毛，圆耳朵，奶白色肚皮，穿淡紫色睡衣，胸前有一颗木头纽扣。枕头婆婆：米白色方枕头，两角微翘，绣着灰色眉毛和弯弯的嘴。婆婆有接梦魔法，能把听到的新结尾缝进枣绒接下来的梦。",
+  "cover": "/library/stories/expansion-0414/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 161.578,
+  "detailUrl": "/library/stories/expansion-0414/v1/story.json",
+  "audio": "/library/stories/expansion-0414/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "午后，果园里香香的。小睡鼠枣绒却从床上坐起来，嘴巴扁扁的。她梦见一颗大桃子，追呀追，刚要碰到，桃子就咕噜噜滚远了。醒来以后，她的两只小脚还觉得好累。",
+      "image": "/library/stories/expansion-0414/v1/p01.webp",
+      "start": 0,
+      "end": 21.158
+    },
+    {
+      "id": "p02",
+      "text": "她还想睡，可一闭眼，就想起那颗桃子。枣绒翻到左边，又翻到右边，把被角抱进怀里。“我连一小口都没吃到。”她说着，鼻尖酸酸的，一滴眼泪落在了枕头上。",
+      "image": "/library/stories/expansion-0414/v1/p02.webp",
+      "start": 21.158,
+      "end": 40.756
+    },
+    {
+      "id": "p03",
+      "text": "枕头婆婆睁开绣线眼睛。“我有个接梦的小魔法。”她轻轻说，“把后面的事情讲给我听，我能把它缝进你接下来的梦。”枣绒擦擦鼻子：“那我要穿最快的鞋，再去追一次！”",
+      "image": "/library/stories/expansion-0414/v1/p03.webp",
+      "start": 40.756,
+      "end": 60.45
+    },
+    {
+      "id": "p04",
+      "text": "枣绒刚讲了两句，脚尖就缩了起来。穿快鞋，还是得跑呀。她摸摸小腿，摇摇头：“我不想再追了。我想坐一会儿。”枕头婆婆把一个软软的角，轻轻贴在她脸边。",
+      "image": "/library/stories/expansion-0414/v1/p04.webp",
+      "start": 60.45,
+      "end": 79.856
+    },
+    {
+      "id": "p05",
+      "text": "她重新讲起来：“我坐在桃树下面，草地软软的。旁边放一只小碟子，是给桃子的座位。”讲到这里，枣绒停了停，又添上一句：“桃子，你滚了那么久，要不要也歇歇脚？”",
+      "image": "/library/stories/expansion-0414/v1/p05.webp",
+      "start": 79.856,
+      "end": 99.07
+    },
+    {
+      "id": "p06",
+      "text": "“桃子听见了，就滚进碟子里。它说，我没有脚，可我的圆肚皮也滚累啦。”枣绒说着，嘴角翘了一点。她让桃子靠着碟沿休息，也让自己的两只脚，松松地躺在被子下面。",
+      "image": "/library/stories/expansion-0414/v1/p06.webp",
+      "start": 99.07,
+      "end": 119.46
+    },
+    {
+      "id": "p07",
+      "text": "慢慢地，她睡着了。梦里真有一只小碟子，桃子安安稳稳坐在里面。“这回不跑啦？”枣绒问。“不跑啦。”桃子伸来一片甜甜的桃肉。她坐着吃，汁水沾湿了小胡须。",
+      "image": "/library/stories/expansion-0414/v1/p07.webp",
+      "start": 119.46,
+      "end": 140.33
+    },
+    {
+      "id": "p08",
+      "text": "再醒来时，窗外的桃叶沙沙响。枣绒摸摸胡须，干干的，可心里很舒服。她轻轻拍平枕头婆婆翘起的角：“现在轮到你歇歇啦。”说完，她把脸挪开一点，给婆婆留了一块凉凉的位置。",
+      "image": "/library/stories/expansion-0414/v1/p08.webp",
+      "start": 140.33,
+      "end": 161.578
+    }
+  ],
+  "buildHash": "2b68538779db31c32b382679ea894ba0e51d244bae0011323c2ea3588f2e0c8c"
+}

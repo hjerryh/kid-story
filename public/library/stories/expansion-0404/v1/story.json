@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0404",
+  "version": 1,
+  "status": "media-ready",
+  "title": "笃笃摘下了蓝帽子",
+  "subtitle": "一句轻一点的小误会",
+  "description": "乌米邀请木象笃笃一起听雨。可是，一句“轻一点”，让笃笃摘了帽子又卸下布包。看着朋友空空的背，乌米发现，他们说的“轻”，原来不是一回事。",
+  "ageBand": "3-5",
+  "theme": "听清彼此",
+  "color": "#92B5A2",
+  "character": "小鼹鼠乌米：深灰色绒毛，圆鼻头，穿浅绿色背带裤。木象笃笃：浅棕色木头身体，圆圆的大耳朵，四条短腿，戴蓝色软帽，背红色小布包；卸下后在结尾重新戴好、背好。",
+  "cover": "/library/stories/expansion-0404/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 158.29,
+  "detailUrl": "/library/stories/expansion-0404/v1/story.json",
+  "audio": "/library/stories/expansion-0404/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "树林音乐屋外，下起了细细的雨。小鼹鼠乌米把两块坐垫放在门旁，邀请木象笃笃一起听雨。“雨落在大叶子上，像小鱼拍尾巴！”笃笃高高兴兴地走进门，蓝帽子一颠一颠。",
+      "image": "/library/stories/expansion-0404/v1/p01.webp",
+      "start": 0,
+      "end": 20.726
+    },
+    {
+      "id": "p02",
+      "text": "笃笃的木脚踩在地板上，咚，咚，咚。他想找个听得最清楚的地方，从左边走到右边。小鱼拍尾巴的声音全不见了。乌米摆摆爪子：“笃笃，你能不能轻一点呀？”",
+      "image": "/library/stories/expansion-0404/v1/p02.webp",
+      "start": 20.726,
+      "end": 39.82
+    },
+    {
+      "id": "p03",
+      "text": "笃笃低头看看自己，摘下蓝帽子，放在矮凳上。“这样就轻了一点。”他又往前走了两步，咚，咚。乌米侧过脑袋听，还是没听见细细的雨声。“再轻一点点，好吗？”",
+      "image": "/library/stories/expansion-0404/v1/p03.webp",
+      "start": 39.82,
+      "end": 59.394
+    },
+    {
+      "id": "p04",
+      "text": "笃笃把红布包也卸下来，挨着帽子放好。包里只有一方手帕，已经没有别的东西可拿了。他用鼻子摸摸光光的背，小声问：“乌米，我还是太重吗？那我该怎么办呢？”",
+      "image": "/library/stories/expansion-0404/v1/p04.webp",
+      "start": 59.394,
+      "end": 78.368
+    },
+    {
+      "id": "p05",
+      "text": "乌米望着凳上的帽子和布包，忽然明白了。“呀，我没说清楚！我说的是脚步声小一点。咚咚声一响，我就听不见雨啦。”笃笃眨眨眼：“我还以为，你嫌我身上太重呢。”",
+      "image": "/library/stories/expansion-0404/v1/p05.webp",
+      "start": 78.368,
+      "end": 98.398
+    },
+    {
+      "id": "p06",
+      "text": "乌米把两块坐垫铺在门边。“我们坐着听，好不好？这里能看见大叶子。”笃笃弯下四条短腿，稳稳坐好。乌米挨着他坐下，两个人都不走动了。屋子里一下安静下来。",
+      "image": "/library/stories/expansion-0404/v1/p06.webp",
+      "start": 98.398,
+      "end": 118.668
+    },
+    {
+      "id": "p07",
+      "text": "啪嗒，一颗雨点落在芭蕉叶上。沙沙，细雨钻进了草丛。笃笃把鼻尖朝向门外：“我听见了！大叶子响一点，小草轻一点。”乌米笑了：“嗯，这回我们说的是声音！”",
+      "image": "/library/stories/expansion-0404/v1/p07.webp",
+      "start": 118.668,
+      "end": 138.986
+    },
+    {
+      "id": "p08",
+      "text": "乌米取回蓝帽子，给笃笃戴好，又帮他背上红布包。“这些都可以带着。”笃笃舒舒服服地坐着，帽子不颠了，布包也不晃了。大叶子上的小鱼，还在一下、一下地拍尾巴。",
+      "image": "/library/stories/expansion-0404/v1/p08.webp",
+      "start": 138.986,
+      "end": 158.29
+    }
+  ],
+  "buildHash": "b660fc89367ec72294f4682525394e35f5668cbbe4315db5b8125a8ce1a451ab"
+}

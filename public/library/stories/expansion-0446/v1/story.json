@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0446",
+  "version": 1,
+  "status": "media-ready",
+  "title": "酸味甜味坐一桌",
+  "subtitle": "湖心果摊的三只杯子",
+  "description": "湖心果摊的团莓想请两位果子精灵喝同一壶果汁，可一个爱酸，一个爱甜。小勺换来换去，这壶果汁该怎么调呢？",
+  "ageBand": "3-5",
+  "theme": "不同的滋味",
+  "color": "#A8CDB4",
+  "character": "团莓：棕色毛的小浣熊，戴浅绿布帽，穿米白围裙。酸朵：掌心大小的果子精灵，紫色短发，穿紫红果皮裙，戴叶子发夹。蜜芽：掌心大小的果子精灵，金色卷发，穿淡黄花瓣裙。",
+  "cover": "/library/stories/expansion-0446/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 164.002,
+  "detailUrl": "/library/stories/expansion-0446/v1/story.json",
+  "audio": "/library/stories/expansion-0446/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "湖心果摊来了两位小客人。酸朵穿着果皮裙，蜜芽穿着花瓣裙，都是只有巴掌大的果子精灵。小浣熊团莓擦亮桌子说：“我来调一壶好喝的果汁，请你们坐下来歇歇脚！”",
+      "image": "/library/stories/expansion-0446/v1/p01.webp",
+      "start": 0,
+      "end": 19.598
+    },
+    {
+      "id": "p02",
+      "text": "柜台上有酸梅汁，还有甜瓜汁。酸朵伸出小手：“我要酸酸的！”蜜芽踮起脚：“我要甜甜的！”团莓拿起大壶，想了想：“咱们一起喝，当然要找一种你们都喜欢的味道呀。”",
+      "image": "/library/stories/expansion-0446/v1/p02.webp",
+      "start": 19.598,
+      "end": 39.196
+    },
+    {
+      "id": "p03",
+      "text": "他先在小杯里倒一点酸梅汁，又加了满满一勺甜瓜汁。蜜芽和酸朵各用一把干净小勺尝味。蜜芽点点头，酸朵，却摇摇头：“酸味躲起来了。”团莓看看杯子，拿起小勺，准备再试一次。",
+      "image": "/library/stories/expansion-0446/v1/p03.webp",
+      "start": 39.196,
+      "end": 60.978
+    },
+    {
+      "id": "p04",
+      "text": "这次，他加进两勺酸梅汁。酸朵开心地晃起小脚，蜜芽却把杯子轻轻推回来：“我的甜味也躲起来了。”小勺停在半空。团莓叹了口气：“这可怎么办？大壶还空着呢。”",
+      "image": "/library/stories/expansion-0446/v1/p04.webp",
+      "start": 60.978,
+      "end": 81.176
+    },
+    {
+      "id": "p05",
+      "text": "酸朵抱住酸梅汁瓶：“我喜欢酸味在舌头上蹦蹦跳。”蜜芽抱住甜瓜汁瓶：“我喜欢甜味软软地铺开。”她们隔着瓶子笑起来。蜜芽说：“喝的不一样，我们也能坐在一起呀。”",
+      "image": "/library/stories/expansion-0446/v1/p05.webp",
+      "start": 81.176,
+      "end": 100.798
+    },
+    {
+      "id": "p06",
+      "text": "团莓眨眨眼，把大壶收了起来。他拿出两只小杯，一只盛酸梅汁，一只盛甜瓜汁。那杯调来调去的果汁呢？他自己尝了尝：“咦，先酸一下，再甜一下，我倒很喜欢！”",
+      "image": "/library/stories/expansion-0446/v1/p06.webp",
+      "start": 100.798,
+      "end": 120.732
+    },
+    {
+      "id": "p07",
+      "text": "三只杯子摆上小桌，三位朋友围着坐好。酸朵喝一口，快活地摇摇头；蜜芽喝一口，舒服地眯起眼。团莓也捧起自己的杯子。风吹过湖面，他们的笑声挨在一起，轻轻荡呀荡。",
+      "image": "/library/stories/expansion-0446/v1/p07.webp",
+      "start": 120.732,
+      "end": 141.794
+    },
+    {
+      "id": "p08",
+      "text": "杯里的果汁喝到一半，团莓问：“还想添哪一种？”两只小手指向不同的瓶子。他笑着各添一点。酸朵说舌尖住着一颗跳跳豆，蜜芽说嘴里躺着一小片阳光。团莓的杯里，两样都有。",
+      "image": "/library/stories/expansion-0446/v1/p08.webp",
+      "start": 141.794,
+      "end": 164.002
+    }
+  ],
+  "buildHash": "ab9a755029acb362a18b941df6f768b8fa17742f92727df71709f540be7c1193"
+}

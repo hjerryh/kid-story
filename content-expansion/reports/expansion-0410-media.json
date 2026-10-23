@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0410",
+  "title": "小拱拱从手帕里出来",
+  "version": 1,
+  "bodyCharacters": 491,
+  "pages": 8,
+  "duration": 161.89,
+  "bodySha256": "cf21137b1f267a0d5c5dcf5576f5e9ab124b2180a1da8b69bfac9b397cb8af50",
+  "audioSha256": "94cf464dbc0c1ed9376764fbbc88c30add664633a81dbc98eb35818ba62b80a5",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f2ed890c019c7fdee3efa5272c99aa93d20e3e7f1b7bbcea661f9d92feff977c",
+      "bytes": 11814
+    },
+    {
+      "name": "p01",
+      "sha256": "797de950def68bf449d70e033abd912eb6b394bdf49a6f0694c844ac1113e468",
+      "bytes": 8406
+    },
+    {
+      "name": "p02",
+      "sha256": "06a670ed802e94181074ae55071de52a98d118bc5f6a994d7d7000d7d1bfb149",
+      "bytes": 8472
+    },
+    {
+      "name": "p03",
+      "sha256": "8b6ea9de476176df7cd59129e27aa90ade1fa0733de1ab88f99adf325d9ba161",
+      "bytes": 8944
+    },
+    {
+      "name": "p04",
+      "sha256": "8e76d5f212463df5e1f1450fd2f819a56f1881ccd7d4c03c7a90c6330b87936f",
+      "bytes": 9000
+    },
+    {
+      "name": "p05",
+      "sha256": "60613281bd604d768721016dea5e746fe8c41ab483f3c4a18195f251dfa859a4",
+      "bytes": 9020
+    },
+    {
+      "name": "p06",
+      "sha256": "d417c4e589dbcdb8270bc7a75159b76de2f042579f7bf2f6b7903113ec1e9daa",
+      "bytes": 8230
+    },
+    {
+      "name": "p07",
+      "sha256": "ec482930580e5ccf9f4d720a5b84c9e83029fd74a06d6e8492ce743c1320d1c9",
+      "bytes": 9476
+    },
+    {
+      "name": "p08",
+      "sha256": "cb879457778cafd9790131fd60e2dcca738863c8e597dd46d58d88f881c16380",
+      "bytes": 7920
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

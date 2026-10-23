@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0428",
+  "title": "金孔雀回过一次井",
+  "version": 1,
+  "bodyCharacters": 954,
+  "pages": 12,
+  "duration": 295.794,
+  "bodySha256": "e62c3ec827b37ad3bdb54d10dad9eb8809b208174c6c56814e2a185a9a9ba068",
+  "audioSha256": "4ea1a5540b900fef9f52f37288be1fa1ade564090d5d1490db56f22013e86912",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8304c0c2c678b45d3ebb9c47ed2f68247f3a0195c7c83cf29eb1e9f9ef5a3fea",
+      "bytes": 15718
+    },
+    {
+      "name": "p01",
+      "sha256": "4b872bb6a65e251c7efca412a2bc2d67bf323e5154f3cfd837f8100248400738",
+      "bytes": 12526
+    },
+    {
+      "name": "p02",
+      "sha256": "9aa2059cb885ddce3605910a606762907c80c844161b1414ddbdef19a973aae9",
+      "bytes": 13076
+    },
+    {
+      "name": "p03",
+      "sha256": "e649b3c65a68be9ef001dc3f9f92799460797ea05a0817d42b6ee31ebcbd4508",
+      "bytes": 13618
+    },
+    {
+      "name": "p04",
+      "sha256": "5e07b79087fa1536d5424839629b8c3f426a2c297e08fb93b8a38f23fe530900",
+      "bytes": 12522
+    },
+    {
+      "name": "p05",
+      "sha256": "7099adf4eb6e002db80e7a49b67c289c09a1e629a79d86a8f477dd4ca28eb9d6",
+      "bytes": 12502
+    },
+    {
+      "name": "p06",
+      "sha256": "f137017bfc351f27c9b67440745f55b3402795bae47f382af570c1a1ecc31c54",
+      "bytes": 12756
+    },
+    {
+      "name": "p07",
+      "sha256": "10cf48c6682e557adaf21b0ee35c621d8b3e9f21a9160e4317793102e9c40834",
+      "bytes": 13232
+    },
+    {
+      "name": "p08",
+      "sha256": "512690362a8c671eb31523db947589d2c49202706fab7ab99c7bf01a15308069",
+      "bytes": 13316
+    },
+    {
+      "name": "p09",
+      "sha256": "b91de4ad2758551b8122a945a60b4bae2e473a63f88bb50b1b9b9e2a54ddb636",
+      "bytes": 12280
+    },
+    {
+      "name": "p10",
+      "sha256": "25ba34e70c9debdf832f02abb820fa502e846a5f27e07981a825488855552ba9",
+      "bytes": 11618
+    },
+    {
+      "name": "p11",
+      "sha256": "f7a85de1b7fbf29d9f82466afe398b797e259d7500221aaa6f197d83b07c35e3",
+      "bytes": 12502
+    },
+    {
+      "name": "p12",
+      "sha256": "6e0dba4ac4c0f9b171ac3ad09b8ab69d916300affa53f20a3a248e94524b3015",
+      "bytes": 12302
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

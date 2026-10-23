@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0421",
+  "title": "苹果树的三只旧袖口",
+  "version": 1,
+  "bodyCharacters": 1103,
+  "pages": 12,
+  "duration": 326.874,
+  "bodySha256": "9057a19bba76591fe6e0178bcd874ca2d314dfafdf90f9c04f65e6342ac46940",
+  "audioSha256": "6224acc1b35e296a9e2dc520b90be9ee89b427fcf4d954c737642eaf67b2ba65",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "1b46fc44eb64646c7d57da80c3fe0b5049da2e1c8334d5574ed37a30bc4bf4d0",
+      "bytes": 21576
+    },
+    {
+      "name": "p01",
+      "sha256": "a299936e3c181a44595929ac478e280bfefcd2824ec1a6f064b9ada21a388201",
+      "bytes": 16138
+    },
+    {
+      "name": "p02",
+      "sha256": "96bcfb307f3cc31eb2611982b6aa8e0958fdb7b5d778b329d8a6db556209e595",
+      "bytes": 16244
+    },
+    {
+      "name": "p03",
+      "sha256": "ee70ea11691b9c8ba46354f2426268bc3a0741de1d4d800182982c0df0c23bfa",
+      "bytes": 16346
+    },
+    {
+      "name": "p04",
+      "sha256": "f32aac87e7a09ee220727cbb07562f4485978c11fae4c9209b3a4b607e9ce6ae",
+      "bytes": 17700
+    },
+    {
+      "name": "p05",
+      "sha256": "897343868ce0531f0fa3798fc36f4c9326c492b213321071dbdaa120e7fad119",
+      "bytes": 16694
+    },
+    {
+      "name": "p06",
+      "sha256": "5dad66c7ee8af9c41c962ed08a82a9fb9b5d0dbc424f1833a3a1b6a2824fa583",
+      "bytes": 15934
+    },
+    {
+      "name": "p07",
+      "sha256": "f2cefe67a578ea74416109c862caf15ca392eb5dbce0f030e046bddaf6c0480d",
+      "bytes": 19380
+    },
+    {
+      "name": "p08",
+      "sha256": "ba02801a966812855f91a7e1f3ccdd599f47b1d04ee7bf181a5d9230555a040c",
+      "bytes": 17334
+    },
+    {
+      "name": "p09",
+      "sha256": "f9a56f15147bf6cbf260a63db38e797e13e92ac076ce39c99acc342abf5c33f0",
+      "bytes": 16770
+    },
+    {
+      "name": "p10",
+      "sha256": "d96f80c8be6c82a2b4fd2546cd4c23dd2717683b9f8bfbad95d31e4f64532745",
+      "bytes": 17788
+    },
+    {
+      "name": "p11",
+      "sha256": "ebf75f3291662a003f127917eb72c506759cd7da6ed7323ea803418dba368f5d",
+      "bytes": 19316
+    },
+    {
+      "name": "p12",
+      "sha256": "94307af1529a6abd6f8a08b12b646d4ba2f97ec4631c547a5d32c8f380fb6c4d",
+      "bytes": 19016
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

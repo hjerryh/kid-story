@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0447",
+  "title": "花香从手帕里出来",
+  "version": 1,
+  "bodyCharacters": 515,
+  "pages": 8,
+  "duration": 164.434,
+  "bodySha256": "6536a29a97ee90699f4bd0369ad18a98c4c7a81fd7d4af2ff97a1ac055a89a16",
+  "audioSha256": "cbce288198c5117648b44c90b5a31addeab759026f65375f8a97e56abef1f7a7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ea549c46f2c02b4d296d31cff655e5f033cae8a5579d4e4e0ca6cceec7b375c2",
+      "bytes": 19558
+    },
+    {
+      "name": "p01",
+      "sha256": "5508f2624135316f43105332284181ca46b073ed62e835828555dbc50ca1fef4",
+      "bytes": 15566
+    },
+    {
+      "name": "p02",
+      "sha256": "285e0124347c2360ea9d21bfb8e3f7478c0cfeb573efafaeb9a3bcf021552028",
+      "bytes": 15168
+    },
+    {
+      "name": "p03",
+      "sha256": "ec5deb2435b604b60c92f99d13f90af3461378b92de461d7ab0ca70554f0ecfc",
+      "bytes": 16028
+    },
+    {
+      "name": "p04",
+      "sha256": "10cdad4ee90992415624654de90604d860a3655251ade8c9ff1d265dd00dc93f",
+      "bytes": 16606
+    },
+    {
+      "name": "p05",
+      "sha256": "80eb8d95bd9937552b6e2531752a567f371a31e653e396bb63a42c00a81e8954",
+      "bytes": 15364
+    },
+    {
+      "name": "p06",
+      "sha256": "d0a774e7eecc028c7393556ba5eea4ca9b52e1b41936da2dd87e3a6a95035793",
+      "bytes": 16100
+    },
+    {
+      "name": "p07",
+      "sha256": "da27685a489922fa42e27b27390b96ee59098ef475db31e2dba9404e753ae21f",
+      "bytes": 16660
+    },
+    {
+      "name": "p08",
+      "sha256": "d88856d8f4151ecef778a9f5c4de379d1abb514d0f521bea31286b2c2f1d3116",
+      "bytes": 8890
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0402",
+  "title": "六只花籽袋等在地毯上",
+  "version": 1,
+  "bodyCharacters": 501,
+  "pages": 8,
+  "duration": 156.898,
+  "bodySha256": "761136a491514235ef47fb2eb2b1c58fd8876e23e05fe3944b003f7c8a48ba4a",
+  "audioSha256": "023e931e7816b4e6d0e09bea75c467cc020d9789baa26c1420e6d77986e0ef1c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6d800d6524f78fcae58586b30e78fd3d75ce0362572b200672708514a4f493b9",
+      "bytes": 17950
+    },
+    {
+      "name": "p01",
+      "sha256": "a186e4033735a34bd96c9c58560e629a546c78acc77c82c0a562d56b28b012e1",
+      "bytes": 11818
+    },
+    {
+      "name": "p02",
+      "sha256": "8c2ea996f57e577cb47a417ef5b5c028c42163397ed9ed25a1302693819f7e6a",
+      "bytes": 12160
+    },
+    {
+      "name": "p03",
+      "sha256": "70ac227fcc6df0b44aa654ca75eebd65f8fa852324072a622188243207bf9bf9",
+      "bytes": 11854
+    },
+    {
+      "name": "p04",
+      "sha256": "1b33fef5eafa6a68d2efe98d293822d219169496d03352a1a28cd925d3d9dbd7",
+      "bytes": 14200
+    },
+    {
+      "name": "p05",
+      "sha256": "d4bd99fbf5b36379ab225ad1359d970dbc3dac2d7c0787ba10df9fc4d2e300d8",
+      "bytes": 14946
+    },
+    {
+      "name": "p06",
+      "sha256": "902cf8a72cabb60680c72eba4e237ef8f8ded18ebefd70b02ecd3641e3e6e92f",
+      "bytes": 13990
+    },
+    {
+      "name": "p07",
+      "sha256": "d730f1480e72a8266a9e364e2e8d8efeb78c0647a3898526c29c1e48d41b55b8",
+      "bytes": 15300
+    },
+    {
+      "name": "p08",
+      "sha256": "f17ed9c713f0758d49c1c35fb2e56fdd6504c084d3409b4b64a6b23fb52019d6",
+      "bytes": 9708
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

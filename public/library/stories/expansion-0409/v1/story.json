@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0409",
+  "version": 1,
+  "status": "media-ready",
+  "title": "南瓜糕分成了小山包",
+  "subtitle": "两只小碟之间",
+  "description": "竹叶茶馆只剩最后一块南瓜糕。苔米想和芽铃一起吃，却把糕分成了一大一小。两只小碟之间，还能商量出一个让两人都满意的办法吗？",
+  "ageBand": "3-5",
+  "theme": "公平与协商",
+  "color": "#86A878",
+  "character": "苔米是圆脸竹叶精灵，绿色短发，穿米白短衫、深绿短裤，戴一顶卷边竹叶帽。芽铃是尖耳竹叶精灵，浅绿卷发，穿淡紫连衣裙，挎小藤包。两人都有小手、小脚和透明翅膀。",
+  "cover": "/library/stories/expansion-0409/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 152.578,
+  "detailUrl": "/library/stories/expansion-0409/v1/story.json",
+  "audio": "/library/stories/expansion-0409/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "竹叶茶馆里，最后一块南瓜糕刚刚放凉。苔米托着盘子，闻见甜甜的香气。他想和芽铃一起吃下午点心，便拍拍身旁的小凳：“快来呀，今天我们一人一半！”",
+      "image": "/library/stories/expansion-0409/v1/p01.webp",
+      "start": 0,
+      "end": 18.782
+    },
+    {
+      "id": "p02",
+      "text": "苔米拿小勺往糕中间一压。噗，软糕裂开了，一块胖，一块瘦。他把胖的拨进自己的碟子，瘦的推给芽铃。“都是一块。”他说，眼睛却偷偷瞄着两只碟子。",
+      "image": "/library/stories/expansion-0409/v1/p02.webp",
+      "start": 18.782,
+      "end": 38.524
+    },
+    {
+      "id": "p03",
+      "text": "芽铃没有伸手。“可你的大，我的只有这么一点。”苔米把自己的糕转了个方向，胖肚子还是鼓鼓的。他又把两只碟子挨紧，差得更清楚了。芽铃轻轻摇头。",
+      "image": "/library/stories/expansion-0409/v1/p03.webp",
+      "start": 38.524,
+      "end": 56.97
+    },
+    {
+      "id": "p04",
+      "text": "“那……换过来？”苔米刚说完，就舍不得自己的大块了。芽铃也没有拿走它。她把小勺摆在桌子中间：“要不我来分，你先挑？我也想吃够，不想只闻香味。”",
+      "image": "/library/stories/expansion-0409/v1/p04.webp",
+      "start": 56.97,
+      "end": 75.416
+    },
+    {
+      "id": "p05",
+      "text": "苔米想了一会儿，摸摸自己空空的肚皮。“我来重新分，你先挑，好吗？”芽铃点点头。这一次，他没有急着把糕往自己这边拉，而是把两只碟子都放到桌子中央。",
+      "image": "/library/stories/expansion-0409/v1/p05.webp",
+      "start": 75.416,
+      "end": 94.942
+    },
+    {
+      "id": "p06",
+      "text": "他从胖糕上舀下一小口，放到瘦糕旁边。还差一点，再添一点。小勺这回走得慢慢的。两份糕终于看起来差不多了，一份整齐些，一份像挤在一起的小山包。",
+      "image": "/library/stories/expansion-0409/v1/p06.webp",
+      "start": 94.942,
+      "end": 113.772
+    },
+    {
+      "id": "p07",
+      "text": "“你挑吧。”苔米把手收回来。芽铃看看两份，选了小山包。“这一份，我可以一口一座山。”苔米拿起另一碟，也满意地笑了。他把凳子挪近，终于可以一起开吃了。",
+      "image": "/library/stories/expansion-0409/v1/p07.webp",
+      "start": 113.772,
+      "end": 133.322
+    },
+    {
+      "id": "p08",
+      "text": "南瓜糕软软的，甜香留在舌头上。芽铃吃掉最后一座小山时，苔米的碟子也快空了。窗外竹叶沙沙响。他捡起自己碟边的一点糕屑：“这颗小石头，也归我的肚子啦。”",
+      "image": "/library/stories/expansion-0409/v1/p08.webp",
+      "start": 133.322,
+      "end": 152.578
+    }
+  ],
+  "buildHash": "ffaccf5124573923f876474ae92e1cb56a27f3b3996fdc5b1c9883322f64ca36"
+}

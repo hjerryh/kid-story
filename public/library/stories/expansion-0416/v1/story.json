@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0416",
+  "version": 1,
+  "status": "media-ready",
+  "title": "隧道笑在小船出发前",
+  "subtitle": "羽毛帽也来听故事",
+  "description": "叶芽想给树根隧道读一本故事书，可隧道总是笑得摇摇晃晃。换个故事也没用，它究竟在笑什么？",
+  "ageBand": "3-5",
+  "theme": "好奇与发现",
+  "color": "#819A68",
+  "character": "叶芽是小小的树叶精灵，浅绿色短发，穿白色圆领衣和深绿短裤，戴插着一根柔软长羽毛的棕色帽子。树根隧道有弯弯的木纹嘴巴，入口两侧各有一只圆眼睛，能说话，能感觉到内壁被碰触。",
+  "cover": "/library/stories/expansion-0416/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 167.722,
+  "detailUrl": "/library/stories/expansion-0416/v1/story.json",
+  "audio": "/library/stories/expansion-0416/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "叶芽抱着一本故事书，来到树根隧道。隧道的眼睛长在入口两边，看不见里面的书页。“我读给你听！”叶芽戴着羽毛帽，走到隧道中央，清清嗓子，翻开了第一页。",
+      "image": "/library/stories/expansion-0416/v1/p01.webp",
+      "start": 0,
+      "end": 19.502
+    },
+    {
+      "id": "p02",
+      "text": "“从前，有一只穿花裤子的熊……”刚读到这里，隧道就咯咯笑起来。弯弯的树根轻轻发抖，叶芽手里的书也跟着抖。“花裤子这么好笑呀？”她扶稳书，等笑声停下来。",
+      "image": "/library/stories/expansion-0416/v1/p02.webp",
+      "start": 19.502,
+      "end": 38.788
+    },
+    {
+      "id": "p03",
+      "text": "叶芽换了一篇安静的故事。“小船靠在岸边，月亮升起来了。”可是，隧道笑得更响了。“小船也好笑吗？”叶芽看看书上的小船。它好好地停着，连花裤子也没有穿呀。",
+      "image": "/library/stories/expansion-0416/v1/p03.webp",
+      "start": 38.788,
+      "end": 59.706
+    },
+    {
+      "id": "p04",
+      "text": "叶芽合上书。“我不知道你为什么笑。你能告诉我吗？”隧道一边笑一边说：“我也不知道！里面有个地方痒痒的，像有小刷子轻轻扫。”叶芽把书夹在胳膊下，抬头看，只有一片弯弯的树根。",
+      "image": "/library/stories/expansion-0416/v1/p04.webp",
+      "start": 59.706,
+      "end": 81.896
+    },
+    {
+      "id": "p05",
+      "text": "她蹲下来，想看看地上有没有小刷子。地上干干净净，只有几粒细沙。“咦，不痒了。”隧道说。叶芽刚站起来，咯咯声又响了。她停住脚，摸摸自己的衣服，又摸摸帽边。",
+      "image": "/library/stories/expansion-0416/v1/p05.webp",
+      "start": 81.896,
+      "end": 103.222
+    },
+    {
+      "id": "p06",
+      "text": "帽子上那根长羽毛，正贴着头顶的树根。叶芽一动，羽毛就扫一下。她慢慢摘下帽子。“现在呢？”“不痒啦！”隧道舒了一口气。叶芽望着软软的羽毛，小声说：“原来是你呀。”",
+      "image": "/library/stories/expansion-0416/v1/p06.webp",
+      "start": 103.222,
+      "end": 124.86
+    },
+    {
+      "id": "p07",
+      "text": "叶芽把帽子放在脚旁，重新打开书。小船出发了，穿过月亮照着的河水，又回到小小的码头。这一次，书页稳稳的。隧道听完最后一句，轻轻说：“我也像那只船，心里装满月光。”",
+      "image": "/library/stories/expansion-0416/v1/p07.webp",
+      "start": 124.86,
+      "end": 146.474
+    },
+    {
+      "id": "p08",
+      "text": "叶芽坐下来，把书抱在膝头。隧道问：“明天还来吗？”“来呀，帽子也来。”“那就请它坐在地上吧。”隧道说。夕阳照着那根羽毛，羽毛一动不动，像一位已经听得睡着的小客人。",
+      "image": "/library/stories/expansion-0416/v1/p08.webp",
+      "start": 146.474,
+      "end": 167.722
+    }
+  ],
+  "buildHash": "079a1d899ff65b7e9f8e0ba4f6090ccd773afa16641e118f069d8b4e35f14051"
+}

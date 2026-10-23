@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0415",
+  "version": 1,
+  "status": "media-ready",
+  "title": "石蛋的床搬到草上",
+  "subtitle": "陪一颗石蛋慢慢摇",
+  "description": "麦团答应陪一颗石蛋等小石龟出壳，可石蛋总从软垫上滚下来。抱住它、围住它都不合适，麦团决定跟着它滚一小段，看看它究竟想去哪里。",
+  "ageBand": "3-5",
+  "theme": "陪伴与承诺",
+  "color": "#A9C6B1",
+  "character": "小猪麦团：浅粉色皮肤，圆鼻子，穿湖蓝色背带裤，戴米白色软帽。石蛋：灰白色，布满细小银点，会轻轻说话。小石龟：灰白色身体，龟壳带银点，圆眼睛。这是童话里的石头生命，出壳时会通过摇动松开石壳。",
+  "cover": "/library/stories/expansion-0415/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 166.546,
+  "detailUrl": "/library/stories/expansion-0415/v1/story.json",
+  "audio": "/library/stories/expansion-0415/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "晨雾草原上，小猪麦团发现一颗银点点的石蛋。蛋里传出细细的声音：“我是小石龟，还没出来呢。你能陪我吗？”麦团蹲下来：“好呀，我陪你出来，再一起看看草原。”",
+      "image": "/library/stories/expansion-0415/v1/p01.webp",
+      "start": 0,
+      "end": 19.598
+    },
+    {
+      "id": "p02",
+      "text": "麦团把石蛋放上软垫，自己搬来小凳子。草尖的露水亮晶晶，远处有蝴蝶飞过。他刚想招招手，石蛋便咕噜一滚，滚到了垫子边。“哎，你的床在这里！”他赶紧接住。",
+      "image": "/library/stories/expansion-0415/v1/p02.webp",
+      "start": 19.598,
+      "end": 40.132
+    },
+    {
+      "id": "p03",
+      "text": "麦团把石蛋抱在怀里。石蛋左摇一下，右摇一下，像一颗坐不住的大豆子。抱了一会儿，麦团的胳膊酸了。“我还陪着你，不过我要放你下来歇歇。”他轻轻把蛋放回软垫。",
+      "image": "/library/stories/expansion-0415/v1/p03.webp",
+      "start": 40.132,
+      "end": 60.162
+    },
+    {
+      "id": "p04",
+      "text": "他拿来几块大积木，在软垫四周围了一圈。这回，石蛋不滚走了，却咚咚碰着积木。“这里太挤，我伸不动啦。”蛋里说。麦团立刻移开积木：“原来你一直在里面伸懒腰！”",
+      "image": "/library/stories/expansion-0415/v1/p04.webp",
+      "start": 60.162,
+      "end": 80.6
+    },
+    {
+      "id": "p05",
+      "text": "石蛋又滚下软垫。这次，麦团没有马上捧它回去。他跟着挪了两步，看见蛋先向左摇，再向右摇。“我要这样动一动，壳才会慢慢松开。”小石龟说。麦团摸摸鼻子，明白了。",
+      "image": "/library/stories/expansion-0415/v1/p05.webp",
+      "start": 80.6,
+      "end": 102.502
+    },
+    {
+      "id": "p06",
+      "text": "门前有一小块平地。麦团捡走硌人的小石子，把软垫挪到旁边，留给自己坐。石蛋在草上摇呀摇，他就在旁边看呀看。蝴蝶飞来了，他轻声说：“等你出来，也许它还会来。”",
+      "image": "/library/stories/expansion-0415/v1/p06.webp",
+      "start": 102.502,
+      "end": 123.228
+    },
+    {
+      "id": "p07",
+      "text": "咔嗒，蛋壳裂开一条小缝。一只圆鼻子探出来，又缩回去。麦团很想帮忙掰开，却听见：“等一等，我再伸一下脚。”他把手放回膝上。过了一会儿，四只灰白的小脚都出来了。",
+      "image": "/library/stories/expansion-0415/v1/p07.webp",
+      "start": 123.228,
+      "end": 144.17
+    },
+    {
+      "id": "p08",
+      "text": "小石龟站在空壳旁，背上也有银点点。“你看，我出来啦！”麦团趴下来，看了个仔细。随后，他们一起往草地走。小石龟走得很慢，麦团也慢慢走，一片草叶轻轻挠过两个鼻尖。",
+      "image": "/library/stories/expansion-0415/v1/p08.webp",
+      "start": 144.17,
+      "end": 166.546
+    }
+  ],
+  "buildHash": "4d422d0829581e0d6bf09177308efeb77de0cae3aeb3b814058f95cf3ee9d705"
+}

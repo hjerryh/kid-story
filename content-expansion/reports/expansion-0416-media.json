@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0416",
+  "title": "隧道笑在小船出发前",
+  "version": 1,
+  "bodyCharacters": 512,
+  "pages": 8,
+  "duration": 167.722,
+  "bodySha256": "c7e6fdf5794dac1437f24d562bbb355d7a5d84d28f90064d56f0c542fb394952",
+  "audioSha256": "d5e33b96ce89bf3288d4142b1f072efa8998e78a66f6cb8d87c4791dbb389c84",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3dc3d4c5db23a72db903a6f06efdf4710257f274c9a31d2911df33e032f48890",
+      "bytes": 15194
+    },
+    {
+      "name": "p01",
+      "sha256": "8e216efdcb3f9f61466afcfa85b7a6a07c04efce8ec76e9722987dc639629163",
+      "bytes": 12734
+    },
+    {
+      "name": "p02",
+      "sha256": "b82f3fa070b532e451189fc6ee75ddc0a2810107ae1fe1e452a947cc7af5c9b8",
+      "bytes": 14424
+    },
+    {
+      "name": "p03",
+      "sha256": "06dc25e4c40fe497b02a7fe85470494c086a5515a89477b895914aeaf5477b71",
+      "bytes": 14096
+    },
+    {
+      "name": "p04",
+      "sha256": "98ef8fd4287f84fbffdb09f481fac8fd1b373534ff27dfc1383ffc344983642c",
+      "bytes": 14516
+    },
+    {
+      "name": "p05",
+      "sha256": "584de89ab868d1a2ebdb3bf63b99c89365c50de8907a163f4769d3f6524eb115",
+      "bytes": 13178
+    },
+    {
+      "name": "p06",
+      "sha256": "004c7acd8d96c68331753b50adaf2ae2d43fc0915e84a7e97c45fd29db79ff95",
+      "bytes": 13410
+    },
+    {
+      "name": "p07",
+      "sha256": "0b58bd0ae5aa38c28c2e0179019ad3ed17b6ef744ef3fd142e6a6c518b2a1524",
+      "bytes": 12610
+    },
+    {
+      "name": "p08",
+      "sha256": "83e82fa54d8635f990338cc4b683a6deaff83322be1d7459a663520aaee036a6",
+      "bytes": 12420
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

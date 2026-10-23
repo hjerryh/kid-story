@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0426",
+  "title": "南瓜吐出七色面条",
+  "version": 1,
+  "bodyCharacters": 1026,
+  "pages": 12,
+  "duration": 303.978,
+  "bodySha256": "090860783b92a3c8e67824573994908b6f5276853dc2344ecafc9fcfc35283e2",
+  "audioSha256": "6d39a7f4d9cb8d8d733877e23e78d07f0d28ebb0df2d221dd4f8274ca4b6c147",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "4d8f4ec92e3954cbcb1c0c97eac8469a072de7fd254bed80db3eb749fc39179c",
+      "bytes": 17476
+    },
+    {
+      "name": "p01",
+      "sha256": "6ce5b54943602aa4144b79cd792e53ba8c9008c96336d40e404b74245fdcb57d",
+      "bytes": 9210
+    },
+    {
+      "name": "p02",
+      "sha256": "20ef2ea47c69864d5427dd31d0f7fbff13687808957768fec60e4605c460ec6c",
+      "bytes": 9512
+    },
+    {
+      "name": "p03",
+      "sha256": "0b100ed542b30d16dc39d0918eddffcced3620fc86081be47b11a9f59a3504c1",
+      "bytes": 9402
+    },
+    {
+      "name": "p04",
+      "sha256": "2cb742572ee86dac59459bbe5932017186bbe8733b9070cf10ab2435072474eb",
+      "bytes": 9638
+    },
+    {
+      "name": "p05",
+      "sha256": "2dbb258e7859608b426c960ed58f653b24fe5f5896242275f89e4d79c4aa9e64",
+      "bytes": 12432
+    },
+    {
+      "name": "p06",
+      "sha256": "f98cd806521db3e61c7d79cff1b12d3fcd32d25689bb4c6a4642e883e5255c5e",
+      "bytes": 9848
+    },
+    {
+      "name": "p07",
+      "sha256": "965cff679b15e4f428cfb9772b94aa413779a01161d28444e8c42a56b6346820",
+      "bytes": 10518
+    },
+    {
+      "name": "p08",
+      "sha256": "95fdef89f6b514109e498c115628b390287bae985441f8f0103528aa77c84e7d",
+      "bytes": 12498
+    },
+    {
+      "name": "p09",
+      "sha256": "c3f3011efa50b2937c406ed4d02abfea4e48cd7b3a5fa2a542d4162d2ddeff9a",
+      "bytes": 9506
+    },
+    {
+      "name": "p10",
+      "sha256": "d1db9b71f5d4c680f542c9bc4830a8838b39281f2ffab2d06f66c1171a5b8d3e",
+      "bytes": 10918
+    },
+    {
+      "name": "p11",
+      "sha256": "4a2f7ea25186a15ffec434ac9edf6ccc68cc4ff8595960000f79481fdacb46cd",
+      "bytes": 11900
+    },
+    {
+      "name": "p12",
+      "sha256": "67a5d1f43ee3044c9213728ba09624894904307a6a3bd0213ac652ad4d3a9fb5",
+      "bytes": 15272
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0409",
+  "title": "南瓜糕分成了小山包",
+  "version": 1,
+  "bodyCharacters": 478,
+  "pages": 8,
+  "duration": 152.578,
+  "bodySha256": "982485dd71c602e58c7f60cac415a87377107eefe16cf8c62b4d09ee1269d3aa",
+  "audioSha256": "f783e8436ca128656465a77e07605b1a9873ade4f3219dacd0560cdc77594995",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e40a9dfaf742df9de67646f200ce772a82652fa7ce22963f0ffada350c127d75",
+      "bytes": 14184
+    },
+    {
+      "name": "p01",
+      "sha256": "da9ed8e0506ffe137870e8f17b91e788a67e79b63cf8661f300eb0e125ce2ad8",
+      "bytes": 10796
+    },
+    {
+      "name": "p02",
+      "sha256": "65a643f59cab33bf7ff9a30269a0db17565c3b592052e0de185e24f3e79b97c3",
+      "bytes": 10968
+    },
+    {
+      "name": "p03",
+      "sha256": "293ead073aac0bca098f0984c030d639613946c23ece0c4a734ea13ce7dff461",
+      "bytes": 10982
+    },
+    {
+      "name": "p04",
+      "sha256": "1a740c7dc88a415b1be63ac4f987f25b911227233b9a518817e237d291c587b1",
+      "bytes": 11104
+    },
+    {
+      "name": "p05",
+      "sha256": "2f2487c7cf127385e929494c7c7cd8988b4a5dc57c8eb957f229b902a53dc45e",
+      "bytes": 10940
+    },
+    {
+      "name": "p06",
+      "sha256": "897f650519770229b3f58e3ad191d3782845621f1a3765d5c27097567f97412e",
+      "bytes": 10946
+    },
+    {
+      "name": "p07",
+      "sha256": "8fe1760f8e144e7ba71756738c6f4064001ca7af810a1dde856c57fb47772a04",
+      "bytes": 10802
+    },
+    {
+      "name": "p08",
+      "sha256": "b1da24331dcadca4a5b3a169e964c902689bfa99e206766a0f66aa456b5ab685",
+      "bytes": 10502
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

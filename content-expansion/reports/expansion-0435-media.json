@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0435",
+  "title": "阿渡不再等她往左歪",
+  "version": 1,
+  "bodyCharacters": 1443,
+  "pages": 16,
+  "duration": 444.986,
+  "bodySha256": "afbf8ecf960b5b90da7781e381f403ae62833a4ae0cf1b6720945d065e03d8c1",
+  "audioSha256": "aeadbd8029389c3b67ea46e01899d5bc590ebe2f090a1fca580003710f28381a",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "612f99d188d267d5651631cc0ff5f224f6e6aedaaaf4d1293153fefdcc7017dc",
+      "bytes": 14578
+    },
+    {
+      "name": "p01",
+      "sha256": "0f7a835f8fece1ae1c7bb2939f432b1a3faa5694c9d3c236429392638c64b07c",
+      "bytes": 10538
+    },
+    {
+      "name": "p02",
+      "sha256": "3b6f44d8ed67e9ee6b7d534bfbab77d73cbd08915b06d953540c4ffc21e87968",
+      "bytes": 10596
+    },
+    {
+      "name": "p03",
+      "sha256": "94304d7baba5e3540cf9cca38038d584dfc5d54c49a6fb7bb63211272e3e0fa9",
+      "bytes": 11924
+    },
+    {
+      "name": "p04",
+      "sha256": "2b2eda3466b71a493049156fb3a1bbc5e326a3a81ba6622a6f094e239f2aa01f",
+      "bytes": 11180
+    },
+    {
+      "name": "p05",
+      "sha256": "527e86fef1cc63702c3f3cb8fa9519124b778eb7c2b53801070cc96d3f9cf312",
+      "bytes": 10978
+    },
+    {
+      "name": "p06",
+      "sha256": "ba7e3bf50c9f0bbc48ef523f75457c61beac792acc563ad8afa5500b1da51d66",
+      "bytes": 12330
+    },
+    {
+      "name": "p07",
+      "sha256": "12c45c9855f539f7d60db53c91b7f3dcb5e90491aee4e85fb7ca994e72d3cc50",
+      "bytes": 11228
+    },
+    {
+      "name": "p08",
+      "sha256": "09bbb9df3fe29cd839814890bf97358bab6c83e5939f4fe32477fdedaae27d1e",
+      "bytes": 12158
+    },
+    {
+      "name": "p09",
+      "sha256": "9179d1b16954a0cbcb0a4c91195d8fe9888acf8901ffc24ee5493d65fcf78c12",
+      "bytes": 11574
+    },
+    {
+      "name": "p10",
+      "sha256": "f40b0f5bbd82e6c2bd30ae676e132e7a1bdb359ae043c67feb4c15c0ac30e290",
+      "bytes": 11296
+    },
+    {
+      "name": "p11",
+      "sha256": "b78a729db566c7688731e1e8ea783e924a64e03f4ca58c47de700384bc9d437e",
+      "bytes": 11184
+    },
+    {
+      "name": "p12",
+      "sha256": "52a90331ef15227098c254135ad53cbd12d38b5eebf1cebacbe5d5ad68d19450",
+      "bytes": 12356
+    },
+    {
+      "name": "p13",
+      "sha256": "8cff145801676c6132503896a0f1849137f686084920a13843a38a7f6efa2d01",
+      "bytes": 10668
+    },
+    {
+      "name": "p14",
+      "sha256": "57ad0e92de9a60eeafa9e927c1de1fb57567d862e2018677dce6b7cd32314591",
+      "bytes": 9724
+    },
+    {
+      "name": "p15",
+      "sha256": "166d2eb0699d40eb962496f33e27b40c03ab6d27d77d4e8f771fd5444232f03c",
+      "bytes": 11386
+    },
+    {
+      "name": "p16",
+      "sha256": "3f6f8d4f6c60fd0babe119fbb43accf131e3ec58d3e6a020cfed69614e80595c",
+      "bytes": 11600
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

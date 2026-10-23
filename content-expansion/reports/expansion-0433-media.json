@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0433",
+  "title": "砰砰买回了空肚子",
+  "version": 1,
+  "bodyCharacters": 1508,
+  "pages": 16,
+  "duration": 466.466,
+  "bodySha256": "28eb91d493106da2f9d3d9fa2d791946f35dd5b24e5a76043e868e8e07b15d36",
+  "audioSha256": "2b78a8a3446e1efe157e63da6140011f5fd9e7446210d4b997673904c86496ee",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9c03128eb7698a51f1dfa786e6b4429c08387fe26f415c032b97773a6833827c",
+      "bytes": 12760
+    },
+    {
+      "name": "p01",
+      "sha256": "14d5e5d1b09d4033cfb93d6e2e26e617104ce1c68eaaccf95bb7429a0f435a6f",
+      "bytes": 10662
+    },
+    {
+      "name": "p02",
+      "sha256": "d70131767038b1b7aad469c8f77b8042d61dab08ed8cdf901e676b841d5c9b3b",
+      "bytes": 10814
+    },
+    {
+      "name": "p03",
+      "sha256": "7447372e6b69212c71edecdd7234d943ad5c93579398473093c66e6632524d61",
+      "bytes": 15044
+    },
+    {
+      "name": "p04",
+      "sha256": "1733b5efff9a726dc79265f414d6686b9a26353f90d8cb8a58e0c90d66067fb9",
+      "bytes": 7904
+    },
+    {
+      "name": "p05",
+      "sha256": "ca025c7e0769e6f01a9df72768c1405b9f3a47ed41c310e63179632cf20f1bda",
+      "bytes": 10744
+    },
+    {
+      "name": "p06",
+      "sha256": "f3198f7a9b2e80ef5f86999ddf95ad3f846dddb6877aa7dd109253b6b84039b8",
+      "bytes": 11136
+    },
+    {
+      "name": "p07",
+      "sha256": "52a29d57d67c9abab916954dbdf33c8b454ba5aa38cea87c8ba6d0b1d8c9f671",
+      "bytes": 10202
+    },
+    {
+      "name": "p08",
+      "sha256": "3eb4ec2dad7fb55911fbdb800df4f7265db69aa8897ef995f4c9ce8dd74335db",
+      "bytes": 10282
+    },
+    {
+      "name": "p09",
+      "sha256": "7320dede66d2fa663cbdb1402e8a5438601b096cb8472cb0c747f488d4a68f37",
+      "bytes": 11764
+    },
+    {
+      "name": "p10",
+      "sha256": "b805a1b982a0491a401d4e5554ee93e277c8a50130edbe6592987a1f43507de6",
+      "bytes": 8112
+    },
+    {
+      "name": "p11",
+      "sha256": "20edc9c7c17ab40a64b45e889acdc3eac319a59fbf80dd3dd061c10a26ab3e6b",
+      "bytes": 10908
+    },
+    {
+      "name": "p12",
+      "sha256": "23afcd85246f4be3a3bf56561cd8b0d3a9ff406baea774fb260507e88cfff417",
+      "bytes": 11762
+    },
+    {
+      "name": "p13",
+      "sha256": "ffe2e7355cedbea334c711a912611590d75306c3975d3e1e8dd11eb83b548109",
+      "bytes": 11202
+    },
+    {
+      "name": "p14",
+      "sha256": "ac918cb7eb8ef625ec076caf0488357b06794a2a62279ecc35c70a27eed73803",
+      "bytes": 15120
+    },
+    {
+      "name": "p15",
+      "sha256": "3cb04a96bcb84e58924ea766bc089d8675a816a6ddeb2f40685d0d2de9ebb319",
+      "bytes": 10532
+    },
+    {
+      "name": "p16",
+      "sha256": "700621d746d11c2b61d65f70ab454e71ceccc36f40ec1dbe7eb725c2cb51b6cd",
+      "bytes": 10748
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

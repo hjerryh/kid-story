@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0432",
+  "title": "金叶子经过树梢",
+  "version": 1,
+  "bodyCharacters": 1577,
+  "pages": 16,
+  "duration": 473.114,
+  "bodySha256": "16e887fabeefeca188b0eb4fe5e8ee129d034b334b9cf4eb122552dbd94a8b7e",
+  "audioSha256": "7dca67f7b83ce9afe4c5c78c35a88a16c1852fcf0ab4ba4c7202757e892581a0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3a5b49417c11a7153589e327c507f35f3bf6de15627c6b346156f646f6d3c6fc",
+      "bytes": 19474
+    },
+    {
+      "name": "p01",
+      "sha256": "e278ce23c8db247869185e9c3a791eb4778a22617b25b36d87bba0ac93eb3fa2",
+      "bytes": 7372
+    },
+    {
+      "name": "p02",
+      "sha256": "5f190e484261f129b7411ab9d2e8b7d549c82df30ff3bdeab9df8cf0f2054f32",
+      "bytes": 10226
+    },
+    {
+      "name": "p03",
+      "sha256": "32d1472df7ccf0ddf92e8ca89fadf0702af0d804f79736fc54557c926986452f",
+      "bytes": 9928
+    },
+    {
+      "name": "p04",
+      "sha256": "cf8f6e649e6edfea4db13a2d8ed5856abee60d0ae62181fdf03c2e388fbaafc7",
+      "bytes": 13820
+    },
+    {
+      "name": "p05",
+      "sha256": "df5df5954d3692861a99a1fcc5f26e401791b8438d78675c51ddbb2fcb30c16a",
+      "bytes": 13542
+    },
+    {
+      "name": "p06",
+      "sha256": "6e740fca07b30dcce657bfd865453ade1fd9058c489b27d68d06df5089ada372",
+      "bytes": 13712
+    },
+    {
+      "name": "p07",
+      "sha256": "104e9215e665e2412deee5c7d27c598aebf19582339ea6c623a6c5eeeb4801a5",
+      "bytes": 12558
+    },
+    {
+      "name": "p08",
+      "sha256": "f28f312898a9946b224ad6681a823b100c896940adae9903bcd10b185af96ca8",
+      "bytes": 14472
+    },
+    {
+      "name": "p09",
+      "sha256": "7a99ea349531cc4e646a13312637fa0660ea7162ae9b70cb7c758828dd6380be",
+      "bytes": 12780
+    },
+    {
+      "name": "p10",
+      "sha256": "845eaa50cae61b97d2348c89f4d3f6b46f392db1b9cbbd8befee0b056369fe98",
+      "bytes": 10216
+    },
+    {
+      "name": "p11",
+      "sha256": "dd0c3ea89e29be303359ee2fa61e3500137e302209e303822d52ffb110f9ff6e",
+      "bytes": 14404
+    },
+    {
+      "name": "p12",
+      "sha256": "d2bf11f6f946043b3826812bd298525a62ecfc7550ce428726c13adcd6d8d205",
+      "bytes": 13528
+    },
+    {
+      "name": "p13",
+      "sha256": "3b493064a1cc339ff4598a6eaa3bbe327fabf90e67f829c740ce7a48ae51bb88",
+      "bytes": 14204
+    },
+    {
+      "name": "p14",
+      "sha256": "c280e5951a273d5efcc6166a255ab83138abbe1b5ef084ef55a20172b7e0dd77",
+      "bytes": 14068
+    },
+    {
+      "name": "p15",
+      "sha256": "ca34cfde358f6aaeaf6ece9cbd9595ba91df46ac0e08b9bed7c6a6a653265206",
+      "bytes": 13162
+    },
+    {
+      "name": "p16",
+      "sha256": "7bab831fe8f44d604696ff5946e26b974681abf5525245a224741da7952de06a",
+      "bytes": 14444
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

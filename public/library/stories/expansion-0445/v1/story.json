@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0445",
+  "version": 1,
+  "status": "media-ready",
+  "title": "果酱睡在面包中间",
+  "subtitle": "天桥上的果酱午餐",
+  "description": "栗芽想带着果酱夹心面包，到藤蔓天桥上野餐。可是，果酱总从面包边上挤出来，把会说话的小饭盒弄得黏糊糊。少放一点怎么还不行呢？",
+  "ageBand": "3-5",
+  "theme": "尝试与修正",
+  "color": "#92B8A0",
+  "character": "小松鼠栗芽：栗色软毛，奶白肚皮，蓬松大尾巴，穿浅绿色背带裙。小饭盒方方：浅蓝色方饭盒，盒盖上有两只圆眼睛，盒身正面有一张小嘴，没有手脚。",
+  "cover": "/library/stories/expansion-0445/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 155.866,
+  "detailUrl": "/library/stories/expansion-0445/v1/story.json",
+  "audio": "/library/stories/expansion-0445/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "藤蔓天桥上有一张小圆桌，叶子把阳光筛成金点点。栗芽想去那里吃午饭。小饭盒方方张开盖子说：“我要装草莓果酱面包！”栗芽拿出面包，厨房里甜香甜香的。",
+      "image": "/library/stories/expansion-0445/v1/p01.webp",
+      "start": 0,
+      "end": 19.862
+    },
+    {
+      "id": "p02",
+      "text": "栗芽舀了一大勺果酱，抹呀抹，抹成厚厚一层，再盖上一片面包。她用小爪一按，红果酱从四边冒了出来。“哎呀，面包吐舌头了！”方方笑得盒盖一开一合。",
+      "image": "/library/stories/expansion-0445/v1/p02.webp",
+      "start": 19.862,
+      "end": 38.644
+    },
+    {
+      "id": "p03",
+      "text": "面包刚放进去，果酱就黏住了方方的肚皮。栗芽想挪一挪，面包却不肯动。“我的里面黏糊糊。”方方说。栗芽把面包取回盘子，擦净饭盒，也擦净自己的小爪。",
+      "image": "/library/stories/expansion-0445/v1/p03.webp",
+      "start": 38.644,
+      "end": 58.386
+    },
+    {
+      "id": "p04",
+      "text": "“这回少一点。”栗芽掀开面包，把多余的果酱舀进小碟，只留下薄薄一层。她仔细涂满每个角，再把两片合起来。咦，边上还是挤出了一道红红的细线。",
+      "image": "/library/stories/expansion-0445/v1/p04.webp",
+      "start": 58.386,
+      "end": 76.736
+    },
+    {
+      "id": "p05",
+      "text": "栗芽没有急着往盒里放。她低下头，慢慢抬起上面的面包，又慢慢放下。果酱跟着往外挪，到了边边，就溜下去了。“哦，你还要往旁边走呀！”栗芽轻轻说。",
+      "image": "/library/stories/expansion-0445/v1/p05.webp",
+      "start": 76.736,
+      "end": 95.734
+    },
+    {
+      "id": "p06",
+      "text": "她用小勺把边上的果酱往中间收，四周留下一圈干净的面包边。这一次，她轻轻盖好，没有使劲按。果酱向旁边铺开一点，乖乖留在里面，像盖上了软软的被子。",
+      "image": "/library/stories/expansion-0445/v1/p06.webp",
+      "start": 95.734,
+      "end": 114.828
+    },
+    {
+      "id": "p07",
+      "text": "栗芽把面包装进方方，轻轻推了推，面包能挪动，盒子里也干干净净。“舒服啦！”方方合上盖子。小碟里的果酱也没丢，栗芽给它盖好盖，放进冰箱，留着明早拌酸奶。",
+      "image": "/library/stories/expansion-0445/v1/p07.webp",
+      "start": 114.828,
+      "end": 135.65
+    },
+    {
+      "id": "p08",
+      "text": "到了天桥的小圆桌旁，栗芽打开饭盒，咬了一口面包。先是软软的麦香，再是甜甜的草莓香。叶影落进方方肚里。“这个不黏。”方方说，便让那片影子多坐了一会儿。",
+      "image": "/library/stories/expansion-0445/v1/p08.webp",
+      "start": 135.65,
+      "end": 155.866
+    }
+  ],
+  "buildHash": "243c3c97340ff686695540d721caebb7b625bede952e987bab563df9035483d2"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0413",
+  "title": "高塔住不下一个懒腰",
+  "version": 1,
+  "bodyCharacters": 545,
+  "pages": 8,
+  "duration": 174.682,
+  "bodySha256": "537f7351d39a296dd917aed56b04a9f0939ddd1f1f09fb36ab1b5f2791bea6b2",
+  "audioSha256": "99a072e7527b33bf79c344af6ffaef17b8799429804801fb59c76a0ef26e44dd",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8f72277c864f0da01a37be668c65ebe15ee4a4f33ca085dc85f7abf0677b3b39",
+      "bytes": 17184
+    },
+    {
+      "name": "p01",
+      "sha256": "0d9c1d06439175144cf2c166c0f9ae0ef8c6c830438d05a3287d97d0a5b62e48",
+      "bytes": 10116
+    },
+    {
+      "name": "p02",
+      "sha256": "483d0a913e987e627e03f02cf2afa0ee8d51023d944fcd8f3dffaa542cf1d06e",
+      "bytes": 14454
+    },
+    {
+      "name": "p03",
+      "sha256": "7cd350d78ba6eca867fe7dc8ede9e08f1a329a814f6723dfbcf639e023e769d1",
+      "bytes": 12268
+    },
+    {
+      "name": "p04",
+      "sha256": "26f00d5a444cc17ee3b9026bfcef62efd06634981328486f32e4e47e775ed509",
+      "bytes": 13444
+    },
+    {
+      "name": "p05",
+      "sha256": "b04b5e86d343382718b349e516c41d0c502f5aad15688077a883a30b3f4b63a8",
+      "bytes": 13620
+    },
+    {
+      "name": "p06",
+      "sha256": "f952f72bb619bd0f3649a9d9e320842045e654dd37b720af022f0a1adf7006cb",
+      "bytes": 10726
+    },
+    {
+      "name": "p07",
+      "sha256": "e061f148880cb59249831203c663422c080222fc08ef1cf8be74f80496476298",
+      "bytes": 13056
+    },
+    {
+      "name": "p08",
+      "sha256": "879ba9fa20969395986c4ac0d4fe18e0cbba151760dd3aa460fb01d1d2f2e1c5",
+      "bytes": 13536
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

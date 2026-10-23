@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0406",
+  "title": "圆豆想在泥里等一等",
+  "version": 1,
+  "bodyCharacters": 474,
+  "pages": 8,
+  "duration": 151.258,
+  "bodySha256": "c83ad91bca800f9e73fd47ce9cd5e3b141747d5ad43e5bd07f551fc7439d349f",
+  "audioSha256": "29273d7d0ee63429ae4d1b36094c806ad9128276cbbd160174fd10f78077c74f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "0851153062b86724a6181d265e7b33aa174ad9c7982c3158bf8f38d83cd6d02e",
+      "bytes": 19968
+    },
+    {
+      "name": "p01",
+      "sha256": "dca0232656e41dcf90e0fc66f3adb319cd9fe778eaa9cd2fa4d5ed4a45f18ae7",
+      "bytes": 14976
+    },
+    {
+      "name": "p02",
+      "sha256": "1320f41748f9adcbdfef5199cefc85494b377ecca778bb382b3568dcda9ea07b",
+      "bytes": 14856
+    },
+    {
+      "name": "p03",
+      "sha256": "43ea24efd49618630b419ad6e10f5b4b7266762dd2d1531b72bc1796809d04e9",
+      "bytes": 15050
+    },
+    {
+      "name": "p04",
+      "sha256": "32b8c196d7ebc62a91697814c6fa2744788299bdca4c8959007edf8f898a2a56",
+      "bytes": 15410
+    },
+    {
+      "name": "p05",
+      "sha256": "4c8d220257739094bed5a967d9207bf47600aabc18d5bb463d0e616f7c0098f9",
+      "bytes": 15590
+    },
+    {
+      "name": "p06",
+      "sha256": "de2af79811c0914a96e1d1c32b64c82ff02b7897792aabab8e1e648c1adabd1d",
+      "bytes": 15810
+    },
+    {
+      "name": "p07",
+      "sha256": "83dd2e8759d0d486a7e6f761d13cca76ac6e03e284cf5ee29661f9791a27d841",
+      "bytes": 16646
+    },
+    {
+      "name": "p08",
+      "sha256": "2555829a23815dd51d093fed31d44545668a0159ce02a037aed97d9cf4bb8ea7",
+      "bytes": 16218
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

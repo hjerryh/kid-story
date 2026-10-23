@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0410",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小拱拱从手帕里出来",
+  "subtitle": "一个忘记了的名字",
+  "description": "陶芽找到了小时候的小陶马，却忘了给它起过的名字。漂亮名字都不对，一次擦洗，让他们重新想起了那个笑得打滚的下午。",
+  "ageBand": "3-5",
+  "theme": "旧日小名",
+  "color": "#C58B6B",
+  "character": "陶芽是陶土小女孩，赤褐色皮肤，两个圆圆的泥发髻，穿浅绿布裙。小陶马灰白色，短鬃毛，圆鼻头，四条短腿，尾巴尖有一小块蓝釉。",
+  "cover": "/library/stories/expansion-0410/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 161.89,
+  "detailUrl": "/library/stories/expansion-0410/v1/story.json",
+  "audio": "/library/stories/expansion-0410/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "陶土村落里，陶芽整理矮柜，找到一匹小陶马。小马伸伸腿，打了个圆圆的呵欠。陶芽抱住它：“我小时候天天带你玩！”可是，那个叫过好多遍的名字，她怎么也想不起来。",
+      "image": "/library/stories/expansion-0410/v1/p01.webp",
+      "start": 0,
+      "end": 20.486
+    },
+    {
+      "id": "p02",
+      "text": "“你还记得吗？”陶芽问。小马挠挠脑袋：“我只记得，你一喊，我就跑过去。”陶芽心里有点空空的。她把小马放在布垫上，决定找回那个名字，再好好喊它一次。",
+      "image": "/library/stories/expansion-0410/v1/p02.webp",
+      "start": 20.486,
+      "end": 39.796
+    },
+    {
+      "id": "p03",
+      "text": "“小白云？小月亮？蓝尾巴？”陶芽一个一个叫。小马听得耳朵都竖起来了，又慢慢摇头。“都好听，可都不像我。”陶芽也觉得不对。从前那个名字，一叫出来，她就想笑。",
+      "image": "/library/stories/expansion-0410/v1/p03.webp",
+      "start": 39.796,
+      "end": 61.914
+    },
+    {
+      "id": "p04",
+      "text": "陶芽搬来旧积木，搭好小马住过的屋子，又找出一只布球。小马走进屋，走出屋，推了推球。名字还是没有回来。陶芽摸摸它的背：“没关系，我们先把身上的灰擦掉吧。”",
+      "image": "/library/stories/expansion-0410/v1/p04.webp",
+      "start": 61.914,
+      "end": 81.752
+    },
+    {
+      "id": "p05",
+      "text": "湿布软软地搭上马背，滑下来，盖住了圆鼻头。“哎呀，看不见啦！”小马低头一拱，钻进布底，只留蓝蓝的尾巴尖。小布包往前挪呀挪，陶芽忽然噗的一声笑了。",
+      "image": "/library/stories/expansion-0410/v1/p05.webp",
+      "start": 81.752,
+      "end": 101.038
+    },
+    {
+      "id": "p06",
+      "text": "她想起来了！小时候，小马总爱钻进她的手帕，鼻头贴着桌面，把手帕拱成小山。她趴在桌边笑：“你不是小马，你是小猪！”后来，她就一直叫它——“小拱拱！”",
+      "image": "/library/stories/expansion-0410/v1/p06.webp",
+      "start": 101.038,
+      "end": 120.228
+    },
+    {
+      "id": "p07",
+      "text": "“小拱拱！”陶芽又叫了一遍。小马掀开湿布，哒哒跑到她手边。“对啦，听见这个，我的腿就想跑！”它用鼻头碰碰她的手指。陶芽笑得脸颊发热，那个名字终于回来了。",
+      "image": "/library/stories/expansion-0410/v1/p07.webp",
+      "start": 120.228,
+      "end": 141.026
+    },
+    {
+      "id": "p08",
+      "text": "擦干身子后，小拱拱没有回矮柜。陶芽拿来一块干手帕，轻轻铺在桌上。“小山要搬家吗？”她问。手帕底下立刻鼓起一个包。蓝尾巴尖摇了摇，一座小山慢慢走向她。",
+      "image": "/library/stories/expansion-0410/v1/p08.webp",
+      "start": 141.026,
+      "end": 161.89
+    }
+  ],
+  "buildHash": "6db20d0449435c7ad1024cdc2df7b484d61b90cec088a82dd83e38c790ffb68e"
+}

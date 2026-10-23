@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0448",
+  "title": "沙豆又走了一趟",
+  "version": 1,
+  "bodyCharacters": 519,
+  "pages": 8,
+  "duration": 163.834,
+  "bodySha256": "a18cff638182848660f8c8ddfb43b860c29e07fd1143882d8627a6ea4cf30169",
+  "audioSha256": "2e238a19d650707036e24c2014aca2f331362e48ec14648edb8701474fd769a2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ceff50a8a84a1db4a415916063e8ae0bddcc6f567b6c7bee979f57a990933b5f",
+      "bytes": 14130
+    },
+    {
+      "name": "p01",
+      "sha256": "59914d1ceb76acaa5bd7e639f248ad8c40d435803b7f597fa9d1937047483798",
+      "bytes": 14436
+    },
+    {
+      "name": "p02",
+      "sha256": "e8bd8777cf7f0a59548becf6d58fec3e075d4c54f83a72f7a583c4a6e752cbb7",
+      "bytes": 14448
+    },
+    {
+      "name": "p03",
+      "sha256": "347a14141e5ad9c28f9085c38f951fc143fc3cff5a8f0708410356286f65318d",
+      "bytes": 15048
+    },
+    {
+      "name": "p04",
+      "sha256": "e872b21971c12cb2d535e79f6268cdd776adbf8efb9a5b090d1e520851e51328",
+      "bytes": 11420
+    },
+    {
+      "name": "p05",
+      "sha256": "8b267c2e71605a889e26580bbf0cb13758bcb80eb4798d83488f14f563214b74",
+      "bytes": 11380
+    },
+    {
+      "name": "p06",
+      "sha256": "537dd99a01a45d11d41c0e690d2827ae195ae0497931910ad2ba7d1de8bab735",
+      "bytes": 11688
+    },
+    {
+      "name": "p07",
+      "sha256": "e40c3f38fa1ce16967f1cc2bdfaa1b8f2423dda69b801485a48af74ad8b5b778",
+      "bytes": 11490
+    },
+    {
+      "name": "p08",
+      "sha256": "7ab196c89e0354df1596b73c9b29ae95bb783e9e72cfb718ffcc2820d94d04c2",
+      "bytes": 13780
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

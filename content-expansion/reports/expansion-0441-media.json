@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0441",
+  "title": "雪花坐在紫围巾上",
+  "version": 1,
+  "bodyCharacters": 530,
+  "pages": 8,
+  "duration": 169.426,
+  "bodySha256": "5a450392f6b9434a3f748c678975725af2f15856c0c0413f5b216e88a52f47ff",
+  "audioSha256": "21c88cda6b200be2b7af950f0735507704e73b4420a90d97b2f04c173570baee",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "067c97ade71e0d26690fe9fd59619a1046f673de857ac566fdb03f4c25a17509",
+      "bytes": 14494
+    },
+    {
+      "name": "p01",
+      "sha256": "96e2e664b6b871590132380aa9fc17195ea9543c31249656d00749a314bdc43c",
+      "bytes": 10574
+    },
+    {
+      "name": "p02",
+      "sha256": "f43a2ada910cb1ce6fc743c693a2207a507b029092f23f679d5e2d69e08ed7e1",
+      "bytes": 10106
+    },
+    {
+      "name": "p03",
+      "sha256": "ded89afee894347cac1d05a3d586b538b070fcd5cbb4ecf9892e028dfc280bf4",
+      "bytes": 9958
+    },
+    {
+      "name": "p04",
+      "sha256": "bfe32c9153493a0b69a9a18d4cdee205d33f79d0f500079801559eb0cf7867b9",
+      "bytes": 10336
+    },
+    {
+      "name": "p05",
+      "sha256": "98436f6fe58b2c4ff529b72babd775e4292e9fd13b51b57911abe8c936c5b949",
+      "bytes": 9930
+    },
+    {
+      "name": "p06",
+      "sha256": "85de2200af304ca474aa5986fc7b6c791c853310d6c7519ac08d26d493ed739e",
+      "bytes": 12626
+    },
+    {
+      "name": "p07",
+      "sha256": "f6c80403c52be29e953b859f0de9ef2df3fc10399b059d661fc4e4dfb18fae39",
+      "bytes": 11648
+    },
+    {
+      "name": "p08",
+      "sha256": "7a926a90a67b559ba12e0ebe85c33af2fcafac69b39354e2b49f804b2c4fda1a",
+      "bytes": 12572
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

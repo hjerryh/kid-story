@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0408",
+  "version": 1,
+  "status": "media-ready",
+  "title": "阿穗肚皮沙沙响",
+  "subtitle": "泥脚印藏不住",
+  "description": "陶陶想带会说话的毯子去萤火坡地看星星，却在毯子上踩出了泥脚印。他把脏角折起来，说已经准备好了，可卷进毯子里的泥粒，让这趟出门变得很不舒服。",
+  "ageBand": "3-5",
+  "theme": "诚实与补救",
+  "color": "#829B70",
+  "character": "小浣熊陶陶：灰褐色绒毛，眼周有黑色斑纹，穿天蓝色短背心。毯子阿穗：米白色长方形毛毯，四角有红色流苏，脸在一条短边中央，能说话、轻轻摆动流苏，不能自己行走。",
+  "cover": "/library/stories/expansion-0408/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 170.794,
+  "detailUrl": "/library/stories/expansion-0408/v1/story.json",
+  "audio": "/library/stories/expansion-0408/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "小浣熊陶陶有一位毯子朋友，叫阿穗。阿穗喜欢躺在草上看星星，四个红流苏一高兴就摇呀摇。今天，陶陶要带他去萤火坡地。“我要躺得平平的，看一大块天空！”阿穗说。",
+      "image": "/library/stories/expansion-0408/v1/p01.webp",
+      "start": 0,
+      "end": 21.398
+    },
+    {
+      "id": "p02",
+      "text": "陶陶刚从院子回来，脚底还沾着湿泥。阿穗从怀里滑下来，他连忙追过去。吧唧，一只泥脚印落在毯角上。陶陶抬起脚，又踩出一只。他低头看看，两只脚印像两块巧克力。",
+      "image": "/library/stories/expansion-0408/v1/p02.webp",
+      "start": 21.398,
+      "end": 42.892
+    },
+    {
+      "id": "p03",
+      "text": "“我们可以出门了吗？”阿穗问。他的脸朝着另一边，没看见泥脚印。陶陶想到洗毯子要忙好久，便把脏角折进去。“可以啦，你干干净净的。”说完，他的耳朵有一点热。",
+      "image": "/library/stories/expansion-0408/v1/p03.webp",
+      "start": 42.892,
+      "end": 63.282
+    },
+    {
+      "id": "p04",
+      "text": "陶陶把阿穗卷起来，抱到门边。阿穗扭了扭红流苏：“哎呀，肚皮沙沙的。”陶陶把毯卷松开一点，沙沙声还在。原来，泥里有细细的小颗粒，正夹在软毛之间，磨来磨去。",
+      "image": "/library/stories/expansion-0408/v1/p04.webp",
+      "start": 63.282,
+      "end": 84.344
+    },
+    {
+      "id": "p05",
+      "text": "陶陶停住了。他把阿穗摊开，露出那两块“巧克力”。“是我踩脏的。我还把脚印藏起来，说你干净了。对不起。”阿穗看看自己的角：“怪不得呀。请把这些小沙粒洗掉吧。”",
+      "image": "/library/stories/expansion-0408/v1/p05.webp",
+      "start": 84.344,
+      "end": 105.19
+    },
+    {
+      "id": "p06",
+      "text": "陶陶先洗净自己的脚，再拿来大浅盆。他让阿穗的脸搭在盆沿外，把脏角浸进水里，抹一点肥皂，轻轻揉洗。水变成淡褐色。他换上清水，一遍遍漂洗，直到软毛里不再藏着泥粒和泡泡。",
+      "image": "/library/stories/expansion-0408/v1/p06.webp",
+      "start": 105.19,
+      "end": 128.46
+    },
+    {
+      "id": "p07",
+      "text": "洗好的阿穗搭在低晾架上，水珠滴答滴答。陶陶坐在旁边陪他吹风。摸摸毯角，还潮着，他便继续等。等阿穗全身干透，陶陶把他仔细展开。这一次，每一个角都干干净净。",
+      "image": "/library/stories/expansion-0408/v1/p07.webp",
+      "start": 128.46,
+      "end": 150.314
+    },
+    {
+      "id": "p08",
+      "text": "后来，他们终于躺在萤火坡地上。陶陶把鞋留在草边，才把脚放上毯子。阿穗舒舒服服地铺平了：“好大一块天空！”一颗星亮起来，陶陶的脚背上，也轻轻搭来一根红流苏。",
+      "image": "/library/stories/expansion-0408/v1/p08.webp",
+      "start": 150.314,
+      "end": 170.794
+    }
+  ],
+  "buildHash": "fa154995641240590fbeed2cc46b5e2ca10e93e52369efa4a911daa82885f544"
+}

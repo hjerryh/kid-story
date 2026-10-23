@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0444",
+  "version": 1,
+  "status": "media-ready",
+  "title": "红靴子等的是蓝凉鞋",
+  "subtitle": "两只不一样的朋友",
+  "description": "一只红靴子来到暖灯旅店，找不到同行的朋友了。小鼹鼠豆绒忙着寻找另一只红靴子，可朋友真的一定长得一样吗？",
+  "ageBand": "3-5",
+  "theme": "听清朋友",
+  "color": "#D98963",
+  "character": "小鼹鼠豆绒：灰褐色绒毛，圆鼻尖，穿浅绿色围裙。红靴子：红色短靴，棕色鞋底，鞋口有一颗铜扣，会说话、自己蹦跳。蓝凉鞋：蓝色细带凉鞋，米白色鞋底，会说话、自己蹦跳。",
+  "cover": "/library/stories/expansion-0444/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 158.53,
+  "detailUrl": "/library/stories/expansion-0444/v1/story.json",
+  "audio": "/library/stories/expansion-0444/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "暖灯旅店刚摆好早饭，一只红靴子蹦进门，铜扣叮当响。小鼹鼠豆绒给他拉开椅子。红靴子却转了个圈：“我的朋友呢？我们说好一起吃早饭的，他刚才还跟着我呀。”",
+      "image": "/library/stories/expansion-0444/v1/p01.webp",
+      "start": 0,
+      "end": 19.598
+    },
+    {
+      "id": "p02",
+      "text": "“我帮你找！”豆绒弯下腰，看了看他的红鞋面、棕鞋底。“他走得比较慢……”红靴子刚开口，豆绒便说：“知道啦，另一只红靴子！”她掀起门帘，朝走廊里找去。",
+      "image": "/library/stories/expansion-0444/v1/p02.webp",
+      "start": 19.598,
+      "end": 38.356
+    },
+    {
+      "id": "p03",
+      "text": "豆绒看看长凳下面，又绕到雨伞后面。那里有蓝拖鞋、黄布鞋，就是没有红靴子。她还趴下来，仔细瞧了瞧木鞋架的底层。红靴子跟在后头，鞋底啪嗒啪嗒地响。",
+      "image": "/library/stories/expansion-0444/v1/p03.webp",
+      "start": 38.356,
+      "end": 57.858
+    },
+    {
+      "id": "p04",
+      "text": "鞋架高处露出一点红。豆绒用长柄鞋钩够下一只红靴，轻轻摆在客人身边：“找到啦，你们多像呀！”红靴子往后蹦了一小步：“可这不是我的朋友。”那只鞋安安静静，一动也不动。",
+      "image": "/library/stories/expansion-0444/v1/p04.webp",
+      "start": 57.858,
+      "end": 78.68
+    },
+    {
+      "id": "p05",
+      "text": "豆绒把鞋放回去，坐到矮凳上：“我还没听你说完呢。你的朋友长什么样？”“他是蓝凉鞋，有细细的鞋带。走起路来，啪，沙——啪，沙。他喜欢慢慢蹭过软软的地方。”",
+      "image": "/library/stories/expansion-0444/v1/p05.webp",
+      "start": 78.68,
+      "end": 98.614
+    },
+    {
+      "id": "p06",
+      "text": "豆绒想起门口那条厚厚的擦鞋垫。她带着红靴子回去，果然看见一只蓝凉鞋，正从垫子这一头蹭向那一头。“我在擦脚呀！”蓝凉鞋说，“这里软乎乎的，真舒服。”",
+      "image": "/library/stories/expansion-0444/v1/p06.webp",
+      "start": 98.614,
+      "end": 117.708
+    },
+    {
+      "id": "p07",
+      "text": "红靴子蹦过去，轻轻碰了碰蓝鞋带：“我还以为你一直跟着呢。”“我以为你会在垫子边等我呀。”蓝凉鞋也碰了碰他的铜扣。这回，他们并排挨着，一步一步走向餐桌。",
+      "image": "/library/stories/expansion-0444/v1/p07.webp",
+      "start": 117.708,
+      "end": 137.234
+    },
+    {
+      "id": "p08",
+      "text": "豆绒给他们摆好两碟小饼干。红靴子坐左边，蓝凉鞋坐右边，挤在同一张宽凳上。桌布下面，一只棕鞋底、一只白鞋底，晃呀晃。红靴子偶尔晃晃鞋口，铜扣就叮当地响一下。",
+      "image": "/library/stories/expansion-0444/v1/p08.webp",
+      "start": 137.234,
+      "end": 158.53
+    }
+  ],
+  "buildHash": "2302e852ad2fe66f2b6ffbe37bcad63aeca40197c26bbb961dd6602aff4c6be3"
+}

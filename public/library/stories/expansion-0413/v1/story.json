@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0413",
+  "version": 1,
+  "status": "media-ready",
+  "title": "高塔住不下一个懒腰",
+  "subtitle": "一间能伸腿的小屋",
+  "description": "芋芽想在山谷作坊搭一间能躺着看书的小屋。漂亮的高塔搭起来了，里面却伸不直腿；把墙挪开，屋顶又不够用了。她得自己决定，这间小屋究竟要长什么样。",
+  "ageBand": "3-5",
+  "theme": "自己的主意",
+  "color": "#B6C7A2",
+  "character": "小精灵芋芽只有拇指高，浅绿色短发，圆脸，穿紫色背心和米白裤子，脚穿软布鞋。积木们是蜂蜜色的木块，侧面长着小小的眼睛和嘴巴。",
+  "cover": "/library/stories/expansion-0413/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 174.682,
+  "detailUrl": "/library/stories/expansion-0413/v1/story.json",
+  "audio": "/library/stories/expansion-0413/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "山谷作坊的木桌上，住着拇指大的小精灵芋芽。她想搭一间自己的小屋，躺着读那本厚厚的图画书。一篮积木刚睡醒，打着小呵欠，闻起来像晒暖的木头。芋芽把它们搬到空桌角。",
+      "image": "/library/stories/expansion-0413/v1/p01.webp",
+      "start": 0,
+      "end": 21.35
+    },
+    {
+      "id": "p02",
+      "text": "书里有座尖顶高塔，窗子像一块块小饼干。芋芽也把墙搭得高高的，又加上一层。“上面能看见窗外啦！”顶上的积木说。芋芽仰起脸，觉得真神气，便抱着书钻进了塔里。",
+      "image": "/library/stories/expansion-0413/v1/p02.webp",
+      "start": 21.35,
+      "end": 42.364
+    },
+    {
+      "id": "p03",
+      "text": "可是，她一躺下，脚尖就顶住了墙。把腿缩起来，书又只能贴着鼻子。“阿嚏！”底下的积木被她挠痒了。芋芽坐起来，揉揉弯酸的膝盖。这样的小屋，连一个大懒腰也装不下呀。",
+      "image": "/library/stories/expansion-0413/v1/p03.webp",
+      "start": 42.364,
+      "end": 64.218
+    },
+    {
+      "id": "p04",
+      "text": "芋芽爬出来，先取下屋顶，再把两边的墙往外挪。现在能伸直腿了！可屋顶铺到一半，篮子空了。作坊的天花板露在头顶。她抱着最后一块积木，比了左边，又比右边，哪里都盖不满。",
+      "image": "/library/stories/expansion-0413/v1/p04.webp",
+      "start": 64.218,
+      "end": 86.504
+    },
+    {
+      "id": "p05",
+      "text": "芋芽没有接着搬。她躺进屋里，把书放在肚皮上，脚趾舒舒服服地动了动。墙那么高，她伸手也够不着。她望望书里的高塔，又望望自己的脚，忽然知道，哪一处该留下来了。",
+      "image": "/library/stories/expansion-0413/v1/p05.webp",
+      "start": 86.504,
+      "end": 106.99
+    },
+    {
+      "id": "p06",
+      "text": "“我要宽宽的地板，矮矮的墙。”芋芽说。她搬来小梯子，先取下半边屋顶，再把高墙上的积木一块一块放到身旁。“不看窗外了吗？”一块积木问。“看呀，出门就能看。现在，我想在屋里好好伸伸腿。”",
+      "image": "/library/stories/expansion-0413/v1/p06.webp",
+      "start": 106.99,
+      "end": 131.556
+    },
+    {
+      "id": "p07",
+      "text": "高墙变矮了，省下的积木刚好铺满屋顶。芋芽留好门口，拖来一块小布垫，再把书抱进去。这回，她能躺平，也能翻身。门边的积木轻声问：“够住吗？”“够，还够我打一个滚呢！”",
+      "image": "/library/stories/expansion-0413/v1/p07.webp",
+      "start": 131.556,
+      "end": 153.026
+    },
+    {
+      "id": "p08",
+      "text": "芋芽翻开书，轻轻念起来。读到高塔那一页，她伸直了腿，脚尖没有碰到墙。门边的积木听着听着，闭上了眼睛。芋芽也打了个小呵欠。矮屋顶低低地说：“下一页，明天再念也行。”",
+      "image": "/library/stories/expansion-0413/v1/p08.webp",
+      "start": 153.026,
+      "end": 174.682
+    }
+  ],
+  "buildHash": "526dea4d40bb53cd48f56c900c398d90eee4dc0e919061e4e101579b0ef7c0a9"
+}

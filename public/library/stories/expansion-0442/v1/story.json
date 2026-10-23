@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0442",
+  "version": 1,
+  "status": "media-ready",
+  "title": "葵葵让出半扇窗",
+  "subtitle": "窗边留一点蓝",
+  "description": "米绵坐上云朵列车，想看看真正的大海。可是，热情的向日葵把车窗挡得严严实实。怎样才能和新朋友坐在一起，也看见窗外的蓝色呢？",
+  "ageBand": "3-5",
+  "theme": "说出需要",
+  "color": "#A9CADD",
+  "character": "小田鼠米绵：浅棕色绒毛，圆耳朵，穿淡紫色背带裙，背白色小布包。葵葵：长在列车窗边花盆里的向日葵，金黄花瓣，棕色圆脸，两片宽绿叶，柔软的茎可以弯曲。",
+  "cover": "/library/stories/expansion-0442/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 168.25,
+  "detailUrl": "/library/stories/expansion-0442/v1/story.json",
+  "audio": "/library/stories/expansion-0442/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "云朵车站来了一辆棉花列车。小田鼠米绵背着白布包，坐进靠窗的位置。今天，她要去看海。她只在书里见过蓝蓝的一小块，不知道真正的大海，会不会一直铺到天边。",
+      "image": "/library/stories/expansion-0442/v1/p01.webp",
+      "start": 0,
+      "end": 20.798
+    },
+    {
+      "id": "p02",
+      "text": "窗边的花盆里，住着向日葵葵葵。她弯下软软的茎，把金黄的脸凑过来：“你好呀！我陪你坐车。”米绵闻到淡淡的花香，笑着问好。圆圆的花脸，却把车窗挡得满满的。",
+      "image": "/library/stories/expansion-0442/v1/p02.webp",
+      "start": 20.798,
+      "end": 41.428
+    },
+    {
+      "id": "p03",
+      "text": "列车轻轻摇起来，窗外飘过白云。米绵朝左挪一点，想从花瓣旁边看看。葵葵也伸来一片叶子：“给你靠靠！”叶子软软的，像小枕头。可是，剩下的那条窗缝也不见了。",
+      "image": "/library/stories/expansion-0442/v1/p03.webp",
+      "start": 41.428,
+      "end": 62.394
+    },
+    {
+      "id": "p04",
+      "text": "米绵轻轻碰了碰叶尖，嘴巴张开，又合上。葵葵把花脸垂低：“你不喜欢挨着我吗？”“喜欢呀。”米绵摸摸鼻子。她喜欢这个香香的新朋友，也真的很想看看外面的大海。",
+      "image": "/library/stories/expansion-0442/v1/p04.webp",
+      "start": 62.394,
+      "end": 82.664
+    },
+    {
+      "id": "p05",
+      "text": "她抬起头说：“葵葵，我想看海。你能给我留一点看窗外的地方吗？”葵葵收回叶子，把花脸往旁边弯。米绵用小爪比了比：“还要一点点。对啦，这样我的两只眼睛都能看见！”",
+      "image": "/library/stories/expansion-0442/v1/p05.webp",
+      "start": 82.664,
+      "end": 103.366
+    },
+    {
+      "id": "p06",
+      "text": "窗子亮起来了。葵葵问：“那我还能陪你吗？”米绵点点头：“能呀，你也朝外看，我们一起找海。”葵葵转过花脸，贴着窗边坐好。米绵不用再挪来挪去，舒舒服服地靠住了椅背。",
+      "image": "/library/stories/expansion-0442/v1/p06.webp",
+      "start": 103.366,
+      "end": 124.692
+    },
+    {
+      "id": "p07",
+      "text": "一团白云慢慢退开，下面忽然全是蓝色。“海！”米绵的小耳朵立起来了。一条小船拖着白白的水纹，像在蓝布上缝线。葵葵看得花瓣都翘起来：“原来窗外，有这么大一片呀！”",
+      "image": "/library/stories/expansion-0442/v1/p07.webp",
+      "start": 124.692,
+      "end": 146.042
+    },
+    {
+      "id": "p08",
+      "text": "看了好久，葵葵把一片叶子伸到米绵腿边：“这回，放这里好吗？”“正好。”米绵笑了。列车摇呀摇，花香轻轻挨着她。她看见海一直铺向远处，窗边还有一小圈金黄，陪着那片蓝。",
+      "image": "/library/stories/expansion-0442/v1/p08.webp",
+      "start": 146.042,
+      "end": 168.25
+    }
+  ],
+  "buildHash": "b3bdbf65387d3a448bf9853a3e48c9c09e2792a645483c1738e6eaed29fad68a"
+}

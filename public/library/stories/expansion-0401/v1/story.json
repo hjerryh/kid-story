@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0401",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小风的三张画像",
+  "subtitle": "看不见的朋友来画画",
+  "description": "米芦想给纸风车小岛上的小风画张像，可小风没有鼻子，也没有尾巴，连站在哪里都看不见。带着画本走过草坡和池塘，她慢慢找到了画里的小风。",
+  "ageBand": "3-5",
+  "theme": "风的模样",
+  "color": "#89C9C3",
+  "character": "小田鼠米芦有浅棕色绒毛、圆耳朵，穿湖蓝色背带裤，背米白色小画包。小风没有可见的身体，能说话，经过时会吹动周围的东西。",
+  "cover": "/library/stories/expansion-0401/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 158.89,
+  "detailUrl": "/library/stories/expansion-0401/v1/story.json",
+  "audio": "/library/stories/expansion-0401/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "纸风车小岛上，米芦给邻居们画了许多像。蜗牛有圆房子，兔子有长耳朵。小风翻着画本，轻轻问：“能画画我吗？”米芦拿起蓝笔：“当然啦，请你站到我面前。”",
+      "image": "/library/stories/expansion-0401/v1/p01.webp",
+      "start": 0,
+      "end": 19.046
+    },
+    {
+      "id": "p02",
+      "text": "“我已经站好啦。”小风说。米芦看看左边，又看看右边，面前只有空空的石板。“你的鼻子呢？尾巴呢？”“我没有呀。”小风笑起来，米芦耳边的细毛痒痒地动了。",
+      "image": "/library/stories/expansion-0401/v1/p02.webp",
+      "start": 19.046,
+      "end": 39.7
+    },
+    {
+      "id": "p03",
+      "text": "米芦找来透明杯，朝空中兜了一下，赶紧盖住杯口。杯里还是空空的。“你进去了吗？”“没有，我在杯子外面呢。”米芦放下杯子。看不见的朋友，究竟该怎么画？",
+      "image": "/library/stories/expansion-0401/v1/p03.webp",
+      "start": 39.7,
+      "end": 59.298
+    },
+    {
+      "id": "p04",
+      "text": "小风陪她走到草坡上。忽然，一片草叶弯下腰，接着，另一片也弯了。绿绿的波浪一直跑到坡脚。“你正在那里走路！”米芦叫起来。她蹲下身，画了一坡弯弯的小草。",
+      "image": "/library/stories/expansion-0401/v1/p04.webp",
+      "start": 59.298,
+      "end": 80.144
+    },
+    {
+      "id": "p05",
+      "text": "到了池塘边，小风轻轻吹过水面。平平的水上起了细细的纹，一条挨着一条。“这一回，你没有弯腰。”米芦说。她翻开新的一页，用蓝笔画下满满一池小波纹。",
+      "image": "/library/stories/expansion-0401/v1/p05.webp",
+      "start": 80.144,
+      "end": 99.502
+    },
+    {
+      "id": "p06",
+      "text": "回家的路上，小风吹过米芦的耳朵，又钻过她两只圆耳朵之间。细毛全倒向了一边。米芦咯咯笑，赶紧画下自己歪歪的毛：“别急着走，这张还差一只耳朵呢！”",
+      "image": "/library/stories/expansion-0401/v1/p06.webp",
+      "start": 99.502,
+      "end": 117.852
+    },
+    {
+      "id": "p07",
+      "text": "米芦把三张画从画本上取下来，摆在桌上。小风看了草坡，看了池塘，又看了那撮歪毛。“哪张是我呢？”米芦挨张点过去：“这是你走过草坡，这是你吹过池塘，这是你挠我痒痒。”",
+      "image": "/library/stories/expansion-0401/v1/p07.webp",
+      "start": 117.852,
+      "end": 138.722
+    },
+    {
+      "id": "p08",
+      "text": "“原来，我有这么多张像！”小风高兴地绕着桌子转。米芦用木夹子把画夹在窗边。小风轻轻经过，三张画翘起小小的纸角。米芦也翘起嘴角：“瞧，你又来里面玩啦。”",
+      "image": "/library/stories/expansion-0401/v1/p08.webp",
+      "start": 138.722,
+      "end": 158.89
+    }
+  ],
+  "buildHash": "52dd09bf0c139572a7164240349d7ec76a3447b470a6787807a96f3ff80b071d"
+}

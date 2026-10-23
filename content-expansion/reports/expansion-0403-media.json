@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0403",
+  "title": "菇米的勺子舀起了米饼",
+  "version": 1,
+  "bodyCharacters": 522,
+  "pages": 8,
+  "duration": 164.05,
+  "bodySha256": "1b7f326a640632f9dc099736875c9a203af8703270faf99b7af72bedabd14e28",
+  "audioSha256": "9b17110ffca8b5cce748f70bc7119c15ac7d923d150450d953270e404001d271",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2aa5ba11ca81dae90c6ba05650970645214fe3eb7f8736ddd1083a90d05356a8",
+      "bytes": 16190
+    },
+    {
+      "name": "p01",
+      "sha256": "4c2b833b30dd2c399d8525521d738acda266c5508f40ea301ed450688aae57c8",
+      "bytes": 11750
+    },
+    {
+      "name": "p02",
+      "sha256": "a4610c0fc9bdf89a9c74dbd10e362497d9e425d8cd9ba210e132b890c8b2b69b",
+      "bytes": 13222
+    },
+    {
+      "name": "p03",
+      "sha256": "266e152bde1462d0d566986c32b4012d79ebb9c40d945ea2ef995c28c3d68153",
+      "bytes": 13486
+    },
+    {
+      "name": "p04",
+      "sha256": "bd68d6f609fb0405c6cbddbf64284e3f05ad0ee2d5f4315b6ad7393ee1cb19a8",
+      "bytes": 14016
+    },
+    {
+      "name": "p05",
+      "sha256": "476f198bb541d2391a5210d699fc97f64116dcdb81522d78f1756456c6fb5e3b",
+      "bytes": 13454
+    },
+    {
+      "name": "p06",
+      "sha256": "610b5541913b1d10d023a8abb6a0262e5c5ece7c4f048124d05a63ff861c47f0",
+      "bytes": 13476
+    },
+    {
+      "name": "p07",
+      "sha256": "a7129ec839fdbbc51ce2f6f490433c532d234a4d8f40803ee5cd7f75aff8b68d",
+      "bytes": 13658
+    },
+    {
+      "name": "p08",
+      "sha256": "54ad07bbc11a9e01b7cd411e7cf137f20f490e48308a1e89b41278850240813d",
+      "bytes": 13664
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

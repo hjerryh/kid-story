@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0423",
+  "title": "绢栗把柜台戴在头上",
+  "version": 1,
+  "bodyCharacters": 974,
+  "pages": 12,
+  "duration": 290.106,
+  "bodySha256": "33a26cb89e018d4f941303e4e714640ca4d1a7b8cc50ffb218e17c5736950617",
+  "audioSha256": "7e2f4e220986c28192bf0d82573674d6895532bcc76ff0d77adbfa992f618a78",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ca6f0877f9b0b79d04f8d298bc24030c8bf4eda2953dff733e380e84f03b6f89",
+      "bytes": 14288
+    },
+    {
+      "name": "p01",
+      "sha256": "c336b0c00c960603ce64ccbd5428efe25c129187125b0903867a8f03dbf22526",
+      "bytes": 14354
+    },
+    {
+      "name": "p02",
+      "sha256": "dc5414cd5018f1346f3c4a601e7aa8f5c5a7a77690d2dd9028bbcd8c1b00f444",
+      "bytes": 12436
+    },
+    {
+      "name": "p03",
+      "sha256": "96579ad65e2853728ee624ae4aa135261dd9e927dedc64c34acfe2c965c99d22",
+      "bytes": 12176
+    },
+    {
+      "name": "p04",
+      "sha256": "bbe1120d5c306de27280f390927c2a53fb0e5effd4d4ffc8799d89f065f014bf",
+      "bytes": 13186
+    },
+    {
+      "name": "p05",
+      "sha256": "d86f64b056ac34ce2eac7157666e841027e00e6d46d6a4b09dda55316ad38c16",
+      "bytes": 12292
+    },
+    {
+      "name": "p06",
+      "sha256": "2ae13b181135f566f76e080b3ea6357ebd56bd42df08164eddb2a07c0dbac5bb",
+      "bytes": 11910
+    },
+    {
+      "name": "p07",
+      "sha256": "432cec74fc86a0d32b5d6b315fa36e2d737d79e894a35de94a4db90935f68578",
+      "bytes": 12174
+    },
+    {
+      "name": "p08",
+      "sha256": "2edad73cb1e9be1d4fc6cb46cd958f9687923ea73b9d33b5365e6e9b5f530bd1",
+      "bytes": 9764
+    },
+    {
+      "name": "p09",
+      "sha256": "e1689be8f2538148a395333c548596133f7aeca836c5b96678cb93ba49d1039a",
+      "bytes": 11362
+    },
+    {
+      "name": "p10",
+      "sha256": "871b94cd9eaa00cb2c9617926ab9808a9e05fde2ac4580d4df83955f4fc791ae",
+      "bytes": 12958
+    },
+    {
+      "name": "p11",
+      "sha256": "30af1b50c86f106023361bec6ce9a1a2545fe4e535107a22e3b3d99bfc349811",
+      "bytes": 12224
+    },
+    {
+      "name": "p12",
+      "sha256": "cbba36f160edf358680d3195aa4720eefb04f403d2afd34891c666b7c447641a",
+      "bytes": 11516
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

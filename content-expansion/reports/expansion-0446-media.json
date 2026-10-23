@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0446",
+  "title": "酸味甜味坐一桌",
+  "version": 1,
+  "bodyCharacters": 521,
+  "pages": 8,
+  "duration": 164.002,
+  "bodySha256": "21fa84ad9a2d4476f1587a4472f6ca4a3d3bb653b712470f8fff797d6ec27fdb",
+  "audioSha256": "f4713a0fe5ac43dcc79403eea5f2667c005a51e66dd4367ff428b81dda509c9c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b4baf6e78e6921071972204de0f5eedeb8195c205e8c24ebd27f5277de35207c",
+      "bytes": 14392
+    },
+    {
+      "name": "p01",
+      "sha256": "0c7a18c50a397240d9fe2ab9eb5cff77a044b1c1d81e15a2c34729f4668fed1d",
+      "bytes": 11894
+    },
+    {
+      "name": "p02",
+      "sha256": "622178a5828faa67db9aa719e23348cc297f44807ffd27201c4b3077ce197bb9",
+      "bytes": 12708
+    },
+    {
+      "name": "p03",
+      "sha256": "ee17184234deea2bfeddad56275e066ec80b5be17e8b6acf26d005afd7bab5d8",
+      "bytes": 12568
+    },
+    {
+      "name": "p04",
+      "sha256": "09ce550e1f435aa7beb4f0090bb2d3106492296c3cd07abb8bdac2d85a39509c",
+      "bytes": 12768
+    },
+    {
+      "name": "p05",
+      "sha256": "16bdcc6bdacb3d187b405c2b15f1724a844fc4153ae7af2a902e9f530ecb6fdc",
+      "bytes": 12488
+    },
+    {
+      "name": "p06",
+      "sha256": "997c568d588820356783a1025a1bb474444ac4118dcfd43df22796a364ca21c9",
+      "bytes": 11660
+    },
+    {
+      "name": "p07",
+      "sha256": "d6687694dc4782a050b3fdbfe5e666818e2fffe0d8042f91f30cd53402649348",
+      "bytes": 12448
+    },
+    {
+      "name": "p08",
+      "sha256": "3abbb57e345de336e16736e0923b3e2f9bcbe78a0a66be5089c810f03e05ee9d",
+      "bytes": 13994
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

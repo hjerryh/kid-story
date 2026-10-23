@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0443",
+  "title": "小门后面留给你",
+  "version": 1,
+  "bodyCharacters": 539,
+  "pages": 8,
+  "duration": 170.818,
+  "bodySha256": "ac6fd512c505465bfcc9940cf07c8f385a0a5d87b716fef8b41a97044d7f48b1",
+  "audioSha256": "db1d8aba9950500a777ed7ef682e41c83685a6a643d81a4f9922c1ae261d186a",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5c8f798113133f080a67ea4f4674545dae994d444ceff10625ea6a38a87159c9",
+      "bytes": 12452
+    },
+    {
+      "name": "p01",
+      "sha256": "949b3ac89fbe038ecba6169404ab99d431b83239a18ca402744c8d9ec521d115",
+      "bytes": 9778
+    },
+    {
+      "name": "p02",
+      "sha256": "6fa71f8adaa8fc0771e517ba4bdbaa14f63d5803fbe31cfe452d083da8da4984",
+      "bytes": 9436
+    },
+    {
+      "name": "p03",
+      "sha256": "d413825d68695565260468e0f3d94bced9d637f1cdedd1065c5eeb0847ad4b84",
+      "bytes": 9050
+    },
+    {
+      "name": "p04",
+      "sha256": "29dee8a519cb9309e10114145e621b8b416c776a0cd72a75821a6ad4ec115264",
+      "bytes": 11196
+    },
+    {
+      "name": "p05",
+      "sha256": "62c338a8c6896d3d781a6f276dcb0f1f42cc0f5b84b7bf1d57b745e5744e1771",
+      "bytes": 10216
+    },
+    {
+      "name": "p06",
+      "sha256": "1a0e88f7cb4f9c5506c5e62029ecf7738763eb8c0512ef8a90dc7377a72026f9",
+      "bytes": 7958
+    },
+    {
+      "name": "p07",
+      "sha256": "df7f8b624f1187f629d3b739fd8025b98aef45828e463cd6d856a0fa23fdb643",
+      "bytes": 9930
+    },
+    {
+      "name": "p08",
+      "sha256": "31394d9bd480bcca1ce3a4d535748e2f8e66ce488a6d0d981c688d50f96c1f7b",
+      "bytes": 8592
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

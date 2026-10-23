@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0429",
+  "title": "门上开出了窝堡",
+  "version": 1,
+  "bodyCharacters": 1013,
+  "pages": 12,
+  "duration": 299.754,
+  "bodySha256": "6641ee8485e5e61709e0f0196ff2a3f44b09fae7bbf528dbb29d28d2967a5c68",
+  "audioSha256": "b69f570b8721e6d6aabd57bb98e49b36d1914ff73c6e83a2aed47a06ecca846b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "c30e903f619344cfbe016bece382e14d4f6fe1c4e993d06a2a2f2ab0571fd0af",
+      "bytes": 13384
+    },
+    {
+      "name": "p01",
+      "sha256": "9ac1562dbd8c7bd01fe1b7713f74c4b7c93bd115d3bfaecb18d3d14b40b808f4",
+      "bytes": 9454
+    },
+    {
+      "name": "p02",
+      "sha256": "9abe02af2fcd0d876444d0a74019971caf93ebb3a6cec60dcabd8db353a91a63",
+      "bytes": 10098
+    },
+    {
+      "name": "p03",
+      "sha256": "bac1068a5993b0bb68757f707feb60e2a375ab9ae4df7306975c139a3d590b14",
+      "bytes": 10054
+    },
+    {
+      "name": "p04",
+      "sha256": "b3fef550b1ec55b1b497bed4dc3836db6f3e6e4b47923e9144f2b6f4ca1fd33a",
+      "bytes": 9766
+    },
+    {
+      "name": "p05",
+      "sha256": "592909bbbbcf9404e4c22e12d7787f0e3f9a44e57e9b8067a068a7f6944dbf9f",
+      "bytes": 9450
+    },
+    {
+      "name": "p06",
+      "sha256": "3839f0daa49147d15f7871967c5d85bd6361229b9c5acdf90779d9c75e62b820",
+      "bytes": 9546
+    },
+    {
+      "name": "p07",
+      "sha256": "6a1d29c9b9fe9258372ad7c1add4a71a322135a26d1e341b4cda3ce887f7630f",
+      "bytes": 9584
+    },
+    {
+      "name": "p08",
+      "sha256": "77982b72dd9cd4146c7daf529ec29b0427dbd6db239c7170394c9bcff25ec723",
+      "bytes": 8902
+    },
+    {
+      "name": "p09",
+      "sha256": "4ed8bca41e64bfa5673ac34d0890517b7fd35be0f6bfb93c54916e5dbe9d99c9",
+      "bytes": 9580
+    },
+    {
+      "name": "p10",
+      "sha256": "b81181614b5587bcf890950d83ece2973a4a8b78ae72edecbc9b96f27a8d7dfd",
+      "bytes": 9876
+    },
+    {
+      "name": "p11",
+      "sha256": "5d32c126e3b65b91a75d594648d6155038684b2fe7ad5cad3b2e5d5c5e4f9acc",
+      "bytes": 11150
+    },
+    {
+      "name": "p12",
+      "sha256": "69505460133bab9e2b6c1cfb437a1198df67e0536df8ecb345b8b7dd486b6e60",
+      "bytes": 10910
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

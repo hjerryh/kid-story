@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0417",
+  "title": "小鼓歇了一个猫觉",
+  "version": 1,
+  "bodyCharacters": 926,
+  "pages": 12,
+  "duration": 280.002,
+  "bodySha256": "cf4e33291f5517f98527429efe11d2c6b8ea40a393075ed3a26e2719c04e4aa0",
+  "audioSha256": "7c790b6c0303a1aacf36a15b2fa1626c31be078786f7f63dfd67050a28706307",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "b92f2cd5322ee869a23eeeb7758cb4c4c8e71c5b24c74883be10f3a9ff2c0e02",
+      "bytes": 17972
+    },
+    {
+      "name": "p01",
+      "sha256": "64205ff11fe4c2589fede46b278edee03920c7557de90777a46e73d4f05d73ec",
+      "bytes": 14650
+    },
+    {
+      "name": "p02",
+      "sha256": "2fd790491afcb68b7532ea858b6a211ee69afbe4e28f231dd9d0ae7a2c5c0ef2",
+      "bytes": 12096
+    },
+    {
+      "name": "p03",
+      "sha256": "ad0973ec746023b05a7713db511f5153069c380cddcc629d9081ce06910b9bf8",
+      "bytes": 14420
+    },
+    {
+      "name": "p04",
+      "sha256": "58c2e1e5c6aae4dec4f794a4ab713b0558a168c84f78d8113525624246879bab",
+      "bytes": 12480
+    },
+    {
+      "name": "p05",
+      "sha256": "2f388c9ed7e1b1201e3870877f040b3021ad9d85a2385b79433e3da1a4859f1b",
+      "bytes": 12902
+    },
+    {
+      "name": "p06",
+      "sha256": "0b07a58485f825830c194ef0f566e1ae43c882dd66f18f946ff7d0033ad36487",
+      "bytes": 14068
+    },
+    {
+      "name": "p07",
+      "sha256": "c1e125f44ffe598022d609971ca83f7f3f5460fe4ff1f4d2253fea104a6a46d9",
+      "bytes": 13936
+    },
+    {
+      "name": "p08",
+      "sha256": "c691a80815af466febfc3bc9a98e0d241367cd6cc793b97d33be354509dd779b",
+      "bytes": 13930
+    },
+    {
+      "name": "p09",
+      "sha256": "6cd30c6666ab04140fca94f30db48e2cdff168518ab36caf4d1c403f442ec8ad",
+      "bytes": 12174
+    },
+    {
+      "name": "p10",
+      "sha256": "e8079491a17f14b4ab60ee42859906bc28cff8fd8c3c21e3c52c3655729f72e3",
+      "bytes": 13336
+    },
+    {
+      "name": "p11",
+      "sha256": "096c37a0a1b3b4e3b19debee26c468f7fb2a5cc474a83e16dc933fc087f48d77",
+      "bytes": 15736
+    },
+    {
+      "name": "p12",
+      "sha256": "249e563ce043048ed6c8ffc440b18c2051b6eb728c9623d0d569c4ab519936eb",
+      "bytes": 14928
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

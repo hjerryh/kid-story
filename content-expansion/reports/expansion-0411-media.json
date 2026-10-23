@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0411",
+  "title": "阿垒的窗顶先搭好",
+  "version": 1,
+  "bodyCharacters": 506,
+  "pages": 8,
+  "duration": 163.018,
+  "bodySha256": "b22c3d4cb0c746e5d1b5467a75e41bf989bfab1a69c514d144b0cb29489c4412",
+  "audioSha256": "714e5e39d2c825d66ab5f0c786f1dfa342a0d2cd025f54bf3a39c6a2467bf543",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "c63ad5fd1fdb678f7eb1700412a48ec54d67518613a12c0ef1c29b02cb0c3fa2",
+      "bytes": 14918
+    },
+    {
+      "name": "p01",
+      "sha256": "0fa1cd90950e8a29839393ca343f59c608d6553582dc47a28f8e1732175032de",
+      "bytes": 12458
+    },
+    {
+      "name": "p02",
+      "sha256": "37237adaf16e45b35b1c45930ec5683d3e5b0a79050609d394c8fdf87ae9d1d5",
+      "bytes": 11240
+    },
+    {
+      "name": "p03",
+      "sha256": "1be67bcabd66d997d304191eb45b1d14b9cf0959b69c8a834d06694f43e2f49d",
+      "bytes": 11924
+    },
+    {
+      "name": "p04",
+      "sha256": "b5240b3c9d7bbd819cd0cba89627fd139eb87574557333876f74a8e569a6a535",
+      "bytes": 12812
+    },
+    {
+      "name": "p05",
+      "sha256": "611edb4b265da704bbbd9f880b406bfaf7c1eb10f610d0fa305f6b0772c20e58",
+      "bytes": 12060
+    },
+    {
+      "name": "p06",
+      "sha256": "b89e98854abf2b486438ede78d1f24a0c3ef39f79462bbc4f56b66f0f234325b",
+      "bytes": 12100
+    },
+    {
+      "name": "p07",
+      "sha256": "f7223251d8cd226e0d185c123531bc4f328e9edcbd35b0c217419dd9894e0713",
+      "bytes": 12938
+    },
+    {
+      "name": "p08",
+      "sha256": "025122550991caadc9e5a7cc2655ecd7391ada54dcee956e72c2ac8ac49be6d9",
+      "bytes": 12384
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

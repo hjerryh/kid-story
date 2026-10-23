@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0415",
+  "title": "石蛋的床搬到草上",
+  "version": 1,
+  "bodyCharacters": 512,
+  "pages": 8,
+  "duration": 166.546,
+  "bodySha256": "8935f9ff6f2fbc15371ef05cffcf84038ec2a1f02f674dcc03ceda9714488673",
+  "audioSha256": "4aed6b858c0eee53a0b84d175cfbb620f81c62f29c06e424221cff2edf1fb432",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "3f263251feb50f03077a53a530540ac4b640ec9a2babbd5bd252c957f92f872c",
+      "bytes": 10032
+    },
+    {
+      "name": "p01",
+      "sha256": "dd8bdf94c7ac2080a69711e36b3cf8ec3c0bc600c6d3ccc4a7ad1c8a069f550e",
+      "bytes": 7570
+    },
+    {
+      "name": "p02",
+      "sha256": "91b159ec9cf80d5e0176421018c6ed171d3ee10b214113d5b9db06c35c2b619e",
+      "bytes": 8196
+    },
+    {
+      "name": "p03",
+      "sha256": "6a35959739bbade11d55a5526b44548105b230d2c5e223c7f1dc72ccc05db8dd",
+      "bytes": 7506
+    },
+    {
+      "name": "p04",
+      "sha256": "9d13ee94996d6af7bbdea3204105edb35ac066f42c710afa7d78e4b91fa85b5c",
+      "bytes": 8404
+    },
+    {
+      "name": "p05",
+      "sha256": "13c48b976a4eb2ae0a1861378fb97a86d174d35c061ab130a619bf7019228afd",
+      "bytes": 7490
+    },
+    {
+      "name": "p06",
+      "sha256": "0c240bb83f3c261a1cf3103a39e30251c6d94bec261c8abd38af37329c2ad466",
+      "bytes": 7602
+    },
+    {
+      "name": "p07",
+      "sha256": "8442e3b52eefa75501d1d4066a4bd334a88d0cce4fd0d41b00f205e14d1247b1",
+      "bytes": 7876
+    },
+    {
+      "name": "p08",
+      "sha256": "f18f82ee8da046eba04db378e5f4a74bd260f894420c56050ec54aada6db75e3",
+      "bytes": 7660
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

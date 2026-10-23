@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0445",
+  "title": "果酱睡在面包中间",
+  "version": 1,
+  "bodyCharacters": 487,
+  "pages": 8,
+  "duration": 155.866,
+  "bodySha256": "aae52cd4af0a390fa5df0a34a093d3b6511398792faa52ea124b77eaf4dce695",
+  "audioSha256": "97c07e35b0754a86d9929051ee0f3e8de04a946d3e1d3f53fc951eb1e6ca60d8",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "87b3e0394648762f167671dbf753641bc6077c025a725219a29fe51fd918973f",
+      "bytes": 14128
+    },
+    {
+      "name": "p01",
+      "sha256": "8dd0b47d287419107bd4f7391a45ff82a18589ab288488603a9727fdb696ec84",
+      "bytes": 11542
+    },
+    {
+      "name": "p02",
+      "sha256": "609d9434dacf8d76fd5606ae2fbf4f7d9580d5bc6af57d1fef403e8f07cd2d63",
+      "bytes": 12298
+    },
+    {
+      "name": "p03",
+      "sha256": "e7d316a3b629df7ef324f94ae6d9fea46d22db5b530b56c8020dd25e379c5c07",
+      "bytes": 12116
+    },
+    {
+      "name": "p04",
+      "sha256": "208992d309915fdc2a6ad1b3a3bbb0ecd48238ef75d57a827820779cca5b304d",
+      "bytes": 12718
+    },
+    {
+      "name": "p05",
+      "sha256": "23a2d84952521d31aa2467afc763db243bac34ede72279846f06a2a6fdb79b8e",
+      "bytes": 12766
+    },
+    {
+      "name": "p06",
+      "sha256": "4bf8ff7b079c4039b04ae13cd12a21c155abad5f508de205c5a909537514451f",
+      "bytes": 12504
+    },
+    {
+      "name": "p07",
+      "sha256": "a05184b5652614f780b51be641c3e537410b693466de7fda060de4b617794d47",
+      "bytes": 10580
+    },
+    {
+      "name": "p08",
+      "sha256": "dbd27f551b419fd2a86d453703507cdcff33f2cc65bbfa1d53ad0bb63788c94b",
+      "bytes": 17852
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

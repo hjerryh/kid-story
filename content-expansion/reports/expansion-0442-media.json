@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0442",
+  "title": "葵葵让出半扇窗",
+  "version": 1,
+  "bodyCharacters": 517,
+  "pages": 8,
+  "duration": 168.25,
+  "bodySha256": "414da29db6309ff0c116afa4bbe0574ef8572f90cd9d2c7bdbab5f33ac379908",
+  "audioSha256": "52d2a7427c48f490567ce9158998eccce1e5848837da279b0aaa3e9b8a97f961",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "f1b73ee1a238bf71635e82138a779ebe2111da1cf07e542c10cb3d4a42d24ffd",
+      "bytes": 13544
+    },
+    {
+      "name": "p01",
+      "sha256": "350b7b42051c1e6039022cc23831ee8c8c7ae7400b2e3da13babe4682308b94f",
+      "bytes": 11424
+    },
+    {
+      "name": "p02",
+      "sha256": "29f067d11d1d19110fa84b0b97a7eab47ac302d3eb46d36b8cc8befcd4046790",
+      "bytes": 10610
+    },
+    {
+      "name": "p03",
+      "sha256": "9bed273614d8411f271a07bc03ef2de9012ba195504be8b72a91c57e97a51183",
+      "bytes": 11294
+    },
+    {
+      "name": "p04",
+      "sha256": "4d367fe1a408d8fa4cf77e8ff3277e934da61b62fa7f4514e0d5fff18fd2aa84",
+      "bytes": 10884
+    },
+    {
+      "name": "p05",
+      "sha256": "672924d56e7f6c3f4f2dbcdc0aee8cccd7ae5ffb6e492bb78205cf12cf400c6a",
+      "bytes": 10884
+    },
+    {
+      "name": "p06",
+      "sha256": "125635fec8dcb47c114c339494594a76bde33613f677fd8f9b79234c50168354",
+      "bytes": 11562
+    },
+    {
+      "name": "p07",
+      "sha256": "03e50999a277e6bf8beb5fa3056d56124b9862b38a4bcfe95e0b1743e7242ce6",
+      "bytes": 11604
+    },
+    {
+      "name": "p08",
+      "sha256": "267003d49907fff65569e1351c40804ee36d5cc02299c93609326ab19cb18928",
+      "bytes": 11194
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

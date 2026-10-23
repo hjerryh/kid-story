@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0411",
+  "version": 1,
+  "status": "media-ready",
+  "title": "阿垒的窗顶先搭好",
+  "subtitle": "沙堡的小窗",
+  "description": "沙堡阿垒听得见海，却看不见海。穗粒想替他开一扇窗，可沙子总往洞里落。停下来看看以后，她发现，窗子也许可以换个顺序来造。",
+  "ageBand": "3-5",
+  "theme": "观察与尝试",
+  "color": "#D6B883",
+  "character": "小沙鼠穗粒：浅褐色绒毛，圆耳朵，穿湖蓝色短背带裤，戴米白色遮阳帽。沙堡阿垒：湿沙堆成的矮圆城堡，正面敞着大门，门柱内侧有两颗会转动的白石子眼睛，门沿下方有低低的弧形嘴巴，背面朝海。",
+  "cover": "/library/stories/expansion-0411/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 163.018,
+  "detailUrl": "/library/stories/expansion-0411/v1/story.json",
+  "audio": "/library/stories/expansion-0411/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "浅滩旁，穗粒堆好了一座敞着大门的沙堡。她在门柱内侧安上两颗白石子眼睛，眼睛转向背后的墙，沙堡就开口了：“我叫阿垒。海一直哗啦哗啦，可我背后的墙挡住了它。”穗粒摸摸沙墙：“我给你开扇窗。”",
+      "image": "/library/stories/expansion-0411/v1/p01.webp",
+      "start": 0,
+      "end": 24.182
+    },
+    {
+      "id": "p02",
+      "text": "穗粒用一根手指轻轻挖。小洞透亮了，一点蓝色露出来。阿垒刚说“真蓝”，洞顶的沙就簌簌落下，把蓝色盖住了。“有点痒。”阿垒笑着说。穗粒赶紧收回手。",
+      "image": "/library/stories/expansion-0411/v1/p02.webp",
+      "start": 24.182,
+      "end": 44.068
+    },
+    {
+      "id": "p03",
+      "text": "“也许窗子太小啦。”穗粒拿来小木铲，把洞挖宽。可是，上面的沙掉得更多了。她抿起嘴巴，铲子停在半空。阿垒轻轻问：“海是不是又藏起来了？”穗粒点点头。",
+      "image": "/library/stories/expansion-0411/v1/p03.webp",
+      "start": 44.068,
+      "end": 64.386
+    },
+    {
+      "id": "p04",
+      "text": "穗粒坐下来，听了一会儿海。沙桶口横着一块捡来的宽木片，上面撒着她刚才铲出的沙。咦，沙没有掉进桶里。她伸手碰了碰木片，它稳稳搭在桶口两边。",
+      "image": "/library/stories/expansion-0411/v1/p04.webp",
+      "start": 64.386,
+      "end": 83.312
+    },
+    {
+      "id": "p05",
+      "text": "穗粒看看木片，又看看被堵住的窗。“我知道啦，沙子需要一个托住它的窗顶！”她没有继续掏洞，而是告诉阿垒：“我要先拆低这一小段墙，再把窗子造起来。”",
+      "image": "/library/stories/expansion-0411/v1/p05.webp",
+      "start": 83.312,
+      "end": 101.038
+    },
+    {
+      "id": "p06",
+      "text": "她慢慢铲去洞顶的沙，留下两边厚厚的墙。木片一头搭左边，一头搭右边，中间空出小窗口。穗粒轻轻推一下，木片没有滑动。她这才往木片上铺一层薄薄的湿沙。",
+      "image": "/library/stories/expansion-0411/v1/p06.webp",
+      "start": 101.038,
+      "end": 121.116
+    },
+    {
+      "id": "p07",
+      "text": "这回，小窗一直亮着。穗粒把铲子放下，等了又等，一粒沙也没落下来。“我看见啦！”阿垒说，“蓝色上面，还有白白的小卷边！”那是远处的浪花，正一朵接一朵地开。",
+      "image": "/library/stories/expansion-0411/v1/p07.webp",
+      "start": 121.116,
+      "end": 141.05
+    },
+    {
+      "id": "p08",
+      "text": "穗粒趴到沙堡前面，也从小窗看海。风穿过窗洞，凉凉地挠了挠她的鼻尖。“你的窗子好舒服。”她说。阿垒把嘴角弯起来：“你来看吧，我给你留着。”他们一起听着哗啦，哗啦。",
+      "image": "/library/stories/expansion-0411/v1/p08.webp",
+      "start": 141.05,
+      "end": 163.018
+    }
+  ],
+  "buildHash": "211dd94c4261d325a4ee1ffde8a8e3de5c754e891029c4633eaefc7fb8804cc0"
+}

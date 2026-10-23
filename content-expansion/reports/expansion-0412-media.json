@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0412",
+  "title": "阿方藏成一条船",
+  "version": 1,
+  "bodyCharacters": 470,
+  "pages": 8,
+  "duration": 152.194,
+  "bodySha256": "c9c6ee4dd6809043a7388ec9bfaa0dc23fdf9f1723271f6b2a30ca0e82837ffd",
+  "audioSha256": "2ae9f9116c288f7b791ef0480f4ccbbcc900f3d13beba2356baaaa447b7da9a2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "e09a80306ce621855b034aee2bc9e55594355a37cb1bc8aad73eadf64948d9a8",
+      "bytes": 15762
+    },
+    {
+      "name": "p01",
+      "sha256": "7c67ee73a46d445e6d6b3fd1a4e7190fa841dff6924297e44b0d0c146a1b4f87",
+      "bytes": 11900
+    },
+    {
+      "name": "p02",
+      "sha256": "0a17220ca2aa36be003ef240bdd8e899da1a60f734724752b8ecc73b388d026b",
+      "bytes": 11472
+    },
+    {
+      "name": "p03",
+      "sha256": "63144a5f36bd9503f3aab48ddc25b5445440d717476a5b272ece3ea359f55ea2",
+      "bytes": 11988
+    },
+    {
+      "name": "p04",
+      "sha256": "7165d1f28be3afa8dc59af3264af06d3656d4af1c858e95042fc87fdcaca2fc2",
+      "bytes": 12106
+    },
+    {
+      "name": "p05",
+      "sha256": "dcc5ed69d7698de4b2c2c87b0a3dfd131c5b063e23a60a43736da6ced9b0377f",
+      "bytes": 12408
+    },
+    {
+      "name": "p06",
+      "sha256": "e9ac8d74f91e75b5b46b0124266f91f471e54afa1cc0d7731bd25af79f120b94",
+      "bytes": 11392
+    },
+    {
+      "name": "p07",
+      "sha256": "1c9e2db281bb23c322039bb0a6d8fef2f4fe8d750c6f09c464db60ae46b310f8",
+      "bytes": 13936
+    },
+    {
+      "name": "p08",
+      "sha256": "a799ccfb666bdda4d725b5fdea12ad934760c310a4171614014a2172a49ef369",
+      "bytes": 13818
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

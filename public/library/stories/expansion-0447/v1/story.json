@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0447",
+  "version": 1,
+  "status": "media-ready",
+  "title": "花香从手帕里出来",
+  "subtitle": "带一点橘花香回家",
+  "description": "橘绒想把橘子温室里的花香带回枕边，又舍不得摘下枝头的花。她捡来落花，可花瓣总从小网袋里漏出去。怎样才能带走一点香，也让树上的花好好留下？",
+  "ageBand": "3-5",
+  "theme": "珍惜花木",
+  "color": "#F2B85B",
+  "character": "小田鼠橘绒：浅棕色绒毛，圆耳朵，奶白色嘴巴，穿淡绿色背带裙，随身带一条白色小手帕。橘树婆婆：深绿叶子，树干上有温柔的眼睛和弯弯的嘴，枝头开着白色橘花。",
+  "cover": "/library/stories/expansion-0447/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 164.434,
+  "detailUrl": "/library/stories/expansion-0447/v1/story.json",
+  "audio": "/library/stories/expansion-0447/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "橘绒走进橘子温室，鼻尖立刻甜甜的。橘树婆婆开花了，白花躲在绿叶间，像许多小星星。橘绒摸摸自己的小网袋，说：“我想带一点花香回家，陪我的小枕头睡觉。”",
+      "image": "/library/stories/expansion-0447/v1/p01.webp",
+      "start": 0,
+      "end": 19.286
+    },
+    {
+      "id": "p02",
+      "text": "一朵花正好挨着橘绒的耳朵。她伸出小爪，又收了回来。“你还在开呢。”橘树婆婆轻轻点头：“有些花以后会结橘子。”这时，一片白花瓣飘下来，停在橘绒的裙边。",
+      "image": "/library/stories/expansion-0447/v1/p02.webp",
+      "start": 19.286,
+      "end": 39.22
+    },
+    {
+      "id": "p03",
+      "text": "橘绒闻闻花瓣，香味还在！红砖上也落着几朵干净的小花。“这些可以带走吗？”“可以呀。”婆婆说。橘绒只捡了一小撮，放进网袋。袋子轻轻的，她的脚步也轻轻的。",
+      "image": "/library/stories/expansion-0447/v1/p03.webp",
+      "start": 39.22,
+      "end": 60.21
+    },
+    {
+      "id": "p04",
+      "text": "可是，走了几步，身后就多了几个白点。花瓣从网眼里钻出来了！橘绒把袋口捏紧，下面还是漏。她倒过来拿，花瓣又从旁边溜走。“哎呀，你们比我的小脚趾还细呢。”",
+      "image": "/library/stories/expansion-0447/v1/p04.webp",
+      "start": 60.21,
+      "end": 80.192
+    },
+    {
+      "id": "p05",
+      "text": "橘绒坐回树下，掏出手帕，把剩下的花接在上面。花瓣终于不跑了。她把手帕角轻轻盖过去，凑近鼻子。咦，花看不见了，香味却还闻得到，像躲在被窝里的小小笑声。",
+      "image": "/library/stories/expansion-0447/v1/p05.webp",
+      "start": 80.192,
+      "end": 100.534
+    },
+    {
+      "id": "p06",
+      "text": "她把手帕四个角拢起来，松松打个结，再放进网袋。提一提，晃一晃，没有白点掉下来。橘绒沿着刚才的小路，把漏掉的花瓣一片片捡回来，解开手帕放进去，再重新包好。小花包鼓了一点，仍然软软的。",
+      "image": "/library/stories/expansion-0447/v1/p06.webp",
+      "start": 100.534,
+      "end": 124.5
+    },
+    {
+      "id": "p07",
+      "text": "临走时，橘绒举起花包：“我带走这么一点就够啦。”橘树婆婆摇摇叶子，树上的花还好好开着。“香味会慢慢淡下去哦。”“那我就再来看你。”橘绒说，“也看看小橘子。”",
+      "image": "/library/stories/expansion-0447/v1/p07.webp",
+      "start": 124.5,
+      "end": 143.906
+    },
+    {
+      "id": "p08",
+      "text": "晚上，花包放在床头，橘绒钻进被窝。她往左闻闻，又往右闻闻，枕头边都有一点清香。“你也闻到了吧？”她轻轻拍拍枕头。窗外月亮圆圆的，像一颗还没有变黄的橘子。",
+      "image": "/library/stories/expansion-0447/v1/p08.webp",
+      "start": 143.906,
+      "end": 164.434
+    }
+  ],
+  "buildHash": "456bbbe90ff56ca9c41795f040c861349f28bb9ef77bab82a7a086027ced1e68"
+}

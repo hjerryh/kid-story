@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0405",
+  "title": "泡泡圈的小肚子",
+  "version": 1,
+  "bodyCharacters": 555,
+  "pages": 8,
+  "duration": 177.778,
+  "bodySha256": "352a0c7f7ce8026bcf7b32834ef9bf1e95c77df235334dfdd7ce6d0c7f4628b4",
+  "audioSha256": "5bb9cb26c1390143a6e64a7b3abc877d3c8f13a82c57d1286fe10f121659f2aa",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "1e13a8a2d82e3311b6e059fe73ded3d0c0e1063f9bfc601c9b543d033cddaef7",
+      "bytes": 12568
+    },
+    {
+      "name": "p01",
+      "sha256": "7ddb44b6dbe5e7027363b6d42e6e06a63fd065a610fe56c488a38908cc341975",
+      "bytes": 9674
+    },
+    {
+      "name": "p02",
+      "sha256": "a07078b93a30539852aa2ffdecaad85fc31a8d0ba26c7c2244fd649acfeb205f",
+      "bytes": 9882
+    },
+    {
+      "name": "p03",
+      "sha256": "2e0db218922ab37f08579765a68e6909db9e15de3173191a6dece24c3604ae72",
+      "bytes": 10060
+    },
+    {
+      "name": "p04",
+      "sha256": "51eea2b7b1a1c83e2123256b47f2274a5761f924c7ea77815bba8fdbb2756c2b",
+      "bytes": 10306
+    },
+    {
+      "name": "p05",
+      "sha256": "df2a845edf25fe9c4afaf93e26ae41bd8431974608a71cd55cc42bed9d572418",
+      "bytes": 9570
+    },
+    {
+      "name": "p06",
+      "sha256": "6c9c81568a20867fd2f81ebf94021c79be58e613a2276e6d1a146974e72dfe09",
+      "bytes": 10586
+    },
+    {
+      "name": "p07",
+      "sha256": "902a6ca3c6050bc72ad7885c9ce71877c766ddcfebe5c2fe3a15a46a21c6c41c",
+      "bytes": 9980
+    },
+    {
+      "name": "p08",
+      "sha256": "38a3c011adac9b41ddd0c96b928e2eba931a8e04b01eb7a186bac167530482ac",
+      "bytes": 9644
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

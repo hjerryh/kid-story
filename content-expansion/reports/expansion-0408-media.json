@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0408",
+  "title": "阿穗肚皮沙沙响",
+  "version": 1,
+  "bodyCharacters": 523,
+  "pages": 8,
+  "duration": 170.794,
+  "bodySha256": "d463264aa6ecca9e66052c893c833b6a1fb1ea5e34e13995dc470be183166c99",
+  "audioSha256": "0854978808d829d5562275e3a81db6952ad7b29349ea96107620791a3f537ea0",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "866a67f2e3737213b08ecdcd7ae8d81a8ebfa16dc2859e7cee439c65a62d1710",
+      "bytes": 13706
+    },
+    {
+      "name": "p01",
+      "sha256": "641df6d2324d9fb6a41be3059e5202c47ed6ff7adc39ccde94f0a40087dc646e",
+      "bytes": 7970
+    },
+    {
+      "name": "p02",
+      "sha256": "03ed73fe97f57baa6981391a036f6cf8adf1ae23033de82a7e1370a38b6bdf63",
+      "bytes": 9344
+    },
+    {
+      "name": "p03",
+      "sha256": "66f37d312e314c5642376d05f33e847eeb44aee31b338d37d19301503989f54e",
+      "bytes": 9936
+    },
+    {
+      "name": "p04",
+      "sha256": "b63cbcb5734101f2009e0d2eec21f2200d78529906e9492b9db2e9e114d2b533",
+      "bytes": 9288
+    },
+    {
+      "name": "p05",
+      "sha256": "7d3a43721b6ea311e8d4bd7b4cf2886bdfeb88a60ac2155f6bde243a73bd2aab",
+      "bytes": 10214
+    },
+    {
+      "name": "p06",
+      "sha256": "f539320d0bd8aa942517c126d99d4c48890b97d324702bbce9373c8e8671db4e",
+      "bytes": 11346
+    },
+    {
+      "name": "p07",
+      "sha256": "0977b1ab8881222c628ab722366f294a3f8ec7fff6fe747fdab6eaaa98a6e8bd",
+      "bytes": 10724
+    },
+    {
+      "name": "p08",
+      "sha256": "b082e857bc16d253e8bf1591c786bf32dfc5b1b14043771de21d3d4648918e01",
+      "bytes": 10632
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}
