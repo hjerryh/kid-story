@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0469",
+  "title": "桥上的笑话用完了",
+  "version": 1,
+  "bodyCharacters": 921,
+  "pages": 12,
+  "duration": 283.674,
+  "bodySha256": "0c8f78011449e4b4b388e0d1ef1fb70707383e4a52e6d42e9837af690b549068",
+  "audioSha256": "d2f3cd437127f71883373130cb66c18b46f3a21c97df43171b883febd402868f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "07d69d35da83f80651c8f2c3d535580a7e4488fe0aa3452aed07581e1a3f7c02",
+      "bytes": 17616
+    },
+    {
+      "name": "p01",
+      "sha256": "ef7fa73de0649a748aa02f871e2998694a0d093f36126948ab436ff8b44902ce",
+      "bytes": 15974
+    },
+    {
+      "name": "p02",
+      "sha256": "e49fa1ce7a20db1a190857a630cd89ff2162f484aed515fc57dce8a88c396ea5",
+      "bytes": 14476
+    },
+    {
+      "name": "p03",
+      "sha256": "19c62d099cf56cf1791cd4c3278fa0a7f57fe0217292d37949b158bfce459063",
+      "bytes": 15014
+    },
+    {
+      "name": "p04",
+      "sha256": "68e3976cf85a5eb08236eb1af599a5511d6a7c44b70b81dfdf835962c650b1f3",
+      "bytes": 14214
+    },
+    {
+      "name": "p05",
+      "sha256": "107ba478bc8c2868e5597ecf80d2e5dcd121616ad2a4f01af0eb739bf44ea6b3",
+      "bytes": 14488
+    },
+    {
+      "name": "p06",
+      "sha256": "e944501bacfb851412c3dfbc1e40da9e9fe9c94920a09b62654dc3a2027ffe78",
+      "bytes": 15344
+    },
+    {
+      "name": "p07",
+      "sha256": "32c84a80f433a2038d5ef76c91b98fa312dc1095d17070ae760140df3f184256",
+      "bytes": 15248
+    },
+    {
+      "name": "p08",
+      "sha256": "cf9d1b146701ffe198afceb004bdf310f6fac2048e207930e997989fd0b9f5a4",
+      "bytes": 15568
+    },
+    {
+      "name": "p09",
+      "sha256": "d9ce3030017fb5496a8f0da65822157418f6da5adda84a654d5073c806023807",
+      "bytes": 14814
+    },
+    {
+      "name": "p10",
+      "sha256": "a2c674a922cd8fdb2e4c6e4ce711e0c3bb3486c2a7f264e823a2fba6c4af66ca",
+      "bytes": 14424
+    },
+    {
+      "name": "p11",
+      "sha256": "e4b0805d07f3b44a511f9d86124e97587376f74339ca422f59c03ec213a60c72",
+      "bytes": 14996
+    },
+    {
+      "name": "p12",
+      "sha256": "8d6b4bc2962a1e7de9622a7966965792abdaacafdb186fca22ddf0189f492788",
+      "bytes": 13846
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

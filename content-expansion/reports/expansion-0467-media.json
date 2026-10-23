@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0467",
+  "title": "信箱扣上了泥纽扣",
+  "version": 1,
+  "bodyCharacters": 1039,
+  "pages": 12,
+  "duration": 308.946,
+  "bodySha256": "2463862567cc1f3872c559494e9db093f755d105ae0db94fb55ee3f6c1d1ee60",
+  "audioSha256": "4a306cbb28ad0f4a985a7de928c651532db3451ad995e00fd030349de009a8f2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "31cc77d5fe4e9ab8ba47155a58e3df434c6987349fac174060ef2d29a8d3e4ab",
+      "bytes": 16846
+    },
+    {
+      "name": "p01",
+      "sha256": "070b8affd629fbcc2e97c90408462b20107467a65d283d90ae3217b9c58e3737",
+      "bytes": 11752
+    },
+    {
+      "name": "p02",
+      "sha256": "be6c0f6e1771947a16e05899d19f22447274516ca96f43bcba240fc10bf8e9de",
+      "bytes": 11776
+    },
+    {
+      "name": "p03",
+      "sha256": "cc34c2a099b257c58bbd4f3cec7f3fccbf48502fcc9c7729d0e5f9a1a9a528db",
+      "bytes": 11520
+    },
+    {
+      "name": "p04",
+      "sha256": "ed3c819947d5747f7179e99b65af9bb08cc0cd4d819371bf4675e97b9f570000",
+      "bytes": 12234
+    },
+    {
+      "name": "p05",
+      "sha256": "2697f56504b56ef71389c773a008740b103a2cc8ecaf9c829d12b5e6f37f4370",
+      "bytes": 13374
+    },
+    {
+      "name": "p06",
+      "sha256": "519d0cee4350847de9fd66a8c91aa11866311e48ff8f6fe3bdd678e7330144a8",
+      "bytes": 12696
+    },
+    {
+      "name": "p07",
+      "sha256": "d1cf346c21e1f38585222251302bc12177b30011c38bc21f582166660d66ce32",
+      "bytes": 11342
+    },
+    {
+      "name": "p08",
+      "sha256": "b361baabb6b32863268cc27c8c393c294c3e260fb4f838bf1bdb530cf3338a40",
+      "bytes": 8512
+    },
+    {
+      "name": "p09",
+      "sha256": "c2583224f1c303c1303c44f77c7862981039321997a1d7e571bac5ac896f6374",
+      "bytes": 13424
+    },
+    {
+      "name": "p10",
+      "sha256": "f1f9d617d0815e14d21f19e85c6acb1a7e2368dbe1cd570c7f5c40bfada3d663",
+      "bytes": 13578
+    },
+    {
+      "name": "p11",
+      "sha256": "e4df7a8c9722f38b12ec951e89dbee77981436a1272e5c37163c94de8d1d39d2",
+      "bytes": 13402
+    },
+    {
+      "name": "p12",
+      "sha256": "95471ba44a8aae9481401911bc9af07af733aabb2e62d61e5d5eadcbb56aaa74",
+      "bytes": 12790
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

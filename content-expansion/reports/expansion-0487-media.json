@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0487",
+  "title": "米糕换了小碟子",
+  "version": 1,
+  "bodyCharacters": 524,
+  "pages": 8,
+  "duration": 168.154,
+  "bodySha256": "92ccc21ce4b4a509c8e87349ed2aa069f4d37790bb72e97101eddbeb11dd456b",
+  "audioSha256": "5a89e1d572a7263f3c60090b4c9e6469fea7f98c92103ba8f49f67c099a47c9c",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "5511be5130e602365e7012a2f944dfd821e732afafdf81032955e492115a0333",
+      "bytes": 14030
+    },
+    {
+      "name": "p01",
+      "sha256": "11c0c912269632ea3b36c14ef276b20a01966aa8fc47f44829ee207e9d867722",
+      "bytes": 13406
+    },
+    {
+      "name": "p02",
+      "sha256": "29cf3ef563ef8f6aac07453eb91ceeec6c4ad79ac8846d06a6974d839b6578d3",
+      "bytes": 15378
+    },
+    {
+      "name": "p03",
+      "sha256": "f7973503048e0d8231e5ec891ebd4ee2704e78f20904b411ea9c46486378d5a0",
+      "bytes": 13784
+    },
+    {
+      "name": "p04",
+      "sha256": "a796e2627a6dedbb2d5f4ce30e800e21b48d1e0da2042b98d82c4f0e8b7df04c",
+      "bytes": 15190
+    },
+    {
+      "name": "p05",
+      "sha256": "0d2353808cb7641bc0bb56a72eea2d168cbae8218918ecbb6b5c9a03bf5b62e2",
+      "bytes": 8650
+    },
+    {
+      "name": "p06",
+      "sha256": "2a267e96fa58e36c5aa3bd00c308c3a06df4982f826c6bc3e66048a0001ad3f6",
+      "bytes": 8612
+    },
+    {
+      "name": "p07",
+      "sha256": "d8f6483be2b6ff317b7e3859bb16f91a60892585b1842d8a10563186d5da757e",
+      "bytes": 15186
+    },
+    {
+      "name": "p08",
+      "sha256": "c6c75b1f26edcbc98e8ae13154f875127f1819210260feee87dd7b864a5eabe9",
+      "bytes": 14648
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

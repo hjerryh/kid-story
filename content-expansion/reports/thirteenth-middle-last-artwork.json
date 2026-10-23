@@ -1,0 +1,322 @@
+{
+  "scope": "0504–0505 reviewed final manuscripts; 24 pages and 2 independent covers",
+  "reviewedAt": "2026-10-23T03:12:37.760Z",
+  "modulePath": "scripts/expansion-art/thirteenth-middle-last.mjs",
+  "moduleSha256": "ad62c211b019d769459abca4591b752df6dc90b08f9a882812571ced1e30e1e4",
+  "exportName": "thirteenthMiddleLastArtwork(story,index,cover=false)",
+  "dependencies": {
+    "scripts/render-illustrations.mjs": "b87ce359a5e7772db51cd310d2f357e1edd45f1298cc9d9d8199d78301f58bb3"
+  },
+  "reviewSource": "content-expansion/reports/editorial-013-middle.md",
+  "reviewSourceSha256": "f5bf24ece4ff2b220f0c6242719d077ca6e7f0d5ccf1146f811eede11b8660df",
+  "visualReview": {
+    "coverage": "Two complete initial and final contact sheets actually viewed; thirteen distinct original-resolution key pages viewed, including corrected pages revisited.",
+    "closeups": [
+      "0504-p02",
+      "0504-p06",
+      "0504-p09",
+      "0504-p11",
+      "0504-p12",
+      "0505-p02",
+      "0505-p04",
+      "0505-p06",
+      "0505-p07",
+      "0505-p08",
+      "0505-p09",
+      "0505-p10",
+      "0505-p12"
+    ],
+    "corrections": [
+      "0504: maple eyebrows redrawn with lobes; straight corridor and longer straight corridor differ, bends and sky hole appear after the misunderstanding is resolved; button remains with the correct holder; three red hiding leaves remain visible; final yarn ball duplication removed, thread meets both hands and button rests at bag opening.",
+      "0505: fixed window wind and directional arrows remain separate from the turntable; initial two cup mouths face the window, one removed then reversed; exactly four horses, with three removed ones visible on the table during testing; hand/cup contacts, tie position, bowl height, double-handed bowl grip, right character cropping and cup occlusion corrected; wind returns to the covered bowl for adjustments and final rest."
+    ],
+    "limitations": "Original simplified geometric illustration, conceptual projection of the cup rotor. Complete contact sheets and thirteen distinct key closeups; not all pages individually enlarged, not human full audio listening."
+  },
+  "checks": {
+    "artworks": 26,
+    "uniqueSVG": 26,
+    "uniquePixels": 26,
+    "currentModuleRerenderMatches": 26,
+    "rawSourceHashesMatch": true,
+    "bodyAndReviewedBodyHashesMatch": true,
+    "pageDimensions": [
+      1000,
+      800
+    ],
+    "coverDimensions": [
+      1000,
+      1000
+    ],
+    "nonblank": 26,
+    "rejectedInvalidInputs": 14,
+    "invalidSvgTokens": false
+  },
+  "stories": [
+    {
+      "id": "expansion-0504",
+      "title": "迷宫收起了所有的弯",
+      "sourceSha256": "dc05330219de2d5e0f4f927393328765210ca792aceec0c390688cc4042164e6",
+      "bodySha256": "84d470042467f79bff2967e151087df54aa0e0fc3221e75f3beb1c9012e18d52",
+      "pages": 12,
+      "artworks": 13
+    },
+    {
+      "id": "expansion-0505",
+      "title": "两只杯口朝哪边",
+      "sourceSha256": "34089d1d304e63f4e4393aea990111f2c412eb3a2a6a020de102205fe33fc175",
+      "bodySha256": "92468172a65e32910d2fa68a62feb0430ff99bf1714e201413d40c475bad5412",
+      "pages": 12,
+      "artworks": 13
+    }
+  ],
+  "contactSheets": [
+    {
+      "id": "expansion-0504",
+      "path": ".cache/thirteenth-middle-last-art-review/expansion-0504-contact.png",
+      "sha256": "afd35b1f5357367cdc0ee5ba87fa8418680cc11b61c8ab73793a3d47cc3cc639",
+      "viewed": true
+    },
+    {
+      "id": "expansion-0505",
+      "path": ".cache/thirteenth-middle-last-art-review/expansion-0505-contact.png",
+      "sha256": "2997b1a52d061d8c2adf45b9d3e4636675fd1fd98c91238e29b212fff08162cc",
+      "viewed": true
+    }
+  ],
+  "images": [
+    {
+      "id": "expansion-0504",
+      "name": "cover",
+      "svgSha256": "dc07a7cf0534c1acfdf69036c515c982da35e0f7f2df813cd21cfca5b94f5d4b",
+      "pngSha256": "03beb83f25280b847ca8b1bd15034a3684fda0b5d33edfea5bb626655e83dd76",
+      "pixelSha256": "0ca05c82af0031248b33eb19ced96f7acb278583d75a0c4e8b5d8a9232c6c88f",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p01",
+      "svgSha256": "703f42b41a85392c5b37d9b7e22678718b2eda5a920f4300badebb485997d28a",
+      "pngSha256": "778f1e84a785d25d33369230fa33b8a5e6addf63dae9c320bcf2e92efd8915b1",
+      "pixelSha256": "b41e5fe69ceb8dcb4bf42f9dcdb59e01cea4e60507d5c315bdaa5eb81e575941",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p02",
+      "svgSha256": "de11010279f1136f928cb77daf736822a7896b2085649e0e8302e82c3e6f014b",
+      "pngSha256": "be98851e1e14819938214ddd4caacda549e710a0691e5d095f0530ceab908a5e",
+      "pixelSha256": "d37fb81dcea34b0e54cf6271acd72a5bc1e1716e3d254e0ad4bc28a059aa54e4",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p03",
+      "svgSha256": "953647fb245fc9fb971ec3ba4b12535df57174637ba2bb6d1159c0060564761b",
+      "pngSha256": "3505adb54e594d00e932fece7962c33366a90b73fbb351774dad2479cb2c5b9a",
+      "pixelSha256": "80847fb7529060911affd27675c16a37ff847330e479f6a1f9b13f87ce5849ee",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p04",
+      "svgSha256": "2dc7dad8e2907ac0a7a36b063a7afbf74cf6ae5686989c976fd3ebdb5f2a6d98",
+      "pngSha256": "6a97c197859503f031115b09bc258bd17ade14a5623074b935c7e2659e90326e",
+      "pixelSha256": "4cc9de9cd86953d0a11a2a02edc2ade77ddf0ad7d920ee014bf5280f655bdb6e",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p05",
+      "svgSha256": "4948fe48313c47e51d09fbd1ccb10dec16795a053d18e452be5677ac1f4762aa",
+      "pngSha256": "0f32aa7f6a7a4f398c4b8cba0571dcc7953fcfa81bead65090f2c9241ed70c93",
+      "pixelSha256": "d009049409761e12cae4df89cb1fda3887618fc2e414670a8ce7fdc93c64ac14",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p06",
+      "svgSha256": "daac81114f387384d4bb8fecefff423c11b5b8fe0bb3b89282a9069b65623754",
+      "pngSha256": "3c9bb851303e7e0866a0e4fe6dbe6ba532a4928e99151d4b0dcab815f67fd12f",
+      "pixelSha256": "b403b4c7360b2d74f39b0431c727998141bb02999882fd1b60748a874008ae2f",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p07",
+      "svgSha256": "239c3a77903544cd75662e355eca145a50243c01e5ad327d9083e66458f8988b",
+      "pngSha256": "fcd73abdb10550131f11e932d68d716d555f3aa85210fdcb6b11b73e1332dfd5",
+      "pixelSha256": "7952f83c3f1600764cce2d082680e4de55b2be0641123a502a702505900cd2f8",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p08",
+      "svgSha256": "921f570d41d5961221348999934c8e84ceaf9092ec0bb3f250ef41062f4c142d",
+      "pngSha256": "a6d4b884c2bf3b78feca18b69af8b4f1945f3ade0e78bd411c851ad084567129",
+      "pixelSha256": "e518cc236ddcb4b7afee6a7b63539773bd97d316e0a0db54db520f00fb7139b0",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p09",
+      "svgSha256": "ad896973cb5a6d3a795156c78563fff3477578d4d888ac2d3cf7428c766e083a",
+      "pngSha256": "a81f92748b53e3094236d633244d867644a25037f60da0b525258de45b9bd6af",
+      "pixelSha256": "ee6a2b6b120b6cefe3e85d8f7be512858e632652d9906796e382b9b360999687",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p10",
+      "svgSha256": "3fd9a05c74066e7f43ac329a9c93c239895c445cf04f470cb9c0108c6c43269b",
+      "pngSha256": "2fd32d5749c75862069c725eb2a865fe13d15f15d1dda7df32af0c96226e423d",
+      "pixelSha256": "e966002130a147982b5993f9e8a8034dee4eaf938dcbd8e23858efb1dc70c855",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p11",
+      "svgSha256": "c884b434ee29c296d98161a4bc55cd8252263c531ab5c942fe53cd831d725cc6",
+      "pngSha256": "51c356737362679fca4c5a1102d6a681678e45087bbbeba0bf44b4535603e59d",
+      "pixelSha256": "715e2e015aeb848d16898c700a863f1e3197168f218d0ee9a60de899c426244e",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0504",
+      "name": "p12",
+      "svgSha256": "932dbf449db2106c893531b4dd34a13206997e2b9df684a2780fcd83c49e466f",
+      "pngSha256": "30276f84f401be2ee2110ca160c4500bcd4932144965755c504ef492494a16f8",
+      "pixelSha256": "7f75466385796547366ef259152bb6212e2f1ec81d71fc4c9aa756def0991965",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "cover",
+      "svgSha256": "275155e127a2904d8614acf6531ae861f81e1fd6d3740147e7bffa91668116fd",
+      "pngSha256": "5e56652f33ff3a5c658b044ca85167aeab8ef6fea6cc0a77a898c4c42a5ccb0b",
+      "pixelSha256": "790f6978f8a907d327af66916a375e8292715054e9f570ccced68deaa7fd96f5",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p01",
+      "svgSha256": "0d1b1199fe1b42dfb73b109a556e86fc86361ba1a876892647f74625994c2aa0",
+      "pngSha256": "b5f00056689b8640e9b3ca0409e4401ff403f331b5b47cbc3c8b47b0971a43d9",
+      "pixelSha256": "c18b4a9dae4980674d65636aea168669700295746bfcbcd24568852965455a56",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p02",
+      "svgSha256": "de88d0319b6c1c07cf40b7ce2e1b264fe07755e04574cdff2024f009a0117818",
+      "pngSha256": "c62cd730a10b6adcfa92f5764fdebe6c6f1321397175fd76304b4fc863f20bee",
+      "pixelSha256": "a1773b26220ee7f425ce59e5c1bdd17446aa1dece1b456a51509ace027626bbe",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p03",
+      "svgSha256": "7bab1fa71f309d49910abd0c5a3ccf34028a6f5d93592969feb9dfcfa8831498",
+      "pngSha256": "c0919f0bfbc77c4ba0e59e5420e64e4c9d448951335e3d90d1399085e2be5442",
+      "pixelSha256": "5e0584c87e8080d543fadfdfaf9584fa8fbcd30f2f8d3418fbead30b2b965fc5",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p04",
+      "svgSha256": "67425833e3ba78c99a499c852f18eb2d61c490709c714169be17dad3c1c4dcb1",
+      "pngSha256": "16318cb8ebf5ce187a0e4bc4b3c4103c22daa7cc9545654e3f1fd9815af7d9af",
+      "pixelSha256": "39e2928fac06057635619c2a93ddecc4f75d17c7e11dc870f756fa94d9953f74",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p05",
+      "svgSha256": "47ba852049da5db5abdcb726708b0c42353668253b7655ce887ee4c1fe8958c4",
+      "pngSha256": "71e8b7bd51bc2c13c6db376b2cb9b3f59f53cafa972f5195c38f3c98fa915d30",
+      "pixelSha256": "6582c0bfccb962af0e9fc5b0e1820925f6f3b1f3c8b586b51901c87b0fdbc239",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p06",
+      "svgSha256": "cbc7a2f94cf4ff2f4425910c8a7e03751ea39b07eedc176225c01562c5b07b9a",
+      "pngSha256": "67d2ff62a0880d58fc47001c04779469d6422af3ef4b9441d57815ac75ba0a01",
+      "pixelSha256": "8f4670c41d01014e0d8660fe879fa49ee154429b596414758464e40374f07345",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p07",
+      "svgSha256": "9f91d40935e9c10a8e4324cfa38091c3283e42c60f9890df26ac158e523972da",
+      "pngSha256": "14f34624fe5fc0cb0b5bc1d5b108d67b85231727fc6e3be0e4da18ba15b38ea6",
+      "pixelSha256": "58e56f6d31ca2b27c4a695e8abfcecde73458b2e949b817d0534258814418f1d",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p08",
+      "svgSha256": "e8d922b87d734072e122ca81a0d02b941a16347b5054691f7b9005060d574973",
+      "pngSha256": "cc5943218c352fdd3cccc75b9fa109f0d452a53e464beb09f8ffc7bc9f763c66",
+      "pixelSha256": "56a293bdb47f9e83c4406fecc6ee0a0ce91deefd2331fe67d26633a4d65c9bff",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p09",
+      "svgSha256": "2ec27ad6345295710a5fd49f0c90998a2473c2b174ecae8585117b5295486894",
+      "pngSha256": "3e69cc51a453afd400347ce37468ce0e64352eb66235e5289f40e633cb470fef",
+      "pixelSha256": "ec4594da6c69fb003b83cbafa7c2c4b48ef778b03d1009beb5d2de8de4fdce02",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p10",
+      "svgSha256": "6da7db3cdb841700832111c8f5771c02cb7d35c12df961fb4ac44dc9f5e115f6",
+      "pngSha256": "a50accd6d2b4bd7e7740d3c71b1af8b2c81ef424f0415c5c0b72b951a586f976",
+      "pixelSha256": "54c63599e139c99b1beb105cfeab4548cd4370f9f219338716cfb717702cf424",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p11",
+      "svgSha256": "ed731acb36f9f89290214f1a9a8c6f0eddd091bdea2e7dc5a615f4b375ec4f58",
+      "pngSha256": "d784d58957f0555a15ad46c2b56b436590955ad477acd2a9757220aa2b0bdbb6",
+      "pixelSha256": "6ed60d451756497f5b342430dd63a563cf5ca95924ea4ce197043eaf925d941c",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "id": "expansion-0505",
+      "name": "p12",
+      "svgSha256": "050fc296063609c39a005740081a6960e107a44ebe607eaf3df527d2f00a13c5",
+      "pngSha256": "c787669dbefb79a2ce62dc295a056d317103e65dcfa2b2fc8b9f6d813068f241",
+      "pixelSha256": "4417da486973ab82506f9145f21a2417314a2ad23d96335eaa7c57d97080aedd",
+      "width": 1000,
+      "height": 800
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0488",
+  "version": 1,
+  "status": "media-ready",
+  "title": "蜗牛旁边住鲸鱼",
+  "subtitle": "沙盘里的两幅画",
+  "description": "豆芹想在陶土村的沙盘里画一条大鲸鱼，却抹掉了阿橙的画，还说是风吹的。她悄悄补画时才发现，自己根本没看清朋友画的是什么。",
+  "ageBand": "3-5",
+  "theme": "诚实与补救",
+  "color": "#C9815D",
+  "character": "豆芹：棕灰色绒毛的小鼹鼠，圆鼻头，穿浅绿色短背带裤。瓦片阿橙：橙红色的小瓦片精灵，身体弯弯，长着细短手脚，戴白色软帽。",
+  "cover": "/library/stories/expansion-0488/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 163.786,
+  "detailUrl": "/library/stories/expansion-0488/v1/story.json",
+  "audio": "/library/stories/expansion-0488/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "陶土村有一个大沙盘，谁都能来画画。小鼹鼠豆芹想画一条大鲸鱼。瓦片阿橙刚画完，跳下矮凳说：“我去拿帽子，回来给你讲我的画。”豆芹已经举起了小木棒。",
+      "image": "/library/stories/expansion-0488/v1/p01.webp",
+      "start": 0,
+      "end": 18.878
+    },
+    {
+      "id": "p02",
+      "text": "鲸鱼的尾巴画不下了。豆芹看看左边，那里有圆圈，还有几条弯线。她伸出手，沙沙两下，把它们抹平了。阿橙回来问：“我的画呢？”豆芹低头说：“大概是风吹掉的。”",
+      "image": "/library/stories/expansion-0488/v1/p02.webp",
+      "start": 18.878,
+      "end": 38.956
+    },
+    {
+      "id": "p03",
+      "text": "阿橙摸摸光光的沙面，把弯弯的身体挡在沙盘边。“那我挡住风，你画吧。”其实，屋檐下的小叶子一动也没动。豆芹画了一只鲸鱼眼睛，却总忍不住看阿橙的背。",
+      "image": "/library/stories/expansion-0488/v1/p03.webp",
+      "start": 38.956,
+      "end": 58.65
+    },
+    {
+      "id": "p04",
+      "text": "趁阿橙转过脸，豆芹悄悄在左边补了一个圆圈，又添上四条腿。阿橙看见了：“咦，多了一只青蛙。”豆芹赶紧擦掉长腿。原来，她连朋友画的是什么都没有看清。",
+      "image": "/library/stories/expansion-0488/v1/p04.webp",
+      "start": 58.65,
+      "end": 78.776
+    },
+    {
+      "id": "p05",
+      "text": "“这里留不住画，我还是回家吧。”阿橙轻轻说。豆芹放下木棒，耳朵热热的。“不是风。是我想画大鲸鱼，把你的画抹掉了。对不起。我想补回来，可我不知道怎么画。”",
+      "image": "/library/stories/expansion-0488/v1/p05.webp",
+      "start": 78.776,
+      "end": 99.55
+    },
+    {
+      "id": "p06",
+      "text": "阿橙停住脚。“那是背着圆房子的小蜗牛。我画了好久。”豆芹没有急着动手。“它的房子怎么弯？”阿橙用小手比画：“从里面绕出来，触角短短的，头朝着这边。”",
+      "image": "/library/stories/expansion-0488/v1/p06.webp",
+      "start": 99.55,
+      "end": 119.316
+    },
+    {
+      "id": "p07",
+      "text": "豆芹先抹平自己的大鲸鱼，再慢慢绕出圆房子，再画软肚皮和短触角。“这样吗？”阿橙点点头：“嗯，它又能往前爬啦。”补好的蜗牛占了不少地方，豆芹看看剩下的小块空沙，没有再伸手去抹。",
+      "image": "/library/stories/expansion-0488/v1/p07.webp",
+      "start": 119.316,
+      "end": 142.202
+    },
+    {
+      "id": "p08",
+      "text": "“旁边能住一条小鲸鱼吗？”豆芹问。“能呀。”阿橙往凳子另一头挪了挪。豆芹把鲸鱼画得小小的，尾巴弯向自己。这回，两幅画挨在一起。小蜗牛像是正要去海边串门呢。",
+      "image": "/library/stories/expansion-0488/v1/p08.webp",
+      "start": 142.202,
+      "end": 163.786
+    }
+  ],
+  "buildHash": "4fad1d06aed0a778847c8f55d7ab4f8900211f01e34b2bf1c3aca3be487bfda6"
+}

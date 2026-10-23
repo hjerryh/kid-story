@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0472",
+  "title": "折牙藏起了最后一枚月亮",
+  "version": 1,
+  "bodyCharacters": 1506,
+  "pages": 16,
+  "duration": 459.458,
+  "bodySha256": "82841390623cd3dfa3624eff0f2c9f2af313dcdfbd522e4417a889fac9aa1814",
+  "audioSha256": "f14a30eca34ce381cdbf06784a0d7ee06a4f1aba5f6d7ee927c5d5d007a94a44",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "be3120399c5b578f84d3d8970c28aa0bb7f39879623a1c7273c89a8aafcc6a21",
+      "bytes": 16452
+    },
+    {
+      "name": "p01",
+      "sha256": "b7ce8fde972525a238da2419ab90aee600d6b3e41e2a69709cc597094c5ecc25",
+      "bytes": 11220
+    },
+    {
+      "name": "p02",
+      "sha256": "826bbddd5633047f09c251c6d6a193b8f4a2a13aad808dc00dea379aa74dc54b",
+      "bytes": 9602
+    },
+    {
+      "name": "p03",
+      "sha256": "a0bfcc5501fdb88be3b29d5610f1fbe4e2d733fa2b6d252140df8aedc5d9fe5b",
+      "bytes": 9556
+    },
+    {
+      "name": "p04",
+      "sha256": "462361f3700b32a1ede7954ffe44b19e63de33806b79799bd3390efce3388bc1",
+      "bytes": 11420
+    },
+    {
+      "name": "p05",
+      "sha256": "f2d9d6387a97ee8573ede7b3a966469757c3d40eaeaf2da33abdd4be977fa128",
+      "bytes": 12626
+    },
+    {
+      "name": "p06",
+      "sha256": "76b5d5ab4138c50e4213b777e509f6d4dd3821b8ecaf9aed75a9af25deb90ca0",
+      "bytes": 11406
+    },
+    {
+      "name": "p07",
+      "sha256": "80b0a10cf6f006a5d7a354f0ce24a8bcf18f64fc2447e73065895e6c7289d284",
+      "bytes": 12690
+    },
+    {
+      "name": "p08",
+      "sha256": "fca0f5384291fe09c35a8f818584f6bafb6d87a2d840f7821614651b85138379",
+      "bytes": 11854
+    },
+    {
+      "name": "p09",
+      "sha256": "93e258716b9a97eb1c1433cfc9c2a07d1d3d587e1c24287dbd98a18762504d50",
+      "bytes": 12988
+    },
+    {
+      "name": "p10",
+      "sha256": "b6608c58e051aaad7669ad05c2fbcdaa36b057ac64f9635096e69e2ece18bb17",
+      "bytes": 12634
+    },
+    {
+      "name": "p11",
+      "sha256": "85e968201ae2e16a0680790abfcd12607ddbdb94576934ed8ddf89c4352536a7",
+      "bytes": 12818
+    },
+    {
+      "name": "p12",
+      "sha256": "58707cc63f19e11ee588ec1e6cd9eba170e0f214491f4079f6b0254d65f47d46",
+      "bytes": 12754
+    },
+    {
+      "name": "p13",
+      "sha256": "df396b38a07d65348b52d967c50e45f13a853534b227ce25829226515f6a47cd",
+      "bytes": 10416
+    },
+    {
+      "name": "p14",
+      "sha256": "eeead31afb971d72a9def366e0e3723ef4942de4fd06edc75e8a53eaf5d9da3c",
+      "bytes": 12016
+    },
+    {
+      "name": "p15",
+      "sha256": "2a7d7c181d9f269be23507db1b5a7694e6b257e9360d9bac58e88fb532a9298c",
+      "bytes": 13016
+    },
+    {
+      "name": "p16",
+      "sha256": "25980d0a9651b05b13770d83eaa2dff04d108cf45409c90c3f080bcb6c62bfd0",
+      "bytes": 12560
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

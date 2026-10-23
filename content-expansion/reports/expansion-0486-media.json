@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0486",
+  "title": "弯弯要吃一口风",
+  "version": 1,
+  "bodyCharacters": 531,
+  "pages": 8,
+  "duration": 169.57,
+  "bodySha256": "fa061d71607be37e3194236c39ec395e9db21b4259c0896510f976e73aa7e29e",
+  "audioSha256": "58db86273f2fb5c365b34bceebb0d43dfd7f9e10ca78f70009e807cff38ba7cf",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "c61b3db4fff9f23314b17791c4ad1f474ac9c38fd7b475573f05e4ed2a643b38",
+      "bytes": 11282
+    },
+    {
+      "name": "p01",
+      "sha256": "651a95f00d40609a18b1482ecdaf423ec887ee57b3eb049dfef0f11d6749a7ae",
+      "bytes": 6682
+    },
+    {
+      "name": "p02",
+      "sha256": "8e450fe21c0e33343a4b2d3aebe3ac92ae532fc66854b615ef399484ab4ae966",
+      "bytes": 8270
+    },
+    {
+      "name": "p03",
+      "sha256": "7cf772f78d6cc12c87e969bc2f477e796c586f8c9281f89e1747a76b9eb40e7d",
+      "bytes": 8196
+    },
+    {
+      "name": "p04",
+      "sha256": "c6f5a4dc5ac069d874f16d2644aa48a1c7651849456545242217d45052aac5aa",
+      "bytes": 8114
+    },
+    {
+      "name": "p05",
+      "sha256": "0f8ad1a6518052ed4c6012687e5586f64764911386b062782a5f85e9bcbbfe1e",
+      "bytes": 8278
+    },
+    {
+      "name": "p06",
+      "sha256": "ea2a4c58f1d6b0e80578b059ba42760250a0618b7d7923dae865c019a549f336",
+      "bytes": 8528
+    },
+    {
+      "name": "p07",
+      "sha256": "5857651550c8c3370ce8aac4a9f567e3bdc768df9334a47ffbd001284f0b2bc8",
+      "bytes": 9230
+    },
+    {
+      "name": "p08",
+      "sha256": "d44605693c47601c9ce38ba1da1c699104858258118ffa594f9c83f544624461",
+      "bytes": 8842
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

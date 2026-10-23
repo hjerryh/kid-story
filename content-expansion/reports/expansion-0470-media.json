@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0470",
+  "title": "紫斑餐布上的空位置",
+  "version": 1,
+  "bodyCharacters": 1000,
+  "pages": 12,
+  "duration": 306.45,
+  "bodySha256": "cdfa023e5003d838cd482fd2ddc88b19bb89ee52d96d1f545b4e722d8553a7e0",
+  "audioSha256": "31e22ed66a0495b1eb028be54b5ff84844a3cad67b53fe0810ba1c625869d71f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "dfcba5118ebadf9e0ad64aa56158a6099820e3f4389fb246ac1d29bece1f5e34",
+      "bytes": 21750
+    },
+    {
+      "name": "p01",
+      "sha256": "58c44001ac96868d47b088c42aa23411c3d3ff9fdcda14ceb68145888be5af59",
+      "bytes": 8594
+    },
+    {
+      "name": "p02",
+      "sha256": "916d0076b9202d95ac6f3d8e052927d3aa6114a4d59830f006426a2326fd38c3",
+      "bytes": 9966
+    },
+    {
+      "name": "p03",
+      "sha256": "26418e53d669acf8172caa774297a8738c06a14e878a1f57130e0ca621273dc9",
+      "bytes": 17760
+    },
+    {
+      "name": "p04",
+      "sha256": "9c32db79fdac82153cdf2796ecf0bdc0f1575421ad4bfef39ea0360ae70f9de9",
+      "bytes": 20208
+    },
+    {
+      "name": "p05",
+      "sha256": "dc6998b4584f11781f321a830b7faa9cad9209dd35199f859dda8056d475c185",
+      "bytes": 20952
+    },
+    {
+      "name": "p06",
+      "sha256": "e690a69773268e8317e3ce9f540f20ba8e2f553adb1f50e521474ff8342d371d",
+      "bytes": 20234
+    },
+    {
+      "name": "p07",
+      "sha256": "ddfbe00baed0a24ad0a8b49d1e78bcc409fbfe8998155407f40e8bc8b8118119",
+      "bytes": 20722
+    },
+    {
+      "name": "p08",
+      "sha256": "116f00d0000a88794af662ff1fa602cf46fffd44634f0bcd5fda2fb9abe8a471",
+      "bytes": 20496
+    },
+    {
+      "name": "p09",
+      "sha256": "7006a0002724f71659beeea2019f05c7756aac515c35204299731efeaaa0de34",
+      "bytes": 17570
+    },
+    {
+      "name": "p10",
+      "sha256": "262ed0a8ddf4591c5166d90d6dd3a10bd03448d63e526da73950c5ea9c24a5f1",
+      "bytes": 19842
+    },
+    {
+      "name": "p11",
+      "sha256": "e4c499f8a77610782ee77fa25b5186e11e133e96236a7d87073b2ed4acb54e89",
+      "bytes": 19692
+    },
+    {
+      "name": "p12",
+      "sha256": "a3e6b0530e926a3d5d2f0eeedffdcfb4437ad4100cf7fa02589597d2f670a75f",
+      "bytes": 16626
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

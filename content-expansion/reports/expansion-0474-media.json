@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0474",
+  "title": "蓝厨房留在水洼里",
+  "version": 1,
+  "bodyCharacters": 1563,
+  "pages": 16,
+  "duration": 484.658,
+  "bodySha256": "6fa8015c22cebd6fc338c4f1317015bf3b2864cdf509738f830a6baf7fb26275",
+  "audioSha256": "20fe777bfb3cc43e834691a9a8dd9863977f85cfd197460901c7f5cc2e92e0e7",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "9d8312fe83668fc3f3ad186774d23e9c91717982e7ca74064f97664cab3a69fa",
+      "bytes": 21452
+    },
+    {
+      "name": "p01",
+      "sha256": "1c1f0e54752aa83dda97fe320ca9865c52820c356431377d0dd58eb27524d790",
+      "bytes": 13588
+    },
+    {
+      "name": "p02",
+      "sha256": "437cc355a0e7641896fe30d10520f0aebf88b44d916e0a22ca19b22a6900ad66",
+      "bytes": 16240
+    },
+    {
+      "name": "p03",
+      "sha256": "0ded675ccb9e648328d1a26a1f20a475526aff585c5aae577fa30b5ef34a1131",
+      "bytes": 16272
+    },
+    {
+      "name": "p04",
+      "sha256": "5c268c1686826732c30f78746d4494ee75262bcca43c74949776a6f2f2fec1f8",
+      "bytes": 18742
+    },
+    {
+      "name": "p05",
+      "sha256": "1119f061af14dc0e9cbe2580a90e0390257c5c61fe3ef11d77066ca305d5ff9c",
+      "bytes": 18202
+    },
+    {
+      "name": "p06",
+      "sha256": "61b4178953f5019e04ed910d5826b514102736a06e253bd788042aece48f0a92",
+      "bytes": 16880
+    },
+    {
+      "name": "p07",
+      "sha256": "665e2e4373a4682c867b75fb39547786164322cc650a7736db7d6121ecc279de",
+      "bytes": 16838
+    },
+    {
+      "name": "p08",
+      "sha256": "2b499ed9ae866dd372dd29eb578d6faa15d67e2a7b53feaeee8adde6346bad69",
+      "bytes": 16268
+    },
+    {
+      "name": "p09",
+      "sha256": "bd51fc9b5eaf33c4624dd3514106b576a9f0be6beccd889e897dc3cf7b7d25b1",
+      "bytes": 15996
+    },
+    {
+      "name": "p10",
+      "sha256": "d39cebfaabdf9642e114f4aeed218cf8eb10cbfaf43750d4679ff89c109716a9",
+      "bytes": 15654
+    },
+    {
+      "name": "p11",
+      "sha256": "6315f3108fbe96a7f13630ffd618a34617bbedb37a6dd6e8df6ef76ac67ad5b9",
+      "bytes": 18038
+    },
+    {
+      "name": "p12",
+      "sha256": "2da8b55b2171ea10eef25f5857ba41b3ba48a9ea5ea89421f18ae232dfbac8e2",
+      "bytes": 17524
+    },
+    {
+      "name": "p13",
+      "sha256": "11d0baddf3c8bb686f1ed9cf0a7f3a4764bb50224ed377801295b488ce5c8857",
+      "bytes": 15920
+    },
+    {
+      "name": "p14",
+      "sha256": "b0ee2adc8e5fbf1d09e2ae6e8e5317d0fdace98e70dcd78d858c8cff50a7f409",
+      "bytes": 13854
+    },
+    {
+      "name": "p15",
+      "sha256": "3cf81550fc782674d1475950929dabefa6e50e5f040604cae9c9aedee16c9aab",
+      "bytes": 15498
+    },
+    {
+      "name": "p16",
+      "sha256": "ca359ba63b059c659bb51387fb850d1671b62686fc25eaaedc2bde0493a1749e",
+      "bytes": 10520
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

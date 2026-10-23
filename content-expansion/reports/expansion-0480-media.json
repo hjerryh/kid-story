@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0480",
+  "title": "方门那边下着裙子雨",
+  "version": 1,
+  "bodyCharacters": 1567,
+  "pages": 16,
+  "duration": 484.514,
+  "bodySha256": "ad965840724e28469257d9d229a695d64efd0d936997496970e3bb9bd7e7f8c1",
+  "audioSha256": "a6e724adb4783bc2d2d271c5f96351cb7aee21c7e247b5258080d56508c814d3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "30854f6503008e62a6d88b6218523ab57cd22735b89a6cf33ab5e1aa50b75d45",
+      "bytes": 14842
+    },
+    {
+      "name": "p01",
+      "sha256": "caca78bdd52a34acb628858109b80e073b3d8a31f2c977dcc06688d5e9c413cf",
+      "bytes": 16386
+    },
+    {
+      "name": "p02",
+      "sha256": "ed62fdf3313ae955d16ecc84a72b0d2c6c0fab667806a9789223756b0d9a5774",
+      "bytes": 16344
+    },
+    {
+      "name": "p03",
+      "sha256": "405a206671083ee9b0e0730753599573f9bac5696edb079a78d58a372c9f5ca9",
+      "bytes": 16392
+    },
+    {
+      "name": "p04",
+      "sha256": "e1ab65d6739668b4e5e17d89fb71e10e2a48eb68722447c1e3bf7efabb875335",
+      "bytes": 15236
+    },
+    {
+      "name": "p05",
+      "sha256": "56143a48c8b902fef2ddec1b02637e0234b2e5c87995b7bd6f2713c672bb4c01",
+      "bytes": 15524
+    },
+    {
+      "name": "p06",
+      "sha256": "ad623ffa270a7c851e365ada71bcf335510d129c087ebd7d4082f13d64f6c3bf",
+      "bytes": 15504
+    },
+    {
+      "name": "p07",
+      "sha256": "2d7edc62a77b285875746d8589eb160bf646c7c18bc95575f6cdfc2094ef5a81",
+      "bytes": 16060
+    },
+    {
+      "name": "p08",
+      "sha256": "f248eb7dba180c1e9c07b55252aa53db1562b4cc26480ab3c7a7678f0a2496ee",
+      "bytes": 15908
+    },
+    {
+      "name": "p09",
+      "sha256": "c28da2b441f7df40c0f3f6b9e890b155730cfa11fd6bbfe3382e64533f1195af",
+      "bytes": 14650
+    },
+    {
+      "name": "p10",
+      "sha256": "f426d5846fbd202351614de65716ef36d62011f204697161c20b1a80350a36ba",
+      "bytes": 16934
+    },
+    {
+      "name": "p11",
+      "sha256": "8a1336ca586705b62ea0b1c7a8aa5544762452a99aa598705a39bce5e3fb3c70",
+      "bytes": 11592
+    },
+    {
+      "name": "p12",
+      "sha256": "6957e005c3059da1a88e44bed8920165137b25831f099dcccdc3259e768d19fd",
+      "bytes": 16148
+    },
+    {
+      "name": "p13",
+      "sha256": "8b5d97e13b77419689e0c843d613b1ccd03f85ee9fd79b29c38fabe7eff55d69",
+      "bytes": 15944
+    },
+    {
+      "name": "p14",
+      "sha256": "de0b4c44ded3137be797c15dff981147afd6134abc60ea0e4a33349ce1cf4bc1",
+      "bytes": 9540
+    },
+    {
+      "name": "p15",
+      "sha256": "4bc0ca1e86cfcf2e76d38c55f871c2c2e8ba52900475758731c30295b621d337",
+      "bytes": 16742
+    },
+    {
+      "name": "p16",
+      "sha256": "f6fd24f7eec524a777d5f332730ed5deb05db3be518e0e3403306befa901e10d",
+      "bytes": 16010
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

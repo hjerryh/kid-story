@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0476",
+  "title": "眠廊醒来有点弯",
+  "version": 1,
+  "bodyCharacters": 1460,
+  "pages": 16,
+  "duration": 448.394,
+  "bodySha256": "9a327294983f4b26830793a326756f64203a48b5342876b5c804c1c0f74876b3",
+  "audioSha256": "4a769ca90138c95d5a7c66a910775166d7efebb37eb94c196b907ad1ddcd6647",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2f955f2b06754e6c80cb6e14d79967c33e2e07a654c3026d454ff10f130455c5",
+      "bytes": 19904
+    },
+    {
+      "name": "p01",
+      "sha256": "308a5080489b68609e7a49108106315ca0fa8796e0d20058e2fc77e1dcf85f75",
+      "bytes": 12852
+    },
+    {
+      "name": "p02",
+      "sha256": "5f5061f3d65c2d2fd0b41060a16b4909b1a4e79a35b2fbd60703131aae12164b",
+      "bytes": 13736
+    },
+    {
+      "name": "p03",
+      "sha256": "1615decf6d64c028f3401e34968941984609fc46480b1386ec222c7f61951e15",
+      "bytes": 12868
+    },
+    {
+      "name": "p04",
+      "sha256": "e13294dd63f23c940aea44e727122aa7ee9cd56f9ff1c81f0f02de772bd7d033",
+      "bytes": 12108
+    },
+    {
+      "name": "p05",
+      "sha256": "f5ec96250b54e199bc0f8ee38512500d46d158c44d327aa43ad17e86ecce7598",
+      "bytes": 15376
+    },
+    {
+      "name": "p06",
+      "sha256": "92457a8db7c8bd0f94363d8161e38b768ac4f49b7e13e8b1be66260b3aab2d0c",
+      "bytes": 12512
+    },
+    {
+      "name": "p07",
+      "sha256": "7c1c5174f847f44bd814343d47e6c580e94aaa27c0983beee0507cd715e53820",
+      "bytes": 12700
+    },
+    {
+      "name": "p08",
+      "sha256": "b5721c2ae42d2539d0079726e9c559aa8bce6a2293b8dae679f0c4b25191b84e",
+      "bytes": 12550
+    },
+    {
+      "name": "p09",
+      "sha256": "0a7084b63c3349b20e8312d0c90f38b7c38c0e5ac82ada87aba0155422d0513b",
+      "bytes": 13146
+    },
+    {
+      "name": "p10",
+      "sha256": "9055d9223d3f2e38a02d3a0e476770661bfdd0a69d991986056fb728d7f728bd",
+      "bytes": 13036
+    },
+    {
+      "name": "p11",
+      "sha256": "13a4646db936f1975ac0da708873dc78b2d6814a6eec4210ef4505570b00de36",
+      "bytes": 14018
+    },
+    {
+      "name": "p12",
+      "sha256": "245bc1b002e0cb9ec032f6572a193f354ac3fca5dd2d444df4c23dd9f9eef18b",
+      "bytes": 15490
+    },
+    {
+      "name": "p13",
+      "sha256": "e5619b1bc07bba6af6605b4bae721bbd13ba36eb6f8794dc108ab6a273959486",
+      "bytes": 15846
+    },
+    {
+      "name": "p14",
+      "sha256": "cc5544d16499a1970dd940f852aaced408b7f0971a46b73608dbaa2bf11febf9",
+      "bytes": 16642
+    },
+    {
+      "name": "p15",
+      "sha256": "df8297bbc6b6e9f3702cb87446b0f1b81737a077e23d40e06d35f7870d030a8a",
+      "bytes": 16834
+    },
+    {
+      "name": "p16",
+      "sha256": "f0b5133f850831581f86351704489783c4b570eea5d0a8e65347807de66b6b53",
+      "bytes": 17316
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0481",
+  "title": "星星兔在伞肚子里",
+  "version": 1,
+  "bodyCharacters": 500,
+  "pages": 8,
+  "duration": 159.682,
+  "bodySha256": "5d46826d0e24298b6aadb77dafb39bf1d3b174d58934772d0bd8e0bc19c1f607",
+  "audioSha256": "4d444628e61914cd610fe2eef583c093a36ead82de729c9a80373cff7c74fae2",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "88366d59e4334315c31f6697c0d3edbfd620584b945e11f89920f2fd6b657be7",
+      "bytes": 24532
+    },
+    {
+      "name": "p01",
+      "sha256": "d31015375e4a31aeab05bfb279e1833c5dfac17dfbc8d533dea5594f2322d73d",
+      "bytes": 9600
+    },
+    {
+      "name": "p02",
+      "sha256": "06fc15d873b0d12f0bfee70449934efceda790230e070ad92a8788602f0e55fe",
+      "bytes": 9338
+    },
+    {
+      "name": "p03",
+      "sha256": "340bbcde3c3cfaa76fd2afa4c3bf72bd711bbc7bc4853c234b8dce6e8f14ddd4",
+      "bytes": 9742
+    },
+    {
+      "name": "p04",
+      "sha256": "c448e57bcc650409fcd932e3df8043dca96e7061c437ccac6436c8d22d1c8ef9",
+      "bytes": 9786
+    },
+    {
+      "name": "p05",
+      "sha256": "ebf1b57b5292a678c9967db7f72e9a52669cf67718e83d557979ae68fc506238",
+      "bytes": 9210
+    },
+    {
+      "name": "p06",
+      "sha256": "57750f93943f797f134e1e31086f9f1c6012886c640f1a8642cbcb756e010b6e",
+      "bytes": 9644
+    },
+    {
+      "name": "p07",
+      "sha256": "a9d4f005b9a71cd9c1acfe6b14791b9543eb0af3841606d0e0c7a2871280a1de",
+      "bytes": 20322
+    },
+    {
+      "name": "p08",
+      "sha256": "1a2fb395dbf4af20489ac2525bc8f0fce7a0bef4dc43a0e0a8360beebc39e1ec",
+      "bytes": 12326
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0483",
+  "version": 1,
+  "status": "media-ready",
+  "title": "踏踏走在新鞋旁",
+  "subtitle": "并排走到薄荷旁",
+  "description": "小獾榛团长大了，最喜欢的小木鞋却穿不下了。他还想和踏踏一起走过雨廊，闻闻尽头的薄荷香。这一次，他们的脚步该怎样放在一起？",
+  "ageBand": "3-5",
+  "theme": "长大与陪伴",
+  "color": "#86A99A",
+  "character": "小獾榛团：灰褐色毛，脸上有两条黑纹，穿浅绿色背带裤。踏踏：一双会说话、会自己走路的小木鞋，栗棕色鞋身，鞋尖各刻一片叶子。新布鞋为米白色。",
+  "cover": "/library/stories/expansion-0483/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 165.802,
+  "detailUrl": "/library/stories/expansion-0483/v1/story.json",
+  "audio": "/library/stories/expansion-0483/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "屋檐雨廊里，住着一双会自己走路的小木鞋，叫踏踏。每天，小獾榛团穿着它们，走到廊尾闻薄荷。今天雨丝细细的，踏踏走到门边招呼：“小脚快来，薄荷洗好澡啦！”",
+      "image": "/library/stories/expansion-0483/v1/p01.webp",
+      "start": 0,
+      "end": 19.766
+    },
+    {
+      "id": "p02",
+      "text": "榛团坐下来，把脚伸进去。咦，脚趾挤在一起，像几颗挨得太紧的小豆子。他赶紧抽出脚。“昨天还好好的呀。”踏踏张着圆圆的鞋口，小声说：“你的脚又长大一点啦。”",
+      "image": "/library/stories/expansion-0483/v1/p02.webp",
+      "start": 19.766,
+      "end": 40.132
+    },
+    {
+      "id": "p03",
+      "text": "榛团脱掉厚袜子，再轻轻试了试，还是挤。他把脚放回地板，脚趾这才舒展开。“那今天怎么一起去呢？”他摸摸鞋尖的小叶子。雨水沿着屋檐落下，薄荷还在廊尾等着。",
+      "image": "/library/stories/expansion-0483/v1/p03.webp",
+      "start": 40.132,
+      "end": 60.714
+    },
+    {
+      "id": "p04",
+      "text": "门边有双合脚的新布鞋。榛团穿好它们，把踏踏抱进怀里：“我带你们去。”刚走几步，踏踏便晃晃鞋尖：“抱着看不见路呀，我们还想自己走。”榛团停下，低头看看它们。",
+      "image": "/library/stories/expansion-0483/v1/p04.webp",
+      "start": 60.714,
+      "end": 81.056
+    },
+    {
+      "id": "p05",
+      "text": "他蹲下来，把踏踏放在干干的木地板上。两只小木鞋一前一后，嗒嗒，走到他面前。榛团看看新布鞋，又看看旧木鞋，忽然笑了：“我的脚有鞋穿，你们也有自己的脚步呀！”",
+      "image": "/library/stories/expansion-0483/v1/p05.webp",
+      "start": 81.056,
+      "end": 100.726
+    },
+    {
+      "id": "p06",
+      "text": "榛团站到踏踏旁边：“这回，我们并排走。”新布鞋沙沙，小木鞋嗒嗒。他迈一步，踏踏走两步。他就把步子放小些，让那两片刻在鞋尖的叶子，一直留在自己身边，不用追赶。",
+      "image": "/library/stories/expansion-0483/v1/p06.webp",
+      "start": 100.726,
+      "end": 122.244
+    },
+    {
+      "id": "p07",
+      "text": "到了廊尾，薄荷叶尖挂着亮亮的雨珠。榛团蹲下，踏踏停在他两边。凉凉的香气钻进鼻子。“还是这个味道。”榛团说。“可今天，”踏踏轻轻碰了碰新布鞋，“我们多了一位伙伴。”",
+      "image": "/library/stories/expansion-0483/v1/p07.webp",
+      "start": 122.244,
+      "end": 144.53
+    },
+    {
+      "id": "p08",
+      "text": "回家以后，榛团把新布鞋放在踏踏旁边，四只鞋尖排成一小排。踏踏问：“明天还一起走吗？”“走呀。”榛团坐在小凳上晃晃脚，“你们嗒嗒，我沙沙，薄荷听着就知道我们来了。”",
+      "image": "/library/stories/expansion-0483/v1/p08.webp",
+      "start": 144.53,
+      "end": 165.802
+    }
+  ],
+  "buildHash": "f5824d5f32731351d768de90fd36694a74befffa8338009960e8152a4e3dac23"
+}

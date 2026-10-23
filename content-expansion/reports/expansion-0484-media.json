@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0484",
+  "title": "木鸭忙着捡小船",
+  "version": 1,
+  "bodyCharacters": 497,
+  "pages": 8,
+  "duration": 160.018,
+  "bodySha256": "f9277f111b53a4e4c288c9ae5819bb869b56c1831241cd3f202a60a41d3d2ff3",
+  "audioSha256": "dfcec6f4765c582eb6077d0bd929d4ed61ec7eed3b0490234504f3e92b7c9f2b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "ade4fc600261a2dd11be4612c1640e63ee3669f238d4df910e501d0798a2f414",
+      "bytes": 12948
+    },
+    {
+      "name": "p01",
+      "sha256": "2a83e5dcb971718c82820599f87bc734c98d32c2e422d6f2f1fdd79f8e29a528",
+      "bytes": 11116
+    },
+    {
+      "name": "p02",
+      "sha256": "c16984ca28bb81a767d8844374ab36aab6f1a900c95e8a7e63df1f1c0707ce1f",
+      "bytes": 11174
+    },
+    {
+      "name": "p03",
+      "sha256": "ea53b25c55adbf2e05c29b86144b655bb0213c2ad8f55d3294308afbd1c22022",
+      "bytes": 11404
+    },
+    {
+      "name": "p04",
+      "sha256": "d138dc269bf9b0ad7d16e8a7a266c0c93296d53231040c1607aca9461dc33f98",
+      "bytes": 11290
+    },
+    {
+      "name": "p05",
+      "sha256": "75489c7a0aaf129c3a11d31eb510138b015f24f2422002437f250c79943052fd",
+      "bytes": 10912
+    },
+    {
+      "name": "p06",
+      "sha256": "0780a227ebe88bf911f24318218b4671dde0328a15e93da042410fc1d388bcb0",
+      "bytes": 11988
+    },
+    {
+      "name": "p07",
+      "sha256": "874573ff01ad970a0def648c69ee4877bbaba9de9ed6e120e04e6d9a62212451",
+      "bytes": 11524
+    },
+    {
+      "name": "p08",
+      "sha256": "72ab4ef904a6f84b07cd559ba3a29220c59a0d1afab284c91f68e0844cc23a43",
+      "bytes": 10732
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

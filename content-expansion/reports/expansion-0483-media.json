@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0483",
+  "title": "踏踏走在新鞋旁",
+  "version": 1,
+  "bodyCharacters": 512,
+  "pages": 8,
+  "duration": 165.802,
+  "bodySha256": "cfea56a8f4eb740800da20528f53dd67430fb3ab13b02a330d6515d28e98a8e6",
+  "audioSha256": "1a20ca24ac3b2bbe1f0e272f40ba672257192d631ec3706c2002f0c92a132383",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "112356965e1ae8a2ca12bb578e7ed388afada68f423221418570ae8b6e8455e4",
+      "bytes": 9974
+    },
+    {
+      "name": "p01",
+      "sha256": "31c4cbebef5483180e7620940b813d10361de82f7f4edd9398dba6a18cf0882d",
+      "bytes": 9628
+    },
+    {
+      "name": "p02",
+      "sha256": "f3fe2a5da4dabe95d21c64e41ea773eb043c33d9f0f8ef9fe56a296fb20d2ab8",
+      "bytes": 9372
+    },
+    {
+      "name": "p03",
+      "sha256": "c700deed33ace70a85926f862d771b9bc0556863391e7db9f2e2e5dbf9ef5d1d",
+      "bytes": 9782
+    },
+    {
+      "name": "p04",
+      "sha256": "146405dff85dafe886ab44eecc0954776d5afe3e078a11f5778d4051c4879752",
+      "bytes": 9136
+    },
+    {
+      "name": "p05",
+      "sha256": "860cc5a4e8487355b9062cdf42c67dd9182ff448bbdb5f2a20343d4ee7af3650",
+      "bytes": 9266
+    },
+    {
+      "name": "p06",
+      "sha256": "b6bbb9d803ea6c9512b20520676aa6ea34cf81b36681375b25394eda6fb16048",
+      "bytes": 9294
+    },
+    {
+      "name": "p07",
+      "sha256": "89a8b56d4a5115bb6e705bc6938e51cf7112b5c486f80ea3a396e1cd69368aef",
+      "bytes": 8956
+    },
+    {
+      "name": "p08",
+      "sha256": "b856e122610da15006fb54e3cdbdd5ba4469f4884df8626f9d445efc8a29f292",
+      "bytes": 6720
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

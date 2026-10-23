@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0481",
+  "version": 1,
+  "status": "media-ready",
+  "title": "星星兔在伞肚子里",
+  "subtitle": "躺下来发现的小秘密",
+  "description": "雨伞山坡上的圆圆说，自己的肚子里藏着一只星星兔。小鼹鼠栗绒弯腰看、蹲下看，却总看不完整。她要怎样才能找到那两只长耳朵呢？",
+  "ageBand": "3-5",
+  "theme": "换个角度",
+  "color": "#637EA6",
+  "character": "小鼹鼠栗绒：灰褐色绒毛，圆鼻头，穿浅绿色短外套，戴米白色软帽。圆圆：扎根在雨伞山坡上的活伞，深蓝色伞面，弯弯的棕色伞柄，伞沿离地很低，伞面内侧绣着银色星星。",
+  "cover": "/library/stories/expansion-0481/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 159.682,
+  "detailUrl": "/library/stories/expansion-0481/v1/story.json",
+  "audio": "/library/stories/expansion-0481/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨停了，雨伞山坡闻起来像洗过的青草。小鼹鼠栗绒走过一把矮矮的蓝伞。蓝伞圆圆轻声说：“我的肚子里，藏着一只兔子。”栗绒摸摸自己的圆鼻头，停住了脚。",
+      "image": "/library/stories/expansion-0481/v1/p01.webp",
+      "start": 0,
+      "end": 19.382
+    },
+    {
+      "id": "p02",
+      "text": "“兔子吃什么呀？”栗绒问。圆圆笑得伞沿轻轻抖：“它是银线绣的，由好多颗星星连起来。”栗绒真想看看星星兔。她绕到伞边，弯下腰，只看见三颗亮亮的小星星。",
+      "image": "/library/stories/expansion-0481/v1/p02.webp",
+      "start": 19.382,
+      "end": 39.484
+    },
+    {
+      "id": "p03",
+      "text": "“你能举高一点吗？”栗绒扶住弯弯的伞柄。“我的根扎在土里，站不了更高啦。”圆圆说。栗绒松开手，往后退了几步。可是，低低的伞沿又把那些小星星挡住了。",
+      "image": "/library/stories/expansion-0481/v1/p03.webp",
+      "start": 39.484,
+      "end": 59.562
+    },
+    {
+      "id": "p04",
+      "text": "栗绒换到另一边，蹲下来，伸长脖子。她看见一个圆尾巴，却找不到兔耳朵。再抬头，帽子碰着伞沿，扑地掉了。“哎呀，我倒像一只正在钻洞的小兔子！”她笑起来。",
+      "image": "/library/stories/expansion-0481/v1/p04.webp",
+      "start": 59.562,
+      "end": 79.424
+    },
+    {
+      "id": "p05",
+      "text": "她低头去找帽子，脸蛋靠近草地，眼睛朝上一瞧。咦，两条长耳朵出现了！原来，脑袋低一点，能看见的地方反而多一点。栗绒捡起帽子，心里冒出了一个软软的主意。",
+      "image": "/library/stories/expansion-0481/v1/p05.webp",
+      "start": 79.424,
+      "end": 99.502
+    },
+    {
+      "id": "p06",
+      "text": "栗绒从坡边的家里拿来一块小垫子，铺在圆圆身下。她先坐稳，再慢慢躺好，把帽子放在身旁。“这回，我的鼻头不用挤着伞沿啦。”她眨眨眼睛，望向头顶那片深蓝。",
+      "image": "/library/stories/expansion-0481/v1/p06.webp",
+      "start": 99.502,
+      "end": 119.484
+    },
+    {
+      "id": "p07",
+      "text": "长耳朵、圆肚子、小尾巴，这次全都看见了！银色星星连成一只跳起来的兔子，前爪还捧着一颗小星星。栗绒用手指在空中跟着描：“找到你啦！原来你一直在我的头顶呀。”",
+      "image": "/library/stories/expansion-0481/v1/p07.webp",
+      "start": 119.484,
+      "end": 139.73
+    },
+    {
+      "id": "p08",
+      "text": "圆圆问：“我的兔子好看吗？”“好看，它还带着点心呢。”栗绒说。风从伞边轻轻经过，吹凉了她的脚尖。她把小手放在肚子上，陪星星兔躺了一会儿，连圆鼻头也歇好了。",
+      "image": "/library/stories/expansion-0481/v1/p08.webp",
+      "start": 139.73,
+      "end": 159.682
+    }
+  ],
+  "buildHash": "a2b9ab0eac01fafcbc39837c21bd640c27e355ed1ff0960049fbc1614b9d179c"
+}

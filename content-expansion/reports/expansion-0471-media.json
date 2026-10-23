@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0471",
+  "title": "卷卷松开了最后一个结",
+  "version": 1,
+  "bodyCharacters": 1447,
+  "pages": 16,
+  "duration": 447.578,
+  "bodySha256": "953986be2c3b0fba0065c8dca39f65545f852433b105829422786785f7a09a91",
+  "audioSha256": "db6be68dcbd562d786a867ad2aa4518aeb2e1c6aef4f49770010791aefda75e3",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "56be0899bbfc869c004a79f5e6e530ee7ee4caf5f2eabf0f536ae9369942f251",
+      "bytes": 17718
+    },
+    {
+      "name": "p01",
+      "sha256": "6bf2381a0817cc362a3b1c0f69c71a1321ae2f4727fd38e3655a940338a9826a",
+      "bytes": 12090
+    },
+    {
+      "name": "p02",
+      "sha256": "9e1fb6c19318aa4ec48155b0a211217155a1201be5964e0b897b3c7174002d06",
+      "bytes": 11438
+    },
+    {
+      "name": "p03",
+      "sha256": "bcd36646ac14039151451cdb8119faa9e93de4a269c3457593bc01e98d920be3",
+      "bytes": 12106
+    },
+    {
+      "name": "p04",
+      "sha256": "dff65213a94ffc1e53b3add3f0675994859cbe2c181db86a8a5bd7745cc87ddb",
+      "bytes": 11610
+    },
+    {
+      "name": "p05",
+      "sha256": "68235afd4106bfac57c892fd2d764a3c86d91e31a15119730d1445e6c97aaa36",
+      "bytes": 13076
+    },
+    {
+      "name": "p06",
+      "sha256": "65d6b559fa7a26efe1a2cd18ce9fb86c24290fb98634266ce67d9811361e5b1c",
+      "bytes": 10752
+    },
+    {
+      "name": "p07",
+      "sha256": "f86071765e7917e7da035c89698cf86f79df00d6b044082c04eab6ef9415b0b4",
+      "bytes": 12036
+    },
+    {
+      "name": "p08",
+      "sha256": "5834323cbe680897e41b056455c12de745cbb44eb9a1c62deb4f5a644deb2d25",
+      "bytes": 12502
+    },
+    {
+      "name": "p09",
+      "sha256": "8905705100be9615d913bd6cef400c6c402e1d60a66cfd4423839282f2045724",
+      "bytes": 12630
+    },
+    {
+      "name": "p10",
+      "sha256": "8f76e8024f91b48c50ebaf538f7f7e2f732bfe5db7a3745f7ec6e7c96e170a2e",
+      "bytes": 11588
+    },
+    {
+      "name": "p11",
+      "sha256": "d9164ab46826a61a562ae95df7eebe067c0d7f1c024790abca3f072acc24d35c",
+      "bytes": 13304
+    },
+    {
+      "name": "p12",
+      "sha256": "b3b0fee8a82779b6bcce19aebc0610acda282d2df4070ef761fd4e61b7f5d53a",
+      "bytes": 12826
+    },
+    {
+      "name": "p13",
+      "sha256": "444ad4f307e2822f0005e08b842fdbb84ee734ce6478a10b4f272dea739dd1da",
+      "bytes": 13990
+    },
+    {
+      "name": "p14",
+      "sha256": "7ee722384d4c6a15e73f7a8ddb766cc05bf8ec7392c711b3bdeb4f555bc56615",
+      "bytes": 15182
+    },
+    {
+      "name": "p15",
+      "sha256": "3d5bcb9a5f0608ae0fbfe0148a2fd5aef6991aebf179d1ec86173ebe2013641b",
+      "bytes": 12436
+    },
+    {
+      "name": "p16",
+      "sha256": "f64ca81963d27be83d52ddb6ccba86705ca7cadfdcdb9889b59ec6bdf484fd2f",
+      "bytes": 15614
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

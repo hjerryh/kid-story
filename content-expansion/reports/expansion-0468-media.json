@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0468",
+  "title": "灰点没有藏起来",
+  "version": 1,
+  "bodyCharacters": 970,
+  "pages": 12,
+  "duration": 292.722,
+  "bodySha256": "3f81f26ebaff70d0e98cf5b7b14a4c18e725891360076454be74acc39923bba4",
+  "audioSha256": "0f8a1a7635732bf9c535d65785c13fdc0ae6b5dcdb6436085e54a1861f6ec9fd",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "2afc081237e4cdcce6ca9451afb98c96d1608a8a4691e69706d2790722d01c06",
+      "bytes": 13568
+    },
+    {
+      "name": "p01",
+      "sha256": "d16074c329d0ede9230ae5a3c2396e7ada25aae5cd178fa21d6d53b18987c4a2",
+      "bytes": 8560
+    },
+    {
+      "name": "p02",
+      "sha256": "87ff842f29d97028ff8e73fc709a89bdae4e24ce7b2c4c771f19c18d8cb63d42",
+      "bytes": 9636
+    },
+    {
+      "name": "p03",
+      "sha256": "9f1363c3e3b2c07e03e991b913e628b5a20cd79b3d4374bb5921ec34f46ef40b",
+      "bytes": 9106
+    },
+    {
+      "name": "p04",
+      "sha256": "175b32f2e9fe27e58f0bcdc3d404c7ef3d8acb1d36079243c90978db9b542d1d",
+      "bytes": 9418
+    },
+    {
+      "name": "p05",
+      "sha256": "14bbc189d643a73f46f361dae49d282a12a5bb5c3d9c9748ce85d399be81418e",
+      "bytes": 9734
+    },
+    {
+      "name": "p06",
+      "sha256": "d17a6a003ef6b7d8417275b00a463243b9035223351c26d4dbbc4b62396c57e6",
+      "bytes": 9030
+    },
+    {
+      "name": "p07",
+      "sha256": "1deb4228b49f52515ce15ec2742af605b82066cdbc3b869e52c5ccc465dad0cd",
+      "bytes": 9158
+    },
+    {
+      "name": "p08",
+      "sha256": "3fc0347910e33a402fc2642e6429efd65cfd46cdc9b5151022065015be807864",
+      "bytes": 10690
+    },
+    {
+      "name": "p09",
+      "sha256": "89f7cac3e0b9b65f383e92a2366782fe118e03f3ac9aeed19baa2bbe25c7cc1a",
+      "bytes": 11264
+    },
+    {
+      "name": "p10",
+      "sha256": "68d3ceae0824814161f1fcf48ca9bf653db976303b2af0a4cc015c34cf3bca0b",
+      "bytes": 11320
+    },
+    {
+      "name": "p11",
+      "sha256": "723a8bf06633ad809a420fe6310f69e331dbeb48cdae99e23e4674ad2019c588",
+      "bytes": 11878
+    },
+    {
+      "name": "p12",
+      "sha256": "b5ab448b884468c714bfbf5b5a312edfefaaa2f2aab38a1961aad59b84d10170",
+      "bytes": 9166
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

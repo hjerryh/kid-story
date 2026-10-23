@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0488",
+  "title": "蜗牛旁边住鲸鱼",
+  "version": 1,
+  "bodyCharacters": 503,
+  "pages": 8,
+  "duration": 163.786,
+  "bodySha256": "e9a72aab1958e078004fb761c49d3fa97a740bf599d5e7e7d916c9676cbf4845",
+  "audioSha256": "f80bf4d4765b6e417a4936be0338ca77924beec0931f8e2d2199238b102939a4",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "1df74b08aa9615d158dc5dfcace3a1a4e0dbfd8045dc5f203459268c5379de82",
+      "bytes": 13070
+    },
+    {
+      "name": "p01",
+      "sha256": "6e33f05e4ad0d692a704d0cfe903ad8d163b9b6efa250f6c13ccf24937a29570",
+      "bytes": 9186
+    },
+    {
+      "name": "p02",
+      "sha256": "e35531db600f021dcab58f05031c027940b92362c2eec76aee3aa55e9e6980ce",
+      "bytes": 9574
+    },
+    {
+      "name": "p03",
+      "sha256": "d856bbd478dfd4cbfdcded6cc42473eafe463dd9c548f0325872ea9fb0600e38",
+      "bytes": 9450
+    },
+    {
+      "name": "p04",
+      "sha256": "1a025666739dac33fe7c2ef51e4e34617f6a3b8c57e0bd830172a5bf95419843",
+      "bytes": 10076
+    },
+    {
+      "name": "p05",
+      "sha256": "4972eee7c08bc4b57a00658fdd5cd3ed6407d3176bc7276d705d0bdd5ae60a4d",
+      "bytes": 9456
+    },
+    {
+      "name": "p06",
+      "sha256": "6119dba6b3af9a84b0e0f37e649b1ea926e7c0bb098afebd1bca095e1d52f5c7",
+      "bytes": 9640
+    },
+    {
+      "name": "p07",
+      "sha256": "5552b7a5d91b0c0c9e96399a35d8d0457247e784bf9dacbf7299bab6e5c3a77d",
+      "bytes": 9762
+    },
+    {
+      "name": "p08",
+      "sha256": "266dea224144a01973d545197f8403a63b916416ae49dc68797bac1c403f2714",
+      "bytes": 10256
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

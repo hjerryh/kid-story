@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0485",
+  "title": "小游停在黄绳肚子上",
+  "version": 1,
+  "bodyCharacters": 522,
+  "pages": 8,
+  "duration": 168.49,
+  "bodySha256": "48678157cf352af97067a026619d6fc71e2a87abd4253b01facf89e9bf0692a0",
+  "audioSha256": "8bf454da4b019db0cd47d02cf14c5c765c7755081bb494cf100e1f33b220139f",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "df0674b8c11de5c8717744cccf8681d061de73e82b0dccf551208f33b72d70df",
+      "bytes": 13618
+    },
+    {
+      "name": "p01",
+      "sha256": "277dc38a94144df92a32b65cacc71c6e48f021dd0b5cf5d7e1f5bb30583c26f8",
+      "bytes": 9100
+    },
+    {
+      "name": "p02",
+      "sha256": "39295bee874b565118b0b1bcb93f79c965ccef280391e2196dfc785a1eb09bf6",
+      "bytes": 10446
+    },
+    {
+      "name": "p03",
+      "sha256": "9cfb84f8069bc17db68eb125c5296e0ae6886347635f72a0f693f5ab1f35ad32",
+      "bytes": 9978
+    },
+    {
+      "name": "p04",
+      "sha256": "a867bb49ca87738a0e951dc35ea49e26c90188434268877eec7dc034d7c5fb10",
+      "bytes": 10558
+    },
+    {
+      "name": "p05",
+      "sha256": "3873e95ee3714ef81d25d7bff913e4e108409df45ae46ae46f1bf421e5f880b1",
+      "bytes": 10548
+    },
+    {
+      "name": "p06",
+      "sha256": "1122ad721b09e5daa26554b3fded50410ebc451c7e216f080b7c9c6d49af8e3e",
+      "bytes": 10018
+    },
+    {
+      "name": "p07",
+      "sha256": "26cb5c614d335ff6050dfe0c907edbfc11821075baeefb5780320b37f9bdf19a",
+      "bytes": 11150
+    },
+    {
+      "name": "p08",
+      "sha256": "c2643d74830fcf239c0bcfa7798034ce1bfdcda8c04cbd405698f720e5d70e62",
+      "bytes": 10160
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

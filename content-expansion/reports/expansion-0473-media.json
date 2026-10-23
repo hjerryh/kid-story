@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0473",
+  "title": "乔榛的花椅朝哪边",
+  "version": 1,
+  "bodyCharacters": 1468,
+  "pages": 16,
+  "duration": 446.234,
+  "bodySha256": "884ff4416f83c582cf012d7cff7cd3dc8c65f34fcb6fcc3162ee7796ea5d3192",
+  "audioSha256": "3e9b6ec89976fc4c2485452fb502c7e114088d1a0459c9e58b9a168ff7af2319",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "d95c77b5bdafd11804422336105d5d6e645b17fc06d470f7a4ecf298b9a95fd7",
+      "bytes": 15116
+    },
+    {
+      "name": "p01",
+      "sha256": "7ec063948e1b3cb6c543f1a6b0266cb4985c4d727d89ca3c27d7c18ddc6bd8e3",
+      "bytes": 10390
+    },
+    {
+      "name": "p02",
+      "sha256": "b38b69bb84b2a8a4e9ba532210b687a69b178779a0423832a68f7012d34337ea",
+      "bytes": 11886
+    },
+    {
+      "name": "p03",
+      "sha256": "e4f4c95c9c745e2af8af7513674696ef70922f48ad18544752548f646156a6ff",
+      "bytes": 10108
+    },
+    {
+      "name": "p04",
+      "sha256": "cdd49f63cab9c791dccba18201fbb0cb5e6e34b5c74b8e47c2143d1eafea9b48",
+      "bytes": 12936
+    },
+    {
+      "name": "p05",
+      "sha256": "94657493e3446af756838398c53b36aa54c832b13e33d09e8c9fea2ffa8b1a70",
+      "bytes": 14928
+    },
+    {
+      "name": "p06",
+      "sha256": "9452cd2a95f2ff2cf3d6ef722a87a854cbb277b894ad52f33e0d8b9c1d5c245f",
+      "bytes": 15206
+    },
+    {
+      "name": "p07",
+      "sha256": "1b14a91dad9009d181912e45a50cc39aec79495d98633eeddd77aba097f1b8a1",
+      "bytes": 15122
+    },
+    {
+      "name": "p08",
+      "sha256": "74ef3cb2d65652b8b3b2fa8f3bf0e6fd8903d5e160de80cf46cd243b9ece5ee7",
+      "bytes": 14090
+    },
+    {
+      "name": "p09",
+      "sha256": "4fb7e127c065cbec4a21a072a24fffdf722547dc76d4a73975810f0d33d06545",
+      "bytes": 16360
+    },
+    {
+      "name": "p10",
+      "sha256": "ebc7110d2b78ccd9f76a2e77b74dad79afc0b45ffdd23b0f231eabc61992c905",
+      "bytes": 9420
+    },
+    {
+      "name": "p11",
+      "sha256": "422ca03b10c411fe461d638ff7b28999fc7ac9671ab127b2c83e39a73de65e84",
+      "bytes": 11592
+    },
+    {
+      "name": "p12",
+      "sha256": "1d03bd2f1401aa2745dc99e784b4eb9d0a84cb2bb904824264c27fb89ee0ceb3",
+      "bytes": 15532
+    },
+    {
+      "name": "p13",
+      "sha256": "1576097e37c200e822f5e581cea3da41f87168152851f885416c5bc665990ead",
+      "bytes": 16122
+    },
+    {
+      "name": "p14",
+      "sha256": "4dda99f7a0051beeb4f77088b02e4f79cf9fb9c1bcdf547e68019c6ce843fe15",
+      "bytes": 14520
+    },
+    {
+      "name": "p15",
+      "sha256": "418df71082ee3d5cedf03450ddd31a7903d0422bf4ea7e95abccaba75ce017c9",
+      "bytes": 11870
+    },
+    {
+      "name": "p16",
+      "sha256": "aefc897eca66195cdd9b81cf453c6aacff95a4b0976fd80e7e3e29a776b90cd8",
+      "bytes": 12164
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

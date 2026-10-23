@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0477",
+  "title": "梦外有人念着路",
+  "version": 1,
+  "bodyCharacters": 1528,
+  "pages": 16,
+  "duration": 469.994,
+  "bodySha256": "a7e2219ba72b5c06df1e1bf1dc81b13044725328cb3491d8d010578526c029c6",
+  "audioSha256": "90f4aea63084c62e7a5228d2a78d068889f5a9e0e25063d4f594ad31d88f9a40",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6dc21bd63ba902ad1bb8c9490157a3791a9ed4198dff1dfd254b8d735aedb8ea",
+      "bytes": 14692
+    },
+    {
+      "name": "p01",
+      "sha256": "a321d1fa45ba052fab4446c7b433d3bc57c94b04a696d94f63cb8d67fcb4040e",
+      "bytes": 12426
+    },
+    {
+      "name": "p02",
+      "sha256": "3ce826f03cb15550f1eaf5f8f82d11ae4293636c7ede25f26ba5b518231f8d3b",
+      "bytes": 9766
+    },
+    {
+      "name": "p03",
+      "sha256": "cfc85f31498577aeab8377d92d6231276cece0f5494c3b6a028c35cb024dc45d",
+      "bytes": 12092
+    },
+    {
+      "name": "p04",
+      "sha256": "0393ab37a04fae30740d3d452c47fd697f2da73acac64708331152a3a566a568",
+      "bytes": 11290
+    },
+    {
+      "name": "p05",
+      "sha256": "054d16173d4a94772751bfaea98c52690a904f4b6bb14b3d0f59c49867a023c6",
+      "bytes": 10810
+    },
+    {
+      "name": "p06",
+      "sha256": "e279ca7c86ea554bbf976630087acf9757881fd551e0889b54ad961c7cc00ad9",
+      "bytes": 13188
+    },
+    {
+      "name": "p07",
+      "sha256": "584dfdc07e8362c7f110b8366a121ba042adb1e6468dfb9576e97b350f5cb289",
+      "bytes": 11638
+    },
+    {
+      "name": "p08",
+      "sha256": "6c6cf28d70626066ef585d1abbb2660d13fc2b6ce728f7e5e5e37f6adeb16868",
+      "bytes": 12616
+    },
+    {
+      "name": "p09",
+      "sha256": "e668fd201b515f40c9859cce6a69a57a293d760a32af95d7bdb1dd710d7a69a1",
+      "bytes": 12804
+    },
+    {
+      "name": "p10",
+      "sha256": "3b1612a61c575235067c3147da8a3f2125e0a40b56c03583ae1fc728817fba09",
+      "bytes": 11712
+    },
+    {
+      "name": "p11",
+      "sha256": "9df882ed749e845f9e9a39314d5e02c7dffcad8363ef6b2b6164dddb6384c036",
+      "bytes": 10702
+    },
+    {
+      "name": "p12",
+      "sha256": "afb62a46c1fa137b00f0c56a3dccf26d27118739c1145651677e6bc8951fd1bf",
+      "bytes": 12054
+    },
+    {
+      "name": "p13",
+      "sha256": "1597dd210a7fc7cde60e19a3500f5e995eb8c9e4331ea0ab20016fe648111229",
+      "bytes": 10642
+    },
+    {
+      "name": "p14",
+      "sha256": "e7a3e544353b2bdbfc6cbf6070eb2bc9067c0e82356f742e2534ef22e5b8d4d4",
+      "bytes": 12864
+    },
+    {
+      "name": "p15",
+      "sha256": "84ad8a9154dd94e8b4c51bc0a8a0285f297f54009e99223044126cff454525c0",
+      "bytes": 14184
+    },
+    {
+      "name": "p16",
+      "sha256": "c51e04c1d7ab3788f52ade9e48d3477d3ab975841f82fab46e9544bbc5506925",
+      "bytes": 15042
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0485",
+  "version": 1,
+  "status": "media-ready",
+  "title": "小游停在黄绳肚子上",
+  "subtitle": "纸鱼的细绳小桥",
+  "description": "小鼠绒桃给纸鱼搭了一条细绳小桥，想让它滑到窗边看花。可小鱼总停在绳子中央，怎么也到不了对岸。绒桃蹲下来，发现小桥悄悄垂下了一个肚子。",
+  "ageBand": "3-5",
+  "theme": "尝试与调整",
+  "color": "#79BFCB",
+  "character": "小鼠绒桃：浅灰色绒毛，圆耳朵，穿莓红色背带裙，戴一枚白色花朵发夹。纸鱼小游：天蓝色折纸身体，圆圆的黑眼睛，尾巴有一道白色折痕。",
+  "cover": "/library/stories/expansion-0485/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 168.49,
+  "detailUrl": "/library/stories/expansion-0485/v1/story.json",
+  "audio": "/library/stories/expansion-0485/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "风铃街道上，小鼠绒桃有一条纸鱼，叫小游。它能沿着细绳往低处滑，像在水里游泳。今天，窗边开了一朵紫花。小游摆摆纸尾巴：“我想去闻闻！”绒桃决定给它搭一座绳桥。",
+      "image": "/library/stories/expansion-0485/v1/p01.webp",
+      "start": 0,
+      "end": 21.614
+    },
+    {
+      "id": "p02",
+      "text": "绒桃在桌上搭起两座积木塔。靠近自己的高一点，靠近花盆的矮一点。她把黄绳系在两座塔上，放好小游。“出发！”小鱼嗖地滑出去，却停在绳子中央，轻轻晃着，一动也不动了。",
+      "image": "/library/stories/expansion-0485/v1/p02.webp",
+      "start": 21.614,
+      "end": 43.444
+    },
+    {
+      "id": "p03",
+      "text": "“是不是没看见花呀？”绒桃站到花盆旁，挥挥蓝手帕。小游使劲摆尾巴，仍留在原处。“我看见啦，还有花上的小绒毛呢。”它说，“可是，我面前的路好像不肯让我过去。”",
+      "image": "/library/stories/expansion-0485/v1/p03.webp",
+      "start": 43.444,
+      "end": 63.93
+    },
+    {
+      "id": "p04",
+      "text": "绒桃把高塔又加高一块，将绳头移到顶上，再把小游送回起点。这回，它滑得快多了，纸尾巴呼呼响。可是到了中央，它还是停住。“这里倒像一张小吊床。”小游小声嘀咕。",
+      "image": "/library/stories/expansion-0485/v1/p04.webp",
+      "start": 63.93,
+      "end": 85.424
+    },
+    {
+      "id": "p05",
+      "text": "绒桃蹲下来，鼻尖差点碰到桌沿。啊，黄绳垂着一个圆肚子！小游滑到了肚子底下，前面的绳子却往上翘。“你只能往低处游，”她轻轻说，“我得把这段上坡改一改。”",
+      "image": "/library/stories/expansion-0485/v1/p05.webp",
+      "start": 85.424,
+      "end": 104.686
+    },
+    {
+      "id": "p06",
+      "text": "她先让小游躺在手帕上，再解开矮塔这边的绳头，一点点收短黄绳。圆肚子慢慢平了。她重新系好，又蹲下看：从高塔到矮塔，绳子一路斜斜向下，没有往上翘的小坡了。",
+      "image": "/library/stories/expansion-0485/v1/p06.webp",
+      "start": 104.686,
+      "end": 125.532
+    },
+    {
+      "id": "p07",
+      "text": "小游第三次出发。沙沙沙，它经过刚才停住的地方，继续往前滑，一直滑到矮塔旁。紫花就在眼前，闻起来甜甜的。“到了！”它把尾巴翘得高高的，像举起一面小小的蓝旗。",
+      "image": "/library/stories/expansion-0485/v1/p07.webp",
+      "start": 125.532,
+      "end": 146.738
+    },
+    {
+      "id": "p08",
+      "text": "绒桃也凑过去闻花，鼻尖碰到了那面蓝旗，痒得她直笑。小游问：“明天还能再游一次吗？”“当然。”她摸摸绷好的黄绳。窗外叮铃一响，小鱼便轻轻摆尾，仿佛已经梦见明天的水波。",
+      "image": "/library/stories/expansion-0485/v1/p08.webp",
+      "start": 146.738,
+      "end": 168.49
+    }
+  ],
+  "buildHash": "2dfe6e9dbc7e4df60c903e114e6e855b4e51713cb093525f898abc80447fcbfe"
+}

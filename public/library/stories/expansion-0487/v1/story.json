@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0487",
+  "version": 1,
+  "status": "media-ready",
+  "title": "米糕换了小碟子",
+  "subtitle": "小院里的米糕香",
+  "description": "蓬栗想在竹叶茶馆的小院里摆点心，可包点心的纸总被小风吹进竹林。石头压住这一张，那一张又飞走了。怎样才能让客人吃上点心，也让竹林清清爽爽？",
+  "ageBand": "3-5",
+  "theme": "清爽竹林",
+  "color": "#86AA75",
+  "character": "小松鼠蓬栗：栗红色软毛，奶白色脸颊和肚皮，蓬松大尾巴，穿浅蓝色围裙，围裙上有一个圆口袋。小风：透明的细长身影，只有鼓起的圆脸颊，经过时带起淡绿色旋纹。",
+  "cover": "/library/stories/expansion-0487/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 168.154,
+  "detailUrl": "/library/stories/expansion-0487/v1/story.json",
+  "audio": "/library/stories/expansion-0487/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "竹叶茶馆外，竹叶沙沙响。小松鼠蓬栗系好蓝围裙，要在院里摆一桌米糕。每块米糕都包着薄薄的纸，像一只白枕头。小风凑过来闻了闻：“真香，我可以坐这里吗？”",
+      "image": "/library/stories/expansion-0487/v1/p01.webp",
+      "start": 0,
+      "end": 20.27
+    },
+    {
+      "id": "p02",
+      "text": "“可以呀！”蓬栗刚说完，一位兔客人打开纸包。呼，空纸飞了！它翻过桌角，落在竹丛里。蓬栗追去捡，小风红着脸说：“对不起，我只轻轻动了一下嘴巴，纸就跑走了。”",
+      "image": "/library/stories/expansion-0487/v1/p02.webp",
+      "start": 20.27,
+      "end": 41.476
+    },
+    {
+      "id": "p03",
+      "text": "蓬栗找来几颗光滑的小石头，压在纸包上。“这下稳啦。”小风绕着桌子走，纸包果然一动不动。蓬栗把捡回的空纸收进屋里，拍拍爪子，又给客人端来一杯温温的水。",
+      "image": "/library/stories/expansion-0487/v1/p03.webp",
+      "start": 41.476,
+      "end": 61.698
+    },
+    {
+      "id": "p04",
+      "text": "可是，客人搬开石头，取出米糕，空纸又呼啦飞起来。这回，它贴着蓬栗的耳朵滑过去，落到一棵竹笋旁。蓬栗捡起纸，望望桌子：“总不能请客人一边吃，一边按着纸呀。”",
+      "image": "/library/stories/expansion-0487/v1/p04.webp",
+      "start": 61.698,
+      "end": 81.632
+    },
+    {
+      "id": "p05",
+      "text": "回到屋里，蓬栗洗了自己的小碟。水珠顺着碟边滚，叮，落进盆里。她忽然看看柜子：里面还有一摞小碟呢！“米糕可以坐碟子，纸可以留屋里。吃完以后，碟子再洗干净。”",
+      "image": "/library/stories/expansion-0487/v1/p05.webp",
+      "start": 81.632,
+      "end": 102.382
+    },
+    {
+      "id": "p06",
+      "text": "她把剩下的纸包端回屋，洗净爪子，再在柜台上拆开，米糕一块一块放进小碟。干净的纸叠好，收进抽屉，下次还能包小物件。蓬栗端着一盘小碟走出去，院里的竹叶正在轻轻拍手。",
+      "image": "/library/stories/expansion-0487/v1/p06.webp",
+      "start": 102.382,
+      "end": 124.332
+    },
+    {
+      "id": "p07",
+      "text": "客人拿起米糕，小风轻轻吹过，桌上没有白纸飞起来。蓬栗又沿着竹丛找了一圈，连竹根旁也看过，没有漏下纸片。“好了，你慢慢长。”她对竹笋说。小风把她的围裙角吹得翘翘的。",
+      "image": "/library/stories/expansion-0487/v1/p07.webp",
+      "start": 124.332,
+      "end": 146.594
+    },
+    {
+      "id": "p08",
+      "text": "吃完点心，蓬栗把小碟洗净，靠在架上晾干。小风坐到空凳上，替她吹吹热乎乎的脸。竹林沙沙，碟子亮亮。蓬栗笑着说：“你吃不下米糕，就多闻一会儿吧。”小风香香地打了个转。",
+      "image": "/library/stories/expansion-0487/v1/p08.webp",
+      "start": 146.594,
+      "end": 168.154
+    }
+  ],
+  "buildHash": "638b5e5ed28941ba4082e8614fd8cc6a50facb7e89ebc20c462e3c49a151243c"
+}

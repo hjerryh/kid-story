@@ -1,0 +1,60 @@
+{
+  "id": "expansion-0482",
+  "title": "团青坐到了琴声旁",
+  "version": 1,
+  "bodyCharacters": 506,
+  "pages": 8,
+  "duration": 159.274,
+  "bodySha256": "1adadef816db68f3af79a1e8992c573de63015e9d191f354c2e1c67b4190aea6",
+  "audioSha256": "3fb01f141e62d4a0a4923e07643f1e0a4720e36c3891ede687f49af91ad4cc59",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "6c1b4f6f7e6c4cca8e9c4674c1130e91e225ddbac8dc37c6142c1efe3c8b700f",
+      "bytes": 12606
+    },
+    {
+      "name": "p01",
+      "sha256": "1b3b757655649200996b91e8e6c4bdff05e56cfbbce9da8017f23fcca183a0df",
+      "bytes": 10200
+    },
+    {
+      "name": "p02",
+      "sha256": "fef5925c901685974c8b03ff8d89a38666ea57b7f165ddc1d6e9c2f162599074",
+      "bytes": 10640
+    },
+    {
+      "name": "p03",
+      "sha256": "9c0e410d009acf09c940e8a53845e8beab308e936d256883a8e961e890d1fb6f",
+      "bytes": 10216
+    },
+    {
+      "name": "p04",
+      "sha256": "9cecb595dcf4c1cdde47323b8080332b13906746dd3f3330d879f0676dfb7713",
+      "bytes": 10798
+    },
+    {
+      "name": "p05",
+      "sha256": "06a764a2a7cd4294e7122e13a5caf472573c31c0c42286e23f853ecb1f08a182",
+      "bytes": 10958
+    },
+    {
+      "name": "p06",
+      "sha256": "548667e989b7990d9bef52a59400b122f343205abfef4e29fb460c3d82fc5fde",
+      "bytes": 11080
+    },
+    {
+      "name": "p07",
+      "sha256": "ca7a1a4803a648862de6ca2f98d0c4f8dcf0f961d1110034136d76164389511e",
+      "bytes": 10736
+    },
+    {
+      "name": "p08",
+      "sha256": "18a2f3f11a26f4b8698c054514bb7e9a9785208be449bc1c1eedc3dc50c6faa0",
+      "bytes": 10846
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

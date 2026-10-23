@@ -1,0 +1,80 @@
+{
+  "id": "expansion-0466",
+  "title": "第三根桥柱露出来了",
+  "version": 1,
+  "bodyCharacters": 959,
+  "pages": 12,
+  "duration": 285.642,
+  "bodySha256": "9daac00deed1c7216b6d486bb484f94476c67a046fadb9d4f38117fd36657b7b",
+  "audioSha256": "f535d5cfdd6d23366b7c881a042d8edb231cbf5bd8206cdcb8ae68b91ebda02b",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "8820cb5dd17da4dd13733cbbb216510940bb01efda3cc878a4d00cbe4146023f",
+      "bytes": 18708
+    },
+    {
+      "name": "p01",
+      "sha256": "2f4ae28baa676b995368ce3b9c73f8e981bf2d625227877593b2eac53ba10121",
+      "bytes": 11942
+    },
+    {
+      "name": "p02",
+      "sha256": "0c3a79ecddfc1b36dc3c59fe2fccb6553900c5fe93b55d6d2c0757fb4eab4649",
+      "bytes": 18258
+    },
+    {
+      "name": "p03",
+      "sha256": "61aa33ee804252399f1102e84c27c73ebe05f3e4f31aa521f9bf4efd4b2d52a5",
+      "bytes": 17374
+    },
+    {
+      "name": "p04",
+      "sha256": "c5e32b627d1ba90f832c5f3bb459468deaa38ab173c9ff00741b7d2bf9414d80",
+      "bytes": 9226
+    },
+    {
+      "name": "p05",
+      "sha256": "32a18abb3850250ee55b3b588a17ef4a754c832b3b5fc6183551469a44e00a4f",
+      "bytes": 16726
+    },
+    {
+      "name": "p06",
+      "sha256": "08a3efa1042de68a36695c14bf1fc3341c4e0c68362e667f2ee247e09cb15e36",
+      "bytes": 15202
+    },
+    {
+      "name": "p07",
+      "sha256": "a34d59f1544e14ae83435b2dc82d1a0c50f7932304d4bf37379ce1f5dfe1aa76",
+      "bytes": 14906
+    },
+    {
+      "name": "p08",
+      "sha256": "832e40e18582ddf2ca605ed11fd1b81c5cadde2c00b691861c03012ef2c81864",
+      "bytes": 8090
+    },
+    {
+      "name": "p09",
+      "sha256": "6d53f6d7e8d938001863ddd9d4b34559064babf74514f597cfc6bef4ea65f929",
+      "bytes": 14722
+    },
+    {
+      "name": "p10",
+      "sha256": "c1ac0b02e54d2dd2fb50845b0ce70607c8c9c7ed921398457403694a6fc5de8e",
+      "bytes": 15322
+    },
+    {
+      "name": "p11",
+      "sha256": "f0c167b81f86b8d0a831fe5140c53e86a2bf80b4066102d4dcc87391cbbcc029",
+      "bytes": 14690
+    },
+    {
+      "name": "p12",
+      "sha256": "1f8eaaeac85504809e420a49bb77a60b51ed445979a4d20dd48dec85353ce91d",
+      "bytes": 15534
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

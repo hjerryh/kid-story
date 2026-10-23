@@ -1,0 +1,100 @@
+{
+  "id": "expansion-0479",
+  "title": "舒榆留下了几道皱纹",
+  "version": 1,
+  "bodyCharacters": 1466,
+  "pages": 16,
+  "duration": 440.33,
+  "bodySha256": "c1602d18b6415185160687f38e89d695047296ff58bc5165c2acaeffae0a6a40",
+  "audioSha256": "654e4c8dc04c804b4f59190a3b2043e3df14314c25776dace43e68ce07c74169",
+  "voice": "zh-CN-XiaoxiaoNeural",
+  "illustrations": [
+    {
+      "name": "cover",
+      "sha256": "dc1c99aadb3fe0ffb21f8833d3bcd6ed729b4c3883c28a7fa0777c576a0606f7",
+      "bytes": 11802
+    },
+    {
+      "name": "p01",
+      "sha256": "548dc2ead2fdd63a7212d4c0d940e646996a2019147b9253a17ff3265b352781",
+      "bytes": 7574
+    },
+    {
+      "name": "p02",
+      "sha256": "366e1983e206ac0e89c5220c892f1c8d7e37007661c5c610f60933601604f13c",
+      "bytes": 10938
+    },
+    {
+      "name": "p03",
+      "sha256": "742f13e94a5934391a1b737ab63fd796c735f40f49bd10cce59bf2125df587d8",
+      "bytes": 14070
+    },
+    {
+      "name": "p04",
+      "sha256": "bba5c8e553fcf1975aed2ff9a36dda6210c48390da028f8b4c89a57215af4c55",
+      "bytes": 10902
+    },
+    {
+      "name": "p05",
+      "sha256": "3085889578007893ccc6747d46f3a85eb2deaa53af6c45d4be8927d782c52618",
+      "bytes": 10598
+    },
+    {
+      "name": "p06",
+      "sha256": "c91eb7159ab1839a5ea720729df8f935050b25bc168a0d030676617d307e67f7",
+      "bytes": 10484
+    },
+    {
+      "name": "p07",
+      "sha256": "de6b2170a71b009826fcb8ce527772d06bf64e0b38f6b40c2c5926250067952a",
+      "bytes": 11288
+    },
+    {
+      "name": "p08",
+      "sha256": "94e02d486904a85177015929128fe4f8f6a214d64951b22232e9eb082a41b75e",
+      "bytes": 9882
+    },
+    {
+      "name": "p09",
+      "sha256": "c40eb395d2005685bc86c6d1ae7dafa55a9dcc2a7ed2aeafe1c8c2dcf1287920",
+      "bytes": 11550
+    },
+    {
+      "name": "p10",
+      "sha256": "50d05562609a27a250dbd87f084b07e591a5fa2252b4c492ef0a5cbb38b1f3f5",
+      "bytes": 10808
+    },
+    {
+      "name": "p11",
+      "sha256": "ce336496ca76ddf7d16352c9f4fd22997ecab4a729daf99f1d45349383796c5e",
+      "bytes": 11632
+    },
+    {
+      "name": "p12",
+      "sha256": "4563502899897f402fe42489c2984d05b68c0f8fce590ebcf89dbd945dc17e2f",
+      "bytes": 11046
+    },
+    {
+      "name": "p13",
+      "sha256": "a1b2d480abb244c6b0563bf25d91cda88b0129606bd37c005f16054295ea52f5",
+      "bytes": 11922
+    },
+    {
+      "name": "p14",
+      "sha256": "98e5b02469a197bf0bdbcff6a326dbd1db87efc49b2e8c0688bb865d7365abdd",
+      "bytes": 13722
+    },
+    {
+      "name": "p15",
+      "sha256": "e93f5ff8dc5859bed4b021f47fa044d3506f23bc6eee63d26ff6c676ea068608",
+      "bytes": 11946
+    },
+    {
+      "name": "p16",
+      "sha256": "86f824e57a6624f738a1a75a2d9c24bb8c4c107977f48f7784dc897e65b5bd1c",
+      "bytes": 14150
+    }
+  ],
+  "artworkMethod": "Original scene-specific vector artwork, rendered to WebP",
+  "audioVerification": "Complete decode, PCM-frame timeline, signal levels and silence ratio; not human listening."
+}

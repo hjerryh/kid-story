@@ -1,0 +1,76 @@
+{
+  "id": "expansion-0484",
+  "version": 1,
+  "status": "media-ready",
+  "title": "木鸭忙着捡小船",
+  "subtitle": "叶子船在旅行",
+  "description": "雨后的庭院里，荠菜想让三条叶子船穿过小水池。可是，木鸭扁扁总把船送回来。船为什么不能往前走？荠菜决定跟着木鸭，看清它忙些什么。",
+  "ageBand": "3-5",
+  "theme": "小小误会",
+  "color": "#80B7A6",
+  "character": "小狸猫荠菜：灰褐色毛，白嘴巴，蓬松的环纹尾巴，穿浅绿色短背心。木鸭扁扁：浅棕色木头身体，橙色扁嘴，背上有一条深棕木纹，不穿衣服，能说话和自行游动。",
+  "cover": "/library/stories/expansion-0484/v1/cover.webp",
+  "pageCount": 8,
+  "duration": 160.018,
+  "detailUrl": "/library/stories/expansion-0484/v1/story.json",
+  "audio": "/library/stories/expansion-0484/v1/narration.mp3",
+  "pages": [
+    {
+      "id": "p01",
+      "text": "雨停了，庭院里闻得到湿泥和薄荷的香气。小狸猫荠菜捡来三片落叶，要让它们当小船，从水池这头漂到那头。木鸭扁扁浮在池子里，橙色嘴巴亮亮的，正在看她。",
+      "image": "/library/stories/expansion-0484/v1/p01.webp",
+      "start": 0,
+      "end": 20.222
+    },
+    {
+      "id": "p02",
+      "text": "荠菜轻轻放下第一条船，朝水面吹了一口气。叶子摇摇摆摆，刚离开池边，扁扁就游过来，用嘴把它推了回来。“咦，怎么回家啦？”荠菜笑着，又把叶子放远一点。",
+      "image": "/library/stories/expansion-0484/v1/p02.webp",
+      "start": 20.222,
+      "end": 40.084
+    },
+    {
+      "id": "p03",
+      "text": "扁扁绕了个小圈，还是把船推回来。荠菜把三条船一起放下，它便来回游了三趟。一条也没走远。荠菜的尾巴慢慢垂下来：“我想让小船出门呀，你怎么总挡着它们？”",
+      "image": "/library/stories/expansion-0484/v1/p03.webp",
+      "start": 40.084,
+      "end": 59.226
+    },
+    {
+      "id": "p04",
+      "text": "她挪到池子旁边，想从这里重新出发。扁扁立刻追过来，还把一片打转的叶子推到她爪边。“给你！”它说。荠菜抿着嘴巴，心里有点酸：扁扁是不是不喜欢这个游戏？",
+      "image": "/library/stories/expansion-0484/v1/p04.webp",
+      "start": 59.226,
+      "end": 79.616
+    },
+    {
+      "id": "p05",
+      "text": "这一次，荠菜没有急着放船。她沿着池边，跟着扁扁慢慢走。扁扁推着最后一片叶子，说：“你掉了这么多东西，我都捡回来啦！”荠菜眨眨眼，原来它忙的是这件事。",
+      "image": "/library/stories/expansion-0484/v1/p05.webp",
+      "start": 79.616,
+      "end": 99.454
+    },
+    {
+      "id": "p06",
+      "text": "“谢谢你。不过，叶子没有掉，是我放的小船。”荠菜指着对岸，“我想让它们漂到那边。”扁扁抬起嘴巴：“所以，它们游远了，也不用捡回来？”“对呀，它们在旅行呢！”",
+      "image": "/library/stories/expansion-0484/v1/p06.webp",
+      "start": 99.454,
+      "end": 118.908
+    },
+    {
+      "id": "p07",
+      "text": "“那我去那边接它们。”扁扁游到对岸，靠在薄荷旁，留出宽宽的水路。荠菜重新放好三条船，轻轻吹气。小风也来了，叶子一晃一晃，越过水中央，终于碰到了对岸。",
+      "image": "/library/stories/expansion-0484/v1/p07.webp",
+      "start": 118.908,
+      "end": 138.77
+    },
+    {
+      "id": "p08",
+      "text": "“都到啦！”荠菜沿着池边跑过去。扁扁问：“现在，它们要回家吗？”荠菜摇摇头：“还要在这里玩一会儿。”木鸭便陪三条船晒太阳。薄荷叶碰着它的背，它小声说：“欢迎来玩。”",
+      "image": "/library/stories/expansion-0484/v1/p08.webp",
+      "start": 138.77,
+      "end": 160.018
+    }
+  ],
+  "buildHash": "f15455a1403e8488873a56a39252752133afba3f4f787db259033eb9eb0a1d38"
+}
