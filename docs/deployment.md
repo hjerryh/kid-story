@@ -4,13 +4,13 @@
 
 ## 发布内容
 
-- 当前发布：`20261023-expansion-400-v1`，提交`2810a86e6604425570767cfc9e6095ed30b63333`，Expo Web生产导出。
-- 406篇完整故事：原有6篇，加上连续0001–0400的400篇扩展故事。扩展库共4560页、4960张插图/封面、400条完整旁白（115212.576秒）。1000篇目标仍在进行中。
-- 本次新增0384–0400共17篇、244页、261张图、6635.930秒旁白。前十批各40篇已全部上线。
-- 当前清单5969文件、1295328589字节；增量上传296个变化文件、70323832字节。
-- 发布包：`artifacts/StoryIsland-Web-20261023-expansion-400-v1.incremental.tar.gz`；SHA-256为`9b23954f352f5cc8d2bb923b547f700ba18b90edbbad378f25eb3e4c5f96e611`。
-- 文件清单：`artifacts/StoryIsland-Web-20261023-expansion-400-v1.manifest.json`；服务器全部5969文件SHA-256核对后原子切换。
-- 当前JS：`index-d945c738ff3f83fcdacd18ab8cc87d89.js`。上一版`20261023-expansion-383-v1`保留可回退；未变化媒体通过硬链接复用。
+- 当前发布：`20261023-expansion-465-v1`，提交`22b3ad1bb911ab093630d4fe23b24ad0a465c77d`，Expo Web生产导出。
+- 471篇完整故事：原有6篇，加上连续0001–0465的465篇扩展故事。扩展库共5252页、5717张插图/封面、465条普通话旁白（131999.314秒）。1000篇目标仍在进行中。
+- 本次新增0401–0465共65篇、692页、757张图、16786.738秒旁白。第十一批40篇全部上线，第十二批前25篇上线。
+- 当前清单6856文件、1473691576字节；增量上传888个变化文件、178748296字节。
+- 发布包：`artifacts/StoryIsland-Web-20261023-expansion-465-v1.incremental.tar.gz`；SHA-256为`1f0b99ebbf50d213732ad5ef1bbdd7dbb0ae039e2b7072f078e3374aca8dfe81`。
+- 清单：`artifacts/StoryIsland-Web-20261023-expansion-465-v1.manifest.json`；服务器全部6856文件SHA-256核对后原子切换。
+- 当前JS：`index-d945c738ff3f83fcdacd18ab8cc87d89.js`。上一版`20261023-expansion-400-v1`保留可回退；未变化媒体通过硬链接复用。
 
 这是独立的静态网站，不依赖本机预览服务、Node后端、数据库或在线TTS。收藏和阅读位置保存在访问者自己的浏览器内；本机预览域名下的数据不会迁移到正式域名。
 
@@ -19,8 +19,8 @@
 SSH连接：`jingtian-server`，用户`ubuntu`。公开DNS从`kid-store.jentin.cn`经`jentin.cn`解析到`124.221.85.250`。
 
 - 站点目录：`/www/wwwroot/kid-store.jentin.cn/`
-- 当前资源：`current -> releases/20261023-expansion-400-v1`
-- 服务器校验清单：`manifests/20261023-expansion-400-v1.json`
+- 当前资源：`current -> releases/20261023-expansion-465-v1`
+- 服务器校验清单：`manifests/20261023-expansion-465-v1.json`
 - 更新前的站点配置备份：`manifests/20261022-expansion-40-v1.nginx-before.conf`
 - 证书验证目录：`shared/.well-known/acme-challenge/`
 - Nginx站点配置：`/www/server/panel/vhost/nginx/kid-store.jentin.cn.conf`
@@ -39,6 +39,16 @@ SSH连接：`jingtian-server`，用户`ubuntu`。公开DNS从`kid-store.jentin.c
 续期模拟已通过：`certbot renew --dry-run --cert-name kid-store.jentin.cn --non-interactive --no-random-sleep-on-renew`返回成功。服务器现有Certbot版本使用`renew_hook`保存重载脚本；重载脚本已在首次签发时执行成功。
 
 ## 上线验证
+
+- 当前6856文件均以HTTPS返回200且长度匹配本地；465篇5252页通过应用实际解析器与资源检查。
+- 465条扩展MP3的`Range: bytes=1024-2047`均返回206，Content-Range及1024字节响应逐条匹配本地。
+- 465篇完整索引字节匹配、no-cache；版本化资源immutable；缺失音频/图片/JS返回404。公网检查0失败。
+- 刷新后显示471篇、20页。搜索“蓝纹船”得1篇，《蓝纹船的肚子宽一点》实际播放到0:50并自动翻至第2页。
+- 暂停、收藏、手动翻页后为第6页127秒；刷新后继续阅读恢复第6页127秒、收藏及暂停状态。浏览器无error/warn，恢复阅读页截图实际目视通过。
+- 证据：`artifacts/expansion-465-live-http-verification.json`及`artifacts/expansion-465-live-{home,reader,restored}.png`。未在所有终端逐篇全程听完465条音轨。
+- 本次内容校验、应用解析器和生产导出通过。应用与部署脚本未变，沿用此前22项应用回归、TypeScript及9项部署测试；未将旧检查计为此次重跑。Nginx配置不变，正确二进制的`-t`通过。
+
+### 连续400篇扩展的历史验证
 
 - 当前5969文件均以HTTPS返回200且长度匹配本地；400篇4560页通过应用实际解析器及资源检查。
 - 400条扩展MP3的`Range: bytes=1024-2047`均返回206，Content-Range及1024字节响应逐条匹配本地。
