@@ -67,6 +67,9 @@ import {ninthOlderLastArtwork} from './expansion-art/ninth-older-last.mjs';
 import {tenthYoungFirstArtwork} from './expansion-art/tenth-young-first.mjs';
 import {tenthYoungLastArtwork} from './expansion-art/tenth-young-last.mjs';
 import {tenthMiddleFirstArtwork} from './expansion-art/tenth-middle-first.mjs';
+import {tenthMiddleLastArtwork} from './expansion-art/tenth-middle-last.mjs';
+import {tenthOlderFirstArtwork} from './expansion-art/tenth-older-first.mjs';
+import {tenthOlderLastArtwork} from './expansion-art/tenth-older-last.mjs';
 
 const ROOT=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const args=process.argv.slice(2), inputAt=args.indexOf('--input');
@@ -95,7 +98,7 @@ try{previous=await json(path.join(library,'index.json'));}catch(error){if(error.
 assert.equal(previous.schemaVersion,1);
 const index=new Map(previous.stories.map(s=>[s.id,s]));
 // Hash only registered, reviewed renderers. Unpublished artists may work in parallel.
-const artworkFiles=['first-three','young','middle','middle-extra','middle-last','older','second-young','second-middle','second-middle-last','second-older','second-older-last','third-young-first','third-young-last','third-middle-first','third-middle-last','third-older-first','third-older-last','fourth-young-first','fourth-young-last','fourth-middle-first','fourth-middle-last','fourth-older-first','fourth-older-last','fifth-young-first','fifth-young-last','fifth-middle-first','fifth-middle-last','fifth-older-first','fifth-older-last','sixth-young-first','sixth-young-last','sixth-middle-first','sixth-middle-last','sixth-older-first','sixth-older-last','seventh-young-first','seventh-young-last','seventh-middle-first','seventh-middle-last','seventh-older-first','eighth-young-first','eighth-young-last','eighth-middle-first','eighth-middle-last','seventh-older-last','eighth-older-last','ninth-young-first','eighth-older-first','ninth-young-last','ninth-older-first','ninth-middle-first','ninth-middle-last','ninth-older-last','tenth-young-first','tenth-young-last','tenth-middle-first'].map(name=>name+'.mjs').sort();
+const artworkFiles=['first-three','young','middle','middle-extra','middle-last','older','second-young','second-middle','second-middle-last','second-older','second-older-last','third-young-first','third-young-last','third-middle-first','third-middle-last','third-older-first','third-older-last','fourth-young-first','fourth-young-last','fourth-middle-first','fourth-middle-last','fourth-older-first','fourth-older-last','fifth-young-first','fifth-young-last','fifth-middle-first','fifth-middle-last','fifth-older-first','fifth-older-last','sixth-young-first','sixth-young-last','sixth-middle-first','sixth-middle-last','sixth-older-first','sixth-older-last','seventh-young-first','seventh-young-last','seventh-middle-first','seventh-middle-last','seventh-older-first','eighth-young-first','eighth-young-last','eighth-middle-first','eighth-middle-last','seventh-older-last','eighth-older-last','ninth-young-first','eighth-older-first','ninth-young-last','ninth-older-first','ninth-middle-first','ninth-middle-last','ninth-older-last','tenth-young-first','tenth-young-last','tenth-middle-first','tenth-middle-last','tenth-older-first','tenth-older-last'].map(name=>name+'.mjs').sort();
 const artworkHash=hash(Buffer.concat(await Promise.all([
  ...artworkFiles.map(name=>fs.readFile(path.join(ROOT,'scripts/expansion-art',name))),
  fs.readFile(path.join(ROOT,'scripts/render-illustrations.mjs')),
@@ -159,6 +162,9 @@ for(let id=356;id<=360;id++)renderers.set(id,ninthOlderLastArtwork);
 for(let id=361;id<=368;id++)renderers.set(id,tenthYoungFirstArtwork);
 for(let id=369;id<=376;id++)renderers.set(id,tenthYoungLastArtwork);
 for(let id=377;id<=383;id++)renderers.set(id,tenthMiddleFirstArtwork);
+for(let id=384;id<=390;id++)renderers.set(id,tenthMiddleLastArtwork);
+for(let id=391;id<=395;id++)renderers.set(id,tenthOlderFirstArtwork);
+for(let id=396;id<=400;id++)renderers.set(id,tenthOlderLastArtwork);
 const completed=[],skipped=[];
 for(const story of manuscripts){
  assert(/^expansion-\d{4}$/.test(story.id),'Invalid expansion ID');
