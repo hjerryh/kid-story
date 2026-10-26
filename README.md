@@ -64,4 +64,6 @@ npm run build:web
 
 新增的 500 篇故事及版本化图片、音频位于 `public/library/`，正文源稿位于 `content-expansion/`。可运行 `node scripts/validate-expansion.mjs --require-all` 检查交付范围的完整性。编号 0501 起的储备稿不属于此次交付，也未发布到网站。
 
+仓库另保留编号 0501–1000 的 500 篇储备稿及已有插图草稿，完成状态见[储备内容说明](content-expansion/RESERVES.md)。这些文件纳入版本管理不代表已完成媒体验收或上线。
+
 设计、实施计划与实际验证证据位于 `docs/`。网页版已部署；没有执行应用商店发布。
