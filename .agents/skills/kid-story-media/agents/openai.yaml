@@ -1,0 +1,4 @@
+interface:
+  display_name: "小小故事岛 · 图文配音"
+  short_description: "制作并核验本项目故事插图、普通话旁白、真实时间轴和版本化媒体"
+  default_prompt: "使用 $kid-story-media 处理指定已审故事的插图和配音，核验版本一致性后按本次范围入库。"

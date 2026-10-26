@@ -67,3 +67,15 @@ npm run build:web
 仓库另保留编号 0501–1000 的 500 篇储备稿及已有插图草稿，完成状态见[储备内容说明](content-expansion/RESERVES.md)。这些文件纳入版本管理不代表已完成媒体验收或上线。
 
 设计、实施计划与实际验证证据位于 `docs/`。网页版已部署；没有执行应用商店发布。
+
+## 项目内 Skills
+
+项目专用 skill 保存在 `.agents/skills/`，随仓库版本管理，直接引用本项目脚本和决策文档。支持项目级 skill 发现的工具可从该目录加载；其他工具可按下表读取对应 `SKILL.md`。
+
+| Skill | 用途 | 调用示例 |
+| --- | --- | --- |
+| [kid-story-content](.agents/skills/kid-story-content/SKILL.md) | 分龄正文、分镜与全文审稿，维护储备状态 | `使用 $kid-story-content 审阅0605–0608，仅更新正文和审稿记录。` |
+| [kid-story-media](.agents/skills/kid-story-media/SKILL.md) | 逐页插图、配音、时间轴与媒体入库验收 | `使用 $kid-story-media 检查第0500篇的图文和配音是否一致。` |
+| [kid-story-release](.agents/skills/kid-story-release/SKILL.md) | 网页生产导出、增量部署和线上验证 | `使用 $kid-story-release 准备本次发布包，暂不部署。` |
+
+Skill 是执行指南；当前交付范围、部署状态和储备边界仍以 `docs/` 与 `content-expansion/RESERVES.md` 为准。提交 skill 不会自动制作故事或部署网站。

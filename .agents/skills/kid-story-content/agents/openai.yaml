@@ -1,0 +1,4 @@
+interface:
+  display_name: "小小故事岛 · 故事审稿"
+  short_description: "维护本项目分龄故事、逐页分镜、全文审稿证据与未发布储备状态"
+  default_prompt: "使用 $kid-story-content 处理本次指定的故事编号，按项目规则审阅正文和分镜，并记录真实完成状态。"
